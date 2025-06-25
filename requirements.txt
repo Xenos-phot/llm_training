@@ -1,0 +1,9 @@
+torch
+transformers
+unsloth
+openai
+requests
+Pillow
+opencv-python
+python-dotenv
+numpy

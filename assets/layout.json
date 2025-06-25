@@ -1,0 +1,58 @@
+{
+    "centered_hero": [
+        "the product image in the center, with center aligned heading and sub-heading above it and key features text below it with price and cta, with proper spacing covering the entire height of the banner.",
+        "The features layer text content should be in a single line. It can be tagline also.",
+        "There must not be large gap at the top and bottom of banner.",
+        "The Heading and Subheading should have decent padding between them. The Feature text, Price and CTA should have proper padding between them. The image layer should be placed at the center between subheading and feature text.",
+        "The Heading should be large enough to occupy most of the width of the banner. The width of subheading and next text layers should be in decreasing order placed below it, with proper padding and alignment."
+    ],
+    "minimalist_center": [
+        "a Single dominant product image in the center with minimal text.",
+        "Do not include feature layer. Heading and subheading should be above the image. Price and cta should be below the image.",
+        "There must not be large gap at the top and bottom of banner.",
+        "The Heading and Subheading should have decent padding, with good size proportion between them. The Price and CTA should have proper padding, with good size proportion between them. The image layer should be placed at the center between subheading and feature text.",
+        "The Heading should be large enough to occupy most of the width of the banner. The width of subheading and next text layers should be in decreasing order placed below it, with proper padding and alignment."
+    ],
+    "circular_focus": [
+        "a Central circular design element with content radiating outward. With heading, subheading above the image, and feature text and cta below the image, and the price text right side of the product image.",
+        "The features layer text content should be in a single line. It can be tagline also.",
+        "There must not be large gap at the top and bottom of banner.",
+        "The Heading and Subheading should have decent padding with good size proportion between them. The Feature text, and CTA should have proper padding with good size proportion between them. The image layer should be placed at the center, between subheading and feature text layer.",
+        "The Heading should be large enough to occupy most of the width of the banner. The width of subheading and next text layers should be in decreasing order placed below it, with proper padding and alignment."
+    ],
+    "split_vertical": [
+        "the 70-30 division with text content on one side with 70% width and product image on the other side with 30% width. The sides can be switched",
+        "Key feature points must be limited to 3. And do not include too much text.",
+        "Entire product image should be visible. The image should be scaled and placed such that there is no overlap with text. Use top and left properties to ensure this.",
+        "The text layers should be large with proper padding to occupy entire height of the banner."
+    ],
+    "grid_four": [
+        "the background divided into four quadrants for multiple features placed according to best product advertisement banners. Text and image stays in the center of the own quadrant.",
+        "Key feature points must be limited to 4. And do not include too much text.",
+        "The first quadrant should have heading and subheading. The second quadrant should have image. The third quadrant should have feature text. The fourth quadrant should have price and cta.",
+        "The text layer should be highlighted at the center of their own quadrant."
+    ],
+    "z_pattern": [
+        "the Content arranged in a Z-pattern following natural eye movement. Effective for sequential information presentation.",
+        "Key feature points must be limited to 4. And do not include too much text.",
+        "The image MUST be scaled and placed so that their is no overlap with text. Use top and left properties to ensure this.",
+        "Heading and subheading should be top left covering most of the widht. product image will be below the subheading towards the right side of the banner. Feature text should be below the image, towards the left side of the banner. Price and cta should be below the feature text, towards the right side of the banner."
+    ],
+    "frame_layout": [
+        "the Content framed by design elements creating a focused viewing area. Elegant and sophisticated presentation.",
+        "Key feature points must be limited to 4. And do not include too much text.",
+        "The text should be left aligned, inside the frame and should be spread with proper padding to occupy entire height of the banner.",
+        "Heading should be large enough to occupy most of the width of the banner. The width of subheading, feature text, price and cta should be in decreasing order placed below it, with proper padding and alignment. ",
+        "There must not be large gap at the top and bottom of banner.",
+        "The heading and subheading should be closer with good padding between them, feature text in the middle, price and cta should be closer with good padding between them. Do appropriate padding between them.",
+        "The image should be placed at right side(more towards the bottom), inside the frame. It should be large enough to cover the entire area not covered by text layers(price and cta) inside the banner"
+    ],
+    "diagonal_split": [
+        "the Background split diagonally(top-right to bottom-left) using lines and shapes, with text content on one side of the division and image on the other side of the division. The text color for all text MUST be different from the background.",
+        "Key feature points must be limited to 4. And do not include too much text.",
+        "The text should be left aligned should be spread with proper padding to occupy entire height of the banner The text width should decrease along the diagonal line.",
+        "Heading should be at the top covering the entire width of the banner( ending along the diagonal line). The width of subheading, feature text, price and cta should be in decreasing order placed below it, ending along the diagonal line, with proper padding and alignment. ",
+        "The heading and subheading should be closer, feature text in the middle, price and cta should be closer. Do appropriate padding between them.",
+        "The image should be placed at right side(other side of the diagonal line) of the banner,covering the entire area, not covered by text inside the banner"
+    ]
+}
