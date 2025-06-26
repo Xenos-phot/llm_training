@@ -7,3 +7,4 @@ Pillow
 opencv-python
 python-dotenv
 numpy
+wandb
