@@ -1,9 +1,4 @@
 import openai
-import requests
-import json
-import base64
-from io import BytesIO
-from PIL import Image
 import os
 import re
 from dotenv import load_dotenv

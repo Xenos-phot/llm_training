@@ -1,12 +1,11 @@
 import json
 from unsloth import FastLanguageModel
-import os
 import torch
-from transformers import TextStreamer
 import time
 from PIL import Image
 import requests
 from banner_utils.create_condensed_data import get_original_data
+from banner_utils.add_color_pallete import get_color_pallete
 
 def load_model(checkpoint_path):
     """Load the fine-tuned model from checkpoint"""
@@ -19,7 +18,7 @@ def load_model(checkpoint_path):
     )
     return model, tokenizer
 
-def prepare_input(product_name, product_description, product_price, layout, layout_template):
+def prepare_input(product_name, product_description, product_price, layout, layout_template, product_color="", fontFamilyList=None):
     """Prepare input text for the model based on training format"""
     
     # Handle empty fields as in training
@@ -30,9 +29,23 @@ def prepare_input(product_name, product_description, product_price, layout, layo
     if product_price == "":
         product_price = "Product Price Not Available"
     
+    important_fields = {
+        "svg": ["top", "left", "width", "height", "src", "id"],
+        "text": ["top", "left", "width", "height", "fill", "text", "fontSize", "fontFamily", "textAlign", "id"],
+        "image": ["top", "left", "width", "height", "src", "id"],
+        "rect": ["top", "left", "width", "height", "fill", "rx", "ry", "id"],
+        "circle": ["top", "left", "width", "height", "fill", "radius", "id"],
+        "path": ["top", "left", "width", "height", "fill", "path", "id"]
+    }
+    
     layout_description = " ".join(layout_template.get(layout, ["centered_hero"]))
     
-    input_text = f'I want you to create a beautiful advertisement banner, following the best practices in form of condensed fabricjs json for the given product with the following details:\n\n##Product Details:\n\n **Product Name:** {product_name}\n **Product Description:** {product_description}\n **Product Price:** {product_price}\n\n. The banner should follow the {layout} layout\n\n###Layout Description:\n\n {layout_description}.\n\n Think step by step and then create the banner. '
+    input_text = f"I want you to create a beautiful advertisement banner of dimension 1080*1080, following the best practices, in form of condensed FabricJs json(with less keys), for the given product with the following details:\n\n\n##Product Details:\n\n **Product Name:** {product_name}\n **Product Description:** {product_description}\n **Product Price:** {product_price}\n\n **Product Color:** {product_color}\n\n\n.The banner should follow the {layout} layout\n ###Layout Description:\n\n {layout_description}.\n\n\n##Instructions:\n\n 1. Create a banner in condensed fabric js format, which have following important keys for given layer type: \n{json.dumps(important_fields)}.\n2. Focus on placement of layers to give a beautiful banner in given layout, with proper spacing between each layer. Make sure no two text layers overlap each other and entire banner is visible in 1080*1080 canvas. \n  2.1 Use *top*(y coordinate of top-left of the layer), *left*(x coordinate of top-left of the layer), *width*(width of the layer), *height*(height of the layer) keys. \n2.2 the text width and height don't have an effect in fabricjs, so place them correctly using  *top*, *left* and *fontSize* keys."
+    
+    if fontFamilyList:
+        input_text += f"\n 3.You must strictly choose fontFamily for the text layers from the following list: {json.dumps(fontFamilyList)}."
+    
+    input_text += "\n\n Think step by step and then create the banner."
     
     return input_text
 
@@ -94,14 +107,30 @@ def extract_json_from_response(response):
 
 def test_model(product_name, product_description, product_price, layout, image_url, model=None, tokenizer=None):
     # Load layout template (from training script)
-    layout_file = "layout.json"
+    layout_file = "assets/layout.json"
+    fonts_file = "assets/fonts.json"
     checkpoint_path = "/home/ubuntu/rishabh/llm_training/model/checkpoint-2102"
+    
     try:
         with open(layout_file, "r") as f:
             layout_template = json.load(f)
     except FileNotFoundError:
         print("Layout template not found, using default")
         layout_template = {"frame_layout": ["frame layout with decorative elements"]}
+    
+    # Load fonts
+    try:
+        with open(fonts_file, "r") as f:
+            fonts = json.load(f)
+            fontFamilyList = list(fonts.get("english", {}).keys())
+    except FileNotFoundError:
+        print("Fonts file not found, using None")
+        fontFamilyList = None
+    
+    # Generate color palette description from image
+    print("Generating color palette from image...")
+    product_color = get_color_pallete(image_url)
+    print(f"Generated color palette: {product_color[:100]}...")
     
     # Load the model - using the latest checkpoint
     print(f"Loading model from {checkpoint_path}...")
@@ -110,7 +139,7 @@ def test_model(product_name, product_description, product_price, layout, image_u
     
     
     # Prepare input
-    input_text = prepare_input(product_name, product_description, product_price, layout, layout_template)
+    input_text = prepare_input(product_name, product_description, product_price, layout, layout_template, product_color, fontFamilyList)
     print("Input prepared:")
     print("-" * 50)
     print(input_text[:500] + "..." if len(input_text) > 500 else input_text)
@@ -141,7 +170,8 @@ def test_model(product_name, product_description, product_price, layout, image_u
 #     product_description = "Spacious Stylish Design\nPremium Faux Leather Material\nGold Hardware Accents\nVersatile Everyday Carry"
 #     product_price = "$65.00"
 #     layout = "centered_hero"
-#     generated_json = test_model(product_name, product_description, product_price, layout)
+#     image_url = "https://example.com/image.jpg"  # Replace with actual image URL
+#     generated_json = test_model(product_name, product_description, product_price, layout, image_url)
 #     print(generated_json)
 
   
