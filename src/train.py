@@ -98,17 +98,29 @@ def load_model():
 def main():
     # Load data from environment
     model, tokenizer = load_model()
-    data_path = "final_data"
-    training_data = []
+    data_path = "final_data"     
+    training_data = [] 
+    eval_data=[]
+    layouts = {"centered_hero": 0, "minimalist_center": 0, "circular_focus": 0, "split_vertical": 0, "grid_four": 0, "z_pattern": 0, "frame_layout": 0, "diagonal_split": 0}
     for file in os.listdir(data_path):
         with open(os.path.join(data_path, file), "r") as f:
-            training_data.append(json.load(f))
+            json_data = json.load(f)
+            layout = json_data["input"]["layout"]
+            assert layout in layouts, f"Layout {layout} not found in layouts"
+            layouts[layout] += 1
+            training_data.append(json_data)
+            if layouts[layout] <  5:
+                eval_data.append(json_data)
+            else:
+                training_data.append(json_data)
+
     dataset = data_prep(training_data, tokenizer, fontFamilyList=list(fonts.keys()))
+    eval_dataset = data_prep(eval_data, tokenizer, fontFamilyList=list(fonts.keys()))
     trainer = SFTTrainer(
         model=model,
         tokenizer=tokenizer,
         train_dataset=dataset,
-        eval_dataset=None,
+        eval_dataset=eval_dataset,
         args=SFTConfig(
             output_dir="model",
             dataset_text_field="text",
