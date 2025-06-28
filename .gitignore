@@ -1,3 +1,9 @@
 credentials.json
 *.pyc
 .env
+venv/
+model/
+unsloth*
+wandb/
+input_text.txt
+testing/input_test_text.txt

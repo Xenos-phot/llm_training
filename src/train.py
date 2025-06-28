@@ -4,23 +4,30 @@ import pandas as pd
 from datasets import Dataset
 from trl import SFTTrainer, SFTConfig
 import os
-with open("assets/fonts.json", "r") as f:
-    fonts = json.load(f)
-    fonts = fonts["english"]
+import numpy as np
+
 
 with open("assets/layout.json", "r") as f:
     layout_template = json.load(f)
 
 
-def json_dataset(data, fontFamilyList:list[str]):
+def json_dataset(data):
     conversations=[]
     for item in data:
         item_input = item['input']
-        product_name = item_input.get("product_name", "")
+        item_output = item['output']
         product_details = item_input.get("product_details", "")
-        product_price = item_input.get("product_price", "")
+        product_name = product_details.get("name", "")
+        product_price = product_details.get("price", "")
         product_color = item.get("product_color", "")
+        product_description = product_details.get("description", "")
         layout = item_input.get("layout", "centered_hero")
+        fontFamilyList = []
+        for layers in item_output["objects"]:
+            layer_font_family = layers.get("fontFamily", "")
+            if layer_font_family not in fontFamilyList:
+                fontFamilyList.append(layer_font_family)
+
 
         important_fields = {
             "svg": ["top", "left", "width", "height", "src", "id"],
@@ -33,22 +40,36 @@ def json_dataset(data, fontFamilyList:list[str]):
 
         if product_name == "":
             product_name = "Product Name Not Available"
-        if product_details == "":
-            product_details = "Product Details Not Available"
+        if product_description == "":
+            product_description = "Product Description Not Available"
         if product_price == "":
             product_price = "Product Price Not Available"
 
         layout_description = " ".join(layout_template[layout])
 
-        input_text = f"I want you to create a beautiful advertisement banner of dimension 1080*1080, following the best practices, in form of condensed FabricJs json(with less keys), for the given product with the following details:\n\n\n##Product Details:\n\n **Product Name:** {product_name}\n **Product Description:** {product_details}\n **Product Price:** {product_price}\n\n **Product Color:** {product_color}\n\n\n.The banner should follow the {layout} layout\n ###Layout Description:\n\n {layout_description}.\n\n\n##Instructions:\n\n 1. Create a banner in condensed fabric js format, which have following important keys for given layer type: \n{json.dumps(important_fields)}.\n2. Focus on placement of layers to give a beautiful banner in given layout, with proper spacing between each layer. Make sure no two text layers overlap each other and entire banner is visible in 1080*1080 canvas. \n  2.1 Use *top*(y coordinate of top-left of the layer), *left*(x coordinate of top-left of the layer), *width*(width of the layer), *height*(height of the layer) keys. \n2.2 the text width and height don't have an effect in fabricjs, so place them correctly using  *top*, *left* and *fontSize* keys.  \n 3.You must strictly choose fontFamily for the text layers from the following list: {json.dumps(fontFamilyList)}.\n\n Think step by step and then create the banner."
+        input_text = f"I want you to create a beautiful advertisement banner of dimension 1080*1080, following the best practices, in form of condensed FabricJs json(with less keys), for the given product with the following details:\n\n\n##Product Details:\n\n **Product Name:** {product_name}\n **Product Description:** {product_description}\n **Product Price:** {product_price}\n\n **Product Color:** {product_color}\n\n\n.The banner should follow the {layout} layout\n ###Layout Description:\n\n {layout_description}.\n\n\n##Instructions:\n\n 1. Create a banner in condensed fabric js format, which have following important keys for given layer type: \n{json.dumps(important_fields)}.\n2. Focus on placement of layers to give a beautiful banner in given layout, with proper spacing between each layer. Make sure no two text layers overlap each other and entire banner is visible in 1080*1080 canvas. \n  2.1 Use *top*(y coordinate of top-left of the layer), *left*(x coordinate of top-left of the layer), *width*(width of the layer), *height*(height of the layer) keys. \n2.2 the text width and height don't have an effect in fabricjs, so place them correctly using  *top*, *left* and *fontSize* keys.  \n 3.You must strictly choose fontFamily for the text layers from the following list: {json.dumps(fontFamilyList)}.\n\n Think step by step and then create the banner."
         
         
-        reasoning_text = f"Let me think step-by-step. I have to make sure that no two text layers overlap, and maintain proportional spacing between each layer to support a natural visual flow for the viewer, following the layout, {layout}. So I have to place layers carefully using *top*(y coordinate of top-left of the layer), *left*(x coordinate of top-left of the layer), *width*(width of the layer), *height*(height of the layer) keys. But for the text width and height don't have an effect in fabricjs, so I will place them correctly using  *top*, *left* and *fontSize* keys. The text must be readable, with contrasting color to the background, with suitable svg for the background. Let me give an overview of the banner: \n\n"+ item['banner_details']+ "\nNow I will create the banner."
+        reasoning_text = f"Let me think step-by-step for creating a 1080*1080 banner for the product: {product_name}. I have to make sure that no two text layers overlap, and maintain proportional spacing between each layer to support a natural visual flow for the viewer, following the layout, {layout}. The text must be readable, with contrasting color to the background, with suitable svg for the background. Let me give an overview of the banner: \n\n"+ item['banner_details']+ "\nNow I will create the banner."
         
         
         output_text = f'{json.dumps(item["output"])}'
+
+        with open("input_text.txt", "w") as f:
+            f.write(input_text)
+            f.write("\n\n---------------------------------\n\n")
+            f.write(reasoning_text)
+            f.write("\n\n---------------------------------\n\n")
+            f.write(output_text)
+            f.write("\n\n---------------------------------\n\n")
+
+
+
         conversations.append({"input":input_text,
                               "output":f"\n<think>\n{reasoning_text}\n</think>\n Here is your condensed FabricJS JSON:\n<json>{output_text}</json>"})
+        
+
+
     df = Dataset.from_pandas(pd.DataFrame(conversations))
     return df
 def generate_conversation(df_data):
@@ -62,11 +83,31 @@ def generate_conversation(df_data):
         ])
     return { "conversations": conversations }
 
-def data_prep(data, tokenizer, fontFamilyList:list[str]):
-    df_data=json_dataset(data, fontFamilyList)
+def data_prep(data, tokenizer):
+    df_data=json_dataset(data)
+    
     template_conversations = tokenizer.apply_chat_template(
     df_data.map(generate_conversation, batched = True)["conversations"],
     tokenize = False)
+    
+    # Count tokens for each sample
+    token_counts = []
+    for text in template_conversations:
+        tokens = tokenizer.encode(text)
+        token_count = len(tokens)
+        token_counts.append(token_count)
+    
+    # Print token statistics
+    print(f"\n=== Token Count Statistics ===")
+    print(f"Total samples: {len(token_counts)}")
+    print(f"Min tokens: {min(token_counts)}")
+    print(f"Max tokens: {max(token_counts)}")
+    print(f"Mean tokens: {np.mean(token_counts):.2f}")
+    print(f"Median tokens: {np.median(token_counts):.2f}")
+    print(f"95th percentile: {np.percentile(token_counts, 95):.2f}")
+    print(f"Samples > 8192 tokens: {sum(1 for count in token_counts if count > 8192)}")
+    print("===============================\n")
+    
     data = pd.Series(template_conversations, name="text")
     combined_dataset = Dataset.from_pandas(pd.DataFrame(data))
     combined_dataset = combined_dataset.shuffle(seed=42)
@@ -108,14 +149,15 @@ def main():
             layout = json_data["input"]["layout"]
             assert layout in layouts, f"Layout {layout} not found in layouts"
             layouts[layout] += 1
-            training_data.append(json_data)
             if layouts[layout] <  5:
                 eval_data.append(json_data)
             else:
                 training_data.append(json_data)
 
-    dataset = data_prep(training_data, tokenizer, fontFamilyList=list(fonts.keys()))
-    eval_dataset = data_prep(eval_data, tokenizer, fontFamilyList=list(fonts.keys()))
+    dataset = data_prep(training_data, tokenizer)
+    eval_dataset = data_prep(eval_data, tokenizer)
+    print("Training data size: ", len(dataset))
+    print("Eval data size: ", len(eval_dataset))
     trainer = SFTTrainer(
         model=model,
         tokenizer=tokenizer,
@@ -124,18 +166,20 @@ def main():
         args=SFTConfig(
             output_dir="model",
             dataset_text_field="text",
-            per_device_train_batch_size=2,
-            gradient_accumulation_steps=4,
-            warmup_steps=5,
-            num_train_epochs=30,
-            learning_rate= 2e-4,
-            logging_steps=1,
-            optim="adamw_8bit",
-            weight_decay=0.01,
-            lr_scheduler_type="linear",
-            save_strategy="steps",
-            save_steps=100,
-            save_total_limit=100,
+            per_device_train_batch_size=2,#batch size per device
+            gradient_accumulation_steps=4,#gradient accumulation steps
+            warmup_steps=5,#warmup steps
+            num_train_epochs=30,#number of epochs
+            learning_rate= 2e-4,#learning rate
+            logging_steps=1,#log every 1 step
+            optim="adamw_8bit",#adamw optimizer with 8-bit quantization
+            weight_decay=0.01,#weight decay for regularization
+            lr_scheduler_type="linear",#linear learning rate scheduler
+            save_strategy="steps", 
+            save_steps=50,#save every 100 steps
+            save_total_limit=100,#save only last 100 checkpoints
+            eval_strategy="steps",  # Enable evaluation during training
+            eval_steps=50,          # Evaluate every 50 steps,
             report_to="wandb",
     ))
 

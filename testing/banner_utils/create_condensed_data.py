@@ -219,7 +219,7 @@ def create_condensed_data(file_path, output_folder="condensed_data"):
     with open(os.path.join(output_folder, file_path.split("/")[-1]), "w") as f:
         json.dump(data, f)
 
-def get_original_data(condensed_json, product_image_shape, fonts=json.load(open("assets/fonts.json", "r"))["english"]):
+def get_original_data(condensed_json, product_image_shape, fonts=json.load(open("../assets/fonts.json", "r"))["english"]):
     original_data = condensed_json.copy()
     for idx, layer in enumerate(condensed_json['objects']):
         if layer["type"] in GENERAL_LAYERS:

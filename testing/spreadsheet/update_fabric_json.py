@@ -22,7 +22,7 @@ class UpdateFabricJson:
             spreadsheet_name (str): Name of the Google Spreadsheet
         """
         self.spreadsheet_name = spreadsheet_name
-        self.credentials_file = credentials_file or os.getenv('GOOGLE_CREDENTIALS_FILE')
+        self.credentials_file = 'credentials.json'
         
         # Scopes required for Google Sheets API
         self.scopes = [
