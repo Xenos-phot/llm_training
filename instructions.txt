@@ -1,0 +1,2 @@
+docker build --build-arg TOKEN={github_token} -t banner_training .
+docker run --volume $PWD:/images-log --restart on-failure -d -it -p 8000:8000 -p 8268:8265  --gpus all --name bg_replacer_comfy bg_replacer_comfy

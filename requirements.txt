@@ -1,4 +1,4 @@
-torch
+torch==2.7.0
 transformers
 unsloth
 openai
@@ -8,3 +8,17 @@ opencv-python
 python-dotenv
 numpy
 wandb
+openai
+python-dotenv
+fal-client
+boto3
+opencv-python
+numpy
+anthropic
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+gspread
+ray[serve]
+protobuf==3.20.3
