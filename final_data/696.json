@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 1, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#2E8B57'/><rect x='540' y='0' width='540' height='540' fill='#1E5945'/><rect x='0' y='540' width='540' height='540' fill='#3A9D74'/><rect x='540' y='540' width='540' height='540' fill='#F5F5DC'/><g opacity='0.2'><circle cx='270' cy='270' r='200' fill='#FFFFFF'/><circle cx='810' cy='810' r='200' fill='#2E8B57'/></g><g transform='translate(50, 50)'><path d='M0 100 Q 40 60, 80 100 T 160 100 T 240 100 T 320 100' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.3'/></g><g transform='translate(750, 150)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><g transform='translate(750, 750)'><path d='M0 0 L30 30 M0 30 L30 0' stroke='#2E8B57' stroke-width='2'/><path d='M50 0 L80 30 M50 30 L80 0' stroke='#2E8B57' stroke-width='2'/><path d='M100 0 L130 30 M100 30 L130 0' stroke='#2E8B57' stroke-width='2'/></g><g opacity='0.1'><path d='M0 540 L1080 540' stroke='#000000' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#000000' stroke-width='2'/></g><path d='M0 0 L100 100 L200 50 L300 150' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.2' transform='translate(50, 400)'/><path d='M0 0 Q 50 -50, 100 0 T 200 0 T 300 0' stroke='#2E8B57' stroke-width='3' fill='none' opacity='0.3' transform='translate(600, 900)'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 425, "height": 113, "fill": "#FFFFFF", "text": "PREMIUM", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 50, "width": 201.04, "height": 90.4, "fill": "#FFFFFF", "text": "CBD", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 260, "left": 50, "width": 378.72, "height": 90.4, "fill": "#FFFFFF", "text": "ROLL-ON", "fontSize": 80, "fontFamily": "AHOY-Regular", "textAlign": "left", "id": "heading_3"}, {"type": "text", "top": 350, "left": 50, "width": 465.85, "height": 22.6, "fill": "#F5F5DC", "text": "NATURAL WELLNESS SOLUTION", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 407.83, "height": 174.02, "fill": "#FFFFFF", "text": "\u2022 TARGETED RELIEF APPLICATION\n\u2022 MULTIPLE THERAPEUTIC BLENDS\n\u2022 FAST-ABSORBING FORMULA\n\u2022 PORTABLE TRAVEL-FRIENDLY SIZE", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 259.3, "height": 113, "fill": "#FFFFFF", "text": "\u20b9999", "fontSize": 100, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 50, "width": 220, "height": 70, "fill": "#F5F5DC", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 967, "left": 85, "width": 166.05, "height": 36.16, "fill": "#2E8B57", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 817, "left": 672, "width": 320.91, "height": 36.16, "fill": "#2E8B57", "text": "LIMITED TIME OFFER", "fontSize": 32, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "offer_text"}, {"type": "image", "top": 100, "left": 560, "width": 1031, "height": 863, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/7U-XhPERM9YAkwkr4rCw6_1031x863.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium CBD Roll-On Collection: Your Natural Wellness Solution", "description": "\u2022 Convenient roll-on applicator for targeted, mess-free application\n\u2022 Available in multiple therapeutic formulations\n\u2022 Made with high-quality CBD extract for maximum effectiveness\n\u2022 Portable size perfect for on-the-go relief\n\u2022 Fast-absorbing formula for quick results\n\u2022 Natural ingredients for safe, daily use\n\u2022 Easy-to-use packaging design\n\u2022 Long-lasting effects for sustained relief\n\u2022 Travel-friendly size fits in any purse or pocket\n\u2022 Different varieties to address various wellness needs", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/7U-XhPERM9YAkwkr4rCw6_1031x863.png", "marketplace_url": "https://images.pexels.com/photos/3616980/pexels-photo-3616980.jpeg", "layout": "grid_four"}, "banner_details": "\nThe banner is split into four equal quadrants with a clean, modern design focusing on a wellness product. The top-left quadrant features bold, stacked text layers (\"heading_1\", \"heading_2\", and \"heading_3\") with a supporting tagline (\"tagline\"), all overlaying a subtle, semi-transparent circular graphic. Adjacent to this, the top-right quadrant showcases a photo of two hands interacting with product vials, adding a lifestyle touch to the design (\"product_image\"). The bottom-left quadrant presents a bullet-point list (\"description\") detailing product benefits, a large price point (\"price\"), and a call-to-action button composed of a rectangular shape (\"cta_background\") with centered text (\"cta\"). The bottom-right quadrant emphasizes urgency with a large circular graphic and a bold promotional statement (\"offer_text\"), complemented by abstract iconography adding visual interest. \n\n**Color Palette**:\n- Forest Green (#2E8B57)\n- Deep Teal (#1E5945)\n- Medium Sea Green (#3A9D74)\n- Beige (#F5F5DC)\n- White (#FFFFFF)\n\nOverall, the banner uses minimal typography with a strong hierarchical layout, balancing promotional content and visual elements.\n", "product_color": "  \nThe product image features a balanced, soothing color palette ideal for wellness-themed branding. Dominant hues include soft lavender (#A88ED1) from the lavender essential oil, calming teal (#8ECAC5) on the CBD bottle, and a refreshing sage green (#C3D9AD) from the eucalyptus-infused product. These colors are blended gently with gradients and complemented by the clean black caps (#1B1B1B) that add structure and contrast. The hand tones offer a natural, warm backdrop (#D6BDAF), enhancing the organic theme. For an advertisement banner, use these hues to evoke a sense of calm, wellness, and trust while maintaining vibrant, earthy appeal for visual harmony.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 1,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#2E8B57'/><rect x='540' y='0' width='540' height='540' fill='#1E5945'/><rect x='0' y='540' width='540' height='540' fill='#3A9D74'/><rect x='540' y='540' width='540' height='540' fill='#F5F5DC'/><g opacity='0.2'><circle cx='270' cy='270' r='200' fill='#FFFFFF'/><circle cx='810' cy='810' r='200' fill='#2E8B57'/></g><g transform='translate(50, 50)'><path d='M0 100 Q 40 60, 80 100 T 160 100 T 240 100 T 320 100' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.3'/></g><g transform='translate(750, 150)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><g transform='translate(750, 750)'><path d='M0 0 L30 30 M0 30 L30 0' stroke='#2E8B57' stroke-width='2'/><path d='M50 0 L80 30 M50 30 L80 0' stroke='#2E8B57' stroke-width='2'/><path d='M100 0 L130 30 M100 30 L130 0' stroke='#2E8B57' stroke-width='2'/></g><g opacity='0.1'><path d='M0 540 L1080 540' stroke='#000000' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#000000' stroke-width='2'/></g><path d='M0 0 L100 100 L200 50 L300 150' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.2' transform='translate(50, 400)'/><path d='M0 0 Q 50 -50, 100 0 T 200 0 T 300 0' stroke='#2E8B57' stroke-width='3' fill='none' opacity='0.3' transform='translate(600, 900)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 425,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 201.04,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "CBD",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 260,
+                "left": 50,
+                "width": 378.72,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "ROLL-ON",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "left",
+                "id": "heading_3"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 50,
+                "width": 465.85,
+                "height": 22.6,
+                "fill": "#F5F5DC",
+                "text": "NATURAL WELLNESS SOLUTION",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 407.83,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "\u2022 TARGETED RELIEF APPLICATION\n\u2022 MULTIPLE THERAPEUTIC BLENDS\n\u2022 FAST-ABSORBING FORMULA\n\u2022 PORTABLE TRAVEL-FRIENDLY SIZE",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 259.3,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "\u20b9999",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#F5F5DC",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 967,
+                "left": 85,
+                "width": 166.05,
+                "height": 36.16,
+                "fill": "#2E8B57",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 817,
+                "left": 672,
+                "width": 320.91,
+                "height": 36.16,
+                "fill": "#2E8B57",
+                "text": "LIMITED TIME OFFER",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "offer_text"
+            },
+            {
+                "type": "image",
+                "top": 100,
+                "left": 560,
+                "width": 463.95,
+                "height": 388.35,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/7U-XhPERM9YAkwkr4rCw6_1031x863.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium CBD Roll-On Collection: Your Natural Wellness Solution",
+            "description": "\u2022 Convenient roll-on applicator for targeted, mess-free application\n\u2022 Available in multiple therapeutic formulations\n\u2022 Made with high-quality CBD extract for maximum effectiveness\n\u2022 Portable size perfect for on-the-go relief\n\u2022 Fast-absorbing formula for quick results\n\u2022 Natural ingredients for safe, daily use\n\u2022 Easy-to-use packaging design\n\u2022 Long-lasting effects for sustained relief\n\u2022 Travel-friendly size fits in any purse or pocket\n\u2022 Different varieties to address various wellness needs",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/7U-XhPERM9YAkwkr4rCw6_1031x863.png",
+        "marketplace_url": "https://images.pexels.com/photos/3616980/pexels-photo-3616980.jpeg",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner is split into four equal quadrants with a clean, modern design focusing on a wellness product. The top-left quadrant features bold, stacked text layers (\"heading_1\", \"heading_2\", and \"heading_3\") with a supporting tagline (\"tagline\"), all overlaying a subtle, semi-transparent circular graphic. Adjacent to this, the top-right quadrant showcases a photo of two hands interacting with product vials, adding a lifestyle touch to the design (\"product_image\"). The bottom-left quadrant presents a bullet-point list (\"description\") detailing product benefits, a large price point (\"price\"), and a call-to-action button composed of a rectangular shape (\"cta_background\") with centered text (\"cta\"). The bottom-right quadrant emphasizes urgency with a large circular graphic and a bold promotional statement (\"offer_text\"), complemented by abstract iconography adding visual interest. \n\n**Color Palette**:\n- Forest Green (#2E8B57)\n- Deep Teal (#1E5945)\n- Medium Sea Green (#3A9D74)\n- Beige (#F5F5DC)\n- White (#FFFFFF)\n\nOverall, the banner uses minimal typography with a strong hierarchical layout, balancing promotional content and visual elements.\n",
+    "product_color": "  \nThe product image features a balanced, soothing color palette ideal for wellness-themed branding. Dominant hues include soft lavender (#A88ED1) from the lavender essential oil, calming teal (#8ECAC5) on the CBD bottle, and a refreshing sage green (#C3D9AD) from the eucalyptus-infused product. These colors are blended gently with gradients and complemented by the clean black caps (#1B1B1B) that add structure and contrast. The hand tones offer a natural, warm backdrop (#D6BDAF), enhancing the organic theme. For an advertisement banner, use these hues to evoke a sense of calm, wellness, and trust while maintaining vibrant, earthy appeal for visual harmony.  \n"
+}

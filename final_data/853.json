@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bg' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#FFF0F5'/><stop offset='100%' stop-color='#FFD1DC'/></radialGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F9A7B0'/><stop offset='100%' stop-color='#E57373'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><circle cx='540' cy='540' r='320' fill='white' stroke='#F9A7B0' stroke-width='3'/><circle cx='540' cy='540' r='300' fill='white'/><circle cx='840' cy='400' r='120' fill='url(#accent)'/><g opacity='0.4'><circle cx='200' cy='200' r='8' fill='#E57373'/><circle cx='240' cy='160' r='5' fill='#E57373'/><circle cx='280' cy='220' r='6' fill='#E57373'/><circle cx='850' cy='800' r='8' fill='#E57373'/><circle cx='800' cy='850' r='5' fill='#E57373'/><circle cx='880' cy='780' r='6' fill='#E57373'/></g><path d='M180,280 C220,250 260,280 300,250' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M780,780 C820,750 860,780 900,750' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M450,180 L470,150 L490,180' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M590,180 L610,150 L630,180' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M450,900 L470,870 L490,900' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M590,900 L610,870 L630,900' stroke='#F9A7B0' stroke-width='2' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 121.065, "width": 837.87, "height": 79.1, "fill": "#C9366F", "text": "ELEVATE HER ELEGANCE", "fontSize": 70, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 279.525, "width": 520.95, "height": 56.5, "fill": "#D9587A", "text": "Timeless Beauty Awaits", "fontSize": 50, "fontFamily": "Cormorant SC Light", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 891.58, "left": 180.28500000000003, "width": 719.43, "height": 38.42, "fill": "#C9366F", "text": "\u2022 925 Sterling Silver \u2022 Gift for Her \u2022 6 Month Warranty", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 425.875, "left": 293.875, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682fd932e19b2d9ba7e0422c/H3DTE_nN7dcX6tBH7TrT0_895x415.png", "id": "product_image"}, {"type": "text", "top": 363.275, "left": 744.88, "width": 190.24, "height": 73.45, "fill": "#FFFFFF", "text": "\u20b91759", "fontSize": 65, "fontFamily": "Sansita Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 430.0, "width": 220, "height": 60, "fill": "#C9366F", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 974.18, "left": 467.13, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "- Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g.\n- Item part number: ER0583.\n- Country of Origin: India.\n- Department: womens.\n- Item Weight: 3.9 g.\n- Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters.\n- Net Quantity: 2.00 count.\n- Generic Name: Stud Earrings.\n- Customer Reviews: 4.6 4.6 out of 5 stars 69 ratings.", "price": "\u20b91759"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682fd932e19b2d9ba7e0422c/H3DTE_nN7dcX6tBH7TrT0_895x415.png", "marketplace_url": "", "layout": "circular_focus"}, "banner_details": "\nThis banner has a soft and elegant aesthetic with a feminine touch, perfect for promoting jewelry or luxury gifts. The background features a radial gradient transitioning from light lavender pink to rose pink, creating a warm and inviting tone. At the center lies a white circular frame bordered by a subtle pink stroke, which houses a product image (id: `product_image`) of sparkly rose gold earrings.\n\nThe bold and impactful main headline (id: `heading`) sits at the top in uppercase, drawing attention to the purpose of the banner. Below it, a serene subheading (id: `subheading`) with a classy serif font emphasizes timeless elegance. A decorative price badge (highlighted circle with id: `price`) pops in the upper right area of the product circle. Just below the product, a simple, centered line of features (id: `description`) highlights the product qualities in a clean format. Toward the bottom, a rounded call-to-action button (id: `cta_button`) with bold text (id: `cta`) encourages immediate shopping.\n\nDecorative swirl and dot elements scattered in the corners add flair without overwhelming the design.\n\n**Color Palette:**\n- Soft Pink: #FFF0F5\n- Light Rose: #FFD1DC\n- Accent Pink (Gradient): #F9A7B0 \u2192 #E57373\n- Bold Text Pink: #C9366F\n- Subheading Pink: #D9587A\n- White: #FFFFFF\n", "product_color": "  \nThe earrings in the image showcase an elegant blend of soft rose gold and sparkling white tones. The primary color used is a warm **rose pink (#F4A2A1)** for the metal, combined beautifully with **brilliant white (#FFFFFF)** and **crystal clear (#E0E0E0)** gems. The rose pink outlines and frames the design, highlighting the soft floral elements while creating a romantic and luxurious feel. The white stones add brilliance through contrast, enhancing visual sparkle. This color palette works harmoniously, where the rose hue serves as a base and the whites catch light organically. Ideal banner palette: #F4A2A1, #FFFFFF, #E0E0E0, with accents of #FFDBDB.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bg' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#FFF0F5'/><stop offset='100%' stop-color='#FFD1DC'/></radialGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F9A7B0'/><stop offset='100%' stop-color='#E57373'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><circle cx='540' cy='540' r='320' fill='white' stroke='#F9A7B0' stroke-width='3'/><circle cx='540' cy='540' r='300' fill='white'/><circle cx='840' cy='400' r='120' fill='url(#accent)'/><g opacity='0.4'><circle cx='200' cy='200' r='8' fill='#E57373'/><circle cx='240' cy='160' r='5' fill='#E57373'/><circle cx='280' cy='220' r='6' fill='#E57373'/><circle cx='850' cy='800' r='8' fill='#E57373'/><circle cx='800' cy='850' r='5' fill='#E57373'/><circle cx='880' cy='780' r='6' fill='#E57373'/></g><path d='M180,280 C220,250 260,280 300,250' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M780,780 C820,750 860,780 900,750' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M450,180 L470,150 L490,180' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M590,180 L610,150 L630,180' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M450,900 L470,870 L490,900' stroke='#F9A7B0' stroke-width='2' fill='none'/><path d='M590,900 L610,870 L630,900' stroke='#F9A7B0' stroke-width='2' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 121.065,
+                "width": 837.87,
+                "height": 79.1,
+                "fill": "#C9366F",
+                "text": "ELEVATE HER ELEGANCE",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 279.525,
+                "width": 520.95,
+                "height": 56.5,
+                "fill": "#D9587A",
+                "text": "Timeless Beauty Awaits",
+                "fontFamily": "Cormorant SC Light",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 891.58,
+                "left": 180.28500000000003,
+                "width": 719.43,
+                "height": 38.42,
+                "fill": "#C9366F",
+                "text": "\u2022 925 Sterling Silver \u2022 Gift for Her \u2022 6 Month Warranty",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 425.875,
+                "left": 293.875,
+                "width": 492.25000000000006,
+                "height": 228.25000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682fd932e19b2d9ba7e0422c/H3DTE_nN7dcX6tBH7TrT0_895x415.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 363.275,
+                "left": 744.88,
+                "width": 190.24,
+                "height": 73.45,
+                "fill": "#FFFFFF",
+                "text": "\u20b91759",
+                "fontFamily": "Sansita Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#C9366F",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 974.18,
+                "left": 467.13,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "- Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g.\n- Item part number: ER0583.\n- Country of Origin: India.\n- Department: womens.\n- Item Weight: 3.9 g.\n- Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters.\n- Net Quantity: 2.00 count.\n- Generic Name: Stud Earrings.\n- Customer Reviews: 4.6 4.6 out of 5 stars 69 ratings.",
+            "price": "\u20b91759"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682fd932e19b2d9ba7e0422c/H3DTE_nN7dcX6tBH7TrT0_895x415.png",
+        "marketplace_url": "",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner has a soft and elegant aesthetic with a feminine touch, perfect for promoting jewelry or luxury gifts. The background features a radial gradient transitioning from light lavender pink to rose pink, creating a warm and inviting tone. At the center lies a white circular frame bordered by a subtle pink stroke, which houses a product image (id: `product_image`) of sparkly rose gold earrings.\n\nThe bold and impactful main headline (id: `heading`) sits at the top in uppercase, drawing attention to the purpose of the banner. Below it, a serene subheading (id: `subheading`) with a classy serif font emphasizes timeless elegance. A decorative price badge (highlighted circle with id: `price`) pops in the upper right area of the product circle. Just below the product, a simple, centered line of features (id: `description`) highlights the product qualities in a clean format. Toward the bottom, a rounded call-to-action button (id: `cta_button`) with bold text (id: `cta`) encourages immediate shopping.\n\nDecorative swirl and dot elements scattered in the corners add flair without overwhelming the design.\n\n**Color Palette:**\n- Soft Pink: #FFF0F5\n- Light Rose: #FFD1DC\n- Accent Pink (Gradient): #F9A7B0 \u2192 #E57373\n- Bold Text Pink: #C9366F\n- Subheading Pink: #D9587A\n- White: #FFFFFF\n",
+    "product_color": "  \nThe earrings in the image showcase an elegant blend of soft rose gold and sparkling white tones. The primary color used is a warm **rose pink (#F4A2A1)** for the metal, combined beautifully with **brilliant white (#FFFFFF)** and **crystal clear (#E0E0E0)** gems. The rose pink outlines and frames the design, highlighting the soft floral elements while creating a romantic and luxurious feel. The white stones add brilliance through contrast, enhancing visual sparkle. This color palette works harmoniously, where the rose hue serves as a base and the whites catch light organically. Ideal banner palette: #F4A2A1, #FFFFFF, #E0E0E0, with accents of #FFDBDB.  \n"
+}

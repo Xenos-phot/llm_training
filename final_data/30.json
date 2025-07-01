@@ -1,1 +1,170 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2C3E50'/><stop offset='100%' style='stop-color:#4CA1AF'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5733'/><stop offset='100%' style='stop-color:#FF8C33'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='540' y='0' width='540' height='1080' fill='#F5F5F5'/><g opacity='0.1'><rect x='0' y='100' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='200' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='300' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='400' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='500' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='600' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='700' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='800' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='900' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='1000' width='540' height='2' fill='#FFFFFF'/></g><path d='M540,0 L540,1080' stroke='#E0E0E0' stroke-width='2'/><circle cx='100' cy='950' r='40' fill='url(#accentGradient)' opacity='0.7'/><circle cx='180' cy='900' r='25' fill='url(#accentGradient)' opacity='0.5'/><rect x='60' y='150' width='120' height='10' rx='5' fill='#FFFFFF' opacity='0.2'/><rect x='60' y='180' width='80' height='10' rx='5' fill='#FFFFFF' opacity='0.15'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 60, "width": 448.86, "height": 67.8, "fill": "#FFFFFF", "text": "LIMITED TIME", "fontSize": 60, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 170, "left": 60, "width": 274.16, "height": 90.4, "fill": "#FF5733", "text": "SALE!", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 280, "left": 60, "width": 391.74, "height": 90.4, "fill": "#FFFFFF", "text": "INSIGNIA MODERN\nWASHER & DRYER SET", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 60, "width": 347.98, "height": 81.36, "fill": "#FFFFFF", "text": "\u2022 Sleek design with digital displays\n\u2022 Energy-efficient smart technology\n\u2022 Multiple wash cycles and settings", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "rect", "top": 580, "left": 60, "width": 200, "height": 200, "fill": "#FF5733", "rx": 100, "ry": 100, "id": "price_background"}, {"type": "text", "top": 620, "left": 64, "width": 186.76, "height": 79.1, "fill": "#FFFFFF", "text": "$235", "fontSize": 70, "fontFamily": "Archivo Black-Regular", "textAlign": "center", "id": "price"}, {"type": "text", "top": 698, "left": 107, "width": 109.32, "height": 27.12, "fill": "#FFFFFF", "text": "SAVE 40%", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "discount"}, {"type": "text", "top": 654, "left": 278, "width": 181.71, "height": 63.28, "fill": "#FFFFFF", "text": "ULTIMATE\nLAUNDRY DUO", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "product_name"}, {"type": "rect", "top": 840, "left": 60, "width": 220, "height": 70, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 860, "left": 85, "width": 153.8, "height": 33.9, "fill": "#2C3E50", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 950, "left": 60, "width": 367.66, "height": 24.86, "fill": "#FFFFFF", "text": "OFFER ENDS SOON! GRAB THE SAVINGS!", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "urgency_text"}, {"type": "image", "top": 347, "left": 526, "width": 1220, "height": 850, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/CPod9K_BDov2cvkZy574o_1220x850.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Modern Front-Load Washer & Dryer Set - Ultimate Laundry Duo", "description": "\u2022 Sleek white design with modern digital displays and intuitive controls\n\u2022 Large capacity front-load washer with multiple wash cycles and settings\n\u2022 Energy-efficient dryer with advanced moisture sensing technology\n\u2022 Digital LED display shows remaining cycle time and settings\n\u2022 Multiple temperature settings for both washer and dryer\n\u2022 Convenient front-loading design for easy access\n\u2022 Stackable design option to save space\n\u2022 Quiet operation with advanced noise reduction technology\n\u2022 Easy-to-use control dial for cycle selection\n\u2022 Durable construction with premium materials\n\u2022 Smart features including custom cycle programming\n\u2022 High-efficiency washing system saves water and energy", "price": "$235"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/CPod9K_BDov2cvkZy574o_1220x850.png", "marketplace_url": "blob:https://studio.phot.ai/1122c6eb-528a-458a-bc2d-b9b596c2f5aa", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner features a modern and clean layout divided into two distinct sections: a gradient blue left side and a light gray right side. The left panel includes all the promotional information, while the right showcases a realistic image of a washer and dryer set (\"product_image\"). The top begins with an urgency-driven tagline (\"tagline\") in white techno-style uppercase text, followed by a bold, attention-grabbing decorated sale announcement (\"heading\") in orange. The product name and features (\"subheading\" and \"description\") are presented in a stacked text format for clarity.\n\nA vibrant circular price badge (\"price_background\") houses the price (\"price\") in large, white text and the discount percentage (\"discount\") below it. Beside it sits a supportive product label (\"product_name\"). The call-to-action button (\"cta_background\") sits near the bottom in white with contrasting blue text (\"cta\"), prompting immediate engagement. Decorative circles and dividers enhance visual hierarchy and balance. A subtle line of urgency text (\"urgency_text\") is placed near the bottom.\n\n**Color Palette:**\n- Deep Blue: #2C3E50\n- Teal Gradient: #4CA1AF\n- Bright Orange: #FF5733\n- Soft Orange: #FF8C33\n- Pure White: #FFFFFF\n- Slate Gray: #F5F5F5\n", "product_color": "\nThe product image features a modern washer and dryer duo, primarily in a clean, minimalistic white (#FFFFFF) that conveys cleanliness and simplicity. Black (#000000) is used for the door trim and control panels, creating strong visual contrast and drawing attention to the key functional areas. The display panels incorporate a sharp electric blue (#00BFFF) for digital time indicators, giving a futuristic touch. Chrome or metallic silver (#C0C0C0) accents on the dials provide a sleek, premium look. The colors are carefully blended\u2014white for neutrality and lightness, black for focus, and blue for highlights\u2014making this palette ideal for a crisp, modern ad banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2C3E50'/><stop offset='100%' style='stop-color:#4CA1AF'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5733'/><stop offset='100%' style='stop-color:#FF8C33'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='540' y='0' width='540' height='1080' fill='#F5F5F5'/><g opacity='0.1'><rect x='0' y='100' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='200' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='300' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='400' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='500' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='600' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='700' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='800' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='900' width='540' height='2' fill='#FFFFFF'/><rect x='0' y='1000' width='540' height='2' fill='#FFFFFF'/></g><path d='M540,0 L540,1080' stroke='#E0E0E0' stroke-width='2'/><circle cx='100' cy='950' r='40' fill='url(#accentGradient)' opacity='0.7'/><circle cx='180' cy='900' r='25' fill='url(#accentGradient)' opacity='0.5'/><rect x='60' y='150' width='120' height='10' rx='5' fill='#FFFFFF' opacity='0.2'/><rect x='60' y='180' width='80' height='10' rx='5' fill='#FFFFFF' opacity='0.15'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 60,
+                "width": 448.86,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "LIMITED TIME",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 60,
+                "width": 274.16,
+                "height": 90.4,
+                "fill": "#FF5733",
+                "text": "SALE!",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 60,
+                "width": 391.74,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "INSIGNIA MODERN\nWASHER & DRYER SET",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 60,
+                "width": 347.98,
+                "height": 81.36,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Sleek design with digital displays\n\u2022 Energy-efficient smart technology\n\u2022 Multiple wash cycles and settings",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 580,
+                "left": 60,
+                "width": 200,
+                "height": 200,
+                "fill": "#FF5733",
+                "rx": 100,
+                "ry": 100,
+                "id": "price_background"
+            },
+            {
+                "type": "text",
+                "top": 620,
+                "left": 64,
+                "width": 186.76,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "$235",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 698,
+                "left": 107,
+                "width": 109.32,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SAVE 40%",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "discount"
+            },
+            {
+                "type": "text",
+                "top": 654,
+                "left": 278,
+                "width": 181.71,
+                "height": 63.28,
+                "fill": "#FFFFFF",
+                "text": "ULTIMATE\nLAUNDRY DUO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "product_name"
+            },
+            {
+                "type": "rect",
+                "top": 840,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 860,
+                "left": 85,
+                "width": 153.8,
+                "height": 33.9,
+                "fill": "#2C3E50",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 60,
+                "width": 367.66,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "OFFER ENDS SOON! GRAB THE SAVINGS!",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "urgency_text"
+            },
+            {
+                "type": "image",
+                "top": 347,
+                "left": 526,
+                "width": 536.8,
+                "height": 374.0,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/CPod9K_BDov2cvkZy574o_1220x850.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Modern Front-Load Washer & Dryer Set - Ultimate Laundry Duo",
+            "description": "\u2022 Sleek white design with modern digital displays and intuitive controls\n\u2022 Large capacity front-load washer with multiple wash cycles and settings\n\u2022 Energy-efficient dryer with advanced moisture sensing technology\n\u2022 Digital LED display shows remaining cycle time and settings\n\u2022 Multiple temperature settings for both washer and dryer\n\u2022 Convenient front-loading design for easy access\n\u2022 Stackable design option to save space\n\u2022 Quiet operation with advanced noise reduction technology\n\u2022 Easy-to-use control dial for cycle selection\n\u2022 Durable construction with premium materials\n\u2022 Smart features including custom cycle programming\n\u2022 High-efficiency washing system saves water and energy",
+            "price": "$235"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/CPod9K_BDov2cvkZy574o_1220x850.png",
+        "marketplace_url": "blob:https://studio.phot.ai/1122c6eb-528a-458a-bc2d-b9b596c2f5aa",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner features a modern and clean layout divided into two distinct sections: a gradient blue left side and a light gray right side. The left panel includes all the promotional information, while the right showcases a realistic image of a washer and dryer set (\"product_image\"). The top begins with an urgency-driven tagline (\"tagline\") in white techno-style uppercase text, followed by a bold, attention-grabbing decorated sale announcement (\"heading\") in orange. The product name and features (\"subheading\" and \"description\") are presented in a stacked text format for clarity.\n\nA vibrant circular price badge (\"price_background\") houses the price (\"price\") in large, white text and the discount percentage (\"discount\") below it. Beside it sits a supportive product label (\"product_name\"). The call-to-action button (\"cta_background\") sits near the bottom in white with contrasting blue text (\"cta\"), prompting immediate engagement. Decorative circles and dividers enhance visual hierarchy and balance. A subtle line of urgency text (\"urgency_text\") is placed near the bottom.\n\n**Color Palette:**\n- Deep Blue: #2C3E50\n- Teal Gradient: #4CA1AF\n- Bright Orange: #FF5733\n- Soft Orange: #FF8C33\n- Pure White: #FFFFFF\n- Slate Gray: #F5F5F5\n",
+    "product_color": "\nThe product image features a modern washer and dryer duo, primarily in a clean, minimalistic white (#FFFFFF) that conveys cleanliness and simplicity. Black (#000000) is used for the door trim and control panels, creating strong visual contrast and drawing attention to the key functional areas. The display panels incorporate a sharp electric blue (#00BFFF) for digital time indicators, giving a futuristic touch. Chrome or metallic silver (#C0C0C0) accents on the dials provide a sleek, premium look. The colors are carefully blended\u2014white for neutrality and lightness, black for focus, and blue for highlights\u2014making this palette ideal for a crisp, modern ad banner.\n"
+}

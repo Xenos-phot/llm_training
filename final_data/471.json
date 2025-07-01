@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#9370DB'/><stop offset='100%' stop-color='#D8BFD8'/></linearGradient><linearGradient id='side-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#7B68EE'/><stop offset='100%' stop-color='#9370DB'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='0' y='0' width='540' height='1080' fill='url(#side-gradient)'/><circle cx='120' cy='120' r='50' fill='#E6E6FA' opacity='0.3'/><circle cx='420' cy='280' r='70' fill='#E6E6FA' opacity='0.2'/><circle cx='220' cy='520' r='100' fill='#E6E6FA' opacity='0.15'/><circle cx='150' cy='800' r='80' fill='#E6E6FA' opacity='0.25'/><circle cx='370' cy='950' r='60' fill='#E6E6FA' opacity='0.2'/><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='5,10'/><path d='M650,150 L830,150 L830,190 L650,190 Z' fill='#E6E6FA' opacity='0.3'/><path d='M750,350 L950,350 L950,370 L750,370 Z' fill='#E6E6FA' opacity='0.4'/><path d='M680,880 L930,880 L930,900 L680,900 Z' fill='#E6E6FA' opacity='0.4'/><path d='M600,950 L850,950 L850,960 L600,960 Z' fill='#E6E6FA' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 180, "left": 50, "width": 372.86, "height": 149.16, "fill": "#FFFFFF", "text": "WIRELESS\nCOMFORT", "fontSize": 60, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 350, "left": 50, "width": 471.6, "height": 45.2, "fill": "#E6E6FA", "text": "BLUETOOTH HEADPHONES", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 450, "left": 50, "width": 323.62, "height": 113.9, "fill": "#FFFFFF", "text": "\u2022 Noise Reduction Technology\n\u2022 Bluetooth & Wired Connectivity\n\u2022 Cushioned Ear Muffs Design", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 50, "width": 293.27, "height": 79.1, "fill": "#FFFFFF", "text": "$27.99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 50, "width": 200, "height": 60, "fill": "#FFFFFF", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 795, "left": 85, "width": 145.54, "height": 31.64, "fill": "#7B68EE", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 153, "left": 556, "width": 1128, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7beade95-220e-44a9-a45b-ed285035c140_nobg_1128x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Noise Reduction Technology: High Definition Stereo Headphones, noise reduction technology designed to reduce surrounding noise so that you can enjoy what you want to hear. Lose yourself in music even in the lowest volume levels! 40mm sound driver for true richness in sound and deep bass. EASY CONNECTIVITY: Gabba Goods Headphones are compatible with all Bluetooth or 3.5mm plug cable enabled devices such as , iPhones, Smart android phones, Tablet, Laptop, iPads, MP3/4 Player, Computers, MacBook and other Bluetooth devices. Just slide the on/off button and the headphones will be in ready to pair mode. It is built to provide a quick and stable Bluetooth connection and to enable hands-free communication through our special noise reduction technology Super Comfortable design: The Cushioned Ear Muffs are made of artificial leather so that you can wear them for extended time with comfort. The Headset is foldable for easy storage and travel. Great for use by Unisex Kids, Teens and Adults. Built-in microphone: For clear hands-free calling. Enjoy Speaking and Talking Handsfree A highly sensitive microphone that is perfect for capturing clear audio, Micro SD card support: And volume and pause/play functions , allows you to conveniently Listen to Your Favorite Music Audio books, and Podcasts. Brand - Gabba Goods ** Color - Lavender ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 26 Ohm **", "price": "27.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7beade95-220e-44a9-a45b-ed285035c140_nobg_1128x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0DX2N1VMN", "layout": "split_vertical"}, "banner_details": "\nThis banner features a modern, tech-oriented design centered around showcasing wireless Bluetooth headphones. The layout is split vertically with a gradient-divided background\u2014deep purple on the left and a soft lavender tone on the right. A pair of stylish headphones is prominently displayed on the right side, attracting visual focus. The left side contains multiple text layers: a bold heading (`heading`), an informative subheading (`subheading`), a bulleted feature list (`description`), a prominent price highlight (`price`), and a call-to-action button (`cta`) within a rounded rectangle (`cta_background`). Circular and bar-style graphic elements enhance the visual balance, giving the banner a clean, futuristic feel.\n\n**Color Palette:**\n- Violet: #7B68EE\n- Medium Purple: #9370DB  \n- Thistle: #D8BFD8  \n- Lavender: #E6E6FA  \n- White: #FFFFFF\n", "product_color": "\nThe product image showcases a sleek pair of headphones in a striking monochromatic lavender palette. The primary color is a glossy pastel lavender (#CBA6F7) used prominently on the ear cups and headband exterior, creating a soft, luxurious look. A deeper mauve purple (#8A6DAE) is used for the inner padding and smaller accent areas, adding depth and contrast. A subtle muted light lilac (#D8C2F1) highlights the upper band and transitions smoothly into the main lavender tones, enhancing the product's elegance. The colors are blended harmoniously with soft gradients and light reflections, making the product eye-catching while keeping a minimalist, modern appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#9370DB'/><stop offset='100%' stop-color='#D8BFD8'/></linearGradient><linearGradient id='side-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#7B68EE'/><stop offset='100%' stop-color='#9370DB'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='0' y='0' width='540' height='1080' fill='url(#side-gradient)'/><circle cx='120' cy='120' r='50' fill='#E6E6FA' opacity='0.3'/><circle cx='420' cy='280' r='70' fill='#E6E6FA' opacity='0.2'/><circle cx='220' cy='520' r='100' fill='#E6E6FA' opacity='0.15'/><circle cx='150' cy='800' r='80' fill='#E6E6FA' opacity='0.25'/><circle cx='370' cy='950' r='60' fill='#E6E6FA' opacity='0.2'/><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='3' stroke-dasharray='5,10'/><path d='M650,150 L830,150 L830,190 L650,190 Z' fill='#E6E6FA' opacity='0.3'/><path d='M750,350 L950,350 L950,370 L750,370 Z' fill='#E6E6FA' opacity='0.4'/><path d='M680,880 L930,880 L930,900 L680,900 Z' fill='#E6E6FA' opacity='0.4'/><path d='M600,950 L850,950 L850,960 L600,960 Z' fill='#E6E6FA' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 372.86,
+                "height": 149.16,
+                "fill": "#FFFFFF",
+                "text": "WIRELESS\nCOMFORT",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 50,
+                "width": 471.6,
+                "height": 45.2,
+                "fill": "#E6E6FA",
+                "text": "BLUETOOTH HEADPHONES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 50,
+                "width": 323.62,
+                "height": 113.9,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Noise Reduction Technology\n\u2022 Bluetooth & Wired Connectivity\n\u2022 Cushioned Ear Muffs Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 50,
+                "width": 293.27,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "$27.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#FFFFFF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 795,
+                "left": 85,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#7B68EE",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 153,
+                "left": 556,
+                "width": 507.6,
+                "height": 647.5500000000001,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7beade95-220e-44a9-a45b-ed285035c140_nobg_1128x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Noise Reduction Technology: High Definition Stereo Headphones, noise reduction technology designed to reduce surrounding noise so that you can enjoy what you want to hear. Lose yourself in music even in the lowest volume levels! 40mm sound driver for true richness in sound and deep bass. EASY CONNECTIVITY: Gabba Goods Headphones are compatible with all Bluetooth or 3.5mm plug cable enabled devices such as , iPhones, Smart android phones, Tablet, Laptop, iPads, MP3/4 Player, Computers, MacBook and other Bluetooth devices. Just slide the on/off button and the headphones will be in ready to pair mode. It is built to provide a quick and stable Bluetooth connection and to enable hands-free communication through our special noise reduction technology Super Comfortable design: The Cushioned Ear Muffs are made of artificial leather so that you can wear them for extended time with comfort. The Headset is foldable for easy storage and travel. Great for use by Unisex Kids, Teens and Adults. Built-in microphone: For clear hands-free calling. Enjoy Speaking and Talking Handsfree A highly sensitive microphone that is perfect for capturing clear audio, Micro SD card support: And volume and pause/play functions , allows you to conveniently Listen to Your Favorite Music Audio books, and Podcasts. Brand - Gabba Goods ** Color - Lavender ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 26 Ohm **",
+            "price": "27.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7beade95-220e-44a9-a45b-ed285035c140_nobg_1128x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0DX2N1VMN",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a modern, tech-oriented design centered around showcasing wireless Bluetooth headphones. The layout is split vertically with a gradient-divided background\u2014deep purple on the left and a soft lavender tone on the right. A pair of stylish headphones is prominently displayed on the right side, attracting visual focus. The left side contains multiple text layers: a bold heading (`heading`), an informative subheading (`subheading`), a bulleted feature list (`description`), a prominent price highlight (`price`), and a call-to-action button (`cta`) within a rounded rectangle (`cta_background`). Circular and bar-style graphic elements enhance the visual balance, giving the banner a clean, futuristic feel.\n\n**Color Palette:**\n- Violet: #7B68EE\n- Medium Purple: #9370DB  \n- Thistle: #D8BFD8  \n- Lavender: #E6E6FA  \n- White: #FFFFFF\n",
+    "product_color": "\nThe product image showcases a sleek pair of headphones in a striking monochromatic lavender palette. The primary color is a glossy pastel lavender (#CBA6F7) used prominently on the ear cups and headband exterior, creating a soft, luxurious look. A deeper mauve purple (#8A6DAE) is used for the inner padding and smaller accent areas, adding depth and contrast. A subtle muted light lilac (#D8C2F1) highlights the upper band and transitions smoothly into the main lavender tones, enhancing the product's elegance. The colors are blended harmoniously with soft gradients and light reflections, making the product eye-catching while keeping a minimalist, modern appeal.\n"
+}

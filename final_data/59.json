@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0D1B2A'/><path d='M0 0 L1080 0 L1080 1080 L400 1080 Z' fill='#1B263B'/><path d='M500 1080 L0 1080 L0 0 Z' fill='#415A77'/><path d='M680 0 L850 0 L470 1080 L300 1080 Z' fill='#778DA9' opacity='0.7'/><path d='M0 400 L250 0 L0 0 Z' fill='#E0E1DD' opacity='0.1'/><circle cx='200' cy='200' r='80' fill='#E0E1DD' opacity='0.05'/><circle cx='850' cy='850' r='120' fill='#E0E1DD' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 40, "width": 759.35, "height": 96.05, "fill": "#FFFFFF", "text": "MODERN DRYER", "fontSize": 85, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 42, "width": 428.22, "height": 84.75, "fill": "#E0E1DD", "text": "HIGH EFFICIENCY", "fontSize": 75, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 300, "left": 42, "width": 497.42, "height": 198.88, "fill": "#FFFFFF", "text": "\u2022 Energy-efficient ventless technology\n\u2022 Multiple fabric care settings\n\u2022 Advanced moisture sensors\n\u2022 Perfect for compact spaces", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 517, "left": 15, "width": 536.77, "height": 33.9, "fill": "#778DA9", "text": "Revolutionizing Your Laundry Experience", "fontSize": 30, "fontFamily": "Neuton Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 750, "left": 40, "width": 242.39, "height": 96.05, "fill": "#FFFFFF", "text": "$350", "fontSize": 85, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 880, "left": 40, "width": 220, "height": 60, "fill": "#E0E1DD", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 895, "left": 58, "width": 203.51, "height": 29.38, "fill": "#0D1B2A", "text": "PRE-ORDER NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 406, "left": 604, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/UOVwEoKSeqfv_V6F0KDoO_899x1336.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Compact Ventless Dryer - Modern Laundry Solution", "description": "\u2022 \u2728 Sleek white design with modern digital display and intuitive controls\n\u2022 \ud83c\udf1f Multiple drying cycles including Normal, Heavy Duty, Delicates, and Quick Dry\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83c\udfaf Precise electronic controls with LED time display\n\u2022 \ud83d\udd04 Large capacity drum with convenient front-loading design\n\u2022 \ud83d\udca8 Advanced moisture sensor for optimal drying results\n\u2022 \ud83c\udfe0 Perfect for apartments, condos, and spaces without external venting\n\u2022 \u2699\ufe0f Easy-to-use control dial with multiple fabric care settings\n\u2022 \ud83d\udee0\ufe0f Built-in maintenance reminder system\n\u2022 \ud83d\udccf Space-saving compact design without compromising performance", "price": "$350"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/UOVwEoKSeqfv_V6F0KDoO_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/9dd49a64-b3e8-4322-b44c-33ae00844a38", "layout": "diagonal_split"}, "banner_details": "\nThis promotional banner features a sleek and modern design tailored for a home appliance product. The background is composed of dynamic geometric overlays with various opacities and shapes, introducing a sense of movement and depth. A prominent white headline (`heading`) introduces the product, followed by a subheadline (`subheading`) in a cream tone. A concise bulleted list (`description`) outlines its key features, while a soft tagline (`tagline`) subtly supports the message. The call to action is clear, with a bold white price tag (`price`) and a contrasting cream-colored button (`cta_button`) with navy-blue CTA text (`cta`). A realistic product image (`product_image`) is anchored to the right.\n\n**Color Palette:**\n- Midnight Blue: `#0D1B2A`\n- Steel Blue: `#1B263B`\n- Slate Blue: `#415A77`\n- Misty Blue: `#778DA9`\n- Off-White: `#E0E1DD`\n- Pure White: `#FFFFFF`\n", "product_color": "\nThe product image presents a sleek, modern dryer with a minimalist design dominated by a crisp white base (#FFFFFF), giving it a clean and sophisticated look. The door and control panel feature a deep black (#1A1A1A), creating bold contrast and highlighting functional areas. Accents such as the digital display use a cool blue (#00BFFF) and white text for visibility, while the settings dial incorporates subtle red (#E74C3C) and blue (#2980B9) hues for temperature indicators, enhancing usability. These colors are well-blended yet distinct, making each function intuitive. For the banner, a clean monochrome palette accented with these colors will maintain a premium feel.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0D1B2A'/><path d='M0 0 L1080 0 L1080 1080 L400 1080 Z' fill='#1B263B'/><path d='M500 1080 L0 1080 L0 0 Z' fill='#415A77'/><path d='M680 0 L850 0 L470 1080 L300 1080 Z' fill='#778DA9' opacity='0.7'/><path d='M0 400 L250 0 L0 0 Z' fill='#E0E1DD' opacity='0.1'/><circle cx='200' cy='200' r='80' fill='#E0E1DD' opacity='0.05'/><circle cx='850' cy='850' r='120' fill='#E0E1DD' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 40,
+                "width": 759.35,
+                "height": 96.05,
+                "fill": "#FFFFFF",
+                "text": "MODERN DRYER",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 42,
+                "width": 428.22,
+                "height": 84.75,
+                "fill": "#E0E1DD",
+                "text": "HIGH EFFICIENCY",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 42,
+                "width": 497.42,
+                "height": 198.88,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Energy-efficient ventless technology\n\u2022 Multiple fabric care settings\n\u2022 Advanced moisture sensors\n\u2022 Perfect for compact spaces",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 517,
+                "left": 15,
+                "width": 536.77,
+                "height": 33.9,
+                "fill": "#778DA9",
+                "text": "Revolutionizing Your Laundry Experience",
+                "fontFamily": "Neuton Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 40,
+                "width": 242.39,
+                "height": 96.05,
+                "fill": "#FFFFFF",
+                "text": "$350",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 880,
+                "left": 40,
+                "width": 220,
+                "height": 60,
+                "fill": "#E0E1DD",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 895,
+                "left": 58,
+                "width": 203.51,
+                "height": 29.38,
+                "fill": "#0D1B2A",
+                "text": "PRE-ORDER NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 406,
+                "left": 604,
+                "width": 449.5,
+                "height": 668.0,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/UOVwEoKSeqfv_V6F0KDoO_899x1336.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Compact Ventless Dryer - Modern Laundry Solution",
+            "description": "\u2022 \u2728 Sleek white design with modern digital display and intuitive controls\n\u2022 \ud83c\udf1f Multiple drying cycles including Normal, Heavy Duty, Delicates, and Quick Dry\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83c\udfaf Precise electronic controls with LED time display\n\u2022 \ud83d\udd04 Large capacity drum with convenient front-loading design\n\u2022 \ud83d\udca8 Advanced moisture sensor for optimal drying results\n\u2022 \ud83c\udfe0 Perfect for apartments, condos, and spaces without external venting\n\u2022 \u2699\ufe0f Easy-to-use control dial with multiple fabric care settings\n\u2022 \ud83d\udee0\ufe0f Built-in maintenance reminder system\n\u2022 \ud83d\udccf Space-saving compact design without compromising performance",
+            "price": "$350"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/UOVwEoKSeqfv_V6F0KDoO_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/9dd49a64-b3e8-4322-b44c-33ae00844a38",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis promotional banner features a sleek and modern design tailored for a home appliance product. The background is composed of dynamic geometric overlays with various opacities and shapes, introducing a sense of movement and depth. A prominent white headline (`heading`) introduces the product, followed by a subheadline (`subheading`) in a cream tone. A concise bulleted list (`description`) outlines its key features, while a soft tagline (`tagline`) subtly supports the message. The call to action is clear, with a bold white price tag (`price`) and a contrasting cream-colored button (`cta_button`) with navy-blue CTA text (`cta`). A realistic product image (`product_image`) is anchored to the right.\n\n**Color Palette:**\n- Midnight Blue: `#0D1B2A`\n- Steel Blue: `#1B263B`\n- Slate Blue: `#415A77`\n- Misty Blue: `#778DA9`\n- Off-White: `#E0E1DD`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "\nThe product image presents a sleek, modern dryer with a minimalist design dominated by a crisp white base (#FFFFFF), giving it a clean and sophisticated look. The door and control panel feature a deep black (#1A1A1A), creating bold contrast and highlighting functional areas. Accents such as the digital display use a cool blue (#00BFFF) and white text for visibility, while the settings dial incorporates subtle red (#E74C3C) and blue (#2980B9) hues for temperature indicators, enhancing usability. These colors are well-blended yet distinct, making each function intuitive. For the banner, a clean monochrome palette accented with these colors will maintain a premium feel.\n"
+}

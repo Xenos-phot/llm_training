@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E6F4F9'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#D1E5F0'/><path d='M0 850 L1080 850 L1080 1080 L0 1080 L0 850Z' fill='#A5C6E0'/><path d='M0 650 C200 630 400 670 600 650 C800 630 1000 670 1080 650 L1080 900 C900 880 700 920 500 900 C300 880 100 920 0 900 L0 650Z' fill='#87A7C4'/><circle cx='120' cy='200' r='60' fill='#D1E5F0' opacity='0.7'/><circle cx='960' cy='300' r='80' fill='#A5C6E0' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 267.09, "width": 545.82, "height": 79.1, "fill": "#2C3E50", "text": "SAMSUNG", "fontSize": 70, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 149.66000000000003, "width": 780.68, "height": 45.2, "fill": "#34495E", "text": "AUTOMATIC TOP LOAD WASHING MACHINE", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 290.57500000000005, "left": 414.175, "width": 719, "height": 1311, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MpijuiGOlPZ0zE057ZhQi_719x1311.png", "id": "product_image"}, {"type": "text", "top": 780, "left": 221.35000000000002, "width": 637.3, "height": 56.5, "fill": "#1A5276", "text": "ECO BUBBLE TECHNOLOGY", "fontSize": 50, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 850, "left": 347.87, "width": 384.26, "height": 101.7, "fill": "#2C3E50", "text": "\u20b917,990", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#2C3E50", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 974.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Samsung 7 kg, Eco Bubble Technology, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA70BG4441YYTL, Lavender Gray)", "description": "Item Weight: 29 kg 500 g. Specification Met: Energy Star. Controller Type: Fully Automatic. Option Cycles: 9. Number of Washing Cycles: 9. Finish Type: Glass,Stainless Steel. Washer Dispenser Options: Detergent. Laundry Appliance Drum Material: Stainless Steel. Model: WA70BG4441YYTL. Energy Efficiency: 5 Star Rating. Noise Level: 48 dB. Installation Type: Free Standing. Part Number: WA70BG4441YYTL. Form Factor: Top-Loading. Special Features: Inverter, Water Level 5.00. Number of Standard Cycles: 9. Connector Type: Water inlet & Drain. Number of Vents: 2. Material: Stainless-Steel. Batteries Required: No. Country of Origin: India. Importer: Samsung India Electronics Pvt. Ltd. having its Registered Office at: 6th Floor, DLF Centre, Sansad Marg, New Delhi-110001. Item Dimensions Lx Wx H: 56.6 x 54 x 98.8 Centimeters. Net Quantity: 1 Piece. Generic Name: Fully-Automatic Top Load Washing Machines.", "price": "\u20b917990"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MpijuiGOlPZ0zE057ZhQi_719x1311.png", "marketplace_url": "https://www.amazon.in/Samsung-Inverter-Fully-Automatic-WA70BG4441YYTL-Technology/dp/B0B8NHX62W/ref=sr_1_4?_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&dib=eyJ2IjoiMSJ9.huIQjSkTuPfYXaUe3MtXkWA0dLO881tU6BS-vQHVB7xaMA60pMktorrxmEyRqWEGYnJdLuOq3v_pkceC830GmdhBrtjMTaGOmjuwOFdHUbRuCv2as8ysIFiAFMeF8fO7vMDJRuCmEorU6_CjWuDM0LINkUhofZKlIKou7YUmdHUIWDWCdFcLnMINoc1T8NveUWAHE6Z-uUvHioVc9Z5BebZmisFwJXAaMMooYgIdG_nYXDfyo68V4WP6OF8PGaWrykYi4pFTf2BoCrbExK4LKa_JFsTJLh7qGCpi3nVn-ZY.Jw1CPDBla37pke2zGEwDUc7T28B_SyK2Gr0kiiQjrJc&dib_tag=se&pd_rd_r=81b8196c-1641-4029-8ad2-aa0c7b09f0fd&pd_rd_w=QsAOb&pd_rd_wg=2Cfkm&qid=1747136057&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-4", "layout": "centered_hero"}, "banner_details": "\nThis banner showcases a sleek product advertisement for an automatic washing machine. The background features layered curved shapes in gradients of blue with two decorative semi-transparent circular elements, creating a clean and modern feel. Centered at the top is a bold brand title (id: \"heading\") followed by a subheading (id: \"subheading\") that introduces the product feature. The washing machine image (id: \"product_image\") is centrally positioned, acting as the focal point. Below it, a feature tagline (id: \"tagline\") reinforces the product\u2019s technology, followed by a large, bold price display (id: \"price\"). A prominent call-to-action button (id: \"cta_button\") with contrasting white text (id: \"cta\") urges immediate engagement.\n\n**Color Palette:**\n- Sky Blue (#E6F4F9)\n- Pale Blue (#D1E5F0)\n- Steel Blue (#A5C6E0)\n- Desaturated Blue (#87A7C4)\n- Deep Navy (#2C3E50)\n- Dark Slate (#34495E)\n- White (#FFFFFF)\n\n", "product_color": "  \nThe product image utilizes a sleek and modern color palette featuring metallic silver (#d1d3d4), black (#000000), and white (#ffffff), creating a clean and premium aesthetic. A vibrant red (#d32f2f) is used for the energy star label, subtly drawing attention without overpowering the design. The blue arrow (#0074e4) adds a touch of color diversity, highlighting the product's functionality. The silver body of the washing machine reflects a premium build while blending seamlessly with dark black control elements for contrast. The bold black typography stands out sharply against the light silver background, ensuring excellent readability and emphasis on key features.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E6F4F9'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#D1E5F0'/><path d='M0 850 L1080 850 L1080 1080 L0 1080 L0 850Z' fill='#A5C6E0'/><path d='M0 650 C200 630 400 670 600 650 C800 630 1000 670 1080 650 L1080 900 C900 880 700 920 500 900 C300 880 100 920 0 900 L0 650Z' fill='#87A7C4'/><circle cx='120' cy='200' r='60' fill='#D1E5F0' opacity='0.7'/><circle cx='960' cy='300' r='80' fill='#A5C6E0' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 267.09,
+                "width": 545.82,
+                "height": 79.1,
+                "fill": "#2C3E50",
+                "text": "SAMSUNG",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 149.66000000000003,
+                "width": 780.68,
+                "height": 45.2,
+                "fill": "#34495E",
+                "text": "AUTOMATIC TOP LOAD WASHING MACHINE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 290.57500000000005,
+                "left": 414.175,
+                "width": 251.64999999999998,
+                "height": 458.84999999999997,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MpijuiGOlPZ0zE057ZhQi_719x1311.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 221.35000000000002,
+                "width": 637.3,
+                "height": 56.5,
+                "fill": "#1A5276",
+                "text": "ECO BUBBLE TECHNOLOGY",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 347.87,
+                "width": 384.26,
+                "height": 101.7,
+                "fill": "#2C3E50",
+                "text": "\u20b917,990",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#2C3E50",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 974.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Samsung 7 kg, Eco Bubble Technology, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA70BG4441YYTL, Lavender Gray)",
+            "description": "Item Weight: 29 kg 500 g. Specification Met: Energy Star. Controller Type: Fully Automatic. Option Cycles: 9. Number of Washing Cycles: 9. Finish Type: Glass,Stainless Steel. Washer Dispenser Options: Detergent. Laundry Appliance Drum Material: Stainless Steel. Model: WA70BG4441YYTL. Energy Efficiency: 5 Star Rating. Noise Level: 48 dB. Installation Type: Free Standing. Part Number: WA70BG4441YYTL. Form Factor: Top-Loading. Special Features: Inverter, Water Level 5.00. Number of Standard Cycles: 9. Connector Type: Water inlet & Drain. Number of Vents: 2. Material: Stainless-Steel. Batteries Required: No. Country of Origin: India. Importer: Samsung India Electronics Pvt. Ltd. having its Registered Office at: 6th Floor, DLF Centre, Sansad Marg, New Delhi-110001. Item Dimensions Lx Wx H: 56.6 x 54 x 98.8 Centimeters. Net Quantity: 1 Piece. Generic Name: Fully-Automatic Top Load Washing Machines.",
+            "price": "\u20b917990"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MpijuiGOlPZ0zE057ZhQi_719x1311.png",
+        "marketplace_url": "https://www.amazon.in/Samsung-Inverter-Fully-Automatic-WA70BG4441YYTL-Technology/dp/B0B8NHX62W/ref=sr_1_4?_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&dib=eyJ2IjoiMSJ9.huIQjSkTuPfYXaUe3MtXkWA0dLO881tU6BS-vQHVB7xaMA60pMktorrxmEyRqWEGYnJdLuOq3v_pkceC830GmdhBrtjMTaGOmjuwOFdHUbRuCv2as8ysIFiAFMeF8fO7vMDJRuCmEorU6_CjWuDM0LINkUhofZKlIKou7YUmdHUIWDWCdFcLnMINoc1T8NveUWAHE6Z-uUvHioVc9Z5BebZmisFwJXAaMMooYgIdG_nYXDfyo68V4WP6OF8PGaWrykYi4pFTf2BoCrbExK4LKa_JFsTJLh7qGCpi3nVn-ZY.Jw1CPDBla37pke2zGEwDUc7T28B_SyK2Gr0kiiQjrJc&dib_tag=se&pd_rd_r=81b8196c-1641-4029-8ad2-aa0c7b09f0fd&pd_rd_w=QsAOb&pd_rd_wg=2Cfkm&qid=1747136057&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-4",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner showcases a sleek product advertisement for an automatic washing machine. The background features layered curved shapes in gradients of blue with two decorative semi-transparent circular elements, creating a clean and modern feel. Centered at the top is a bold brand title (id: \"heading\") followed by a subheading (id: \"subheading\") that introduces the product feature. The washing machine image (id: \"product_image\") is centrally positioned, acting as the focal point. Below it, a feature tagline (id: \"tagline\") reinforces the product\u2019s technology, followed by a large, bold price display (id: \"price\"). A prominent call-to-action button (id: \"cta_button\") with contrasting white text (id: \"cta\") urges immediate engagement.\n\n**Color Palette:**\n- Sky Blue (#E6F4F9)\n- Pale Blue (#D1E5F0)\n- Steel Blue (#A5C6E0)\n- Desaturated Blue (#87A7C4)\n- Deep Navy (#2C3E50)\n- Dark Slate (#34495E)\n- White (#FFFFFF)\n\n",
+    "product_color": "  \nThe product image utilizes a sleek and modern color palette featuring metallic silver (#d1d3d4), black (#000000), and white (#ffffff), creating a clean and premium aesthetic. A vibrant red (#d32f2f) is used for the energy star label, subtly drawing attention without overpowering the design. The blue arrow (#0074e4) adds a touch of color diversity, highlighting the product's functionality. The silver body of the washing machine reflects a premium build while blending seamlessly with dark black control elements for contrast. The bold black typography stands out sharply against the light silver background, ensuring excellent readability and emphasis on key features.  \n"
+}

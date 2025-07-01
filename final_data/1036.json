@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2B2449'/><circle cx='540' cy='1080' r='950' fill='#3D2F6F' opacity='0.7'/><circle cx='540' cy='1080' r='800' fill='#513F8B' opacity='0.6'/><circle cx='540' cy='1080' r='650' fill='#654EA3' opacity='0.5'/><circle cx='540' cy='1080' r='500' fill='#7E57C2' opacity='0.4'/><circle cx='950' cy='150' r='200' fill='#FFA000' opacity='0.3'/><circle cx='150' cy='250' r='170' fill='#FFC107' opacity='0.2'/><path d='M0 250 C140 230 280 280 420 250 C560 220 700 270 840 250 C980 230 1080 280 1080 250 L1080 350 C980 320 840 380 700 350 C560 320 420 380 280 350 C140 320 0 370 0 350 L0 250Z' fill='#D4A017' opacity='0.15'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 269.125, "width": 541.75, "height": 113, "fill": "#FFD54F", "text": "RETRO CHIC", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 200, "left": 283.1, "width": 513.8, "height": 56.5, "fill": "#FFFFFF", "text": "RIBBED SWEATER DRESS", "fontSize": 50, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 288.225, "left": 398.025, "width": 631, "height": 1119, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/uCxto93PPxbXuNRB92DFj_631x1119.png", "id": "product_image"}, {"type": "text", "top": 818.3, "left": 378.38, "width": 323.24, "height": 101.7, "fill": "#FFD54F", "text": "\u20b9 1200", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 937.0, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#FFC107", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 954.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#2B2449", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Retro Chic Mustard Ribbed Sweater Dress with Glitter Boots", "description": "\u2022 Premium ribbed knit fabric in stunning mustard yellow\n\u2022 Versatile mock turtleneck design for elegant styling\n\u2022 Form-fitting silhouette with midi length cut\n\u2022 Long sleeves with comfortable stretch material\n\u2022 Convenient chest pocket detail\n\u2022 Perfect for fall/winter seasonal wear\n\u2022 Pairs beautifully with statement accessories\n\u2022 Machine washable, easy-care fabric\n\u2022 Available in sizes XS-XL\n\u2022 Matching sparkle ankle boots with block heel sold separately\n\u2022 Ideal for both casual and semi-formal occasions\n\u2022 Contemporary vintage-inspired design", "price": "\u20b91200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/uCxto93PPxbXuNRB92DFj_631x1119.png", "marketplace_url": "https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg", "layout": "minimalist_center"}, "banner_details": "\nThe banner features a bold and stylish promotional design centered around a fashion product. The background consists of layered circular shapes and fluid curves in varying opacities, creating a modern, abstract look with a radiant purple gradient. A female model image appears prominently in the center, popping against the vibrant purples. At the top, a bold heading (`heading`) communicates the theme, with a minimalist subheading (`subheading`) below it for added context. The price tag (`price`) is highlighted boldly in yellow with a currency symbol. Beneath it, a prominent call-to-action button (`cta`) with a yellow rectangular background (`cta_background`) draws attention to \"Shop Now\".\n\n**Color Palette:**\n- Deep Violet (#2B2449)\n- Royal Purple (#3D2F6F)\n- Lavender Purple (#654EA3)\n- Bright Yellow (#FFD54F)\n- Warm Amber (#FFC107)\n- Rich Brown (#D4A017)\n- White (#FFFFFF)\n", "product_color": "\nThe product image features a vibrant autumnal color palette, centered around a rich mustard yellow dress (#D4A019), which dominates the visual and evokes warmth and confidence. This bold hue is complemented by playful, multicolored sunglasses that introduce accents of pastel pink (#E6B5D0), green (#7CC369), yellow (#FFD700), and purple (#B299D4), adding a fun, pop-art vibe. The glittery gray ankle boots (#A9A9A9) ground the look with a neutral sparkle that balances the vivid tones. Blonde hair (#D2A86E) and natural makeup tones create harmony across the palette. Together, these colors are blended thoughtfully but still retain distinction, making each hue stand out confidently.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2B2449'/><circle cx='540' cy='1080' r='950' fill='#3D2F6F' opacity='0.7'/><circle cx='540' cy='1080' r='800' fill='#513F8B' opacity='0.6'/><circle cx='540' cy='1080' r='650' fill='#654EA3' opacity='0.5'/><circle cx='540' cy='1080' r='500' fill='#7E57C2' opacity='0.4'/><circle cx='950' cy='150' r='200' fill='#FFA000' opacity='0.3'/><circle cx='150' cy='250' r='170' fill='#FFC107' opacity='0.2'/><path d='M0 250 C140 230 280 280 420 250 C560 220 700 270 840 250 C980 230 1080 280 1080 250 L1080 350 C980 320 840 380 700 350 C560 320 420 380 280 350 C140 320 0 370 0 350 L0 250Z' fill='#D4A017' opacity='0.15'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 269.125,
+                "width": 541.75,
+                "height": 113,
+                "fill": "#FFD54F",
+                "text": "RETRO CHIC",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 283.1,
+                "width": 513.8,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "RIBBED SWEATER DRESS",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 288.225,
+                "left": 398.025,
+                "width": 283.95,
+                "height": 503.55,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/uCxto93PPxbXuNRB92DFj_631x1119.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 818.3,
+                "left": 378.38,
+                "width": 323.24,
+                "height": 101.7,
+                "fill": "#FFD54F",
+                "text": "\u20b9 1200",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 937.0,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#FFC107",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 954.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#2B2449",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Retro Chic Mustard Ribbed Sweater Dress with Glitter Boots",
+            "description": "\u2022 Premium ribbed knit fabric in stunning mustard yellow\n\u2022 Versatile mock turtleneck design for elegant styling\n\u2022 Form-fitting silhouette with midi length cut\n\u2022 Long sleeves with comfortable stretch material\n\u2022 Convenient chest pocket detail\n\u2022 Perfect for fall/winter seasonal wear\n\u2022 Pairs beautifully with statement accessories\n\u2022 Machine washable, easy-care fabric\n\u2022 Available in sizes XS-XL\n\u2022 Matching sparkle ankle boots with block heel sold separately\n\u2022 Ideal for both casual and semi-formal occasions\n\u2022 Contemporary vintage-inspired design",
+            "price": "\u20b91200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/uCxto93PPxbXuNRB92DFj_631x1119.png",
+        "marketplace_url": "https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThe banner features a bold and stylish promotional design centered around a fashion product. The background consists of layered circular shapes and fluid curves in varying opacities, creating a modern, abstract look with a radiant purple gradient. A female model image appears prominently in the center, popping against the vibrant purples. At the top, a bold heading (`heading`) communicates the theme, with a minimalist subheading (`subheading`) below it for added context. The price tag (`price`) is highlighted boldly in yellow with a currency symbol. Beneath it, a prominent call-to-action button (`cta`) with a yellow rectangular background (`cta_background`) draws attention to \"Shop Now\".\n\n**Color Palette:**\n- Deep Violet (#2B2449)\n- Royal Purple (#3D2F6F)\n- Lavender Purple (#654EA3)\n- Bright Yellow (#FFD54F)\n- Warm Amber (#FFC107)\n- Rich Brown (#D4A017)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image features a vibrant autumnal color palette, centered around a rich mustard yellow dress (#D4A019), which dominates the visual and evokes warmth and confidence. This bold hue is complemented by playful, multicolored sunglasses that introduce accents of pastel pink (#E6B5D0), green (#7CC369), yellow (#FFD700), and purple (#B299D4), adding a fun, pop-art vibe. The glittery gray ankle boots (#A9A9A9) ground the look with a neutral sparkle that balances the vivid tones. Blonde hair (#D2A86E) and natural makeup tones create harmony across the palette. Together, these colors are blended thoughtfully but still retain distinction, making each hue stand out confidently.\n"
+}

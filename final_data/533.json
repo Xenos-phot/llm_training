@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalGrad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4B0082'/><stop offset='100%' stop-color='#663399'/></linearGradient><linearGradient id='diagonalGrad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#9370DB'/><stop offset='100%' stop-color='#BA55D3'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalGrad1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#diagonalGrad2)'/><g opacity='0.2'><circle cx='200' cy='200' r='15' fill='#ffffff'/><circle cx='300' cy='150' r='10' fill='#ffffff'/><circle cx='150' cy='300' r='12' fill='#ffffff'/><circle cx='800' cy='800' r='15' fill='#4B0082'/><circle cx='900' cy='750' r='10' fill='#4B0082'/><circle cx='750' cy='900' r='12' fill='#4B0082'/></g><path d='M0 540 L1080 540' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M540 0 L540 1080' stroke='#ffffff' stroke-width='1' opacity='0.1'/><g transform='rotate(45 540 540)'><rect x='420' y='-100' width='2' height='1280' fill='#ffffff' opacity='0.1'/><rect x='660' y='-100' width='2' height='1280' fill='#ffffff' opacity='0.1'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 45, "width": 779.53, "height": 146.9, "fill": "#FFFFFF", "text": "ATHLETIC", "fontSize": 130, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 170, "left": 45, "width": 871.96, "height": 146.9, "fill": "#FFFFFF", "text": "SNEAKERS", "fontSize": 130, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 310, "left": 50, "width": 476.42, "height": 67.8, "fill": "#E0B0FF", "text": "BREATHABLE COMFORT", "fontSize": 60, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 400, "left": 50, "width": 322.58, "height": 176.28, "fill": "#FFFFFF", "text": "\u2022 Non-Slip Design\n\u2022 Breathable Mesh Fabric\n\u2022 Slip-On Technology\n\u2022 Multi-Sport Performance", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "rect", "top": 370, "left": 50, "width": 350, "height": 2, "fill": "#E0B0FF", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 630, "left": 50, "width": 389.3, "height": 113, "fill": "#FFFFFF", "text": "$33.92", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 760, "left": 50, "width": 200, "height": 60, "fill": "#E0B0FF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 775, "left": 85, "width": 145.54, "height": 31.64, "fill": "#4B0082", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 354, "left": 470, "width": 1439, "height": 1327, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/6c067b22-9ee6-4d6a-b167-06fdec56726f_nobg_1439x1327.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Slip on design easy to wear, fashion colour with everything Non-slip Wear-resistant outsole Comfortable and breathable fabric Occasion: casual, walking, running,driving , training, indoor, sports, outdoor, travel, workout and so on. Multi-color choose: Black, Brown, Dark Grey, Green Yellow, Blue, Orange, Pink, Purple, Rose Red Sole material - Thermoplastic Polyurethane ** Outer material - Mesh ** Closure type - Pull-On ** Water resistance level - Not Water Resistant **", "price": "$33.92"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/6c067b22-9ee6-4d6a-b167-06fdec56726f_nobg_1439x1327.png", "marketplace_url": "https://www.amazon.com/dp/B091TTLDQD", "layout": "diagonal_split"}, "banner_details": "\nThis vibrant promotional banner features a sporty and modern design, highlighting a pair of athletic sneakers. The composition centers around a product image (\"product_image\") of purple sneakers placed dynamically to draw immediate attention. The background is a diagonal gradient (\"background\") merging deep plum and lavender tones with subtle geometric line art and soft circular elements that create depth and futuristic appeal. Bold, angular typography is used for the top headlines (\"heading_1\" and \"heading_2\") that announce the product category, while a subheading (\"tagline\") below emphasizes breathable comfort. A bullet list (\"description\") describes product features. A prominent price (\"price\") is presented in large, bold text, and a clear call-to-action button (\"cta\" over \"cta_background\") urges viewers to take action. This cohesive layout balances impact with clarity and showcases the product as both functional and fashionable.\n\n**Color Palette**:\n- Deep Purple (#4B0082)\n- Medium Purple (#663399)\n- Lavender (#E0B0FF)\n- Light Orchid (#9370DB)\n- White (#FFFFFF)\n", "product_color": "\nThe product image features a bold and energetic color palette centered on vibrant purple tones, giving the sneakers a futuristic and sporty look. The dominant color is a rich royal purple (#6A0DAD), which covers most of the shoe, including the knitted fabric upper and the dynamic sole design. Accents of a lighter lavender (#B98EFF) are used in the branding and woven straps, creating contrast while maintaining cohesion. White text (#FFFFFF) adds sharp highlights that increase readability without overpowering the base color. The sole integrates touches of cool gray (#D3D3D3) for balance. These colors are well-blended, yet distinct, enhancing both function and style.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalGrad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4B0082'/><stop offset='100%' stop-color='#663399'/></linearGradient><linearGradient id='diagonalGrad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#9370DB'/><stop offset='100%' stop-color='#BA55D3'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalGrad1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#diagonalGrad2)'/><g opacity='0.2'><circle cx='200' cy='200' r='15' fill='#ffffff'/><circle cx='300' cy='150' r='10' fill='#ffffff'/><circle cx='150' cy='300' r='12' fill='#ffffff'/><circle cx='800' cy='800' r='15' fill='#4B0082'/><circle cx='900' cy='750' r='10' fill='#4B0082'/><circle cx='750' cy='900' r='12' fill='#4B0082'/></g><path d='M0 540 L1080 540' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M540 0 L540 1080' stroke='#ffffff' stroke-width='1' opacity='0.1'/><g transform='rotate(45 540 540)'><rect x='420' y='-100' width='2' height='1280' fill='#ffffff' opacity='0.1'/><rect x='660' y='-100' width='2' height='1280' fill='#ffffff' opacity='0.1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 45,
+                "width": 779.53,
+                "height": 146.9,
+                "fill": "#FFFFFF",
+                "text": "ATHLETIC",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 45,
+                "width": 871.96,
+                "height": 146.9,
+                "fill": "#FFFFFF",
+                "text": "SNEAKERS",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 50,
+                "width": 476.42,
+                "height": 67.8,
+                "fill": "#E0B0FF",
+                "text": "BREATHABLE COMFORT",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 50,
+                "width": 322.58,
+                "height": 176.28,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Non-Slip Design\n\u2022 Breathable Mesh Fabric\n\u2022 Slip-On Technology\n\u2022 Multi-Sport Performance",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 370,
+                "left": 50,
+                "width": 350,
+                "height": 2,
+                "fill": "#E0B0FF",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 630,
+                "left": 50,
+                "width": 389.3,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$33.92",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 760,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#E0B0FF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 775,
+                "left": 85,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#4B0082",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 354,
+                "left": 470,
+                "width": 575.6,
+                "height": 530.8000000000001,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/6c067b22-9ee6-4d6a-b167-06fdec56726f_nobg_1439x1327.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Slip on design easy to wear, fashion colour with everything Non-slip Wear-resistant outsole Comfortable and breathable fabric Occasion: casual, walking, running,driving , training, indoor, sports, outdoor, travel, workout and so on. Multi-color choose: Black, Brown, Dark Grey, Green Yellow, Blue, Orange, Pink, Purple, Rose Red Sole material - Thermoplastic Polyurethane ** Outer material - Mesh ** Closure type - Pull-On ** Water resistance level - Not Water Resistant **",
+            "price": "$33.92"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/6c067b22-9ee6-4d6a-b167-06fdec56726f_nobg_1439x1327.png",
+        "marketplace_url": "https://www.amazon.com/dp/B091TTLDQD",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis vibrant promotional banner features a sporty and modern design, highlighting a pair of athletic sneakers. The composition centers around a product image (\"product_image\") of purple sneakers placed dynamically to draw immediate attention. The background is a diagonal gradient (\"background\") merging deep plum and lavender tones with subtle geometric line art and soft circular elements that create depth and futuristic appeal. Bold, angular typography is used for the top headlines (\"heading_1\" and \"heading_2\") that announce the product category, while a subheading (\"tagline\") below emphasizes breathable comfort. A bullet list (\"description\") describes product features. A prominent price (\"price\") is presented in large, bold text, and a clear call-to-action button (\"cta\" over \"cta_background\") urges viewers to take action. This cohesive layout balances impact with clarity and showcases the product as both functional and fashionable.\n\n**Color Palette**:\n- Deep Purple (#4B0082)\n- Medium Purple (#663399)\n- Lavender (#E0B0FF)\n- Light Orchid (#9370DB)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image features a bold and energetic color palette centered on vibrant purple tones, giving the sneakers a futuristic and sporty look. The dominant color is a rich royal purple (#6A0DAD), which covers most of the shoe, including the knitted fabric upper and the dynamic sole design. Accents of a lighter lavender (#B98EFF) are used in the branding and woven straps, creating contrast while maintaining cohesion. White text (#FFFFFF) adds sharp highlights that increase readability without overpowering the base color. The sole integrates touches of cool gray (#D3D3D3) for balance. These colors are well-blended, yet distinct, enhancing both function and style.\n"
+}

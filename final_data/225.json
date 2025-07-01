@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2F2F7'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#F2F2F7'/><circle cx='180' cy='180' r='300' fill='#E2E2E7' opacity='0.5'/><circle cx='900' cy='900' r='250' fill='#E2E2E7' opacity='0.5'/><path d='M0 400 L1080 400 L1080 680 L0 680 Z' fill='#484F5B' opacity='0.03'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#4B5EFC;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#98AEFC;stop-opacity:0.05'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/><circle cx='0' cy='0' r='400' fill='#4B5EFC' opacity='0.05'/><circle cx='1080' cy='1080' r='350' fill='#4B5EFC' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 60, "width": 758.72, "height": 135.6, "fill": "#1B1D52", "text": "GALAXY S24+", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 205, "left": 60, "width": 768.8, "height": 90.4, "fill": "#4B5EFC", "text": "PREMIUM DESIGN", "fontSize": 80, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 335, "left": 60, "width": 323.78, "height": 186.45, "fill": "#333333", "text": "\u2022 50MP Pro-Grade Camera\n\u2022 8K Video Recording\n\u2022 Powerful Galaxy AI\n\u2022 Unlocked, 256GB Storage", "fontSize": 30, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 60, "width": 281.1, "height": 113, "fill": "#1B1D52", "text": "$699", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 60, "width": 220.00000000000003, "height": 66.0, "fill": "#4B5EFC", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 968, "left": 96, "width": 135.47, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta_text"}, {"type": "image", "top": 283.47499999999997, "left": 495.075, "width": 927, "height": 1151, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1e26a3f8-d273-4e92-8ece-0fd373c7f69e_nobg_927x1151.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+.  Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure.  With Galaxy AI on GalaxyS24+, life just got a whole lot easier &mdash;and a lot more fun. Epic, just like that.", "price": "49"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1e26a3f8-d273-4e92-8ece-0fd373c7f69e_nobg_927x1151.png", "marketplace_url": "https://www.walmart.com/ip/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray/5276353716", "layout": "split_vertical"}, "banner_details": "\nThis banner features a tech product advertisement with a clean and modern layout. A large product image sits on the right side (\"product_image\"), drawing visual focus, while the left side holds layered text elements. A bold banner title (\"heading\") and a vibrant subheading (\"subheading\") promote the product prominently. Bullet-pointed features (\u201cdescription\u201d) highlight key specifications below the main headline. The price is clearly displayed in bold type (\"price\"), with a rounded call-to-action button (\"cta_button\") labeled with engaging text (\"cta_text\") for immediate user response. The background design includes abstract circular overlays and soft gradients, enhancing the tech-savvy look.\n\n**Color Palette**:\n- Midnight Blue: #1B1D52\n- Royal Blue: #4B5EFC\n- Light Lavender: #F2F2F7\n- Slate Gray: #333333\n- White: #FFFFFF\n", "product_color": "\nThe product image features a sleek and modern aesthetic dominated by soft, neutral tones with a hint of sophistication. The primary color is a clean matte silver-gray (#E5E5E5) forming the phone's body, offering a minimalist look. The screen showcases a smooth gradient blending shades of pearl white (#F5F5F5), soft yellow glow (#FFF2B0), and muted gray (#C6C6C6), creating an elegant and premium feel. Black (#000000) is strategically used for the camera lenses and screen borders, adding contrast and focus. These colors blend subtly with each other, while the yellow glow adds a gentle highlight, drawing viewer attention without overpowering.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2F2F7'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#F2F2F7'/><circle cx='180' cy='180' r='300' fill='#E2E2E7' opacity='0.5'/><circle cx='900' cy='900' r='250' fill='#E2E2E7' opacity='0.5'/><path d='M0 400 L1080 400 L1080 680 L0 680 Z' fill='#484F5B' opacity='0.03'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#4B5EFC;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#98AEFC;stop-opacity:0.05'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/><circle cx='0' cy='0' r='400' fill='#4B5EFC' opacity='0.05'/><circle cx='1080' cy='1080' r='350' fill='#4B5EFC' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 60,
+                "width": 758.72,
+                "height": 135.6,
+                "fill": "#1B1D52",
+                "text": "GALAXY S24+",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 60,
+                "width": 768.8,
+                "height": 90.4,
+                "fill": "#4B5EFC",
+                "text": "PREMIUM DESIGN",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 335,
+                "left": 60,
+                "width": 323.78,
+                "height": 186.45,
+                "fill": "#333333",
+                "text": "\u2022 50MP Pro-Grade Camera\n\u2022 8K Video Recording\n\u2022 Powerful Galaxy AI\n\u2022 Unlocked, 256GB Storage",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 60,
+                "width": 281.1,
+                "height": 113,
+                "fill": "#1B1D52",
+                "text": "$699",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 60,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#4B5EFC",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 968,
+                "left": 96,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta_text"
+            },
+            {
+                "type": "image",
+                "top": 283.47499999999997,
+                "left": 495.075,
+                "width": 509.85,
+                "height": 633.0500000000001,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1e26a3f8-d273-4e92-8ece-0fd373c7f69e_nobg_927x1151.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+.  Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure.  With Galaxy AI on GalaxyS24+, life just got a whole lot easier &mdash;and a lot more fun. Epic, just like that.",
+            "price": "49"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1e26a3f8-d273-4e92-8ece-0fd373c7f69e_nobg_927x1151.png",
+        "marketplace_url": "https://www.walmart.com/ip/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray/5276353716",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a tech product advertisement with a clean and modern layout. A large product image sits on the right side (\"product_image\"), drawing visual focus, while the left side holds layered text elements. A bold banner title (\"heading\") and a vibrant subheading (\"subheading\") promote the product prominently. Bullet-pointed features (\u201cdescription\u201d) highlight key specifications below the main headline. The price is clearly displayed in bold type (\"price\"), with a rounded call-to-action button (\"cta_button\") labeled with engaging text (\"cta_text\") for immediate user response. The background design includes abstract circular overlays and soft gradients, enhancing the tech-savvy look.\n\n**Color Palette**:\n- Midnight Blue: #1B1D52\n- Royal Blue: #4B5EFC\n- Light Lavender: #F2F2F7\n- Slate Gray: #333333\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a sleek and modern aesthetic dominated by soft, neutral tones with a hint of sophistication. The primary color is a clean matte silver-gray (#E5E5E5) forming the phone's body, offering a minimalist look. The screen showcases a smooth gradient blending shades of pearl white (#F5F5F5), soft yellow glow (#FFF2B0), and muted gray (#C6C6C6), creating an elegant and premium feel. Black (#000000) is strategically used for the camera lenses and screen borders, adding contrast and focus. These colors blend subtly with each other, while the yellow glow adds a gentle highlight, drawing viewer attention without overpowering.\n"
+}

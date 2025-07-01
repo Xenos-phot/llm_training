@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#0D1D3A'/><rect x='0' y='0' width='540' height='540' fill='#162649'/><rect x='540' y='0' width='540' height='540' fill='#0A1428'/><rect x='0' y='540' width='540' height='540' fill='#0A1428'/><rect x='540' y='540' width='540' height='540' fill='#162649'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='100' cy='100' r='30' fill='#C0C0C0' opacity='0.3'/><circle cx='980' cy='980' r='30' fill='#C0C0C0' opacity='0.3'/><circle cx='980' cy='100' r='20' fill='#C0C0C0' opacity='0.3'/><circle cx='100' cy='980' r='20' fill='#C0C0C0' opacity='0.3'/><path d='M540 0 L540 1080' stroke='#506080' stroke-width='1'/><path d='M0 540 L1080 540' stroke='#506080' stroke-width='1'/><g opacity='0.2'><circle cx='270' cy='270' r='150' fill='#D0D0D0'/><circle cx='810' cy='810' r='150' fill='#D0D0D0'/></g><g opacity='0.5'><circle cx='760' cy='150' r='5' fill='#C0C0C0'/><circle cx='780' cy='150' r='5' fill='#C0C0C0'/><circle cx='800' cy='150' r='5' fill='#C0C0C0'/><circle cx='820' cy='150' r='5' fill='#C0C0C0'/><circle cx='840' cy='150' r='5' fill='#C0C0C0'/><circle cx='280' cy='900' r='5' fill='#C0C0C0'/><circle cx='300' cy='900' r='5' fill='#C0C0C0'/><circle cx='320' cy='900' r='5' fill='#C0C0C0'/><circle cx='340' cy='900' r='5' fill='#C0C0C0'/><circle cx='360' cy='900' r='5' fill='#C0C0C0'/></g></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 60, "width": 410.75, "height": 67.8, "fill": "#FFFFFF", "text": "MICHAEL KORS", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 60, "width": 394.83, "height": 84.52, "fill": "#C0C0C0", "text": "LEXINGTON\nCHRONOGRAPH", "fontSize": 34, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 60, "width": 327.08, "height": 174.02, "fill": "#FFFFFF", "text": "\u2022 Premium Stainless Steel\n\u2022 Chronograph Functionality\n\u2022 Elegant Black Dial\n\u2022 Water-Resistant Design", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 280, "left": 60, "width": 442.69, "height": 27.12, "fill": "#FFFFFF", "text": "LUXURIOUS STAINLESS STEEL MASTERPIECE", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 820, "left": 60, "width": 201.04, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9 99", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 60, "width": 200, "height": 60, "fill": "#C0C0C0", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 947, "left": 93, "width": 135.47, "height": 29.38, "fill": "#0D1D3A", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 274, "left": 568, "width": 695, "height": 1015, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pgldg5sDdc2Pua0DDadxw_695x1015.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Michael Kors Lexington Chronograph - Luxurious Stainless Steel Masterpiece", "description": "\u2022 Premium stainless steel construction with fluted bezel\n\u2022 Sophisticated chronograph functionality with three sub-dials\n\u2022 Elegant black dial with Roman numeral markers\n\u2022 Date window display at 4 o'clock position\n\u2022 Durable link bracelet with secure deployment clasp\n\u2022 Water-resistant design for everyday wear\n\u2022 Signature Michael Kors branding on dial\n\u2022 Luminous hands for enhanced visibility\n\u2022 Professional dress watch suitable for all occasions\n\u2022 Precise quartz movement for reliable timekeeping\n\u2022 Classic silver-tone finish that pairs with any attire\n\u2022 Scratch-resistant mineral crystal face", "price": "\u20b999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pgldg5sDdc2Pua0DDadxw_695x1015.png", "marketplace_url": "https://images.pexels.com/photos/2783873/pexels-photo-2783873.jpeg", "layout": "grid_four"}, "banner_details": "\nThe banner displays a luxurious, modern design featuring a premium wristwatch product at the center-right positioned over a richly styled navy-blue grid background. It contains a bold title (`heading`) and elegant subheading (`subheading`) in the top-left, both displaying strong branding emphasis. Below it, a tagline (`tagline`) enhances the product's appeal. The main features of the product are listed in a bullet-point format (`description`) on the left mid-section. Toward the bottom left is the price (`price`), styled prominently in a futuristic font. Adjacent to it is a high-contrast call-to-action button (`cta`) over a light background block (`cta_background`). The centerpiece is a sleek watch image (`product_image`) overlapping subtle circular highlights, giving depth and focus.\n\n**Color Palette:**\n- Deep Navy Blue (`#0D1D3A`)\n- Charcoal Slate (`#162649`)\n- Midnight Blue (`#0A1428`)\n- Soft Silver Grey (`#C0C0C0`)\n- White (`#FFFFFF`)\n", "product_color": "\nThe product image of the Michael Kors watch features a sophisticated and luxurious color palette dominated by metallic silver (#C0C0C0), deep teal green (#013F43), and subtle rose gold accents (#B76E79). The silver is used on the strap and highlights the frame, creating a sleek and polished look. The deep teal dial adds contrast while emphasizing the timeless elegance of the watch. Rose gold reflections subtly blend into the metallic finish, giving warmth and refinement without overwhelming the design. High contrast between dark and bright shades, along with reflective surfaces, adds depth and definition\u2014ideal for a stylish, upscale advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#0D1D3A'/><rect x='0' y='0' width='540' height='540' fill='#162649'/><rect x='540' y='0' width='540' height='540' fill='#0A1428'/><rect x='0' y='540' width='540' height='540' fill='#0A1428'/><rect x='540' y='540' width='540' height='540' fill='#162649'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='100' cy='100' r='30' fill='#C0C0C0' opacity='0.3'/><circle cx='980' cy='980' r='30' fill='#C0C0C0' opacity='0.3'/><circle cx='980' cy='100' r='20' fill='#C0C0C0' opacity='0.3'/><circle cx='100' cy='980' r='20' fill='#C0C0C0' opacity='0.3'/><path d='M540 0 L540 1080' stroke='#506080' stroke-width='1'/><path d='M0 540 L1080 540' stroke='#506080' stroke-width='1'/><g opacity='0.2'><circle cx='270' cy='270' r='150' fill='#D0D0D0'/><circle cx='810' cy='810' r='150' fill='#D0D0D0'/></g><g opacity='0.5'><circle cx='760' cy='150' r='5' fill='#C0C0C0'/><circle cx='780' cy='150' r='5' fill='#C0C0C0'/><circle cx='800' cy='150' r='5' fill='#C0C0C0'/><circle cx='820' cy='150' r='5' fill='#C0C0C0'/><circle cx='840' cy='150' r='5' fill='#C0C0C0'/><circle cx='280' cy='900' r='5' fill='#C0C0C0'/><circle cx='300' cy='900' r='5' fill='#C0C0C0'/><circle cx='320' cy='900' r='5' fill='#C0C0C0'/><circle cx='340' cy='900' r='5' fill='#C0C0C0'/><circle cx='360' cy='900' r='5' fill='#C0C0C0'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 60,
+                "width": 410.75,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "MICHAEL KORS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 394.83,
+                "height": 84.52,
+                "fill": "#C0C0C0",
+                "text": "LEXINGTON\nCHRONOGRAPH",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 327.08,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium Stainless Steel\n\u2022 Chronograph Functionality\n\u2022 Elegant Black Dial\n\u2022 Water-Resistant Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 60,
+                "width": 442.69,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "LUXURIOUS STAINLESS STEEL MASTERPIECE",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 60,
+                "width": 201.04,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#C0C0C0",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 947,
+                "left": 93,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#0D1D3A",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 274,
+                "left": 568,
+                "width": 382.25000000000006,
+                "height": 558.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pgldg5sDdc2Pua0DDadxw_695x1015.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Michael Kors Lexington Chronograph - Luxurious Stainless Steel Masterpiece",
+            "description": "\u2022 Premium stainless steel construction with fluted bezel\n\u2022 Sophisticated chronograph functionality with three sub-dials\n\u2022 Elegant black dial with Roman numeral markers\n\u2022 Date window display at 4 o'clock position\n\u2022 Durable link bracelet with secure deployment clasp\n\u2022 Water-resistant design for everyday wear\n\u2022 Signature Michael Kors branding on dial\n\u2022 Luminous hands for enhanced visibility\n\u2022 Professional dress watch suitable for all occasions\n\u2022 Precise quartz movement for reliable timekeeping\n\u2022 Classic silver-tone finish that pairs with any attire\n\u2022 Scratch-resistant mineral crystal face",
+            "price": "\u20b999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pgldg5sDdc2Pua0DDadxw_695x1015.png",
+        "marketplace_url": "https://images.pexels.com/photos/2783873/pexels-photo-2783873.jpeg",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner displays a luxurious, modern design featuring a premium wristwatch product at the center-right positioned over a richly styled navy-blue grid background. It contains a bold title (`heading`) and elegant subheading (`subheading`) in the top-left, both displaying strong branding emphasis. Below it, a tagline (`tagline`) enhances the product's appeal. The main features of the product are listed in a bullet-point format (`description`) on the left mid-section. Toward the bottom left is the price (`price`), styled prominently in a futuristic font. Adjacent to it is a high-contrast call-to-action button (`cta`) over a light background block (`cta_background`). The centerpiece is a sleek watch image (`product_image`) overlapping subtle circular highlights, giving depth and focus.\n\n**Color Palette:**\n- Deep Navy Blue (`#0D1D3A`)\n- Charcoal Slate (`#162649`)\n- Midnight Blue (`#0A1428`)\n- Soft Silver Grey (`#C0C0C0`)\n- White (`#FFFFFF`)\n",
+    "product_color": "\nThe product image of the Michael Kors watch features a sophisticated and luxurious color palette dominated by metallic silver (#C0C0C0), deep teal green (#013F43), and subtle rose gold accents (#B76E79). The silver is used on the strap and highlights the frame, creating a sleek and polished look. The deep teal dial adds contrast while emphasizing the timeless elegance of the watch. Rose gold reflections subtly blend into the metallic finish, giving warmth and refinement without overwhelming the design. High contrast between dark and bright shades, along with reflective surfaces, adds depth and definition\u2014ideal for a stylish, upscale advertisement banner.\n"
+}

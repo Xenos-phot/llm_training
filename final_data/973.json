@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2D2D4A'/><stop offset='100%' stop-color='#1A1A30'/></linearGradient><linearGradient id='accent1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF6B00'/><stop offset='100%' stop-color='#FF9D00'/></linearGradient><linearGradient id='accent2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD600'/><stop offset='100%' stop-color='#FFEA80'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='540' y='0' width='540' height='1080' fill='#1A1A30' opacity='0.7'/><path d='M 0 200 C 150 150, 300 300, 450 250 S 600 100, 0 100 Z' fill='url(#accent1)' opacity='0.1'/><path d='M 540 400 C 690 350, 840 500, 990 450 S 1140 300, 540 300 Z' fill='url(#accent2)' opacity='0.1'/><circle cx='100' cy='100' r='30' fill='url(#accent1)' opacity='0.3'/><circle cx='150' cy='150' r='20' fill='url(#accent2)' opacity='0.3'/><circle cx='200' cy='100' r='15' fill='url(#accent1)' opacity='0.3'/><circle cx='980' cy='900' r='30' fill='url(#accent1)' opacity='0.3'/><circle cx='930' cy='950' r='20' fill='url(#accent2)' opacity='0.3'/><circle cx='880' cy='900' r='15' fill='url(#accent1)' opacity='0.3'/><path d='M 0 0 L 540 0 L 540 1080 L 0 1080 Z' stroke='url(#accent1)' stroke-width='5' fill='none' opacity='0.2'/><path d='M 50 50 L 490 50 L 490 1030 L 50 1030 Z' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 150, "left": 70, "width": 333.62, "height": 128.82, "fill": "#FFFFFF", "text": "UNLEASH\nYOUR GAME", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 340, "left": 70, "width": 395.45, "height": 33.9, "fill": "#FFD600", "text": "PRO-GRIP BASKETBALL", "fontSize": 30, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "product_title"}, {"type": "text", "top": 400, "left": 70, "width": 371.94, "height": 22.6, "fill": "#FF9D00", "text": "ELEVATE YOUR PERFORMANCE", "fontSize": 20, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 500, "left": 70, "width": 406.76, "height": 157.3, "fill": "#FFFFFF", "text": "\u2022 Premium synthetic leather construction\n\u2022 Enhanced grip technology with deep\n  channel design\n\u2022 All-weather durability for indoor\n  and outdoor courts", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 750, "left": 70, "width": 364.08, "height": 22.6, "fill": "#FFFFFF", "text": "Competition Grade Indoor/Outdoor", "fontSize": 20, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 820, "left": 70, "width": 200, "height": 60, "fill": "#FF6B00", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 836, "left": 92, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 920, "left": 70, "width": 325.31, "height": 29.38, "fill": "#FFD600", "text": "ULTIMATE BALL CONTROL", "fontSize": 26, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "tagline_2"}, {"type": "image", "top": 320, "left": 600, "width": 423, "height": 439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/qHxzlsKLetLTQdAU4WEgO_423x439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Pro-Grip Basketball - Competition Grade Indoor/Outdoor Performance Ball", "description": "\u2022 Official size regulation basketball with premium synthetic leather construction\n\u2022 Enhanced grip technology with deep channel design for superior ball control\n\u2022 Distinctive dual-tone yellow stripe pattern for improved visibility during play\n\u2022 All-weather durability suitable for both indoor and outdoor courts\n\u2022 Professional-grade moisture-wicking surface maintains consistent performance\n\u2022 Optimized ball texture for precise shooting and handling\n\u2022 Superior air retention technology for lasting shape and bounce\n\u2022 Competition-standard size and weight specifications\n\u2022 Perfect for training, recreational play, and competitive matches\n\u2022 High-contrast design helps track ball rotation during shots", "price": "$0"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/qHxzlsKLetLTQdAU4WEgO_423x439.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/pai-images_0a86f1772d4847bb8cfce7b65b3218d1.webp", "layout": "split_vertical"}, "banner_details": "  \nThe banner features a bold and energetic sports advertisement layout with a modern, high-contrast aesthetic. The background is split between a deep gradient navy and black tone with abstract swooshes and circles, adding a sense of motion. The left side features multiple text layers starting with a bold, white uppercase heading (`heading`), followed by a yellow product title (`product_title`) and an orange-yellow tagline (`tagline`), emphasizing performance. Below, a white bulleted feature list (`description`) details the key product specs. A white subheading (`subheading`) reinforces professionalism, while a bright orange call-to-action button (`cta_button`) labeled with a white text (`cta`) urges immediate action. A final tag line in bold yellow (`tagline_2`) reinforces product benefit. The right side prominently displays a realistic basketball image (`product_image`), making it product-focused and dynamic in visual appeal.  \n\n**Color Palette:**  \n- Midnight Navy (#1A1A30)  \n- Deep Indigo (#2D2D4A)  \n- Bright Orange (#FF6B00)  \n- Gold Yellow (#FFD600)  \n- Soft Orange Gradient (#FF9D00 - #FFEA80)  \n- Pure White (#FFFFFF)  \n", "product_color": "  \nThe basketball in the image features a bold and dynamic color palette primarily consisting of deep maroon (#6C1E1E) and vibrant yellow (#FFD700). The maroon base gives the product a rich, textured look, representing strength and durability, while the bright yellow stripes provide striking contrast and act as highlights, drawing the viewer's attention and adding energy to the design. The black dividing line (#000000) adds definition between sections, enhancing its structural appeal. The colors are well-blended through natural gradients and shading on the ball's pebbled surface, allowing light reflection to amplify the dimensional contrast. This palette gives a premium and sporty feel.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2D2D4A'/><stop offset='100%' stop-color='#1A1A30'/></linearGradient><linearGradient id='accent1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF6B00'/><stop offset='100%' stop-color='#FF9D00'/></linearGradient><linearGradient id='accent2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD600'/><stop offset='100%' stop-color='#FFEA80'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='540' y='0' width='540' height='1080' fill='#1A1A30' opacity='0.7'/><path d='M 0 200 C 150 150, 300 300, 450 250 S 600 100, 0 100 Z' fill='url(#accent1)' opacity='0.1'/><path d='M 540 400 C 690 350, 840 500, 990 450 S 1140 300, 540 300 Z' fill='url(#accent2)' opacity='0.1'/><circle cx='100' cy='100' r='30' fill='url(#accent1)' opacity='0.3'/><circle cx='150' cy='150' r='20' fill='url(#accent2)' opacity='0.3'/><circle cx='200' cy='100' r='15' fill='url(#accent1)' opacity='0.3'/><circle cx='980' cy='900' r='30' fill='url(#accent1)' opacity='0.3'/><circle cx='930' cy='950' r='20' fill='url(#accent2)' opacity='0.3'/><circle cx='880' cy='900' r='15' fill='url(#accent1)' opacity='0.3'/><path d='M 0 0 L 540 0 L 540 1080 L 0 1080 Z' stroke='url(#accent1)' stroke-width='5' fill='none' opacity='0.2'/><path d='M 50 50 L 490 50 L 490 1030 L 50 1030 Z' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 70,
+                "width": 333.62,
+                "height": 128.82,
+                "fill": "#FFFFFF",
+                "text": "UNLEASH\nYOUR GAME",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 70,
+                "width": 395.45,
+                "height": 33.9,
+                "fill": "#FFD600",
+                "text": "PRO-GRIP BASKETBALL",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "product_title"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 70,
+                "width": 371.94,
+                "height": 22.6,
+                "fill": "#FF9D00",
+                "text": "ELEVATE YOUR PERFORMANCE",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 500,
+                "left": 70,
+                "width": 406.76,
+                "height": 157.3,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium synthetic leather construction\n\u2022 Enhanced grip technology with deep\n  channel design\n\u2022 All-weather durability for indoor\n  and outdoor courts",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 70,
+                "width": 364.08,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "Competition Grade Indoor/Outdoor",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 820,
+                "left": 70,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF6B00",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 836,
+                "left": 92,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 920,
+                "left": 70,
+                "width": 325.31,
+                "height": 29.38,
+                "fill": "#FFD600",
+                "text": "ULTIMATE BALL CONTROL",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "tagline_2"
+            },
+            {
+                "type": "image",
+                "top": 320,
+                "left": 600,
+                "width": 423,
+                "height": 439,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/qHxzlsKLetLTQdAU4WEgO_423x439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Pro-Grip Basketball - Competition Grade Indoor/Outdoor Performance Ball",
+            "description": "\u2022 Official size regulation basketball with premium synthetic leather construction\n\u2022 Enhanced grip technology with deep channel design for superior ball control\n\u2022 Distinctive dual-tone yellow stripe pattern for improved visibility during play\n\u2022 All-weather durability suitable for both indoor and outdoor courts\n\u2022 Professional-grade moisture-wicking surface maintains consistent performance\n\u2022 Optimized ball texture for precise shooting and handling\n\u2022 Superior air retention technology for lasting shape and bounce\n\u2022 Competition-standard size and weight specifications\n\u2022 Perfect for training, recreational play, and competitive matches\n\u2022 High-contrast design helps track ball rotation during shots",
+            "price": "$0"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/qHxzlsKLetLTQdAU4WEgO_423x439.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/pai-images_0a86f1772d4847bb8cfce7b65b3218d1.webp",
+        "layout": "split_vertical"
+    },
+    "banner_details": "  \nThe banner features a bold and energetic sports advertisement layout with a modern, high-contrast aesthetic. The background is split between a deep gradient navy and black tone with abstract swooshes and circles, adding a sense of motion. The left side features multiple text layers starting with a bold, white uppercase heading (`heading`), followed by a yellow product title (`product_title`) and an orange-yellow tagline (`tagline`), emphasizing performance. Below, a white bulleted feature list (`description`) details the key product specs. A white subheading (`subheading`) reinforces professionalism, while a bright orange call-to-action button (`cta_button`) labeled with a white text (`cta`) urges immediate action. A final tag line in bold yellow (`tagline_2`) reinforces product benefit. The right side prominently displays a realistic basketball image (`product_image`), making it product-focused and dynamic in visual appeal.  \n\n**Color Palette:**  \n- Midnight Navy (#1A1A30)  \n- Deep Indigo (#2D2D4A)  \n- Bright Orange (#FF6B00)  \n- Gold Yellow (#FFD600)  \n- Soft Orange Gradient (#FF9D00 - #FFEA80)  \n- Pure White (#FFFFFF)  \n",
+    "product_color": "  \nThe basketball in the image features a bold and dynamic color palette primarily consisting of deep maroon (#6C1E1E) and vibrant yellow (#FFD700). The maroon base gives the product a rich, textured look, representing strength and durability, while the bright yellow stripes provide striking contrast and act as highlights, drawing the viewer's attention and adding energy to the design. The black dividing line (#000000) adds definition between sections, enhancing its structural appeal. The colors are well-blended through natural gradients and shading on the ball's pebbled surface, allowing light reflection to amplify the dimensional contrast. This palette gives a premium and sporty feel.  \n"
+}

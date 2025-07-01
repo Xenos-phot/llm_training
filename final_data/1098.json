@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#193755'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#4A9BD1' opacity='0.9'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#193755'/><g opacity='0.1'><circle cx='200' cy='200' r='80' fill='#FFFFFF'/><circle cx='900' cy='800' r='100' fill='#FFFFFF'/></g><g opacity='0.05'><rect x='100' y='100' width='200' height='5' fill='#FFFFFF'/><rect x='100' y='120' width='150' height='5' fill='#FFFFFF'/><rect x='800' y='900' width='200' height='5' fill='#FFFFFF'/><rect x='850' y='920' width='150' height='5' fill='#FFFFFF'/></g><path d='M0 540 L540 0' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/><path d='M540 1080 L1080 540' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/><path d='M0 0 L1080 1080' stroke='#FFFFFF' stroke-width='2' opacity='0.07'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 477.44, "height": 135.6, "fill": "#FFFFFF", "text": "SMART", "fontSize": 120, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 50, "width": 651.2, "height": 135.6, "fill": "#FFFFFF", "text": "LAUNDRY", "fontSize": 120, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 330, "left": 50, "width": 608.87, "height": 67.8, "fill": "#90CAF9", "text": "MODERN EXCELLENCE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 430, "left": 50, "width": 344.99, "height": 176.28, "fill": "#FFFFFF", "text": "\u2022 Digital LED Control Panel\n\u2022 Multiple Wash Cycles\n\u2022 Energy-Efficient Operation\n\u2022 Smart Programming", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 50, "width": 261.03, "height": 113, "fill": "#FFFFFF", "text": "$160", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 50, "width": 200, "height": 60, "fill": "#90CAF9", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 936, "left": 85, "width": 125.04, "height": 27.12, "fill": "#193755", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 438, "left": 545, "width": 899, "height": 1281, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ji4oEpLS9vU4Zsz9dP0m5_899x1281.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Smart Front Load Washer - Modern Laundry Excellence", "description": "\u2022 Digital LED Display with Intuitive Control Panel\n\u2022 Multiple Wash Cycles Including Express, Delay, and Temperature Control\n\u2022 Large Capacity Front-Loading Design for Efficient Cleaning\n\u2022 Energy-Efficient Operation with Smart Programming\n\u2022 Sleek White Modern Design with Chrome Accents\n\u2022 Easy-to-Use Dial Selector for Cycle Customization\n\u2022 Clear View Door with Safety Lock System\n\u2022 Advanced Water Management System\n\u2022 Anti-Vibration Support Feet for Stable Operation\n\u2022 Digital Time Remaining Display\n\u2022 Multiple Temperature Settings for Various Fabric Types\n\u2022 Compact Yet Spacious Design Perfect for Modern Homes", "price": "$160"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ji4oEpLS9vU4Zsz9dP0m5_899x1281.png", "marketplace_url": "blob:https://studio.phot.ai/8a6cd009-06ee-4ac0-89c7-7831718511f3", "layout": "diagonal_split"}, "banner_details": "\nThe banner features a clean and modern layout designed to highlight a washing machine product. It uses bold, uppercase typography for emphasis in two prominent text layers: `heading_1` and `heading_2`, which introduce the product with impactful messaging. The `tagline` layer underlines the theme with a subtle, elegant hue. Key features of the product are neatly itemized in bullet points within the `description` layer, while the `price` layer draws immediate attention with large white text. A rectangular call-to-action button, composed of `cta_button` and `cta`, invites user interaction. The right side prominently showcases the actual product via the `product_image` layer. \n\n**Color Palette:**\n- Navy Blue: #193755 (background and text)\n- Sky Blue: #4A9BD1 (graphic shape)\n- Light Blue: #90CAF9 (tagline text, button)\n- White: #FFFFFF (text, product highlights)\n\n", "product_color": "  \nThe product image showcases a sleek, modern washing machine with a clean monochrome color palette. Predominant tones include bright white (#FFFFFF), matte black (#1C1C1C), and shades of grey (#A9A9A9) for the drum and display area. Accents of electric blue (#00BFFF) are used sparingly in the digital panel and knob, drawing attention to controls and functionality. The harmony lies in the contrast \u2014 the bright white body sharply defines the black drum and interface, while soft grey gradients create visual depth. This palette conveys a sense of cleanliness, precision, and modernity, ideal for a banner emphasizing advanced technology and sleek design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#193755'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#4A9BD1' opacity='0.9'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#193755'/><g opacity='0.1'><circle cx='200' cy='200' r='80' fill='#FFFFFF'/><circle cx='900' cy='800' r='100' fill='#FFFFFF'/></g><g opacity='0.05'><rect x='100' y='100' width='200' height='5' fill='#FFFFFF'/><rect x='100' y='120' width='150' height='5' fill='#FFFFFF'/><rect x='800' y='900' width='200' height='5' fill='#FFFFFF'/><rect x='850' y='920' width='150' height='5' fill='#FFFFFF'/></g><path d='M0 540 L540 0' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/><path d='M540 1080 L1080 540' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/><path d='M0 0 L1080 1080' stroke='#FFFFFF' stroke-width='2' opacity='0.07'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 477.44,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "SMART",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 651.2,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "LAUNDRY",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 50,
+                "width": 608.87,
+                "height": 67.8,
+                "fill": "#90CAF9",
+                "text": "MODERN EXCELLENCE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 50,
+                "width": 344.99,
+                "height": 176.28,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Digital LED Control Panel\n\u2022 Multiple Wash Cycles\n\u2022 Energy-Efficient Operation\n\u2022 Smart Programming",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 50,
+                "width": 261.03,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$160",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#90CAF9",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 936,
+                "left": 85,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#193755",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 438,
+                "left": 545,
+                "width": 404.55,
+                "height": 576.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ji4oEpLS9vU4Zsz9dP0m5_899x1281.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Smart Front Load Washer - Modern Laundry Excellence",
+            "description": "\u2022 Digital LED Display with Intuitive Control Panel\n\u2022 Multiple Wash Cycles Including Express, Delay, and Temperature Control\n\u2022 Large Capacity Front-Loading Design for Efficient Cleaning\n\u2022 Energy-Efficient Operation with Smart Programming\n\u2022 Sleek White Modern Design with Chrome Accents\n\u2022 Easy-to-Use Dial Selector for Cycle Customization\n\u2022 Clear View Door with Safety Lock System\n\u2022 Advanced Water Management System\n\u2022 Anti-Vibration Support Feet for Stable Operation\n\u2022 Digital Time Remaining Display\n\u2022 Multiple Temperature Settings for Various Fabric Types\n\u2022 Compact Yet Spacious Design Perfect for Modern Homes",
+            "price": "$160"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ji4oEpLS9vU4Zsz9dP0m5_899x1281.png",
+        "marketplace_url": "blob:https://studio.phot.ai/8a6cd009-06ee-4ac0-89c7-7831718511f3",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner features a clean and modern layout designed to highlight a washing machine product. It uses bold, uppercase typography for emphasis in two prominent text layers: `heading_1` and `heading_2`, which introduce the product with impactful messaging. The `tagline` layer underlines the theme with a subtle, elegant hue. Key features of the product are neatly itemized in bullet points within the `description` layer, while the `price` layer draws immediate attention with large white text. A rectangular call-to-action button, composed of `cta_button` and `cta`, invites user interaction. The right side prominently showcases the actual product via the `product_image` layer. \n\n**Color Palette:**\n- Navy Blue: #193755 (background and text)\n- Sky Blue: #4A9BD1 (graphic shape)\n- Light Blue: #90CAF9 (tagline text, button)\n- White: #FFFFFF (text, product highlights)\n\n",
+    "product_color": "  \nThe product image showcases a sleek, modern washing machine with a clean monochrome color palette. Predominant tones include bright white (#FFFFFF), matte black (#1C1C1C), and shades of grey (#A9A9A9) for the drum and display area. Accents of electric blue (#00BFFF) are used sparingly in the digital panel and knob, drawing attention to controls and functionality. The harmony lies in the contrast \u2014 the bright white body sharply defines the black drum and interface, while soft grey gradients create visual depth. This palette conveys a sense of cleanliness, precision, and modernity, ideal for a banner emphasizing advanced technology and sleek design.  \n"
+}

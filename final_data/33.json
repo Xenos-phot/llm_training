@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#7D2D35'/><stop offset='100%' stop-color='#4A1A24'/></linearGradient><linearGradient id='accentGrad' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' stop-color='#F5C4C9'/><stop offset='100%' stop-color='#E8A3A8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='url(#accentGrad)'/><circle cx='200' cy='200' r='80' fill='#ffffff' opacity='0.05'/><circle cx='800' cy='800' r='150' fill='#ffffff' opacity='0.05'/><path d='M700 300 L750 350 L800 300 L750 250 Z' fill='#ffffff' opacity='0.1'/><path d='M200 700 L250 750 L300 700 L250 650 Z' fill='#ffffff' opacity='0.1'/><path d='M0 540 L1080 540' stroke='#ffffff' stroke-width='1' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 60, "width": 621.68, "height": 135.6, "fill": "#F5C4C9", "text": "GIFT HER", "fontSize": 120, "fontFamily": "Cinzel Decorative Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 210, "left": 60, "width": 543.32, "height": 135.6, "fill": "#ffffff", "text": "SPARKLE", "fontSize": 120, "fontFamily": "Cinzel Decorative Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 360, "left": 60, "width": 503.36, "height": 67.8, "fill": "#F5C4C9", "text": "ROSE GOLD STUDS", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 460, "left": 60, "width": 348.17, "height": 186.45, "fill": "#ffffff", "text": "\u2726 925 Sterling Silver\n\u2726 Perfect Gift for Her\n\u2726 Certificate of Authenticity\n\u2726 6 Month Warranty", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 700, "left": 60, "width": 310.8, "height": 101.7, "fill": "#ffffff", "text": "\u20b9 1739", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 830, "left": 60, "width": 220, "height": 70, "fill": "#F5C4C9", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 850, "left": 90, "width": 166.05, "height": 36.16, "fill": "#4A1A24", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 858, "left": 271.53, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/QQCN8XKr_tMhRJk7KcKGt_895x415.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 Count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.", "price": "\u20b91739"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/QQCN8XKr_tMhRJk7KcKGt_895x415.png", "marketplace_url": "https://www.amazon.in/GIVA-Sterling-Certificate-Authenticity-Warranty/dp/B0BBW8LKJ4/?_encoding=UTF8&pd_rd_w=eQmE5&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=N53BH4BRJ0Q7NQJ4230H&pd_rd_wg=UFygY&pd_rd_r=a18b7dff-5cac-4d3e-8a6d-79c0aff198df&ref_=pd_hp_d_atf_dealz_cs", "layout": "diagonal_split"}, "banner_details": "\nThis banner presents an elegant jewelry promotional design with a luxurious and romantic feel. The layout is split diagonally with the left half featuring a soft blush pink background and the right half showcasing a deep maroon gradient. Central to the composition is a pair of ornate rose gold stud earrings (represented by the \"product_image\") placed at an angle for visual impact. Prominently styled headlines (\"heading_1\" and \"heading_2\") in bold classic serif fonts reinforce the premium feel, while the \"subheading\" adds a descriptive product line. Supporting points (\"description\") highlight key features in a bullet-style list. The pricing (\"price\") is large and bold for prominence, while a rectangular light pink call-to-action button (\"cta_background\") with contrasting dark text (\"cta\") invites immediate action. The overall design blends luxury and femininity.\n\n**Color Palette:**\n- Rose Pink: `#F5C4C9`\n- Deep Maroon: `#4A1A24`, `#7D2D35`\n- Blush Gradient: `#F5C4C9 \u2192 #E8A3A8`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases elegant circular earrings designed with a delicate blend of rose gold and crystal-clear stones. The dominant rose gold (#F7A2A7) frame offers a warm, luxurious base, beautifully contrasted by sparkling white gemstones (#FFFFFF) that add brilliance and clarity. Subtle blush pink accents (#FAD1D5) within the teardrop shapes enhance the feminine appeal. The metallic sheen adds depth, using light reflections to highlight contours and textures. These colors are well-balanced, with the cool white gemstones softly piercing through the warm pink tones, creating an ethereal elegance. This palette would make a perfect base for an ad banner with soft, romantic aesthetics.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#7D2D35'/><stop offset='100%' stop-color='#4A1A24'/></linearGradient><linearGradient id='accentGrad' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' stop-color='#F5C4C9'/><stop offset='100%' stop-color='#E8A3A8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='url(#accentGrad)'/><circle cx='200' cy='200' r='80' fill='#ffffff' opacity='0.05'/><circle cx='800' cy='800' r='150' fill='#ffffff' opacity='0.05'/><path d='M700 300 L750 350 L800 300 L750 250 Z' fill='#ffffff' opacity='0.1'/><path d='M200 700 L250 750 L300 700 L250 650 Z' fill='#ffffff' opacity='0.1'/><path d='M0 540 L1080 540' stroke='#ffffff' stroke-width='1' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 60,
+                "width": 621.68,
+                "height": 135.6,
+                "fill": "#F5C4C9",
+                "text": "GIFT HER",
+                "fontFamily": "Cinzel Decorative Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 60,
+                "width": 543.32,
+                "height": 135.6,
+                "fill": "#ffffff",
+                "text": "SPARKLE",
+                "fontFamily": "Cinzel Decorative Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 60,
+                "width": 503.36,
+                "height": 67.8,
+                "fill": "#F5C4C9",
+                "text": "ROSE GOLD STUDS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 460,
+                "left": 60,
+                "width": 348.17,
+                "height": 186.45,
+                "fill": "#ffffff",
+                "text": "\u2726 925 Sterling Silver\n\u2726 Perfect Gift for Her\n\u2726 Certificate of Authenticity\n\u2726 6 Month Warranty",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 60,
+                "width": 310.8,
+                "height": 101.7,
+                "fill": "#ffffff",
+                "text": "\u20b9 1739",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 830,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#F5C4C9",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 90,
+                "width": 166.05,
+                "height": 36.16,
+                "fill": "#4A1A24",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 858,
+                "left": 271.53,
+                "width": 850.25,
+                "height": 394.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/QQCN8XKr_tMhRJk7KcKGt_895x415.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 Count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.",
+            "price": "\u20b91739"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/QQCN8XKr_tMhRJk7KcKGt_895x415.png",
+        "marketplace_url": "https://www.amazon.in/GIVA-Sterling-Certificate-Authenticity-Warranty/dp/B0BBW8LKJ4/?_encoding=UTF8&pd_rd_w=eQmE5&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=N53BH4BRJ0Q7NQJ4230H&pd_rd_wg=UFygY&pd_rd_r=a18b7dff-5cac-4d3e-8a6d-79c0aff198df&ref_=pd_hp_d_atf_dealz_cs",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner presents an elegant jewelry promotional design with a luxurious and romantic feel. The layout is split diagonally with the left half featuring a soft blush pink background and the right half showcasing a deep maroon gradient. Central to the composition is a pair of ornate rose gold stud earrings (represented by the \"product_image\") placed at an angle for visual impact. Prominently styled headlines (\"heading_1\" and \"heading_2\") in bold classic serif fonts reinforce the premium feel, while the \"subheading\" adds a descriptive product line. Supporting points (\"description\") highlight key features in a bullet-style list. The pricing (\"price\") is large and bold for prominence, while a rectangular light pink call-to-action button (\"cta_background\") with contrasting dark text (\"cta\") invites immediate action. The overall design blends luxury and femininity.\n\n**Color Palette:**\n- Rose Pink: `#F5C4C9`\n- Deep Maroon: `#4A1A24`, `#7D2D35`\n- Blush Gradient: `#F5C4C9 \u2192 #E8A3A8`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases elegant circular earrings designed with a delicate blend of rose gold and crystal-clear stones. The dominant rose gold (#F7A2A7) frame offers a warm, luxurious base, beautifully contrasted by sparkling white gemstones (#FFFFFF) that add brilliance and clarity. Subtle blush pink accents (#FAD1D5) within the teardrop shapes enhance the feminine appeal. The metallic sheen adds depth, using light reflections to highlight contours and textures. These colors are well-balanced, with the cool white gemstones softly piercing through the warm pink tones, creating an ethereal elegance. This palette would make a perfect base for an ad banner with soft, romantic aesthetics.\n"
+}

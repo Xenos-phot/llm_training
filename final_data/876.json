@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF8FA'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#FF80AB' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#FF80AB' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#FF80AB' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><circle cx='200' cy='200' r='60' fill='#FF80AB' opacity='0.1'/><circle cx='880' cy='880' r='60' fill='#FF80AB' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 83, "left": 122, "width": 725.6, "height": 135.6, "fill": "#F06292", "text": "LIMITED TIME OFFER", "fontSize": 120, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 212, "left": 125, "width": 639.92, "height": 90.4, "fill": "#EC407A", "text": "PINK PERFECTION", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 290, "left": 125, "width": 521.36, "height": 36.16, "fill": "#AD1457", "text": "LUXURY BLUSH & LIPSTICK SET", "fontSize": 32, "fontFamily": "Montserrat Alternates Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 136, "width": 500.45, "height": 155.04, "fill": "#880E4F", "text": "\u2022 Premium Pink Matte Blush With Mirror\n\u2022 Matching Bright Pink Lipstick\n\u2022 Long-lasting Color Pigments\n\u2022 Suitable For All Skin Types", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 85, "width": 228.65, "height": 84.75, "fill": "#F06292", "text": "\u20b9 999", "fontSize": 75, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 890, "left": 94, "width": 220, "height": 60, "fill": "#F06292", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 903, "left": 137, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 360, "left": 550, "width": 703, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/rJslYMIByuGfNqUXL29C1_703x759.png", "id": "product_image"}, {"type": "text", "top": 640, "left": 125, "width": 430.37, "height": 33.9, "fill": "#C2185B", "text": "GRAB YOUR GLAMOUR NOW!", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "call_to_action_text"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pink Perfection: Luxury Blush & Lipstick Beauty Set", "description": "\u2022 Premium pink matte blush compact with mirror for flawless application\n\u2022 Silky-smooth powder formula for natural-looking flush\n\u2022 Sleek black compact case with protective mirror\n\u2022 Matching bright pink lipstick in elegant silver tube\n\u2022 Long-lasting color pigments for all-day wear\n\u2022 Professional-grade cosmetic duo for complete look\n\u2022 Travel-friendly size perfect for on-the-go touch-ups\n\u2022 Dermatologically tested and suitable for all skin types\n\u2022 Complementary pink shades for coordinated makeup look\n\u2022 Modern packaging design with premium finish", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/rJslYMIByuGfNqUXL29C1_703x759.png", "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg", "layout": "frame_layout"}, "banner_details": "\nThe banner showcases a glamorous promotional ad for a cosmetic product bundle, featuring a lipstick and blush set with a sophisticated and feminine visual treatment. It utilizes a layered layout with a soft pink gradient background overlaid by decorative abstract strokes and border rectangles. Bold, attention-grabbing typography is used for key text areas: the main promotional message (`tagline`) is large and uppercase in a tall bold font, followed by a striking product name (`heading`) and a smaller elegant subheading (`subheading`). Informative bullet points (`description`) describe the product benefits. A motivational message (`call_to_action_text`) precedes the pricing detail (`price`). A visually appealing product image (`product_image`) is placed prominently on the right. A CTA button (`cta_background`, `cta`) in a rounded rectangle format anchors the visual hierarchy.\n\n**Color Palette:**\n- Soft Blush Pink: `#FFF8FA`\n- Bright Pink: `#F06292`\n- Bold Magenta: `#EC407A`\n- Deep Rose: `#AD1457`\n- Dark Plum: `#880E4F`\n- Accent Pink Outline: `#FF80AB`\n- White Text on Buttons: `#FFFFFF`\n", "product_color": "  \nThe product image prominently features a harmonious blend of soft pink and sleek black tones, making it ideal for a feminine, elegant advertisement banner. The primary pink shade (#EC5DA9) from the lipstick and blush adds a soft, romantic appeal. This is contrasted and grounded by the intense black (#1C1C1C) of the compact case and lipstick base, conveying sophistication. The metallic silver (#C0C0C0) on the lipstick casing introduces a modern, luxurious feel. The background is a light neutral white-gray (#F5F5F5), which enhances product visibility. Together, these colors balance softness and glamor, making them perfect for a chic beauty brand theme.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF8FA'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#FF80AB' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#FF80AB' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#FF80AB' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#FF80AB' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><circle cx='200' cy='200' r='60' fill='#FF80AB' opacity='0.1'/><circle cx='880' cy='880' r='60' fill='#FF80AB' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 83,
+                "left": 122,
+                "width": 725.6,
+                "height": 135.6,
+                "fill": "#F06292",
+                "text": "LIMITED TIME OFFER",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 212,
+                "left": 125,
+                "width": 639.92,
+                "height": 90.4,
+                "fill": "#EC407A",
+                "text": "PINK PERFECTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 125,
+                "width": 521.36,
+                "height": 36.16,
+                "fill": "#AD1457",
+                "text": "LUXURY BLUSH & LIPSTICK SET",
+                "fontFamily": "Montserrat Alternates Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 136,
+                "width": 500.45,
+                "height": 155.04,
+                "fill": "#880E4F",
+                "text": "\u2022 Premium Pink Matte Blush With Mirror\n\u2022 Matching Bright Pink Lipstick\n\u2022 Long-lasting Color Pigments\n\u2022 Suitable For All Skin Types",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 85,
+                "width": 228.65,
+                "height": 84.75,
+                "fill": "#F06292",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 890,
+                "left": 94,
+                "width": 220,
+                "height": 60,
+                "fill": "#F06292",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 903,
+                "left": 137,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 360,
+                "left": 550,
+                "width": 456.95,
+                "height": 493.35,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/rJslYMIByuGfNqUXL29C1_703x759.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 640,
+                "left": 125,
+                "width": 430.37,
+                "height": 33.9,
+                "fill": "#C2185B",
+                "text": "GRAB YOUR GLAMOUR NOW!",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "call_to_action_text"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pink Perfection: Luxury Blush & Lipstick Beauty Set",
+            "description": "\u2022 Premium pink matte blush compact with mirror for flawless application\n\u2022 Silky-smooth powder formula for natural-looking flush\n\u2022 Sleek black compact case with protective mirror\n\u2022 Matching bright pink lipstick in elegant silver tube\n\u2022 Long-lasting color pigments for all-day wear\n\u2022 Professional-grade cosmetic duo for complete look\n\u2022 Travel-friendly size perfect for on-the-go touch-ups\n\u2022 Dermatologically tested and suitable for all skin types\n\u2022 Complementary pink shades for coordinated makeup look\n\u2022 Modern packaging design with premium finish",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/rJslYMIByuGfNqUXL29C1_703x759.png",
+        "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThe banner showcases a glamorous promotional ad for a cosmetic product bundle, featuring a lipstick and blush set with a sophisticated and feminine visual treatment. It utilizes a layered layout with a soft pink gradient background overlaid by decorative abstract strokes and border rectangles. Bold, attention-grabbing typography is used for key text areas: the main promotional message (`tagline`) is large and uppercase in a tall bold font, followed by a striking product name (`heading`) and a smaller elegant subheading (`subheading`). Informative bullet points (`description`) describe the product benefits. A motivational message (`call_to_action_text`) precedes the pricing detail (`price`). A visually appealing product image (`product_image`) is placed prominently on the right. A CTA button (`cta_background`, `cta`) in a rounded rectangle format anchors the visual hierarchy.\n\n**Color Palette:**\n- Soft Blush Pink: `#FFF8FA`\n- Bright Pink: `#F06292`\n- Bold Magenta: `#EC407A`\n- Deep Rose: `#AD1457`\n- Dark Plum: `#880E4F`\n- Accent Pink Outline: `#FF80AB`\n- White Text on Buttons: `#FFFFFF`\n",
+    "product_color": "  \nThe product image prominently features a harmonious blend of soft pink and sleek black tones, making it ideal for a feminine, elegant advertisement banner. The primary pink shade (#EC5DA9) from the lipstick and blush adds a soft, romantic appeal. This is contrasted and grounded by the intense black (#1C1C1C) of the compact case and lipstick base, conveying sophistication. The metallic silver (#C0C0C0) on the lipstick casing introduces a modern, luxurious feel. The background is a light neutral white-gray (#F5F5F5), which enhances product visibility. Together, these colors balance softness and glamor, making them perfect for a chic beauty brand theme.  \n"
+}

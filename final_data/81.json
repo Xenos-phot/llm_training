@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#EACEA5;stop-opacity:1'/><stop offset='100%' style='stop-color:#F7E7C7;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#D4A017;stop-opacity:1'/><stop offset='100%' style='stop-color:#C68E17;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='url(#grad2)'/><g opacity='0.15'><path d='M400 200 C410 190, 420 180, 430 190 C440 200, 450 210, 460 200' stroke='#FFFFFF' stroke-width='2'/><path d='M200 400 C210 390, 220 380, 230 390 C240 400, 250 410, 260 400' stroke='#FFFFFF' stroke-width='2'/><path d='M100 600 C110 590, 120 580, 130 590 C140 600, 150 610, 160 600' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.2'><circle cx='800' cy='300' r='40' fill='#8BAE37'/><circle cx='850' cy='380' r='20' fill='#8BAE37'/><circle cx='780' cy='420' r='25' fill='#8BAE37'/></g><g opacity='0.1'><path d='M50 300 L200 300' stroke='#754C24' stroke-width='3'/><path d='M100 350 L250 350' stroke='#754C24' stroke-width='3'/><path d='M150 400 L300 400' stroke='#754C24' stroke-width='3'/></g><path d='M900 700 C910 690, 920 680, 930 690 C940 700, 950 710, 960 700' stroke='#754C24' stroke-width='2' opacity='0.15'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 514.94, "height": 135.6, "fill": "#5B3A29", "text": "JALJEERA", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 42, "width": 465.9, "height": 73.45, "fill": "#7A4D2B", "text": "TRADITIONAL SPICED", "fontSize": 65, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading_1"}, {"type": "text", "top": 280, "left": 42, "width": 395.83, "height": 73.45, "fill": "#7A4D2B", "text": "INDIAN BEVERAGE", "fontSize": 65, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading_2"}, {"type": "text", "top": 400, "left": 42, "width": 449.03, "height": 196.62, "fill": "#5B3A29", "text": "\u2022 Authentic blend of cumin & spices\n\u2022 Ready-to-serve with spill-proof cap\n\u2022 Premium natural ingredients\n\u2022 Refreshing digestive properties", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 42, "width": 259.34, "height": 101.7, "fill": "#5B3A29", "text": "\u20b9 100", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 42, "width": 220, "height": 70, "fill": "#8BAE37", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 818, "left": 82, "width": 136.04, "height": 33.9, "fill": "#FFFFFF", "text": "BUY NOW", "fontSize": 30, "fontFamily": "Bagel Fat One-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 270, "left": 620, "width": 639, "height": 1375, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/uPxM4xv1_MxmxbyZrPnkA_639x1375.png", "id": "product_image"}, {"type": "text", "top": 920, "left": 42, "width": 457.65, "height": 20.34, "fill": "#7A4D2B", "text": "From Paper Boat's 'Drinks and Memories' collection", "fontSize": 18, "fontFamily": "Poppins-Italic", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Paper Boat Jaljeera | Refreshing Traditional Indian Spiced Beverage | Ready-to-Serve Drink", "description": "\u2022 Authentic Indian Jaljeera flavor - A perfect blend of cumin and traditional spices\n\u2022 Convenient shake-and-sip packaging with spill-proof cap\n\u2022 Ready-to-serve beverage - No preparation needed\n\u2022 Premium quality natural ingredients\n\u2022 Refreshing summer drink with digestive properties\n\u2022 Modern twist to traditional Indian beverage\n\u2022 Portable and travel-friendly packaging\n\u2022 Perfect accompaniment for meals or as a refreshing drink\n\u2022 Vegetarian product certified\n\u2022 From Paper Boat's 'Drinks and Memories' collection\n\u2022 Hygienic and sealed packaging for freshness\n\u2022 No artificial preservatives or colors", "price": "\u20b9100"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/uPxM4xv1_MxmxbyZrPnkA_639x1375.png", "marketplace_url": "blob:https://studio.phot.ai/53a6b9bc-16ed-4938-ba37-d49883490d08", "layout": "diagonal_split"}, "banner_details": "\nThe banner showcases a promotional design for a traditional Indian beverage, set against a diagonally split background with an earthy yellow and beige gradient. The layout features a strong visual hierarchy, starting with a bold, large-sized title (`heading`) placed at the top left. Directly beneath it are two subheading layers (`subheading_1` and `subheading_2`) in uppercase, conveying the beverage\u2019s cultural roots. The middle-left section presents detailed product benefits in a compact, bulleted format (`description`). Pricing (`price`) is prominently displayed in large font near the center-left. A green rectangular CTA button (`cta_background` with `cta`) reads \u201cBuy Now\u201d. The product image (`product_image`) occupies the right half, while the `tagline` sits subtly at the bottom left. The design integrates wavy and circular graphical elements to add visual interest.\n\n**Color Palette:**\n- Amber Yellow: `#D4A017`\n- Deep Brown: `#5B3A29`\n- Light Beige: `#F7E7C7`\n- Earthy Orange: `#C68E17`\n- Olive Green: `#8BAE37`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image of Paper Boat\u2019s Jaljeera drink utilizes a clean and earthy color palette that reflects freshness, tradition, and natural ingredients. The primary colors include mustard yellow (#E3B634) used in the cap, text, and base, olive green (#93A093) in the \u201cpaper boat\u201d text, bright green (#2CA948) in the mint leaf, and shades of brown (#764C20, #B2875A) in cumin seed illustrations. The white background (#FFFFFF) ensures clarity and contrast, highlighting the product\u2019s elements. These colors blend harmoniously, emphasizing a natural, nostalgic feel while strategically standing out to guide the eyes to brand name, flavor, and product appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#EACEA5;stop-opacity:1'/><stop offset='100%' style='stop-color:#F7E7C7;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#D4A017;stop-opacity:1'/><stop offset='100%' style='stop-color:#C68E17;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='url(#grad2)'/><g opacity='0.15'><path d='M400 200 C410 190, 420 180, 430 190 C440 200, 450 210, 460 200' stroke='#FFFFFF' stroke-width='2'/><path d='M200 400 C210 390, 220 380, 230 390 C240 400, 250 410, 260 400' stroke='#FFFFFF' stroke-width='2'/><path d='M100 600 C110 590, 120 580, 130 590 C140 600, 150 610, 160 600' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.2'><circle cx='800' cy='300' r='40' fill='#8BAE37'/><circle cx='850' cy='380' r='20' fill='#8BAE37'/><circle cx='780' cy='420' r='25' fill='#8BAE37'/></g><g opacity='0.1'><path d='M50 300 L200 300' stroke='#754C24' stroke-width='3'/><path d='M100 350 L250 350' stroke='#754C24' stroke-width='3'/><path d='M150 400 L300 400' stroke='#754C24' stroke-width='3'/></g><path d='M900 700 C910 690, 920 680, 930 690 C940 700, 950 710, 960 700' stroke='#754C24' stroke-width='2' opacity='0.15'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 514.94,
+                "height": 135.6,
+                "fill": "#5B3A29",
+                "text": "JALJEERA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 42,
+                "width": 465.9,
+                "height": 73.45,
+                "fill": "#7A4D2B",
+                "text": "TRADITIONAL SPICED",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading_1"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 42,
+                "width": 395.83,
+                "height": 73.45,
+                "fill": "#7A4D2B",
+                "text": "INDIAN BEVERAGE",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading_2"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 42,
+                "width": 449.03,
+                "height": 196.62,
+                "fill": "#5B3A29",
+                "text": "\u2022 Authentic blend of cumin & spices\n\u2022 Ready-to-serve with spill-proof cap\n\u2022 Premium natural ingredients\n\u2022 Refreshing digestive properties",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 42,
+                "width": 259.34,
+                "height": 101.7,
+                "fill": "#5B3A29",
+                "text": "\u20b9 100",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 42,
+                "width": 220,
+                "height": 70,
+                "fill": "#8BAE37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 818,
+                "left": 82,
+                "width": 136.04,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "BUY NOW",
+                "fontFamily": "Bagel Fat One-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 270,
+                "left": 620,
+                "width": 287.55,
+                "height": 618.75,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/uPxM4xv1_MxmxbyZrPnkA_639x1375.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 920,
+                "left": 42,
+                "width": 457.65,
+                "height": 20.34,
+                "fill": "#7A4D2B",
+                "text": "From Paper Boat's 'Drinks and Memories' collection",
+                "fontFamily": "Poppins-Italic",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Paper Boat Jaljeera | Refreshing Traditional Indian Spiced Beverage | Ready-to-Serve Drink",
+            "description": "\u2022 Authentic Indian Jaljeera flavor - A perfect blend of cumin and traditional spices\n\u2022 Convenient shake-and-sip packaging with spill-proof cap\n\u2022 Ready-to-serve beverage - No preparation needed\n\u2022 Premium quality natural ingredients\n\u2022 Refreshing summer drink with digestive properties\n\u2022 Modern twist to traditional Indian beverage\n\u2022 Portable and travel-friendly packaging\n\u2022 Perfect accompaniment for meals or as a refreshing drink\n\u2022 Vegetarian product certified\n\u2022 From Paper Boat's 'Drinks and Memories' collection\n\u2022 Hygienic and sealed packaging for freshness\n\u2022 No artificial preservatives or colors",
+            "price": "\u20b9100"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/uPxM4xv1_MxmxbyZrPnkA_639x1375.png",
+        "marketplace_url": "blob:https://studio.phot.ai/53a6b9bc-16ed-4938-ba37-d49883490d08",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner showcases a promotional design for a traditional Indian beverage, set against a diagonally split background with an earthy yellow and beige gradient. The layout features a strong visual hierarchy, starting with a bold, large-sized title (`heading`) placed at the top left. Directly beneath it are two subheading layers (`subheading_1` and `subheading_2`) in uppercase, conveying the beverage\u2019s cultural roots. The middle-left section presents detailed product benefits in a compact, bulleted format (`description`). Pricing (`price`) is prominently displayed in large font near the center-left. A green rectangular CTA button (`cta_background` with `cta`) reads \u201cBuy Now\u201d. The product image (`product_image`) occupies the right half, while the `tagline` sits subtly at the bottom left. The design integrates wavy and circular graphical elements to add visual interest.\n\n**Color Palette:**\n- Amber Yellow: `#D4A017`\n- Deep Brown: `#5B3A29`\n- Light Beige: `#F7E7C7`\n- Earthy Orange: `#C68E17`\n- Olive Green: `#8BAE37`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image of Paper Boat\u2019s Jaljeera drink utilizes a clean and earthy color palette that reflects freshness, tradition, and natural ingredients. The primary colors include mustard yellow (#E3B634) used in the cap, text, and base, olive green (#93A093) in the \u201cpaper boat\u201d text, bright green (#2CA948) in the mint leaf, and shades of brown (#764C20, #B2875A) in cumin seed illustrations. The white background (#FFFFFF) ensures clarity and contrast, highlighting the product\u2019s elements. These colors blend harmoniously, emphasizing a natural, nostalgic feel while strategically standing out to guide the eyes to brand name, flavor, and product appeal.\n"
+}

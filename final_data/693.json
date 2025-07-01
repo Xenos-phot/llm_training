@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FF8A65'/><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#FFA726'/><stop offset='100%' stop-color='#FF5722'/></radialGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='60%' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#43A047'/><stop offset='100%' stop-color='#2E7D32'/></radialGradient><radialGradient id='priceGradient' cx='50%' cy='50%' r='60%' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#FFD54F'/><stop offset='100%' stop-color='#FFC107'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1'><circle cx='150' cy='150' r='20' fill='#FFF'/><circle cx='930' cy='150' r='20' fill='#FFF'/><circle cx='150' cy='930' r='20' fill='#FFF'/><circle cx='930' cy='930' r='20' fill='#FFF'/><circle cx='540' cy='150' r='20' fill='#FFF'/><circle cx='540' cy='930' r='20' fill='#FFF'/><circle cx='150' cy='540' r='20' fill='#FFF'/><circle cx='930' cy='540' r='20' fill='#FFF'/></g><path d='M0 0 C300 100, 600 -50, 1080 100 L1080 400 C800 350, 300 450, 0 350 Z' fill='#4CAF50' opacity='0.3'/><path d='M0 1080 C300 980, 600 1130, 1080 980 L1080 680 C800 730, 300 630, 0 730 Z' fill='#4CAF50' opacity='0.3'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' opacity='0.9'/><circle cx='540' cy='540' r='290' fill='#FFF'/><circle cx='850' cy='420' r='120' fill='url(#priceGradient)'/><g opacity='0.6'><circle cx='200' cy='300' r='10' fill='#FFF'/><circle cx='880' cy='800' r='10' fill='#FFF'/><circle cx='300' cy='750' r='15' fill='#FFF'/><circle cx='750' cy='250' r='15' fill='#FFF'/></g><path d='M200 200 Q300 150, 400 200' stroke='#FFF' stroke-width='2' fill='none' opacity='0.5'/><path d='M680 880 Q780 830, 880 880' stroke='#FFF' stroke-width='2' fill='none' opacity='0.5'/><path d='M150 400 L200 350' stroke='#FFF' stroke-width='3' opacity='0.5'/><path d='M880 680 L930 630' stroke='#FFF' stroke-width='3' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 40, "left": 160.14999999999998, "width": 759.7, "height": 113, "fill": "#FFFFFF", "text": "EPIC FOOD FIGHT", "fontSize": 100, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 109.31, "width": 861.38, "height": 67.8, "fill": "#FFFFFF", "text": "Unleash Your Culinary Imagination!", "fontSize": 60, "fontFamily": "Kaushan Script Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 916.1, "left": 139.56, "width": 800.88, "height": 33.9, "fill": "#FFFFFF", "text": "\u2022 DIGITAL ART PRINT \u2022 VIBRANT COLORS \u2022 KITCHEN DECOR", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#2E7D32", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 994.1, "left": 453.6, "width": 172.8, "height": 33.9, "fill": "#FFFFFF", "text": "ORDER NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 293.875, "left": 281.5, "width": 940, "height": 895, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/Hw-vfCaX3cKreF5Z55mRP_940x895.png", "id": "product_image"}, {"type": "text", "top": 386.1, "left": 791.94, "width": 116.12, "height": 67.8, "fill": "#FFFFFF", "text": "\u20b9599", "fontSize": 60, "fontFamily": "Bayon-Regular", "textAlign": "center", "id": "price"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Epic Food Fight: The Ultimate Kitchen Battle Art Print", "description": "\u2022 High-quality digital art print featuring a whimsical food-themed battle scene\n\u2022 Vibrant colors showcasing fresh vegetables and playful warrior characters\n\u2022 Creative composition with a woven basket centerpiece filled with fresh produce\n\u2022 Detailed illustration including broccoli, pumpkin, lettuce, and colorful vegetables\n\u2022 Perfect wall decor for kitchen, dining room, or restaurant spaces\n\u2022 Unique blend of fantasy and culinary art themes\n\u2022 Professional-grade print quality with sharp details and rich colors\n\u2022 Entertaining design that brings life and character to any food-related space\n\u2022 Ideal gift for food enthusiasts, chefs, or art collectors\n\u2022 Available in multiple size options to suit various display needs", "price": "\u20b90"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/Hw-vfCaX3cKreF5Z55mRP_940x895.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/c66f9529-835d-408d-9157-a3f58fb361ac_0_0.webp", "layout": "circular_focus"}, "banner_details": "\nThis vibrant banner features a dynamic design evoking creativity in culinary art. At the center is an imaginative composite object (`product_image`) made of various vegetables and kitchen tools, encased in a circular frame with a green gradient edge. The composition is grounded by a smooth radial orange-to-red background (`background`) accented with subtle white decorative elements like floating lines and circles to add movement. The bold title (`heading`) appears at the top in large uppercase letters, followed by a playful, cursive subtitle (`subheading`). A bright yellow circle contains the price element (`price`) to highlight affordability. A tagline (`tagline`) with compact bullet-pointed features sits above a strong call-to-action button (`cta_background` and `cta`) in deep green.\n\n**Color Palette:**\n- Gradient Orange: `#FFA726` to `#FF5722`\n- Bright Yellow: `#FFD54F` to `#FFC107`\n- Lush Greens: `#43A047`, `#2E7D32`, `#4CAF50`\n- White Accents: `#FFFFFF`\n", "product_color": "\nThe image features a vibrant and dynamic color palette that enhances the freshness and playfulness of the product. Dominant colors include deep green (#3B6B4C) from the leafy vegetables and broccoli, vivid orange (#F17C30) from the pumpkin, and rich purple (#4B295E) from the grapes and character. A natural brown (#B8865B) from the basket grounds the composition, while accents of red (#D44138) from the tomato and creamy whites (#F5F3E7) add contrast. Colors are skillfully blended with soft shading, highlighting texture while maintaining individual vibrancy. The palette suggests freshness, vitality, and energy \u2014 ideal for a health-focused advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FF8A65'/><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#FFA726'/><stop offset='100%' stop-color='#FF5722'/></radialGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='60%' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#43A047'/><stop offset='100%' stop-color='#2E7D32'/></radialGradient><radialGradient id='priceGradient' cx='50%' cy='50%' r='60%' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#FFD54F'/><stop offset='100%' stop-color='#FFC107'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1'><circle cx='150' cy='150' r='20' fill='#FFF'/><circle cx='930' cy='150' r='20' fill='#FFF'/><circle cx='150' cy='930' r='20' fill='#FFF'/><circle cx='930' cy='930' r='20' fill='#FFF'/><circle cx='540' cy='150' r='20' fill='#FFF'/><circle cx='540' cy='930' r='20' fill='#FFF'/><circle cx='150' cy='540' r='20' fill='#FFF'/><circle cx='930' cy='540' r='20' fill='#FFF'/></g><path d='M0 0 C300 100, 600 -50, 1080 100 L1080 400 C800 350, 300 450, 0 350 Z' fill='#4CAF50' opacity='0.3'/><path d='M0 1080 C300 980, 600 1130, 1080 980 L1080 680 C800 730, 300 630, 0 730 Z' fill='#4CAF50' opacity='0.3'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' opacity='0.9'/><circle cx='540' cy='540' r='290' fill='#FFF'/><circle cx='850' cy='420' r='120' fill='url(#priceGradient)'/><g opacity='0.6'><circle cx='200' cy='300' r='10' fill='#FFF'/><circle cx='880' cy='800' r='10' fill='#FFF'/><circle cx='300' cy='750' r='15' fill='#FFF'/><circle cx='750' cy='250' r='15' fill='#FFF'/></g><path d='M200 200 Q300 150, 400 200' stroke='#FFF' stroke-width='2' fill='none' opacity='0.5'/><path d='M680 880 Q780 830, 880 880' stroke='#FFF' stroke-width='2' fill='none' opacity='0.5'/><path d='M150 400 L200 350' stroke='#FFF' stroke-width='3' opacity='0.5'/><path d='M880 680 L930 630' stroke='#FFF' stroke-width='3' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 40,
+                "left": 160.14999999999998,
+                "width": 759.7,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "EPIC FOOD FIGHT",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 109.31,
+                "width": 861.38,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "Unleash Your Culinary Imagination!",
+                "fontFamily": "Kaushan Script Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 916.1,
+                "left": 139.56,
+                "width": 800.88,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "\u2022 DIGITAL ART PRINT \u2022 VIBRANT COLORS \u2022 KITCHEN DECOR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#2E7D32",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 994.1,
+                "left": 453.6,
+                "width": 172.8,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "ORDER NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 293.875,
+                "left": 281.5,
+                "width": 517.0,
+                "height": 492.25000000000006,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/Hw-vfCaX3cKreF5Z55mRP_940x895.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 386.1,
+                "left": 791.94,
+                "width": 116.12,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "\u20b9599",
+                "fontFamily": "Bayon-Regular",
+                "textAlign": "center",
+                "id": "price"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Epic Food Fight: The Ultimate Kitchen Battle Art Print",
+            "description": "\u2022 High-quality digital art print featuring a whimsical food-themed battle scene\n\u2022 Vibrant colors showcasing fresh vegetables and playful warrior characters\n\u2022 Creative composition with a woven basket centerpiece filled with fresh produce\n\u2022 Detailed illustration including broccoli, pumpkin, lettuce, and colorful vegetables\n\u2022 Perfect wall decor for kitchen, dining room, or restaurant spaces\n\u2022 Unique blend of fantasy and culinary art themes\n\u2022 Professional-grade print quality with sharp details and rich colors\n\u2022 Entertaining design that brings life and character to any food-related space\n\u2022 Ideal gift for food enthusiasts, chefs, or art collectors\n\u2022 Available in multiple size options to suit various display needs",
+            "price": "\u20b90"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/Hw-vfCaX3cKreF5Z55mRP_940x895.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/c66f9529-835d-408d-9157-a3f58fb361ac_0_0.webp",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis vibrant banner features a dynamic design evoking creativity in culinary art. At the center is an imaginative composite object (`product_image`) made of various vegetables and kitchen tools, encased in a circular frame with a green gradient edge. The composition is grounded by a smooth radial orange-to-red background (`background`) accented with subtle white decorative elements like floating lines and circles to add movement. The bold title (`heading`) appears at the top in large uppercase letters, followed by a playful, cursive subtitle (`subheading`). A bright yellow circle contains the price element (`price`) to highlight affordability. A tagline (`tagline`) with compact bullet-pointed features sits above a strong call-to-action button (`cta_background` and `cta`) in deep green.\n\n**Color Palette:**\n- Gradient Orange: `#FFA726` to `#FF5722`\n- Bright Yellow: `#FFD54F` to `#FFC107`\n- Lush Greens: `#43A047`, `#2E7D32`, `#4CAF50`\n- White Accents: `#FFFFFF`\n",
+    "product_color": "\nThe image features a vibrant and dynamic color palette that enhances the freshness and playfulness of the product. Dominant colors include deep green (#3B6B4C) from the leafy vegetables and broccoli, vivid orange (#F17C30) from the pumpkin, and rich purple (#4B295E) from the grapes and character. A natural brown (#B8865B) from the basket grounds the composition, while accents of red (#D44138) from the tomato and creamy whites (#F5F3E7) add contrast. Colors are skillfully blended with soft shading, highlighting texture while maintaining individual vibrancy. The palette suggests freshness, vitality, and energy \u2014 ideal for a health-focused advertisement banner.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#0D2B28'/><stop offset='100%' stop-color='#071A18'/></radialGradient><linearGradient id='greenAccent' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#0D5C4F'/><stop offset='100%' stop-color='#053F35'/></linearGradient><radialGradient id='circleGlow' cx='540' cy='540' r='300' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#0A423A' stop-opacity='0.8'/><stop offset='100%' stop-color='#071A18' stop-opacity='0'/></radialGradient><radialGradient id='priceGlow' cx='850' cy='450' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#106B5D'/><stop offset='100%' stop-color='#0A423A'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='320' fill='url(#circleGlow)' opacity='0.7'/><circle cx='540' cy='540' r='300' fill='none' stroke='#0D5C4F' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='450' r='120' fill='url(#priceGlow)' stroke='#106B5D' stroke-width='2'/><g opacity='0.2'><circle cx='150' cy='150' r='8' fill='#06D6B9'/><circle cx='900' cy='200' r='12' fill='#06D6B9'/><circle cx='800' cy='800' r='10' fill='#06D6B9'/><circle cx='200' cy='700' r='15' fill='#06D6B9'/></g><path d='M200 300 Q250 250, 300 300' stroke='#06D6B9' stroke-width='2' fill='none' opacity='0.3'/><path d='M800 700 Q850 650, 900 700' stroke='#06D6B9' stroke-width='2' fill='none' opacity='0.3'/><line x1='150' y1='400' x2='250' y2='450' stroke='#06D6B9' stroke-width='2' opacity='0.3'/><line x1='830' y1='600' x2='930' y2='650' stroke='#06D6B9' stroke-width='2' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 242.2, "width": 595.6, "height": 113, "fill": "#FFFFFF", "text": "SAUVAGE", "fontSize": 100, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 175.68, "width": 728.64, "height": 45.2, "fill": "#06D6B9", "text": "THE EPITOME OF MASCULINE ELEGANCE", "fontSize": 40, "fontFamily": "Asap Black", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 343.225, "left": 452.025, "width": 391, "height": 919, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/PBKeq3vdNbvcplsMLTxkE_391x919.png", "id": "product_image"}, {"type": "text", "top": 404.8, "left": 749.48, "width": 201.04, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9 99", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 900, "left": 95.50999999999999, "width": 888.98, "height": 31.64, "fill": "#FFFFFF", "text": "\u2022 PREMIUM LUXURY FRAGRANCE \u2022 LONG-LASTING SCENT \u2022 SIGNATURE BLEND", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#06D6B9", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 994.18, "left": 467.13, "width": 145.74, "height": 31.64, "fill": "#071A18", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Dior Sauvage EDP - The Epitome of Masculine Elegance", "description": "\u2022 Authentic Dior Sauvage Eau de Parfum - Premium Luxury Fragrance\n\u2022 Long-lasting, sophisticated scent with powerful sillage\n\u2022 Signature blend of fresh bergamot, warm amber, and vanilla notes\n\u2022 Elegant dark bottle design with distinctive Dior branding\n\u2022 Perfect for confident, modern gentlemen\n\u2022 Superior concentration compared to EDT version\n\u2022 Ideal for both day and evening wear\n\u2022 Comes in a luxurious black glass bottle with magnetic cap\n\u2022 Made in France - Guaranteed authentic Dior product\n\u2022 Versatile fragrance suitable for all seasons", "price": "\u20b999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/PBKeq3vdNbvcplsMLTxkE_391x919.png", "marketplace_url": "https://images.unsplash.com/photo-1747916148827-d5fb453bb978?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHw3fHxQcm9kdWN0c3xlbnwwfHwyfHwxNzQ4MzYzMzMzfDA&ixlib=rb-4.1.0&q=85", "layout": "circular_focus"}, "banner_details": "\nThis banner showcases a sleek and modern design for a premium men's fragrance. The background features a smooth radial gradient invoking mystery and sophistication, framed by dotted circles and thin outlined graphics that emphasize the product's luxurious appeal. At the center of the layout is the product image (`product_image`), highlighted by a faint glowing circle. The bold heading (`heading`) and tagline (`tagline`) establish masculine energy and elegance, using futuristic fonts. A price badge (`price`) appears within a soft glowing orb. Supporting text (`description`) provides highlights of the fragrance's qualities, and a prominent call-to-action button (`cta` and `cta_background`) encourages immediate purchase.\n\n**Color Palette:**\n- Deep Teal: `#071A18`\n- Midnight Green: `#0D2B28`\n- Aqua Mint: `#06D6B9`\n- Classic White: `#FFFFFF`\n- Soft Teal Green: `#0D5C4F`\n", "product_color": "\nThe product image for Dior Sauvage Eau de Parfum is sleek and impactful, dominated by deep tones and bold contrast. The primary color palette includes deep black (#000000), rich emerald green (#007A3D), and clean white (#FFFFFF). The bottle features a glossy black body that exudes elegance and authority, while the luminous green highlights run vertically, adding vibrancy and modern appeal. White typography pops sharply against the dark background, ensuring clarity and sophistication. The subtle gradient from dark green to black blends seamlessly, creating depth and visual intrigue. These colors together evoke luxury, mystique, and freshness\u2014ideal for a high-end fragrance ad.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#0D2B28'/><stop offset='100%' stop-color='#071A18'/></radialGradient><linearGradient id='greenAccent' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#0D5C4F'/><stop offset='100%' stop-color='#053F35'/></linearGradient><radialGradient id='circleGlow' cx='540' cy='540' r='300' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#0A423A' stop-opacity='0.8'/><stop offset='100%' stop-color='#071A18' stop-opacity='0'/></radialGradient><radialGradient id='priceGlow' cx='850' cy='450' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#106B5D'/><stop offset='100%' stop-color='#0A423A'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='320' fill='url(#circleGlow)' opacity='0.7'/><circle cx='540' cy='540' r='300' fill='none' stroke='#0D5C4F' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='450' r='120' fill='url(#priceGlow)' stroke='#106B5D' stroke-width='2'/><g opacity='0.2'><circle cx='150' cy='150' r='8' fill='#06D6B9'/><circle cx='900' cy='200' r='12' fill='#06D6B9'/><circle cx='800' cy='800' r='10' fill='#06D6B9'/><circle cx='200' cy='700' r='15' fill='#06D6B9'/></g><path d='M200 300 Q250 250, 300 300' stroke='#06D6B9' stroke-width='2' fill='none' opacity='0.3'/><path d='M800 700 Q850 650, 900 700' stroke='#06D6B9' stroke-width='2' fill='none' opacity='0.3'/><line x1='150' y1='400' x2='250' y2='450' stroke='#06D6B9' stroke-width='2' opacity='0.3'/><line x1='830' y1='600' x2='930' y2='650' stroke='#06D6B9' stroke-width='2' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 242.2,
+                "width": 595.6,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "SAUVAGE",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 175.68,
+                "width": 728.64,
+                "height": 45.2,
+                "fill": "#06D6B9",
+                "text": "THE EPITOME OF MASCULINE ELEGANCE",
+                "fontFamily": "Asap Black",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 343.225,
+                "left": 452.025,
+                "width": 175.95000000000002,
+                "height": 413.55,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/PBKeq3vdNbvcplsMLTxkE_391x919.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 404.8,
+                "left": 749.48,
+                "width": 201.04,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 95.50999999999999,
+                "width": 888.98,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "\u2022 PREMIUM LUXURY FRAGRANCE \u2022 LONG-LASTING SCENT \u2022 SIGNATURE BLEND",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#06D6B9",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 994.18,
+                "left": 467.13,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#071A18",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Dior Sauvage EDP - The Epitome of Masculine Elegance",
+            "description": "\u2022 Authentic Dior Sauvage Eau de Parfum - Premium Luxury Fragrance\n\u2022 Long-lasting, sophisticated scent with powerful sillage\n\u2022 Signature blend of fresh bergamot, warm amber, and vanilla notes\n\u2022 Elegant dark bottle design with distinctive Dior branding\n\u2022 Perfect for confident, modern gentlemen\n\u2022 Superior concentration compared to EDT version\n\u2022 Ideal for both day and evening wear\n\u2022 Comes in a luxurious black glass bottle with magnetic cap\n\u2022 Made in France - Guaranteed authentic Dior product\n\u2022 Versatile fragrance suitable for all seasons",
+            "price": "\u20b999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/PBKeq3vdNbvcplsMLTxkE_391x919.png",
+        "marketplace_url": "https://images.unsplash.com/photo-1747916148827-d5fb453bb978?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHw3fHxQcm9kdWN0c3xlbnwwfHwyfHwxNzQ4MzYzMzMzfDA&ixlib=rb-4.1.0&q=85",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner showcases a sleek and modern design for a premium men's fragrance. The background features a smooth radial gradient invoking mystery and sophistication, framed by dotted circles and thin outlined graphics that emphasize the product's luxurious appeal. At the center of the layout is the product image (`product_image`), highlighted by a faint glowing circle. The bold heading (`heading`) and tagline (`tagline`) establish masculine energy and elegance, using futuristic fonts. A price badge (`price`) appears within a soft glowing orb. Supporting text (`description`) provides highlights of the fragrance's qualities, and a prominent call-to-action button (`cta` and `cta_background`) encourages immediate purchase.\n\n**Color Palette:**\n- Deep Teal: `#071A18`\n- Midnight Green: `#0D2B28`\n- Aqua Mint: `#06D6B9`\n- Classic White: `#FFFFFF`\n- Soft Teal Green: `#0D5C4F`\n",
+    "product_color": "\nThe product image for Dior Sauvage Eau de Parfum is sleek and impactful, dominated by deep tones and bold contrast. The primary color palette includes deep black (#000000), rich emerald green (#007A3D), and clean white (#FFFFFF). The bottle features a glossy black body that exudes elegance and authority, while the luminous green highlights run vertically, adding vibrancy and modern appeal. White typography pops sharply against the dark background, ensuring clarity and sophistication. The subtle gradient from dark green to black blends seamlessly, creating depth and visual intrigue. These colors together evoke luxury, mystique, and freshness\u2014ideal for a high-end fragrance ad.\n"
+}

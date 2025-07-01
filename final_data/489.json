@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='circleGradient' cx='540' cy='400' r='300' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='white' stop-opacity='0.2'/><stop offset='100%' stop-color='white' stop-opacity='0'/></radialGradient><radialGradient id='backgroundGradient' cx='640' cy='440' r='800' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#8360c3'/><stop offset='50%' stop-color='#6a82fb'/><stop offset='100%' stop-color='#2ebf91'/></radialGradient><radialGradient id='blueGradient' cx='850' cy='550' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#4568dc'/><stop offset='100%' stop-color='#2196f3'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='850' cy='450' r='120' fill='url(#blueGradient)' stroke='#4568dc' stroke-width='3'/><circle cx='0' cy='620' r='100' fill='none' stroke='white' stroke-width='4'/><circle cx='950' cy='0' r='80' fill='none' stroke='white' stroke-width='4'/><line x1='150' y1='250' x2='250' y2='120' stroke='white' stroke-width='3'/><line x1='850' y1='750' x2='950' y2='620' stroke='white' stroke-width='3'/><line x1='150' y1='950' x2='250' y2='820' stroke='#4568dc' stroke-width='3'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 206.85000000000002, "width": 666.3, "height": 113, "fill": "#FFFFFF", "text": "SOUNDCORE", "fontSize": 100, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 143.12, "width": 793.76, "height": 67.8, "fill": "#E0F7FA", "text": "WIRELESS ANC HEADPHONES", "fontSize": 60, "fontFamily": "Asap Black", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 900, "left": 118.13, "width": 843.74, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 ACTIVE NOISE CANCELLING \u2022 40H PLAYTIME \u2022 HI-RES AUDIO", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 288.42, "left": 358.77, "width": 863, "height": 1198, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1190e79c-f24b-4c74-b37e-1b4f5a6abc7b_nobg_863x1198.png", "id": "product_image"}, {"type": "text", "top": 416.1, "left": 744.78, "width": 210.44, "height": 67.8, "fill": "#FFFFFF", "text": "$49.99", "fontSize": 60, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#4568dc", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Hybrid Active Noise Cancelling: 2 internal and 2 external mics work in tandem to detect external noise and effectively reduce up to 90% of it, such as planes and car engines. Immerse Yourself in Detailed Audio: The noise cancelling headphones have oversized 40mm dynamic drivers that produce detailed sound and thumping beats with BassUp technology. Compatible with Hi-Res certified audio via the AUX cable for more detail. 40-Hour Long Battery Life and Fast Charging: With 40 hours of battery life with ANC on and 60 hours in normal mode, you can commute in peace with your Bluetooth headphones without thinking about recharging. Fast charge for 5 mins to get an extra 4 hours of playtime. Dual-Connections: Connect to two devices simultaneously with Bluetooth 5.0 and instantly switch between them. Whether you're working on your laptop, or need to take a phone call, audio from your Bluetooth headphones will automatically play from the device you need to hear from. App for EQ Customization: Download the soundcore app to tailor your sound using the customizable EQ, with 22 presets, or adjust it yourself. You can also switch between 3 modes: ANC, Normal, and Transparency, and relax with white noise. Hear Your Surroundings: Switch to Transparency mode on your noise cancelling headphones when you need to be aware of your surroundings, such as transportation announcements, crossing the road, or just staying connected to the world around you. Brand - Soundcore ** Color - White ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 16 Ohm **", "price": "49.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1190e79c-f24b-4c74-b37e-1b4f5a6abc7b_nobg_863x1198.png", "marketplace_url": "https://www.amazon.com/dp/B0CQXMXJC5", "layout": "circular_focus"}, "banner_details": "\nThis banner features a modern, vibrant design promoting wireless headphones. The background incorporates a smooth radial gradient blending violet, blue, and teal, giving it a fresh tech-oriented aesthetic. A large circular white stroke centered on the canvas frames the headphone product image (`product_image`), creating visual focus. The top of the banner displays a prominent heading (`heading`) in bold white, followed by a slightly smaller subheading (`subheading`) in light cyan. The product price (`price`) is enclosed in a bold blue circle, making it visually striking. Technical highlights (`description`) are aligned at the bottom in a streamlined row. A rectangular call-to-action (`cta_background` and `cta`) sits centrally below, using a bright blue button labeled \u201cSHOP NOW\u201d.\n\n**Color Palette:**\n- Background Gradient: #8360c3 (violet), #6a82fb (blue), #2ebf91 (teal)\n- Price Burst: #4568dc to #2196f3\n- Text: #FFFFFF, #E0F7FA\n- Button: #4568dc\n", "product_color": "  \nThe product image features a sleek and minimalist design, dominated by a monochromatic off-white/ivory tone that gives it an elegant and modern appeal. The primary color used is a soft cream beige (#F1EEE7), offering a neutral, calming aesthetic. Subtle shadows and highlights provide gentle gradients, with light gray tones (#D9D6CE) for depth and contours, and near-white accents (#FAF9F5) for clean shine along the edges. The modest use of soft shadowing helps blend the colors while still accentuating the form and texture. A sophisticated palette for an advertisement banner would include: #F1EEE7, #D9D6CE, #FAF9F5, and a muted metallic accent like #C2C0B9.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='circleGradient' cx='540' cy='400' r='300' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='white' stop-opacity='0.2'/><stop offset='100%' stop-color='white' stop-opacity='0'/></radialGradient><radialGradient id='backgroundGradient' cx='640' cy='440' r='800' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#8360c3'/><stop offset='50%' stop-color='#6a82fb'/><stop offset='100%' stop-color='#2ebf91'/></radialGradient><radialGradient id='blueGradient' cx='850' cy='550' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#4568dc'/><stop offset='100%' stop-color='#2196f3'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='850' cy='450' r='120' fill='url(#blueGradient)' stroke='#4568dc' stroke-width='3'/><circle cx='0' cy='620' r='100' fill='none' stroke='white' stroke-width='4'/><circle cx='950' cy='0' r='80' fill='none' stroke='white' stroke-width='4'/><line x1='150' y1='250' x2='250' y2='120' stroke='white' stroke-width='3'/><line x1='850' y1='750' x2='950' y2='620' stroke='white' stroke-width='3'/><line x1='150' y1='950' x2='250' y2='820' stroke='#4568dc' stroke-width='3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 206.85000000000002,
+                "width": 666.3,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "SOUNDCORE",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 143.12,
+                "width": 793.76,
+                "height": 67.8,
+                "fill": "#E0F7FA",
+                "text": "WIRELESS ANC HEADPHONES",
+                "fontFamily": "Asap Black",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 118.13,
+                "width": 843.74,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 ACTIVE NOISE CANCELLING \u2022 40H PLAYTIME \u2022 HI-RES AUDIO",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 288.42,
+                "left": 358.77,
+                "width": 362.46,
+                "height": 503.15999999999997,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1190e79c-f24b-4c74-b37e-1b4f5a6abc7b_nobg_863x1198.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 416.1,
+                "left": 744.78,
+                "width": 210.44,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "$49.99",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#4568dc",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Hybrid Active Noise Cancelling: 2 internal and 2 external mics work in tandem to detect external noise and effectively reduce up to 90% of it, such as planes and car engines. Immerse Yourself in Detailed Audio: The noise cancelling headphones have oversized 40mm dynamic drivers that produce detailed sound and thumping beats with BassUp technology. Compatible with Hi-Res certified audio via the AUX cable for more detail. 40-Hour Long Battery Life and Fast Charging: With 40 hours of battery life with ANC on and 60 hours in normal mode, you can commute in peace with your Bluetooth headphones without thinking about recharging. Fast charge for 5 mins to get an extra 4 hours of playtime. Dual-Connections: Connect to two devices simultaneously with Bluetooth 5.0 and instantly switch between them. Whether you're working on your laptop, or need to take a phone call, audio from your Bluetooth headphones will automatically play from the device you need to hear from. App for EQ Customization: Download the soundcore app to tailor your sound using the customizable EQ, with 22 presets, or adjust it yourself. You can also switch between 3 modes: ANC, Normal, and Transparency, and relax with white noise. Hear Your Surroundings: Switch to Transparency mode on your noise cancelling headphones when you need to be aware of your surroundings, such as transportation announcements, crossing the road, or just staying connected to the world around you. Brand - Soundcore ** Color - White ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 16 Ohm **",
+            "price": "49.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1190e79c-f24b-4c74-b37e-1b4f5a6abc7b_nobg_863x1198.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CQXMXJC5",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a modern, vibrant design promoting wireless headphones. The background incorporates a smooth radial gradient blending violet, blue, and teal, giving it a fresh tech-oriented aesthetic. A large circular white stroke centered on the canvas frames the headphone product image (`product_image`), creating visual focus. The top of the banner displays a prominent heading (`heading`) in bold white, followed by a slightly smaller subheading (`subheading`) in light cyan. The product price (`price`) is enclosed in a bold blue circle, making it visually striking. Technical highlights (`description`) are aligned at the bottom in a streamlined row. A rectangular call-to-action (`cta_background` and `cta`) sits centrally below, using a bright blue button labeled \u201cSHOP NOW\u201d.\n\n**Color Palette:**\n- Background Gradient: #8360c3 (violet), #6a82fb (blue), #2ebf91 (teal)\n- Price Burst: #4568dc to #2196f3\n- Text: #FFFFFF, #E0F7FA\n- Button: #4568dc\n",
+    "product_color": "  \nThe product image features a sleek and minimalist design, dominated by a monochromatic off-white/ivory tone that gives it an elegant and modern appeal. The primary color used is a soft cream beige (#F1EEE7), offering a neutral, calming aesthetic. Subtle shadows and highlights provide gentle gradients, with light gray tones (#D9D6CE) for depth and contours, and near-white accents (#FAF9F5) for clean shine along the edges. The modest use of soft shadowing helps blend the colors while still accentuating the form and texture. A sophisticated palette for an advertisement banner would include: #F1EEE7, #D9D6CE, #FAF9F5, and a muted metallic accent like #C2C0B9.  \n"
+}

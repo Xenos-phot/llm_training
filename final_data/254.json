@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1E2639'/><circle cx='540' cy='540' r='400' fill='#3A4660' opacity='0.1'/><circle cx='540' cy='540' r='300' fill='#4E5D7E' opacity='0.1'/><circle cx='140' cy='140' r='100' fill='#107C10' opacity='0.05'/><circle cx='940' cy='940' r='100' fill='#107C10' opacity='0.05'/><g opacity='0.2'><circle cx='100' cy='100' r='5' fill='#97A5C4'/><circle cx='140' cy='100' r='5' fill='#97A5C4'/><circle cx='180' cy='100' r='5' fill='#97A5C4'/><circle cx='100' cy='140' r='5' fill='#97A5C4'/><circle cx='140' cy='140' r='5' fill='#97A5C4'/><circle cx='180' cy='140' r='5' fill='#97A5C4'/><circle cx='100' cy='180' r='5' fill='#97A5C4'/><circle cx='140' cy='180' r='5' fill='#97A5C4'/><circle cx='180' cy='180' r='5' fill='#97A5C4'/></g><g opacity='0.2'><circle cx='900' cy='900' r='5' fill='#97A5C4'/><circle cx='940' cy='900' r='5' fill='#97A5C4'/><circle cx='980' cy='900' r='5' fill='#97A5C4'/><circle cx='900' cy='940' r='5' fill='#97A5C4'/><circle cx='940' cy='940' r='5' fill='#97A5C4'/><circle cx='980' cy='940' r='5' fill='#97A5C4'/><circle cx='900' cy='980' r='5' fill='#97A5C4'/><circle cx='940' cy='980' r='5' fill='#97A5C4'/><circle cx='980' cy='980' r='5' fill='#97A5C4'/></g><path d='M0 800 Q 540 850 1080 800 L 1080 1080 L 0 1080 Z' fill='#107C10' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 109.97500000000002, "width": 860.05, "height": 90.4, "fill": "#FFFFFF", "text": "GHOST CIPHER", "fontSize": 80, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 223.42000000000002, "width": 633.16, "height": 51.98, "fill": "#BBBBBB", "text": "XBOX WIRELESS CONTROLLER", "fontSize": 46, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 308.25, "left": 220.25, "width": 1279, "height": 887, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png", "id": "product_image"}, {"type": "text", "top": 799.15, "left": 365.11, "width": 349.78, "height": 101.7, "fill": "#FFFFFF", "text": "$59.90", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 918.5, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#107C10", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 934.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Reveal the mysteries within the Xbox Wireless Controller \u2013 Ghost Cipher Special Edition featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear, transparent top case and side caps to see metallic, silver interior parts shine through from inside. Hold on to the action with rubberized, Ash Gray grips on the back-case. Stay elegantly on target with bronze metallic triggers and a matching bronze metallic D-pad. Seamlessly capture and share content such as screenshots, recordings, and more with the dedicated Share button. Connect using the USB-C port for direct plug and play to console and PC. Support for AA batteries is included on the rear. Get up to 40 hours of battery life. Plug in any compatible headset with the 3.5mm audio jack. Use the Xbox Accessories app to remap buttons and create custom controller profiles for your favorite games. Quickly pair with, play on, and switch between devices including console, PC, and mobile.* XBOX GHOST CIPHER WIRELESS CONTROLLER: F Featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear transparent top case and side caps to see metallic, silver interior parts shine through from inside. STAY ON TARGET: Hold on to the action with rubberized, Ash Gray grips on the back-case. Bronze metallic triggers and a matching D-pad help you stay on target. SHARE BUTTON: Seamlessly capture and share content such as screenshots, recordings, and more with the new Share button. PLAY ACROSS DEVICES: Includes Xbox Wireless and Bluetooth technology so you can easily pair and switch between devices including Xbox Series X, Xbox Series S, Xbox One, Windows PC, Android, and iOS.* COMPATIBILITY: Plug in any compatible headset with the 3.5mm audio headset jack. Connect using the USB-C port for direct plug and play to console or PC.* CUSTOM BUTTON MAPPING: Make the controller your own by customizing button mappings with the Xbox Accessories app.* ", "price": "59.90"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png", "marketplace_url": "https://www.amazon.com/dp/B0DC8317V9", "layout": "minimalist_center"}, "banner_details": "\nThe banner features a sleek, tech-inspired design centered around a transparent Xbox controller displayed with a modern cyber-aesthetic. The background consists of layered dark-colored circular gradients and subtle dot-grid patterns, enhancing depth and visual interest. At the top, the \"heading\" text layer uses a futuristic sans-serif font in white, while the \"subheading\" below it is rendered in light gray for a clear and professional look. The centerpiece is the \"product_image\" of the controller, positioned prominently in the center. Below the image is the bold \"price\" tag in white, claiming visual dominance with its large size. Lastly, the \"cta_background\" and \"cta\" text form a call-to-action button in green, encouraging immediate interaction. \n\n**Color Palette:**\n- Dark Navy Blue: #1E2639\n- Muted Gray-Blue: #3A4660\n- Soft Steel Blue: #4E5D7E\n- Light Gray: #BBBBBB\n- White: #FFFFFF\n- Xbox Green: #107C10\n- Soft Blue Accents: #97A5C4 \n\n", "product_color": "\nThe product image features a high-tech Xbox controller with a translucent shell, blending modern aesthetics with a futuristic feel. The primary color palette includes a range of grays and silvers\u2014used throughout the casing to create a sleek, minimalistic tone\u2014paired with a striking metallic gold (Hex: #C8A75D) on the D-pad. The translucent gray (Hex: #BFC1C2) allows internal components to subtly show through, enhancing the tech-forward look. White accents (Hex: #FFFFFF), particularly on the buttons and controller logo, add contrast and visual clarity. For an advertisement banner, using a palette of #C8A75D, #BFC1C2, #FFFFFF, #949494, and #E2E3E4 would unify elegance and innovation.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1E2639'/><circle cx='540' cy='540' r='400' fill='#3A4660' opacity='0.1'/><circle cx='540' cy='540' r='300' fill='#4E5D7E' opacity='0.1'/><circle cx='140' cy='140' r='100' fill='#107C10' opacity='0.05'/><circle cx='940' cy='940' r='100' fill='#107C10' opacity='0.05'/><g opacity='0.2'><circle cx='100' cy='100' r='5' fill='#97A5C4'/><circle cx='140' cy='100' r='5' fill='#97A5C4'/><circle cx='180' cy='100' r='5' fill='#97A5C4'/><circle cx='100' cy='140' r='5' fill='#97A5C4'/><circle cx='140' cy='140' r='5' fill='#97A5C4'/><circle cx='180' cy='140' r='5' fill='#97A5C4'/><circle cx='100' cy='180' r='5' fill='#97A5C4'/><circle cx='140' cy='180' r='5' fill='#97A5C4'/><circle cx='180' cy='180' r='5' fill='#97A5C4'/></g><g opacity='0.2'><circle cx='900' cy='900' r='5' fill='#97A5C4'/><circle cx='940' cy='900' r='5' fill='#97A5C4'/><circle cx='980' cy='900' r='5' fill='#97A5C4'/><circle cx='900' cy='940' r='5' fill='#97A5C4'/><circle cx='940' cy='940' r='5' fill='#97A5C4'/><circle cx='980' cy='940' r='5' fill='#97A5C4'/><circle cx='900' cy='980' r='5' fill='#97A5C4'/><circle cx='940' cy='980' r='5' fill='#97A5C4'/><circle cx='980' cy='980' r='5' fill='#97A5C4'/></g><path d='M0 800 Q 540 850 1080 800 L 1080 1080 L 0 1080 Z' fill='#107C10' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 109.97500000000002,
+                "width": 860.05,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "GHOST CIPHER",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 223.42000000000002,
+                "width": 633.16,
+                "height": 51.98,
+                "fill": "#BBBBBB",
+                "text": "XBOX WIRELESS CONTROLLER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 308.25,
+                "left": 220.25,
+                "width": 639.5,
+                "height": 443.5,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 799.15,
+                "left": 365.11,
+                "width": 349.78,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$59.90",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 918.5,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#107C10",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 934.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Reveal the mysteries within the Xbox Wireless Controller \u2013 Ghost Cipher Special Edition featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear, transparent top case and side caps to see metallic, silver interior parts shine through from inside. Hold on to the action with rubberized, Ash Gray grips on the back-case. Stay elegantly on target with bronze metallic triggers and a matching bronze metallic D-pad. Seamlessly capture and share content such as screenshots, recordings, and more with the dedicated Share button. Connect using the USB-C port for direct plug and play to console and PC. Support for AA batteries is included on the rear. Get up to 40 hours of battery life. Plug in any compatible headset with the 3.5mm audio jack. Use the Xbox Accessories app to remap buttons and create custom controller profiles for your favorite games. Quickly pair with, play on, and switch between devices including console, PC, and mobile.* XBOX GHOST CIPHER WIRELESS CONTROLLER: F Featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear transparent top case and side caps to see metallic, silver interior parts shine through from inside. STAY ON TARGET: Hold on to the action with rubberized, Ash Gray grips on the back-case. Bronze metallic triggers and a matching D-pad help you stay on target. SHARE BUTTON: Seamlessly capture and share content such as screenshots, recordings, and more with the new Share button. PLAY ACROSS DEVICES: Includes Xbox Wireless and Bluetooth technology so you can easily pair and switch between devices including Xbox Series X, Xbox Series S, Xbox One, Windows PC, Android, and iOS.* COMPATIBILITY: Plug in any compatible headset with the 3.5mm audio headset jack. Connect using the USB-C port for direct plug and play to console or PC.* CUSTOM BUTTON MAPPING: Make the controller your own by customizing button mappings with the Xbox Accessories app.* ",
+            "price": "59.90"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0DC8317V9",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThe banner features a sleek, tech-inspired design centered around a transparent Xbox controller displayed with a modern cyber-aesthetic. The background consists of layered dark-colored circular gradients and subtle dot-grid patterns, enhancing depth and visual interest. At the top, the \"heading\" text layer uses a futuristic sans-serif font in white, while the \"subheading\" below it is rendered in light gray for a clear and professional look. The centerpiece is the \"product_image\" of the controller, positioned prominently in the center. Below the image is the bold \"price\" tag in white, claiming visual dominance with its large size. Lastly, the \"cta_background\" and \"cta\" text form a call-to-action button in green, encouraging immediate interaction. \n\n**Color Palette:**\n- Dark Navy Blue: #1E2639\n- Muted Gray-Blue: #3A4660\n- Soft Steel Blue: #4E5D7E\n- Light Gray: #BBBBBB\n- White: #FFFFFF\n- Xbox Green: #107C10\n- Soft Blue Accents: #97A5C4 \n\n",
+    "product_color": "\nThe product image features a high-tech Xbox controller with a translucent shell, blending modern aesthetics with a futuristic feel. The primary color palette includes a range of grays and silvers\u2014used throughout the casing to create a sleek, minimalistic tone\u2014paired with a striking metallic gold (Hex: #C8A75D) on the D-pad. The translucent gray (Hex: #BFC1C2) allows internal components to subtly show through, enhancing the tech-forward look. White accents (Hex: #FFFFFF), particularly on the buttons and controller logo, add contrast and visual clarity. For an advertisement banner, using a palette of #C8A75D, #BFC1C2, #FFFFFF, #949494, and #E2E3E4 would unify elegance and innovation.\n"
+}

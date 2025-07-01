@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F2EA'/><rect x='540' y='0' width='540' height='1080' fill='#F0EDE3'/><path d='M0 0 L540 0 L540 1080 L0 1080 Z' fill='#F5F2EA'/><path d='M0 0 L540 0 C440 100, 440 980, 540 1080 L0 1080 Z' fill='#EBE7DC'/><circle cx='100' cy='200' r='80' fill='#D4BF8730'/><circle cx='180' cy='300' r='60' fill='#C4B37730'/><circle cx='120' cy='400' r='70' fill='#D4BF8730'/><path d='M460 220 L480 200 L500 220 L480 240 Z' fill='#D4BF87'/><path d='M480 320 L500 300 L520 320 L500 340 Z' fill='#D4BF87'/><path d='M460 420 L480 400 L500 420 L480 440 Z' fill='#D4BF87'/><path d='M480 520 L500 500 L520 520 L500 540 Z' fill='#D4BF87'/><path d='M460 620 L480 600 L500 620 L480 640 Z' fill='#D4BF87'/><path d='M480 720 L500 700 L520 720 L500 740 Z' fill='#D4BF87'/><path d='M460 820 L480 800 L500 820 L480 840 Z' fill='#D4BF87'/><path d='M480 920 L500 900 L520 920 L500 940 Z' fill='#D4BF87'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 50, "width": 340.4, "height": 253.12, "fill": "#333333", "text": "PREMIUM\nGAMING\nCHAIR", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 380, "left": 50, "width": 588.77, "height": 31.64, "fill": "#D4BF87", "text": "LUXURY ERGONOMIC DESIGN", "fontSize": 28, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 460, "left": 50, "width": 359.78, "height": 117.52, "fill": "#555555", "text": "\u2022 Integrated Bluetooth Speakers\n\u2022 Memory Foam Support\n\u2022 Adjustable Recline with Footrest", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 50, "width": 332.4, "height": 79.1, "fill": "#333333", "text": "$159.99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 50, "width": 200, "height": 60, "fill": "#D4BF87", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 798, "left": 75, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 140, "left": 540, "width": 807, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/715afac4-3fa6-43f8-93f3-3bab25df805e_nobg_807x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "\u3010Ergonomic Gaming Chair\u3011Ergonomic curve of the backrest fits human anatomy and conforms to your body for a perfect sitting experience. Flexible headrest and memory foam lumbar pillow provide a soft and comfortable support. 15% wider wings make sure there is no limitation on your shoulders' movement. Suitable for gaming, working, studying and home office. \u30105.1 Compatible Bluetooth Gaming Chair\u3011Original designed with dual Bluetooth 5.1 speakers. The surround sound system brings out the best in your entertainment, delivering remarkable and richly detailed stereo sound out loud in solid bass and clear treble. Connect it to your smartphone, tablet or other Bluetooth-enabled devices, and enjoy music, mobile game or movie with thrilling, cinema-like sound from your gaming chair. \u30105.1 Inch High Shaping Foam Cushion\u3011Thick 5.1inch seat cushion is filled with shaping foam which keeps its structure and maintains an aesthetic shape for longer period of time. It also helps to promote a spring-back like reaction when you are finished sitting on the computer chair. \u3010Superior Design Features\u3011The 360\u00b0rotating multi-directional racing-car rollers; the maximum inclination angle of the backrest of the game chair is 150\u00b0, with a retractable padded footrest and linkage armrests. When you're tired, you can pull out the footrest, recline the chair back, connect to bluetooth, and lie back in the chair to enjoy 3D surround music. This office gaming chair is your ideal seat for work, study and entertainment. \u3010Worry-Free Purchase\u3011A detailed instruction will be sent to you along with all accessories so that you can assemble the chair easily. Free replacement or refund within 30 days. Free replacement or repair within 1 year. If you have any questions,please feel free to contact us, we will do our best to make our customers satisfied. Brand - GTPLAYER ** Color - Ivory ** Product Dimensions - 20.1&#34;D x 18.1&#34;W x 50&#34;H ** Size - Standard ** Back Style - Solid Back **", "price": "159.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/715afac4-3fa6-43f8-93f3-3bab25df805e_nobg_807x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0B8GKF2C7", "layout": "split_vertical"}, "banner_details": "\nThis banner features a modern and stylish layout designed to promote a high-end gaming chair. It creates a premium look with a two-tone background split vertically: a light cream (#F5F2EA) on the left and a slightly darker beige (#F0EDE3) on the right. The layout is balanced with a large, centrally placed product image (\"product_image\") occupying the right half, complemented by scattered diamond-shaped accents in gold (#D4BF87) near the division line. \n\nThe left section organizes information vertically. A bold, dark headline (\"heading\") grabs attention near the top, followed by a muted gold tagline (\"tagline\") in a futuristic font. Middle portion includes feature highlights (\"description\") in a clear, dark gray font. A large price tag (\"price\") stands out beneath, leading to a gold-colored rectangular call-to-action button (\"cta_button\") labeled with \"SHOP NOW\" text in white (\"cta\"). \n\nColor Palette:\n- Cream: #F5F2EA\n- Light Beige: #F0EDE3\n- Gold: #D4BF87\n- Dark Gray: #333333\n- Mid Gray: #555555\n- White: #FFFFFF\n", "product_color": "\nThe product image features a sophisticated gaming chair in a luxurious cream-beige color (#EDE6DB), which dominates the visual appeal. The neutral tone exudes elegance and comfort, blending seamlessly across the chair\u2019s ergonomic contours, while the soft texture adds depth. Subtle golden-yellow embroidery (#D4AF37) on the pillow and lumbar support highlights branding elements, giving it a premium touch. The contrasting black components, such as the base and armrests (#1B1B1B), provide structure and visual weight. These colors are well-blended, offering a smooth visual transition, yet distinct enough to highlight features. A complementary advertisement palette may include beige, gold, charcoal black, and soft gray (#C8C8C8).\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F2EA'/><rect x='540' y='0' width='540' height='1080' fill='#F0EDE3'/><path d='M0 0 L540 0 L540 1080 L0 1080 Z' fill='#F5F2EA'/><path d='M0 0 L540 0 C440 100, 440 980, 540 1080 L0 1080 Z' fill='#EBE7DC'/><circle cx='100' cy='200' r='80' fill='#D4BF8730'/><circle cx='180' cy='300' r='60' fill='#C4B37730'/><circle cx='120' cy='400' r='70' fill='#D4BF8730'/><path d='M460 220 L480 200 L500 220 L480 240 Z' fill='#D4BF87'/><path d='M480 320 L500 300 L520 320 L500 340 Z' fill='#D4BF87'/><path d='M460 420 L480 400 L500 420 L480 440 Z' fill='#D4BF87'/><path d='M480 520 L500 500 L520 520 L500 540 Z' fill='#D4BF87'/><path d='M460 620 L480 600 L500 620 L480 640 Z' fill='#D4BF87'/><path d='M480 720 L500 700 L520 720 L500 740 Z' fill='#D4BF87'/><path d='M460 820 L480 800 L500 820 L480 840 Z' fill='#D4BF87'/><path d='M480 920 L500 900 L520 920 L500 940 Z' fill='#D4BF87'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 50,
+                "width": 340.4,
+                "height": 253.12,
+                "fill": "#333333",
+                "text": "PREMIUM\nGAMING\nCHAIR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 50,
+                "width": 588.77,
+                "height": 31.64,
+                "fill": "#D4BF87",
+                "text": "LUXURY ERGONOMIC DESIGN",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 460,
+                "left": 50,
+                "width": 359.78,
+                "height": 117.52,
+                "fill": "#555555",
+                "text": "\u2022 Integrated Bluetooth Speakers\n\u2022 Memory Foam Support\n\u2022 Adjustable Recline with Footrest",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 50,
+                "width": 332.4,
+                "height": 79.1,
+                "fill": "#333333",
+                "text": "$159.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#D4BF87",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 798,
+                "left": 75,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 140,
+                "left": 540,
+                "width": 443.85,
+                "height": 791.45,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/715afac4-3fa6-43f8-93f3-3bab25df805e_nobg_807x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "\u3010Ergonomic Gaming Chair\u3011Ergonomic curve of the backrest fits human anatomy and conforms to your body for a perfect sitting experience. Flexible headrest and memory foam lumbar pillow provide a soft and comfortable support. 15% wider wings make sure there is no limitation on your shoulders' movement. Suitable for gaming, working, studying and home office. \u30105.1 Compatible Bluetooth Gaming Chair\u3011Original designed with dual Bluetooth 5.1 speakers. The surround sound system brings out the best in your entertainment, delivering remarkable and richly detailed stereo sound out loud in solid bass and clear treble. Connect it to your smartphone, tablet or other Bluetooth-enabled devices, and enjoy music, mobile game or movie with thrilling, cinema-like sound from your gaming chair. \u30105.1 Inch High Shaping Foam Cushion\u3011Thick 5.1inch seat cushion is filled with shaping foam which keeps its structure and maintains an aesthetic shape for longer period of time. It also helps to promote a spring-back like reaction when you are finished sitting on the computer chair. \u3010Superior Design Features\u3011The 360\u00b0rotating multi-directional racing-car rollers; the maximum inclination angle of the backrest of the game chair is 150\u00b0, with a retractable padded footrest and linkage armrests. When you're tired, you can pull out the footrest, recline the chair back, connect to bluetooth, and lie back in the chair to enjoy 3D surround music. This office gaming chair is your ideal seat for work, study and entertainment. \u3010Worry-Free Purchase\u3011A detailed instruction will be sent to you along with all accessories so that you can assemble the chair easily. Free replacement or refund within 30 days. Free replacement or repair within 1 year. If you have any questions,please feel free to contact us, we will do our best to make our customers satisfied. Brand - GTPLAYER ** Color - Ivory ** Product Dimensions - 20.1&#34;D x 18.1&#34;W x 50&#34;H ** Size - Standard ** Back Style - Solid Back **",
+            "price": "159.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/715afac4-3fa6-43f8-93f3-3bab25df805e_nobg_807x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0B8GKF2C7",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a modern and stylish layout designed to promote a high-end gaming chair. It creates a premium look with a two-tone background split vertically: a light cream (#F5F2EA) on the left and a slightly darker beige (#F0EDE3) on the right. The layout is balanced with a large, centrally placed product image (\"product_image\") occupying the right half, complemented by scattered diamond-shaped accents in gold (#D4BF87) near the division line. \n\nThe left section organizes information vertically. A bold, dark headline (\"heading\") grabs attention near the top, followed by a muted gold tagline (\"tagline\") in a futuristic font. Middle portion includes feature highlights (\"description\") in a clear, dark gray font. A large price tag (\"price\") stands out beneath, leading to a gold-colored rectangular call-to-action button (\"cta_button\") labeled with \"SHOP NOW\" text in white (\"cta\"). \n\nColor Palette:\n- Cream: #F5F2EA\n- Light Beige: #F0EDE3\n- Gold: #D4BF87\n- Dark Gray: #333333\n- Mid Gray: #555555\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a sophisticated gaming chair in a luxurious cream-beige color (#EDE6DB), which dominates the visual appeal. The neutral tone exudes elegance and comfort, blending seamlessly across the chair\u2019s ergonomic contours, while the soft texture adds depth. Subtle golden-yellow embroidery (#D4AF37) on the pillow and lumbar support highlights branding elements, giving it a premium touch. The contrasting black components, such as the base and armrests (#1B1B1B), provide structure and visual weight. These colors are well-blended, offering a smooth visual transition, yet distinct enough to highlight features. A complementary advertisement palette may include beige, gold, charcoal black, and soft gray (#C8C8C8).\n"
+}

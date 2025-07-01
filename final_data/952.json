@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 2, "left": -4, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E0E0E0'/><defs><linearGradient id='bgGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#F5F5F5'/><stop offset='100%' stop-color='#D3D3D3'/></linearGradient><linearGradient id='accentGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#F5A623'/><stop offset='100%' stop-color='#D4AF37'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.05'><circle cx='100' cy='100' r='200' fill='#4A4A4A'/><circle cx='980' cy='980' r='150' fill='#4A4A4A'/><circle cx='980' cy='100' r='120' fill='#4A4A4A'/><circle cx='100' cy='980' r='180' fill='#4A4A4A'/></g><g transform='rotate(-15, 540, 540)'><rect x='440' y='-100' width='100' height='1280' rx='40' fill='#D4AF37' opacity='0.1'/><rect x='640' y='-100' width='100' height='1280' rx='40' fill='#D4AF37' opacity='0.1'/></g><g opacity='0.1'><circle cx='150' cy='150' r='10' fill='#D4AF37'/><circle cx='930' cy='150' r='10' fill='#D4AF37'/><circle cx='150' cy='930' r='10' fill='#D4AF37'/><circle cx='930' cy='930' r='10' fill='#D4AF37'/><circle cx='540' cy='150' r='10' fill='#D4AF37'/><circle cx='540' cy='930' r='10' fill='#D4AF37'/><circle cx='150' cy='540' r='10' fill='#D4AF37'/><circle cx='930' cy='540' r='10' fill='#D4AF37'/></g><circle cx='840' cy='400' r='130' fill='url(#accentGradient)' opacity='0.9'/><circle cx='540' cy='540' r='300' fill='#FFFFFF' stroke='#D4AF37' stroke-width='3'/><g opacity='0.5'><circle cx='300' cy='300' r='15' fill='#D4AF37'/><circle cx='750' cy='280' r='12' fill='#D4AF37'/><circle cx='800' cy='600' r='18' fill='#D4AF37'/><circle cx='250' cy='650' r='14' fill='#D4AF37'/></g><g opacity='0.5'><rect x='200' y='400' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(45, 230, 407.5)'/><rect x='800' y='500' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(-45, 830, 507.5)'/><rect x='400' y='200' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(15, 430, 207.5)'/><rect x='600' y='800' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(-15, 630, 807.5)'/></g></svg>", "id": "background"}, {"type": "text", "top": 45, "left": 202.185, "width": 675.63, "height": 113, "fill": "#333333", "text": "NIKE AIR JORDAN 1", "fontSize": 100, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 249.70999999999998, "width": 580.58, "height": 67.8, "fill": "#D4AF37", "text": "FLYKNIT EDITION", "fontSize": 60, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 905, "left": 51.30500000000001, "width": 977.39, "height": 38.42, "fill": "#333333", "text": "\u2022 PREMIUM FLYKNIT \u2022 ICONIC DESIGN \u2022 WOLF GREY & GOLD", "fontSize": 34, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 314.235, "left": 296.005, "width": 823, "height": 679, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/3v7FZHfMteOK6p-OhrhG4_823x679.png", "id": "product_image"}, {"type": "text", "top": 372, "left": 809.54, "width": 108.92, "height": 28.25, "fill": "#FFFFFF", "text": "\u20b912999", "fontSize": 25, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 997, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nike Air Jordan 1 High Flyknit - Wolf Grey/Golden Harvest", "description": "\u2022 Premium Flyknit construction for lightweight comfort and breathability\n\u2022 Iconic high-top silhouette with classic Air Jordan design\n\u2022 Elegant wolf grey colorway with golden harvest swoosh accents\n\u2022 Durable gum rubber outsole for superior traction\n\u2022 Breathable mesh upper with strategic support zones\n\u2022 Classic wing logo branding on collar\n\u2022 Cushioned ankle collar for enhanced comfort\n\u2022 Traditional lacing system for secure fit\n\u2022 Versatile style suitable for both athletic and casual wear\n\u2022 Limited edition colorway perfect for collectors", "price": "\u20b912999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/3v7FZHfMteOK6p-OhrhG4_823x679.png", "marketplace_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg", "layout": "circular_focus"}, "banner_details": "\nThis banner presents a bold and stylish promotional design focused on a premium footwear product. At the top, a prominent heading (`heading`) in uppercase block letters establishes brand presence, with a subheading (`subheading`) directly below, using a vibrant gold color to highlight a specific product edition. The main product (`product_image`) is centrally spotlighted within a clean white circular frame bordered by gold, drawing attention with minimal distraction.\n\nA gradient-highlighted circular badge to the right contains the clearly visible price (`price`), enhancing emphasis. Supporting product features are concisely presented in a bold tagline (`tagline`) along the bottom. A highlighted call-to-action button (`cta_button`) and accompanying text (`cta`) invites user engagement. Subtle background gradients, soft geometric overlays, and playful gold accents add texture and polish to the layout.\n\n**Color Palette:**\n- Background Gradient: #F5F5F5 to #D3D3D3  \n- Accent Gold: #D4AF37  \n- Orange-Gold Gradient: #F5A623 to #D4AF37  \n- Text Dark Shade: #333333  \n- White: #FFFFFF\n", "product_color": "  \nThe product image showcases a pair of mid-top sneakers with a stylish blend of soft gray and mustard yellow. The primary color is a cool, light gray (#C3C6C8), used across the knit upper, laces, and tongue, providing a clean and neutral base. Accents of mustard yellow (#D39E29) are strategically placed on the Nike swoosh, branding patch, and outsole trim, creating a vibrant contrast that draws immediate attention. The sole is white (#F6F6F5), maintaining balance and enhancing the minimalistic aesthetic. These tones are blended harmoniously, with yellow highlights providing visual pop against the gray backdrop, making it ideal for a dynamic, modern banner design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 2,
+                "left": -4,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E0E0E0'/><defs><linearGradient id='bgGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#F5F5F5'/><stop offset='100%' stop-color='#D3D3D3'/></linearGradient><linearGradient id='accentGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#F5A623'/><stop offset='100%' stop-color='#D4AF37'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.05'><circle cx='100' cy='100' r='200' fill='#4A4A4A'/><circle cx='980' cy='980' r='150' fill='#4A4A4A'/><circle cx='980' cy='100' r='120' fill='#4A4A4A'/><circle cx='100' cy='980' r='180' fill='#4A4A4A'/></g><g transform='rotate(-15, 540, 540)'><rect x='440' y='-100' width='100' height='1280' rx='40' fill='#D4AF37' opacity='0.1'/><rect x='640' y='-100' width='100' height='1280' rx='40' fill='#D4AF37' opacity='0.1'/></g><g opacity='0.1'><circle cx='150' cy='150' r='10' fill='#D4AF37'/><circle cx='930' cy='150' r='10' fill='#D4AF37'/><circle cx='150' cy='930' r='10' fill='#D4AF37'/><circle cx='930' cy='930' r='10' fill='#D4AF37'/><circle cx='540' cy='150' r='10' fill='#D4AF37'/><circle cx='540' cy='930' r='10' fill='#D4AF37'/><circle cx='150' cy='540' r='10' fill='#D4AF37'/><circle cx='930' cy='540' r='10' fill='#D4AF37'/></g><circle cx='840' cy='400' r='130' fill='url(#accentGradient)' opacity='0.9'/><circle cx='540' cy='540' r='300' fill='#FFFFFF' stroke='#D4AF37' stroke-width='3'/><g opacity='0.5'><circle cx='300' cy='300' r='15' fill='#D4AF37'/><circle cx='750' cy='280' r='12' fill='#D4AF37'/><circle cx='800' cy='600' r='18' fill='#D4AF37'/><circle cx='250' cy='650' r='14' fill='#D4AF37'/></g><g opacity='0.5'><rect x='200' y='400' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(45, 230, 407.5)'/><rect x='800' y='500' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(-45, 830, 507.5)'/><rect x='400' y='200' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(15, 430, 207.5)'/><rect x='600' y='800' width='50' height='12' rx='6' fill='#D4AF37' transform='rotate(-15, 630, 807.5)'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 45,
+                "left": 202.185,
+                "width": 675.63,
+                "height": 113,
+                "fill": "#333333",
+                "text": "NIKE AIR JORDAN 1",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 249.70999999999998,
+                "width": 580.58,
+                "height": 67.8,
+                "fill": "#D4AF37",
+                "text": "FLYKNIT EDITION",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 905,
+                "left": 51.30500000000001,
+                "width": 977.39,
+                "height": 38.42,
+                "fill": "#333333",
+                "text": "\u2022 PREMIUM FLYKNIT \u2022 ICONIC DESIGN \u2022 WOLF GREY & GOLD",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 314.235,
+                "left": 296.005,
+                "width": 502.03,
+                "height": 414.19,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/3v7FZHfMteOK6p-OhrhG4_823x679.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 372,
+                "left": 809.54,
+                "width": 108.92,
+                "height": 28.25,
+                "fill": "#FFFFFF",
+                "text": "\u20b912999",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 997,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nike Air Jordan 1 High Flyknit - Wolf Grey/Golden Harvest",
+            "description": "\u2022 Premium Flyknit construction for lightweight comfort and breathability\n\u2022 Iconic high-top silhouette with classic Air Jordan design\n\u2022 Elegant wolf grey colorway with golden harvest swoosh accents\n\u2022 Durable gum rubber outsole for superior traction\n\u2022 Breathable mesh upper with strategic support zones\n\u2022 Classic wing logo branding on collar\n\u2022 Cushioned ankle collar for enhanced comfort\n\u2022 Traditional lacing system for secure fit\n\u2022 Versatile style suitable for both athletic and casual wear\n\u2022 Limited edition colorway perfect for collectors",
+            "price": "\u20b912999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/3v7FZHfMteOK6p-OhrhG4_823x679.png",
+        "marketplace_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner presents a bold and stylish promotional design focused on a premium footwear product. At the top, a prominent heading (`heading`) in uppercase block letters establishes brand presence, with a subheading (`subheading`) directly below, using a vibrant gold color to highlight a specific product edition. The main product (`product_image`) is centrally spotlighted within a clean white circular frame bordered by gold, drawing attention with minimal distraction.\n\nA gradient-highlighted circular badge to the right contains the clearly visible price (`price`), enhancing emphasis. Supporting product features are concisely presented in a bold tagline (`tagline`) along the bottom. A highlighted call-to-action button (`cta_button`) and accompanying text (`cta`) invites user engagement. Subtle background gradients, soft geometric overlays, and playful gold accents add texture and polish to the layout.\n\n**Color Palette:**\n- Background Gradient: #F5F5F5 to #D3D3D3  \n- Accent Gold: #D4AF37  \n- Orange-Gold Gradient: #F5A623 to #D4AF37  \n- Text Dark Shade: #333333  \n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image showcases a pair of mid-top sneakers with a stylish blend of soft gray and mustard yellow. The primary color is a cool, light gray (#C3C6C8), used across the knit upper, laces, and tongue, providing a clean and neutral base. Accents of mustard yellow (#D39E29) are strategically placed on the Nike swoosh, branding patch, and outsole trim, creating a vibrant contrast that draws immediate attention. The sole is white (#F6F6F5), maintaining balance and enhancing the minimalistic aesthetic. These tones are blended harmoniously, with yellow highlights providing visual pop against the gray backdrop, making it ideal for a dynamic, modern banner design.  \n"
+}

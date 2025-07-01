@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#121212;stop-opacity:1' /><stop offset='100%' style='stop-color:#2A2A2A;stop-opacity:1' /></linearGradient><filter id='blur' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur in='SourceGraphic' stdDeviation='30' /></filter></defs><rect width='1080' height='1080' fill='url(#grad1)'/><g opacity='0.05'><circle cx='540' cy='540' r='350' fill='#B0B0B0' filter='url(#blur)'/><circle cx='700' cy='300' r='150' fill='#707070' filter='url(#blur)'/><circle cx='300' cy='700' r='200' fill='#505050' filter='url(#blur)'/></g><g opacity='0.3'><circle cx='100' cy='100' r='4' fill='#FFFFFF'/><circle cx='980' cy='100' r='4' fill='#FFFFFF'/><circle cx='100' cy='980' r='4' fill='#FFFFFF'/><circle cx='980' cy='980' r='4' fill='#FFFFFF'/></g><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' stroke='#333333' stroke-width='1' fill='none'/><path d='M270 150 L810 150' stroke='#666666' stroke-opacity='0.3' stroke-width='1' fill='none'/><path d='M270 930 L810 930' stroke='#666666' stroke-opacity='0.3' stroke-width='1' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 366.66499999999996, "width": 346.67, "height": 67.8, "fill": "#FFFFFF", "text": "AFNAN 9 PM", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 318.68, "width": 442.64, "height": 45.2, "fill": "#CCCCCC", "text": "For Men Eau De Parfum", "fontSize": 40, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 253.10000000000002, "left": 437.1, "width": 343, "height": 823, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png", "id": "product_image"}, {"type": "text", "top": 770, "left": 205.925, "width": 668.15, "height": 33.9, "fill": "#CCCCCC", "text": "Bergamot \u2022 Cinnamon \u2022 Amber \u2022 Long Lasting", "fontSize": 30, "fontFamily": "Georama Black", "textAlign": "center", "id": "description"}, {"type": "text", "top": 840, "left": 400.28, "width": 279.44, "height": 90.4, "fill": "#FFFFFF", "text": "$27.00", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 440.0, "width": 200, "height": 60, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 965, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **", "price": "27.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png", "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7", "layout": "centered_hero"}, "banner_details": "\nThe banner features a sleek and modern product advertisement layout with a dark gradient background consisting of deep charcoal to soft gray tones, complemented by blurred circular shapes for depth. At the top, a large, bold heading (`heading`) highlights the product name. Directly beneath, a subheading (`subheading`) provides a brief product classification in a finer serif font. The central focus is a perfume bottle image (`product_image`), placed prominently in the middle. Below this, a textual description (`description`) outlines the key fragrance notes. The price (`price`) is displayed in a large white bold font for emphasis. A rectangular call-to-action button (`cta_background`) with dark text (`cta`) invites users to shop.\n\n**Color Palette:**\n- Jet Black (#121212)\n- Charcoal Gray (#2A2A2A)\n- Soft White (#FFFFFF)\n- Muted Gray (#CCCCCC)\n- Light Gray (#B0B0B0)\n\n", "product_color": "  \nThe product image showcases a sleek, modern perfume bottle dominated by a monochromatic black-and-silver color scheme. The black background (#0D0D0D) presents a bold, elegant contrast to the striking white typography (#FFFFFF), particularly highlighting the \"9 pm\" text. The chrome-finished cap adds a reflective metallic silver tone (#C0C0C0), enhancing the premium appeal. The clear glass edges of the bottle softly blend the shine of silver and transparent elements, invoking a minimalist luxurious vibe. For an advertisement banner, a palette of Black (#0D0D0D), White (#FFFFFF), Silver (#C0C0C0), and Transparent Gray (#E0E0E0) would maintain the refined aesthetic while ensuring visual emphasis.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#121212;stop-opacity:1' /><stop offset='100%' style='stop-color:#2A2A2A;stop-opacity:1' /></linearGradient><filter id='blur' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur in='SourceGraphic' stdDeviation='30' /></filter></defs><rect width='1080' height='1080' fill='url(#grad1)'/><g opacity='0.05'><circle cx='540' cy='540' r='350' fill='#B0B0B0' filter='url(#blur)'/><circle cx='700' cy='300' r='150' fill='#707070' filter='url(#blur)'/><circle cx='300' cy='700' r='200' fill='#505050' filter='url(#blur)'/></g><g opacity='0.3'><circle cx='100' cy='100' r='4' fill='#FFFFFF'/><circle cx='980' cy='100' r='4' fill='#FFFFFF'/><circle cx='100' cy='980' r='4' fill='#FFFFFF'/><circle cx='980' cy='980' r='4' fill='#FFFFFF'/></g><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' stroke='#333333' stroke-width='1' fill='none'/><path d='M270 150 L810 150' stroke='#666666' stroke-opacity='0.3' stroke-width='1' fill='none'/><path d='M270 930 L810 930' stroke='#666666' stroke-opacity='0.3' stroke-width='1' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 366.66499999999996,
+                "width": 346.67,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "AFNAN 9 PM",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 318.68,
+                "width": 442.64,
+                "height": 45.2,
+                "fill": "#CCCCCC",
+                "text": "For Men Eau De Parfum",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 253.10000000000002,
+                "left": 437.1,
+                "width": 205.79999999999998,
+                "height": 493.79999999999995,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 205.925,
+                "width": 668.15,
+                "height": 33.9,
+                "fill": "#CCCCCC",
+                "text": "Bergamot \u2022 Cinnamon \u2022 Amber \u2022 Long Lasting",
+                "fontFamily": "Georama Black",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 400.28,
+                "width": 279.44,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$27.00",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **",
+            "price": "27.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png",
+        "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner features a sleek and modern product advertisement layout with a dark gradient background consisting of deep charcoal to soft gray tones, complemented by blurred circular shapes for depth. At the top, a large, bold heading (`heading`) highlights the product name. Directly beneath, a subheading (`subheading`) provides a brief product classification in a finer serif font. The central focus is a perfume bottle image (`product_image`), placed prominently in the middle. Below this, a textual description (`description`) outlines the key fragrance notes. The price (`price`) is displayed in a large white bold font for emphasis. A rectangular call-to-action button (`cta_background`) with dark text (`cta`) invites users to shop.\n\n**Color Palette:**\n- Jet Black (#121212)\n- Charcoal Gray (#2A2A2A)\n- Soft White (#FFFFFF)\n- Muted Gray (#CCCCCC)\n- Light Gray (#B0B0B0)\n\n",
+    "product_color": "  \nThe product image showcases a sleek, modern perfume bottle dominated by a monochromatic black-and-silver color scheme. The black background (#0D0D0D) presents a bold, elegant contrast to the striking white typography (#FFFFFF), particularly highlighting the \"9 pm\" text. The chrome-finished cap adds a reflective metallic silver tone (#C0C0C0), enhancing the premium appeal. The clear glass edges of the bottle softly blend the shine of silver and transparent elements, invoking a minimalist luxurious vibe. For an advertisement banner, a palette of Black (#0D0D0D), White (#FFFFFF), Silver (#C0C0C0), and Transparent Gray (#E0E0E0) would maintain the refined aesthetic while ensuring visual emphasis.  \n"
+}

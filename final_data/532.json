@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1E1E1E'/><stop offset='100%' style='stop-color:#252525'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2A2A2A'/><stop offset='100%' style='stop-color:#323232'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#107C10'/><stop offset='100%' style='stop-color:#0F9D58'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><path d='M1080 0 L540 540 L1080 540 Z' fill='url(#accent)' opacity='0.05'/><circle cx='540' cy='540' r='400' stroke='#444' stroke-width='1' fill='none' opacity='0.1'/><circle cx='540' cy='540' r='300' stroke='#444' stroke-width='1' fill='none' opacity='0.1'/><circle cx='540' cy='540' r='200' stroke='#444' stroke-width='1' fill='none' opacity='0.1'/><line x1='0' y1='1080' x2='1080' y2='0' stroke='#107C10' stroke-width='3' opacity='0.3'/><line x1='50' y1='1080' x2='1080' y2='50' stroke='#107C10' stroke-width='1' opacity='0.2'/><line x1='-50' y1='1080' x2='1080' y2='-50' stroke='#107C10' stroke-width='1' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 45, "width": 853.77, "height": 225.44, "fill": "#FFFFFF", "text": "XBOX\nGHOST CIPHER", "fontSize": 95, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 290, "left": 50, "width": 477.86, "height": 67.8, "fill": "#107C10", "text": "WIRELESS CONTROLLER", "fontSize": 60, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 50, "width": 425.98, "height": 161.59, "fill": "#E0E0E0", "text": "\u2022 Transparent Design with Silver Interior\n\u2022 Rubberized Ash Gray Grips\n\u2022 Bronze Metallic D-pad & Triggers\n\u2022 Multi-device Compatibility", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 50, "width": 363.2, "height": 113, "fill": "#FFFFFF", "text": "$59.90", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 905, "left": 50, "width": 220, "height": 60, "fill": "#107C10", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 922, "left": 100, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 384.23, "left": 470.64, "width": 1279, "height": 887, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png", "id": "product_image"}, {"type": "rect", "top": 360, "left": 50, "width": 80, "height": 3, "fill": "#107C10", "rx": 0, "ry": 0, "id": "decorative_line"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Reveal the mysteries within the Xbox Wireless Controller \u2013 Ghost Cipher Special Edition featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear, transparent top case and side caps to see metallic, silver interior parts shine through from inside. Hold on to the action with rubberized, Ash Gray grips on the back-case. Stay elegantly on target with bronze metallic triggers and a matching bronze metallic D-pad. Seamlessly capture and share content such as screenshots, recordings, and more with the dedicated Share button. Connect using the USB-C port for direct plug and play to console and PC. Support for AA batteries is included on the rear. Get up to 40 hours of battery life. Plug in any compatible headset with the 3.5mm audio jack. Use the Xbox Accessories app to remap buttons and create custom controller profiles for your favorite games. Quickly pair with, play on, and switch between devices including console, PC, and mobile.* XBOX GHOST CIPHER WIRELESS CONTROLLER: F Featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear transparent top case and side caps to see metallic, silver interior parts shine through from inside. STAY ON TARGET: Hold on to the action with rubberized, Ash Gray grips on the back-case. Bronze metallic triggers and a matching D-pad help you stay on target. SHARE BUTTON: Seamlessly capture and share content such as screenshots, recordings, and more with the new Share button. PLAY ACROSS DEVICES: Includes Xbox Wireless and Bluetooth technology so you can easily pair and switch between devices including Xbox Series X, Xbox Series S, Xbox One, Windows PC, Android, and iOS.* COMPATIBILITY: Plug in any compatible headset with the 3.5mm audio headset jack. Connect using the USB-C port for direct plug and play to console or PC.* CUSTOM BUTTON MAPPING: Make the controller your own by customizing button mappings with the Xbox Accessories app.* ", "price": "59.90"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png", "marketplace_url": "https://www.amazon.com/dp/B0DC8317V9", "layout": "diagonal_split"}, "banner_details": "\nThe banner features a sleek and modern aesthetic designed to promote a product in the gaming category. The background includes layered diagonal gradients with subtle green accent lines and circular grid overlays, creating a futuristic tech feel. The heading (`heading`) uses a bold, geometric display typeface, placed at the top-left and spans two lines. Below it, the subheading (`subheading`) in green emphasizes the product type. A compact product description (`description`) with bullets communicates key features clearly. The right half displays a semi-transparent gaming controller (`product_image`). Bold pricing (`price`) and a vivid call-to-action button (`cta_background` and `cta`) anchor the lower left. \n\n**Color Palette:**\n- Background Gradient: #1E1E1E to #252525\n- Accent Green: #107C10\n- Secondary Green: #0F9D58\n- Text Primary: #FFFFFF\n- Text Secondary: #E0E0E0\n\n", "product_color": "\nThe product image features a translucent Xbox controller with a sleek, futuristic design. The primary color palette includes frosted gray (#D1D3D4), metallic silver (#A7A8AA), matte white (#F5F5F5), and a prominent metallic gold (#CBAF6F) on the D-pad. The use of transparency subtly blends internal components with the outer casing, creating depth without clutter. Highlights are smartly applied using light reflection to enhance the gold D-pad and the glossy finish on the buttons. The overall tonal composition is cool and minimalist, with the gold accent drawing focus, making it ideal for a premium-looking advertisement with high-tech appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1E1E1E'/><stop offset='100%' style='stop-color:#252525'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2A2A2A'/><stop offset='100%' style='stop-color:#323232'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#107C10'/><stop offset='100%' style='stop-color:#0F9D58'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><path d='M1080 0 L540 540 L1080 540 Z' fill='url(#accent)' opacity='0.05'/><circle cx='540' cy='540' r='400' stroke='#444' stroke-width='1' fill='none' opacity='0.1'/><circle cx='540' cy='540' r='300' stroke='#444' stroke-width='1' fill='none' opacity='0.1'/><circle cx='540' cy='540' r='200' stroke='#444' stroke-width='1' fill='none' opacity='0.1'/><line x1='0' y1='1080' x2='1080' y2='0' stroke='#107C10' stroke-width='3' opacity='0.3'/><line x1='50' y1='1080' x2='1080' y2='50' stroke='#107C10' stroke-width='1' opacity='0.2'/><line x1='-50' y1='1080' x2='1080' y2='-50' stroke='#107C10' stroke-width='1' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 45,
+                "width": 853.77,
+                "height": 225.44,
+                "fill": "#FFFFFF",
+                "text": "XBOX\nGHOST CIPHER",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 50,
+                "width": 477.86,
+                "height": 67.8,
+                "fill": "#107C10",
+                "text": "WIRELESS CONTROLLER",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 50,
+                "width": 425.98,
+                "height": 161.59,
+                "fill": "#E0E0E0",
+                "text": "\u2022 Transparent Design with Silver Interior\n\u2022 Rubberized Ash Gray Grips\n\u2022 Bronze Metallic D-pad & Triggers\n\u2022 Multi-device Compatibility",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 50,
+                "width": 363.2,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$59.90",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 905,
+                "left": 50,
+                "width": 220,
+                "height": 60,
+                "fill": "#107C10",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 922,
+                "left": 100,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 384.23,
+                "left": 470.64,
+                "width": 562.76,
+                "height": 390.28000000000003,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png",
+                "id": "product_image"
+            },
+            {
+                "type": "rect",
+                "top": 360,
+                "left": 50,
+                "width": 80,
+                "height": 3,
+                "fill": "#107C10",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative_line"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Reveal the mysteries within the Xbox Wireless Controller \u2013 Ghost Cipher Special Edition featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear, transparent top case and side caps to see metallic, silver interior parts shine through from inside. Hold on to the action with rubberized, Ash Gray grips on the back-case. Stay elegantly on target with bronze metallic triggers and a matching bronze metallic D-pad. Seamlessly capture and share content such as screenshots, recordings, and more with the dedicated Share button. Connect using the USB-C port for direct plug and play to console and PC. Support for AA batteries is included on the rear. Get up to 40 hours of battery life. Plug in any compatible headset with the 3.5mm audio jack. Use the Xbox Accessories app to remap buttons and create custom controller profiles for your favorite games. Quickly pair with, play on, and switch between devices including console, PC, and mobile.* XBOX GHOST CIPHER WIRELESS CONTROLLER: F Featuring a transparent clear design, silver interior, metallic features, and more. Look through the clear transparent top case and side caps to see metallic, silver interior parts shine through from inside. STAY ON TARGET: Hold on to the action with rubberized, Ash Gray grips on the back-case. Bronze metallic triggers and a matching D-pad help you stay on target. SHARE BUTTON: Seamlessly capture and share content such as screenshots, recordings, and more with the new Share button. PLAY ACROSS DEVICES: Includes Xbox Wireless and Bluetooth technology so you can easily pair and switch between devices including Xbox Series X, Xbox Series S, Xbox One, Windows PC, Android, and iOS.* COMPATIBILITY: Plug in any compatible headset with the 3.5mm audio headset jack. Connect using the USB-C port for direct plug and play to console or PC.* CUSTOM BUTTON MAPPING: Make the controller your own by customizing button mappings with the Xbox Accessories app.* ",
+            "price": "59.90"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/061d98de-60e2-470d-80e8-f45cb1a8920d_nobg_1279x887.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0DC8317V9",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner features a sleek and modern aesthetic designed to promote a product in the gaming category. The background includes layered diagonal gradients with subtle green accent lines and circular grid overlays, creating a futuristic tech feel. The heading (`heading`) uses a bold, geometric display typeface, placed at the top-left and spans two lines. Below it, the subheading (`subheading`) in green emphasizes the product type. A compact product description (`description`) with bullets communicates key features clearly. The right half displays a semi-transparent gaming controller (`product_image`). Bold pricing (`price`) and a vivid call-to-action button (`cta_background` and `cta`) anchor the lower left. \n\n**Color Palette:**\n- Background Gradient: #1E1E1E to #252525\n- Accent Green: #107C10\n- Secondary Green: #0F9D58\n- Text Primary: #FFFFFF\n- Text Secondary: #E0E0E0\n\n",
+    "product_color": "\nThe product image features a translucent Xbox controller with a sleek, futuristic design. The primary color palette includes frosted gray (#D1D3D4), metallic silver (#A7A8AA), matte white (#F5F5F5), and a prominent metallic gold (#CBAF6F) on the D-pad. The use of transparency subtly blends internal components with the outer casing, creating depth without clutter. Highlights are smartly applied using light reflection to enhance the gold D-pad and the glossy finish on the buttons. The overall tonal composition is cool and minimalist, with the gold accent drawing focus, making it ideal for a premium-looking advertisement with high-tech appeal.\n"
+}

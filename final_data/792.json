@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A1A1A'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#1E1E1E' opacity='0.8'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#D4D4D4' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#D4D4D4' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#DD2C00' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#DD2C00' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#D4D4D4' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#D4D4D4' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#2C2C2C' opacity='0.8'/></svg>", "id": "background"}, {"type": "text", "top": 76, "left": 103, "width": 926.39, "height": 108.48, "fill": "#DD2C00", "text": "LIMITED OFFER", "fontSize": 96, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 205, "left": 100, "width": 807.79, "height": 50.85, "fill": "#FFFFFF", "text": "FUJIFILM X-T10 PROFESSIONAL CAMERA", "fontSize": 45, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 280, "left": 98, "width": 740.01, "height": 24.86, "fill": "#D4D4D4", "text": "CLASSIC DESIGN MEETS MODERN INNOVATION", "fontSize": 22, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 380, "left": 136, "width": 511.17, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 Premium X-series mirrorless camera\n\u2022 Advanced interchangeable lens system\n\u2022 Professional-grade image sensor\n\u2022 Compact & lightweight for travel", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 150, "width": 403.5, "height": 39.55, "fill": "#DD2C00", "text": "HURRY! SALE ENDS SOON", "fontSize": 35, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "urgency_text"}, {"type": "text", "top": 730, "left": 85, "width": 336.4, "height": 101.7, "fill": "#FFFFFF", "text": "\u20b9 8999", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 880, "left": 94, "width": 250, "height": 70, "fill": "#DD2C00", "rx": 8, "ry": 8, "id": "cta_button"}, {"type": "text", "top": 900, "left": 123, "width": 153.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 400, "left": 580, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/LsM6CdNBGYL5nLIoebw8A_551x559.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Professional Mirrorless Camera | Classic Design Meets Modern Innovation", "description": "\u2022 Premium Fujifilm X-series mirrorless camera with retro-inspired design\n\u2022 Advanced interchangeable lens system with superior optical quality\n\u2022 Professional-grade image sensor for exceptional photo quality\n\u2022 Classic manual control dials for intuitive operation\n\u2022 Compact and lightweight body perfect for travel photography\n\u2022 High-performance autofocus system for precise shooting\n\u2022 Compatible with Fujifilm's renowned X-mount lens system\n\u2022 Durable black metal construction with ergonomic grip\n\u2022 Multiple shooting modes and creative filters\n\u2022 Built-in electronic viewfinder for accurate composition\n\u2022 Wi-Fi connectivity for instant photo sharing\n\u2022 Ideal for both photography enthusiasts and professionals", "price": "\u20b98999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/LsM6CdNBGYL5nLIoebw8A_551x559.png", "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg", "layout": "frame_layout"}, "banner_details": "\nThe banner features a bold, attention-grabbing promotional layout for a professional camera product. At the top is a prominent, high-impact text layer labeled \"tagline\", styled in an eye-catching red color to announce a special offer. Below it, the \"heading\" defines the product name in strong, modern typography, followed by a sleek, futuristic \"subheading\" offering a brief positioning statement. The \"description\" block uses bullet points to highlight key product features in a clean, white font. Urgency is driven home by the \"urgency_text\" in red and upbeat language above the large, bold \"price\". A strong call-to-action (CTA) includes an orange rounded rectangle button (\"cta_button\") with \"cta\" text overlay. The right side prominently showcases the camera image (\"product_image\") for maximum product visibility. The background uses layered grayscale rectangles and soft outline patterns to give depth and focus.\n\n**Color Palette:**\n- Charcoal Black (#1A1A1A)\n- Dark Gray (#2C2C2C)\n- Light Gray (#D4D4D4)\n- Vivid Red-Orange (#DD2C00)\n- Pure White (#FFFFFF)\n", "product_color": "\nThe product image showcases a Fujifilm X-T10 camera with a sleek, professional aesthetic dominated by matte black and metallic tones. The main color palette includes deep charcoal black (#1C1C1C), metallic silver (#C0C0C0), glossy lens black (#2A2A2A), and subtle accents of white (#FFFFFF) and bright orange (#FF6F00) on the lens indicator. These colors are blended with smooth gradients and reflective highlights that enhance the metallic finish while remaining well-balanced. The lens glass adds a slight green-yellow tint (#B2C85B), giving a modern, high-tech feel. This bold yet minimal palette is ideal for a premium, sophisticated advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A1A1A'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#1E1E1E' opacity='0.8'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#D4D4D4' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#D4D4D4' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#DD2C00' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#DD2C00' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#D4D4D4' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#D4D4D4' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#2C2C2C' opacity='0.8'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 76,
+                "left": 103,
+                "width": 926.39,
+                "height": 108.48,
+                "fill": "#DD2C00",
+                "text": "LIMITED OFFER",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 100,
+                "width": 807.79,
+                "height": 50.85,
+                "fill": "#FFFFFF",
+                "text": "FUJIFILM X-T10 PROFESSIONAL CAMERA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 98,
+                "width": 740.01,
+                "height": 24.86,
+                "fill": "#D4D4D4",
+                "text": "CLASSIC DESIGN MEETS MODERN INNOVATION",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 136,
+                "width": 511.17,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium X-series mirrorless camera\n\u2022 Advanced interchangeable lens system\n\u2022 Professional-grade image sensor\n\u2022 Compact & lightweight for travel",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 150,
+                "width": 403.5,
+                "height": 39.55,
+                "fill": "#DD2C00",
+                "text": "HURRY! SALE ENDS SOON",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "urgency_text"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 85,
+                "width": 336.4,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 8999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 880,
+                "left": 94,
+                "width": 250,
+                "height": 70,
+                "fill": "#DD2C00",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 123,
+                "width": 153.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 400,
+                "left": 580,
+                "width": 429.78000000000003,
+                "height": 436.02000000000004,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/LsM6CdNBGYL5nLIoebw8A_551x559.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Professional Mirrorless Camera | Classic Design Meets Modern Innovation",
+            "description": "\u2022 Premium Fujifilm X-series mirrorless camera with retro-inspired design\n\u2022 Advanced interchangeable lens system with superior optical quality\n\u2022 Professional-grade image sensor for exceptional photo quality\n\u2022 Classic manual control dials for intuitive operation\n\u2022 Compact and lightweight body perfect for travel photography\n\u2022 High-performance autofocus system for precise shooting\n\u2022 Compatible with Fujifilm's renowned X-mount lens system\n\u2022 Durable black metal construction with ergonomic grip\n\u2022 Multiple shooting modes and creative filters\n\u2022 Built-in electronic viewfinder for accurate composition\n\u2022 Wi-Fi connectivity for instant photo sharing\n\u2022 Ideal for both photography enthusiasts and professionals",
+            "price": "\u20b98999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/LsM6CdNBGYL5nLIoebw8A_551x559.png",
+        "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThe banner features a bold, attention-grabbing promotional layout for a professional camera product. At the top is a prominent, high-impact text layer labeled \"tagline\", styled in an eye-catching red color to announce a special offer. Below it, the \"heading\" defines the product name in strong, modern typography, followed by a sleek, futuristic \"subheading\" offering a brief positioning statement. The \"description\" block uses bullet points to highlight key product features in a clean, white font. Urgency is driven home by the \"urgency_text\" in red and upbeat language above the large, bold \"price\". A strong call-to-action (CTA) includes an orange rounded rectangle button (\"cta_button\") with \"cta\" text overlay. The right side prominently showcases the camera image (\"product_image\") for maximum product visibility. The background uses layered grayscale rectangles and soft outline patterns to give depth and focus.\n\n**Color Palette:**\n- Charcoal Black (#1A1A1A)\n- Dark Gray (#2C2C2C)\n- Light Gray (#D4D4D4)\n- Vivid Red-Orange (#DD2C00)\n- Pure White (#FFFFFF)\n",
+    "product_color": "\nThe product image showcases a Fujifilm X-T10 camera with a sleek, professional aesthetic dominated by matte black and metallic tones. The main color palette includes deep charcoal black (#1C1C1C), metallic silver (#C0C0C0), glossy lens black (#2A2A2A), and subtle accents of white (#FFFFFF) and bright orange (#FF6F00) on the lens indicator. These colors are blended with smooth gradients and reflective highlights that enhance the metallic finish while remaining well-balanced. The lens glass adds a slight green-yellow tint (#B2C85B), giving a modern, high-tech feel. This bold yet minimal palette is ideal for a premium, sophisticated advertisement banner.\n"
+}

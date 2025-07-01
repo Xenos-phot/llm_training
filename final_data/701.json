@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1E242E'/><stop offset='100%' stop-color='#3B3F47'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#A8A9AD'/><stop offset='100%' stop-color='#D1D3D6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1'><circle cx='540' cy='540' r='400' fill='none' stroke='#FFFFFF' stroke-width='2'/><circle cx='540' cy='540' r='300' fill='none' stroke='#FFFFFF' stroke-width='2'/><circle cx='540' cy='540' r='200' fill='none' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.15'><rect x='0' y='300' width='1080' height='1' fill='#FFFFFF'/><rect x='0' y='780' width='1080' height='1' fill='#FFFFFF'/></g><g opacity='0.05'><circle cx='100' cy='100' r='50' fill='url(#accentGradient)'/><circle cx='980' cy='980' r='70' fill='url(#accentGradient)'/><circle cx='980' cy='100' r='30' fill='url(#accentGradient)'/><circle cx='100' cy='980' r='40' fill='url(#accentGradient)'/></g><g opacity='0.1'><path d='M 0,0 L 200,200' stroke='#FFFFFF' stroke-width='1'/><path d='M 1080,0 L 880,200' stroke='#FFFFFF' stroke-width='1'/><path d='M 0,1080 L 200,880' stroke='#FFFFFF' stroke-width='1'/><path d='M 1080,1080 L 880,880' stroke='#FFFFFF' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 430.82, "width": 218.36, "height": 67.8, "fill": "#FFFFFF", "text": "iPad Pro", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 209.39, "width": 661.22, "height": 22.6, "fill": "#A8A9AD", "text": "Ultimate Power, Unmatched Elegance in Space Gray", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 314.13, "left": 313.40999999999997, "width": 1079, "height": 647, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/SzXSoSOiwfv3qWaCTcVof_1079x647.png", "id": "product_image"}, {"type": "text", "top": 680, "left": 255.85000000000002, "width": 568.3, "height": 62.15, "fill": "#D1D3D6", "text": "Premium Design \u2022 Liquid Retina Display \u2022 M-Series Chip\nApple Pencil Support \u2022 All-Day Battery \u2022 5.9mm Thin Profile", "fontSize": 22, "fontFamily": "Barlow Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 780, "left": 413.8, "width": 252.4, "height": 90.4, "fill": "#A8A9AD", "text": "\u20b9 89999", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#A8A9AD", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 938, "left": 485.845, "width": 108.31, "height": 27.12, "fill": "#1E242E", "text": "BUY NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "iPad Pro - Ultimate Power, Unmatched Elegance in Space Gray", "description": "\u2022 Premium all-aluminum unibody design in sleek Space Gray finish\n\u2022 Advanced camera system with Ultra Wide lens and LiDAR Scanner\n\u2022 Stunning edge-to-edge Liquid Retina display\n\u2022 Powerful performance with Apple M-series chip\n\u2022 Support for Apple Pencil and Magic Keyboard\n\u2022 All-day battery life for maximum productivity\n\u2022 Ultra-thin profile at just 5.9mm\n\u2022 Wi-Fi 6 and optional 5G connectivity\n\u2022 Face ID for secure authentication\n\u2022 Professional-grade audio with four-speaker system\n\u2022 iPadOS optimized for touch, pencil, and keyboard input\n\u2022 Thunderbolt/USB 4 port for high-speed connectivity", "price": "\u20b989999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/SzXSoSOiwfv3qWaCTcVof_1079x647.png", "marketplace_url": "https://images.pexels.com/photos/1334598/pexels-photo-1334598.jpeg", "layout": "circular_focus"}, "banner_details": "\nThe banner presents a sleek and modern promotional design for a tech product, highlighted by a central product image (\"product_image\") placed over a dark, futuristic radial gradient background with subtle circular and linear graphical accents that convey precision and innovation. The main title (\"heading\") is bold and centered at the top, with a subtler tagline (\"subheading\") beneath in a light gray, adding sophistication. A feature-rich description (\"description\") is centered under the product image in crisp white. The price (\"price\") is prominent in bold typography, followed by a strong call-to-action button with a solid fill (\"cta_background\") and high-contrast text (\"cta\"). \n\n**Color Palette**:\n- Background Gradient: #1E242E \u2192 #3B3F47  \n- Accent Gray: #A8A9AD  \n- Highlight Gray: #D1D3D6  \n- Button Fill: #A8A9AD  \n- CTA Text: #1E242E  \n- White Text: #FFFFFF  \n", "product_color": "\nThe product image showcases a sleek, modern iPad with a refined Space Gray finish. The primary colors used include a metallic gradient of dark gray (#2C2C2E) and light silver-gray (#A3A3A3), smoothly blending across the aluminum body to reflect light subtly. The black Apple logo (#000000) stands out prominently, adding contrast and brand identity. The blending transitions are soft, enhancing a premium and minimalistic aesthetic. This palette works well for an advertisement banner by using monochromatic tones with strategic highlights in white (#FFFFFF) and silver-blue accents (#8E8E93) to enhance depth and modern appeal while keeping the look clean and sophisticated.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1E242E'/><stop offset='100%' stop-color='#3B3F47'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#A8A9AD'/><stop offset='100%' stop-color='#D1D3D6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1'><circle cx='540' cy='540' r='400' fill='none' stroke='#FFFFFF' stroke-width='2'/><circle cx='540' cy='540' r='300' fill='none' stroke='#FFFFFF' stroke-width='2'/><circle cx='540' cy='540' r='200' fill='none' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.15'><rect x='0' y='300' width='1080' height='1' fill='#FFFFFF'/><rect x='0' y='780' width='1080' height='1' fill='#FFFFFF'/></g><g opacity='0.05'><circle cx='100' cy='100' r='50' fill='url(#accentGradient)'/><circle cx='980' cy='980' r='70' fill='url(#accentGradient)'/><circle cx='980' cy='100' r='30' fill='url(#accentGradient)'/><circle cx='100' cy='980' r='40' fill='url(#accentGradient)'/></g><g opacity='0.1'><path d='M 0,0 L 200,200' stroke='#FFFFFF' stroke-width='1'/><path d='M 1080,0 L 880,200' stroke='#FFFFFF' stroke-width='1'/><path d='M 0,1080 L 200,880' stroke='#FFFFFF' stroke-width='1'/><path d='M 1080,1080 L 880,880' stroke='#FFFFFF' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 430.82,
+                "width": 218.36,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "iPad Pro",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 209.39,
+                "width": 661.22,
+                "height": 22.6,
+                "fill": "#A8A9AD",
+                "text": "Ultimate Power, Unmatched Elegance in Space Gray",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 314.13,
+                "left": 313.40999999999997,
+                "width": 453.18,
+                "height": 271.74,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/SzXSoSOiwfv3qWaCTcVof_1079x647.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 255.85000000000002,
+                "width": 568.3,
+                "height": 62.15,
+                "fill": "#D1D3D6",
+                "text": "Premium Design \u2022 Liquid Retina Display \u2022 M-Series Chip\nApple Pencil Support \u2022 All-Day Battery \u2022 5.9mm Thin Profile",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 413.8,
+                "width": 252.4,
+                "height": 90.4,
+                "fill": "#A8A9AD",
+                "text": "\u20b9 89999",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#A8A9AD",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 938,
+                "left": 485.845,
+                "width": 108.31,
+                "height": 27.12,
+                "fill": "#1E242E",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "iPad Pro - Ultimate Power, Unmatched Elegance in Space Gray",
+            "description": "\u2022 Premium all-aluminum unibody design in sleek Space Gray finish\n\u2022 Advanced camera system with Ultra Wide lens and LiDAR Scanner\n\u2022 Stunning edge-to-edge Liquid Retina display\n\u2022 Powerful performance with Apple M-series chip\n\u2022 Support for Apple Pencil and Magic Keyboard\n\u2022 All-day battery life for maximum productivity\n\u2022 Ultra-thin profile at just 5.9mm\n\u2022 Wi-Fi 6 and optional 5G connectivity\n\u2022 Face ID for secure authentication\n\u2022 Professional-grade audio with four-speaker system\n\u2022 iPadOS optimized for touch, pencil, and keyboard input\n\u2022 Thunderbolt/USB 4 port for high-speed connectivity",
+            "price": "\u20b989999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/SzXSoSOiwfv3qWaCTcVof_1079x647.png",
+        "marketplace_url": "https://images.pexels.com/photos/1334598/pexels-photo-1334598.jpeg",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner presents a sleek and modern promotional design for a tech product, highlighted by a central product image (\"product_image\") placed over a dark, futuristic radial gradient background with subtle circular and linear graphical accents that convey precision and innovation. The main title (\"heading\") is bold and centered at the top, with a subtler tagline (\"subheading\") beneath in a light gray, adding sophistication. A feature-rich description (\"description\") is centered under the product image in crisp white. The price (\"price\") is prominent in bold typography, followed by a strong call-to-action button with a solid fill (\"cta_background\") and high-contrast text (\"cta\"). \n\n**Color Palette**:\n- Background Gradient: #1E242E \u2192 #3B3F47  \n- Accent Gray: #A8A9AD  \n- Highlight Gray: #D1D3D6  \n- Button Fill: #A8A9AD  \n- CTA Text: #1E242E  \n- White Text: #FFFFFF  \n",
+    "product_color": "\nThe product image showcases a sleek, modern iPad with a refined Space Gray finish. The primary colors used include a metallic gradient of dark gray (#2C2C2E) and light silver-gray (#A3A3A3), smoothly blending across the aluminum body to reflect light subtly. The black Apple logo (#000000) stands out prominently, adding contrast and brand identity. The blending transitions are soft, enhancing a premium and minimalistic aesthetic. This palette works well for an advertisement banner by using monochromatic tones with strategic highlights in white (#FFFFFF) and silver-blue accents (#8E8E93) to enhance depth and modern appeal while keeping the look clean and sophisticated.\n"
+}

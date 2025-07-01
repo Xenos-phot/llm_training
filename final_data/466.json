@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E8F4FF'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#D1E6F9'/><path d='M0 850 L1080 850 L1080 1080 L0 1080 L0 850Z' fill='#0D47A1' opacity='0.8'/><circle cx='800' cy='200' r='160' fill='#1976D2' opacity='0.2'/><circle cx='200' cy='300' r='120' fill='#1976D2' opacity='0.1'/><circle cx='900' cy='820' r='40' fill='#FFFFFF' opacity='0.2'/><circle cx='200' cy='900' r='60' fill='#FFFFFF' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 203.48000000000002, "width": 673.04, "height": 90.4, "fill": "#0D47A1", "text": "ULTRA CLEAN", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 292.11, "width": 495.78, "height": 45.2, "fill": "#1976D2", "text": "COUNTERTOP DISHWASHER", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 273.2, "left": 301.95, "width": 1058, "height": 1008, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3ebad2b2-d685-425d-8bf2-2e00674704f5_nobg_1058x1008.png", "id": "product_image"}, {"type": "text", "top": 828.3, "left": 372.185, "width": 335.63, "height": 101.7, "fill": "#FFFFFF", "text": "$294.00", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 957.0, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 974.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#0D47A1", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "8 WASH CYCLE OPTIONS: HAVA 2024 NEW Upgrade Model R07 Countertop Dishwasher Supports Normal, Quick, ECO, Strong, Glass, Fruit, Self-Clean, and Dry modes for your various dishwashing needs. After each wash cycle finishes, a Dry mode provides an extra 60 minutes of drying and offers 72-hour ventilated storage to prevent odors and keep your dishes clean. UP TO 18-HOUR DELAYED START: HAVA Portable Dishwasher can finish the wash program according to your schedule. A delay of up to 18 hours is available with this new model, so you can be assured of having clean dishes at the desired time. You may also use this feature to run the machine during a non-peak time for a lower electricity bill. SELF-CLEAN & CHILD LOCK FUNCTION: The HAVA Mini Dishwasher features a Self-Clean program for thorough cleaning from the inside out, ensuring consistent washing performance. It also includes a child lock function to prevent misoperation. NO INSTALLATION NEEDED: Simply add water to the built-in 5L water tank for your washing task, so you can put the dishwasher in any suitable place without connecting to tap water. Also, you can connect the water inlet to a faucet using the included hose (adapter included). A compact design makes it perfect for small-sized houses, apartments, dorms, boats, and campers/RVs. LARGE CAPACITY & SAVES ENERGY: HAVA Counter Top Dishwasher can hold up to 4 full-place settings and fit up to 11 dishes loaded at an angle. This dishwasher only consumes 5 L of water per wash cycle, only 1/5 of the amount used by handwashing. Operating at 950 W, this appliance is a great energy-saving choice for every family. QUALITY CONTROL NOTE: Each unit of HAVA undergoes manufacturer's rigorous quality tests to guarantee full functionality, so having a little amount of residual water in the unit is NORMAL. Any questions about the product, please feel free to send us an email and HAVA will try our best to help you! Machine Size: (L x W x H): 16.86 x 16.75 x 18.05 in (42.8 x 42.5 x 45.8 cm); Interior Size (L x W x H): 13 x 13.77 x 10.83 in (space with tableware basket inside). Brand - HAVA ** Installation Type - Countertop ** Product Dimensions - 16.86&#34;D x 16.75&#34;W x 18.05&#34;H ** Capacity - 5 Liters ** Special Feature - Childproof Lock, Digital Display, Self-Cleaning, Built-In Water Tank, Compact ** Color - snow white ** Controls Type - Touch ** Material - Polypropylene (PP) ** Noise Level - 60 dB ** Included Components - User Manual, Drying System, Power Cord, Drain Hose, Cutlery Basket **", "price": "294.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3ebad2b2-d685-425d-8bf2-2e00674704f5_nobg_1058x1008.png", "marketplace_url": "https://www.amazon.com/dp/B0CKPHD13M", "layout": "minimalist_center"}, "banner_details": "\nThis banner showcases a modern kitchen appliance product using a clean, tech-inspired design with smooth gradients and strong geometric styling. It features a central product image (\"product_image\") of a sleek countertop dishwasher, visually emphasized by its stark contrast against a soft, abstract background pattern of circles and wave shapes. Text elements include a bold headline (\"heading\") and a subheadline (\"subheading\") placed at the top to highlight the product identity and description. The pricing text (\"price\") is prominently displayed in the lower dark-blue section accompanied by a high-contrast call-to-action button (\"cta\" over \"cta_background\") encouraging immediate engagement. \n\n**Color Palette:**\n- Sky Blue: `#E8F4FF`\n- Light Blue: `#D1E6F9`\n- Navy Blue: `#0D47A1`\n- Bright Blue: `#1976D2`\n- White: `#FFFFFF`\n\n", "product_color": "  \nThe product image features a sleek, modern dishwasher with a clean and minimalist aesthetic. The color palette prominently includes Crisp White (#FFFFFF), Jet Black (#000000), and a vibrant Electric Blue (#0033FF). White dominates the appliance's body, symbolizing cleanliness and modernity, while black frames the glass window, offering sharp contrast and a premium look. The Electric Blue interior lighting adds a futuristic and high-tech appeal, drawing attention to the neatly arranged dishes and creating visual depth. These colors are harmoniously blended to highlight product functionality and elegance. For a banner, use gradients of blue and white with black accents for text or borders.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E8F4FF'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#D1E6F9'/><path d='M0 850 L1080 850 L1080 1080 L0 1080 L0 850Z' fill='#0D47A1' opacity='0.8'/><circle cx='800' cy='200' r='160' fill='#1976D2' opacity='0.2'/><circle cx='200' cy='300' r='120' fill='#1976D2' opacity='0.1'/><circle cx='900' cy='820' r='40' fill='#FFFFFF' opacity='0.2'/><circle cx='200' cy='900' r='60' fill='#FFFFFF' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 203.48000000000002,
+                "width": 673.04,
+                "height": 90.4,
+                "fill": "#0D47A1",
+                "text": "ULTRA CLEAN",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 292.11,
+                "width": 495.78,
+                "height": 45.2,
+                "fill": "#1976D2",
+                "text": "COUNTERTOP DISHWASHER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 273.2,
+                "left": 301.95,
+                "width": 476.1,
+                "height": 453.6,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3ebad2b2-d685-425d-8bf2-2e00674704f5_nobg_1058x1008.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 828.3,
+                "left": 372.185,
+                "width": 335.63,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$294.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 957.0,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 974.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#0D47A1",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "8 WASH CYCLE OPTIONS: HAVA 2024 NEW Upgrade Model R07 Countertop Dishwasher Supports Normal, Quick, ECO, Strong, Glass, Fruit, Self-Clean, and Dry modes for your various dishwashing needs. After each wash cycle finishes, a Dry mode provides an extra 60 minutes of drying and offers 72-hour ventilated storage to prevent odors and keep your dishes clean. UP TO 18-HOUR DELAYED START: HAVA Portable Dishwasher can finish the wash program according to your schedule. A delay of up to 18 hours is available with this new model, so you can be assured of having clean dishes at the desired time. You may also use this feature to run the machine during a non-peak time for a lower electricity bill. SELF-CLEAN & CHILD LOCK FUNCTION: The HAVA Mini Dishwasher features a Self-Clean program for thorough cleaning from the inside out, ensuring consistent washing performance. It also includes a child lock function to prevent misoperation. NO INSTALLATION NEEDED: Simply add water to the built-in 5L water tank for your washing task, so you can put the dishwasher in any suitable place without connecting to tap water. Also, you can connect the water inlet to a faucet using the included hose (adapter included). A compact design makes it perfect for small-sized houses, apartments, dorms, boats, and campers/RVs. LARGE CAPACITY & SAVES ENERGY: HAVA Counter Top Dishwasher can hold up to 4 full-place settings and fit up to 11 dishes loaded at an angle. This dishwasher only consumes 5 L of water per wash cycle, only 1/5 of the amount used by handwashing. Operating at 950 W, this appliance is a great energy-saving choice for every family. QUALITY CONTROL NOTE: Each unit of HAVA undergoes manufacturer's rigorous quality tests to guarantee full functionality, so having a little amount of residual water in the unit is NORMAL. Any questions about the product, please feel free to send us an email and HAVA will try our best to help you! Machine Size: (L x W x H): 16.86 x 16.75 x 18.05 in (42.8 x 42.5 x 45.8 cm); Interior Size (L x W x H): 13 x 13.77 x 10.83 in (space with tableware basket inside). Brand - HAVA ** Installation Type - Countertop ** Product Dimensions - 16.86&#34;D x 16.75&#34;W x 18.05&#34;H ** Capacity - 5 Liters ** Special Feature - Childproof Lock, Digital Display, Self-Cleaning, Built-In Water Tank, Compact ** Color - snow white ** Controls Type - Touch ** Material - Polypropylene (PP) ** Noise Level - 60 dB ** Included Components - User Manual, Drying System, Power Cord, Drain Hose, Cutlery Basket **",
+            "price": "294.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3ebad2b2-d685-425d-8bf2-2e00674704f5_nobg_1058x1008.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CKPHD13M",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner showcases a modern kitchen appliance product using a clean, tech-inspired design with smooth gradients and strong geometric styling. It features a central product image (\"product_image\") of a sleek countertop dishwasher, visually emphasized by its stark contrast against a soft, abstract background pattern of circles and wave shapes. Text elements include a bold headline (\"heading\") and a subheadline (\"subheading\") placed at the top to highlight the product identity and description. The pricing text (\"price\") is prominently displayed in the lower dark-blue section accompanied by a high-contrast call-to-action button (\"cta\" over \"cta_background\") encouraging immediate engagement. \n\n**Color Palette:**\n- Sky Blue: `#E8F4FF`\n- Light Blue: `#D1E6F9`\n- Navy Blue: `#0D47A1`\n- Bright Blue: `#1976D2`\n- White: `#FFFFFF`\n\n",
+    "product_color": "  \nThe product image features a sleek, modern dishwasher with a clean and minimalist aesthetic. The color palette prominently includes Crisp White (#FFFFFF), Jet Black (#000000), and a vibrant Electric Blue (#0033FF). White dominates the appliance's body, symbolizing cleanliness and modernity, while black frames the glass window, offering sharp contrast and a premium look. The Electric Blue interior lighting adds a futuristic and high-tech appeal, drawing attention to the neatly arranged dishes and creating visual depth. These colors are harmoniously blended to highlight product functionality and elegance. For a banner, use gradients of blue and white with black accents for text or borders.  \n"
+}

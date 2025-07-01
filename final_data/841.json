@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5FAFE'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#3498DB' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#3498DB' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#3498DB' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><circle cx='540' cy='540' r='320' fill='#3498DB' opacity='0.05'/><path d='M150 250 C250 230, 350 280, 450 250 C550 220, 650 270, 750 250' stroke='#7CC6FE' stroke-width='2' opacity='0.5' fill='none'/><path d='M150 300 C250 280, 350 330, 450 300 C550 270, 650 320, 750 300' stroke='#7CC6FE' stroke-width='2' opacity='0.3' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 122, "width": 788.43, "height": 113, "fill": "#1B5E89", "text": "FARM FRESH", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 225, "left": 125, "width": 534.52, "height": 90.4, "fill": "#3498DB", "text": "PREMIUM MILK", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 316, "left": 136, "width": 489.39, "height": 155.04, "fill": "#2C3E50", "text": "100% Pure, Farm-Fresh Whole Milk\nRich in essential nutrients and calcium\nNo artificial additives or preservatives\nNaturally creamy texture and rich taste", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 834, "left": 85, "width": 228.65, "height": 84.75, "fill": "#1B5E89", "text": "\u20b9 999", "fontSize": 75, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 946, "left": 94, "width": 200, "height": 60, "fill": "#3498DB", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 962, "left": 123, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 330, "left": 550, "width": 695, "height": 911, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/BffNvVRW-ibkGn7qAkeSD_695x911.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Farm Fresh Premium Dairy Milk - Pure & Natural Goodness", "description": "\u2022 100% Pure, Farm-Fresh Whole Milk\n\u2022 No artificial additives or preservatives\n\u2022 Rich in essential nutrients and calcium\n\u2022 Pasteurized for safety while preserving natural taste\n\u2022 Perfect for drinking, cooking, and baking\n\u2022 Available in convenient glass bottles and pitchers\n\u2022 Sourced from local dairy farms\n\u2022 Naturally creamy texture and rich taste\n\u2022 High in protein and vitamin D\n\u2022 Ideal for growing children and active adults", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/BffNvVRW-ibkGn7qAkeSD_695x911.png", "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg", "layout": "frame_layout"}, "banner_details": "\nThe banner showcases a clean and modern layout promoting a premium milk product. It features a bold, dark blue heading at the top (\"heading\") with a large, eye-catching font, followed by a lighter blue subheading (\"subheading\") slightly below it. The central area includes a neatly-aligned multiline product description (\"description\") in a clean sans-serif typeface, emphasizing natural and quality aspects of the milk. On the right side, a realistically rendered image (\"product_image\") of milk in a glass, jug, and bottle adds visual appeal. The bottom-left section contains the price text (\"price\"), and a prominent call-to-action button (\"cta_background\" and \"cta\") encouraging user interaction. The background uses layered waves and a double-bordered, soft blue and white frame with rounded corners, lending a fresh, organic feel.\n\n**Color Palette:**\n- Deep Blue: #1B5E89\n- Sky Blue: #3498DB\n- Light Sky/Background: #F5FAFE\n- Text Gray: #2C3E50\n- White: #FFFFFF\n", "product_color": "\nThe product image showcases milk in clear glass containers, using a clean and minimalist color palette. Dominant colors include bright white from the milk (#FFFFFF), icy blue from the glass accents (#A3D3F5), subtle gray shadows (#D3D3D3), and light reflections (#F5F5F5). These colors blend naturally, emphasizing freshness and purity. The cool blue hues create a calming contrast with the milk\u2019s warm white tone, making the product appear clean and wholesome. For an advertisement banner, a palette featuring White (#FFFFFF), Ice Blue (#A3D3F5), Light Gray (#D3D3D3), and Soft Silver (#F5F5F5) would convey cool freshness and natural richness effectively.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5FAFE'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#3498DB' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#3498DB' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#3498DB' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#3498DB' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><circle cx='540' cy='540' r='320' fill='#3498DB' opacity='0.05'/><path d='M150 250 C250 230, 350 280, 450 250 C550 220, 650 270, 750 250' stroke='#7CC6FE' stroke-width='2' opacity='0.5' fill='none'/><path d='M150 300 C250 280, 350 330, 450 300 C550 270, 650 320, 750 300' stroke='#7CC6FE' stroke-width='2' opacity='0.3' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 122,
+                "width": 788.43,
+                "height": 113,
+                "fill": "#1B5E89",
+                "text": "FARM FRESH",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 225,
+                "left": 125,
+                "width": 534.52,
+                "height": 90.4,
+                "fill": "#3498DB",
+                "text": "PREMIUM MILK",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 316,
+                "left": 136,
+                "width": 489.39,
+                "height": 155.04,
+                "fill": "#2C3E50",
+                "text": "100% Pure, Farm-Fresh Whole Milk\nRich in essential nutrients and calcium\nNo artificial additives or preservatives\nNaturally creamy texture and rich taste",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 834,
+                "left": 85,
+                "width": 228.65,
+                "height": 84.75,
+                "fill": "#1B5E89",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 946,
+                "left": 94,
+                "width": 200,
+                "height": 60,
+                "fill": "#3498DB",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 962,
+                "left": 123,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 330,
+                "left": 550,
+                "width": 430.9,
+                "height": 564.82,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/BffNvVRW-ibkGn7qAkeSD_695x911.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Farm Fresh Premium Dairy Milk - Pure & Natural Goodness",
+            "description": "\u2022 100% Pure, Farm-Fresh Whole Milk\n\u2022 No artificial additives or preservatives\n\u2022 Rich in essential nutrients and calcium\n\u2022 Pasteurized for safety while preserving natural taste\n\u2022 Perfect for drinking, cooking, and baking\n\u2022 Available in convenient glass bottles and pitchers\n\u2022 Sourced from local dairy farms\n\u2022 Naturally creamy texture and rich taste\n\u2022 High in protein and vitamin D\n\u2022 Ideal for growing children and active adults",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/BffNvVRW-ibkGn7qAkeSD_695x911.png",
+        "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThe banner showcases a clean and modern layout promoting a premium milk product. It features a bold, dark blue heading at the top (\"heading\") with a large, eye-catching font, followed by a lighter blue subheading (\"subheading\") slightly below it. The central area includes a neatly-aligned multiline product description (\"description\") in a clean sans-serif typeface, emphasizing natural and quality aspects of the milk. On the right side, a realistically rendered image (\"product_image\") of milk in a glass, jug, and bottle adds visual appeal. The bottom-left section contains the price text (\"price\"), and a prominent call-to-action button (\"cta_background\" and \"cta\") encouraging user interaction. The background uses layered waves and a double-bordered, soft blue and white frame with rounded corners, lending a fresh, organic feel.\n\n**Color Palette:**\n- Deep Blue: #1B5E89\n- Sky Blue: #3498DB\n- Light Sky/Background: #F5FAFE\n- Text Gray: #2C3E50\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image showcases milk in clear glass containers, using a clean and minimalist color palette. Dominant colors include bright white from the milk (#FFFFFF), icy blue from the glass accents (#A3D3F5), subtle gray shadows (#D3D3D3), and light reflections (#F5F5F5). These colors blend naturally, emphasizing freshness and purity. The cool blue hues create a calming contrast with the milk\u2019s warm white tone, making the product appear clean and wholesome. For an advertisement banner, a palette featuring White (#FFFFFF), Ice Blue (#A3D3F5), Light Gray (#D3D3D3), and Soft Silver (#F5F5F5) would convey cool freshness and natural richness effectively.\n"
+}

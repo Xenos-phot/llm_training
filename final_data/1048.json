@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#f4f0e5'/><rect x='0' y='0' width='1080' height='220' fill='#b22c2c' opacity='0.9'/><rect x='0' y='860' width='1080' height='220' fill='#b22c2c' opacity='0.9'/><g transform='rotate(45 540 540)'><rect x='260' y='260' width='560' height='560' rx='30' ry='30' fill='none' stroke='#111111' stroke-width='2' stroke-dasharray='10,10' opacity='0.1'/></g><g transform='rotate(-45 540 540)'><rect x='260' y='260' width='560' height='560' rx='30' ry='30' fill='none' stroke='#b22c2c' stroke-width='2' stroke-dasharray='10,10' opacity='0.1'/></g><g opacity='0.1'><circle cx='50' cy='50' r='10' fill='#111111'/><circle cx='50' cy='100' r='10' fill='#111111'/><circle cx='50' cy='150' r='10' fill='#111111'/><circle cx='100' cy='50' r='10' fill='#111111'/><circle cx='100' cy='100' r='10' fill='#111111'/><circle cx='100' cy='150' r='10' fill='#111111'/><circle cx='150' cy='50' r='10' fill='#111111'/><circle cx='150' cy='100' r='10' fill='#111111'/><circle cx='150' cy='150' r='10' fill='#111111'/></g><g opacity='0.1'><circle cx='930' cy='930' r='10' fill='#111111'/><circle cx='930' cy='980' r='10' fill='#111111'/><circle cx='930' cy='1030' r='10' fill='#111111'/><circle cx='980' cy='930' r='10' fill='#111111'/><circle cx='980' cy='980' r='10' fill='#111111'/><circle cx='980' cy='1030' r='10' fill='#111111'/><circle cx='1030' cy='930' r='10' fill='#111111'/><circle cx='1030' cy='980' r='10' fill='#111111'/><circle cx='1030' cy='1030' r='10' fill='#111111'/></g></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 247.18, "width": 585.64, "height": 90.4, "fill": "#ffffff", "text": "NIKE DUNK LOW", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 140, "left": 179.51999999999998, "width": 720.96, "height": 45.2, "fill": "#ffffff", "text": "VINTAGE CREAM & RED - CLASSIC URBAN STYLE", "fontSize": 40, "fontFamily": "Teko Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 230.94, "left": 271.41, "width": 1279, "height": 1186, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67f61183c433ac6da2146861/aK3KDx2n5VocElNkHsBLM_1279x1186.png", "id": "product_image"}, {"type": "text", "top": 730, "left": 160.375, "width": 759.25, "height": 27.12, "fill": "#111111", "text": "Premium Leather \u2022 Iconic Swoosh \u2022 Padded Collar \u2022 Durable Traction", "fontSize": 24, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 780, "left": 460.90999999999997, "width": 158.18, "height": 42.94, "fill": "#111111", "text": "$129.99", "fontSize": 38, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 870, "left": 427.0, "width": 225.99999999999997, "height": 67.8, "fill": "#111111", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 888, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#f4f0e5", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 975, "left": 361.9, "width": 356.2, "height": 22.6, "fill": "#ffffff", "text": "CLASSIC COMFORT \u2022 TIMELESS DESIGN", "fontSize": 20, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nike Dunk Low Premium 'Vintage Cream & Red' - Classic Urban Style Redefined", "description": "\u2022 \u2728 Premium leather upper in vintage cream colorway with iconic black swoosh\n\u2022 \ud83d\udd25 Signature red rubber outsole with durable traction pattern\n\u2022 \ud83d\udcaa Padded collar and tongue for enhanced comfort and support\n\u2022 \ud83d\udc5f Perforated toe box for optimal breathability\n\u2022 \ud83c\udfa8 Timeless color combination: Cream/Black/Red with yellow accent\n\u2022 \ud83c\udfc3\u200d\u2642\ufe0f Lightweight cushioning for all-day comfort\n\u2022 \ud83c\udfaf Classic Nike Dunk silhouette perfect for street style\n\u2022 \u2705 Durable construction with quality stitching and materials\n\u2022 \ud83d\udd04 Versatile design suitable for casual and semi-formal wear\n\u2022 \ud83d\udccf Available in multiple sizes with true-to-size fit", "price": "$0"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67f61183c433ac6da2146861/aK3KDx2n5VocElNkHsBLM_1279x1186.png", "marketplace_url": "https://pixabay.com/get/g99756a1c75a6212bb86207a10011f53a7e84e51c562991beabd1d9a5b755bc55291726b9ee1d3664aada1a7ffb9df4dca3bff9bc85ad9556f068e7d852eb5225_1280.png", "layout": "centered_hero"}, "banner_details": "\nThis banner design showcases a product-focused layout with high visual impact and strong call-to-action elements. At the top, the text object with id `heading` presents the product name in bold, uppercase typography, sitting above a subtitle (`subheading`) emphasizing the product\u2019s style and appeal. Centered within the layout is a stylish sneaker (`product_image`) placed over intersecting red and black dashed-line diamond overlays for added depth. A feature list (`description`) communicates key benefits, aligned horizontally below the product. The price (`price`) is centrally placed in a bold serif font. A prominent call-to-action button (`cta_background` and `cta`) and tagline (`tagline`) conclude the layout at the bottom of the banner.\n\n**Color Palette:**\n- Cream: #f4f0e5  \n- Deep Red: #b22c2c  \n- Black: #111111  \n- White: #ffffff  \n", "product_color": "  \nThe product image features a stylish pair of sneakers with a minimalistic yet bold color palette that perfectly complements modern urban fashion. Dominant hues include a soft cream (#FDF3E7) on the upper body, providing a clean and neutral base. A rich brick red (#8B3A3A) is used for the outsole and inner lining, adding warmth and a sense of grounded ruggedness. The black (#1C1C1C) used for the swoosh and laces gives a sharp contrast, highlighting the design and branding prominently. Minimal mustard yellow (#F2C94C) accent at the heel adds a subtle pop. Together, these colors blend smoothly while retaining strong individual presence.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#f4f0e5'/><rect x='0' y='0' width='1080' height='220' fill='#b22c2c' opacity='0.9'/><rect x='0' y='860' width='1080' height='220' fill='#b22c2c' opacity='0.9'/><g transform='rotate(45 540 540)'><rect x='260' y='260' width='560' height='560' rx='30' ry='30' fill='none' stroke='#111111' stroke-width='2' stroke-dasharray='10,10' opacity='0.1'/></g><g transform='rotate(-45 540 540)'><rect x='260' y='260' width='560' height='560' rx='30' ry='30' fill='none' stroke='#b22c2c' stroke-width='2' stroke-dasharray='10,10' opacity='0.1'/></g><g opacity='0.1'><circle cx='50' cy='50' r='10' fill='#111111'/><circle cx='50' cy='100' r='10' fill='#111111'/><circle cx='50' cy='150' r='10' fill='#111111'/><circle cx='100' cy='50' r='10' fill='#111111'/><circle cx='100' cy='100' r='10' fill='#111111'/><circle cx='100' cy='150' r='10' fill='#111111'/><circle cx='150' cy='50' r='10' fill='#111111'/><circle cx='150' cy='100' r='10' fill='#111111'/><circle cx='150' cy='150' r='10' fill='#111111'/></g><g opacity='0.1'><circle cx='930' cy='930' r='10' fill='#111111'/><circle cx='930' cy='980' r='10' fill='#111111'/><circle cx='930' cy='1030' r='10' fill='#111111'/><circle cx='980' cy='930' r='10' fill='#111111'/><circle cx='980' cy='980' r='10' fill='#111111'/><circle cx='980' cy='1030' r='10' fill='#111111'/><circle cx='1030' cy='930' r='10' fill='#111111'/><circle cx='1030' cy='980' r='10' fill='#111111'/><circle cx='1030' cy='1030' r='10' fill='#111111'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 247.18,
+                "width": 585.64,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "NIKE DUNK LOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 179.51999999999998,
+                "width": 720.96,
+                "height": 45.2,
+                "fill": "#ffffff",
+                "text": "VINTAGE CREAM & RED - CLASSIC URBAN STYLE",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 230.94,
+                "left": 271.41,
+                "width": 537.18,
+                "height": 498.12,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67f61183c433ac6da2146861/aK3KDx2n5VocElNkHsBLM_1279x1186.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 160.375,
+                "width": 759.25,
+                "height": 27.12,
+                "fill": "#111111",
+                "text": "Premium Leather \u2022 Iconic Swoosh \u2022 Padded Collar \u2022 Durable Traction",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 460.90999999999997,
+                "width": 158.18,
+                "height": 42.94,
+                "fill": "#111111",
+                "text": "$129.99",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 870,
+                "left": 427.0,
+                "width": 225.99999999999997,
+                "height": 67.8,
+                "fill": "#111111",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 888,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#f4f0e5",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 975,
+                "left": 361.9,
+                "width": 356.2,
+                "height": 22.6,
+                "fill": "#ffffff",
+                "text": "CLASSIC COMFORT \u2022 TIMELESS DESIGN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nike Dunk Low Premium 'Vintage Cream & Red' - Classic Urban Style Redefined",
+            "description": "\u2022 \u2728 Premium leather upper in vintage cream colorway with iconic black swoosh\n\u2022 \ud83d\udd25 Signature red rubber outsole with durable traction pattern\n\u2022 \ud83d\udcaa Padded collar and tongue for enhanced comfort and support\n\u2022 \ud83d\udc5f Perforated toe box for optimal breathability\n\u2022 \ud83c\udfa8 Timeless color combination: Cream/Black/Red with yellow accent\n\u2022 \ud83c\udfc3\u200d\u2642\ufe0f Lightweight cushioning for all-day comfort\n\u2022 \ud83c\udfaf Classic Nike Dunk silhouette perfect for street style\n\u2022 \u2705 Durable construction with quality stitching and materials\n\u2022 \ud83d\udd04 Versatile design suitable for casual and semi-formal wear\n\u2022 \ud83d\udccf Available in multiple sizes with true-to-size fit",
+            "price": "$0"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67f61183c433ac6da2146861/aK3KDx2n5VocElNkHsBLM_1279x1186.png",
+        "marketplace_url": "https://pixabay.com/get/g99756a1c75a6212bb86207a10011f53a7e84e51c562991beabd1d9a5b755bc55291726b9ee1d3664aada1a7ffb9df4dca3bff9bc85ad9556f068e7d852eb5225_1280.png",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner design showcases a product-focused layout with high visual impact and strong call-to-action elements. At the top, the text object with id `heading` presents the product name in bold, uppercase typography, sitting above a subtitle (`subheading`) emphasizing the product\u2019s style and appeal. Centered within the layout is a stylish sneaker (`product_image`) placed over intersecting red and black dashed-line diamond overlays for added depth. A feature list (`description`) communicates key benefits, aligned horizontally below the product. The price (`price`) is centrally placed in a bold serif font. A prominent call-to-action button (`cta_background` and `cta`) and tagline (`tagline`) conclude the layout at the bottom of the banner.\n\n**Color Palette:**\n- Cream: #f4f0e5  \n- Deep Red: #b22c2c  \n- Black: #111111  \n- White: #ffffff  \n",
+    "product_color": "  \nThe product image features a stylish pair of sneakers with a minimalistic yet bold color palette that perfectly complements modern urban fashion. Dominant hues include a soft cream (#FDF3E7) on the upper body, providing a clean and neutral base. A rich brick red (#8B3A3A) is used for the outsole and inner lining, adding warmth and a sense of grounded ruggedness. The black (#1C1C1C) used for the swoosh and laces gives a sharp contrast, highlighting the design and branding prominently. Minimal mustard yellow (#F2C94C) accent at the heel adds a subtle pop. Together, these colors blend smoothly while retaining strong individual presence.\n"
+}

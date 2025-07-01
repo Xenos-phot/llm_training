@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#EFF3F6'/><path d='M0 0 L1080 0 L1080 400 L0 400 Z' fill='#D9E5F1'/><rect x='0' y='750' width='1080' height='330' fill='#2D5D86' opacity='0.9'/><circle cx='900' cy='200' r='180' fill='#4A7CA6' opacity='0.3'/><circle cx='950' cy='150' r='100' fill='#2D5D86' opacity='0.2'/><path d='M0 400 C200 380 300 450 500 420 C700 390 900 420 1080 400 L1080 750 L0 750 Z' fill='#B8D0E6' opacity='0.5'/><circle cx='150' cy='850' r='100' fill='#FFFFFF' opacity='0.2'/><circle cx='200' cy='900' r='60' fill='#FFFFFF' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 591.2, "height": 113, "fill": "#2D5D86", "text": "LIMITED TIME", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 60, "width": 623.36, "height": 90.4, "fill": "#E74C3C", "text": "DON'T MISS OUT!", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 300, "left": 60, "width": 555.35, "height": 47.46, "fill": "#2D5D86", "text": "SMART HOME ESSENTIAL", "fontSize": 42, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 420, "left": 60, "width": 380.24, "height": 198.88, "fill": "#2D5D86", "text": "\u2022 Multiple Drying Modes\n\u2022 Energy-Efficient Technology\n\u2022 Digital LED Controls\n\u2022 Perfect for Any Space", "fontSize": 32, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "image", "top": 335, "left": 596, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/FnG6GsqG2EnGfVJTObyNc_899x1336.png", "id": "product_image"}, {"type": "text", "top": 810, "left": 60, "width": 346.3, "height": 135.6, "fill": "#FFFFFF", "text": "$380", "fontSize": 120, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 960, "left": 60, "width": 250, "height": 70, "fill": "#E74C3C", "rx": 10, "ry": 10, "id": "cta_background"}, {"type": "text", "top": 978, "left": 98, "width": 135.21, "height": 33.9, "fill": "#FFFFFF", "text": "ACT NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 870, "left": 456, "width": 449.21, "height": 33.9, "fill": "#FFFFFF", "text": "EXCLUSIVE SAVINGS END SOON!", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "right", "id": "urgency_text"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Ultra-Modern High-Efficiency Ventless Dryer - Smart Home Essential", "description": "\u2022 \u2728 Sleek white modern design with large digital display and intuitive controls\n\u2022 \ud83c\udfaf Multiple drying modes: My Cycle, Mixed Load, Heavy Duty, Towels, and more\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83d\udd27 Easy-access maintenance panel and clear maintenance instructions\n\u2022 \ud83d\udcf1 Digital LED display with time remaining and cycle status\n\u2022 \ud83c\udf1f Large capacity drum with dark glass door for visibility\n\u2022 \ud83d\udca8 Advanced moisture sensing for precise drying results\n\u2022 \u2699\ufe0f Adjustable temperature settings for various fabric types\n\u2022 \ud83d\udd04 Reversible door design for flexible installation\n\u2022 \ud83d\udca1 User-friendly control panel with rotating selector dial\n\u2022 \ud83c\udfe0 Perfect for apartments, condos, and spaces without external venting", "price": "$380"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/FnG6GsqG2EnGfVJTObyNc_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/72863d28-5721-4bb8-a39d-6bc1269efb45", "layout": "z_pattern"}, "banner_details": "\nThis banner features a modern and energetic promotional design for a home appliance. The background includes soft waves and abstract circular elements creating a sense of motion. The layout is divided into distinct sections: the upper part uses objects like `heading` and `subheading` to highlight urgency in bold, contrasting fonts; while the `tagline` subtly emphasizes the product category. The midsection includes `description`, a bulleted list of key features set to the left. The product image `product_image` is prominently placed to the right. At the bottom, the pricing is bold with `price`, supported by an action-driven button (`cta_background` and `cta`) and a sense of urgency through `urgency_text`.\n\n**Color Palette:**\n- Light Blue: `#EFF3F6`, `#D9E5F1`, `#B8D0E6`\n- Navy Blue: `#2D5D86`\n- Accent Red: `#E74C3C`\n- White: `#FFFFFF`\n- Muted Blue/Circles: `#4A7CA6`\n", "product_color": "  \nThe product image features a sleek and modern color palette dominated by clean white (#F8F9FA) and deep black (#1A1A1A), creating a high-contrast, professional look. The white body of the dryer gives it a fresh, hygienic appeal, while the black door provides a bold focal point, enhancing visual interest. Subtle accent lights in the control panel introduce minimal touches of soft blue (#A9D0F5) and red (#FF6B6B), used to differentiate settings effectively. These colors are not overpowering but add a crisp hint of technology and usability. For an ad banner, this minimalist palette can reinforce the appliance\u2019s premium and efficient image.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#EFF3F6'/><path d='M0 0 L1080 0 L1080 400 L0 400 Z' fill='#D9E5F1'/><rect x='0' y='750' width='1080' height='330' fill='#2D5D86' opacity='0.9'/><circle cx='900' cy='200' r='180' fill='#4A7CA6' opacity='0.3'/><circle cx='950' cy='150' r='100' fill='#2D5D86' opacity='0.2'/><path d='M0 400 C200 380 300 450 500 420 C700 390 900 420 1080 400 L1080 750 L0 750 Z' fill='#B8D0E6' opacity='0.5'/><circle cx='150' cy='850' r='100' fill='#FFFFFF' opacity='0.2'/><circle cx='200' cy='900' r='60' fill='#FFFFFF' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 591.2,
+                "height": 113,
+                "fill": "#2D5D86",
+                "text": "LIMITED TIME",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 623.36,
+                "height": 90.4,
+                "fill": "#E74C3C",
+                "text": "DON'T MISS OUT!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 60,
+                "width": 555.35,
+                "height": 47.46,
+                "fill": "#2D5D86",
+                "text": "SMART HOME ESSENTIAL",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 420,
+                "left": 60,
+                "width": 380.24,
+                "height": 198.88,
+                "fill": "#2D5D86",
+                "text": "\u2022 Multiple Drying Modes\n\u2022 Energy-Efficient Technology\n\u2022 Digital LED Controls\n\u2022 Perfect for Any Space",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 335,
+                "left": 596,
+                "width": 359.6,
+                "height": 534.4,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/FnG6GsqG2EnGfVJTObyNc_899x1336.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 60,
+                "width": 346.3,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "$380",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 60,
+                "width": 250,
+                "height": 70,
+                "fill": "#E74C3C",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 978,
+                "left": 98,
+                "width": 135.21,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "ACT NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 870,
+                "left": 456,
+                "width": 449.21,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "EXCLUSIVE SAVINGS END SOON!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "right",
+                "id": "urgency_text"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Ultra-Modern High-Efficiency Ventless Dryer - Smart Home Essential",
+            "description": "\u2022 \u2728 Sleek white modern design with large digital display and intuitive controls\n\u2022 \ud83c\udfaf Multiple drying modes: My Cycle, Mixed Load, Heavy Duty, Towels, and more\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83d\udd27 Easy-access maintenance panel and clear maintenance instructions\n\u2022 \ud83d\udcf1 Digital LED display with time remaining and cycle status\n\u2022 \ud83c\udf1f Large capacity drum with dark glass door for visibility\n\u2022 \ud83d\udca8 Advanced moisture sensing for precise drying results\n\u2022 \u2699\ufe0f Adjustable temperature settings for various fabric types\n\u2022 \ud83d\udd04 Reversible door design for flexible installation\n\u2022 \ud83d\udca1 User-friendly control panel with rotating selector dial\n\u2022 \ud83c\udfe0 Perfect for apartments, condos, and spaces without external venting",
+            "price": "$380"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/FnG6GsqG2EnGfVJTObyNc_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/72863d28-5721-4bb8-a39d-6bc1269efb45",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner features a modern and energetic promotional design for a home appliance. The background includes soft waves and abstract circular elements creating a sense of motion. The layout is divided into distinct sections: the upper part uses objects like `heading` and `subheading` to highlight urgency in bold, contrasting fonts; while the `tagline` subtly emphasizes the product category. The midsection includes `description`, a bulleted list of key features set to the left. The product image `product_image` is prominently placed to the right. At the bottom, the pricing is bold with `price`, supported by an action-driven button (`cta_background` and `cta`) and a sense of urgency through `urgency_text`.\n\n**Color Palette:**\n- Light Blue: `#EFF3F6`, `#D9E5F1`, `#B8D0E6`\n- Navy Blue: `#2D5D86`\n- Accent Red: `#E74C3C`\n- White: `#FFFFFF`\n- Muted Blue/Circles: `#4A7CA6`\n",
+    "product_color": "  \nThe product image features a sleek and modern color palette dominated by clean white (#F8F9FA) and deep black (#1A1A1A), creating a high-contrast, professional look. The white body of the dryer gives it a fresh, hygienic appeal, while the black door provides a bold focal point, enhancing visual interest. Subtle accent lights in the control panel introduce minimal touches of soft blue (#A9D0F5) and red (#FF6B6B), used to differentiate settings effectively. These colors are not overpowering but add a crisp hint of technology and usability. For an ad banner, this minimalist palette can reinforce the appliance\u2019s premium and efficient image.  \n"
+}

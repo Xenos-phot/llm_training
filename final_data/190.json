@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#FF80AB'/><rect x='540' y='0' width='540' height='540' fill='#4DD0E1'/><rect x='0' y='540' width='540' height='540' fill='#9575CD'/><rect x='540' y='540' width='540' height='540' fill='#A5D6A7'/><g opacity='0.2'><path d='M50 50 L150 150 L250 50 L350 150 L450 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M630 50 L730 150 L830 50 L930 150 L1030 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 650 L150 750 L250 650 L350 750 L450 650' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M630 650 L730 750 L830 650 L930 750 L1030 650' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><circle cx='150' cy='150' r='30' fill='#FFFFFF' opacity='0.3'/><circle cx='900' cy='200' r='40' fill='#FFFFFF' opacity='0.3'/><circle cx='200' cy='800' r='35' fill='#FFFFFF' opacity='0.3'/><circle cx='850' cy='750' r='45' fill='#FFFFFF' opacity='0.3'/><g fill='#FFFFFF' opacity='0.2'><circle cx='50' cy='250' r='8'/><circle cx='80' cy='250' r='8'/><circle cx='110' cy='250' r='8'/><circle cx='950' cy='100' r='8'/><circle cx='980' cy='100' r='8'/><circle cx='1010' cy='100' r='8'/><circle cx='50' cy='850' r='8'/><circle cx='80' cy='850' r='8'/><circle cx='110' cy='850' r='8'/><circle cx='950' cy='950' r='8'/><circle cx='980' cy='950' r='8'/><circle cx='1010' cy='950' r='8'/></g><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='2'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 431.66, "height": 124.3, "fill": "#FFFFFF", "text": "BARBIE", "fontSize": 110, "fontFamily": "AHOY-Regular", "textAlign": "left", "id": "brand"}, {"type": "text", "top": 120, "left": 570, "width": 494.33, "height": 89.27, "fill": "#FFFFFF", "text": "PET PARADISE", "fontSize": 79, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 240, "left": 570, "width": 498.27, "height": 84.75, "fill": "#FFFFFF", "text": "KITTY PLAYSET", "fontSize": 75, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 50, "width": 327.87, "height": 211.54, "fill": "#FFFFFF", "text": "\u2022 Spinning Palm Tree\n\u2022 Adjustable Leaf Bed\n\u2022 Relaxing Hammock\n\u2022 Includes 2 Pet Kitties", "fontSize": 36, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 273.9, "height": 113, "fill": "#FFFFFF", "text": "$9.97", "fontSize": 100, "fontFamily": "Bagel Fat One-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 960, "left": 50, "width": 200, "height": 60, "fill": "#FF4081", "rx": 10, "ry": 10, "id": "cta_background"}, {"type": "text", "top": 975, "left": 75, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 570, "left": 580, "width": 1380, "height": 1343, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9a832275-2de0-429f-8678-aaaf193ae6e8_nobg_1380x1343.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Welcome to your Barbie World. Build your best Barbie life! Pounce into pet paradise with this kitty tower playset. Designed with a spinning palm tree, adjustable leaf bed, and relaxing hammock  there are so many pawesome ways for the two pet kitties to play. Also included is a bag of cat food, bowls, and toys. Doll sold separately. Colors and decorations may vary.", "price": "9.97"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9a832275-2de0-429f-8678-aaaf193ae6e8_nobg_1380x1343.png", "marketplace_url": "https://www.walmart.com/ip/Barbie-World-Pet-Paradise-Kitty-Playset-with-9-Pieces-Including-2-Cats-Food-Accessories-Toys/6294503762", "layout": "grid_four"}, "banner_details": "\nThis vibrant banner is divided into four quadrants, each with a distinct background color, forming a playful and eye-catching layout ideal for children's products. The upper-left quadrant (pink) features the brand name with the `brand` text layer. The top-right quadrant (cyan) displays the `heading` and `subheading` text layers, highlighting the product name in bold fonts. The bottom-left (purple) lists product features in the `description` text layer and showcases the `price` prominently. It also includes a call-to-action button composed of `cta_background` and `cta` text layers. The bottom-right quadrant (light green) presents the toy as a central focus using the `product_image` layer.\n\n**Color Palette:**\n- Pink: `#FF80AB`\n- Cyan: `#4DD0E1`\n- Purple: `#9575CD`\n- Light Green: `#A5D6A7`\n- White (text/icons): `#FFFFFF`\n- Fuchsia (CTA button): `#FF4081`\n", "product_color": "  \nThe product image features a playful and vibrant color palette ideal for children\u2019s advertising. Dominant colors include bright pink (#F652A0) seen on the cat house, vibrant green (#2CBF83) on the palm leaves, and soft beige (#F6CFA4) as the base. These are harmoniously contrasted with accent colors like light purple (#CFA7E2), ocean blue (#4EB1D3), and cherry red (#E94466). The colors are used in a whimsical balance\u2014greens and browns for nature-like grounding, while pinks, purples, and blues add a cheerful pop. Strategic placement of bright elements (like the red fish and pink house) highlights key features while maintaining visual unity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#FF80AB'/><rect x='540' y='0' width='540' height='540' fill='#4DD0E1'/><rect x='0' y='540' width='540' height='540' fill='#9575CD'/><rect x='540' y='540' width='540' height='540' fill='#A5D6A7'/><g opacity='0.2'><path d='M50 50 L150 150 L250 50 L350 150 L450 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M630 50 L730 150 L830 50 L930 150 L1030 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 650 L150 750 L250 650 L350 750 L450 650' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M630 650 L730 750 L830 650 L930 750 L1030 650' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><circle cx='150' cy='150' r='30' fill='#FFFFFF' opacity='0.3'/><circle cx='900' cy='200' r='40' fill='#FFFFFF' opacity='0.3'/><circle cx='200' cy='800' r='35' fill='#FFFFFF' opacity='0.3'/><circle cx='850' cy='750' r='45' fill='#FFFFFF' opacity='0.3'/><g fill='#FFFFFF' opacity='0.2'><circle cx='50' cy='250' r='8'/><circle cx='80' cy='250' r='8'/><circle cx='110' cy='250' r='8'/><circle cx='950' cy='100' r='8'/><circle cx='980' cy='100' r='8'/><circle cx='1010' cy='100' r='8'/><circle cx='50' cy='850' r='8'/><circle cx='80' cy='850' r='8'/><circle cx='110' cy='850' r='8'/><circle cx='950' cy='950' r='8'/><circle cx='980' cy='950' r='8'/><circle cx='1010' cy='950' r='8'/></g><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 431.66,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "BARBIE",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "left",
+                "id": "brand"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 570,
+                "width": 494.33,
+                "height": 89.27,
+                "fill": "#FFFFFF",
+                "text": "PET PARADISE",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 570,
+                "width": 498.27,
+                "height": 84.75,
+                "fill": "#FFFFFF",
+                "text": "KITTY PLAYSET",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 327.87,
+                "height": 211.54,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Spinning Palm Tree\n\u2022 Adjustable Leaf Bed\n\u2022 Relaxing Hammock\n\u2022 Includes 2 Pet Kitties",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 273.9,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$9.97",
+                "fontFamily": "Bagel Fat One-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF4081",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 975,
+                "left": 75,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 570,
+                "left": 580,
+                "width": 469.20000000000005,
+                "height": 456.62,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9a832275-2de0-429f-8678-aaaf193ae6e8_nobg_1380x1343.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Welcome to your Barbie World. Build your best Barbie life! Pounce into pet paradise with this kitty tower playset. Designed with a spinning palm tree, adjustable leaf bed, and relaxing hammock  there are so many pawesome ways for the two pet kitties to play. Also included is a bag of cat food, bowls, and toys. Doll sold separately. Colors and decorations may vary.",
+            "price": "9.97"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9a832275-2de0-429f-8678-aaaf193ae6e8_nobg_1380x1343.png",
+        "marketplace_url": "https://www.walmart.com/ip/Barbie-World-Pet-Paradise-Kitty-Playset-with-9-Pieces-Including-2-Cats-Food-Accessories-Toys/6294503762",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis vibrant banner is divided into four quadrants, each with a distinct background color, forming a playful and eye-catching layout ideal for children's products. The upper-left quadrant (pink) features the brand name with the `brand` text layer. The top-right quadrant (cyan) displays the `heading` and `subheading` text layers, highlighting the product name in bold fonts. The bottom-left (purple) lists product features in the `description` text layer and showcases the `price` prominently. It also includes a call-to-action button composed of `cta_background` and `cta` text layers. The bottom-right quadrant (light green) presents the toy as a central focus using the `product_image` layer.\n\n**Color Palette:**\n- Pink: `#FF80AB`\n- Cyan: `#4DD0E1`\n- Purple: `#9575CD`\n- Light Green: `#A5D6A7`\n- White (text/icons): `#FFFFFF`\n- Fuchsia (CTA button): `#FF4081`\n",
+    "product_color": "  \nThe product image features a playful and vibrant color palette ideal for children\u2019s advertising. Dominant colors include bright pink (#F652A0) seen on the cat house, vibrant green (#2CBF83) on the palm leaves, and soft beige (#F6CFA4) as the base. These are harmoniously contrasted with accent colors like light purple (#CFA7E2), ocean blue (#4EB1D3), and cherry red (#E94466). The colors are used in a whimsical balance\u2014greens and browns for nature-like grounding, while pinks, purples, and blues add a cheerful pop. Strategic placement of bright elements (like the red fish and pink house) highlights key features while maintaining visual unity.  \n"
+}

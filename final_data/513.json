@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='80%'><stop offset='0%' stop-color='#FFE6EA'/><stop offset='100%' stop-color='#FFBEC9'/></radialGradient><filter id='softShadow' x='-10%' y='-10%' width='120%' height='120%'><feGaussianBlur in='SourceAlpha' stdDeviation='15'/><feOffset dx='0' dy='4' result='offsetblur'/><feComponentTransfer><feFuncA type='linear' slope='0.2'/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1' filter='softShadow'><path d='M0 200 C 300 150, 500 250, 1080 150 L 1080 0 L 0 0 Z' fill='#FFB2C0'/><path d='M0 880 C 300 930, 500 830, 1080 930 L 1080 1080 L 0 1080 Z' fill='#FFB2C0'/></g><g opacity='0.15'><circle cx='100' cy='100' r='30' fill='#FFB2C0'/><circle cx='950' cy='200' r='40' fill='#FFB2C0'/><circle cx='150' cy='850' r='50' fill='#FFB2C0'/><circle cx='900' cy='900' r='35' fill='#FFB2C0'/></g><g opacity='0.08'><rect x='30' y='30' width='1020' height='1020' rx='8' stroke='#E06C8C' stroke-width='3' stroke-dasharray='15 10' fill='none'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 261.5, "width": 557, "height": 67.8, "fill": "#8C3565", "text": "CANVAS TOTE BAG", "fontSize": 60, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 140, "left": 280.745, "width": 518.51, "height": 33.9, "fill": "#A14672", "text": "Stylish & Practical for Everyday Use", "fontSize": 30, "fontFamily": "Poppins-Light Italic", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 191.14999999999998, "left": 319.78999999999996, "width": 1159, "height": 1415, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ea3c29f8-21b7-4d63-a8a8-1ec23445b367_nobg_1159x1415.png", "id": "product_image"}, {"type": "text", "top": 735, "left": 182.67000000000002, "width": 714.66, "height": 22.6, "fill": "#703751", "text": "Multiple Pockets \u2022 Structured Design \u2022 Adjustable Strap \u2022 Magnetic Closure", "fontSize": 20, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "description_1"}, {"type": "text", "top": 800, "left": 150.365, "width": 779.27, "height": 20.34, "fill": "#703751", "text": "Durable Thickened Canvas \u2022 Large Capacity \u2022 Stands Upright \u2022 Perfect for Work & Travel", "fontSize": 18, "fontFamily": "Poppins-Light Italic", "textAlign": "center", "id": "description_2"}, {"type": "text", "top": 880, "left": 437.08, "width": 205.84, "height": 90.4, "fill": "#8C3565", "text": "$19.99", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 440.0, "width": 200, "height": 60, "fill": "#D13F7A", "rx": 30, "ry": 30, "id": "cta_button"}, {"type": "text", "top": 998, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "\ud83d\udc97\u3010Original Designed Brand\u3011Original designed brand,exquisite production technology,thickened canvas material,large capacity multi-pocket practical.Strong structure can hold over 40 pounds,can stand by itself own.Reject cheap and low-quality malicious imitation. \ud83d\udc97\u3010Mutil Pockets\u3011The canvas tote bag with 2 front pockets can put cellphone,Watter bottle,keys,and wallet convenient access at any time,1 big pockets behind the bag can put ipad to pass the time when bored. \ud83d\udc97\u3010Structured Bag\u3011The purse can upright on by itself own,easy to place on the desktop or floor at any time and keep the contents of the bag from spilling.Use thick quality canvas, strong and rugged. \ud83d\udc97\u3010Large Capacity\u3011Square design,high space utilization,suitable for books and documents,in addition to everyday use,it is also suitable for work and college.can used as laptop computer teacher work nurse travel beach gym gift book bag. \ud83d\udc97\u3010Removable and Adjustable Shoulder Strap\u3011The crossbody messenger bag with removable and adjustable shoulder strap,handbag tote bag also crossbody bag. \ud83d\udc97\u3010Magnetic Closure\u3011The women purses and handbags designed with magnetic closure,easy to take things from inside the bag and put things,but also can help to protect privacy and prevent theft. Fabric type - Canvas ** Care instructions - Machine Wash ** Origin - Imported ** Country of Origin - China **", "price": "19.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ea3c29f8-21b7-4d63-a8a8-1ec23445b367_nobg_1159x1415.png", "marketplace_url": "https://www.amazon.com/dp/B0CP7ZYPQ8", "layout": "centered_hero"}, "banner_details": "\nThis banner design features a soft, feminine aesthetic, ideal for promoting fashion or lifestyle products. The background employs a radial gradient with soft pink hues and subtle abstract accents like dashed borders, soft circles, and wave overlays for added visual interest. A centrally placed product image (id: `product_image`) of a pink canvas tote bag is the visual centerpiece.\n\nThe headline (id: `heading`) uses a serif font in bold plum, delivering strong brand messaging, while the subheading (id: `subheading`) complements it with a stylish italic font in a slightly lighter shade. Key product features (id: `description_1`) and supplementary benefits (id: `description_2`) are listed beneath, both in clean, readable fonts.\n\nAt the bottom, a bold price (id: `price`) grabs attention, followed by a strong call-to-action button (id: `cta_button`) with rounded edges and contrasting white text (id: `cta`).\n\n**Color Palette:**\n- Light Pink: `#FFE6EA`\n- Medium Pink: `#FFBEC9`\n- Accent Pink: `#FFB2C0`\n- Deep Plum: `#8C3565`\n- Call-to-Action Pink: `#D13F7A`\n- Text Accent: `#703751`\n- White: `#FFFFFF`\n\n", "product_color": "  \nThe product image showcases a pastel pink canvas tote bag, characterized by a soft, warm appearance. The dominant color is a muted baby pink (#F4C6D3), which gives the product a gentle, feminine, and modern appeal. The pink shade is uniformly applied, creating visual harmony while subtly varying in texture due to light and fabric folds. Stitching and pockets introduce shadows in slightly darker pinks (#E9AAB8), offering depth and emphasis. Accents like the metal clasp add contrast in metallic silver (#A9A9A9). For an advertisement banner, combining soft pastel pinks, light greys, and white (#FFFFFF) will evoke a clean and appealing aesthetic.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='80%'><stop offset='0%' stop-color='#FFE6EA'/><stop offset='100%' stop-color='#FFBEC9'/></radialGradient><filter id='softShadow' x='-10%' y='-10%' width='120%' height='120%'><feGaussianBlur in='SourceAlpha' stdDeviation='15'/><feOffset dx='0' dy='4' result='offsetblur'/><feComponentTransfer><feFuncA type='linear' slope='0.2'/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1' filter='softShadow'><path d='M0 200 C 300 150, 500 250, 1080 150 L 1080 0 L 0 0 Z' fill='#FFB2C0'/><path d='M0 880 C 300 930, 500 830, 1080 930 L 1080 1080 L 0 1080 Z' fill='#FFB2C0'/></g><g opacity='0.15'><circle cx='100' cy='100' r='30' fill='#FFB2C0'/><circle cx='950' cy='200' r='40' fill='#FFB2C0'/><circle cx='150' cy='850' r='50' fill='#FFB2C0'/><circle cx='900' cy='900' r='35' fill='#FFB2C0'/></g><g opacity='0.08'><rect x='30' y='30' width='1020' height='1020' rx='8' stroke='#E06C8C' stroke-width='3' stroke-dasharray='15 10' fill='none'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 261.5,
+                "width": 557,
+                "height": 67.8,
+                "fill": "#8C3565",
+                "text": "CANVAS TOTE BAG",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 280.745,
+                "width": 518.51,
+                "height": 33.9,
+                "fill": "#A14672",
+                "text": "Stylish & Practical for Everyday Use",
+                "fontFamily": "Poppins-Light Italic",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 191.14999999999998,
+                "left": 319.78999999999996,
+                "width": 440.42,
+                "height": 537.7,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ea3c29f8-21b7-4d63-a8a8-1ec23445b367_nobg_1159x1415.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 735,
+                "left": 182.67000000000002,
+                "width": 714.66,
+                "height": 22.6,
+                "fill": "#703751",
+                "text": "Multiple Pockets \u2022 Structured Design \u2022 Adjustable Strap \u2022 Magnetic Closure",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "description_1"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 150.365,
+                "width": 779.27,
+                "height": 20.34,
+                "fill": "#703751",
+                "text": "Durable Thickened Canvas \u2022 Large Capacity \u2022 Stands Upright \u2022 Perfect for Work & Travel",
+                "fontFamily": "Poppins-Light Italic",
+                "textAlign": "center",
+                "id": "description_2"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 437.08,
+                "width": 205.84,
+                "height": 90.4,
+                "fill": "#8C3565",
+                "text": "$19.99",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#D13F7A",
+                "rx": 30,
+                "ry": 30,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 998,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "\ud83d\udc97\u3010Original Designed Brand\u3011Original designed brand,exquisite production technology,thickened canvas material,large capacity multi-pocket practical.Strong structure can hold over 40 pounds,can stand by itself own.Reject cheap and low-quality malicious imitation. \ud83d\udc97\u3010Mutil Pockets\u3011The canvas tote bag with 2 front pockets can put cellphone,Watter bottle,keys,and wallet convenient access at any time,1 big pockets behind the bag can put ipad to pass the time when bored. \ud83d\udc97\u3010Structured Bag\u3011The purse can upright on by itself own,easy to place on the desktop or floor at any time and keep the contents of the bag from spilling.Use thick quality canvas, strong and rugged. \ud83d\udc97\u3010Large Capacity\u3011Square design,high space utilization,suitable for books and documents,in addition to everyday use,it is also suitable for work and college.can used as laptop computer teacher work nurse travel beach gym gift book bag. \ud83d\udc97\u3010Removable and Adjustable Shoulder Strap\u3011The crossbody messenger bag with removable and adjustable shoulder strap,handbag tote bag also crossbody bag. \ud83d\udc97\u3010Magnetic Closure\u3011The women purses and handbags designed with magnetic closure,easy to take things from inside the bag and put things,but also can help to protect privacy and prevent theft. Fabric type - Canvas ** Care instructions - Machine Wash ** Origin - Imported ** Country of Origin - China **",
+            "price": "19.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ea3c29f8-21b7-4d63-a8a8-1ec23445b367_nobg_1159x1415.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CP7ZYPQ8",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner design features a soft, feminine aesthetic, ideal for promoting fashion or lifestyle products. The background employs a radial gradient with soft pink hues and subtle abstract accents like dashed borders, soft circles, and wave overlays for added visual interest. A centrally placed product image (id: `product_image`) of a pink canvas tote bag is the visual centerpiece.\n\nThe headline (id: `heading`) uses a serif font in bold plum, delivering strong brand messaging, while the subheading (id: `subheading`) complements it with a stylish italic font in a slightly lighter shade. Key product features (id: `description_1`) and supplementary benefits (id: `description_2`) are listed beneath, both in clean, readable fonts.\n\nAt the bottom, a bold price (id: `price`) grabs attention, followed by a strong call-to-action button (id: `cta_button`) with rounded edges and contrasting white text (id: `cta`).\n\n**Color Palette:**\n- Light Pink: `#FFE6EA`\n- Medium Pink: `#FFBEC9`\n- Accent Pink: `#FFB2C0`\n- Deep Plum: `#8C3565`\n- Call-to-Action Pink: `#D13F7A`\n- Text Accent: `#703751`\n- White: `#FFFFFF`\n\n",
+    "product_color": "  \nThe product image showcases a pastel pink canvas tote bag, characterized by a soft, warm appearance. The dominant color is a muted baby pink (#F4C6D3), which gives the product a gentle, feminine, and modern appeal. The pink shade is uniformly applied, creating visual harmony while subtly varying in texture due to light and fabric folds. Stitching and pockets introduce shadows in slightly darker pinks (#E9AAB8), offering depth and emphasis. Accents like the metal clasp add contrast in metallic silver (#A9A9A9). For an advertisement banner, combining soft pastel pinks, light greys, and white (#FFFFFF) will evoke a clean and appealing aesthetic.  \n"
+}

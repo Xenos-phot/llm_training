@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#9C8AC1'/><rect x='540' y='0' width='540' height='540' fill='#A495C9'/><rect x='0' y='540' width='540' height='540' fill='#C9A4D4'/><rect x='540' y='540' width='540' height='540' fill='#B9A6D8'/><g opacity='0.3'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='1'/></g><circle cx='270' cy='270' r='200' fill='#8A73AF' opacity='0.4'/><circle cx='810' cy='810' r='200' fill='#D4C1F0' opacity='0.4'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><path d='M50,50 C100,30 150,70 200,40 S250,80 300,60' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.6'/><path d='M750,950 C800,930 850,970 900,940 S950,980 1000,960' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.6'/><rect x='0' y='535' width='1080' height='10' fill='#FFFFFF' opacity='0.3'/><rect x='535' y='0' width='10' height='1080' fill='#FFFFFF' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 253.48, "height": 90.4, "fill": "#FFFFFF", "text": "GABBA", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 160, "left": 60, "width": 270.32, "height": 90.4, "fill": "#FFFFFF", "text": "GOODS", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 260, "left": 64, "width": 361.71, "height": 22.6, "fill": "#FFFFFF", "text": "WIRELESS HEADPHONES", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 60, "width": 367.7, "height": 144.64, "fill": "#4A245E", "text": "\u2022 BLUETOOTH CONNECTIVITY\n\u2022 NOISE REDUCTION\n\u2022 BUILT-IN MICROPHONE\n\u2022 COMFORTABLE DESIGN", "fontSize": 32, "fontFamily": "Jaldi Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 60, "width": 279.23, "height": 101.7, "fill": "#4A245E", "text": "$27.99", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 60, "width": 220, "height": 70, "fill": "#4A245E", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 958, "left": 95, "width": 153.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 50, "left": 530, "width": 1128, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/d30jsoTkshB3-m-hUXeBC_1128x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Gabba Goods Wireless Over Ear Bluetooth Headphones with Microphone - Wireless Headset -Noise Reduction - Bluetooth, Wired,Built in Micro SD for Travel, Home, Work TV,PC,Gaming,Cellphone (Lavender)", "description": "Noise Control: Sound Isolation. Headphones Jack: 3.5 mm Jack. Model Name: Platinum Vibe. Connectivity Technology: Wireless. Wireless Communication Technology: Bluetooth. Compatible Devices: Laptops, Desktops, Tablets, Telephones, Smartphones, MP3/4 Players, Computers, MacBook, Bluetooth Devices. Number of Items: 1. Audio Driver Type: Dynamic Driver. Earpiece Shape: over_ear. Package Dimensions: 9.13 x 7.13 x 3.9 inches. Item Weight: 12 ounces. Country of Origin: China.", "price": "$27.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/d30jsoTkshB3-m-hUXeBC_1128x1439.png", "marketplace_url": "https://www.amazon.com/Gabba-Goods-Bluetooth-Headphones-Microphone/dp/B0DX2N1VMN/?_encoding=UTF8&pd_rd_w=t8dFj&content-id=amzn1.sym.730a4fb4-1f7f-4520-9e50-8136d347aedd%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=730a4fb4-1f7f-4520-9e50-8136d347aedd&pf_rd_r=EZBH9HJEEYJYBPFEFSEQ&pd_rd_wg=O4nJp&pd_rd_r=43e5800e-2a31-4e6d-bfa0-7c1d50c99c4d&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d&th=1", "layout": "split_vertical"}, "banner_details": "\nThis banner features a modern tech product layout, ideal for promoting headphones. It adopts a clean and symmetrical grid design divided into four main pastel-toned quadrants in purple hues, overlaid with subtle diagonal white lines and gradient circles for depth. The left side highlights the brand name (`heading_1` and `heading_2`) and product category (`subheading`) in bold white typography. Below that, a list of key features (`description`) is aligned left in dark purple text. The right focal point is a hyperrealistic product image (`product_image`). At the bottom left, the price (`price`) is prominently displayed above a call-to-action button (`cta_button` and `cta`).\n\n**Color Palette**:\n- Lavender (#A495C9)\n- Light Purple (#B9A6D8)\n- Deep Purple (#4A245E)\n- Soft Lilac (#C9A4D4)\n- White (#FFFFFF)\n", "product_color": "\nThe product image features a modern pair of over-ear headphones dominated by soft, stylish lavender and purple hues. The primary color is a glossy pastel lavender (#C7A7D3), which covers the ear cups and headband, giving it a premium, sleek feel. The ear pads use a slightly deeper purplish tone (#9B78AC), adding a balanced contrast while blending seamlessly into the main body. Accents such as the buttons and trim areas incorporate a soft lilac shade (#DCC5E9), enhancing visual interest. This cohesive yet contrasting palette makes the headphones visually appealing. A complementary ad banner can use these three main colors with white (#FFFFFF) for text.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#9C8AC1'/><rect x='540' y='0' width='540' height='540' fill='#A495C9'/><rect x='0' y='540' width='540' height='540' fill='#C9A4D4'/><rect x='540' y='540' width='540' height='540' fill='#B9A6D8'/><g opacity='0.3'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='1'/></g><circle cx='270' cy='270' r='200' fill='#8A73AF' opacity='0.4'/><circle cx='810' cy='810' r='200' fill='#D4C1F0' opacity='0.4'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><path d='M50,50 C100,30 150,70 200,40 S250,80 300,60' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.6'/><path d='M750,950 C800,930 850,970 900,940 S950,980 1000,960' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.6'/><rect x='0' y='535' width='1080' height='10' fill='#FFFFFF' opacity='0.3'/><rect x='535' y='0' width='10' height='1080' fill='#FFFFFF' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 253.48,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "GABBA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 60,
+                "width": 270.32,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "GOODS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 260,
+                "left": 64,
+                "width": 361.71,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "WIRELESS HEADPHONES",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 367.7,
+                "height": 144.64,
+                "fill": "#4A245E",
+                "text": "\u2022 BLUETOOTH CONNECTIVITY\n\u2022 NOISE REDUCTION\n\u2022 BUILT-IN MICROPHONE\n\u2022 COMFORTABLE DESIGN",
+                "fontFamily": "Jaldi Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 60,
+                "width": 279.23,
+                "height": 101.7,
+                "fill": "#4A245E",
+                "text": "$27.99",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#4A245E",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 958,
+                "left": 95,
+                "width": 153.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 50,
+                "left": 530,
+                "width": 541.4399999999999,
+                "height": 690.72,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/d30jsoTkshB3-m-hUXeBC_1128x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Gabba Goods Wireless Over Ear Bluetooth Headphones with Microphone - Wireless Headset -Noise Reduction - Bluetooth, Wired,Built in Micro SD for Travel, Home, Work TV,PC,Gaming,Cellphone (Lavender)",
+            "description": "Noise Control: Sound Isolation. Headphones Jack: 3.5 mm Jack. Model Name: Platinum Vibe. Connectivity Technology: Wireless. Wireless Communication Technology: Bluetooth. Compatible Devices: Laptops, Desktops, Tablets, Telephones, Smartphones, MP3/4 Players, Computers, MacBook, Bluetooth Devices. Number of Items: 1. Audio Driver Type: Dynamic Driver. Earpiece Shape: over_ear. Package Dimensions: 9.13 x 7.13 x 3.9 inches. Item Weight: 12 ounces. Country of Origin: China.",
+            "price": "$27.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/d30jsoTkshB3-m-hUXeBC_1128x1439.png",
+        "marketplace_url": "https://www.amazon.com/Gabba-Goods-Bluetooth-Headphones-Microphone/dp/B0DX2N1VMN/?_encoding=UTF8&pd_rd_w=t8dFj&content-id=amzn1.sym.730a4fb4-1f7f-4520-9e50-8136d347aedd%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=730a4fb4-1f7f-4520-9e50-8136d347aedd&pf_rd_r=EZBH9HJEEYJYBPFEFSEQ&pd_rd_wg=O4nJp&pd_rd_r=43e5800e-2a31-4e6d-bfa0-7c1d50c99c4d&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d&th=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a modern tech product layout, ideal for promoting headphones. It adopts a clean and symmetrical grid design divided into four main pastel-toned quadrants in purple hues, overlaid with subtle diagonal white lines and gradient circles for depth. The left side highlights the brand name (`heading_1` and `heading_2`) and product category (`subheading`) in bold white typography. Below that, a list of key features (`description`) is aligned left in dark purple text. The right focal point is a hyperrealistic product image (`product_image`). At the bottom left, the price (`price`) is prominently displayed above a call-to-action button (`cta_button` and `cta`).\n\n**Color Palette**:\n- Lavender (#A495C9)\n- Light Purple (#B9A6D8)\n- Deep Purple (#4A245E)\n- Soft Lilac (#C9A4D4)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image features a modern pair of over-ear headphones dominated by soft, stylish lavender and purple hues. The primary color is a glossy pastel lavender (#C7A7D3), which covers the ear cups and headband, giving it a premium, sleek feel. The ear pads use a slightly deeper purplish tone (#9B78AC), adding a balanced contrast while blending seamlessly into the main body. Accents such as the buttons and trim areas incorporate a soft lilac shade (#DCC5E9), enhancing visual interest. This cohesive yet contrasting palette makes the headphones visually appealing. A complementary ad banner can use these three main colors with white (#FFFFFF) for text.\n"
+}

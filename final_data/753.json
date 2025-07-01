@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFDAD5'/><stop offset='100%' stop-color='#FFF0EE'/></linearGradient><radialGradient id='accentGradient' cx='50%' cy='50%' r='70%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FF7F7F'/><stop offset='100%' stop-color='#FF7F7F' stop-opacity='0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='400' fill='url(#accentGradient)' opacity='0.2'/><g opacity='0.05'><circle cx='200' cy='200' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='200' cy='200' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='200' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='200' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='200' cy='880' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='200' cy='880' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='880' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='880' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/></g><circle cx='540' cy='300' r='180' fill='#FF5E5E' opacity='0.1'/><g opacity='0.8'><rect x='0' y='800' width='1080' height='280' fill='url(#bgGradient)'/><path d='M0 800 C 180 760, 360 780, 540 800 S 720 820, 900 800 S 1080 780, 1080 800 L 1080 1080 L 0 1080 Z' fill='#FF9191' opacity='0.3'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 274.7, "width": 530.6, "height": 113, "fill": "#333333", "text": "AIRPODS MAX", "fontSize": 100, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 183, "left": 324.05, "width": 431.9, "height": 33.9, "fill": "#555555", "text": "Premium Wireless Headphones", "fontSize": 30, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 248.175, "left": 312.5, "width": 1300, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fc01578bf5180404924e8d/6CBGkF7sDC-MV8EYnaCyP_1300x1439.png", "id": "product_image"}, {"type": "text", "top": 760, "left": 235.64499999999998, "width": 608.71, "height": 25.99, "fill": "#555555", "text": "Active Noise Cancelling, Spatial Audio, 20-Hour Battery Life", "fontSize": 23, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 835, "left": 374.6, "width": 330.8, "height": 90.4, "fill": "#333333", "text": "$535.90", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 945, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#FF5E5E", "rx": 0, "ry": 0, "id": "cta_button_background"}, {"type": "text", "top": 962, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple AirPods Max Wireless Over-Ear Headphones, Active Noise Cancelling, Transparency Mode, Personalized Spatial Audio, Dolby Atmos, Bluetooth Headphones for iPhone \u2013 Pink", "description": "Headphones Jack: Lightning. Model Name: AirPods Max. Connectivity Technology: Wireless, Wired. Wireless Communication Technology: Bluetooth, NFC. Age Range (Description): Adult. Material: memory foam. Specific Uses For Product: Music. Recommended Uses For Product: Calling, Recording, Exercising, Gaming, Disc Jockey Use. Compatible Devices: Cellphones, Tablets, Telephones, Music Production Equipment, Laptops, Desktops. Theme: TV Series. Control Type: Call Control, Media Control, Volume Control, Voice Control, Noise Control. Cable Feature: Detachable. Item Weight: 13.6 ounces. Water Resistance Level: Not Water Resistant. Unit Count: 1.0 Count. Style: Lightning. Control Method: Touch. Number of Items: 1. Battery Life: 20 Hour. Product Dimensions: 9.43 x 9.57 x 3.15 inches. Language: English, English, English, English, English. Batteries: 2 Lithium Ion batteries required. (included).", "price": "$535.9"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fc01578bf5180404924e8d/6CBGkF7sDC-MV8EYnaCyP_1300x1439.png", "marketplace_url": "https://www.amazon.com/New-Apple-AirPods-Max-Pink/dp/B08PZJ8FZ8/ref=pd_ci_mcx_mh_mcx_views_2_image?pd_rd_w=dhnhP&content-id=amzn1.sym.bb21fc54-1dd8-448e-92bb-2ddce187f4ac%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=bb21fc54-1dd8-448e-92bb-2ddce187f4ac&pf_rd_r=JPVAYED8XDT2EYC5VPJN&pd_rd_wg=n7bmt&pd_rd_r=cd98edf5-9e58-4a55-94fd-5a338f24afcd&pd_rd_i=B08PZJ8FZ8", "layout": "centered_hero"}, "banner_details": "\nThis promotional banner features a premium product layout, ideal for advertising high-end audio accessories. The centerpiece is a product image placed prominently in the middle, drawing immediate attention. Above the product image, the bold heading (`heading`) clearly announces the product name, while the subheading (`subheading`) adds a refined, serif touch to reflect sophistication. Just below the image, a smaller description text (`description`) highlights key features with a clean, modern font. The price (`price`) is bold and centrally aligned to emphasize value, while the call-to-action button (`cta` with `cta_button_background`) stands out in red at the bottom, prompting user interaction. The background blends soft gradients and radial elements, enhancing visual appeal without cluttering the composition. \n\n**Color Palette:**\n- Soft Peach Gradient: `#FFDAD5 \u2192 #FFF0EE`\n- Accent Red: `#FF5E5E`, `#FF9191`\n- Text Primary: `#333333`\n- Text Secondary: `#555555`\n- Button Text: `#FFFFFF`\n", "product_color": "  \nThe product image showcases a sleek pair of over-ear headphones designed with a modern and vibrant color palette that merges elegance with energy. The primary colors include a rich Coral Red (#F04E45) on the headband, which adds boldness, and a soft Rose Gold (#D6A5A5) on the ear cups, offering a luxurious metallic sheen. The ear cushions blend a gradient mesh of Coral Pink (#F17C74) and Light Pink (#FFD6D1), providing texture and depth. These shades seamlessly transition into each other, enhancing the product's aesthetic appeal. Chrome accents (#C0C0C0) at hinge points add contrast and sophistication. This palette is ideal for vibrant, eye-catching advertisement banners.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFDAD5'/><stop offset='100%' stop-color='#FFF0EE'/></linearGradient><radialGradient id='accentGradient' cx='50%' cy='50%' r='70%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FF7F7F'/><stop offset='100%' stop-color='#FF7F7F' stop-opacity='0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='400' fill='url(#accentGradient)' opacity='0.2'/><g opacity='0.05'><circle cx='200' cy='200' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='200' cy='200' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='200' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='200' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='200' cy='880' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='200' cy='880' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='880' r='100' stroke='#E03C3C' stroke-width='2' fill='none'/><circle cx='880' cy='880' r='50' stroke='#E03C3C' stroke-width='2' fill='none'/></g><circle cx='540' cy='300' r='180' fill='#FF5E5E' opacity='0.1'/><g opacity='0.8'><rect x='0' y='800' width='1080' height='280' fill='url(#bgGradient)'/><path d='M0 800 C 180 760, 360 780, 540 800 S 720 820, 900 800 S 1080 780, 1080 800 L 1080 1080 L 0 1080 Z' fill='#FF9191' opacity='0.3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 274.7,
+                "width": 530.6,
+                "height": 113,
+                "fill": "#333333",
+                "text": "AIRPODS MAX",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 183,
+                "left": 324.05,
+                "width": 431.9,
+                "height": 33.9,
+                "fill": "#555555",
+                "text": "Premium Wireless Headphones",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 248.175,
+                "left": 312.5,
+                "width": 454.99999999999994,
+                "height": 503.65,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fc01578bf5180404924e8d/6CBGkF7sDC-MV8EYnaCyP_1300x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 235.64499999999998,
+                "width": 608.71,
+                "height": 25.99,
+                "fill": "#555555",
+                "text": "Active Noise Cancelling, Spatial Audio, 20-Hour Battery Life",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 835,
+                "left": 374.6,
+                "width": 330.8,
+                "height": 90.4,
+                "fill": "#333333",
+                "text": "$535.90",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 945,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#FF5E5E",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 962,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple AirPods Max Wireless Over-Ear Headphones, Active Noise Cancelling, Transparency Mode, Personalized Spatial Audio, Dolby Atmos, Bluetooth Headphones for iPhone \u2013 Pink",
+            "description": "Headphones Jack: Lightning. Model Name: AirPods Max. Connectivity Technology: Wireless, Wired. Wireless Communication Technology: Bluetooth, NFC. Age Range (Description): Adult. Material: memory foam. Specific Uses For Product: Music. Recommended Uses For Product: Calling, Recording, Exercising, Gaming, Disc Jockey Use. Compatible Devices: Cellphones, Tablets, Telephones, Music Production Equipment, Laptops, Desktops. Theme: TV Series. Control Type: Call Control, Media Control, Volume Control, Voice Control, Noise Control. Cable Feature: Detachable. Item Weight: 13.6 ounces. Water Resistance Level: Not Water Resistant. Unit Count: 1.0 Count. Style: Lightning. Control Method: Touch. Number of Items: 1. Battery Life: 20 Hour. Product Dimensions: 9.43 x 9.57 x 3.15 inches. Language: English, English, English, English, English. Batteries: 2 Lithium Ion batteries required. (included).",
+            "price": "$535.9"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fc01578bf5180404924e8d/6CBGkF7sDC-MV8EYnaCyP_1300x1439.png",
+        "marketplace_url": "https://www.amazon.com/New-Apple-AirPods-Max-Pink/dp/B08PZJ8FZ8/ref=pd_ci_mcx_mh_mcx_views_2_image?pd_rd_w=dhnhP&content-id=amzn1.sym.bb21fc54-1dd8-448e-92bb-2ddce187f4ac%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=bb21fc54-1dd8-448e-92bb-2ddce187f4ac&pf_rd_r=JPVAYED8XDT2EYC5VPJN&pd_rd_wg=n7bmt&pd_rd_r=cd98edf5-9e58-4a55-94fd-5a338f24afcd&pd_rd_i=B08PZJ8FZ8",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis promotional banner features a premium product layout, ideal for advertising high-end audio accessories. The centerpiece is a product image placed prominently in the middle, drawing immediate attention. Above the product image, the bold heading (`heading`) clearly announces the product name, while the subheading (`subheading`) adds a refined, serif touch to reflect sophistication. Just below the image, a smaller description text (`description`) highlights key features with a clean, modern font. The price (`price`) is bold and centrally aligned to emphasize value, while the call-to-action button (`cta` with `cta_button_background`) stands out in red at the bottom, prompting user interaction. The background blends soft gradients and radial elements, enhancing visual appeal without cluttering the composition. \n\n**Color Palette:**\n- Soft Peach Gradient: `#FFDAD5 \u2192 #FFF0EE`\n- Accent Red: `#FF5E5E`, `#FF9191`\n- Text Primary: `#333333`\n- Text Secondary: `#555555`\n- Button Text: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases a sleek pair of over-ear headphones designed with a modern and vibrant color palette that merges elegance with energy. The primary colors include a rich Coral Red (#F04E45) on the headband, which adds boldness, and a soft Rose Gold (#D6A5A5) on the ear cups, offering a luxurious metallic sheen. The ear cushions blend a gradient mesh of Coral Pink (#F17C74) and Light Pink (#FFD6D1), providing texture and depth. These shades seamlessly transition into each other, enhancing the product's aesthetic appeal. Chrome accents (#C0C0C0) at hinge points add contrast and sophistication. This palette is ideal for vibrant, eye-catching advertisement banners.  \n"
+}

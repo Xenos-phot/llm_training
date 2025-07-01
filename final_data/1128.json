@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#000000'/><rect x='540' y='0' width='540' height='540' fill='#222222'/><rect x='0' y='540' width='540' height='540' fill='#333333'/><rect x='540' y='540' width='540' height='540' fill='#111111'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><path d='M150,150 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/><path d='M850,250 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/><path d='M250,850 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/><path d='M750,750 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 50, "width": 502.4, "height": 113, "fill": "#FFFFFF", "text": "CONVERSE", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 190, "left": 50, "width": 394.46, "height": 135.6, "fill": "#FFFFFF", "text": "ULTIMATE\nSTYLE PACK", "fontSize": 60, "fontFamily": "AHOY-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 50, "width": 686.77, "height": 161.59, "fill": "#FFFFFF", "text": "\u2022 ICONIC BACKPACK & SNEAKERS\n\u2022 PREMIUM CANVAS MATERIAL\n\u2022 SIGNATURE COMFORT INSOLES\n\u2022 VERSATILE BLACK & WHITE DESIGN", "fontSize": 26, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 302.15, "height": 101.7, "fill": "#FFFFFF", "text": "$1000", "fontSize": 90, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 50, "width": 220, "height": 60, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 957, "left": 86, "width": 125.2, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 26, "left": 466, "width": 935, "height": 999, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ECkoRvnTTsXbhEF9jXz5p_935x999.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Converse Ultimate Style Pack - Classic Backpack & Sneaker Combo", "description": "\u2022 Sleek black Converse backpack with iconic star chevron logo\n\u2022 Classic high-top Chuck Taylor All-Star sneaker in timeless black canvas\n\u2022 Sporty white and grey low-top sneakers for versatile style\n\u2022 Durable backpack with spacious main compartment and front zip pocket\n\u2022 Signature white rubber toe cap and sole on high-top sneakers\n\u2022 Comfortable cushioned insoles in both shoe styles\n\u2022 Premium quality canvas material for long-lasting wear\n\u2022 Authentic Converse branding and design elements\n\u2022 Perfect combination for school, sports, or casual everyday use\n\u2022 Versatile black and white color scheme matches any outfit", "price": "$1000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ECkoRvnTTsXbhEF9jXz5p_935x999.png", "marketplace_url": "blob:https://studio.phot.ai/c5d8f193-5204-4f5a-8909-f1269d523f63", "layout": "grid_four"}, "banner_details": "\nThis banner features a striking and modern composition designed to promote a stylish product bundle. The layout is structured with a four-quadrant dark-toned grid background and subtle white line and diamond overlays adding a sense of depth and dynamism. Positioned at the top-left, a prominent bold headline (ID: \"heading\") commands attention in large all-caps typography, followed by a stacked bold subheading (ID: \"subheading\") enhancing emphasis. The center-right showcases a high-quality product image (ID: \"product_image\") displaying a backpack and two pairs of sneakers. Below, a clean, minimalist feature list (ID: \"description\") outlines key selling points in a sleek typeface. The price tag (ID: \"price\") and a call-to-action button (ID: \"cta\" and \"cta_background\") complete the visual hierarchy for clear conversion.\n\n**Color Palette:**\n- Jet Black: #000000\n- Graphite Gray: #222222\n- Charcoal Gray: #333333\n- Onyx Black: #111111\n- Pure White: #FFFFFF\n", "product_color": "  \nThe product image features a sleek and modern aesthetic with a monochrome color palette emphasizing contrast and simplicity. Key colors include deep black (#000000) for the backpack and high-top sneaker base, complemented by crisp white (#FFFFFF) used for logos, soles, and design details. Shades of gray (#A9A9A9 and #696969) appear on the low-top sneakers to create a layered and dynamic effect. The colors blend subtly, enhancing form and depth, while white is strategically used to highlight branding and structure. This refined palette communicates urban style and versatility, perfect for a contemporary advertisement banner targeting youthful, streetwear-savvy consumers.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#000000'/><rect x='540' y='0' width='540' height='540' fill='#222222'/><rect x='0' y='540' width='540' height='540' fill='#333333'/><rect x='540' y='540' width='540' height='540' fill='#111111'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><path d='M150,150 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/><path d='M850,250 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/><path d='M250,850 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/><path d='M750,750 l50,-50 l50,50 l-50,50 z' fill='#FFFFFF' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 50,
+                "width": 502.4,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "CONVERSE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 50,
+                "width": 394.46,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "ULTIMATE\nSTYLE PACK",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 686.77,
+                "height": 161.59,
+                "fill": "#FFFFFF",
+                "text": "\u2022 ICONIC BACKPACK & SNEAKERS\n\u2022 PREMIUM CANVAS MATERIAL\n\u2022 SIGNATURE COMFORT INSOLES\n\u2022 VERSATILE BLACK & WHITE DESIGN",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 302.15,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$1000",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 50,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 957,
+                "left": 86,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 26,
+                "left": 466,
+                "width": 532.9499999999999,
+                "height": 569.43,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ECkoRvnTTsXbhEF9jXz5p_935x999.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Converse Ultimate Style Pack - Classic Backpack & Sneaker Combo",
+            "description": "\u2022 Sleek black Converse backpack with iconic star chevron logo\n\u2022 Classic high-top Chuck Taylor All-Star sneaker in timeless black canvas\n\u2022 Sporty white and grey low-top sneakers for versatile style\n\u2022 Durable backpack with spacious main compartment and front zip pocket\n\u2022 Signature white rubber toe cap and sole on high-top sneakers\n\u2022 Comfortable cushioned insoles in both shoe styles\n\u2022 Premium quality canvas material for long-lasting wear\n\u2022 Authentic Converse branding and design elements\n\u2022 Perfect combination for school, sports, or casual everyday use\n\u2022 Versatile black and white color scheme matches any outfit",
+            "price": "$1000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ECkoRvnTTsXbhEF9jXz5p_935x999.png",
+        "marketplace_url": "blob:https://studio.phot.ai/c5d8f193-5204-4f5a-8909-f1269d523f63",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis banner features a striking and modern composition designed to promote a stylish product bundle. The layout is structured with a four-quadrant dark-toned grid background and subtle white line and diamond overlays adding a sense of depth and dynamism. Positioned at the top-left, a prominent bold headline (ID: \"heading\") commands attention in large all-caps typography, followed by a stacked bold subheading (ID: \"subheading\") enhancing emphasis. The center-right showcases a high-quality product image (ID: \"product_image\") displaying a backpack and two pairs of sneakers. Below, a clean, minimalist feature list (ID: \"description\") outlines key selling points in a sleek typeface. The price tag (ID: \"price\") and a call-to-action button (ID: \"cta\" and \"cta_background\") complete the visual hierarchy for clear conversion.\n\n**Color Palette:**\n- Jet Black: #000000\n- Graphite Gray: #222222\n- Charcoal Gray: #333333\n- Onyx Black: #111111\n- Pure White: #FFFFFF\n",
+    "product_color": "  \nThe product image features a sleek and modern aesthetic with a monochrome color palette emphasizing contrast and simplicity. Key colors include deep black (#000000) for the backpack and high-top sneaker base, complemented by crisp white (#FFFFFF) used for logos, soles, and design details. Shades of gray (#A9A9A9 and #696969) appear on the low-top sneakers to create a layered and dynamic effect. The colors blend subtly, enhancing form and depth, while white is strategically used to highlight branding and structure. This refined palette communicates urban style and versatility, perfect for a contemporary advertisement banner targeting youthful, streetwear-savvy consumers.  \n"
+}

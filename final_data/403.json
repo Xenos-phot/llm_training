@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#f9f8f6'/><rect x='0' y='0' width='540' height='540' fill='#e6d5c5'/><rect x='540' y='0' width='540' height='540' fill='#d9c2aa'/><rect x='0' y='540' width='540' height='540' fill='#d1b495'/><rect x='540' y='540' width='540' height='540' fill='#e8d7c9'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#6e6e6e' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#6e6e6e' stroke-width='1'/></g><circle cx='270' cy='270' r='180' fill='#d1b495' opacity='0.4'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='5' fill='#c49c7c'/><circle cx='20' cy='0' r='5' fill='#c49c7c'/><circle cx='40' cy='0' r='5' fill='#c49c7c'/><circle cx='60' cy='0' r='5' fill='#c49c7c'/><circle cx='80' cy='0' r='5' fill='#c49c7c'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#c49c7c'/><circle cx='20' cy='0' r='5' fill='#c49c7c'/><circle cx='40' cy='0' r='5' fill='#c49c7c'/><circle cx='60' cy='0' r='5' fill='#c49c7c'/></g><g opacity='0.1'><rect x='60' y='0' width='2' height='540' fill='#000000'/><rect x='120' y='0' width='2' height='540' fill='#000000'/><rect x='180' y='0' width='2' height='540' fill='#000000'/><rect x='240' y='0' width='2' height='540' fill='#000000'/><rect x='300' y='0' width='2' height='540' fill='#000000'/><rect x='360' y='0' width='2' height='540' fill='#000000'/><rect x='420' y='0' width='2' height='540' fill='#000000'/><rect x='480' y='0' width='2' height='540' fill='#000000'/><rect x='0' y='60' width='540' height='2' fill='#000000'/><rect x='0' y='120' width='540' height='2' fill='#000000'/><rect x='0' y='180' width='540' height='2' fill='#000000'/><rect x='0' y='240' width='540' height='2' fill='#000000'/><rect x='0' y='300' width='540' height='2' fill='#000000'/><rect x='0' y='360' width='540' height='2' fill='#000000'/><rect x='0' y='420' width='540' height='2' fill='#000000'/><rect x='0' y='480' width='540' height='2' fill='#000000'/></g><path d='M880 880 L820 820 L820 880 Z' fill='#c49c7c'/><path d='M200 200 L260 260 L260 200 Z' fill='#c49c7c'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 252.8, "height": 113, "fill": "#3a281e", "text": "ALDO", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 50, "width": 333.88, "height": 96.05, "fill": "#3a281e", "text": "LEGOIRII", "fontSize": 85, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 270, "left": 50, "width": 192.53, "height": 42.94, "fill": "#6e6e6e", "text": "TOTE BAG", "fontSize": 38, "fontFamily": "Taviraj Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 365.06, "height": 186.45, "fill": "#3a281e", "text": "\u2022 Elegant Faux Leather Design\n\u2022 Gold Hardware Accents\n\u2022 Spacious Interior Storage\n\u2022 Perfect for Everyday Use", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 285.63, "height": 101.7, "fill": "#3a281e", "text": "$65.00", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 50, "width": 250.0, "height": 60, "fill": "#c49c7c", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 965, "left": 100, "width": 145.74, "height": 31.64, "fill": "#ffffff", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 174, "left": 549, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5e99b001-f677-4452-9b23-0532d65b218c_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5e99b001-f677-4452-9b23-0532d65b218c_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "split_vertical"}, "banner_details": "\nThis banner presents a stylish fashion advertisement centered around a tan tote bag image. The design is split into two vertical halves\u2014left and right. The left side features a structured grid background pattern with a semi-transparent circle adding visual balance behind the heading. It contains multiple text layers including `heading`, `subheading`, and `tagline`, stacked vertically to convey product branding and category clearly. A `description` layer highlights standout features in bullet points. Below it, the prominently displayed `price` text grabs attention, followed by a `cta_background` rectangle beneath the \"SHOP NOW\" button text (`cta`). The right half presents the `product_image` with soft shadows and elegant grid lines behind it to ensure central focus.\n\n**Color Palette:**\n- Soft Beige (#f9f8f6)\n- Blush Tan (#d9c2aa)\n- Clay Brown (#d1b495)\n- Walnut Brown (#3a281e)\n- Highlight Gold (#c49c7c)\n- Light Taupe (#e6d5c5)\n", "product_color": "  \nThe product image showcases a sophisticated handbag in a warm, muted camel brown shade (#B07E63), giving an elegant and minimalist appeal. The bag features subtle crosshatch textures that add depth without overwhelming the design. Accents of polished gold (#D4AF37) on the hardware\u2014including the logo, chains, and decorative charms\u2014enhance the luxurious feel, providing contrast and visual interest. The color blending is natural but deliberate, with the soft brown offering a matte base, letting the reflective gold pop without clashing. For an ad banner, a color palette of camel brown (#B07E63), gold (#D4AF37), off-white (#F5F5F5), and charcoal gray (#4B4B4B) would work beautifully.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#f9f8f6'/><rect x='0' y='0' width='540' height='540' fill='#e6d5c5'/><rect x='540' y='0' width='540' height='540' fill='#d9c2aa'/><rect x='0' y='540' width='540' height='540' fill='#d1b495'/><rect x='540' y='540' width='540' height='540' fill='#e8d7c9'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#6e6e6e' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#6e6e6e' stroke-width='1'/></g><circle cx='270' cy='270' r='180' fill='#d1b495' opacity='0.4'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='5' fill='#c49c7c'/><circle cx='20' cy='0' r='5' fill='#c49c7c'/><circle cx='40' cy='0' r='5' fill='#c49c7c'/><circle cx='60' cy='0' r='5' fill='#c49c7c'/><circle cx='80' cy='0' r='5' fill='#c49c7c'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#c49c7c'/><circle cx='20' cy='0' r='5' fill='#c49c7c'/><circle cx='40' cy='0' r='5' fill='#c49c7c'/><circle cx='60' cy='0' r='5' fill='#c49c7c'/></g><g opacity='0.1'><rect x='60' y='0' width='2' height='540' fill='#000000'/><rect x='120' y='0' width='2' height='540' fill='#000000'/><rect x='180' y='0' width='2' height='540' fill='#000000'/><rect x='240' y='0' width='2' height='540' fill='#000000'/><rect x='300' y='0' width='2' height='540' fill='#000000'/><rect x='360' y='0' width='2' height='540' fill='#000000'/><rect x='420' y='0' width='2' height='540' fill='#000000'/><rect x='480' y='0' width='2' height='540' fill='#000000'/><rect x='0' y='60' width='540' height='2' fill='#000000'/><rect x='0' y='120' width='540' height='2' fill='#000000'/><rect x='0' y='180' width='540' height='2' fill='#000000'/><rect x='0' y='240' width='540' height='2' fill='#000000'/><rect x='0' y='300' width='540' height='2' fill='#000000'/><rect x='0' y='360' width='540' height='2' fill='#000000'/><rect x='0' y='420' width='540' height='2' fill='#000000'/><rect x='0' y='480' width='540' height='2' fill='#000000'/></g><path d='M880 880 L820 820 L820 880 Z' fill='#c49c7c'/><path d='M200 200 L260 260 L260 200 Z' fill='#c49c7c'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 252.8,
+                "height": 113,
+                "fill": "#3a281e",
+                "text": "ALDO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 333.88,
+                "height": 96.05,
+                "fill": "#3a281e",
+                "text": "LEGOIRII",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 270,
+                "left": 50,
+                "width": 192.53,
+                "height": 42.94,
+                "fill": "#6e6e6e",
+                "text": "TOTE BAG",
+                "fontFamily": "Taviraj Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 365.06,
+                "height": 186.45,
+                "fill": "#3a281e",
+                "text": "\u2022 Elegant Faux Leather Design\n\u2022 Gold Hardware Accents\n\u2022 Spacious Interior Storage\n\u2022 Perfect for Everyday Use",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 285.63,
+                "height": 101.7,
+                "fill": "#3a281e",
+                "text": "$65.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 50,
+                "width": 250.0,
+                "height": 60,
+                "fill": "#c49c7c",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 100,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#ffffff",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 174,
+                "left": 549,
+                "width": 509.88,
+                "height": 604.38,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5e99b001-f677-4452-9b23-0532d65b218c_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5e99b001-f677-4452-9b23-0532d65b218c_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner presents a stylish fashion advertisement centered around a tan tote bag image. The design is split into two vertical halves\u2014left and right. The left side features a structured grid background pattern with a semi-transparent circle adding visual balance behind the heading. It contains multiple text layers including `heading`, `subheading`, and `tagline`, stacked vertically to convey product branding and category clearly. A `description` layer highlights standout features in bullet points. Below it, the prominently displayed `price` text grabs attention, followed by a `cta_background` rectangle beneath the \"SHOP NOW\" button text (`cta`). The right half presents the `product_image` with soft shadows and elegant grid lines behind it to ensure central focus.\n\n**Color Palette:**\n- Soft Beige (#f9f8f6)\n- Blush Tan (#d9c2aa)\n- Clay Brown (#d1b495)\n- Walnut Brown (#3a281e)\n- Highlight Gold (#c49c7c)\n- Light Taupe (#e6d5c5)\n",
+    "product_color": "  \nThe product image showcases a sophisticated handbag in a warm, muted camel brown shade (#B07E63), giving an elegant and minimalist appeal. The bag features subtle crosshatch textures that add depth without overwhelming the design. Accents of polished gold (#D4AF37) on the hardware\u2014including the logo, chains, and decorative charms\u2014enhance the luxurious feel, providing contrast and visual interest. The color blending is natural but deliberate, with the soft brown offering a matte base, letting the reflective gold pop without clashing. For an ad banner, a color palette of camel brown (#B07E63), gold (#D4AF37), off-white (#F5F5F5), and charcoal gray (#4B4B4B) would work beautifully.  \n"
+}

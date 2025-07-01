@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='grad1' cx='50%' cy='50%' r='80%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:#9C27B0;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#6A1B9A;stop-opacity:1'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><circle cx='150' cy='200' r='50' fill='#4CAF50' opacity='0.3'/><circle cx='300' cy='150' r='70' fill='#8BC34A' opacity='0.2'/><circle cx='200' cy='350' r='90' fill='#FFEB3B' opacity='0.1'/><circle cx='120' cy='500' r='40' fill='#FFFFFF' opacity='0.2'/><circle cx='250' cy='600' r='60' fill='#4CAF50' opacity='0.2'/><circle cx='150' cy='720' r='80' fill='#8BC34A' opacity='0.1'/><circle cx='300' cy='800' r='70' fill='#FFEB3B' opacity='0.2'/><circle cx='180' cy='900' r='45' fill='#FFFFFF' opacity='0.3'/><circle cx='50' cy='850' r='30' fill='#4CAF50' opacity='0.2'/><circle cx='400' cy='100' r='25' fill='#FFFFFF' opacity='0.3'/><circle cx='450' cy='250' r='35' fill='#4CAF50' opacity='0.2'/><circle cx='350' cy='400' r='50' fill='#8BC34A' opacity='0.1'/><circle cx='470' cy='550' r='40' fill='#FFEB3B' opacity='0.2'/><circle cx='380' cy='700' r='60' fill='#FFFFFF' opacity='0.1'/><circle cx='420' cy='850' r='30' fill='#4CAF50' opacity='0.3'/><circle cx='500' cy='950' r='45' fill='#8BC34A' opacity='0.2'/><rect x='540' y='0' width='540' height='1080' fill='#F5F5F5'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 50, "width": 322.06, "height": 158.2, "fill": "#FFFFFF", "text": "GAZILLION\nBUBBLES", "fontSize": 70, "fontFamily": "Luckiest Guy-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 260, "left": 50, "width": 450.1, "height": 39.55, "fill": "#FFEB3B", "text": "PREMIUM BUBBLE SOLUTION", "fontSize": 35, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 350, "left": 50, "width": 428.1, "height": 113.9, "fill": "#FFFFFF", "text": "\u2022 Biggest, brightest bubbles on earth!\n\u2022 Eco-friendly, safe & non-toxic\n\u2022 Hours of fun with 4 liter refill", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 50, "width": 281.92, "height": 90.4, "fill": "#FFEB3B", "text": "$5.86", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 720, "left": 50, "width": 220, "height": 70, "fill": "#4CAF50", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 740, "left": 80, "width": 155.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 178, "left": 516, "width": 1058, "height": 1431, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png", "id": "product_image"}, {"type": "text", "top": 832, "left": 52, "width": 324.7, "height": 22.6, "fill": "#FFFFFF", "text": "You'll run out of breath before bubbles!", "fontSize": 20, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "This top secret &ldquo;super solution&rdquo; has been formulated to create the biggest, brightest, most colorful bubbles on earth! You&rsquo;ll be ready for hours and hours of fun with your favorite gazillion products with this oversized solution refill bottle. This premium solution is eco-friendly, safe, non-toxic, and will not stain clothing or furniture. With Gazillion Bubbles, you&rsquo;ll run out of breath before you run out of bubbles! Great Bubbles for Kids.  Appropriate for ages 3 years and up. Multi-color.", "price": "5.86"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png", "marketplace_url": "https://www.walmart.com/ip/Gazillion-Bubbles-Premium-Bubble-Solution-4-Liter/43163825", "layout": "split_vertical"}, "banner_details": "\nThis banner design has a lively and fun layout tailored for promoting a bubble solution product. The background features a playful left-half with a violet radial gradient from center to edges, overlaid with colorful translucent bubble-like circles, contrasted with a clean white right-half. The left section includes a bold, large heading (`heading`) and subtitle (`subheading`) near the top, followed by a list of product features (`description`) in bullet points. The price is emphasized in large yellow fonts (`price`), placed above a green call-to-action button (`cta_button`) with a \"SHOP NOW\" label (`cta`). A tagline (`tagline`) sits below the button. The right half displays a bright green product bottle (`product_image`), drawing immediate attention. The banner communicates clarity, fun, and appeal through its clean structure and vibrant visuals.\n\n**Color Palette:**\n- Purple Gradient: `#9C27B0` to `#6A1B9A`\n- Yellow: `#FFEB3B`\n- Green: `#4CAF50`, `#8BC34A`\n- White: `#FFFFFF`\n- Background (right side): `#F5F5F5`\n", "product_color": "  \nThe product image uses a vibrant, playful color palette that perfectly suits its fun, bubbly theme. Dominant colors include neon green (#A1EF86) from the liquid, which exudes freshness and energy, and purple (#8E44AD) from the cap and label, adding bold contrast. The text \"Gazillion\" is a mix of yellow-green (#C5F202) and bright green (#6EC72B), outlined with dark blue (#3A1B8D) and orange (#FF8C00), which highlight and separate the letters distinctively. A cheerful yellow (#FFD700) is used for the \"BUBBLES\" text, providing high visibility. The pastel bubble tones (light lavender #DCCEFF, soft blue #B3DAFF) create a whimsical, effervescent feel that blends all elements harmoniously.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='grad1' cx='50%' cy='50%' r='80%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:#9C27B0;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#6A1B9A;stop-opacity:1'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><circle cx='150' cy='200' r='50' fill='#4CAF50' opacity='0.3'/><circle cx='300' cy='150' r='70' fill='#8BC34A' opacity='0.2'/><circle cx='200' cy='350' r='90' fill='#FFEB3B' opacity='0.1'/><circle cx='120' cy='500' r='40' fill='#FFFFFF' opacity='0.2'/><circle cx='250' cy='600' r='60' fill='#4CAF50' opacity='0.2'/><circle cx='150' cy='720' r='80' fill='#8BC34A' opacity='0.1'/><circle cx='300' cy='800' r='70' fill='#FFEB3B' opacity='0.2'/><circle cx='180' cy='900' r='45' fill='#FFFFFF' opacity='0.3'/><circle cx='50' cy='850' r='30' fill='#4CAF50' opacity='0.2'/><circle cx='400' cy='100' r='25' fill='#FFFFFF' opacity='0.3'/><circle cx='450' cy='250' r='35' fill='#4CAF50' opacity='0.2'/><circle cx='350' cy='400' r='50' fill='#8BC34A' opacity='0.1'/><circle cx='470' cy='550' r='40' fill='#FFEB3B' opacity='0.2'/><circle cx='380' cy='700' r='60' fill='#FFFFFF' opacity='0.1'/><circle cx='420' cy='850' r='30' fill='#4CAF50' opacity='0.3'/><circle cx='500' cy='950' r='45' fill='#8BC34A' opacity='0.2'/><rect x='540' y='0' width='540' height='1080' fill='#F5F5F5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 50,
+                "width": 322.06,
+                "height": 158.2,
+                "fill": "#FFFFFF",
+                "text": "GAZILLION\nBUBBLES",
+                "fontFamily": "Luckiest Guy-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 260,
+                "left": 50,
+                "width": 450.1,
+                "height": 39.55,
+                "fill": "#FFEB3B",
+                "text": "PREMIUM BUBBLE SOLUTION",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 50,
+                "width": 428.1,
+                "height": 113.9,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Biggest, brightest bubbles on earth!\n\u2022 Eco-friendly, safe & non-toxic\n\u2022 Hours of fun with 4 liter refill",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 281.92,
+                "height": 90.4,
+                "fill": "#FFEB3B",
+                "text": "$5.86",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 720,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#4CAF50",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 80,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 178,
+                "left": 516,
+                "width": 529.0,
+                "height": 715.5,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 832,
+                "left": 52,
+                "width": 324.7,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "You'll run out of breath before bubbles!",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "This top secret &ldquo;super solution&rdquo; has been formulated to create the biggest, brightest, most colorful bubbles on earth! You&rsquo;ll be ready for hours and hours of fun with your favorite gazillion products with this oversized solution refill bottle. This premium solution is eco-friendly, safe, non-toxic, and will not stain clothing or furniture. With Gazillion Bubbles, you&rsquo;ll run out of breath before you run out of bubbles! Great Bubbles for Kids.  Appropriate for ages 3 years and up. Multi-color.",
+            "price": "5.86"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png",
+        "marketplace_url": "https://www.walmart.com/ip/Gazillion-Bubbles-Premium-Bubble-Solution-4-Liter/43163825",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design has a lively and fun layout tailored for promoting a bubble solution product. The background features a playful left-half with a violet radial gradient from center to edges, overlaid with colorful translucent bubble-like circles, contrasted with a clean white right-half. The left section includes a bold, large heading (`heading`) and subtitle (`subheading`) near the top, followed by a list of product features (`description`) in bullet points. The price is emphasized in large yellow fonts (`price`), placed above a green call-to-action button (`cta_button`) with a \"SHOP NOW\" label (`cta`). A tagline (`tagline`) sits below the button. The right half displays a bright green product bottle (`product_image`), drawing immediate attention. The banner communicates clarity, fun, and appeal through its clean structure and vibrant visuals.\n\n**Color Palette:**\n- Purple Gradient: `#9C27B0` to `#6A1B9A`\n- Yellow: `#FFEB3B`\n- Green: `#4CAF50`, `#8BC34A`\n- White: `#FFFFFF`\n- Background (right side): `#F5F5F5`\n",
+    "product_color": "  \nThe product image uses a vibrant, playful color palette that perfectly suits its fun, bubbly theme. Dominant colors include neon green (#A1EF86) from the liquid, which exudes freshness and energy, and purple (#8E44AD) from the cap and label, adding bold contrast. The text \"Gazillion\" is a mix of yellow-green (#C5F202) and bright green (#6EC72B), outlined with dark blue (#3A1B8D) and orange (#FF8C00), which highlight and separate the letters distinctively. A cheerful yellow (#FFD700) is used for the \"BUBBLES\" text, providing high visibility. The pastel bubble tones (light lavender #DCCEFF, soft blue #B3DAFF) create a whimsical, effervescent feel that blends all elements harmoniously.  \n"
+}

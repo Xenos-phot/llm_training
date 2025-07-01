@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='80%'><stop offset='0%' stop-color='#FFF5F5'/><stop offset='100%' stop-color='#FFE4E4'/></radialGradient><linearGradient id='sideGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#F9D6D6'/><stop offset='100%' stop-color='#F4BCBC'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='0' y='0' width='540' height='1080' fill='url(#sideGradient)'/><g opacity='0.15'><path d='M60,120 C80,100 120,100 140,120 C160,140 160,180 140,200 C120,220 80,220 60,200 C40,180 40,140 60,120 Z' fill='#E0A4A4' transform='rotate(15, 100, 160)'/><path d='M180,220 C200,200 240,200 260,220 C280,240 280,280 260,300 C240,320 200,320 180,300 C160,280 160,240 180,220 Z' fill='#E0A4A4' transform='rotate(30, 220, 260)'/><path d='M70,400 C90,380 130,380 150,400 C170,420 170,460 150,480 C130,500 90,500 70,480 C50,460 50,420 70,400 Z' fill='#E0A4A4' transform='rotate(45, 110, 440)'/><path d='M250,500 C270,480 310,480 330,500 C350,520 350,560 330,580 C310,600 270,600 250,580 C230,560 230,520 250,500 Z' fill='#E0A4A4' transform='rotate(60, 290, 540)'/><path d='M100,680 C120,660 160,660 180,680 C200,700 200,740 180,760 C160,780 120,780 100,760 C80,740 80,700 100,680 Z' fill='#E0A4A4' transform='rotate(75, 140, 720)'/><path d='M210,780 C230,760 270,760 290,780 C310,800 310,840 290,860 C270,880 230,880 210,860 C190,840 190,800 210,780 Z' fill='#E0A4A4' transform='rotate(90, 250, 820)'/></g><g opacity='0.1'><circle cx='800' cy='200' r='60' fill='#E0A4A4'/><circle cx='900' cy='500' r='80' fill='#E0A4A4'/><circle cx='750' cy='800' r='70' fill='#E0A4A4'/></g></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 50, "width": 320.5, "height": 186.45, "fill": "#D65A5A", "text": "ELEGANT\nROSE GOLD\nCOLLECTION", "fontSize": 55, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 320, "left": 50, "width": 344.91, "height": 36.16, "fill": "#8D4E4E", "text": "Dual Layer Necklace Set", "fontSize": 32, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 420, "left": 50, "width": 324.75, "height": 189.84, "fill": "#6D3F3F", "text": "\u2022 Premium rose gold plating with\n   delicate crystal elements\n\u2022 Four-leaf clover pendant and\n   connected heart design\n\u2022 Adjustable chain length for\n   versatile styling", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 660, "left": 50, "width": 174.8, "height": 90.4, "fill": "#D65A5A", "text": "\u20b9 1200", "fontSize": 80, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 50, "width": 230, "height": 70, "fill": "#D65A5A", "rx": 10, "ry": 10, "id": "cta_background"}, {"type": "text", "top": 800, "left": 93, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 880, "left": 50, "width": 239.69, "height": 20.34, "fill": "#8D4E4E", "text": "Perfect gift for special occasions", "fontSize": 18, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 225, "left": 518, "width": 543, "height": 631, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/q7QLDCJ4EATl43n2B12vc_543x631.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegant Rose Gold Heart Collection - Dual Layer Necklace Set", "description": "\u2022 Premium rose gold plated design with delicate chain construction\n\u2022 Dual-layer necklace featuring a four-leaf clover pendant and connected hearts\n\u2022 Embellished with sparkling crystal elements for luxurious shine\n\u2022 Adjustable chain length for versatile styling options\n\u2022 Perfect combination of romantic hearts and lucky clover motifs\n\u2022 Ideal for layering or wearing separately\n\u2022 High-quality craftsmanship with intricate filigree details\n\u2022 Suitable for both casual and formal occasions\n\u2022 Makes a perfect gift for special occasions\n\u2022 Hypoallergenic and skin-friendly materials", "price": "\u20b91200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/q7QLDCJ4EATl43n2B12vc_543x631.png", "marketplace_url": "blob:https://test9.phot.ai/bb402a48-6b35-476f-89b1-ade3da3b154b", "layout": "split_vertical"}, "banner_details": "\nThe banner features a sophisticated split background with a soft gradient\u2014subtly transitioning from a warm blush pink on the right to a muted rose shade on the left. Anchoring the design is a centered jewelry display of a dual-layer necklace set, incorporating a four-leaf clover pendant and heart motifs on the right side. Text elements, including a bold attention-grabbing title (`heading`), an elegant subtitle (`subheading`), and a neatly-stacked features list (`description`), are aligned to the left. A prominent price section (`price`) and a bold rectangular call-to-action button (`cta_background` and `cta`) encourage purchase. Light decorative circles and minimal typography (`tagline`) emphasize elegance and gift-worthiness.\n\n**Color Palette:**\n- Rose Blush: `#F9D6D6`\n- Soft Pink: `#FFE4E4`\n- Rose Gold Accent: `#D65A5A`\n- Deep Chestnut Text: `#8D4E4E`\n- Warm Brown Text: `#6D3F3F`\n- Pure White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a delicate rose gold necklace with heart-shaped pendants that join to form a four-leaf clover design. The color palette is soft, feminine, and luxurious, ideal for a romantic and elegant advertisement banner. The primary color is rose gold (#B76E79), used in the chain and outlines of the hearts, giving a warm and inviting tone. Accents of diamond-like white (#FFFFFF) with soft silver (#D0D0D0) add sparkle and contrast, enhancing the jewelry's brilliance. These colors blend seamlessly, with rose gold enveloping and highlighting the inner shimmer, creating a harmonious and eye-catching visual appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='80%'><stop offset='0%' stop-color='#FFF5F5'/><stop offset='100%' stop-color='#FFE4E4'/></radialGradient><linearGradient id='sideGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#F9D6D6'/><stop offset='100%' stop-color='#F4BCBC'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='0' y='0' width='540' height='1080' fill='url(#sideGradient)'/><g opacity='0.15'><path d='M60,120 C80,100 120,100 140,120 C160,140 160,180 140,200 C120,220 80,220 60,200 C40,180 40,140 60,120 Z' fill='#E0A4A4' transform='rotate(15, 100, 160)'/><path d='M180,220 C200,200 240,200 260,220 C280,240 280,280 260,300 C240,320 200,320 180,300 C160,280 160,240 180,220 Z' fill='#E0A4A4' transform='rotate(30, 220, 260)'/><path d='M70,400 C90,380 130,380 150,400 C170,420 170,460 150,480 C130,500 90,500 70,480 C50,460 50,420 70,400 Z' fill='#E0A4A4' transform='rotate(45, 110, 440)'/><path d='M250,500 C270,480 310,480 330,500 C350,520 350,560 330,580 C310,600 270,600 250,580 C230,560 230,520 250,500 Z' fill='#E0A4A4' transform='rotate(60, 290, 540)'/><path d='M100,680 C120,660 160,660 180,680 C200,700 200,740 180,760 C160,780 120,780 100,760 C80,740 80,700 100,680 Z' fill='#E0A4A4' transform='rotate(75, 140, 720)'/><path d='M210,780 C230,760 270,760 290,780 C310,800 310,840 290,860 C270,880 230,880 210,860 C190,840 190,800 210,780 Z' fill='#E0A4A4' transform='rotate(90, 250, 820)'/></g><g opacity='0.1'><circle cx='800' cy='200' r='60' fill='#E0A4A4'/><circle cx='900' cy='500' r='80' fill='#E0A4A4'/><circle cx='750' cy='800' r='70' fill='#E0A4A4'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 50,
+                "width": 320.5,
+                "height": 186.45,
+                "fill": "#D65A5A",
+                "text": "ELEGANT\nROSE GOLD\nCOLLECTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 50,
+                "width": 344.91,
+                "height": 36.16,
+                "fill": "#8D4E4E",
+                "text": "Dual Layer Necklace Set",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 420,
+                "left": 50,
+                "width": 324.75,
+                "height": 189.84,
+                "fill": "#6D3F3F",
+                "text": "\u2022 Premium rose gold plating with\n   delicate crystal elements\n\u2022 Four-leaf clover pendant and\n   connected heart design\n\u2022 Adjustable chain length for\n   versatile styling",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 660,
+                "left": 50,
+                "width": 174.8,
+                "height": 90.4,
+                "fill": "#D65A5A",
+                "text": "\u20b9 1200",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 50,
+                "width": 230,
+                "height": 70,
+                "fill": "#D65A5A",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 93,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 50,
+                "width": 239.69,
+                "height": 20.34,
+                "fill": "#8D4E4E",
+                "text": "Perfect gift for special occasions",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 225,
+                "left": 518,
+                "width": 543,
+                "height": 631,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/q7QLDCJ4EATl43n2B12vc_543x631.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegant Rose Gold Heart Collection - Dual Layer Necklace Set",
+            "description": "\u2022 Premium rose gold plated design with delicate chain construction\n\u2022 Dual-layer necklace featuring a four-leaf clover pendant and connected hearts\n\u2022 Embellished with sparkling crystal elements for luxurious shine\n\u2022 Adjustable chain length for versatile styling options\n\u2022 Perfect combination of romantic hearts and lucky clover motifs\n\u2022 Ideal for layering or wearing separately\n\u2022 High-quality craftsmanship with intricate filigree details\n\u2022 Suitable for both casual and formal occasions\n\u2022 Makes a perfect gift for special occasions\n\u2022 Hypoallergenic and skin-friendly materials",
+            "price": "\u20b91200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/q7QLDCJ4EATl43n2B12vc_543x631.png",
+        "marketplace_url": "blob:https://test9.phot.ai/bb402a48-6b35-476f-89b1-ade3da3b154b",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a sophisticated split background with a soft gradient\u2014subtly transitioning from a warm blush pink on the right to a muted rose shade on the left. Anchoring the design is a centered jewelry display of a dual-layer necklace set, incorporating a four-leaf clover pendant and heart motifs on the right side. Text elements, including a bold attention-grabbing title (`heading`), an elegant subtitle (`subheading`), and a neatly-stacked features list (`description`), are aligned to the left. A prominent price section (`price`) and a bold rectangular call-to-action button (`cta_background` and `cta`) encourage purchase. Light decorative circles and minimal typography (`tagline`) emphasize elegance and gift-worthiness.\n\n**Color Palette:**\n- Rose Blush: `#F9D6D6`\n- Soft Pink: `#FFE4E4`\n- Rose Gold Accent: `#D65A5A`\n- Deep Chestnut Text: `#8D4E4E`\n- Warm Brown Text: `#6D3F3F`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a delicate rose gold necklace with heart-shaped pendants that join to form a four-leaf clover design. The color palette is soft, feminine, and luxurious, ideal for a romantic and elegant advertisement banner. The primary color is rose gold (#B76E79), used in the chain and outlines of the hearts, giving a warm and inviting tone. Accents of diamond-like white (#FFFFFF) with soft silver (#D0D0D0) add sparkle and contrast, enhancing the jewelry's brilliance. These colors blend seamlessly, with rose gold enveloping and highlighting the inner shimmer, creating a harmonious and eye-catching visual appeal.\n"
+}

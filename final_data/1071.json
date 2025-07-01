@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1a1a1a'/><g><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#1a1a1a' fill-opacity='0.7'/></g><g opacity='0.2'><circle cx='540' cy='540' r='400' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='300' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='200' fill='none' stroke='#ffffff' stroke-width='1'/></g><path d='M0 700 C 180 650, 360 675, 540 650 S 720 600, 900 625 L 1080 650 L 1080 1080 L 0 1080 Z' fill='#ffffff' opacity='0.05'/><g transform='translate(20, 980)'><circle cx='0' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='40' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='80' cy='0' r='8' fill='#ffffff' opacity='0.3'/></g><g transform='translate(920, 80)'><circle cx='0' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='40' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='80' cy='0' r='8' fill='#ffffff' opacity='0.3'/></g><path d='M 200,200 L 260,200 L 230,140 Z' fill='#ffffff' opacity='0.1' transform='rotate(30, 230, 170)'/><path d='M 840,200 L 900,200 L 870,140 Z' fill='#ffffff' opacity='0.1' transform='rotate(-30, 870, 170)'/><path d='M 200,840 L 260,840 L 230,900 Z' fill='#ffffff' opacity='0.1' transform='rotate(-30, 230, 870)'/><path d='M 840,840 L 900,840 L 870,900 Z' fill='#ffffff' opacity='0.1' transform='rotate(30, 870, 870)'/><defs><radialGradient id='grad1' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#2d2d2d'/><stop offset='100%' stop-color='#121212'/></radialGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 287.05, "width": 505.9, "height": 113, "fill": "#ffffff", "text": "CONVERSE", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 190, "left": 209.83499999999998, "width": 660.33, "height": 45.2, "fill": "#e6e6e6", "text": "ULTIMATE STYLE PACK", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 250, "left": 333.37, "width": 413.26, "height": 27.12, "fill": "#cccccc", "text": "Classic Backpack & Sneaker Combo", "fontSize": 24, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 330.21000000000004, "left": 343.65, "width": 935, "height": 999, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/EnANitS0gqfDVPZzNLCEK_935x999.png", "id": "product_image"}, {"type": "text", "top": 780, "left": 262.485, "width": 555.03, "height": 27.12, "fill": "#ffffff", "text": "Premium Canvas \u2022 Iconic Design \u2022 Versatile Style", "fontSize": 24, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 830, "left": 441.74, "width": 196.52, "height": 67.8, "fill": "#ffffff", "text": "$ 199.99", "fontSize": 60, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 440.0, "width": 200, "height": 60, "fill": "#ffffff", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 937, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Converse Ultimate Style Pack - Classic Backpack & Sneaker Combo", "description": "\u2022 Sleek black Converse backpack with iconic star chevron logo\n\u2022 Classic high-top Chuck Taylor All-Star sneaker in timeless black canvas\n\u2022 Sporty white and grey low-top sneakers for versatile style\n\u2022 Durable backpack with spacious main compartment and front zip pocket\n\u2022 Signature white rubber toe cap and sole on high-top sneakers\n\u2022 Comfortable cushioned insoles in both shoe styles\n\u2022 Premium quality canvas material for long-lasting wear\n\u2022 Authentic Converse branding and design elements\n\u2022 Perfect combination for school, sports, or casual everyday use\n\u2022 Versatile black and white color scheme matches any outfit", "price": "$1000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/EnANitS0gqfDVPZzNLCEK_935x999.png", "marketplace_url": "blob:https://studio.phot.ai/c5d8f193-5204-4f5a-8909-f1269d523f63", "layout": "circular_focus"}, "banner_details": "\nThis banner showcases a modern and sporty promotional layout centered around a premium backpack and sneaker combo. At the top, a large bold title (text ID: \"heading\") captures attention, paired with a sleek subheading (text ID: \"subheading\") just below it. A brief descriptor (text ID: \"tagline\") supports the message with concise product context. The central focus is a product image (image ID: \"product_image\") featuring stylish footwear and a branded backpack. Supporting benefits are listed beneath the image (text ID: \"description\"). A bold price highlight (text ID: \"price\") emphasizes value, complemented by a contrasting call-to-action button (IDs: \"cta_background\" and \"cta\") encouraging immediate engagement.\n\n**Color Palette:**\n- Charcoal Black: `#1a1a1a`\n- Dark Gray: `#2d2d2d`\n- Light Gray: `#cccccc`\n- White: `#ffffff`\n", "product_color": "\nThe product image features a minimalistic yet bold color palette primarily composed of black, white, grey, and light beige. The black backpack and high-top sneaker establish a strong base (#000000), contrasted by the crisp white Converse branding and shoelaces (#FFFFFF). Grey accents on the low-top sneakers (#A9A9A9) blend smoothly with white to create soft transitions, adding depth. Beige tones in the midsole and outsole of the high-top shoes (#EAE6DA) complement the black and white without overpowering. These neutral tones are both modern and versatile, making them ideal for an advertisement banner with a clean, urban aesthetic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1a1a1a'/><g><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#1a1a1a' fill-opacity='0.7'/></g><g opacity='0.2'><circle cx='540' cy='540' r='400' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='300' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='200' fill='none' stroke='#ffffff' stroke-width='1'/></g><path d='M0 700 C 180 650, 360 675, 540 650 S 720 600, 900 625 L 1080 650 L 1080 1080 L 0 1080 Z' fill='#ffffff' opacity='0.05'/><g transform='translate(20, 980)'><circle cx='0' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='40' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='80' cy='0' r='8' fill='#ffffff' opacity='0.3'/></g><g transform='translate(920, 80)'><circle cx='0' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='40' cy='0' r='8' fill='#ffffff' opacity='0.3'/><circle cx='80' cy='0' r='8' fill='#ffffff' opacity='0.3'/></g><path d='M 200,200 L 260,200 L 230,140 Z' fill='#ffffff' opacity='0.1' transform='rotate(30, 230, 170)'/><path d='M 840,200 L 900,200 L 870,140 Z' fill='#ffffff' opacity='0.1' transform='rotate(-30, 870, 170)'/><path d='M 200,840 L 260,840 L 230,900 Z' fill='#ffffff' opacity='0.1' transform='rotate(-30, 230, 870)'/><path d='M 840,840 L 900,840 L 870,900 Z' fill='#ffffff' opacity='0.1' transform='rotate(30, 870, 870)'/><defs><radialGradient id='grad1' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#2d2d2d'/><stop offset='100%' stop-color='#121212'/></radialGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 287.05,
+                "width": 505.9,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "CONVERSE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 209.83499999999998,
+                "width": 660.33,
+                "height": 45.2,
+                "fill": "#e6e6e6",
+                "text": "ULTIMATE STYLE PACK",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 250,
+                "left": 333.37,
+                "width": 413.26,
+                "height": 27.12,
+                "fill": "#cccccc",
+                "text": "Classic Backpack & Sneaker Combo",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 330.21000000000004,
+                "left": 343.65,
+                "width": 392.7,
+                "height": 419.58,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/EnANitS0gqfDVPZzNLCEK_935x999.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 262.485,
+                "width": 555.03,
+                "height": 27.12,
+                "fill": "#ffffff",
+                "text": "Premium Canvas \u2022 Iconic Design \u2022 Versatile Style",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 441.74,
+                "width": 196.52,
+                "height": 67.8,
+                "fill": "#ffffff",
+                "text": "$ 199.99",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#ffffff",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 937,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Converse Ultimate Style Pack - Classic Backpack & Sneaker Combo",
+            "description": "\u2022 Sleek black Converse backpack with iconic star chevron logo\n\u2022 Classic high-top Chuck Taylor All-Star sneaker in timeless black canvas\n\u2022 Sporty white and grey low-top sneakers for versatile style\n\u2022 Durable backpack with spacious main compartment and front zip pocket\n\u2022 Signature white rubber toe cap and sole on high-top sneakers\n\u2022 Comfortable cushioned insoles in both shoe styles\n\u2022 Premium quality canvas material for long-lasting wear\n\u2022 Authentic Converse branding and design elements\n\u2022 Perfect combination for school, sports, or casual everyday use\n\u2022 Versatile black and white color scheme matches any outfit",
+            "price": "$1000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/EnANitS0gqfDVPZzNLCEK_935x999.png",
+        "marketplace_url": "blob:https://studio.phot.ai/c5d8f193-5204-4f5a-8909-f1269d523f63",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner showcases a modern and sporty promotional layout centered around a premium backpack and sneaker combo. At the top, a large bold title (text ID: \"heading\") captures attention, paired with a sleek subheading (text ID: \"subheading\") just below it. A brief descriptor (text ID: \"tagline\") supports the message with concise product context. The central focus is a product image (image ID: \"product_image\") featuring stylish footwear and a branded backpack. Supporting benefits are listed beneath the image (text ID: \"description\"). A bold price highlight (text ID: \"price\") emphasizes value, complemented by a contrasting call-to-action button (IDs: \"cta_background\" and \"cta\") encouraging immediate engagement.\n\n**Color Palette:**\n- Charcoal Black: `#1a1a1a`\n- Dark Gray: `#2d2d2d`\n- Light Gray: `#cccccc`\n- White: `#ffffff`\n",
+    "product_color": "\nThe product image features a minimalistic yet bold color palette primarily composed of black, white, grey, and light beige. The black backpack and high-top sneaker establish a strong base (#000000), contrasted by the crisp white Converse branding and shoelaces (#FFFFFF). Grey accents on the low-top sneakers (#A9A9A9) blend smoothly with white to create soft transitions, adding depth. Beige tones in the midsole and outsole of the high-top shoes (#EAE6DA) complement the black and white without overpowering. These neutral tones are both modern and versatile, making them ideal for an advertisement banner with a clean, urban aesthetic.\n"
+}

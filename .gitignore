@@ -7,3 +7,12 @@ unsloth*
 wandb/
 input_text.txt
 testing/input_test_text.txt
+testing/node_modules/
+testing/credentials.json
+model_old/  
+old_final_data/
+fix_final_data/
+tmp/
+temp*
+*.zip
+package-lock.json

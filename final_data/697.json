@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0E6DA'/><rect y='600' width='1080' height='480' fill='#8B7E6D' opacity='0.9'/><path d='M0 600 L1080 600' stroke='#D9C2A7' stroke-width='8'/><circle cx='950' cy='150' r='200' fill='#D9C2A7' opacity='0.3'/><circle cx='150' cy='950' r='180' fill='#F0E6DA' opacity='0.2'/><path d='M850 50 L950 150 L850 250' stroke='#8B7E6D' stroke-width='4' fill='none' opacity='0.5'/><path d='M150 850 L250 950 L150 1050' stroke='#F0E6DA' stroke-width='4' fill='none' opacity='0.5'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#8B7E6D' stroke-width='20' opacity='0.1'/><rect x='50' y='50' width='980' height='980' fill='none' stroke='#D9C2A7' stroke-width='3' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 50, "width": 601.27, "height": 158.2, "fill": "#5D4B35", "text": "TIMELESS", "fontSize": 140, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 50, "width": 615.8, "height": 135.6, "fill": "#8B7E6D", "text": "ELEGANCE", "fontSize": 120, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 330, "left": 50, "width": 622.55, "height": 73.45, "fill": "#8B7E6D", "text": "WOOL BLEND COAT", "fontSize": 65, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 420, "left": 50, "width": 341.72, "height": 174.02, "fill": "#5D4B35", "text": "\u2022 Premium wool-blend fabric\n\u2022 Elegant camel color\n\u2022 Oversized modern silhouette\n\u2022 Classic wide lapel design", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 850, "left": 50, "width": 324.95, "height": 113, "fill": "#F0E6DA", "text": "\u20b9 1,200", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 970, "left": 50, "width": 220, "height": 60, "fill": "#5D4B35", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 985, "left": 85, "width": 155.79, "height": 33.9, "fill": "#F0E6DA", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 340, "left": 590, "width": 423, "height": 1271, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MECwP_VwUmGPvkz52kKvF_423x1271.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Luxurious Oversized Wool Blend Coat - Timeless Elegance in Camel", "description": "\u2022 Premium wool-blend fabric for warmth and sophistication\n\u2022 Elegant camel color perfect for versatile styling\n\u2022 Oversized silhouette with dropped shoulders for modern appeal\n\u2022 Wide lapel collar design adds classic charm\n\u2022 Single-button closure for effortless wear\n\u2022 Deep side pockets for functionality\n\u2022 Cuffed sleeves for refined detail\n\u2022 Mid-length cut suitable for professional and casual settings\n\u2022 Perfect layering piece for fall/winter wardrobe\n\u2022 Available in sizes XS-XL\n\u2022 Easy-care fabric composition\n\u2022 Pairs beautifully with both formal and casual attire", "price": "\u20b91200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MECwP_VwUmGPvkz52kKvF_423x1271.png", "marketplace_url": "blob:https://test9.phot.ai/7e9b3107-ae22-4cf6-b29e-6fca1f0fb102", "layout": "split_vertical"}, "banner_details": "\nThis banner has an elegant and minimalistic layout that emphasizes sophistication and high-end fashion. A stylish product image is positioned on the right side, overlapping the bottom section of the canvas to create depth. The background features layered rectangles and soft geometric accents, adding a refined visual texture with diagonal lines and semi-transparent circles.\n\nThe heading (`heading`) is bold and prominent in dark brown, followed by a lighter subheading (`subheading`) in serif font, and a clear supporting line (`tagline`) just beneath. A detailed description list (`description`) highlights product features in smaller font. \n\nAt the bottom left, the price text (`price`) sits within a translucent circle, next to a bold rectangular call-to-action button (`cta_background`) containing the text `SHOP NOW` (`cta`). \n\n**Color Palette:**\n- Soft Cream: `#F0E6DA`\n- Warm Taupe: `#8B7E6D`\n- Deep Coffee Brown: `#5D4B35`\n- Muted Beige: `#D9C2A7`\n", "product_color": "  \nThe product image showcases a sophisticated and minimalistic color palette, ideal for a high-end fashion advertisement banner. The dominant camel beige color of the coat and trousers (Hex: #C3A98E) conveys warmth and elegance, while a crisp white shirt (Hex: #FFFFFF) adds contrast and clean lines. Accents like gold buttons and jewelry (Hex: #D4AF37) add a touch of luxury. Subtle olive green heels (Hex: #3E4B3A) introduce muted depth, blending harmoniously with the overall neutral tones. These colors are seamlessly layered to highlight the sophistication of the outfit and can be used in advertisements to convey style, professionalism, and timeless fashion."}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0E6DA'/><rect y='600' width='1080' height='480' fill='#8B7E6D' opacity='0.9'/><path d='M0 600 L1080 600' stroke='#D9C2A7' stroke-width='8'/><circle cx='950' cy='150' r='200' fill='#D9C2A7' opacity='0.3'/><circle cx='150' cy='950' r='180' fill='#F0E6DA' opacity='0.2'/><path d='M850 50 L950 150 L850 250' stroke='#8B7E6D' stroke-width='4' fill='none' opacity='0.5'/><path d='M150 850 L250 950 L150 1050' stroke='#F0E6DA' stroke-width='4' fill='none' opacity='0.5'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#8B7E6D' stroke-width='20' opacity='0.1'/><rect x='50' y='50' width='980' height='980' fill='none' stroke='#D9C2A7' stroke-width='3' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 50,
+                "width": 601.27,
+                "height": 158.2,
+                "fill": "#5D4B35",
+                "text": "TIMELESS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 50,
+                "width": 615.8,
+                "height": 135.6,
+                "fill": "#8B7E6D",
+                "text": "ELEGANCE",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 50,
+                "width": 622.55,
+                "height": 73.45,
+                "fill": "#8B7E6D",
+                "text": "WOOL BLEND COAT",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 420,
+                "left": 50,
+                "width": 341.72,
+                "height": 174.02,
+                "fill": "#5D4B35",
+                "text": "\u2022 Premium wool-blend fabric\n\u2022 Elegant camel color\n\u2022 Oversized modern silhouette\n\u2022 Classic wide lapel design",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 50,
+                "width": 324.95,
+                "height": 113,
+                "fill": "#F0E6DA",
+                "text": "\u20b9 1,200",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 50,
+                "width": 220,
+                "height": 60,
+                "fill": "#5D4B35",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 985,
+                "left": 85,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#F0E6DA",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 340,
+                "left": 590,
+                "width": 245.33999999999997,
+                "height": 737.18,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MECwP_VwUmGPvkz52kKvF_423x1271.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Luxurious Oversized Wool Blend Coat - Timeless Elegance in Camel",
+            "description": "\u2022 Premium wool-blend fabric for warmth and sophistication\n\u2022 Elegant camel color perfect for versatile styling\n\u2022 Oversized silhouette with dropped shoulders for modern appeal\n\u2022 Wide lapel collar design adds classic charm\n\u2022 Single-button closure for effortless wear\n\u2022 Deep side pockets for functionality\n\u2022 Cuffed sleeves for refined detail\n\u2022 Mid-length cut suitable for professional and casual settings\n\u2022 Perfect layering piece for fall/winter wardrobe\n\u2022 Available in sizes XS-XL\n\u2022 Easy-care fabric composition\n\u2022 Pairs beautifully with both formal and casual attire",
+            "price": "\u20b91200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/MECwP_VwUmGPvkz52kKvF_423x1271.png",
+        "marketplace_url": "blob:https://test9.phot.ai/7e9b3107-ae22-4cf6-b29e-6fca1f0fb102",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner has an elegant and minimalistic layout that emphasizes sophistication and high-end fashion. A stylish product image is positioned on the right side, overlapping the bottom section of the canvas to create depth. The background features layered rectangles and soft geometric accents, adding a refined visual texture with diagonal lines and semi-transparent circles.\n\nThe heading (`heading`) is bold and prominent in dark brown, followed by a lighter subheading (`subheading`) in serif font, and a clear supporting line (`tagline`) just beneath. A detailed description list (`description`) highlights product features in smaller font. \n\nAt the bottom left, the price text (`price`) sits within a translucent circle, next to a bold rectangular call-to-action button (`cta_background`) containing the text `SHOP NOW` (`cta`). \n\n**Color Palette:**\n- Soft Cream: `#F0E6DA`\n- Warm Taupe: `#8B7E6D`\n- Deep Coffee Brown: `#5D4B35`\n- Muted Beige: `#D9C2A7`\n",
+    "product_color": "  \nThe product image showcases a sophisticated and minimalistic color palette, ideal for a high-end fashion advertisement banner. The dominant camel beige color of the coat and trousers (Hex: #C3A98E) conveys warmth and elegance, while a crisp white shirt (Hex: #FFFFFF) adds contrast and clean lines. Accents like gold buttons and jewelry (Hex: #D4AF37) add a touch of luxury. Subtle olive green heels (Hex: #3E4B3A) introduce muted depth, blending harmoniously with the overall neutral tones. These colors are seamlessly layered to highlight the sophistication of the outfit and can be used in advertisements to convey style, professionalism, and timeless fashion."
+}

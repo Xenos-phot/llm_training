@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E8F4F8'/><stop offset='100%' stop-color='#C5E5F9'/></linearGradient><linearGradient id='milkGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F0F8FF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><g opacity='0.6'><circle cx='200' cy='200' r='160' fill='url(#milkGrad)' opacity='0.3'/><circle cx='880' cy='200' r='120' fill='url(#milkGrad)' opacity='0.3'/><circle cx='200' cy='880' r='140' fill='url(#milkGrad)' opacity='0.3'/><circle cx='880' cy='880' r='100' fill='url(#milkGrad)' opacity='0.3'/></g><g opacity='0.8'><path d='M0,650 C180,600 360,700 540,650 C720,600 900,700 1080,650 L1080,1080 L0,1080 Z' fill='#84B6D9' opacity='0.2'/></g><g><circle cx='150' cy='350' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='180' cy='350' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='210' cy='350' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='150' cy='380' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='180' cy='380' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='210' cy='380' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='900' cy='700' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='930' cy='700' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='900' cy='730' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='930' cy='730' r='6' fill='#84B6D9' opacity='0.6'/></g><g opacity='0.1'><path d='M0,0 L1080,0 L1080,200 Q540,350 0,200 Z' fill='#FFFFFF'/></g></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 43.245000000000005, "width": 993.51, "height": 107.35, "fill": "#1A5276", "text": "FARM FRESH ORGANIC MILK", "fontSize": 95, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 190, "left": 170.27999999999997, "width": 739.44, "height": 45.2, "fill": "#2980B9", "text": "Pure Goodness in Every Drop", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 254.47499999999997, "left": 348.875, "width": 695, "height": 911, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/K1V49V-MCMFqXZHDzwZgS_695x911.png", "id": "product_image"}, {"type": "text", "top": 780, "left": 196.815, "width": 686.37, "height": 62.15, "fill": "#2E4053", "text": "100% Pure & Natural \u2022 Rich in Calcium & Vitamin D \u2022 No Hormones\nFarm-to-Table Freshness \u2022 Pasteurized for Safety \u2022 High in Protein", "fontSize": 22, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 875, "left": 428.68, "width": 222.64, "height": 90.4, "fill": "#1A5276", "text": "\u20b9 899", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 970, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#1A5276", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 985, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Farm Fresh Organic Whole Milk - Pure Goodness in Every Drop", "description": "\u2022 100% Pure & Natural Whole Milk\n\u2022 Rich in Essential Calcium and Vitamin D\n\u2022 No Artificial Hormones or Preservatives\n\u2022 Creamy, Fresh Taste\n\u2022 Perfect for Drinking, Cooking, and Baking\n\u2022 Available in Multiple Sizes - Bottle and Pitcher Options\n\u2022 Farm-to-Table Freshness Guaranteed\n\u2022 Pasteurized for Safety\n\u2022 High in Protein and Natural Nutrients\n\u2022 Ideal for Growing Children and Active Adults", "price": "\u20b9899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/K1V49V-MCMFqXZHDzwZgS_695x911.png", "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg", "layout": "centered_hero"}, "banner_details": "\nThis banner showcases a clean, modern design promoting a dairy product with a fresh and organic theme. The background features a soft, gradient blend of light blues (`#E8F4F8` to `#C5E5F9`) with subtle geometric and wave accents to enhance visual interest without distraction. The main focal point is a central product image (`product_image`), featuring various milk containers with a glossy and natural aesthetic.\n\nAt the top, the bold headline (`heading`) uses strong sans-serif typography in deep navy (`#1A5276`), followed by a lighter blue subheading (`subheading`) conveying purity and quality. Below the image, a detailed description (`description`) in a legible serif typeface highlights the health benefits in bullet style.\n\nThe price callout (`price`) is prominently displayed in large, strong navy typography, and is followed by a clearly defined call-to-action button (`cta_background` and `cta`) with white-on-navy text to draw attention and encourage interaction.\n\n**Color Palette:**\n- Navy Blue: `#1A5276`\n- Light Sky Blue: `#84B6D9`\n- Accent Blue: `#2980B9`\n- Pale Blue Gradient: `#E8F4F8` to `#C5E5F9`\n- White: `#FFFFFF`\n- Text Grey: `#2E4053`\n", "product_color": "\nThe product image uses a clean, fresh color palette centered around cool whites and soft blues, conveying purity and freshness\u2014ideal for promoting dairy. The milk appears in a pure white shade, contrasted beautifully by the transparent glass containers with highlights of sky blue. This blue tint is especially evident at the neck and rim of the bottle and pitcher, subtly blending with the white milk to emphasize freshness and coolness. These tones are harmonious and minimalistic, making the product visually appealing. Suggested hex codes: Milky White \u2013 #FDFDFD, Soft Blue \u2013 #A5C9EA, Glass Grey \u2013 #DCE4EC, Light Shadow Grey \u2013 #BCCDD6.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E8F4F8'/><stop offset='100%' stop-color='#C5E5F9'/></linearGradient><linearGradient id='milkGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F0F8FF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><g opacity='0.6'><circle cx='200' cy='200' r='160' fill='url(#milkGrad)' opacity='0.3'/><circle cx='880' cy='200' r='120' fill='url(#milkGrad)' opacity='0.3'/><circle cx='200' cy='880' r='140' fill='url(#milkGrad)' opacity='0.3'/><circle cx='880' cy='880' r='100' fill='url(#milkGrad)' opacity='0.3'/></g><g opacity='0.8'><path d='M0,650 C180,600 360,700 540,650 C720,600 900,700 1080,650 L1080,1080 L0,1080 Z' fill='#84B6D9' opacity='0.2'/></g><g><circle cx='150' cy='350' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='180' cy='350' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='210' cy='350' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='150' cy='380' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='180' cy='380' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='210' cy='380' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='900' cy='700' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='930' cy='700' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='900' cy='730' r='6' fill='#84B6D9' opacity='0.6'/><circle cx='930' cy='730' r='6' fill='#84B6D9' opacity='0.6'/></g><g opacity='0.1'><path d='M0,0 L1080,0 L1080,200 Q540,350 0,200 Z' fill='#FFFFFF'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 43.245000000000005,
+                "width": 993.51,
+                "height": 107.35,
+                "fill": "#1A5276",
+                "text": "FARM FRESH ORGANIC MILK",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 170.27999999999997,
+                "width": 739.44,
+                "height": 45.2,
+                "fill": "#2980B9",
+                "text": "Pure Goodness in Every Drop",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 254.47499999999997,
+                "left": 348.875,
+                "width": 382.25000000000006,
+                "height": 501.05000000000007,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/K1V49V-MCMFqXZHDzwZgS_695x911.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 196.815,
+                "width": 686.37,
+                "height": 62.15,
+                "fill": "#2E4053",
+                "text": "100% Pure & Natural \u2022 Rich in Calcium & Vitamin D \u2022 No Hormones\nFarm-to-Table Freshness \u2022 Pasteurized for Safety \u2022 High in Protein",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 875,
+                "left": 428.68,
+                "width": 222.64,
+                "height": 90.4,
+                "fill": "#1A5276",
+                "text": "\u20b9 899",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#1A5276",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 985,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Farm Fresh Organic Whole Milk - Pure Goodness in Every Drop",
+            "description": "\u2022 100% Pure & Natural Whole Milk\n\u2022 Rich in Essential Calcium and Vitamin D\n\u2022 No Artificial Hormones or Preservatives\n\u2022 Creamy, Fresh Taste\n\u2022 Perfect for Drinking, Cooking, and Baking\n\u2022 Available in Multiple Sizes - Bottle and Pitcher Options\n\u2022 Farm-to-Table Freshness Guaranteed\n\u2022 Pasteurized for Safety\n\u2022 High in Protein and Natural Nutrients\n\u2022 Ideal for Growing Children and Active Adults",
+            "price": "\u20b9899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/K1V49V-MCMFqXZHDzwZgS_695x911.png",
+        "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner showcases a clean, modern design promoting a dairy product with a fresh and organic theme. The background features a soft, gradient blend of light blues (`#E8F4F8` to `#C5E5F9`) with subtle geometric and wave accents to enhance visual interest without distraction. The main focal point is a central product image (`product_image`), featuring various milk containers with a glossy and natural aesthetic.\n\nAt the top, the bold headline (`heading`) uses strong sans-serif typography in deep navy (`#1A5276`), followed by a lighter blue subheading (`subheading`) conveying purity and quality. Below the image, a detailed description (`description`) in a legible serif typeface highlights the health benefits in bullet style.\n\nThe price callout (`price`) is prominently displayed in large, strong navy typography, and is followed by a clearly defined call-to-action button (`cta_background` and `cta`) with white-on-navy text to draw attention and encourage interaction.\n\n**Color Palette:**\n- Navy Blue: `#1A5276`\n- Light Sky Blue: `#84B6D9`\n- Accent Blue: `#2980B9`\n- Pale Blue Gradient: `#E8F4F8` to `#C5E5F9`\n- White: `#FFFFFF`\n- Text Grey: `#2E4053`\n",
+    "product_color": "\nThe product image uses a clean, fresh color palette centered around cool whites and soft blues, conveying purity and freshness\u2014ideal for promoting dairy. The milk appears in a pure white shade, contrasted beautifully by the transparent glass containers with highlights of sky blue. This blue tint is especially evident at the neck and rim of the bottle and pitcher, subtly blending with the white milk to emphasize freshness and coolness. These tones are harmonious and minimalistic, making the product visually appealing. Suggested hex codes: Milky White \u2013 #FDFDFD, Soft Blue \u2013 #A5C9EA, Glass Grey \u2013 #DCE4EC, Light Shadow Grey \u2013 #BCCDD6.\n"
+}

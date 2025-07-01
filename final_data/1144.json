@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#e8f5e9'/><stop offset='100%' stop-color='#c8e6c9'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#7b1fa2' stop-opacity='0.2'/><stop offset='100%' stop-color='#388e3c' stop-opacity='0.2'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><g opacity='0.6'><path d='M0,300 C200,250 400,350 600,300 S800,200 1080,250 L1080,0 L0,0 Z' fill='url(#accentGrad)'/><path d='M0,800 C250,750 450,850 650,800 S850,700 1080,750 L1080,1080 L0,1080 Z' fill='url(#accentGrad)'/></g><g opacity='0.3'><circle cx='540' cy='540' r='300' fill='#81c784' opacity='0.2'/><circle cx='540' cy='540' r='200' fill='#81c784' opacity='0.3'/></g><g opacity='0.3'><path d='M200,100 Q300,150 250,250 T300,300 Q350,350 300,400 T350,450' stroke='#388e3c' stroke-width='3' fill='none'/><path d='M850,100 Q750,150 800,250 T750,300 Q700,350 750,400 T700,450' stroke='#7b1fa2' stroke-width='3' fill='none'/><path d='M200,980 Q300,930 250,830 T300,780 Q350,730 300,680 T350,630' stroke='#388e3c' stroke-width='3' fill='none'/><path d='M850,980 Q750,930 800,830 T750,780 Q700,730 750,680 T700,630' stroke='#7b1fa2' stroke-width='3' fill='none'/></g><g opacity='0.3'><circle cx='150' cy='150' r='5' fill='#388e3c'/><circle cx='180' cy='180' r='3' fill='#388e3c'/><circle cx='900' cy='150' r='5' fill='#7b1fa2'/><circle cx='870' cy='180' r='3' fill='#7b1fa2'/><circle cx='150' cy='930' r='5' fill='#388e3c'/><circle cx='180' cy='900' r='3' fill='#388e3c'/><circle cx='900' cy='930' r='5' fill='#7b1fa2'/><circle cx='870' cy='900' r='3' fill='#7b1fa2'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 196.35000000000002, "width": 687.3, "height": 79.1, "fill": "#2e7d32", "text": "AROMATHERAPY OILS", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 140.14999999999998, "width": 799.7, "height": 45.2, "fill": "#6a1b9a", "text": "THE MANI PEDI ESSENTIALS", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 260.15, "left": 227.7, "width": 694, "height": 533, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/-kvK_HgS3XfdcdX_Kvvbj_694x533.png", "id": "product_image"}, {"type": "text", "top": 770, "left": 24.664999999999964, "width": 1030.67, "height": 30.51, "fill": "#424242", "text": "100% Pure Classic Fragrances: Lavender, Eucalyptus, Jasmine, Lemon, and Palmarose", "fontSize": 27, "fontFamily": "Fira Sans Bold", "textAlign": "center", "id": "description_1"}, {"type": "text", "top": 835, "left": 253.33999999999997, "width": 573.32, "height": 33.9, "fill": "#424242", "text": "Generous 1-Liter Size for Long-lasting Use", "fontSize": 30, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description_2"}, {"type": "text", "top": 890, "left": 456.26, "width": 167.48, "height": 67.8, "fill": "#6a1b9a", "text": "\u20b9 200", "fontSize": 60, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 970, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#388e3c", "rx": 0, "ry": 0, "id": "cta_button_background"}, {"type": "text", "top": 985, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#ffffff", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Aromatherapy Diffuser Oils Collection | The MANI PEDI Essentials", "description": "\u2022 100% Pure Classic Fragrances: Lavender, Eucalyptus, Jasmine, Lemon, and Palmarose\n\u2022 Generous 1-Liter Size for Long-lasting Use\n", "price": "\u20b9200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/-kvK_HgS3XfdcdX_Kvvbj_694x533.png", "marketplace_url": "blob:https://studio.phot.ai/ffe0d120-5d4a-4491-b9b3-66f32785e663", "layout": "centered_hero"}, "banner_details": "\nThe banner showcases a clean and calming design centered around aromatherapy oils. It features a gently blended green gradient background with soft abstract wave and swirl motifs, evoking freshness and relaxation. The main visual component is a centered image of six aluminum diffuser oil bottles in various scents, scaled proportionally and neatly arranged to highlight product variety. The text elements include a bold green main heading (\"heading\"), a sleek purple subheading (\"subheading\"), and two informative descriptions (\"description_1\", \"description_2\") in dark gray for clarity. A prominent purple price (\"price\") and a green rectangular call-to-action button (\"cta\") complete the layout, ensuring clear visual hierarchy.\n\n**Color Palette:**\n- Forest Green (#2e7d32, #388e3c)\n- Soft Purple (#6a1b9a, #7b1fa2)\n- Light Mint Green (#e8f5e9)\n- Pale Green Gradient (#c8e6c9)\n- Dark Gray (#424242)\n- Pure White (#ffffff)\n\n", "product_color": "  \nThe product image showcases a sleek, metallic silver bottle design that reflects light beautifully, giving a premium feel. Each fragrance variant is marked by a unique vibrant color: deep brown (#4E3524) for Palmarosa, lavender purple (#6F5499) for Lavender, olive green (#4A6C41) for Eucalyptus, bright green (#51A234) for Jasmine, and fresh teal-green (#00A68B) for Lemon. The white background enhances the clarity and cleanliness, complementing the bold text and accent hues. The metallic silver (#C0C0C0) serves as a neutral base, allowing each color to pop while seamlessly blending into the uniform branding. This palette communicates freshness, wellness, and natural luxury.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#e8f5e9'/><stop offset='100%' stop-color='#c8e6c9'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#7b1fa2' stop-opacity='0.2'/><stop offset='100%' stop-color='#388e3c' stop-opacity='0.2'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><g opacity='0.6'><path d='M0,300 C200,250 400,350 600,300 S800,200 1080,250 L1080,0 L0,0 Z' fill='url(#accentGrad)'/><path d='M0,800 C250,750 450,850 650,800 S850,700 1080,750 L1080,1080 L0,1080 Z' fill='url(#accentGrad)'/></g><g opacity='0.3'><circle cx='540' cy='540' r='300' fill='#81c784' opacity='0.2'/><circle cx='540' cy='540' r='200' fill='#81c784' opacity='0.3'/></g><g opacity='0.3'><path d='M200,100 Q300,150 250,250 T300,300 Q350,350 300,400 T350,450' stroke='#388e3c' stroke-width='3' fill='none'/><path d='M850,100 Q750,150 800,250 T750,300 Q700,350 750,400 T700,450' stroke='#7b1fa2' stroke-width='3' fill='none'/><path d='M200,980 Q300,930 250,830 T300,780 Q350,730 300,680 T350,630' stroke='#388e3c' stroke-width='3' fill='none'/><path d='M850,980 Q750,930 800,830 T750,780 Q700,730 750,680 T700,630' stroke='#7b1fa2' stroke-width='3' fill='none'/></g><g opacity='0.3'><circle cx='150' cy='150' r='5' fill='#388e3c'/><circle cx='180' cy='180' r='3' fill='#388e3c'/><circle cx='900' cy='150' r='5' fill='#7b1fa2'/><circle cx='870' cy='180' r='3' fill='#7b1fa2'/><circle cx='150' cy='930' r='5' fill='#388e3c'/><circle cx='180' cy='900' r='3' fill='#388e3c'/><circle cx='900' cy='930' r='5' fill='#7b1fa2'/><circle cx='870' cy='900' r='3' fill='#7b1fa2'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 196.35000000000002,
+                "width": 687.3,
+                "height": 79.1,
+                "fill": "#2e7d32",
+                "text": "AROMATHERAPY OILS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 140.14999999999998,
+                "width": 799.7,
+                "height": 45.2,
+                "fill": "#6a1b9a",
+                "text": "THE MANI PEDI ESSENTIALS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 260.15,
+                "left": 227.7,
+                "width": 624.6,
+                "height": 479.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/-kvK_HgS3XfdcdX_Kvvbj_694x533.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 24.664999999999964,
+                "width": 1030.67,
+                "height": 30.51,
+                "fill": "#424242",
+                "text": "100% Pure Classic Fragrances: Lavender, Eucalyptus, Jasmine, Lemon, and Palmarose",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "center",
+                "id": "description_1"
+            },
+            {
+                "type": "text",
+                "top": 835,
+                "left": 253.33999999999997,
+                "width": 573.32,
+                "height": 33.9,
+                "fill": "#424242",
+                "text": "Generous 1-Liter Size for Long-lasting Use",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description_2"
+            },
+            {
+                "type": "text",
+                "top": 890,
+                "left": 456.26,
+                "width": 167.48,
+                "height": 67.8,
+                "fill": "#6a1b9a",
+                "text": "\u20b9 200",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#388e3c",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 985,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#ffffff",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Aromatherapy Diffuser Oils Collection | The MANI PEDI Essentials",
+            "description": "\u2022 100% Pure Classic Fragrances: Lavender, Eucalyptus, Jasmine, Lemon, and Palmarose\n\u2022 Generous 1-Liter Size for Long-lasting Use\n",
+            "price": "\u20b9200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/-kvK_HgS3XfdcdX_Kvvbj_694x533.png",
+        "marketplace_url": "blob:https://studio.phot.ai/ffe0d120-5d4a-4491-b9b3-66f32785e663",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner showcases a clean and calming design centered around aromatherapy oils. It features a gently blended green gradient background with soft abstract wave and swirl motifs, evoking freshness and relaxation. The main visual component is a centered image of six aluminum diffuser oil bottles in various scents, scaled proportionally and neatly arranged to highlight product variety. The text elements include a bold green main heading (\"heading\"), a sleek purple subheading (\"subheading\"), and two informative descriptions (\"description_1\", \"description_2\") in dark gray for clarity. A prominent purple price (\"price\") and a green rectangular call-to-action button (\"cta\") complete the layout, ensuring clear visual hierarchy.\n\n**Color Palette:**\n- Forest Green (#2e7d32, #388e3c)\n- Soft Purple (#6a1b9a, #7b1fa2)\n- Light Mint Green (#e8f5e9)\n- Pale Green Gradient (#c8e6c9)\n- Dark Gray (#424242)\n- Pure White (#ffffff)\n\n",
+    "product_color": "  \nThe product image showcases a sleek, metallic silver bottle design that reflects light beautifully, giving a premium feel. Each fragrance variant is marked by a unique vibrant color: deep brown (#4E3524) for Palmarosa, lavender purple (#6F5499) for Lavender, olive green (#4A6C41) for Eucalyptus, bright green (#51A234) for Jasmine, and fresh teal-green (#00A68B) for Lemon. The white background enhances the clarity and cleanliness, complementing the bold text and accent hues. The metallic silver (#C0C0C0) serves as a neutral base, allowing each color to pop while seamlessly blending into the uniform branding. This palette communicates freshness, wellness, and natural luxury.  \n"
+}

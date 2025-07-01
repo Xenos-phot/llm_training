@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#E5E5E5'/><rect x='0' y='0' width='540' height='540' fill='#4682B4'/><rect x='540' y='0' width='540' height='540' fill='#3A6A9B'/><rect x='0' y='540' width='540' height='540' fill='#3A6A9B'/><rect x='540' y='540' width='540' height='540' fill='#F8F8F8'/><g opacity='0.1'><path d='M0 100 L1080 100' stroke='#FFFFFF' stroke-width='2'/><path d='M0 200 L1080 200' stroke='#FFFFFF' stroke-width='2'/><path d='M0 300 L1080 300' stroke='#FFFFFF' stroke-width='2'/><path d='M0 400 L1080 400' stroke='#FFFFFF' stroke-width='2'/><path d='M0 500 L1080 500' stroke='#FFFFFF' stroke-width='2'/><path d='M0 600 L1080 600' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 800 L1080 800' stroke='#FFFFFF' stroke-width='2'/><path d='M0 900 L1080 900' stroke='#FFFFFF' stroke-width='2'/><path d='M0 1000 L1080 1000' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.1'><path d='M100 0 L100 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M200 0 L200 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M300 0 L300 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M400 0 L400 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M500 0 L500 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M600 0 L600 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M800 0 L800 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M900 0 L900 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M1000 0 L1000 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='270' cy='270' r='200' fill='#5A8DC9' opacity='0.3'/><circle cx='810' cy='810' r='150' fill='#4682B4' opacity='0.1'/><g transform='translate(700, 100)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><path d='M0 540 L1080 540' stroke='#DDD' stroke-width='1'/><path d='M540 0 L540 1080' stroke='#DDD' stroke-width='1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 511.42, "height": 237.3, "fill": "#FFFFFF", "text": "REVOLUTIONIZE\nYOUR DRYING\nEXPERIENCE", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 50, "width": 412.36, "height": 54.24, "fill": "#E0E0E0", "text": "EFFORTLESS, EFFICIENT,\nEXCEPTIONAL", "fontSize": 24, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 590, "left": 50, "width": 351.93, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 Multiple Drying Cycles\n\u2022 Energy-Efficient Operation\n\u2022 Moisture Sensing Technology\n\u2022 Large Capacity Drum", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "features"}, {"type": "text", "top": 758, "left": 696, "width": 219.3, "height": 113, "fill": "#333333", "text": "$234", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 912, "left": 712, "width": 210, "height": 60, "fill": "#4682B4", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 931, "left": 728, "width": 180.88, "height": 24.86, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 22, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 24, "left": 631, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/m9KtHG0ZRBPM1LHvYVnml_899x1336.png", "id": "product_image"}, {"type": "text", "top": 558, "left": 649, "width": 282.82, "height": 54.24, "fill": "#333333", "text": "INSIGNIA\u2122 HIGH-EFFICIENCY\nDIGITAL FRONT LOAD DRYER", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "product_name"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia\u2122 High-Efficiency Digital Front Load Dryer - Modern Laundry Solution", "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Multiple drying cycles including Normal, Heavy Duty, Delicates, and Quick Dry\n\u2022 Large capacity drum with spacious interior for family-sized loads\n\u2022 LED digital display shows remaining time and cycle status\n\u2022 Easy-to-use control dial with multiple temperature settings\n\u2022 Energy-efficient operation to help reduce utility costs\n\u2022 Convenient maintenance access panel for easy cleaning and service\n\u2022 Ventilation system with proper airflow management\n\u2022 Durable construction with premium finish\n\u2022 Compact yet powerful design perfect for apartments and homes\n\u2022 Clear viewing window to monitor drying progress\n\u2022 Advanced moisture sensing technology for optimal drying results", "price": "$234"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/m9KtHG0ZRBPM1LHvYVnml_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/3ff4610e-59ef-4bb6-ada8-046cdf5dcd32", "layout": "grid_four"}, "banner_details": "\nThis square promotional banner is designed using a quadrant layout with a modern and clean aesthetic, ideal for showcasing home appliances. It features a bold and eye-catching headline (`heading`) on the top-left quadrant over a steel-blue background, complemented by a sleek tagline (`tagline`) beneath it in a lighter grey-blue font. Just below, a bulleted list (`features`) showcases four key features in white, enhancing readability against the blue grid pattern. The top-right section features a product image (`product_image`), with the product title (`product_name`) below it. The bottom-right quadrant highlights a large price tag (`price`) centered over a subtle circular motif, accompanied by a prominent rectangular call-to-action button (`cta_button`) labeled with text (`cta`).\n\n**Color Palette:**\n- Steel Blue: `#4682B4`\n- Midnight Blue: `#3A6A9B`\n- Light Gray: `#E5E5E5`\n- White: `#FFFFFF`\n- Dark Gray Text: `#333333`\n- CTA Button Blue: `#4682B4`\n", "product_color": "\nThe product image presents a sleek and modern washing machine featuring a minimalist color palette dominated by bright white (#FFFFFF), matte black (#1A1A1A), and steel gray (#4F4F4F). The machine\u2019s body is primarily a clean white, providing a crisp and premium look. The door and digital panel frame are deep black, creating strong contrast and drawing attention to the functional elements. Subtle hints of color on the control dial\u2014blue (#1E90FF), red (#FF4500), and light gray (#D3D3D3)\u2014inject vibrancy while guiding user interaction. These carefully blended yet contrasted colors balance elegance and clarity, making this palette ideal for a clean, tech-focused advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#E5E5E5'/><rect x='0' y='0' width='540' height='540' fill='#4682B4'/><rect x='540' y='0' width='540' height='540' fill='#3A6A9B'/><rect x='0' y='540' width='540' height='540' fill='#3A6A9B'/><rect x='540' y='540' width='540' height='540' fill='#F8F8F8'/><g opacity='0.1'><path d='M0 100 L1080 100' stroke='#FFFFFF' stroke-width='2'/><path d='M0 200 L1080 200' stroke='#FFFFFF' stroke-width='2'/><path d='M0 300 L1080 300' stroke='#FFFFFF' stroke-width='2'/><path d='M0 400 L1080 400' stroke='#FFFFFF' stroke-width='2'/><path d='M0 500 L1080 500' stroke='#FFFFFF' stroke-width='2'/><path d='M0 600 L1080 600' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 800 L1080 800' stroke='#FFFFFF' stroke-width='2'/><path d='M0 900 L1080 900' stroke='#FFFFFF' stroke-width='2'/><path d='M0 1000 L1080 1000' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.1'><path d='M100 0 L100 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M200 0 L200 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M300 0 L300 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M400 0 L400 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M500 0 L500 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M600 0 L600 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M800 0 L800 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M900 0 L900 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M1000 0 L1000 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='270' cy='270' r='200' fill='#5A8DC9' opacity='0.3'/><circle cx='810' cy='810' r='150' fill='#4682B4' opacity='0.1'/><g transform='translate(700, 100)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><path d='M0 540 L1080 540' stroke='#DDD' stroke-width='1'/><path d='M540 0 L540 1080' stroke='#DDD' stroke-width='1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 511.42,
+                "height": 237.3,
+                "fill": "#FFFFFF",
+                "text": "REVOLUTIONIZE\nYOUR DRYING\nEXPERIENCE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 50,
+                "width": 412.36,
+                "height": 54.24,
+                "fill": "#E0E0E0",
+                "text": "EFFORTLESS, EFFICIENT,\nEXCEPTIONAL",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 590,
+                "left": 50,
+                "width": 351.93,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Multiple Drying Cycles\n\u2022 Energy-Efficient Operation\n\u2022 Moisture Sensing Technology\n\u2022 Large Capacity Drum",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 758,
+                "left": 696,
+                "width": 219.3,
+                "height": 113,
+                "fill": "#333333",
+                "text": "$234",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 912,
+                "left": 712,
+                "width": 210,
+                "height": 60,
+                "fill": "#4682B4",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 931,
+                "left": 728,
+                "width": 180.88,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 24,
+                "left": 631,
+                "width": 341.62,
+                "height": 507.68,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/m9KtHG0ZRBPM1LHvYVnml_899x1336.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 558,
+                "left": 649,
+                "width": 282.82,
+                "height": 54.24,
+                "fill": "#333333",
+                "text": "INSIGNIA\u2122 HIGH-EFFICIENCY\nDIGITAL FRONT LOAD DRYER",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia\u2122 High-Efficiency Digital Front Load Dryer - Modern Laundry Solution",
+            "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Multiple drying cycles including Normal, Heavy Duty, Delicates, and Quick Dry\n\u2022 Large capacity drum with spacious interior for family-sized loads\n\u2022 LED digital display shows remaining time and cycle status\n\u2022 Easy-to-use control dial with multiple temperature settings\n\u2022 Energy-efficient operation to help reduce utility costs\n\u2022 Convenient maintenance access panel for easy cleaning and service\n\u2022 Ventilation system with proper airflow management\n\u2022 Durable construction with premium finish\n\u2022 Compact yet powerful design perfect for apartments and homes\n\u2022 Clear viewing window to monitor drying progress\n\u2022 Advanced moisture sensing technology for optimal drying results",
+            "price": "$234"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/m9KtHG0ZRBPM1LHvYVnml_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/3ff4610e-59ef-4bb6-ada8-046cdf5dcd32",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis square promotional banner is designed using a quadrant layout with a modern and clean aesthetic, ideal for showcasing home appliances. It features a bold and eye-catching headline (`heading`) on the top-left quadrant over a steel-blue background, complemented by a sleek tagline (`tagline`) beneath it in a lighter grey-blue font. Just below, a bulleted list (`features`) showcases four key features in white, enhancing readability against the blue grid pattern. The top-right section features a product image (`product_image`), with the product title (`product_name`) below it. The bottom-right quadrant highlights a large price tag (`price`) centered over a subtle circular motif, accompanied by a prominent rectangular call-to-action button (`cta_button`) labeled with text (`cta`).\n\n**Color Palette:**\n- Steel Blue: `#4682B4`\n- Midnight Blue: `#3A6A9B`\n- Light Gray: `#E5E5E5`\n- White: `#FFFFFF`\n- Dark Gray Text: `#333333`\n- CTA Button Blue: `#4682B4`\n",
+    "product_color": "\nThe product image presents a sleek and modern washing machine featuring a minimalist color palette dominated by bright white (#FFFFFF), matte black (#1A1A1A), and steel gray (#4F4F4F). The machine\u2019s body is primarily a clean white, providing a crisp and premium look. The door and digital panel frame are deep black, creating strong contrast and drawing attention to the functional elements. Subtle hints of color on the control dial\u2014blue (#1E90FF), red (#FF4500), and light gray (#D3D3D3)\u2014inject vibrancy while guiding user interaction. These carefully blended yet contrasted colors balance elegance and clarity, making this palette ideal for a clean, tech-focused advertisement banner.\n"
+}

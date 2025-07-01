@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F6F2ED'/><rect x='0' y='640' width='1080' height='440' fill='#8C6E5D' opacity='0.08'/><rect x='750' y='0' width='330' height='1080' fill='#8C6E5D' opacity='0.05'/><rect x='750' y='0' width='5' height='1080' fill='#8C6E5D' opacity='0.2'/><rect x='0' y='640' width='1080' height='5' fill='#8C6E5D' opacity='0.2'/><circle cx='900' cy='200' r='120' fill='#8C6E5D' opacity='0.05'/><circle cx='200' cy='800' r='150' fill='#8C6E5D' opacity='0.08'/><path d='M0 1080 L1080 640 L1080 1080 Z' fill='#8C6E5D' opacity='0.03'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 686.54, "height": 213.57, "fill": "#65483A", "text": "MODERN LIFT\nCOFFEE TABLE", "fontSize": 90, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 290, "left": 60, "width": 522.5, "height": 67.8, "fill": "#8C6E5D", "text": "HIDDEN STORAGE", "fontSize": 60, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 60, "width": 377.73, "height": 174.02, "fill": "#4A3A32", "text": "\u2022 Adjustable Height 19\" to 24.5\"\n\u2022 Hidden Compartment & Lift Top\n\u2022 3-Section Storage Design\n\u2022 Modern White with Wood Top", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "image", "top": 369.53499999999997, "left": 482.77500000000003, "width": 479, "height": 375, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/35d4beb5-962f-4a9d-a369-d5cbd21c8c56_nobg_479x375.png", "id": "product_image"}, {"type": "text", "top": 780, "left": 60, "width": 395.71, "height": 101.7, "fill": "#8C6E5D", "text": "$104.99", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 60, "width": 220, "height": 70, "fill": "#65483A", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 942, "left": 107, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **", "price": "104.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/35d4beb5-962f-4a9d-a369-d5cbd21c8c56_nobg_479x375.png", "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW", "layout": "z_pattern"}, "banner_details": "\nThis banner features a clean and modern design promoting a home furniture product. The central focus is a high-resolution product image positioned on the right, enhanced by subtle overlapping geometrics and soft rectangular segmentations in the background. The primary headline (`heading`) is bold, uppercase, and left-aligned, followed by a prominent subheading (`subheading`) that reinforces the main message. A concise product detail block (`description`) in list format resides beneath, offering informative specifications. The price (`price`) is bold and noticeable at the bottom left, accompanied by a call-to-action button (`cta`) with contrasting rounded rectangle background (`cta_background`). The overall layout maintains balance, drawing attention smoothly from product image to price and CTA.\n\n**Color Palette**:\n- Soft Cream (#F6F2ED) \u2013 Background\n- Warm Cocoa Brown (#8C6E5D) \u2013 Text accents & design shapes\n- Deep Mocha (#65483A) \u2013 Headings & CTA background\n- Rich Chocolate (#4A3A32) \u2013 Descriptions\n- Pure White (#FFFFFF) \u2013 CTA Text\n", "product_color": "\nThe product image showcases a modern, multifunctional coffee table with a clean and minimalist aesthetic. The color palette is primarily neutral, highlighting a refined contrast between crisp white (#FFFFFF) for the storage base and a rich walnut brown (#6F4E37) for the lift-top surface. Accents such as muted beige (#D8CAB8), soft gray (#B0B0B0), and sage green (#A3B18A) from the books and decor add warmth and visual interest. These tones are subtly blended, with the darker wood drawing focus, while the white structure keeps the design fresh and light. This balanced palette lends itself well for sleek, modern advertising banners.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F6F2ED'/><rect x='0' y='640' width='1080' height='440' fill='#8C6E5D' opacity='0.08'/><rect x='750' y='0' width='330' height='1080' fill='#8C6E5D' opacity='0.05'/><rect x='750' y='0' width='5' height='1080' fill='#8C6E5D' opacity='0.2'/><rect x='0' y='640' width='1080' height='5' fill='#8C6E5D' opacity='0.2'/><circle cx='900' cy='200' r='120' fill='#8C6E5D' opacity='0.05'/><circle cx='200' cy='800' r='150' fill='#8C6E5D' opacity='0.08'/><path d='M0 1080 L1080 640 L1080 1080 Z' fill='#8C6E5D' opacity='0.03'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 686.54,
+                "height": 213.57,
+                "fill": "#65483A",
+                "text": "MODERN LIFT\nCOFFEE TABLE",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 60,
+                "width": 522.5,
+                "height": 67.8,
+                "fill": "#8C6E5D",
+                "text": "HIDDEN STORAGE",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 60,
+                "width": 377.73,
+                "height": 174.02,
+                "fill": "#4A3A32",
+                "text": "\u2022 Adjustable Height 19\" to 24.5\"\n\u2022 Hidden Compartment & Lift Top\n\u2022 3-Section Storage Design\n\u2022 Modern White with Wood Top",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 369.53499999999997,
+                "left": 482.77500000000003,
+                "width": 560.43,
+                "height": 438.75,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/35d4beb5-962f-4a9d-a369-d5cbd21c8c56_nobg_479x375.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 60,
+                "width": 395.71,
+                "height": 101.7,
+                "fill": "#8C6E5D",
+                "text": "$104.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#65483A",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 942,
+                "left": 107,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **",
+            "price": "104.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/35d4beb5-962f-4a9d-a369-d5cbd21c8c56_nobg_479x375.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner features a clean and modern design promoting a home furniture product. The central focus is a high-resolution product image positioned on the right, enhanced by subtle overlapping geometrics and soft rectangular segmentations in the background. The primary headline (`heading`) is bold, uppercase, and left-aligned, followed by a prominent subheading (`subheading`) that reinforces the main message. A concise product detail block (`description`) in list format resides beneath, offering informative specifications. The price (`price`) is bold and noticeable at the bottom left, accompanied by a call-to-action button (`cta`) with contrasting rounded rectangle background (`cta_background`). The overall layout maintains balance, drawing attention smoothly from product image to price and CTA.\n\n**Color Palette**:\n- Soft Cream (#F6F2ED) \u2013 Background\n- Warm Cocoa Brown (#8C6E5D) \u2013 Text accents & design shapes\n- Deep Mocha (#65483A) \u2013 Headings & CTA background\n- Rich Chocolate (#4A3A32) \u2013 Descriptions\n- Pure White (#FFFFFF) \u2013 CTA Text\n",
+    "product_color": "\nThe product image showcases a modern, multifunctional coffee table with a clean and minimalist aesthetic. The color palette is primarily neutral, highlighting a refined contrast between crisp white (#FFFFFF) for the storage base and a rich walnut brown (#6F4E37) for the lift-top surface. Accents such as muted beige (#D8CAB8), soft gray (#B0B0B0), and sage green (#A3B18A) from the books and decor add warmth and visual interest. These tones are subtly blended, with the darker wood drawing focus, while the white structure keeps the design fresh and light. This balanced palette lends itself well for sleek, modern advertising banners.\n"
+}

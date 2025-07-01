@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#E8E3DF'/><rect x='540' y='0' width='540' height='540' fill='#D8C3B8'/><rect x='0' y='540' width='540' height='540' fill='#634941'/><rect x='540' y='540' width='540' height='540' fill='#3A2E2B'/><g opacity='0.15'><path d='M0,0 L1080,1080' stroke='#5D4037' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#5D4037' stroke-width='2'/></g><circle cx='270' cy='270' r='180' fill='#C2A592' opacity='0.15'/><circle cx='810' cy='810' r='180' fill='#967969' opacity='0.15'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='4' fill='#67463A'/><circle cx='15' cy='0' r='4' fill='#67463A'/><circle cx='30' cy='0' r='4' fill='#67463A'/><circle cx='45' cy='0' r='4' fill='#67463A'/><circle cx='60' cy='0' r='4' fill='#67463A'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='4' fill='#D7CFC9'/><circle cx='15' cy='0' r='4' fill='#D7CFC9'/><circle cx='30' cy='0' r='4' fill='#D7CFC9'/><circle cx='45' cy='0' r='4' fill='#D7CFC9'/><circle cx='60' cy='0' r='4' fill='#D7CFC9'/></g><path d='M80,80 C120,40 160,40 200,80 S280,120 320,80' stroke='#9E8074' stroke-width='2' fill='none' opacity='0.5'/><path d='M760,760 C800,720 840,720 880,760 S960,800 1000,760' stroke='#D7CFC9' stroke-width='2' fill='none' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 353.22, "height": 245.21, "fill": "#3A2E2B", "text": "ELEGANT\nTWO-TONE\nHOBO BAG", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 60, "width": 479.47, "height": 31.64, "fill": "#67463A", "text": "LUXURY LEATHER TOTE", "fontSize": 28, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 630, "left": 60, "width": 444.72, "height": 188.03, "fill": "#F5F5F5", "text": "\u2022 Premium Black & Brown Leather\n\u2022 Spacious Main Compartment\n\u2022 Exterior Slip Pockets\n\u2022 Gold-Tone Hardware", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 720, "left": 580, "width": 323.57, "height": 101.7, "fill": "#F5F5F5", "text": "\u20b91,550", "fontSize": 90, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 850, "left": 580, "width": 240, "height": 65, "fill": "#C2A592", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 865, "left": 625, "width": 166.27, "height": 36.16, "fill": "#3A2E2B", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 60, "left": 530, "width": 919, "height": 1247, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/yvFAWfjhiieQopVMMHLB8_919x1247.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegant Two-Tone Designer Hobo Bag - Black & Brown Leather Shoulder Tote with Exterior Pockets", "description": "\u2022 Premium dual-color leather design combining classic black and rich brown\n\u2022 Spacious main compartment with generous interior storage\n\u2022 Convenient exterior slip pockets on both sides for easy access\n\u2022 Durable gold-tone hardware and sturdy shoulder strap\n\u2022 High-quality stitching and professional craftsmanship\n\u2022 Modern minimalist aesthetic perfect for work and casual use\n\u2022 Versatile size suitable for daily essentials\n\u2022 Sleek, contemporary color-block design\n\u2022 Easy-access open top design\n\u2022 Smooth leather finish with elegant sheen\n\u2022 Professional look ideal for office and business settings\n\u2022 Lightweight yet sturdy construction for everyday use", "price": "\u20b91550"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/yvFAWfjhiieQopVMMHLB8_919x1247.png", "marketplace_url": "blob:https://studio.phot.ai/b2610882-501d-4924-b540-1b5e59dc14d9", "layout": "diagonal_split"}, "banner_details": "\nThis banner advertises a premium two-tone leather hobo bag with a clean and professional layout divided into four equal quadrants. The top-left and top-right sections have soft beige and tan backgrounds, overlaid with the bold, uppercase **heading** and elegant **subheading** emphasizing luxury. The product image is centrally placed, overlapping the top sections, giving a dynamic and modern look. The lower-left quadrant includes the **description** text as bullet points, presenting the product features clearly in white. The bottom-right quadrant showcases a highlighted **price**, placed near a capsule-shaped **CTA button** labeled via the **cta** text. Subtle diagonal lines, decorative circles, and curves enhance sophistication without distracting.\n\n**Color Palette:**\n- Soft Beige (#F5F5F5)\n- Creamy Tan (#E8E3DF)\n- Warm Taupe (#D8C3B8)\n- Rich Mocha Brown (#634941)\n- Deep Espresso (#3A2E2B)\n- Accent Nude (#C2A592)\n- Muted Clay (#67463A)\n", "product_color": "  \nThe product image showcases a two-tone leather handbag featuring a sophisticated color blend of deep black and rich maroon brown, joined at the center seam. The use of matte finishes amplifies the bag's luxurious texture while highlighting the transitional contrast between these tones. The handle is a muted rose-brown shade, offering a soft, blended accent that connects both main colors harmoniously. Accents of gold in the hardware subtly enhance the overall design without overpowering it. Ideal colors for the advertisement banner include Black (#2A2B2D), Maroon Brown (#5C2C24), Rose Brown (#8C5C51), and Gold Accent (#D4AF37), evoking elegance and minimalism.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#E8E3DF'/><rect x='540' y='0' width='540' height='540' fill='#D8C3B8'/><rect x='0' y='540' width='540' height='540' fill='#634941'/><rect x='540' y='540' width='540' height='540' fill='#3A2E2B'/><g opacity='0.15'><path d='M0,0 L1080,1080' stroke='#5D4037' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#5D4037' stroke-width='2'/></g><circle cx='270' cy='270' r='180' fill='#C2A592' opacity='0.15'/><circle cx='810' cy='810' r='180' fill='#967969' opacity='0.15'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='4' fill='#67463A'/><circle cx='15' cy='0' r='4' fill='#67463A'/><circle cx='30' cy='0' r='4' fill='#67463A'/><circle cx='45' cy='0' r='4' fill='#67463A'/><circle cx='60' cy='0' r='4' fill='#67463A'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='4' fill='#D7CFC9'/><circle cx='15' cy='0' r='4' fill='#D7CFC9'/><circle cx='30' cy='0' r='4' fill='#D7CFC9'/><circle cx='45' cy='0' r='4' fill='#D7CFC9'/><circle cx='60' cy='0' r='4' fill='#D7CFC9'/></g><path d='M80,80 C120,40 160,40 200,80 S280,120 320,80' stroke='#9E8074' stroke-width='2' fill='none' opacity='0.5'/><path d='M760,760 C800,720 840,720 880,760 S960,800 1000,760' stroke='#D7CFC9' stroke-width='2' fill='none' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 353.22,
+                "height": 245.21,
+                "fill": "#3A2E2B",
+                "text": "ELEGANT\nTWO-TONE\nHOBO BAG",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 60,
+                "width": 479.47,
+                "height": 31.64,
+                "fill": "#67463A",
+                "text": "LUXURY LEATHER TOTE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 630,
+                "left": 60,
+                "width": 444.72,
+                "height": 188.03,
+                "fill": "#F5F5F5",
+                "text": "\u2022 Premium Black & Brown Leather\n\u2022 Spacious Main Compartment\n\u2022 Exterior Slip Pockets\n\u2022 Gold-Tone Hardware",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 720,
+                "left": 580,
+                "width": 323.57,
+                "height": 101.7,
+                "fill": "#F5F5F5",
+                "text": "\u20b91,550",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 850,
+                "left": 580,
+                "width": 240,
+                "height": 65,
+                "fill": "#C2A592",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 865,
+                "left": 625,
+                "width": 166.27,
+                "height": 36.16,
+                "fill": "#3A2E2B",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 60,
+                "left": 530,
+                "width": 385.97999999999996,
+                "height": 523.74,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/yvFAWfjhiieQopVMMHLB8_919x1247.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegant Two-Tone Designer Hobo Bag - Black & Brown Leather Shoulder Tote with Exterior Pockets",
+            "description": "\u2022 Premium dual-color leather design combining classic black and rich brown\n\u2022 Spacious main compartment with generous interior storage\n\u2022 Convenient exterior slip pockets on both sides for easy access\n\u2022 Durable gold-tone hardware and sturdy shoulder strap\n\u2022 High-quality stitching and professional craftsmanship\n\u2022 Modern minimalist aesthetic perfect for work and casual use\n\u2022 Versatile size suitable for daily essentials\n\u2022 Sleek, contemporary color-block design\n\u2022 Easy-access open top design\n\u2022 Smooth leather finish with elegant sheen\n\u2022 Professional look ideal for office and business settings\n\u2022 Lightweight yet sturdy construction for everyday use",
+            "price": "\u20b91550"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/yvFAWfjhiieQopVMMHLB8_919x1247.png",
+        "marketplace_url": "blob:https://studio.phot.ai/b2610882-501d-4924-b540-1b5e59dc14d9",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner advertises a premium two-tone leather hobo bag with a clean and professional layout divided into four equal quadrants. The top-left and top-right sections have soft beige and tan backgrounds, overlaid with the bold, uppercase **heading** and elegant **subheading** emphasizing luxury. The product image is centrally placed, overlapping the top sections, giving a dynamic and modern look. The lower-left quadrant includes the **description** text as bullet points, presenting the product features clearly in white. The bottom-right quadrant showcases a highlighted **price**, placed near a capsule-shaped **CTA button** labeled via the **cta** text. Subtle diagonal lines, decorative circles, and curves enhance sophistication without distracting.\n\n**Color Palette:**\n- Soft Beige (#F5F5F5)\n- Creamy Tan (#E8E3DF)\n- Warm Taupe (#D8C3B8)\n- Rich Mocha Brown (#634941)\n- Deep Espresso (#3A2E2B)\n- Accent Nude (#C2A592)\n- Muted Clay (#67463A)\n",
+    "product_color": "  \nThe product image showcases a two-tone leather handbag featuring a sophisticated color blend of deep black and rich maroon brown, joined at the center seam. The use of matte finishes amplifies the bag's luxurious texture while highlighting the transitional contrast between these tones. The handle is a muted rose-brown shade, offering a soft, blended accent that connects both main colors harmoniously. Accents of gold in the hardware subtly enhance the overall design without overpowering it. Ideal colors for the advertisement banner include Black (#2A2B2D), Maroon Brown (#5C2C24), Rose Brown (#8C5C51), and Gold Accent (#D4AF37), evoking elegance and minimalism.\n"
+}

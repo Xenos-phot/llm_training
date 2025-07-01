@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F9F5F0'/><rect x='-49' y='0' width='589' height='1080' fill='#3D7D6C'/><g opacity='0.1'><rect x='0' y='0' width='540' height='1080' fill='#FFFFFF'/></g><g transform='translate(0, 0)'><circle cx='50' cy='100' r='30' fill='#E8C396' opacity='0.6'/><circle cx='150' cy='200' r='40' fill='#E8C396' opacity='0.6'/><circle cx='250' cy='300' r='35' fill='#E8C396' opacity='0.6'/><circle cx='100' cy='400' r='25' fill='#E8C396' opacity='0.6'/><circle cx='200' cy='500' r='45' fill='#E8C396' opacity='0.6'/><circle cx='120' cy='600' r='30' fill='#E8C396' opacity='0.6'/><circle cx='220' cy='700' r='35' fill='#E8C396' opacity='0.6'/><circle cx='70' cy='800' r='40' fill='#E8C396' opacity='0.6'/><circle cx='170' cy='900' r='25' fill='#E8C396' opacity='0.6'/><circle cx='270' cy='1000' r='30' fill='#E8C396' opacity='0.6'/></g><rect x='540' y='0' width='1' height='1080' fill='#E8C396' opacity='0.8'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 312.2, "height": 67.8, "fill": "#FFFFFF", "text": "EARLY BIRD", "fontSize": 60, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 190, "left": 60, "width": 278.66, "height": 67.8, "fill": "#E8C396", "text": "DISCOUNT", "fontSize": 60, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 280, "left": 60, "width": 320.94, "height": 36.16, "fill": "#FFFFFF", "text": "BLUE RIDGE HEMP CO.", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading_1"}, {"type": "text", "top": 330, "left": 60, "width": 397.36, "height": 36.16, "fill": "#FFFFFF", "text": "PREMIUM CBD COLLECTION", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading_2"}, {"type": "text", "top": 430, "left": 60, "width": 321.97, "height": 108.48, "fill": "#FFFFFF", "text": "\u2022 High-quality hemp extract\n\u2022 Multiple formulations available\n\u2022 Natural wellness solutions", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 60, "width": 215.92, "height": 79.1, "fill": "#E8C396", "text": "\u20b9999", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 750, "left": 60, "width": 200, "height": 60, "fill": "#E8C396", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 765, "left": 90, "width": 145.54, "height": 31.64, "fill": "#3D7D6C", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 850, "left": 60, "width": 291.38, "height": 44.75, "fill": "#FFFFFF", "text": "*Limited time offer. While supplies last.\nLab-tested for quality and purity.", "fontSize": 18, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 349.55, "left": 567.12, "width": 767, "height": 527, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/fnIPfhpcyjmmHg7tv8C_4_767x527.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Blue Ridge Hemp Co. Premium CBD Collection - Natural Wellness Solutions", "description": "\u2022 CBD-infused products made with high-quality hemp extract\n\u2022 2oz jar contains 200mg CBD for optimal potency\n\u2022 Various formulations available in convenient roll-on applicators\n\u2022 All-natural ingredients for pure and effective results\n\u2022 Multiple color-coded varieties for different wellness needs\n\u2022 Easy-to-use packaging for precise application\n\u2022 Lab-tested for quality and purity assurance\n\u2022 Made by trusted Blue Ridge Hemp Co. brand\n\u2022 Perfect for daily wellness routines\n\u2022 Travel-friendly sizes available", "price": "\u20b90999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/fnIPfhpcyjmmHg7tv8C_4_767x527.png", "marketplace_url": "https://images.pexels.com/photos/1667071/pexels-photo-1667071.jpeg", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner is designed with a clean, split layout\u2014left-aligned content on a muted green background and right-aligned product imagery over a soft cream backdrop. The left side showcases text layers that include a bold headline (`heading_1`), an eye-catching secondary title (`heading_2`), followed by subheadings (`subheading_1` and `subheading_2`) introducing the product collection. A brief description (`description`) provides bullet points about product benefits. The price is highlighted prominently (`price`) and a call-to-action button (`cta_background` with `cta`) encourages user engagement. Below, a small footnote (`tagline`) adds legitimacy. Decorative circles add subtle movement and layering across the green panel.\n\n**Color Palette:**\n- Deep Teal Green (#3D7D6C)\n- Soft Beige (#F9F5F0)\n- Warm Sand (#E8C396)\n- White (#FFFFFF)\n", "product_color": "\nThe product image features a rustic and earthy color palette that evokes natural wellness and calmness. Dominant colors include a warm terracotta (#C95B3F), muted mustard yellow (#C89E4B), forest green (#4B7A67), and deep black (#2B2B2B). These tones are harmoniously blended through uniform typography and black caps, while also being distinctly highlighted through contrast with white or light backgrounds and consistent placement of the round logo featuring blue, white, and red tones (#456C93, #FFFFFF, #B1423C). This cohesive use of colors enhances brand identity, giving a grounded, trustworthy, and organic vibe, ideal for designing a holistic and wellness-focused advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F9F5F0'/><rect x='-49' y='0' width='589' height='1080' fill='#3D7D6C'/><g opacity='0.1'><rect x='0' y='0' width='540' height='1080' fill='#FFFFFF'/></g><g transform='translate(0, 0)'><circle cx='50' cy='100' r='30' fill='#E8C396' opacity='0.6'/><circle cx='150' cy='200' r='40' fill='#E8C396' opacity='0.6'/><circle cx='250' cy='300' r='35' fill='#E8C396' opacity='0.6'/><circle cx='100' cy='400' r='25' fill='#E8C396' opacity='0.6'/><circle cx='200' cy='500' r='45' fill='#E8C396' opacity='0.6'/><circle cx='120' cy='600' r='30' fill='#E8C396' opacity='0.6'/><circle cx='220' cy='700' r='35' fill='#E8C396' opacity='0.6'/><circle cx='70' cy='800' r='40' fill='#E8C396' opacity='0.6'/><circle cx='170' cy='900' r='25' fill='#E8C396' opacity='0.6'/><circle cx='270' cy='1000' r='30' fill='#E8C396' opacity='0.6'/></g><rect x='540' y='0' width='1' height='1080' fill='#E8C396' opacity='0.8'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 312.2,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "EARLY BIRD",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 60,
+                "width": 278.66,
+                "height": 67.8,
+                "fill": "#E8C396",
+                "text": "DISCOUNT",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 60,
+                "width": 320.94,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "BLUE RIDGE HEMP CO.",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading_1"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 60,
+                "width": 397.36,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM CBD COLLECTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading_2"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 60,
+                "width": 321.97,
+                "height": 108.48,
+                "fill": "#FFFFFF",
+                "text": "\u2022 High-quality hemp extract\n\u2022 Multiple formulations available\n\u2022 Natural wellness solutions",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 215.92,
+                "height": 79.1,
+                "fill": "#E8C396",
+                "text": "\u20b9999",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 750,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#E8C396",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 765,
+                "left": 90,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#3D7D6C",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 60,
+                "width": 291.38,
+                "height": 44.75,
+                "fill": "#FFFFFF",
+                "text": "*Limited time offer. While supplies last.\nLab-tested for quality and purity.",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 349.55,
+                "left": 567.12,
+                "width": 467.87,
+                "height": 321.46999999999997,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/fnIPfhpcyjmmHg7tv8C_4_767x527.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Blue Ridge Hemp Co. Premium CBD Collection - Natural Wellness Solutions",
+            "description": "\u2022 CBD-infused products made with high-quality hemp extract\n\u2022 2oz jar contains 200mg CBD for optimal potency\n\u2022 Various formulations available in convenient roll-on applicators\n\u2022 All-natural ingredients for pure and effective results\n\u2022 Multiple color-coded varieties for different wellness needs\n\u2022 Easy-to-use packaging for precise application\n\u2022 Lab-tested for quality and purity assurance\n\u2022 Made by trusted Blue Ridge Hemp Co. brand\n\u2022 Perfect for daily wellness routines\n\u2022 Travel-friendly sizes available",
+            "price": "\u20b90999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/fnIPfhpcyjmmHg7tv8C_4_767x527.png",
+        "marketplace_url": "https://images.pexels.com/photos/1667071/pexels-photo-1667071.jpeg",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner is designed with a clean, split layout\u2014left-aligned content on a muted green background and right-aligned product imagery over a soft cream backdrop. The left side showcases text layers that include a bold headline (`heading_1`), an eye-catching secondary title (`heading_2`), followed by subheadings (`subheading_1` and `subheading_2`) introducing the product collection. A brief description (`description`) provides bullet points about product benefits. The price is highlighted prominently (`price`) and a call-to-action button (`cta_background` with `cta`) encourages user engagement. Below, a small footnote (`tagline`) adds legitimacy. Decorative circles add subtle movement and layering across the green panel.\n\n**Color Palette:**\n- Deep Teal Green (#3D7D6C)\n- Soft Beige (#F9F5F0)\n- Warm Sand (#E8C396)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image features a rustic and earthy color palette that evokes natural wellness and calmness. Dominant colors include a warm terracotta (#C95B3F), muted mustard yellow (#C89E4B), forest green (#4B7A67), and deep black (#2B2B2B). These tones are harmoniously blended through uniform typography and black caps, while also being distinctly highlighted through contrast with white or light backgrounds and consistent placement of the round logo featuring blue, white, and red tones (#456C93, #FFFFFF, #B1423C). This cohesive use of colors enhances brand identity, giving a grounded, trustworthy, and organic vibe, ideal for designing a holistic and wellness-focused advertisement banner.\n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0E6D8'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#E8D4B2' opacity='0.15'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#C49C6B' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#C49C6B' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 95, "left": 95, "width": 350.32, "height": 124.3, "fill": "#332211", "text": "VANS", "fontSize": 110, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 215, "left": 95, "width": 755.63, "height": 90.4, "fill": "#C49C6B", "text": "AUTHENTIC", "fontSize": 80, "fontFamily": "Adohai-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 330, "left": 95, "width": 531.39, "height": 155.04, "fill": "#4B3A22", "text": "Premium canvas upper in warm sand color\nSignature waffle outsole for superior grip\nPadded collar for enhanced comfort\nIconic side stripe and classic branding", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 825, "left": 95, "width": 281.89, "height": 84.75, "fill": "#332211", "text": "\u20b9 2999", "fontSize": 75, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 95, "width": 200, "height": 60, "fill": "#332211", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 956, "left": 124, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 450.95, "left": 579.13, "width": 607, "height": 831, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/lohqxaAD4DT7cGi4OF4Cs_607x831.png", "id": "product_image"}, {"type": "text", "top": 285, "left": 100, "width": 290.9, "height": 36.16, "fill": "#4B3A22", "text": "CANVAS SNEAKERS", "fontSize": 32, "fontFamily": "Bakbak One-Regular", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Vans Authentic Canvas Sneakers - Warm Sand/White | Timeless Style & Comfort", "description": "\u2022 Premium canvas upper in versatile warm sand color\n\u2022 Signature Vans waffle outsole for superior grip and durability\n\u2022 Clean white contrast stitching and laces\n\u2022 Original low-top silhouette perfect for everyday wear\n\u2022 Padded collar for enhanced comfort\n\u2022 Breathable canvas material ideal for all seasons\n\u2022 Vulcanized rubber midsole for flexibility\n\u2022 Iconic Vans side stripe and branding\n\u2022 Lightweight construction for all-day comfort\n\u2022 Unisex design suitable for any style", "price": "\u20b92999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/lohqxaAD4DT7cGi4OF4Cs_607x831.png", "marketplace_url": "", "layout": "frame_layout"}, "banner_details": "\nThis stylish sneaker banner features a modern, minimalistic layout with a warm-toned vintage aesthetic. The background uses layered soft beige tones with wavy line accents and bordered frames to create a retro yet refined canvas. The bold headline text layer (`heading`) sits prominently at the top and is followed by an emphasized yet weathered-looking subheading (`subheading`) to draw attention. A supportive tagline (`tagline`) follows, leading into a multi-line product description (`description`). A clear price tag (`price`) anchors the bottom-left, while a strong rectangular CTA button (`cta_background` and `cta`) encourages immediate action. The product image (`product_image`) is positioned right-aligned with generous space, helping maintain visual balance.\n\n**Color Palette:**\n- Warm Beige: `#F0E6D8`\n- Soft Tan: `#E8D4B2`\n- Golden Brown: `#C49C6B`\n- Rich Brown: `#332211`\n- Coffee Brown: `#4B3A22`\n- Pure White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases a pair of Vans sneakers in a warm mustard yellow (#E4B059), giving a youthful and vibrant vibe. The white laces (#FFFFFF) and inner lining contrast strongly with the yellow upper, making the design crisp and clean. This contrast is balanced with subtle black (#1A1A1A) detailing in the logo and the sneaker\u2019s side trim. The sole features a mix of white (#FFFFFF) and deep gray accents (#4A4A4A) to ground the composition. For an advertisement banner, a complementary palette using mustard yellow (#E4B059), white (#FFFFFF), soft gray (#CACACA), and black (#1A1A1A) captures the product\u2019s energetic yet minimalist appeal.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0E6D8'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#E8D4B2' opacity='0.15'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#C49C6B' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#C49C6B' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#C49C6B' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 95,
+                "left": 95,
+                "width": 350.32,
+                "height": 124.3,
+                "fill": "#332211",
+                "text": "VANS",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 215,
+                "left": 95,
+                "width": 755.63,
+                "height": 90.4,
+                "fill": "#C49C6B",
+                "text": "AUTHENTIC",
+                "fontFamily": "Adohai-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 95,
+                "width": 531.39,
+                "height": 155.04,
+                "fill": "#4B3A22",
+                "text": "Premium canvas upper in warm sand color\nSignature waffle outsole for superior grip\nPadded collar for enhanced comfort\nIconic side stripe and classic branding",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 825,
+                "left": 95,
+                "width": 281.89,
+                "height": 84.75,
+                "fill": "#332211",
+                "text": "\u20b9 2999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 95,
+                "width": 200,
+                "height": 60,
+                "fill": "#332211",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 956,
+                "left": 124,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 450.95,
+                "left": 579.13,
+                "width": 333.85,
+                "height": 457.05,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/lohqxaAD4DT7cGi4OF4Cs_607x831.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 285,
+                "left": 100,
+                "width": 290.9,
+                "height": 36.16,
+                "fill": "#4B3A22",
+                "text": "CANVAS SNEAKERS",
+                "fontFamily": "Bakbak One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Vans Authentic Canvas Sneakers - Warm Sand/White | Timeless Style & Comfort",
+            "description": "\u2022 Premium canvas upper in versatile warm sand color\n\u2022 Signature Vans waffle outsole for superior grip and durability\n\u2022 Clean white contrast stitching and laces\n\u2022 Original low-top silhouette perfect for everyday wear\n\u2022 Padded collar for enhanced comfort\n\u2022 Breathable canvas material ideal for all seasons\n\u2022 Vulcanized rubber midsole for flexibility\n\u2022 Iconic Vans side stripe and branding\n\u2022 Lightweight construction for all-day comfort\n\u2022 Unisex design suitable for any style",
+            "price": "\u20b92999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/lohqxaAD4DT7cGi4OF4Cs_607x831.png",
+        "marketplace_url": "",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis stylish sneaker banner features a modern, minimalistic layout with a warm-toned vintage aesthetic. The background uses layered soft beige tones with wavy line accents and bordered frames to create a retro yet refined canvas. The bold headline text layer (`heading`) sits prominently at the top and is followed by an emphasized yet weathered-looking subheading (`subheading`) to draw attention. A supportive tagline (`tagline`) follows, leading into a multi-line product description (`description`). A clear price tag (`price`) anchors the bottom-left, while a strong rectangular CTA button (`cta_background` and `cta`) encourages immediate action. The product image (`product_image`) is positioned right-aligned with generous space, helping maintain visual balance.\n\n**Color Palette:**\n- Warm Beige: `#F0E6D8`\n- Soft Tan: `#E8D4B2`\n- Golden Brown: `#C49C6B`\n- Rich Brown: `#332211`\n- Coffee Brown: `#4B3A22`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases a pair of Vans sneakers in a warm mustard yellow (#E4B059), giving a youthful and vibrant vibe. The white laces (#FFFFFF) and inner lining contrast strongly with the yellow upper, making the design crisp and clean. This contrast is balanced with subtle black (#1A1A1A) detailing in the logo and the sneaker\u2019s side trim. The sole features a mix of white (#FFFFFF) and deep gray accents (#4A4A4A) to ground the composition. For an advertisement banner, a complementary palette using mustard yellow (#E4B059), white (#FFFFFF), soft gray (#CACACA), and black (#1A1A1A) captures the product\u2019s energetic yet minimalist appeal.  \n"
+}

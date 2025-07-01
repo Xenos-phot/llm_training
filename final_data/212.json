@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D9C0A3;stop-opacity:1' /><stop offset='100%' style='stop-color:#BF9270;stop-opacity:1' /></linearGradient><linearGradient id='sideGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#F2E8DC;stop-opacity:1' /><stop offset='100%' style='stop-color:#F2E8DC;stop-opacity:0' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)' /><rect x='0' y='0' width='540' height='1080' fill='url(#sideGradient)' /><g opacity='0.3'><path d='M50,150 L150,150 L150,250 L50,250 Z' fill='#E6C9A8' /><path d='M100,300 L200,300 L200,400 L100,400 Z' fill='#D1A77D' /><path d='M80,500 L180,500 L180,600 L80,600 Z' fill='#E6C9A8' /><path d='M120,700 L220,700 L220,800 L120,800 Z' fill='#D1A77D' /><path d='M60,900 L160,900 L160,1000 L60,1000 Z' fill='#E6C9A8' /></g><g opacity='0.2'><circle cx='800' cy='200' r='40' fill='#D4AF7A' /><circle cx='900' cy='350' r='30' fill='#D4AF7A' /><circle cx='750' cy='500' r='35' fill='#D4AF7A' /><circle cx='850' cy='650' r='25' fill='#D4AF7A' /><circle cx='950' cy='800' r='40' fill='#D4AF7A' /></g><path d='M540,0 L540,1080' stroke='#D4AF7A' stroke-width='2' opacity='0.5' /></svg>", "id": "background"}, {"type": "text", "top": 180, "left": 60, "width": 290.79, "height": 154.24, "fill": "#5D4037", "text": "ELEGANT\nTOTE BAG", "fontSize": 65, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 360, "left": 65, "width": 220.81, "height": 40.68, "fill": "#8D6E63", "text": "ALDO Legoirii", "fontSize": 36, "fontFamily": "DM Serif Text Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 480, "left": 65, "width": 447.65, "height": 107.58, "fill": "#5D4037", "text": "\u2022 Spaciously stylish with ample storage\n\u2022 Durable faux leather construction\n\u2022 Gold-tone hardware & charm details", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 720, "left": 65, "width": 232.16, "height": 90.4, "fill": "#5D4037", "text": "$65.00", "fontSize": 80, "fontFamily": "DM Serif Text Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 850, "left": 65, "width": 220, "height": 65, "fill": "#D4AF7A", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 866, "left": 100, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 520, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "split_vertical"}, "banner_details": "\nThis banner features a modern and elegant design aimed at promoting a fashion product. The left half sports a soft gradient background transitioning from beige to a light tan, creating a warm, classy mood. Decorative geometric elements in semi-transparent rectangles and circles add depth to the background. The right half presents a stylish handbag image prominently, cropped and scaled for visual balance.\n\nThere are multiple text layers: a large bold title (`heading`) placed near the top-left, a smaller serif subheading (`subheading`) beneath it, and a list of product attributes in bullet points (`description`). The price is highlighted in large digits (`price`) just above a prominent call-to-action button (`cta_background` and `cta`).\n\nThe color palette consists of:\n- Warm Beige: #D9C0A3\n- Rich Tan: #BF9270\n- Deep Brown: #5D4037\n- Accent Gold: #D4AF7A\n- Soft Cream: #F2E8DC\n- Pure White: #FFFFFF\n\nThis layout effectively draws attention to the product while maintaining a clean, luxurious look.\n", "product_color": "\nThe product image showcases a stylish handbag made primarily in a soft, sophisticated warm tan color (#B47B5A). The textured leather surface adds a subtle richness, enhancing the material\u2019s tactile quality. Gold metallic accents (#D4AF37), including the hardware and decorative charms, add luxury and contrast beautifully against the matte tan backdrop. The colors are harmoniously blended, with the tan providing a grounded, elegant base, while the gold elements pop without overwhelming the simplicity of the design. For an advertisement banner, a palette of Tan (#B47B5A), Gold (#D4AF37), Cream (#F5F5DC), and Deep Brown (#4E3629) can create a refined, modern aesthetic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D9C0A3;stop-opacity:1' /><stop offset='100%' style='stop-color:#BF9270;stop-opacity:1' /></linearGradient><linearGradient id='sideGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#F2E8DC;stop-opacity:1' /><stop offset='100%' style='stop-color:#F2E8DC;stop-opacity:0' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)' /><rect x='0' y='0' width='540' height='1080' fill='url(#sideGradient)' /><g opacity='0.3'><path d='M50,150 L150,150 L150,250 L50,250 Z' fill='#E6C9A8' /><path d='M100,300 L200,300 L200,400 L100,400 Z' fill='#D1A77D' /><path d='M80,500 L180,500 L180,600 L80,600 Z' fill='#E6C9A8' /><path d='M120,700 L220,700 L220,800 L120,800 Z' fill='#D1A77D' /><path d='M60,900 L160,900 L160,1000 L60,1000 Z' fill='#E6C9A8' /></g><g opacity='0.2'><circle cx='800' cy='200' r='40' fill='#D4AF7A' /><circle cx='900' cy='350' r='30' fill='#D4AF7A' /><circle cx='750' cy='500' r='35' fill='#D4AF7A' /><circle cx='850' cy='650' r='25' fill='#D4AF7A' /><circle cx='950' cy='800' r='40' fill='#D4AF7A' /></g><path d='M540,0 L540,1080' stroke='#D4AF7A' stroke-width='2' opacity='0.5' /></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 290.79,
+                "height": 154.24,
+                "fill": "#5D4037",
+                "text": "ELEGANT\nTOTE BAG",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 65,
+                "width": 220.81,
+                "height": 40.68,
+                "fill": "#8D6E63",
+                "text": "ALDO Legoirii",
+                "fontFamily": "DM Serif Text Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 480,
+                "left": 65,
+                "width": 447.65,
+                "height": 107.58,
+                "fill": "#5D4037",
+                "text": "\u2022 Spaciously stylish with ample storage\n\u2022 Durable faux leather construction\n\u2022 Gold-tone hardware & charm details",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 720,
+                "left": 65,
+                "width": 232.16,
+                "height": 90.4,
+                "fill": "#5D4037",
+                "text": "$65.00",
+                "fontFamily": "DM Serif Text Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 850,
+                "left": 65,
+                "width": 220,
+                "height": 65,
+                "fill": "#D4AF7A",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 866,
+                "left": 100,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 520,
+                "width": 558.44,
+                "height": 661.94,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a modern and elegant design aimed at promoting a fashion product. The left half sports a soft gradient background transitioning from beige to a light tan, creating a warm, classy mood. Decorative geometric elements in semi-transparent rectangles and circles add depth to the background. The right half presents a stylish handbag image prominently, cropped and scaled for visual balance.\n\nThere are multiple text layers: a large bold title (`heading`) placed near the top-left, a smaller serif subheading (`subheading`) beneath it, and a list of product attributes in bullet points (`description`). The price is highlighted in large digits (`price`) just above a prominent call-to-action button (`cta_background` and `cta`).\n\nThe color palette consists of:\n- Warm Beige: #D9C0A3\n- Rich Tan: #BF9270\n- Deep Brown: #5D4037\n- Accent Gold: #D4AF7A\n- Soft Cream: #F2E8DC\n- Pure White: #FFFFFF\n\nThis layout effectively draws attention to the product while maintaining a clean, luxurious look.\n",
+    "product_color": "\nThe product image showcases a stylish handbag made primarily in a soft, sophisticated warm tan color (#B47B5A). The textured leather surface adds a subtle richness, enhancing the material\u2019s tactile quality. Gold metallic accents (#D4AF37), including the hardware and decorative charms, add luxury and contrast beautifully against the matte tan backdrop. The colors are harmoniously blended, with the tan providing a grounded, elegant base, while the gold elements pop without overwhelming the simplicity of the design. For an advertisement banner, a palette of Tan (#B47B5A), Gold (#D4AF37), Cream (#F5F5DC), and Deep Brown (#4E3629) can create a refined, modern aesthetic.\n"
+}

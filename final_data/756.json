@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5EFE6'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#C8A27A' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#C8A27A' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#C8A27A' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><path d='M540 150 L700 150 C720 150, 730 170, 740 200 L540 200 Z' fill='#BD7B4F' opacity='0.1'/><path d='M150 540 L150 700 C150 720, 170 730, 200 740 L200 540 Z' fill='#BD7B4F' opacity='0.1'/><path d='M930 540 L930 700 C930 720, 910 730, 880 740 L880 540 Z' fill='#BD7B4F' opacity='0.1'/><path d='M540 930 L700 930 C720 930, 730 910, 740 880 L540 880 Z' fill='#BD7B4F' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 115, "width": 789.55, "height": 73.45, "fill": "#9C5221", "text": "DESERT WANDERER", "fontSize": 65, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 212, "left": 118, "width": 757.13, "height": 67.8, "fill": "#BD7B4F", "text": "ARTISAN LEATHER SNEAKER", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 290, "left": 120, "width": 300, "height": 3, "fill": "#C8A27A", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 310, "left": 122, "width": 571.1, "height": 155.04, "fill": "#6D4C35", "text": "\u2022 Hand-crafted premium leather construction\n\u2022 Intricate scalloped pattern and stitching\n\u2022 Cushioned footbed for all-day comfort\n\u2022 Durable rubber outsole for enhanced grip", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 520, "left": 122, "width": 318.2, "height": 45.2, "fill": "#D35400", "text": "FLASH SALE! LIMITED TIME", "fontSize": 40, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 610, "left": 120, "width": 228.65, "height": 84.75, "fill": "#9C5221", "text": "\u20b9 999", "fontSize": 75, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 720, "left": 120, "width": 220, "height": 60, "fill": "#BD7B4F", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 736, "left": 163, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 506.5, "left": 445.58, "width": 1239, "height": 895, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/kXsrsmx19v0f8ANlSoi4h_1239x895.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Enchanted Desert Wanderer - Artisan Leather Comfort Sneaker", "description": "\u2022 Hand-crafted premium leather construction with unique desert-inspired design\n\u2022 Intricate scalloped pattern and decorative stitching details\n\u2022 Soft breathable interior with moisture-wicking lining\n\u2022 Durable rubber outsole with distinctive bubble texture for enhanced grip\n\u2022 Cushioned footbed for all-day comfort\n\u2022 Two-tone color scheme in warm sandy beige and caramel brown\n\u2022 Traditional lace-up closure with bronze-toned eyelets\n\u2022 Distinctive heel counter design for added stability\n\u2022 Perfect blend of artistic style and practical comfort\n\u2022 Versatile casual wear suitable for both indoor and outdoor activities", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/kXsrsmx19v0f8ANlSoi4h_1239x895.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1077617639624556606_cosmic_circus_apple_pie_shoes_13dced10-9aa8-4db5-b8c2-4295d291ee8f.webp", "layout": "frame_layout"}, "banner_details": "\nThis banner showcases a promotional design for a premium product, centered around a hand-crafted leather sneaker. The layout features a bold, attention-grabbing heading (`heading`) positioned at the top, reflecting the adventurous theme. Just below it, the subheading (`subheading`) presents the product type in a strong sans-serif font, supported by a decorative line (`decorative`) beneath it. A concise product feature list (`description`) communicates key selling points with neat bullet points for clarity. A vibrant promotional tagline (`tagline`) prompts urgency, followed by a large, prominent price tag (`price`). The call-to-action button (`cta_background` and `cta`) is rectangular with rounded corners. To the right, the sneaker graphic (`product_image`) draws visual focus. Background elements feature layered borders and patterns in soft earth tones.\n\n**Color Palette:**\n- Background: #F5EFE6 (Warm beige)\n- Accent: #C8A27A (Soft tan)\n- Headline: #9C5221 (Bold brown)\n- Sub-Headline & CTA: #BD7B4F (Terracotta)\n- Body Text: #6D4C35 (Earthy brown)\n- Tagline: #D35400 (Burnt orange)\n- Button Text: #FFFFFF (White)\n", "product_color": "\nThe product image showcases a creative sneaker with a warm, autumn-inspired color palette centered around earthy and creamy tones. Key colors include caramel brown (#A0522D), burnt orange (#CC5500), warm beige (#F5DEB3), and creamy ivory (#FFF8E7). These colors are well-blended through layered stitching and gradients, giving depth and a handcrafted aesthetic. Burnt orange laces add contrast and focus, drawing the eye. The beige and ivory base supports intricate design elements, while the darker shades bring out the contours and patterns. A banner using this palette can evoke comfort, craftsmanship, and style, appealing to lovers of unique and artisanal fashion.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5EFE6'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#C8A27A' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#C8A27A' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#C8A27A' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#C8A27A' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><path d='M540 150 L700 150 C720 150, 730 170, 740 200 L540 200 Z' fill='#BD7B4F' opacity='0.1'/><path d='M150 540 L150 700 C150 720, 170 730, 200 740 L200 540 Z' fill='#BD7B4F' opacity='0.1'/><path d='M930 540 L930 700 C930 720, 910 730, 880 740 L880 540 Z' fill='#BD7B4F' opacity='0.1'/><path d='M540 930 L700 930 C720 930, 730 910, 740 880 L540 880 Z' fill='#BD7B4F' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 115,
+                "width": 789.55,
+                "height": 73.45,
+                "fill": "#9C5221",
+                "text": "DESERT WANDERER",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 212,
+                "left": 118,
+                "width": 757.13,
+                "height": 67.8,
+                "fill": "#BD7B4F",
+                "text": "ARTISAN LEATHER SNEAKER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 290,
+                "left": 120,
+                "width": 300,
+                "height": 3,
+                "fill": "#C8A27A",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 122,
+                "width": 571.1,
+                "height": 155.04,
+                "fill": "#6D4C35",
+                "text": "\u2022 Hand-crafted premium leather construction\n\u2022 Intricate scalloped pattern and stitching\n\u2022 Cushioned footbed for all-day comfort\n\u2022 Durable rubber outsole for enhanced grip",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 520,
+                "left": 122,
+                "width": 318.2,
+                "height": 45.2,
+                "fill": "#D35400",
+                "text": "FLASH SALE! LIMITED TIME",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 120,
+                "width": 228.65,
+                "height": 84.75,
+                "fill": "#9C5221",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 720,
+                "left": 120,
+                "width": 220,
+                "height": 60,
+                "fill": "#BD7B4F",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 736,
+                "left": 163,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 506.5,
+                "left": 445.58,
+                "width": 545.16,
+                "height": 393.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/kXsrsmx19v0f8ANlSoi4h_1239x895.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Enchanted Desert Wanderer - Artisan Leather Comfort Sneaker",
+            "description": "\u2022 Hand-crafted premium leather construction with unique desert-inspired design\n\u2022 Intricate scalloped pattern and decorative stitching details\n\u2022 Soft breathable interior with moisture-wicking lining\n\u2022 Durable rubber outsole with distinctive bubble texture for enhanced grip\n\u2022 Cushioned footbed for all-day comfort\n\u2022 Two-tone color scheme in warm sandy beige and caramel brown\n\u2022 Traditional lace-up closure with bronze-toned eyelets\n\u2022 Distinctive heel counter design for added stability\n\u2022 Perfect blend of artistic style and practical comfort\n\u2022 Versatile casual wear suitable for both indoor and outdoor activities",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/kXsrsmx19v0f8ANlSoi4h_1239x895.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1077617639624556606_cosmic_circus_apple_pie_shoes_13dced10-9aa8-4db5-b8c2-4295d291ee8f.webp",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner showcases a promotional design for a premium product, centered around a hand-crafted leather sneaker. The layout features a bold, attention-grabbing heading (`heading`) positioned at the top, reflecting the adventurous theme. Just below it, the subheading (`subheading`) presents the product type in a strong sans-serif font, supported by a decorative line (`decorative`) beneath it. A concise product feature list (`description`) communicates key selling points with neat bullet points for clarity. A vibrant promotional tagline (`tagline`) prompts urgency, followed by a large, prominent price tag (`price`). The call-to-action button (`cta_background` and `cta`) is rectangular with rounded corners. To the right, the sneaker graphic (`product_image`) draws visual focus. Background elements feature layered borders and patterns in soft earth tones.\n\n**Color Palette:**\n- Background: #F5EFE6 (Warm beige)\n- Accent: #C8A27A (Soft tan)\n- Headline: #9C5221 (Bold brown)\n- Sub-Headline & CTA: #BD7B4F (Terracotta)\n- Body Text: #6D4C35 (Earthy brown)\n- Tagline: #D35400 (Burnt orange)\n- Button Text: #FFFFFF (White)\n",
+    "product_color": "\nThe product image showcases a creative sneaker with a warm, autumn-inspired color palette centered around earthy and creamy tones. Key colors include caramel brown (#A0522D), burnt orange (#CC5500), warm beige (#F5DEB3), and creamy ivory (#FFF8E7). These colors are well-blended through layered stitching and gradients, giving depth and a handcrafted aesthetic. Burnt orange laces add contrast and focus, drawing the eye. The beige and ivory base supports intricate design elements, while the darker shades bring out the contours and patterns. A banner using this palette can evoke comfort, craftsmanship, and style, appealing to lovers of unique and artisanal fashion.\n"
+}

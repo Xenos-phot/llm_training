@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1a1a1a;stop-opacity:1'/><stop offset='100%' style='stop-color:#2a2a2a;stop-opacity:1'/></linearGradient><linearGradient id='purpleGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#6a1b9a;stop-opacity:1'/><stop offset='100%' style='stop-color:#9c27b0;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><rect x='540' y='0' width='540' height='1080' fill='#1a1a1a' opacity='0.5'/><path d='M0,0 L540,0 L540,1080 L0,1080 Z' fill='url(#purpleGrad)' opacity='0.1'/><path d='M0,0 L540,0 L380,1080 L0,1080 Z' fill='url(#purpleGrad)' opacity='0.2'/><path d='M500,0 L540,0 L540,1080 L400,1080 Z' fill='#7b1fa2' opacity='0.3'/><g opacity='0.5'><rect x='20' y='50' width='60' height='8' rx='4' fill='#9c27b0'/><rect x='100' y='50' width='40' height='8' rx='4' fill='#9c27b0'/><rect x='160' y='50' width='90' height='8' rx='4' fill='#9c27b0'/><rect x='40' y='80' width='100' height='8' rx='4' fill='#9c27b0'/><rect x='160' y='80' width='60' height='8' rx='4' fill='#9c27b0'/><rect x='20' y='110' width='80' height='8' rx='4' fill='#9c27b0'/><rect x='120' y='110' width='50' height='8' rx='4' fill='#9c27b0'/><rect x='190' y='110' width='70' height='8' rx='4' fill='#9c27b0'/></g><g opacity='0.5'><rect x='20' y='950' width='70' height='8' rx='4' fill='#9c27b0'/><rect x='110' y='950' width='50' height='8' rx='4' fill='#9c27b0'/><rect x='180' y='950' width='100' height='8' rx='4' fill='#9c27b0'/><rect x='40' y='980' width='110' height='8' rx='4' fill='#9c27b0'/><rect x='170' y='980' width='50' height='8' rx='4' fill='#9c27b0'/><rect x='20' y='1010' width='60' height='8' rx='4' fill='#9c27b0'/><rect x='100' y='1010' width='80' height='8' rx='4' fill='#9c27b0'/><rect x='200' y='1010' width='40' height='8' rx='4' fill='#9c27b0'/></g><path d='M540,0 L540,1080' stroke='#9c27b0' stroke-width='4' stroke-dasharray='20,10'/><circle cx='200' cy='500' r='150' fill='url(#purpleGrad)' opacity='0.1'/><circle cx='450' cy='600' r='100' fill='url(#purpleGrad)' opacity='0.15'/><circle cx='100' cy='350' r='80' fill='url(#purpleGrad)' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 50, "width": 388.62, "height": 73.45, "fill": "#FFFFFF", "text": "GTRACING", "fontSize": 65, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 170, "left": 50, "width": 366.99, "height": 58.76, "fill": "#9c27b0", "text": "GAMING CHAIR", "fontSize": 52, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 280, "left": 50, "width": 350.17, "height": 27.12, "fill": "#FFFFFF", "text": "PREMIUM RACING-STYLE COMFORT", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 380, "left": 50, "width": 390.53, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 Ergonomic Design with Footrest\n\u2022 Reclining with Adjustable Height\n\u2022 Built-in Lumbar Support", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description_1"}, {"type": "text", "top": 600, "left": 50, "width": 258.74, "height": 67.8, "fill": "#FFFFFF", "text": "$116.98", "fontSize": 60, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 720, "left": 50, "width": 220, "height": 70, "fill": "#9c27b0", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 740, "left": 90, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 830, "left": 50, "width": 288.1, "height": 81.36, "fill": "#FFFFFF", "text": "Maximum Weight Capacity: 330 lbs\nSwivel & Recline Function\nPremium PU Leather", "fontSize": 20, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description_2"}, {"type": "image", "top": 140, "left": 570, "width": 899, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/bQdMrGEmEJn4mkAXfXlBP_899x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GTRACING Gaming Chair with Footrest, Ergonomic Computer Game Desk Chair, Reclining Gamer Chair Seat Height Adjustment, Swivel Rocker with Headrest and Lumbar, Purple", "description": "Brand: GTRACING. Color: Purple. Product Dimensions: 22\"D x 22\"W x 47\"H. Size: with Footrest. Back Style: Solid Back. Special Feature: Arm Rest, Cushion Availability. Product Care Instructions: Wipe Clean. Unit Count: 1.0 Count. Recommended Uses For Product: Gaming. Maximum Weight Recommendation: 330 Pounds. Style: Racing-Style. Pattern: Solid. Finish Type: Powder Coated. Age Range (Description): Adult. Theme: Video Game. Shape: S-Shape. Model Name: Gaming Chair with Footrest, Ergonomic Computer Game Desk Chair, Reclining Gamer Chair Seat Height Adjustment,. Arm Style: With arms. Surface Recommendation: Hard Floor. Furniture base movement: Swivel. Indoor/Outdoor Usage: Indoor. Furniture Finish: Leather. Fill Material: Sponge. Leg Style: Turned Leg. Is Customizable: No. Form Factor: Recliner. Item Weight: 30 pounds. Country of Origin: Vietnam.", "price": "$116.98"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/bQdMrGEmEJn4mkAXfXlBP_899x1439.png", "marketplace_url": "https://www.amazon.com/GTRACING-Footrest-Ergonomic-Reclining-Adjustment/dp/B0CD7WQGRF/ref=sxin_13_pa_sp_search_thematic_sspa?_encoding=UTF8&content-id=amzn1.sym.e1fd0544-6483-4e4f-b389-bc90db9d388a%3Aamzn1.sym.e1fd0544-6483-4e4f-b389-bc90db9d388a&cv_ct_cx=gaming%2Bchairs&keywords=gaming%2Bchairs&pd_rd_i=B0CD7WQGRF&pd_rd_r=70e9f10e-0452-4816-88e8-3f2510c3fdeb&pd_rd_w=DuhPN&pd_rd_wg=w5txz&pf_rd_p=e1fd0544-6483-4e4f-b389-bc90db9d388a&pf_rd_r=F9MHRM9PAAGJE9ZW9CF7&qid=1746980194&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-9428117c-b940-4daa-97e9-ad363ada7940-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1", "layout": "split_vertical"}, "banner_details": "\nThis banner features a modern, tech-inspired layout designed for promoting a premium gaming chair. The background has a dark gradient with layered translucent purple geometric patterns, creating depth and drawing attention to the content. On the left side, prominent headings with IDs \"heading\" and \"subheading\" introduce the brand and product category in futuristic fonts. A supporting tagline (\"tagline\") and bullet point feature list (\"description_1\") highlight key product benefits. The price (\"price\") is emphasized in bold, futuristic typography, directly above a vibrant call-to-action button (\"cta_button\") labeled with \"cta\". Additional product specs are listed in \"description_2\". The product image (\"product_image\") on the right enhances appeal. The composition uses a strong vertical visual divider with dashed lines for separation.\n\n**Color Palette:**\n- Black: #000000 (background)\n- Dark Gray: #1a1a1a, #2a2a2a (gradient base)\n- Purple Gradient: From #6a1b9a to #9c27b0\n- Accent Purple: #9c27b0 (for buttons and text highlights)\n- White: #FFFFFF (for text)\n", "product_color": "\nThe product image showcases a sleek gaming chair with a dynamic color palette dominated by deep black and vibrant purple, creating a bold and energetic look. The base color of matte black (#1C1C1C) provides a strong foundation, while the electric purple (#A020F0) accentuates contours and edges of the chair, giving it a vivid contrast. Touches of grey (#3A3A3A) are subtly used in structural elements for depth. White (#FFFFFF) is used effectively in the \u201cGTRACING\u201d logo, drawing focus without disrupting the theme. For an advertisement banner, combine black, electric purple, and white with gradients and shadow effects to emphasize modernity and power.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1a1a1a;stop-opacity:1'/><stop offset='100%' style='stop-color:#2a2a2a;stop-opacity:1'/></linearGradient><linearGradient id='purpleGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#6a1b9a;stop-opacity:1'/><stop offset='100%' style='stop-color:#9c27b0;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><rect x='540' y='0' width='540' height='1080' fill='#1a1a1a' opacity='0.5'/><path d='M0,0 L540,0 L540,1080 L0,1080 Z' fill='url(#purpleGrad)' opacity='0.1'/><path d='M0,0 L540,0 L380,1080 L0,1080 Z' fill='url(#purpleGrad)' opacity='0.2'/><path d='M500,0 L540,0 L540,1080 L400,1080 Z' fill='#7b1fa2' opacity='0.3'/><g opacity='0.5'><rect x='20' y='50' width='60' height='8' rx='4' fill='#9c27b0'/><rect x='100' y='50' width='40' height='8' rx='4' fill='#9c27b0'/><rect x='160' y='50' width='90' height='8' rx='4' fill='#9c27b0'/><rect x='40' y='80' width='100' height='8' rx='4' fill='#9c27b0'/><rect x='160' y='80' width='60' height='8' rx='4' fill='#9c27b0'/><rect x='20' y='110' width='80' height='8' rx='4' fill='#9c27b0'/><rect x='120' y='110' width='50' height='8' rx='4' fill='#9c27b0'/><rect x='190' y='110' width='70' height='8' rx='4' fill='#9c27b0'/></g><g opacity='0.5'><rect x='20' y='950' width='70' height='8' rx='4' fill='#9c27b0'/><rect x='110' y='950' width='50' height='8' rx='4' fill='#9c27b0'/><rect x='180' y='950' width='100' height='8' rx='4' fill='#9c27b0'/><rect x='40' y='980' width='110' height='8' rx='4' fill='#9c27b0'/><rect x='170' y='980' width='50' height='8' rx='4' fill='#9c27b0'/><rect x='20' y='1010' width='60' height='8' rx='4' fill='#9c27b0'/><rect x='100' y='1010' width='80' height='8' rx='4' fill='#9c27b0'/><rect x='200' y='1010' width='40' height='8' rx='4' fill='#9c27b0'/></g><path d='M540,0 L540,1080' stroke='#9c27b0' stroke-width='4' stroke-dasharray='20,10'/><circle cx='200' cy='500' r='150' fill='url(#purpleGrad)' opacity='0.1'/><circle cx='450' cy='600' r='100' fill='url(#purpleGrad)' opacity='0.15'/><circle cx='100' cy='350' r='80' fill='url(#purpleGrad)' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 50,
+                "width": 388.62,
+                "height": 73.45,
+                "fill": "#FFFFFF",
+                "text": "GTRACING",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 50,
+                "width": 366.99,
+                "height": 58.76,
+                "fill": "#9c27b0",
+                "text": "GAMING CHAIR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 50,
+                "width": 350.17,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM RACING-STYLE COMFORT",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 50,
+                "width": 390.53,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Ergonomic Design with Footrest\n\u2022 Reclining with Adjustable Height\n\u2022 Built-in Lumbar Support",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description_1"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 258.74,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "$116.98",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 720,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#9c27b0",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 90,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 50,
+                "width": 288.1,
+                "height": 81.36,
+                "fill": "#FFFFFF",
+                "text": "Maximum Weight Capacity: 330 lbs\nSwivel & Recline Function\nPremium PU Leather",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description_2"
+            },
+            {
+                "type": "image",
+                "top": 140,
+                "left": 570,
+                "width": 494.45000000000005,
+                "height": 791.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/bQdMrGEmEJn4mkAXfXlBP_899x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GTRACING Gaming Chair with Footrest, Ergonomic Computer Game Desk Chair, Reclining Gamer Chair Seat Height Adjustment, Swivel Rocker with Headrest and Lumbar, Purple",
+            "description": "Brand: GTRACING. Color: Purple. Product Dimensions: 22\"D x 22\"W x 47\"H. Size: with Footrest. Back Style: Solid Back. Special Feature: Arm Rest, Cushion Availability. Product Care Instructions: Wipe Clean. Unit Count: 1.0 Count. Recommended Uses For Product: Gaming. Maximum Weight Recommendation: 330 Pounds. Style: Racing-Style. Pattern: Solid. Finish Type: Powder Coated. Age Range (Description): Adult. Theme: Video Game. Shape: S-Shape. Model Name: Gaming Chair with Footrest, Ergonomic Computer Game Desk Chair, Reclining Gamer Chair Seat Height Adjustment,. Arm Style: With arms. Surface Recommendation: Hard Floor. Furniture base movement: Swivel. Indoor/Outdoor Usage: Indoor. Furniture Finish: Leather. Fill Material: Sponge. Leg Style: Turned Leg. Is Customizable: No. Form Factor: Recliner. Item Weight: 30 pounds. Country of Origin: Vietnam.",
+            "price": "$116.98"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/bQdMrGEmEJn4mkAXfXlBP_899x1439.png",
+        "marketplace_url": "https://www.amazon.com/GTRACING-Footrest-Ergonomic-Reclining-Adjustment/dp/B0CD7WQGRF/ref=sxin_13_pa_sp_search_thematic_sspa?_encoding=UTF8&content-id=amzn1.sym.e1fd0544-6483-4e4f-b389-bc90db9d388a%3Aamzn1.sym.e1fd0544-6483-4e4f-b389-bc90db9d388a&cv_ct_cx=gaming%2Bchairs&keywords=gaming%2Bchairs&pd_rd_i=B0CD7WQGRF&pd_rd_r=70e9f10e-0452-4816-88e8-3f2510c3fdeb&pd_rd_w=DuhPN&pd_rd_wg=w5txz&pf_rd_p=e1fd0544-6483-4e4f-b389-bc90db9d388a&pf_rd_r=F9MHRM9PAAGJE9ZW9CF7&qid=1746980194&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-9428117c-b940-4daa-97e9-ad363ada7940-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a modern, tech-inspired layout designed for promoting a premium gaming chair. The background has a dark gradient with layered translucent purple geometric patterns, creating depth and drawing attention to the content. On the left side, prominent headings with IDs \"heading\" and \"subheading\" introduce the brand and product category in futuristic fonts. A supporting tagline (\"tagline\") and bullet point feature list (\"description_1\") highlight key product benefits. The price (\"price\") is emphasized in bold, futuristic typography, directly above a vibrant call-to-action button (\"cta_button\") labeled with \"cta\". Additional product specs are listed in \"description_2\". The product image (\"product_image\") on the right enhances appeal. The composition uses a strong vertical visual divider with dashed lines for separation.\n\n**Color Palette:**\n- Black: #000000 (background)\n- Dark Gray: #1a1a1a, #2a2a2a (gradient base)\n- Purple Gradient: From #6a1b9a to #9c27b0\n- Accent Purple: #9c27b0 (for buttons and text highlights)\n- White: #FFFFFF (for text)\n",
+    "product_color": "\nThe product image showcases a sleek gaming chair with a dynamic color palette dominated by deep black and vibrant purple, creating a bold and energetic look. The base color of matte black (#1C1C1C) provides a strong foundation, while the electric purple (#A020F0) accentuates contours and edges of the chair, giving it a vivid contrast. Touches of grey (#3A3A3A) are subtly used in structural elements for depth. White (#FFFFFF) is used effectively in the \u201cGTRACING\u201d logo, drawing focus without disrupting the theme. For an advertisement banner, combine black, electric purple, and white with gradients and shadow effects to emphasize modernity and power.\n"
+}

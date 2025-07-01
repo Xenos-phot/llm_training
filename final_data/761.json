@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a1a'/><stop offset='100%' stop-color='#2c2c2c'/></linearGradient><linearGradient id='bg2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' stop-color='#222222'/><stop offset='100%' stop-color='#333333'/></linearGradient><linearGradient id='gold' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#d4af37'/><stop offset='50%' stop-color='#f2d265'/><stop offset='100%' stop-color='#d4af37'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='url(#bg2)'/><path d='M0 0 L1080 0 L540 540 Z' fill='#000000' opacity='0.3'/><line x1='0' y1='0' x2='1080' y2='1080' stroke='url(#gold)' stroke-width='3' opacity='0.7'/><line x1='200' y1='0' x2='1080' y2='880' stroke='#d4af37' stroke-width='1' opacity='0.3'/><line x1='0' y1='200' x2='880' y2='1080' stroke='#d4af37' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='300' stroke='#d4af37' stroke-width='1' fill='none' opacity='0.1'/><circle cx='540' cy='540' r='200' stroke='#d4af37' stroke-width='1' fill='none' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 636.14, "height": 146.9, "fill": "#d4af37", "text": "LUXURY", "fontSize": 130, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 160, "left": 50, "width": 574.65, "height": 146.9, "fill": "#FFFFFF", "text": "WATCH", "fontSize": 130, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 290, "left": 55, "width": 489.38, "height": 67.8, "fill": "#d4af37", "text": "GOLDEN HOUR", "fontSize": 60, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 55, "width": 437.78, "height": 186.45, "fill": "#FFFFFF", "text": "Japanese Quartz Movement\nStainless Steel Design\n3ATM Waterproof\nBusiness Style Watch", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 55, "width": 363.2, "height": 113, "fill": "#FFFFFF", "text": "$39.99", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 55, "width": 200, "height": 60, "fill": "#d4af37", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 950, "left": 85, "width": 135.29, "height": 29.38, "fill": "#000000", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 350, "left": 520, "width": 668, "height": 1140, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f2454d6b-5e71-4cf2-98fe-a99f709704c3_nobg_668x1140.png", "id": "product_image"}, {"type": "rect", "top": 360, "left": 55, "width": 120, "height": 3, "fill": "#d4af37", "rx": 0, "ry": 0, "id": "decorative_line"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "\u231aMovement: Japanese imported quartz analog movement and battery, provide precise time and long-term running. The watch can be used for more than 1 years. \u231aMaterial: The strap is made of stainless steel, comfortable and soft and breathable. Mineral glasses, 304 steel case, Suit for all kinds of occasions. \u231aSports chronograph: Multifunctional sub-dial can work, chronograph, calendar, run seconds. Provide you with multi-function purpose use. \u231a3ATM waterproof: This watch is waterproof 30m, can withstand daily splash or short immersion in water, but not swimming and showering, diving or snorkeling. \u260eAfter sales service: Each product has 1-year after sales service. If you have any questions about the product, please contact me immediately and we will give you a satisfactory solution. Item width - 4.2 centimeters ** Clasp type - Push Button Foldover Clasp With Safety ** Country of Origin - China **", "price": "39.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f2454d6b-5e71-4cf2-98fe-a99f709704c3_nobg_668x1140.png", "marketplace_url": "https://www.amazon.com/dp/B087JG6H25", "layout": "diagonal_split"}, "banner_details": "\nThe banner showcases a sophisticated and modern layout designed to promote a luxury watch. The background features dark gradient tones with diagonal geometric patterns and subtle intersecting gold lines, contributing to an elegant and tech-inspired look. The main visual focus lies on a glossy black watch image on the right. \n\nText layers include a bold headline (\"heading_1\" and \"heading_2\") in contrasting gold and white, a subheadline (\"subheading\") in gold, a product description (\"description\") with key features formatted in neat white bullets, and a prominent white price tag (\"price\"). A yellow rectangular CTA button (\"cta_background\") with black text (\"cta\") is placed at the bottom left. One decorative gold line (\"decorative_line\") enhances visual hierarchy.\n\n**Color Palette:**\n- Gold: #d4af37\n- Light Gold: #f2d265\n- White: #ffffff\n- Black: #000000\n- Dark Gray Gradient: #1a1a1a \u2192 #2c2c2c\n", "product_color": "\nThe product image showcases a luxury chronograph watch with a refined monochromatic palette. Dominated by shades of black and gunmetal gray, the polished metallic finish gives an impression of sophistication and durability. The dial employs gradient blending between dark charcoal (#1A1A1A) and brushed steel (#555555), offering a tasteful contrast. Indexes and sub-dials are highlighted through subtle metallic sheens, enhancing visibility and depth. The band\u2019s black chrome (#2C2C2C) tone continues the bold aesthetic. For the advertisement banner, a palette of rich black (#000000), graphite gray (#3C3C3C), and cool silver (#C0C0C0) can be used for elegance and modern appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a1a'/><stop offset='100%' stop-color='#2c2c2c'/></linearGradient><linearGradient id='bg2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' stop-color='#222222'/><stop offset='100%' stop-color='#333333'/></linearGradient><linearGradient id='gold' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#d4af37'/><stop offset='50%' stop-color='#f2d265'/><stop offset='100%' stop-color='#d4af37'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='url(#bg2)'/><path d='M0 0 L1080 0 L540 540 Z' fill='#000000' opacity='0.3'/><line x1='0' y1='0' x2='1080' y2='1080' stroke='url(#gold)' stroke-width='3' opacity='0.7'/><line x1='200' y1='0' x2='1080' y2='880' stroke='#d4af37' stroke-width='1' opacity='0.3'/><line x1='0' y1='200' x2='880' y2='1080' stroke='#d4af37' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='300' stroke='#d4af37' stroke-width='1' fill='none' opacity='0.1'/><circle cx='540' cy='540' r='200' stroke='#d4af37' stroke-width='1' fill='none' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 636.14,
+                "height": 146.9,
+                "fill": "#d4af37",
+                "text": "LUXURY",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 50,
+                "width": 574.65,
+                "height": 146.9,
+                "fill": "#FFFFFF",
+                "text": "WATCH",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 55,
+                "width": 489.38,
+                "height": 67.8,
+                "fill": "#d4af37",
+                "text": "GOLDEN HOUR",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 55,
+                "width": 437.78,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "Japanese Quartz Movement\nStainless Steel Design\n3ATM Waterproof\nBusiness Style Watch",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 55,
+                "width": 363.2,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$39.99",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 55,
+                "width": 200,
+                "height": 60,
+                "fill": "#d4af37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 85,
+                "width": 135.29,
+                "height": 29.38,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 350,
+                "left": 520,
+                "width": 434.2,
+                "height": 741.0,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f2454d6b-5e71-4cf2-98fe-a99f709704c3_nobg_668x1140.png",
+                "id": "product_image"
+            },
+            {
+                "type": "rect",
+                "top": 360,
+                "left": 55,
+                "width": 120,
+                "height": 3,
+                "fill": "#d4af37",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative_line"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "\u231aMovement: Japanese imported quartz analog movement and battery, provide precise time and long-term running. The watch can be used for more than 1 years. \u231aMaterial: The strap is made of stainless steel, comfortable and soft and breathable. Mineral glasses, 304 steel case, Suit for all kinds of occasions. \u231aSports chronograph: Multifunctional sub-dial can work, chronograph, calendar, run seconds. Provide you with multi-function purpose use. \u231a3ATM waterproof: This watch is waterproof 30m, can withstand daily splash or short immersion in water, but not swimming and showering, diving or snorkeling. \u260eAfter sales service: Each product has 1-year after sales service. If you have any questions about the product, please contact me immediately and we will give you a satisfactory solution. Item width - 4.2 centimeters ** Clasp type - Push Button Foldover Clasp With Safety ** Country of Origin - China **",
+            "price": "39.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f2454d6b-5e71-4cf2-98fe-a99f709704c3_nobg_668x1140.png",
+        "marketplace_url": "https://www.amazon.com/dp/B087JG6H25",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner showcases a sophisticated and modern layout designed to promote a luxury watch. The background features dark gradient tones with diagonal geometric patterns and subtle intersecting gold lines, contributing to an elegant and tech-inspired look. The main visual focus lies on a glossy black watch image on the right. \n\nText layers include a bold headline (\"heading_1\" and \"heading_2\") in contrasting gold and white, a subheadline (\"subheading\") in gold, a product description (\"description\") with key features formatted in neat white bullets, and a prominent white price tag (\"price\"). A yellow rectangular CTA button (\"cta_background\") with black text (\"cta\") is placed at the bottom left. One decorative gold line (\"decorative_line\") enhances visual hierarchy.\n\n**Color Palette:**\n- Gold: #d4af37\n- Light Gold: #f2d265\n- White: #ffffff\n- Black: #000000\n- Dark Gray Gradient: #1a1a1a \u2192 #2c2c2c\n",
+    "product_color": "\nThe product image showcases a luxury chronograph watch with a refined monochromatic palette. Dominated by shades of black and gunmetal gray, the polished metallic finish gives an impression of sophistication and durability. The dial employs gradient blending between dark charcoal (#1A1A1A) and brushed steel (#555555), offering a tasteful contrast. Indexes and sub-dials are highlighted through subtle metallic sheens, enhancing visibility and depth. The band\u2019s black chrome (#2C2C2C) tone continues the bold aesthetic. For the advertisement banner, a palette of rich black (#000000), graphite gray (#3C3C3C), and cool silver (#C0C0C0) can be used for elegance and modern appeal.\n"
+}

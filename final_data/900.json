@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1A1A1A'/><path d='M0 450 C180 500 360 380 540 450 C720 520 900 400 1080 450 L1080 1080 L0 1080 Z' fill='#0D1A26'/><circle cx='850' cy='250' r='120' fill='#2980B9' opacity='0.3'/><circle cx='200' cy='150' r='80' fill='#3498DB' opacity='0.2'/><rect x='0' y='0' width='20' height='1080' fill='#E74C3C' opacity='0.8'/><rect x='1060' y='0' width='20' height='1080' fill='#E74C3C' opacity='0.8'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 139.29000000000002, "width": 801.42, "height": 88.14, "fill": "#FFFFFF", "text": "CAMPUS DECCAN", "fontSize": 78, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 296.28, "width": 487.44, "height": 50.85, "fill": "#3498DB", "text": "MEN'S WALKING SHOES", "fontSize": 45, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 305.15, "left": 222.97499999999997, "width": 1409, "height": 866, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67dbd7c84b61e79c1aa2f7d8/zyXwU2U6oQdVYWcdAeya6_1409x866.png", "id": "product_image"}, {"type": "text", "top": 800, "left": 424.2, "width": 231.6, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9 1899", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 430.0, "width": 220.00000000000003, "height": 66.0, "fill": "#E74C3C", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 934.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Campus DECCAN Men's Lace-Up Walking Shoes", "description": "Product Dimensions: 30.5 x 21.5 x 11.2 cm; 900 g. Country of Origin: India. Department: mens. Item Weight: 900 g. Item Dimensions Lx Wx H: 30.5 x 21.5 x 11.2 Centimeters. Net Quantity: 1 Pair. Generic Name: Sports Shoes. Customer Reviews: 4.0 4.0 out of 5 stars 155 ratings.", "price": "\u20b91899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67dbd7c84b61e79c1aa2f7d8/zyXwU2U6oQdVYWcdAeya6_1409x866.png", "marketplace_url": "https://amzn.in/d/018m4Fl", "layout": "minimalist_center"}, "banner_details": "\nThis banner showcases a promotional design for a pair of athletic men's walking shoes. The background features a sleek dark theme with curved wave elements and semi-transparent circular accents for visual depth. On top, a bold all-caps headline (text id: \"heading\") draws attention, followed by a subheadline (text id: \"subheading\") in a vibrant blue tone that reinforces the product category. Centered in the design is a product image (id: \"product_image\"), prominently displayed for visual appeal. Lower in the frame, the price (text id: \"price\") is positioned in large, bold format for clarity. At the bottom, a red action button (rect id: \"cta_background\") with white call-to-action text (id: \"cta\") invites interaction.\n\n**Color Palette:**\n- Dark Slate: `#1A1A1A`\n- Deep Navy: `#0D1A26`\n- Electric Blue: `#3498DB`, `#2980B9`\n- Bright Red: `#E74C3C`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases a modern black athletic shoe with a sleek, sporty aesthetic. Dominant black mesh and synthetic overlays (#121212) serve as a bold base, giving the shoe a rugged and versatile look. Subtle graphite grey accents (#4C4C4C) are used in stripes and overlays, blending seamlessly with the black while adding depth. Pops of electric red (#FF3B30) near the lacing area create visual interest, while the vibrant blue (#007BFF) highlights branding and heel tab for contrast. Soft midsole reflections in dark navy (#1A1A2E) and a hint of yellow gold (#FFD700) in the \u201cPILOT\u201d logo enhance the design\u2019s premium appeal.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1A1A1A'/><path d='M0 450 C180 500 360 380 540 450 C720 520 900 400 1080 450 L1080 1080 L0 1080 Z' fill='#0D1A26'/><circle cx='850' cy='250' r='120' fill='#2980B9' opacity='0.3'/><circle cx='200' cy='150' r='80' fill='#3498DB' opacity='0.2'/><rect x='0' y='0' width='20' height='1080' fill='#E74C3C' opacity='0.8'/><rect x='1060' y='0' width='20' height='1080' fill='#E74C3C' opacity='0.8'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 139.29000000000002,
+                "width": 801.42,
+                "height": 88.14,
+                "fill": "#FFFFFF",
+                "text": "CAMPUS DECCAN",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 296.28,
+                "width": 487.44,
+                "height": 50.85,
+                "fill": "#3498DB",
+                "text": "MEN'S WALKING SHOES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 305.15,
+                "left": 222.97499999999997,
+                "width": 634.0500000000001,
+                "height": 389.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67dbd7c84b61e79c1aa2f7d8/zyXwU2U6oQdVYWcdAeya6_1409x866.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 424.2,
+                "width": 231.6,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 1899",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 430.0,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#E74C3C",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 934.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Campus DECCAN Men's Lace-Up Walking Shoes",
+            "description": "Product Dimensions: 30.5 x 21.5 x 11.2 cm; 900 g. Country of Origin: India. Department: mens. Item Weight: 900 g. Item Dimensions Lx Wx H: 30.5 x 21.5 x 11.2 Centimeters. Net Quantity: 1 Pair. Generic Name: Sports Shoes. Customer Reviews: 4.0 4.0 out of 5 stars 155 ratings.",
+            "price": "\u20b91899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67dbd7c84b61e79c1aa2f7d8/zyXwU2U6oQdVYWcdAeya6_1409x866.png",
+        "marketplace_url": "https://amzn.in/d/018m4Fl",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner showcases a promotional design for a pair of athletic men's walking shoes. The background features a sleek dark theme with curved wave elements and semi-transparent circular accents for visual depth. On top, a bold all-caps headline (text id: \"heading\") draws attention, followed by a subheadline (text id: \"subheading\") in a vibrant blue tone that reinforces the product category. Centered in the design is a product image (id: \"product_image\"), prominently displayed for visual appeal. Lower in the frame, the price (text id: \"price\") is positioned in large, bold format for clarity. At the bottom, a red action button (rect id: \"cta_background\") with white call-to-action text (id: \"cta\") invites interaction.\n\n**Color Palette:**\n- Dark Slate: `#1A1A1A`\n- Deep Navy: `#0D1A26`\n- Electric Blue: `#3498DB`, `#2980B9`\n- Bright Red: `#E74C3C`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases a modern black athletic shoe with a sleek, sporty aesthetic. Dominant black mesh and synthetic overlays (#121212) serve as a bold base, giving the shoe a rugged and versatile look. Subtle graphite grey accents (#4C4C4C) are used in stripes and overlays, blending seamlessly with the black while adding depth. Pops of electric red (#FF3B30) near the lacing area create visual interest, while the vibrant blue (#007BFF) highlights branding and heel tab for contrast. Soft midsole reflections in dark navy (#1A1A2E) and a hint of yellow gold (#FFD700) in the \u201cPILOT\u201d logo enhance the design\u2019s premium appeal.  \n"
+}

@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A2A4A'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='#0F3460'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#16213E'/><path d='M1080 0 L0 0 L1080 1080 Z' fill='#E94560' opacity='0.2'/><path d='M1080 0 L0 0 L0 1080 Z' fill='#FFD700' opacity='0.15'/><g opacity='0.2'><circle cx='100' cy='100' r='3' fill='#FFD700'/><circle cx='150' cy='100' r='3' fill='#FFD700'/><circle cx='200' cy='100' r='3' fill='#FFD700'/><circle cx='100' cy='150' r='3' fill='#FFD700'/><circle cx='150' cy='150' r='3' fill='#FFD700'/><circle cx='200' cy='150' r='3' fill='#FFD700'/><circle cx='100' cy='200' r='3' fill='#FFD700'/><circle cx='150' cy='200' r='3' fill='#FFD700'/><circle cx='200' cy='200' r='3' fill='#FFD700'/></g><g opacity='0.15'><circle cx='880' cy='880' r='3' fill='#FFFFFF'/><circle cx='930' cy='880' r='3' fill='#FFFFFF'/><circle cx='980' cy='880' r='3' fill='#FFFFFF'/><circle cx='880' cy='930' r='3' fill='#FFFFFF'/><circle cx='930' cy='930' r='3' fill='#FFFFFF'/><circle cx='980' cy='930' r='3' fill='#FFFFFF'/><circle cx='880' cy='980' r='3' fill='#FFFFFF'/><circle cx='930' cy='980' r='3' fill='#FFFFFF'/><circle cx='980' cy='980' r='3' fill='#FFFFFF'/></g><path d='M200 200 L230 230 L200 260 L170 230 Z' fill='#FFD700' opacity='0.3'/><path d='M880 180 L910 210 L880 240 L850 210 Z' fill='#FFD700' opacity='0.3'/><path d='M180 780 L210 810 L180 840 L150 810 Z' fill='#FFFFFF' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 40, "width": 367.44, "height": 101.7, "fill": "#FFD700", "text": "BUY ONE", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 150, "left": 40, "width": 582.45, "height": 101.7, "fill": "#FFD700", "text": "GET ONE FREE", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 280, "left": 40, "width": 806.54, "height": 67.8, "fill": "#FFFFFF", "text": "BELIEVE IN YOURSELF", "fontSize": 60, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 40, "width": 425.75, "height": 176.28, "fill": "#E0E0E0", "text": "\u2022 Premium Cotton Material\n\u2022 Motivational Design\n\u2022 Stylish Navy Blue Color\n\u2022 Perfect Gift for Self-Improvement", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 40, "width": 310.71, "height": 40.68, "fill": "#FFD700", "text": "Double Your Inspiration!", "fontSize": 36, "fontFamily": "Yellowtail Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 800, "left": 40, "width": 326.18, "height": 96.05, "fill": "#FFFFFF", "text": "\u20b9 2330", "fontSize": 85, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 40, "width": 220, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 955, "left": 75, "width": 145.54, "height": 31.64, "fill": "#16213E", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 386, "left": 519, "width": 613, "height": 684, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/RC2DrCPuMn-joqKfhGOlv_613x684.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Inspirational 'Believe in Yourself' Premium Cotton T-Shirt", "description": "\u2022 Stylish navy blue color perfect for casual and motivational wear\n\u2022 Modern typography design with layered 'BELIEVE' text effect\n\u2022 High-quality cotton material for maximum comfort\n\u2022 Versatile round neck design suitable for all occasions\n\u2022 Empowering message that boosts confidence and self-belief\n\u2022 Durable print technology ensures long-lasting design\n\u2022 Easy to care for and machine washable\n\u2022 Available in multiple sizes for perfect fit\n\u2022 Ideal for both casual wear and workout sessions\n\u2022 Perfect gift for motivation seekers and self-improvement enthusiasts", "price": "\u20b90233"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/RC2DrCPuMn-joqKfhGOlv_613x684.png", "marketplace_url": "blob:https://staging-studio.phot.ai/ce2cc592-7614-412c-9384-1ec48c93e28a", "layout": "diagonal_split"}, "banner_details": "\nThis vibrant promotional banner features a geometric, layered background composed of angular shapes in deep navy, maroon, plum, and muted teal. The color palette strikes a balance between modern and energetic, complemented by bright accent elements in golden yellow. The design is centered around a bold promotional message using text layers \"heading_1\" and \"heading_2\", rendered in a strong, sans-serif font. The motivational phrase on the shirt is mirrored in the \"subheading\" text for reinforcement. Text layer \"description\" provides bulleted product highlights, while \"tagline\" emphasizes enthusiasm in a handwritten script. Pricing is displayed via the \"price\" text and a bright \"SHOP NOW\" call-to-action button (\"cta_background\" and \"cta\"). A large product image (\"product_image\") of a navy blue t-shirt anchors the visual interest on the right.\n\n**Color Palette:**\n- Navy Blue: #1A2A4A\n- Deep Maroon: #3F2A28\n- Plum: #3B1D39\n- Teal Green: #345C64\n- Bright Yellow (Accent): #FFD700\n- Light Gray: #E0E0E0\n- White: #FFFFFF\n", "product_color": "\nThe product image features a navy blue t-shirt with motivational typography design. The primary color is a deep navy (#0F1A2B), lending a bold and sophisticated base. The text \"BELIEVE\" is repeated in a muted bluish-grey (#4A5A6A), blending subtly with the tee for a layered look. The script \u201cIn yourself\u201d is rendered in white (#F4F4F4), making it stand out prominently against darker hues and drawing immediate attention. These colors harmonize through contrast and opacity, giving the design depth and inspiration. A banner for this product could incorporate these main colors for a sleek, modern, and encouraging presentation.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A2A4A'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='#0F3460'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#16213E'/><path d='M1080 0 L0 0 L1080 1080 Z' fill='#E94560' opacity='0.2'/><path d='M1080 0 L0 0 L0 1080 Z' fill='#FFD700' opacity='0.15'/><g opacity='0.2'><circle cx='100' cy='100' r='3' fill='#FFD700'/><circle cx='150' cy='100' r='3' fill='#FFD700'/><circle cx='200' cy='100' r='3' fill='#FFD700'/><circle cx='100' cy='150' r='3' fill='#FFD700'/><circle cx='150' cy='150' r='3' fill='#FFD700'/><circle cx='200' cy='150' r='3' fill='#FFD700'/><circle cx='100' cy='200' r='3' fill='#FFD700'/><circle cx='150' cy='200' r='3' fill='#FFD700'/><circle cx='200' cy='200' r='3' fill='#FFD700'/></g><g opacity='0.15'><circle cx='880' cy='880' r='3' fill='#FFFFFF'/><circle cx='930' cy='880' r='3' fill='#FFFFFF'/><circle cx='980' cy='880' r='3' fill='#FFFFFF'/><circle cx='880' cy='930' r='3' fill='#FFFFFF'/><circle cx='930' cy='930' r='3' fill='#FFFFFF'/><circle cx='980' cy='930' r='3' fill='#FFFFFF'/><circle cx='880' cy='980' r='3' fill='#FFFFFF'/><circle cx='930' cy='980' r='3' fill='#FFFFFF'/><circle cx='980' cy='980' r='3' fill='#FFFFFF'/></g><path d='M200 200 L230 230 L200 260 L170 230 Z' fill='#FFD700' opacity='0.3'/><path d='M880 180 L910 210 L880 240 L850 210 Z' fill='#FFD700' opacity='0.3'/><path d='M180 780 L210 810 L180 840 L150 810 Z' fill='#FFFFFF' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 40,
+                "width": 367.44,
+                "height": 101.7,
+                "fill": "#FFD700",
+                "text": "BUY ONE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 40,
+                "width": 582.45,
+                "height": 101.7,
+                "fill": "#FFD700",
+                "text": "GET ONE FREE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 40,
+                "width": 806.54,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "BELIEVE IN YOURSELF",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 40,
+                "width": 425.75,
+                "height": 176.28,
+                "fill": "#E0E0E0",
+                "text": "\u2022 Premium Cotton Material\n\u2022 Motivational Design\n\u2022 Stylish Navy Blue Color\n\u2022 Perfect Gift for Self-Improvement",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 40,
+                "width": 310.71,
+                "height": 40.68,
+                "fill": "#FFD700",
+                "text": "Double Your Inspiration!",
+                "fontFamily": "Yellowtail Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 40,
+                "width": 326.18,
+                "height": 96.05,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 2330",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 40,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 955,
+                "left": 75,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#16213E",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 386,
+                "left": 519,
+                "width": 490.40000000000003,
+                "height": 547.2,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/RC2DrCPuMn-joqKfhGOlv_613x684.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Inspirational 'Believe in Yourself' Premium Cotton T-Shirt",
+            "description": "\u2022 Stylish navy blue color perfect for casual and motivational wear\n\u2022 Modern typography design with layered 'BELIEVE' text effect\n\u2022 High-quality cotton material for maximum comfort\n\u2022 Versatile round neck design suitable for all occasions\n\u2022 Empowering message that boosts confidence and self-belief\n\u2022 Durable print technology ensures long-lasting design\n\u2022 Easy to care for and machine washable\n\u2022 Available in multiple sizes for perfect fit\n\u2022 Ideal for both casual wear and workout sessions\n\u2022 Perfect gift for motivation seekers and self-improvement enthusiasts",
+            "price": "\u20b90233"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/RC2DrCPuMn-joqKfhGOlv_613x684.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/ce2cc592-7614-412c-9384-1ec48c93e28a",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis vibrant promotional banner features a geometric, layered background composed of angular shapes in deep navy, maroon, plum, and muted teal. The color palette strikes a balance between modern and energetic, complemented by bright accent elements in golden yellow. The design is centered around a bold promotional message using text layers \"heading_1\" and \"heading_2\", rendered in a strong, sans-serif font. The motivational phrase on the shirt is mirrored in the \"subheading\" text for reinforcement. Text layer \"description\" provides bulleted product highlights, while \"tagline\" emphasizes enthusiasm in a handwritten script. Pricing is displayed via the \"price\" text and a bright \"SHOP NOW\" call-to-action button (\"cta_background\" and \"cta\"). A large product image (\"product_image\") of a navy blue t-shirt anchors the visual interest on the right.\n\n**Color Palette:**\n- Navy Blue: #1A2A4A\n- Deep Maroon: #3F2A28\n- Plum: #3B1D39\n- Teal Green: #345C64\n- Bright Yellow (Accent): #FFD700\n- Light Gray: #E0E0E0\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a navy blue t-shirt with motivational typography design. The primary color is a deep navy (#0F1A2B), lending a bold and sophisticated base. The text \"BELIEVE\" is repeated in a muted bluish-grey (#4A5A6A), blending subtly with the tee for a layered look. The script \u201cIn yourself\u201d is rendered in white (#F4F4F4), making it stand out prominently against darker hues and drawing immediate attention. These colors harmonize through contrast and opacity, giving the design depth and inspiration. A banner for this product could incorporate these main colors for a sleek, modern, and encouraging presentation.\n"
+}

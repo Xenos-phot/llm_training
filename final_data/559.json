@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E8E8E8'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#D3D3D3'/><path d='M0 850 L1080 850 L1080 1080 L0 1080 L0 850Z' fill='#A9A9A9'/><path d='M0 650 C200 630 400 670 600 650 C800 630 1000 670 1080 650 L1080 900 C900 880 700 920 500 900 C300 880 100 920 0 900 L0 650Z' fill='#B5B5B5'/><circle cx='900' cy='200' r='150' fill='#C4C4C4' opacity='0.3'/><circle cx='200' cy='250' r='80' fill='#C4C4C4' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 67, "left": 274.72, "width": 530.56, "height": 90.4, "fill": "#333333", "text": "CROCK-POT", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 163, "left": 269.76, "width": 540.48, "height": 45.2, "fill": "#555555", "text": "PROGRAMMABLE SLOW COOKER", "fontSize": 40, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 334.39, "left": 242.14999999999998, "width": 1295, "height": 807, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png", "id": "product_image"}, {"type": "text", "top": 788.3, "left": 400.49, "width": 279.02, "height": 101.7, "fill": "#333333", "text": "$49.96", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 907.0, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#555555", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 924.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Whether you&rsquo;re feeding friends and family at home, or taking your meal on the go or to an event, the Crockpot 7 QT Cook & Carry Programmable Slow Cooker makes sharing a home-cooked meal with loved ones easy and effortless. The Cook & Carry travel-proof locking lid provides a tight seal to prevent leaks and spills, for no mess on the go, and convenient handles make it easy to carry and take your favorite slow cooked meals anywhere. A digital countdown control allows you to easily program your slow cooker from 30 minutes up to 20 hours. When cooking is completed, temperature automatically shifts to warm mode to avoid overcooking. The digital display also lets you track your meal progress and monitor remaining cook time. With a 7-quart capacity, it cooks meals for 9+ people, perfect for feeding a crowd. When you&rsquo;re finished slow cooking, both the lid and the stoneware can be placed in the dishwasher for easy cleanup.", "price": "49.96"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png", "marketplace_url": "https://www.walmart.com/ip/Crock-Pot-7-Quart-Cook-and-Carry-Programmable-Slow-Cooker-Grey/2156701161", "layout": "minimalist_center"}, "banner_details": "\nThis banner showcases a modern and clean design layout for a kitchen appliance advertisement. A soft, neutral-toned background features layered wave-like shapes and translucent circular accents to create depth while keeping visual distraction minimal. A prominent product image is centered, drawing attention with photorealistic quality. The top third includes bold uppercase text labeled as \"heading\" followed underneath by smaller descriptive text known as \"subheading.\" The bottom third features the \"price\" in bold typography and a high-contrast rectangular \"cta_button\" with a clear \"cta\" text element inside it for the call-to-action. The overall composition balances clarity, readability, and visual focus on the product.\n\n**Color Palette**:\n- Light Gray (#E8E8E8)\n- Dark Gray (#333333)\n- Mid Gray (#555555)\n- Pale Gray (#D3D3D3)\n- Medium Gray (#B5B5B5)\n- Soft Circle Gray (#C4C4C4)\n- Button Gray (#A9A9A9)\n- White (#FFFFFF)\n", "product_color": "\nThe product image presents a sleek and modern aesthetic with a minimalistic color palette. Dominantly, the body features a matte charcoal gray (#6B6B6B) which gives it a contemporary, elegant feel. This is contrasted by a soft white (#F5F5F5) used on the control panel and lid rim, enhancing readability and cleanliness. Narrow dark accents such as near-black gray (#2E2E2E) are used in button outlines and edges to create visual clarity and depth. Subtle beige (#E7E3DB) is used as a secondary background on the control panel, providing warmth. Together, the tones blend harmoniously, emphasizing utility while retaining stylish simplicity for advertising.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E8E8E8'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#D3D3D3'/><path d='M0 850 L1080 850 L1080 1080 L0 1080 L0 850Z' fill='#A9A9A9'/><path d='M0 650 C200 630 400 670 600 650 C800 630 1000 670 1080 650 L1080 900 C900 880 700 920 500 900 C300 880 100 920 0 900 L0 650Z' fill='#B5B5B5'/><circle cx='900' cy='200' r='150' fill='#C4C4C4' opacity='0.3'/><circle cx='200' cy='250' r='80' fill='#C4C4C4' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 67,
+                "left": 274.72,
+                "width": 530.56,
+                "height": 90.4,
+                "fill": "#333333",
+                "text": "CROCK-POT",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 163,
+                "left": 269.76,
+                "width": 540.48,
+                "height": 45.2,
+                "fill": "#555555",
+                "text": "PROGRAMMABLE SLOW COOKER",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 334.39,
+                "left": 242.14999999999998,
+                "width": 595.7,
+                "height": 371.22,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 788.3,
+                "left": 400.49,
+                "width": 279.02,
+                "height": 101.7,
+                "fill": "#333333",
+                "text": "$49.96",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 907.0,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#555555",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 924.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Whether you&rsquo;re feeding friends and family at home, or taking your meal on the go or to an event, the Crockpot 7 QT Cook & Carry Programmable Slow Cooker makes sharing a home-cooked meal with loved ones easy and effortless. The Cook & Carry travel-proof locking lid provides a tight seal to prevent leaks and spills, for no mess on the go, and convenient handles make it easy to carry and take your favorite slow cooked meals anywhere. A digital countdown control allows you to easily program your slow cooker from 30 minutes up to 20 hours. When cooking is completed, temperature automatically shifts to warm mode to avoid overcooking. The digital display also lets you track your meal progress and monitor remaining cook time. With a 7-quart capacity, it cooks meals for 9+ people, perfect for feeding a crowd. When you&rsquo;re finished slow cooking, both the lid and the stoneware can be placed in the dishwasher for easy cleanup.",
+            "price": "49.96"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png",
+        "marketplace_url": "https://www.walmart.com/ip/Crock-Pot-7-Quart-Cook-and-Carry-Programmable-Slow-Cooker-Grey/2156701161",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner showcases a modern and clean design layout for a kitchen appliance advertisement. A soft, neutral-toned background features layered wave-like shapes and translucent circular accents to create depth while keeping visual distraction minimal. A prominent product image is centered, drawing attention with photorealistic quality. The top third includes bold uppercase text labeled as \"heading\" followed underneath by smaller descriptive text known as \"subheading.\" The bottom third features the \"price\" in bold typography and a high-contrast rectangular \"cta_button\" with a clear \"cta\" text element inside it for the call-to-action. The overall composition balances clarity, readability, and visual focus on the product.\n\n**Color Palette**:\n- Light Gray (#E8E8E8)\n- Dark Gray (#333333)\n- Mid Gray (#555555)\n- Pale Gray (#D3D3D3)\n- Medium Gray (#B5B5B5)\n- Soft Circle Gray (#C4C4C4)\n- Button Gray (#A9A9A9)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image presents a sleek and modern aesthetic with a minimalistic color palette. Dominantly, the body features a matte charcoal gray (#6B6B6B) which gives it a contemporary, elegant feel. This is contrasted by a soft white (#F5F5F5) used on the control panel and lid rim, enhancing readability and cleanliness. Narrow dark accents such as near-black gray (#2E2E2E) are used in button outlines and edges to create visual clarity and depth. Subtle beige (#E7E3DB) is used as a secondary background on the control panel, providing warmth. Together, the tones blend harmoniously, emphasizing utility while retaining stylish simplicity for advertising.\n"
+}

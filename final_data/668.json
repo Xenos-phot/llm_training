@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bg' cx='50%' cy='50%' r='70%'><stop offset='0%' style='stop-color:#1A1A1A'/><stop offset='100%' style='stop-color:#000000'/></radialGradient><linearGradient id='glow1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF8C00;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#FF4500;stop-opacity:0'/></linearGradient><linearGradient id='glow2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#FFA500;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#FF6347;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='0' y='0' width='540' height='1080' fill='#111111'/><path d='M0,0 Q270,200 0,400 Q270,600 0,800 Q270,1000 0,1080 L540,1080 L540,0 Z' fill='#181818'/><circle cx='100' cy='200' r='150' fill='url(#glow1)' opacity='0.2'/><circle cx='450' cy='850' r='200' fill='url(#glow2)' opacity='0.2'/><circle cx='250' cy='500' r='5' fill='#FF6347' opacity='0.8'/><circle cx='150' cy='350' r='3' fill='#FFA500' opacity='0.7'/><circle cx='380' cy='700' r='4' fill='#FF8C00' opacity='0.6'/><circle cx='420' cy='200' r='3' fill='#FF6347' opacity='0.7'/><circle cx='100' cy='650' r='4' fill='#FFA500' opacity='0.8'/><circle cx='300' cy='800' r='3' fill='#FF8C00' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 435.7, "height": 113, "fill": "#FFFFFF", "text": "NEXT-GEN\nAPPLE WATCH", "fontSize": 50, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 230, "left": 40, "width": 439.97, "height": 24.86, "fill": "#FF6347", "text": "FEATURING STUNNING FIRE BLOOM DISPLAY", "fontSize": 22, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 40, "width": 277.33, "height": 40.68, "fill": "#FFA500", "text": "GRAB THE FUTURE TODAY!", "fontSize": 36, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 390, "left": 40, "width": 345.62, "height": 174.02, "fill": "#FFFFFF", "text": "\u2022 Premium Space Gray aluminum case\n   with sleek black sport band\n\u2022 Brilliant OLED Retina display with\n   stunning fire bloom watch face\n\u2022 Always-On display technology for\n   constant time visibility", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 40, "width": 332.97, "height": 27.12, "fill": "#FF8C00", "text": "UNLOCK EXCLUSIVE SAVINGS!", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "offer_text"}, {"type": "text", "top": 680, "left": 40, "width": 317.98, "height": 79.1, "fill": "#FFFFFF", "text": "\u20b932,100", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 40, "width": 220, "height": 60, "fill": "#FF6347", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 816, "left": 80, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 160, "left": 600, "width": 559, "height": 1038, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6839b373a3c5fa35e9ae64ed/arP421DGVje88VgKy87Cg_559x1038.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Next-Gen Apple Watch: Featuring Stunning Fire Bloom Display", "description": "\u2022 Premium Space Gray aluminum case with sleek black sport band\n\u2022 Brilliant OLED Retina display with stunning fire bloom watch face\n\u2022 Always-On display technology for constant time visibility\n\u2022 Digital Crown for precise navigation and control\n\u2022 Water-resistant design for everyday wear\n\u2022 Custom watch faces with mesmerizing animations\n\u2022 Durable Ion-X strengthened glass screen\n\u2022 Seamless integration with iOS devices\n\u2022 Advanced health and fitness tracking capabilities\n\u2022 Up to 18 hours of battery life", "price": "\u20b932100"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6839b373a3c5fa35e9ae64ed/arP421DGVje88VgKy87Cg_559x1038.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "  \nThe banner prominently advertises a high-tech smartwatch on a sleek, modern layout divided into two sections. The left half features various text elements, including a main title (`heading`), a feature highlight (`subheading`), a catchy slogan (`tagline`), a list of product benefits (`description`), a limited-time offer message (`offer_text`), the price (`price`), and a clear call-to-action button (`cta_button` and `cta`). The right half showcases the product with a realistic image (`product_image`). The backdrop features gradients, soft glows, and radial ornaments (`background`), creating a sense of depth and energy.  \n\n**Color Palette:**  \n- Jet Black: `#000000`  \n- Dark Gray: `#111111`, `#181818`  \n- White: `#FFFFFF`  \n- Fire Orange: `#FF6347`  \n- Amber: `#FFA500`  \n- Dark Orange: `#FF8C00`\n", "product_color": "\nThe product image showcases a sleek black smartwatch with a captivating dial design. The color palette primarily features deep black (#000000) for the band and casing, providing a modern and premium base. The watch face displays golden amber hues (#C47E3B) and rich copper tones (#8B4C2B), transitioning smoothly into darker gradients for depth and fluidity. Highlights of bright white (#FFFFFF) are used for the watch hands, ensuring visibility and contrast. The blending of fiery golds with high-gloss black creates an elegant yet bold look. For promotional banners, use black, gold, copper, and white to maintain luxury and technological sophistication.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bg' cx='50%' cy='50%' r='70%'><stop offset='0%' style='stop-color:#1A1A1A'/><stop offset='100%' style='stop-color:#000000'/></radialGradient><linearGradient id='glow1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF8C00;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#FF4500;stop-opacity:0'/></linearGradient><linearGradient id='glow2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#FFA500;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#FF6347;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='0' y='0' width='540' height='1080' fill='#111111'/><path d='M0,0 Q270,200 0,400 Q270,600 0,800 Q270,1000 0,1080 L540,1080 L540,0 Z' fill='#181818'/><circle cx='100' cy='200' r='150' fill='url(#glow1)' opacity='0.2'/><circle cx='450' cy='850' r='200' fill='url(#glow2)' opacity='0.2'/><circle cx='250' cy='500' r='5' fill='#FF6347' opacity='0.8'/><circle cx='150' cy='350' r='3' fill='#FFA500' opacity='0.7'/><circle cx='380' cy='700' r='4' fill='#FF8C00' opacity='0.6'/><circle cx='420' cy='200' r='3' fill='#FF6347' opacity='0.7'/><circle cx='100' cy='650' r='4' fill='#FFA500' opacity='0.8'/><circle cx='300' cy='800' r='3' fill='#FF8C00' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 435.7,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "NEXT-GEN\nAPPLE WATCH",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 230,
+                "left": 40,
+                "width": 439.97,
+                "height": 24.86,
+                "fill": "#FF6347",
+                "text": "FEATURING STUNNING FIRE BLOOM DISPLAY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 40,
+                "width": 277.33,
+                "height": 40.68,
+                "fill": "#FFA500",
+                "text": "GRAB THE FUTURE TODAY!",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 390,
+                "left": 40,
+                "width": 345.62,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium Space Gray aluminum case\n   with sleek black sport band\n\u2022 Brilliant OLED Retina display with\n   stunning fire bloom watch face\n\u2022 Always-On display technology for\n   constant time visibility",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 40,
+                "width": 332.97,
+                "height": 27.12,
+                "fill": "#FF8C00",
+                "text": "UNLOCK EXCLUSIVE SAVINGS!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "offer_text"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 40,
+                "width": 317.98,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "\u20b932,100",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 40,
+                "width": 220,
+                "height": 60,
+                "fill": "#FF6347",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 816,
+                "left": 80,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 160,
+                "left": 600,
+                "width": 391.29999999999995,
+                "height": 726.5999999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6839b373a3c5fa35e9ae64ed/arP421DGVje88VgKy87Cg_559x1038.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Next-Gen Apple Watch: Featuring Stunning Fire Bloom Display",
+            "description": "\u2022 Premium Space Gray aluminum case with sleek black sport band\n\u2022 Brilliant OLED Retina display with stunning fire bloom watch face\n\u2022 Always-On display technology for constant time visibility\n\u2022 Digital Crown for precise navigation and control\n\u2022 Water-resistant design for everyday wear\n\u2022 Custom watch faces with mesmerizing animations\n\u2022 Durable Ion-X strengthened glass screen\n\u2022 Seamless integration with iOS devices\n\u2022 Advanced health and fitness tracking capabilities\n\u2022 Up to 18 hours of battery life",
+            "price": "\u20b932100"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6839b373a3c5fa35e9ae64ed/arP421DGVje88VgKy87Cg_559x1038.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "  \nThe banner prominently advertises a high-tech smartwatch on a sleek, modern layout divided into two sections. The left half features various text elements, including a main title (`heading`), a feature highlight (`subheading`), a catchy slogan (`tagline`), a list of product benefits (`description`), a limited-time offer message (`offer_text`), the price (`price`), and a clear call-to-action button (`cta_button` and `cta`). The right half showcases the product with a realistic image (`product_image`). The backdrop features gradients, soft glows, and radial ornaments (`background`), creating a sense of depth and energy.  \n\n**Color Palette:**  \n- Jet Black: `#000000`  \n- Dark Gray: `#111111`, `#181818`  \n- White: `#FFFFFF`  \n- Fire Orange: `#FF6347`  \n- Amber: `#FFA500`  \n- Dark Orange: `#FF8C00`\n",
+    "product_color": "\nThe product image showcases a sleek black smartwatch with a captivating dial design. The color palette primarily features deep black (#000000) for the band and casing, providing a modern and premium base. The watch face displays golden amber hues (#C47E3B) and rich copper tones (#8B4C2B), transitioning smoothly into darker gradients for depth and fluidity. Highlights of bright white (#FFFFFF) are used for the watch hands, ensuring visibility and contrast. The blending of fiery golds with high-gloss black creates an elegant yet bold look. For promotional banners, use black, gold, copper, and white to maintain luxury and technological sophistication.\n"
+}

@@ -22,7 +22,7 @@ class UpdateFabricJson:
             spreadsheet_name (str): Name of the Google Spreadsheet
         """
         self.spreadsheet_name = spreadsheet_name
-        self.credentials_file = 'credentials.json'
+        self.credentials_file = os.getenv('GOOGLE_CREDENTIALS_FILE')
         
         # Scopes required for Google Sheets API
         self.scopes = [
@@ -48,7 +48,7 @@ class UpdateFabricJson:
 
         self.model = None
         self.tokenizer = None
-        self.checkpoint_path = "/home/ubuntu/rishabh/llm_testing/model/checkpoint-900"
+        self.checkpoint_path = "/root/llm_training/model/checkpoint-850"
         self.model, self.tokenizer = load_model(self.checkpoint_path)
         
     def authenticate(self):
@@ -79,7 +79,7 @@ class UpdateFabricJson:
         """Open the Google Spreadsheet"""
         try:
             self.spreadsheet = self.gc.open(self.spreadsheet_name)
-            self.worksheet = self.spreadsheet.get_worksheet(1)  # Use second sheet (0-indexed)
+            self.worksheet = self.spreadsheet.get_worksheet(2)  # Use second sheet (0-indexed)
             print(f"Successfully opened spreadsheet: {self.spreadsheet_name}")
             return True
         except Exception as e:

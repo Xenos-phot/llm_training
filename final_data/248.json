@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#D50000'/><stop offset='100%' stop-color='#900000'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.5'><path d='M540 0 L520 1080 L560 1080 L540 0 Z' fill='#FF6D00'/><path d='M540 0 L820 1080 L860 1080 L540 0 Z' fill='#FF6D00'/><path d='M540 0 L220 1080 L260 1080 L540 0 Z' fill='#FF6D00'/><path d='M0 540 L1080 520 L1080 560 L0 540 Z' fill='#FF6D00'/><path d='M0 540 L1080 720 L1080 760 L0 540 Z' fill='#FF6D00'/><path d='M0 540 L1080 320 L1080 360 L0 540 Z' fill='#FF6D00'/></g><g transform='translate(540,540)'><polygon points='0,-400 346,-200 346,200 0,400 -346,200 -346,-200' fill='#000000' opacity='0.7'/><polygon points='0,-350 303,-175 303,175 0,350 -303,175 -303,-175' fill='#AB0000' opacity='0.6'/></g><g opacity='0.3'><circle cx='100' cy='100' r='20' fill='#FFC107'/><circle cx='980' cy='100' r='20' fill='#FFC107'/><circle cx='100' cy='980' r='20' fill='#FFC107'/><circle cx='980' cy='980' r='20' fill='#FFC107'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 295.4, "width": 489.2, "height": 135.6, "fill": "#FFFFFF", "text": "DORITOS", "fontSize": 120, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 200, "left": 331.71500000000003, "width": 416.57, "height": 56.5, "fill": "#FFC107", "text": "NACHO CHEESE FLAVOR", "fontSize": 50, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 300.0, "left": 381.44, "width": 991, "height": 1375, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d921b17f-a5e7-4b45-ab6f-841ee9edb0e8_nobg_991x1375.png", "id": "product_image"}, {"type": "text", "top": 745, "left": 127.09500000000003, "width": 825.81, "height": 28.25, "fill": "#FFFFFF", "text": "Pack of 64 Single Serve Bags | Real Cheddar Cheese | Crunchy Corn Texture", "fontSize": 25, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 830, "left": 451.48, "width": 177.04, "height": 90.4, "fill": "#FFC107", "text": "$45.99", "fontSize": 80, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940, "left": 430.0, "width": 220, "height": 65, "fill": "#000000", "rx": 0, "ry": 0, "id": "cta_button_background"}, {"type": "text", "top": 956, "left": 472.47, "width": 135.06, "height": 33.9, "fill": "#FFC107", "text": "BUY NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Product Description          The chip that packs a flavorful punch with the classic crunch. Boldly seasoned with three cheeses, tomatoes, onions and a savory blend of spices. Indulge yourself or share with large gatherings.             Manufacturer Contact Information          Plano, Tx 75024-4099 Pack of 64, 1.75 ounce large single serving bags (total of 112 ounces) Doritos tortilla chips with classic nacho cheese flavor Made of whole corn; flavorings feature real cheddar cheese Crunchy straight from the bag or after scooping up dip or salsa Ships in Certified Frustration Free Packaging Brand - Doritos ** Flavor - Nacho Cheese ** Unit Count - 112.0 Ounce ** Number of Items - 64 ** Type - Tortilla Chip **", "price": "45.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d921b17f-a5e7-4b45-ab6f-841ee9edb0e8_nobg_991x1375.png", "marketplace_url": "https://www.amazon.com/dp/B000R7XBF2", "layout": "centered_hero"}, "banner_details": "\nThis promotional banner features a bold and engaging layout centered around a snack product. The background consists of a dynamic radial gradient in bold reds, overlaid with geometric patterns and dark hexagonal shapes for depth. The main product image is centrally aligned, drawing viewer attention. The title text (id: \"heading\") is a large, white bold font, accompanied by a vivid subheading (id: \"subheading\") in a vibrant yellow. Below the product image lies a description text (id: \"description\") in white, followed by an eye-catching pricing text (id: \"price\") in yellow. A black call-to-action button (id: \"cta_button_background\") with contrasting yellow text (id: \"cta\") anchors the bottom.\n\n**Color Palette:**\n- Dark Red: #900000\n- Bright Red: #D50000\n- Orange Accent: #FF6D00\n- Yellow Highlight: #FFC107\n- Black: #000000\n- White: #FFFFFF\n", "product_color": "\nThe product image of the Doritos Nacho Cheese bag utilizes a bold and vibrant color palette that commands attention. Dominated by a rich, fiery red (#C1121F), it creates intensity and excitement, ideal for snack branding. The triangular chips introduce a warm golden yellow (#F4A300) and orange (#EA6A00), symbolizing flavor and crunchiness. Accents of black (#000000) and white (#FFFFFF) in the logo provide strong contrast, enhancing readability and brand identity. The orange glow surrounding the triangular logo sharply blends the dark background with the highlighted chip, maintaining focus and energy. These colors blend seamlessly to create a dynamic and appetizing appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#D50000'/><stop offset='100%' stop-color='#900000'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.5'><path d='M540 0 L520 1080 L560 1080 L540 0 Z' fill='#FF6D00'/><path d='M540 0 L820 1080 L860 1080 L540 0 Z' fill='#FF6D00'/><path d='M540 0 L220 1080 L260 1080 L540 0 Z' fill='#FF6D00'/><path d='M0 540 L1080 520 L1080 560 L0 540 Z' fill='#FF6D00'/><path d='M0 540 L1080 720 L1080 760 L0 540 Z' fill='#FF6D00'/><path d='M0 540 L1080 320 L1080 360 L0 540 Z' fill='#FF6D00'/></g><g transform='translate(540,540)'><polygon points='0,-400 346,-200 346,200 0,400 -346,200 -346,-200' fill='#000000' opacity='0.7'/><polygon points='0,-350 303,-175 303,175 0,350 -303,175 -303,-175' fill='#AB0000' opacity='0.6'/></g><g opacity='0.3'><circle cx='100' cy='100' r='20' fill='#FFC107'/><circle cx='980' cy='100' r='20' fill='#FFC107'/><circle cx='100' cy='980' r='20' fill='#FFC107'/><circle cx='980' cy='980' r='20' fill='#FFC107'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 295.4,
+                "width": 489.2,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "DORITOS",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 331.71500000000003,
+                "width": 416.57,
+                "height": 56.5,
+                "fill": "#FFC107",
+                "text": "NACHO CHEESE FLAVOR",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 300.0,
+                "left": 381.44,
+                "width": 317.12,
+                "height": 440.0,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d921b17f-a5e7-4b45-ab6f-841ee9edb0e8_nobg_991x1375.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 745,
+                "left": 127.09500000000003,
+                "width": 825.81,
+                "height": 28.25,
+                "fill": "#FFFFFF",
+                "text": "Pack of 64 Single Serve Bags | Real Cheddar Cheese | Crunchy Corn Texture",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 451.48,
+                "width": 177.04,
+                "height": 90.4,
+                "fill": "#FFC107",
+                "text": "$45.99",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 430.0,
+                "width": 220,
+                "height": 65,
+                "fill": "#000000",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 956,
+                "left": 472.47,
+                "width": 135.06,
+                "height": 33.9,
+                "fill": "#FFC107",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Product Description          The chip that packs a flavorful punch with the classic crunch. Boldly seasoned with three cheeses, tomatoes, onions and a savory blend of spices. Indulge yourself or share with large gatherings.             Manufacturer Contact Information          Plano, Tx 75024-4099 Pack of 64, 1.75 ounce large single serving bags (total of 112 ounces) Doritos tortilla chips with classic nacho cheese flavor Made of whole corn; flavorings feature real cheddar cheese Crunchy straight from the bag or after scooping up dip or salsa Ships in Certified Frustration Free Packaging Brand - Doritos ** Flavor - Nacho Cheese ** Unit Count - 112.0 Ounce ** Number of Items - 64 ** Type - Tortilla Chip **",
+            "price": "45.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d921b17f-a5e7-4b45-ab6f-841ee9edb0e8_nobg_991x1375.png",
+        "marketplace_url": "https://www.amazon.com/dp/B000R7XBF2",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis promotional banner features a bold and engaging layout centered around a snack product. The background consists of a dynamic radial gradient in bold reds, overlaid with geometric patterns and dark hexagonal shapes for depth. The main product image is centrally aligned, drawing viewer attention. The title text (id: \"heading\") is a large, white bold font, accompanied by a vivid subheading (id: \"subheading\") in a vibrant yellow. Below the product image lies a description text (id: \"description\") in white, followed by an eye-catching pricing text (id: \"price\") in yellow. A black call-to-action button (id: \"cta_button_background\") with contrasting yellow text (id: \"cta\") anchors the bottom.\n\n**Color Palette:**\n- Dark Red: #900000\n- Bright Red: #D50000\n- Orange Accent: #FF6D00\n- Yellow Highlight: #FFC107\n- Black: #000000\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image of the Doritos Nacho Cheese bag utilizes a bold and vibrant color palette that commands attention. Dominated by a rich, fiery red (#C1121F), it creates intensity and excitement, ideal for snack branding. The triangular chips introduce a warm golden yellow (#F4A300) and orange (#EA6A00), symbolizing flavor and crunchiness. Accents of black (#000000) and white (#FFFFFF) in the logo provide strong contrast, enhancing readability and brand identity. The orange glow surrounding the triangular logo sharply blends the dark background with the highlighted chip, maintaining focus and energy. These colors blend seamlessly to create a dynamic and appetizing appeal.\n"
+}

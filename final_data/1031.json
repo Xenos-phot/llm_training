@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0C3B5D'/><stop offset='100%' style='stop-color:#1976D2'/></linearGradient><linearGradient id='bg2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#EBF5FB'/><stop offset='100%' style='stop-color:#B3E0FF'/></linearGradient></defs><path d='M0,0 L1080,0 L450,1080 L0,1080 Z' fill='url(#bg1)'/><path d='M1080,0 L450,1080 L1080,1080 Z' fill='url(#bg2)'/><circle cx='200' cy='200' r='80' fill='#FFFFFF' opacity='0.05'/><circle cx='880' cy='920' r='100' fill='#FFFFFF' opacity='0.05'/><path d='M150,300 L500,300' stroke='#FFFFFF' stroke-width='2' opacity='0.1'/><path d='M100,600 L400,600' stroke='#FFFFFF' stroke-width='2' opacity='0.1'/><path d='M50,900 L300,900' stroke='#FFFFFF' stroke-width='2' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 922.99, "height": 158.2, "fill": "#FFFFFF", "text": "BREATHE EASY", "fontSize": 140, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 240, "left": 50, "width": 489.97, "height": 79.1, "fill": "#A5D9FF", "text": "DAIKIN INVERTER AC", "fontSize": 70, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 50, "width": 422.38, "height": 226, "fill": "#FFFFFF", "text": "\u2022 5 Star Energy Efficiency\n\u2022 Whisper-Quiet Comfort (38 dB)\n\u2022 PM 2.5 Air Purification\n\u2022 Smart Inverter Technology", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 630, "left": 50, "width": 320.88, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b958000", "fontSize": 80, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 50, "width": 220, "height": 70, "fill": "#FFD54F", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 798, "left": 115, "width": 95.66, "height": 33.9, "fill": "#0C3B5D", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 580, "left": 50, "width": 433.1, "height": 33.9, "fill": "#A5D9FF", "text": "WITH PURE AIR TECHNOLOGY", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 681, "left": 402, "width": 1391, "height": 471, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ZKaDmWIfZTHLGloVRpWyc_1391x471.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Daikin 1.5 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, MTKM50U, White)", "description": "- Brand: DAIKIN.\n- Model: MTKM50U.\n- Energy Efficiency: 5 star.\n- Capacity: 1.5 Tons.\n- Annual Energy Consumption: 785.67 Kilowatt Hours Per Year.\n- Noise Level: 38 dB.\n- Installation Type: Split System.\n- Part Number: MTKM50U.\n- Form Factor: Mini-Split.\n- Special Features: Inverter Compressor,Dry Mode,Self- Diagnosis,Air Purification Filter,Dehumidifier,Dust Filter,Fast Cooling,Auto Clean,Turbo cooling,Remote Controlled.\n- Colour: White.\n- Control Console: Remote Control.\n- Voltage: 230 Volts.\n- Wattage: 1325 Watts.\n- Compatible Devices: Personal Computer.\n- Certification: energy star.\n- Material: IDU: HIPS (High grade plastic) ; ODU: HDZP Steel Sheet.\n- Batteries Included: No.\n- Batteries Required: Yes.\n- Battery Cell Type: Zinc.\n- Country of Origin: India.\n- Importer: Daikin airconditioning India Pvt.\n- Ltd., 210, 1st Floor, Okhla Industrial Area, Phase 3, Delhi 110020.\n- Item Weight: 44 kg.\n- Item Dimensions Lx Wx H: 88.5 x 22.9 x 29.8 Centimeters.\n- Net Quantity: 1 count.\n- Generic Name: Split airconditioner.", "price": "\u20b945990"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ZKaDmWIfZTHLGloVRpWyc_1391x471.png", "marketplace_url": "https://www.amazon.in/Daikin-Inverter-Copper-Filter-MTKM50U/dp/B09R4RYCJ4/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&dib=eyJ2IjoiMSJ9.LpujZ4uISPUK8sa_6yNGVTLp2_seTR9samDUOPD7O278_3kEEuWwnAEZTUtf5gJIQeq6o4TSouLIMvFUg-95_gBIipAIRdPxWkKl1y7Yp4V3udVjrN4wFFqpfDo8jGvj0r9QYYC5adCO8B9WBYUovSlvBcZNUzINmNQX6AuG-mx9RwTIn2BnE0x_CFfbWdOcUyUQ0b8Oy5rafLwN67JoO-dMWilp_avd733noU8E6-2HU9kZqk0GdEokguKl5AHwyvMgInmO5ZoqeEXBTR2ZaZ3YGRhqhA-pTAMe4ikPHCc.1CJ5jOwXtaft2X_UOBJvdxhrc80v_ec0wT-yYcld0gI&dib_tag=se&pd_rd_r=5fefd010-2d6c-414e-b0e6-283a270a9b8f&pd_rd_w=0H2Vl&pd_rd_wg=NTGvq&qid=1747803818&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-2", "layout": "diagonal_split"}, "banner_details": "\nThis promotional banner showcases an air conditioning product with a clean and modern layout. The background is diagonally split with a dual gradient \u2014 a deep navy-to-sky blue blend on the left and a light blue fade on the right \u2014 creating a dynamic atmosphere. The heading text layer (`heading`) is large and bold in white, conveying a strong message. The `subheading` beneath it uses a sleek sans-serif font in soft blue. The `description` layer lists product features in bullet format. The `price` is prominently displayed in large white numbers. The call-to-action, comprising the layers `cta_background` (yellow) and `cta` (blue text), includes a \"SHOP NOW\" button. Additional supporting text is in layer `tagline` above the product image (`product_image`), which shows the AC on the lighter background, enhancing visibility.\n\n**Color Palette:**\n- Midnight Blue: #0C3B5D  \n- Royal Blue: #1976D2  \n- Sky Blue: #A5D9FF  \n- Light Blue: #EBF5FB  \n- Warm Yellow: #FFD54F  \n- White: #FFFFFF  \n", "product_color": "\nThe product image uses a clean and modern color palette that conveys trust, innovation, and energy efficiency. The dominant colors include a crisp white (#FFFFFF) base for a sleek and hygienic appeal, vibrant blue (#007BFF) as a backdrop to emphasize cooling and technology, and a warm yellow (#FDD835) used in the information boxes to highlight key features for visibility and contrast. The colors are well-blended using gradient tones in the blue backdrop and consistent yellow highlights, which create a clear segmentation without overwhelming the design. This palette, paired with bold typography, makes the content readable and eye-catching in an advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0C3B5D'/><stop offset='100%' style='stop-color:#1976D2'/></linearGradient><linearGradient id='bg2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#EBF5FB'/><stop offset='100%' style='stop-color:#B3E0FF'/></linearGradient></defs><path d='M0,0 L1080,0 L450,1080 L0,1080 Z' fill='url(#bg1)'/><path d='M1080,0 L450,1080 L1080,1080 Z' fill='url(#bg2)'/><circle cx='200' cy='200' r='80' fill='#FFFFFF' opacity='0.05'/><circle cx='880' cy='920' r='100' fill='#FFFFFF' opacity='0.05'/><path d='M150,300 L500,300' stroke='#FFFFFF' stroke-width='2' opacity='0.1'/><path d='M100,600 L400,600' stroke='#FFFFFF' stroke-width='2' opacity='0.1'/><path d='M50,900 L300,900' stroke='#FFFFFF' stroke-width='2' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 922.99,
+                "height": 158.2,
+                "fill": "#FFFFFF",
+                "text": "BREATHE EASY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 50,
+                "width": 489.97,
+                "height": 79.1,
+                "fill": "#A5D9FF",
+                "text": "DAIKIN INVERTER AC",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 50,
+                "width": 422.38,
+                "height": 226,
+                "fill": "#FFFFFF",
+                "text": "\u2022 5 Star Energy Efficiency\n\u2022 Whisper-Quiet Comfort (38 dB)\n\u2022 PM 2.5 Air Purification\n\u2022 Smart Inverter Technology",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 630,
+                "left": 50,
+                "width": 320.88,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b958000",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#FFD54F",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 798,
+                "left": 115,
+                "width": 95.66,
+                "height": 33.9,
+                "fill": "#0C3B5D",
+                "text": "SHOP NOW",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 50,
+                "width": 433.1,
+                "height": 33.9,
+                "fill": "#A5D9FF",
+                "text": "WITH PURE AIR TECHNOLOGY",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 681,
+                "left": 402,
+                "width": 625.95,
+                "height": 211.95000000000002,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ZKaDmWIfZTHLGloVRpWyc_1391x471.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Daikin 1.5 Ton 5 Star Inverter Split AC (Copper, PM 2.5 Filter, MTKM50U, White)",
+            "description": "- Brand: DAIKIN.\n- Model: MTKM50U.\n- Energy Efficiency: 5 star.\n- Capacity: 1.5 Tons.\n- Annual Energy Consumption: 785.67 Kilowatt Hours Per Year.\n- Noise Level: 38 dB.\n- Installation Type: Split System.\n- Part Number: MTKM50U.\n- Form Factor: Mini-Split.\n- Special Features: Inverter Compressor,Dry Mode,Self- Diagnosis,Air Purification Filter,Dehumidifier,Dust Filter,Fast Cooling,Auto Clean,Turbo cooling,Remote Controlled.\n- Colour: White.\n- Control Console: Remote Control.\n- Voltage: 230 Volts.\n- Wattage: 1325 Watts.\n- Compatible Devices: Personal Computer.\n- Certification: energy star.\n- Material: IDU: HIPS (High grade plastic) ; ODU: HDZP Steel Sheet.\n- Batteries Included: No.\n- Batteries Required: Yes.\n- Battery Cell Type: Zinc.\n- Country of Origin: India.\n- Importer: Daikin airconditioning India Pvt.\n- Ltd., 210, 1st Floor, Okhla Industrial Area, Phase 3, Delhi 110020.\n- Item Weight: 44 kg.\n- Item Dimensions Lx Wx H: 88.5 x 22.9 x 29.8 Centimeters.\n- Net Quantity: 1 count.\n- Generic Name: Split airconditioner.",
+            "price": "\u20b945990"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ZKaDmWIfZTHLGloVRpWyc_1391x471.png",
+        "marketplace_url": "https://www.amazon.in/Daikin-Inverter-Copper-Filter-MTKM50U/dp/B09R4RYCJ4/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&dib=eyJ2IjoiMSJ9.LpujZ4uISPUK8sa_6yNGVTLp2_seTR9samDUOPD7O278_3kEEuWwnAEZTUtf5gJIQeq6o4TSouLIMvFUg-95_gBIipAIRdPxWkKl1y7Yp4V3udVjrN4wFFqpfDo8jGvj0r9QYYC5adCO8B9WBYUovSlvBcZNUzINmNQX6AuG-mx9RwTIn2BnE0x_CFfbWdOcUyUQ0b8Oy5rafLwN67JoO-dMWilp_avd733noU8E6-2HU9kZqk0GdEokguKl5AHwyvMgInmO5ZoqeEXBTR2ZaZ3YGRhqhA-pTAMe4ikPHCc.1CJ5jOwXtaft2X_UOBJvdxhrc80v_ec0wT-yYcld0gI&dib_tag=se&pd_rd_r=5fefd010-2d6c-414e-b0e6-283a270a9b8f&pd_rd_w=0H2Vl&pd_rd_wg=NTGvq&qid=1747803818&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-2",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis promotional banner showcases an air conditioning product with a clean and modern layout. The background is diagonally split with a dual gradient \u2014 a deep navy-to-sky blue blend on the left and a light blue fade on the right \u2014 creating a dynamic atmosphere. The heading text layer (`heading`) is large and bold in white, conveying a strong message. The `subheading` beneath it uses a sleek sans-serif font in soft blue. The `description` layer lists product features in bullet format. The `price` is prominently displayed in large white numbers. The call-to-action, comprising the layers `cta_background` (yellow) and `cta` (blue text), includes a \"SHOP NOW\" button. Additional supporting text is in layer `tagline` above the product image (`product_image`), which shows the AC on the lighter background, enhancing visibility.\n\n**Color Palette:**\n- Midnight Blue: #0C3B5D  \n- Royal Blue: #1976D2  \n- Sky Blue: #A5D9FF  \n- Light Blue: #EBF5FB  \n- Warm Yellow: #FFD54F  \n- White: #FFFFFF  \n",
+    "product_color": "\nThe product image uses a clean and modern color palette that conveys trust, innovation, and energy efficiency. The dominant colors include a crisp white (#FFFFFF) base for a sleek and hygienic appeal, vibrant blue (#007BFF) as a backdrop to emphasize cooling and technology, and a warm yellow (#FDD835) used in the information boxes to highlight key features for visibility and contrast. The colors are well-blended using gradient tones in the blue backdrop and consistent yellow highlights, which create a clear segmentation without overwhelming the design. This palette, paired with bold typography, makes the content readable and eye-catching in an advertisement banner.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#4B0082'/><stop offset='100%' stop-color='#2C1B47'/></radialGradient><radialGradient id='priceCircleGradient' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFA500'/><stop offset='100%' stop-color='#FF8C00'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='290' fill='#F5F5F5' opacity='0.9'/><circle cx='540' cy='540' r='300' fill='none' stroke='#FFA500' stroke-width='4' stroke-dasharray='15 15' opacity='0.7'/><circle cx='860' cy='420' r='110' fill='url(#priceCircleGradient)'/><circle cx='860' cy='420' r='115' fill='none' stroke='#FFFFFF' stroke-width='3' opacity='0.5'/><g fill='#FFD700' opacity='0.4'><path d='M100 100 L110 120 L130 125 L110 130 L100 150 L90 130 L70 125 L90 120 Z'/><path d='M900 120 L910 140 L930 145 L910 150 L900 170 L890 150 L870 145 L890 140 Z' transform='scale(0.9)'/><path d='M120 920 L130 940 L150 945 L130 950 L120 970 L110 950 L90 945 L110 940 Z' transform='scale(0.85)'/><path d='M880 880 L890 900 L910 905 L890 910 L880 930 L870 910 L850 905 L870 900 Z'/></g><g opacity='0.2'><path d='M200 700 Q250 650 300 700 T400 700' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M700 200 Q750 150 800 200 T900 200' stroke='#FFFFFF' stroke-width='2' fill='none'/><line x1='80' y1='220' x2='230' y2='120' stroke='#FFA500' stroke-width='3' /><line x1='820' y1='920' x2='970' y2='820' stroke='#FFA500' stroke-width='3' /></g></svg>", "id": "background"}, {"type": "text", "top": 40, "left": 86.29500000000002, "width": 907.41, "height": 124.3, "fill": "#FFA500", "text": "VINTAGE PUMPKIN", "fontSize": 110, "fontFamily": "Knewave Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 187, "left": 321.33500000000004, "width": 437.33, "height": 79.1, "fill": "#F5F5F5", "text": "Character Box", "fontSize": 70, "fontFamily": "Asap-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 328.90999999999997, "left": 436.83, "width": 543, "height": 1111, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683df6372fa70aaab07d9c1d/NBtIXW_NK5ht3VpL5eUM-_543x1111.png", "id": "product_image"}, {"type": "text", "top": 369.15, "left": 815.98, "width": 88.04, "height": 101.7, "fill": "#2C1B47", "text": "$0", "fontSize": 90, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "price"}, {"type": "text", "top": 860, "left": 171.16500000000002, "width": 737.67, "height": 33.9, "fill": "#F5F5F5", "text": "\u2022 Hand-painted collectible \u2022 Vintage-inspired \u2022 Festive colors", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 915.0, "left": 420.0, "width": 240, "height": 70, "fill": "#FF6347", "rx": 10, "ry": 10, "id": "cta_background"}, {"type": "text", "top": 934.18, "left": 467.115, "width": 145.77, "height": 31.64, "fill": "#FFFFFF", "text": "GET YOURS", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Vintage-Style Halloween Pumpkin Character Box - Whimsical Holiday Decor", "description": "\u2022 Hand-painted decorative Halloween collectible with charming vintage-inspired design\n\u2022 Dual-piece construction featuring a smiling green pumpkin head and decorative base\n\u2022 Festive color palette combining orange, green, black, and burgundy tones\n\u2022 Adorable party hat detail with polka dot pattern and orange ball topper\n\u2022 Classic harlequin diamond pattern on the bottom section\n\u2022 Unique folk art style with cute facial features and decorative accents\n\u2022 Perfect size for tabletop display or Halloween collection showcase\n\u2022 Durable construction suitable for seasonal display and storage\n\u2022 Charming retro aesthetic ideal for vintage Halloween enthusiasts\n\u2022 Makes an excellent gift for holiday decor collectors", "price": "$0"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683df6372fa70aaab07d9c1d/NBtIXW_NK5ht3VpL5eUM-_543x1111.png", "marketplace_url": "blob:https://studio.phot.ai/ebab609b-af68-415a-b6a1-19b16c4ed545", "layout": "circular_focus"}, "banner_details": "\nThis festive banner features a rich, radial gradient background blending deep indigo and violet tones. At the top, a bold, playful heading (`heading`) is styled in a bright orange hue, setting a vibrant tone. Positioned centrally is a white circular frame outlined with a dashed orange line, showcasing the main product image (`product_image`). Just above it, a subheading (`subheading`) is set in clean white text with modern typography to highlight the product category. To the right of the image sits a prominent round price badge (`price`), using a warm orange-to-dark-orange radial fill with navy blue text. Below, a concise description (`description`) in white lists product highlights, accompanied by subtle decorative flourishes. At the bottom, a standout rectangular call-to-action button (`cta_background`) in tomato red supports white label text (`cta`) urging viewers to take action.\n\n**Color Palette:**\n- Deep Indigo: `#2C1B47`\n- Bright Orange: `#FFA500`\n- Burnt Orange: `#FF8C00`\n- Tomato Red: `#FF6347`\n- Soft White: `#F5F5F5`\n- Gold Accent: `#FFD700`\n", "product_color": "  \nThe product features a whimsical Halloween-themed design using a bold and contrasting color palette that makes it lively and eye-catching. Key colors include pumpkin orange (#F26B1D), muted green (#7C8D3A), deep black (#231F20), rich magenta-purple (#8C3C64), and bright yellow (#F2D03B). Accents of soft red-orange (#D6542B) highlight facial details and decorations. The colors are blended smoothly where needed, like the green face subtly striped with burnt red, while others are sharply contrasted such as the black and orange diamond pattern that creates visual dynamism. Strong hues are used strategically to both highlight expressions and maintain a festive, playful vibe.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#4B0082'/><stop offset='100%' stop-color='#2C1B47'/></radialGradient><radialGradient id='priceCircleGradient' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFA500'/><stop offset='100%' stop-color='#FF8C00'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='290' fill='#F5F5F5' opacity='0.9'/><circle cx='540' cy='540' r='300' fill='none' stroke='#FFA500' stroke-width='4' stroke-dasharray='15 15' opacity='0.7'/><circle cx='860' cy='420' r='110' fill='url(#priceCircleGradient)'/><circle cx='860' cy='420' r='115' fill='none' stroke='#FFFFFF' stroke-width='3' opacity='0.5'/><g fill='#FFD700' opacity='0.4'><path d='M100 100 L110 120 L130 125 L110 130 L100 150 L90 130 L70 125 L90 120 Z'/><path d='M900 120 L910 140 L930 145 L910 150 L900 170 L890 150 L870 145 L890 140 Z' transform='scale(0.9)'/><path d='M120 920 L130 940 L150 945 L130 950 L120 970 L110 950 L90 945 L110 940 Z' transform='scale(0.85)'/><path d='M880 880 L890 900 L910 905 L890 910 L880 930 L870 910 L850 905 L870 900 Z'/></g><g opacity='0.2'><path d='M200 700 Q250 650 300 700 T400 700' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M700 200 Q750 150 800 200 T900 200' stroke='#FFFFFF' stroke-width='2' fill='none'/><line x1='80' y1='220' x2='230' y2='120' stroke='#FFA500' stroke-width='3' /><line x1='820' y1='920' x2='970' y2='820' stroke='#FFA500' stroke-width='3' /></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 40,
+                "left": 86.29500000000002,
+                "width": 907.41,
+                "height": 124.3,
+                "fill": "#FFA500",
+                "text": "VINTAGE PUMPKIN",
+                "fontFamily": "Knewave Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 187,
+                "left": 321.33500000000004,
+                "width": 437.33,
+                "height": 79.1,
+                "fill": "#F5F5F5",
+                "text": "Character Box",
+                "fontFamily": "Asap-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 328.90999999999997,
+                "left": 436.83,
+                "width": 206.34,
+                "height": 422.18,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683df6372fa70aaab07d9c1d/NBtIXW_NK5ht3VpL5eUM-_543x1111.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 369.15,
+                "left": 815.98,
+                "width": 88.04,
+                "height": 101.7,
+                "fill": "#2C1B47",
+                "text": "$0",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 860,
+                "left": 171.16500000000002,
+                "width": 737.67,
+                "height": 33.9,
+                "fill": "#F5F5F5",
+                "text": "\u2022 Hand-painted collectible \u2022 Vintage-inspired \u2022 Festive colors",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 915.0,
+                "left": 420.0,
+                "width": 240,
+                "height": 70,
+                "fill": "#FF6347",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 934.18,
+                "left": 467.115,
+                "width": 145.77,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "GET YOURS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Vintage-Style Halloween Pumpkin Character Box - Whimsical Holiday Decor",
+            "description": "\u2022 Hand-painted decorative Halloween collectible with charming vintage-inspired design\n\u2022 Dual-piece construction featuring a smiling green pumpkin head and decorative base\n\u2022 Festive color palette combining orange, green, black, and burgundy tones\n\u2022 Adorable party hat detail with polka dot pattern and orange ball topper\n\u2022 Classic harlequin diamond pattern on the bottom section\n\u2022 Unique folk art style with cute facial features and decorative accents\n\u2022 Perfect size for tabletop display or Halloween collection showcase\n\u2022 Durable construction suitable for seasonal display and storage\n\u2022 Charming retro aesthetic ideal for vintage Halloween enthusiasts\n\u2022 Makes an excellent gift for holiday decor collectors",
+            "price": "$0"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683df6372fa70aaab07d9c1d/NBtIXW_NK5ht3VpL5eUM-_543x1111.png",
+        "marketplace_url": "blob:https://studio.phot.ai/ebab609b-af68-415a-b6a1-19b16c4ed545",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis festive banner features a rich, radial gradient background blending deep indigo and violet tones. At the top, a bold, playful heading (`heading`) is styled in a bright orange hue, setting a vibrant tone. Positioned centrally is a white circular frame outlined with a dashed orange line, showcasing the main product image (`product_image`). Just above it, a subheading (`subheading`) is set in clean white text with modern typography to highlight the product category. To the right of the image sits a prominent round price badge (`price`), using a warm orange-to-dark-orange radial fill with navy blue text. Below, a concise description (`description`) in white lists product highlights, accompanied by subtle decorative flourishes. At the bottom, a standout rectangular call-to-action button (`cta_background`) in tomato red supports white label text (`cta`) urging viewers to take action.\n\n**Color Palette:**\n- Deep Indigo: `#2C1B47`\n- Bright Orange: `#FFA500`\n- Burnt Orange: `#FF8C00`\n- Tomato Red: `#FF6347`\n- Soft White: `#F5F5F5`\n- Gold Accent: `#FFD700`\n",
+    "product_color": "  \nThe product features a whimsical Halloween-themed design using a bold and contrasting color palette that makes it lively and eye-catching. Key colors include pumpkin orange (#F26B1D), muted green (#7C8D3A), deep black (#231F20), rich magenta-purple (#8C3C64), and bright yellow (#F2D03B). Accents of soft red-orange (#D6542B) highlight facial details and decorations. The colors are blended smoothly where needed, like the green face subtly striped with burnt red, while others are sharply contrasted such as the black and orange diamond pattern that creates visual dynamism. Strong hues are used strategically to both highlight expressions and maintain a festive, playful vibe.  \n"
+}

@@ -1,1 +1,159 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#05a1a1;stop-opacity:1' /><stop offset='100%' style='stop-color:#073a45;stop-opacity:1' /></linearGradient><linearGradient id='gold' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#e6c66e;stop-opacity:1' /><stop offset='100%' style='stop-color:#9e7e31;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)' /><rect x='540' y='0' width='540' height='1080' fill='#f5f5f5' /><path d='M540,0 L540,1080' stroke='url(#gold)' stroke-width='3' /><circle cx='150' cy='150' r='80' fill='url(#gold)' opacity='0.1' /><circle cx='900' cy='200' r='100' fill='#05a1a1' opacity='0.1' /><circle cx='200' cy='800' r='120' fill='url(#gold)' opacity='0.08' /><circle cx='800' cy='900' r='60' fill='#05a1a1' opacity='0.1' /><path d='M0,540 C180,500 360,600 540,540' stroke='url(#gold)' stroke-width='1' fill='none' opacity='0.3' /><path d='M540,200 C720,240 900,180 1080,240' stroke='#05a1a1' stroke-width='1' fill='none' opacity='0.3' /><path d='M0,300 C180,340 360,280 540,320' stroke='url(#gold)' stroke-width='1' fill='none' opacity='0.2' /><path d='M540,800 C720,760 900,820 1080,780' stroke='#05a1a1' stroke-width='1' fill='none' opacity='0.2' /></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 494.7, "height": 73.45, "fill": "#e6c66e", "text": "EXCLUSIVE DEAL", "fontSize": 65, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 220, "left": 60, "width": 249.39, "height": 113.9, "fill": "#ffffff", "text": "BELLAVITA\nFRESH", "fontSize": 48, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 60, "width": 333.71, "height": 33.9, "fill": "#ffffff", "text": "Premium Unisex Fragrance", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 430, "left": 60, "width": 302.22, "height": 117.52, "fill": "#ffffff", "text": "\u2022 Fresh & Invigorating Scent\n\u2022 Luxurious Gold Cap Design\n\u2022 100ml / 3.4 fl. oz Size", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 60, "width": 258.12, "height": 38.42, "fill": "#e6c66e", "text": "TIME IS TICKING!", "fontSize": 34, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "urgency_text"}, {"type": "text", "top": 650, "left": 60, "width": 186.68, "height": 27.12, "fill": "#ffffff", "text": "Limited Time Offer", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "offer_text"}, {"type": "text", "top": 740, "left": 60, "width": 128.72, "height": 81.36, "fill": "#e6c66e", "text": "\u20b9 999", "fontSize": 72, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 860, "left": 60, "width": 220, "height": 70, "fill": "#e6c66e", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 878, "left": 90, "width": 168.74, "height": 33.9, "fill": "#073a45", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 950, "left": 60, "width": 195.62, "height": 29.38, "fill": "#ffffff", "text": "Grab Yours Today!", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "call_to_action"}, {"type": "image", "top": 190, "left": 650, "width": 791, "height": 1351, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/LgPmrU2YCQQ90_onitG2c_791x1351.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "BELLAVITA Fresh Unisex EDT - Invigorating Luxury Fragrance for All", "description": "\u2022 Premium unisex eau de toilette suitable for all genders\n\u2022 Generous 100ml/3.4 fl. oz size for long-lasting use\n\u2022 Sleek turquoise bottle design with luxurious gold cap\n\u2022 Fresh and invigorating scent profile perfect for daily wear\n\u2022 Modern and sophisticated packaging ideal for gifting\n\u2022 Professional-grade fragrance from BELLAVITA's luxury collection\n\u2022 Versatile scent suitable for both day and evening wear\n\u2022 Travel-friendly size that meets international flight regulations\n\u2022 Premium quality EDT concentration for optimal longevity\n\u2022 Contemporary unisex fragrance that breaks traditional boundaries", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/LgPmrU2YCQQ90_onitG2c_791x1351.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner features a vertically split layout with a modern and elegant aesthetic. The left section has a gradient background transitioning from teal to deep turquoise, adorned with soft circular and wave accents for a refreshing feel. The right section is a clean, light grayish-white to highlight the central product image\u2014a perfume bottle with a gold cap.\n\nText is strategically arranged in hierarchy. The topmost text (id: \"tagline\") grabs attention with bold uppercase branding in a golden hue. Below it, in a serif font, the product name (id: \"heading\") and a succinct subheading (id: \"subheading\") introduce the fragrance. Midsection features (id: \"description\") highlight key attributes in bullet points. A sense of urgency is created with a golden-highlighted message (id: \"urgency_text\") followed by a limited-time note (id: \"offer_text\"). A bold price (id: \"price\") reinforces affordability. At the bottom, a CTA button (id: \"cta_button\") in gold with contrasting dark teal \"SHOP NOW\" text (id: \"cta\") invites action, supported by a final encouraging line (id: \"call_to_action\").\n\n**Color Palette:**\n- Teal: `#05a1a1`\n- Deep Teal: `#073a45`\n- Soft Gold: `#e6c66e`\n- Rich Gold: `#9e7e31`\n- White: `#ffffff`\n- Light Gray: `#f5f5f5`\n", "product_color": "\nThe product image showcases a vibrant and clean visual aesthetic. The primary color is a bright aqua teal (#00B7B3), giving a refreshing and energetic look that aligns with the \"FRESH\" branding. This dominant color is smoothly blended with shadowed gradients of a deeper teal (#008C89), adding depth and dimension to the bottle. The text and cap feature a striking metallic gold (#D8BA73), which stands out against the cool background and adds an element of luxury. The subtle white reflections bring balance, enhancing highlights without overpowering. Suggested banner palette: Teal #00B7B3, Deep Teal #008C89, Gold #D8BA73, White #FFFFFF.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#05a1a1;stop-opacity:1' /><stop offset='100%' style='stop-color:#073a45;stop-opacity:1' /></linearGradient><linearGradient id='gold' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#e6c66e;stop-opacity:1' /><stop offset='100%' style='stop-color:#9e7e31;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)' /><rect x='540' y='0' width='540' height='1080' fill='#f5f5f5' /><path d='M540,0 L540,1080' stroke='url(#gold)' stroke-width='3' /><circle cx='150' cy='150' r='80' fill='url(#gold)' opacity='0.1' /><circle cx='900' cy='200' r='100' fill='#05a1a1' opacity='0.1' /><circle cx='200' cy='800' r='120' fill='url(#gold)' opacity='0.08' /><circle cx='800' cy='900' r='60' fill='#05a1a1' opacity='0.1' /><path d='M0,540 C180,500 360,600 540,540' stroke='url(#gold)' stroke-width='1' fill='none' opacity='0.3' /><path d='M540,200 C720,240 900,180 1080,240' stroke='#05a1a1' stroke-width='1' fill='none' opacity='0.3' /><path d='M0,300 C180,340 360,280 540,320' stroke='url(#gold)' stroke-width='1' fill='none' opacity='0.2' /><path d='M540,800 C720,760 900,820 1080,780' stroke='#05a1a1' stroke-width='1' fill='none' opacity='0.2' /></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 494.7,
+                "height": 73.45,
+                "fill": "#e6c66e",
+                "text": "EXCLUSIVE DEAL",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 60,
+                "width": 249.39,
+                "height": 113.9,
+                "fill": "#ffffff",
+                "text": "BELLAVITA\nFRESH",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 60,
+                "width": 333.71,
+                "height": 33.9,
+                "fill": "#ffffff",
+                "text": "Premium Unisex Fragrance",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 60,
+                "width": 302.22,
+                "height": 117.52,
+                "fill": "#ffffff",
+                "text": "\u2022 Fresh & Invigorating Scent\n\u2022 Luxurious Gold Cap Design\n\u2022 100ml / 3.4 fl. oz Size",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 258.12,
+                "height": 38.42,
+                "fill": "#e6c66e",
+                "text": "TIME IS TICKING!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "urgency_text"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 186.68,
+                "height": 27.12,
+                "fill": "#ffffff",
+                "text": "Limited Time Offer",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "offer_text"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 60,
+                "width": 128.72,
+                "height": 81.36,
+                "fill": "#e6c66e",
+                "text": "\u20b9 999",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 860,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#e6c66e",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 878,
+                "left": 90,
+                "width": 168.74,
+                "height": 33.9,
+                "fill": "#073a45",
+                "text": "SHOP NOW",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 60,
+                "width": 195.62,
+                "height": 29.38,
+                "fill": "#ffffff",
+                "text": "Grab Yours Today!",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "call_to_action"
+            },
+            {
+                "type": "image",
+                "top": 190,
+                "left": 650,
+                "width": 411.32,
+                "height": 702.52,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/LgPmrU2YCQQ90_onitG2c_791x1351.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "BELLAVITA Fresh Unisex EDT - Invigorating Luxury Fragrance for All",
+            "description": "\u2022 Premium unisex eau de toilette suitable for all genders\n\u2022 Generous 100ml/3.4 fl. oz size for long-lasting use\n\u2022 Sleek turquoise bottle design with luxurious gold cap\n\u2022 Fresh and invigorating scent profile perfect for daily wear\n\u2022 Modern and sophisticated packaging ideal for gifting\n\u2022 Professional-grade fragrance from BELLAVITA's luxury collection\n\u2022 Versatile scent suitable for both day and evening wear\n\u2022 Travel-friendly size that meets international flight regulations\n\u2022 Premium quality EDT concentration for optimal longevity\n\u2022 Contemporary unisex fragrance that breaks traditional boundaries",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/LgPmrU2YCQQ90_onitG2c_791x1351.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner features a vertically split layout with a modern and elegant aesthetic. The left section has a gradient background transitioning from teal to deep turquoise, adorned with soft circular and wave accents for a refreshing feel. The right section is a clean, light grayish-white to highlight the central product image\u2014a perfume bottle with a gold cap.\n\nText is strategically arranged in hierarchy. The topmost text (id: \"tagline\") grabs attention with bold uppercase branding in a golden hue. Below it, in a serif font, the product name (id: \"heading\") and a succinct subheading (id: \"subheading\") introduce the fragrance. Midsection features (id: \"description\") highlight key attributes in bullet points. A sense of urgency is created with a golden-highlighted message (id: \"urgency_text\") followed by a limited-time note (id: \"offer_text\"). A bold price (id: \"price\") reinforces affordability. At the bottom, a CTA button (id: \"cta_button\") in gold with contrasting dark teal \"SHOP NOW\" text (id: \"cta\") invites action, supported by a final encouraging line (id: \"call_to_action\").\n\n**Color Palette:**\n- Teal: `#05a1a1`\n- Deep Teal: `#073a45`\n- Soft Gold: `#e6c66e`\n- Rich Gold: `#9e7e31`\n- White: `#ffffff`\n- Light Gray: `#f5f5f5`\n",
+    "product_color": "\nThe product image showcases a vibrant and clean visual aesthetic. The primary color is a bright aqua teal (#00B7B3), giving a refreshing and energetic look that aligns with the \"FRESH\" branding. This dominant color is smoothly blended with shadowed gradients of a deeper teal (#008C89), adding depth and dimension to the bottle. The text and cap feature a striking metallic gold (#D8BA73), which stands out against the cool background and adds an element of luxury. The subtle white reflections bring balance, enhancing highlights without overpowering. Suggested banner palette: Teal #00B7B3, Deep Teal #008C89, Gold #D8BA73, White #FFFFFF.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#F8F0E5'/><stop offset='100%' stop-color='#F5EAE0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.15'><path d='M0,250 Q540,150 1080,250 V0 H0 Z' fill='#D4A6A6'/><path d='M0,830 Q540,730 1080,830 V1080 H0 Z' fill='#D4A6A6'/></g><g opacity='0.1'><circle cx='200' cy='200' r='100' fill='#D4A6A6'/><circle cx='880' cy='200' r='100' fill='#D4A6A6'/><circle cx='200' cy='880' r='100' fill='#D4A6A6'/><circle cx='880' cy='880' r='100' fill='#D4A6A6'/></g><g opacity='0.05'><path d='M-10,540 Q540,440 1090,540 Q540,640 -10,540 Z' fill='#D4A6A6'/><path d='M540,-10 Q440,540 540,1090 Q640,540 540,-10 Z' fill='#D4A6A6'/></g><g opacity='0.05'><path d='M50,50 C200,150 300,50 400,150 C500,250 600,50 700,150 C800,250 900,50 1030,150 L1030,50 L50,50 Z' fill='#D4A6A6'/><path d='M50,1030 C200,930 300,1030 400,930 C500,830 600,1030 700,930 C800,830 900,1030 1030,930 L1030,1030 L50,1030 Z' fill='#D4A6A6'/></g><g opacity='0.05'><path d='M300,300 Q380,380 300,460 Q220,380 300,300 Z' fill='#D4A6A6'/><path d='M780,300 Q860,380 780,460 Q700,380 780,300 Z' fill='#D4A6A6'/><path d='M300,780 Q380,860 300,940 Q220,860 300,780 Z' fill='#D4A6A6'/><path d='M780,780 Q860,860 780,940 Q700,860 780,780 Z' fill='#D4A6A6'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 186.32, "width": 707.36, "height": 90.4, "fill": "#9D5353", "text": "Elegant Crochet Set", "fontSize": 80, "fontFamily": "Playfair Display Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 293.28, "width": 493.44, "height": 45.2, "fill": "#A87C7C", "text": "Vintage-Inspired Summer Collection", "fontSize": 40, "fontFamily": "New Amsterdam-Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 213.69, "left": 381.92999999999995, "width": 479, "height": 807, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6818bbdd2ba1e52c54fef1c1/mddKvELXf9iV3OtrwXqvE_479x807.png", "id": "product_image"}, {"type": "text", "top": 770, "left": 189.89499999999998, "width": 700.21, "height": 136.73, "fill": "#5E3F3F", "text": "\u2022 Premium ribbed white bolero cardigan with delicate crochet pattern\n\u2022 Intricate floral embroidered trim with adjustable ribbon closure\n\u2022 Soft, breathable cotton blend ideal for spring/summer wear\n\u2022 Perfect for casual outings, photoshoots, or special occasions", "fontSize": 22, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 907, "left": 485.475, "width": 107.05, "height": 56.5, "fill": "#9D5353", "text": "$ 89", "fontSize": 50, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 415.0, "width": 250, "height": 60, "fill": "#9D5353", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 995, "left": 467.13, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegant White Crochet Crop Top Set - Vintage-Inspired Summer Collection", "description": "\u2022 Premium ribbed white long-sleeve bolero cardigan for layered styling\n\u2022 Delicate crochet crop top with intricate lace pattern detailing\n\u2022 Charming floral embroidered trim with multi-colored accents\n\u2022 Front tie closure with adjustable ribbon for custom fit\n\u2022 Soft, breathable cotton blend material ideal for spring/summer wear\n\u2022 Romantic vintage-inspired design perfect for cottagecore aesthetic\n\u2022 Versatile two-piece set can be styled separately or together\n\u2022 Available in pristine white for timeless elegance\n\u2022 Decorative hair accessory included for complete styling\n\u2022 Perfect for casual outings, photoshoots, or special occasions", "price": "$89"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6818bbdd2ba1e52c54fef1c1/mddKvELXf9iV3OtrwXqvE_479x807.png", "marketplace_url": "https://images.pexels.com/photos/31890680/pexels-photo-31890680.jpeg", "layout": "centered_hero"}, "banner_details": "\nThis elegant fashion-themed banner has a vintage aesthetic that emphasizes softness and femininity. The background (\"background\") features a radial gradient with subtle abstract shapes and floral motifs in very light pink and beige tones to create a delicate texture. At the top center, a bold serif text layer (\"heading\") announces the product name in a muted rose red color, with a smaller uppercase subheading (\"subheading\") just beneath it introducing the seasonal theme in a matching yet slightly warmer tone.\n\nThe centered product image (\"product_image\") shows a model wearing the featured outfit, seamlessly blended into the background. Below her, a paragraph-style description (\"description\") in a darker brownish-red font highlights key product details with bullet points for easy readability.\n\nA clear and bold price tag (\"price\") in a deep muted burgundy stands out just above the call-to-action. The CTA (\"cta_background\" and \"cta\") is a rectangular button in the same burgundy color, featuring white bold uppercase text encouraging users to shop.\n\n**Color Palette:**\n- Soft Nude Pink: `#F8F0E5`\n- Light Beige: `#F5EAE0`\n- Muted Rose Red: `#9D5353`\n- Warm Mauve: `#A87C7C`\n- Rich Brownish Red: `#5E3F3F`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image features a soft, feminine aesthetic dominated by creamy whites and natural tones. The primary color is an elegant ivory (#F6F3EE), seen in the crocheted top and skirt, exuding purity and calmness. A subtle cool white (#F9F9F9) runs through the sheer cardigan, adding a clean and fresh layer. Accents of warm skin tone (#D8B49C) and brown hair (#4B2E1F) lend contrast and warmth. Small floral embellishments introduce soft pastel hues like dusty blue (#A3B7C8), muted red (#C37A74), and beige (#E3C9A8), offering visual interest. These colors blend seamlessly while the delicate textures and varied tones let each one subtly stand out.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#F8F0E5'/><stop offset='100%' stop-color='#F5EAE0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.15'><path d='M0,250 Q540,150 1080,250 V0 H0 Z' fill='#D4A6A6'/><path d='M0,830 Q540,730 1080,830 V1080 H0 Z' fill='#D4A6A6'/></g><g opacity='0.1'><circle cx='200' cy='200' r='100' fill='#D4A6A6'/><circle cx='880' cy='200' r='100' fill='#D4A6A6'/><circle cx='200' cy='880' r='100' fill='#D4A6A6'/><circle cx='880' cy='880' r='100' fill='#D4A6A6'/></g><g opacity='0.05'><path d='M-10,540 Q540,440 1090,540 Q540,640 -10,540 Z' fill='#D4A6A6'/><path d='M540,-10 Q440,540 540,1090 Q640,540 540,-10 Z' fill='#D4A6A6'/></g><g opacity='0.05'><path d='M50,50 C200,150 300,50 400,150 C500,250 600,50 700,150 C800,250 900,50 1030,150 L1030,50 L50,50 Z' fill='#D4A6A6'/><path d='M50,1030 C200,930 300,1030 400,930 C500,830 600,1030 700,930 C800,830 900,1030 1030,930 L1030,1030 L50,1030 Z' fill='#D4A6A6'/></g><g opacity='0.05'><path d='M300,300 Q380,380 300,460 Q220,380 300,300 Z' fill='#D4A6A6'/><path d='M780,300 Q860,380 780,460 Q700,380 780,300 Z' fill='#D4A6A6'/><path d='M300,780 Q380,860 300,940 Q220,860 300,780 Z' fill='#D4A6A6'/><path d='M780,780 Q860,860 780,940 Q700,860 780,780 Z' fill='#D4A6A6'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 186.32,
+                "width": 707.36,
+                "height": 90.4,
+                "fill": "#9D5353",
+                "text": "Elegant Crochet Set",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 293.28,
+                "width": 493.44,
+                "height": 45.2,
+                "fill": "#A87C7C",
+                "text": "Vintage-Inspired Summer Collection",
+                "fontFamily": "New Amsterdam-Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 213.69,
+                "left": 381.92999999999995,
+                "width": 316.14000000000004,
+                "height": 532.62,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6818bbdd2ba1e52c54fef1c1/mddKvELXf9iV3OtrwXqvE_479x807.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 189.89499999999998,
+                "width": 700.21,
+                "height": 136.73,
+                "fill": "#5E3F3F",
+                "text": "\u2022 Premium ribbed white bolero cardigan with delicate crochet pattern\n\u2022 Intricate floral embroidered trim with adjustable ribbon closure\n\u2022 Soft, breathable cotton blend ideal for spring/summer wear\n\u2022 Perfect for casual outings, photoshoots, or special occasions",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 907,
+                "left": 485.475,
+                "width": 107.05,
+                "height": 56.5,
+                "fill": "#9D5353",
+                "text": "$ 89",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 415.0,
+                "width": 250,
+                "height": 60,
+                "fill": "#9D5353",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 995,
+                "left": 467.13,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegant White Crochet Crop Top Set - Vintage-Inspired Summer Collection",
+            "description": "\u2022 Premium ribbed white long-sleeve bolero cardigan for layered styling\n\u2022 Delicate crochet crop top with intricate lace pattern detailing\n\u2022 Charming floral embroidered trim with multi-colored accents\n\u2022 Front tie closure with adjustable ribbon for custom fit\n\u2022 Soft, breathable cotton blend material ideal for spring/summer wear\n\u2022 Romantic vintage-inspired design perfect for cottagecore aesthetic\n\u2022 Versatile two-piece set can be styled separately or together\n\u2022 Available in pristine white for timeless elegance\n\u2022 Decorative hair accessory included for complete styling\n\u2022 Perfect for casual outings, photoshoots, or special occasions",
+            "price": "$89"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6818bbdd2ba1e52c54fef1c1/mddKvELXf9iV3OtrwXqvE_479x807.png",
+        "marketplace_url": "https://images.pexels.com/photos/31890680/pexels-photo-31890680.jpeg",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis elegant fashion-themed banner has a vintage aesthetic that emphasizes softness and femininity. The background (\"background\") features a radial gradient with subtle abstract shapes and floral motifs in very light pink and beige tones to create a delicate texture. At the top center, a bold serif text layer (\"heading\") announces the product name in a muted rose red color, with a smaller uppercase subheading (\"subheading\") just beneath it introducing the seasonal theme in a matching yet slightly warmer tone.\n\nThe centered product image (\"product_image\") shows a model wearing the featured outfit, seamlessly blended into the background. Below her, a paragraph-style description (\"description\") in a darker brownish-red font highlights key product details with bullet points for easy readability.\n\nA clear and bold price tag (\"price\") in a deep muted burgundy stands out just above the call-to-action. The CTA (\"cta_background\" and \"cta\") is a rectangular button in the same burgundy color, featuring white bold uppercase text encouraging users to shop.\n\n**Color Palette:**\n- Soft Nude Pink: `#F8F0E5`\n- Light Beige: `#F5EAE0`\n- Muted Rose Red: `#9D5353`\n- Warm Mauve: `#A87C7C`\n- Rich Brownish Red: `#5E3F3F`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image features a soft, feminine aesthetic dominated by creamy whites and natural tones. The primary color is an elegant ivory (#F6F3EE), seen in the crocheted top and skirt, exuding purity and calmness. A subtle cool white (#F9F9F9) runs through the sheer cardigan, adding a clean and fresh layer. Accents of warm skin tone (#D8B49C) and brown hair (#4B2E1F) lend contrast and warmth. Small floral embellishments introduce soft pastel hues like dusty blue (#A3B7C8), muted red (#C37A74), and beige (#E3C9A8), offering visual interest. These colors blend seamlessly while the delicate textures and varied tones let each one subtly stand out.\n"
+}

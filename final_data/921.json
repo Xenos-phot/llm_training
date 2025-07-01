@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F7F5F2'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#F7F5F2'/><rect x='0' y='700' width='1080' height='380' fill='#E3F4F9' opacity='0.7'/><circle cx='940' cy='140' r='200' fill='#C5E8F2' opacity='0.5'/><circle cx='100' cy='940' r='180' fill='#C5E8F2' opacity='0.5'/><g opacity='0.1'><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#7BBACE' stroke-width='2'/><line x1='0' y1='40' x2='1080' y2='40' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='80' x2='1080' y2='80' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='160' x2='1080' y2='160' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='280' x2='1080' y2='280' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='320' x2='1080' y2='320' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='360' x2='1080' y2='360' stroke='#7BBACE' stroke-width='1'/></g><path d='M200 400 Q400 450 750 350' stroke='#7BBACE' stroke-width='4' opacity='0.3'/><path d='M200 820 Q400 870 750 770' stroke='#7BBACE' stroke-width='4' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 52, "left": 58, "width": 786.28, "height": 158.2, "fill": "#1A5F7A", "text": "FARM FRESH", "fontSize": 140, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 60, "width": 485.2, "height": 113, "fill": "#52AB98", "text": "GOODNESS", "fontSize": 100, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 60, "width": 430.61, "height": 186.45, "fill": "#333333", "text": "\u2022 100% Pure, Fresh Whole Milk\n\u2022 Rich and Creamy Texture\n\u2022 No Artificial Hormones\n\u2022 Farm-to-Table Freshness", "fontSize": 30, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "description"}, {"type": "image", "top": 452.38, "left": 582.7, "width": 695, "height": 911, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/EGOwp8XE_DtlLKPbeG_c8_695x911.png", "id": "product_image"}, {"type": "text", "top": 780, "left": 62, "width": 213.54, "height": 79.1, "fill": "#1A5F7A", "text": "\u20b9 999", "fontSize": 70, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "text", "top": 550, "left": 62, "width": 465, "height": 45.2, "fill": "#E76F51", "text": "LIMITED-TIME DELIGHT!", "fontSize": 40, "fontFamily": "Fugaz One Regular", "textAlign": "left", "id": "tagline"}, {"type": "rect", "top": 880, "left": 62, "width": 240, "height": 70, "fill": "#1A5F7A", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 898, "left": 105, "width": 155.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 630, "left": 62, "width": 543.55, "height": 29.38, "fill": "#52AB98", "text": "Don't Miss Out on Premium Grade A Milk!", "fontSize": 26, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "call_to_action_text"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Farm Fresh Dairy Delight: Premium Grade A Whole Milk", "description": "\u2022 100% Pure, Fresh Whole Milk\n\u2022 Rich and Creamy Texture\n\u2022 Excellent Source of Calcium and Vitamin D\n\u2022 No Artificial Hormones or Additives\n\u2022 Farm-to-Table Freshness Guaranteed\n\u2022 Available in Multiple Sizes: Glass Bottle and Pitcher Options\n\u2022 Perfect for Cooking, Baking, and Direct Consumption\n\u2022 Locally Sourced from Premium Dairy Farms\n\u2022 BPA-Free Glass Packaging\n\u2022 Ideal for Healthy Families and Active Lifestyles", "price": "\u20b90999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/EGOwp8XE_DtlLKPbeG_c8_695x911.png", "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg", "layout": "z_pattern"}, "banner_details": "\nThe banner presents a farm-fresh milk advertisement with a clean and modern layout, designed to highlight freshness, purity, and urgency. The composition starts with a bold, prominent headline (`heading`) at the top in a deep blue font, followed by a playful and inviting subheading (`subheading`) in green. A neat bullet list (`description`) conveys key product features such as purity and creamy texture. An orange tagline (`tagline`) adds urgency, while a green promotional line (`call_to_action_text`) reinforces product quality. The banner concludes with the highlighted price (`price`) and a bold call-to-action button (`cta`, `cta_background`). A realistic product image (`product_image`) anchors the layout visually. The background includes soft, overlapping circles and wave lines, enhancing the freshness theme.\n\n**Color Palette:**\n- Deep Blue: #1A5F7A\n- Light Aqua: #C5E8F2\n- Teal Green: #52AB98\n- Cream White: #F7F5F2\n- Coral Orange: #E76F51\n- Soft Grey-Black: #333333\n", "product_color": "\nThe product image showcases a fresh, clean, and minimalist color palette ideal for an advertisement banner. Dominant whites from the milk (#FAFAF5) convey purity, health, and freshness. The transparent glass vessels introduce subtle blue hues (#A4C6E7 on the bottle neck and handle), reflecting coolness and hygiene. Light gray tones (#E0E0E0) from the reflections balance the contrast and make the white milk stand out. The colors are harmoniously blended, with soft edges and gradients, yet highlighted through light reflections and glass transparency. This combination makes the image feel pure, premium, and refreshing. Ideal complementary palette: white, light blue, pale gray, and silver.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F7F5F2'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#F7F5F2'/><rect x='0' y='700' width='1080' height='380' fill='#E3F4F9' opacity='0.7'/><circle cx='940' cy='140' r='200' fill='#C5E8F2' opacity='0.5'/><circle cx='100' cy='940' r='180' fill='#C5E8F2' opacity='0.5'/><g opacity='0.1'><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#7BBACE' stroke-width='2'/><line x1='0' y1='40' x2='1080' y2='40' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='80' x2='1080' y2='80' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='160' x2='1080' y2='160' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='280' x2='1080' y2='280' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='320' x2='1080' y2='320' stroke='#7BBACE' stroke-width='1'/><line x1='0' y1='360' x2='1080' y2='360' stroke='#7BBACE' stroke-width='1'/></g><path d='M200 400 Q400 450 750 350' stroke='#7BBACE' stroke-width='4' opacity='0.3'/><path d='M200 820 Q400 870 750 770' stroke='#7BBACE' stroke-width='4' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 52,
+                "left": 58,
+                "width": 786.28,
+                "height": 158.2,
+                "fill": "#1A5F7A",
+                "text": "FARM FRESH",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 60,
+                "width": 485.2,
+                "height": 113,
+                "fill": "#52AB98",
+                "text": "GOODNESS",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 60,
+                "width": 430.61,
+                "height": 186.45,
+                "fill": "#333333",
+                "text": "\u2022 100% Pure, Fresh Whole Milk\n\u2022 Rich and Creamy Texture\n\u2022 No Artificial Hormones\n\u2022 Farm-to-Table Freshness",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 452.38,
+                "left": 582.7,
+                "width": 423.95,
+                "height": 555.71,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/EGOwp8XE_DtlLKPbeG_c8_695x911.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 62,
+                "width": 213.54,
+                "height": 79.1,
+                "fill": "#1A5F7A",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 550,
+                "left": 62,
+                "width": 465,
+                "height": 45.2,
+                "fill": "#E76F51",
+                "text": "LIMITED-TIME DELIGHT!",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "rect",
+                "top": 880,
+                "left": 62,
+                "width": 240,
+                "height": 70,
+                "fill": "#1A5F7A",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 898,
+                "left": 105,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 630,
+                "left": 62,
+                "width": 543.55,
+                "height": 29.38,
+                "fill": "#52AB98",
+                "text": "Don't Miss Out on Premium Grade A Milk!",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "call_to_action_text"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Farm Fresh Dairy Delight: Premium Grade A Whole Milk",
+            "description": "\u2022 100% Pure, Fresh Whole Milk\n\u2022 Rich and Creamy Texture\n\u2022 Excellent Source of Calcium and Vitamin D\n\u2022 No Artificial Hormones or Additives\n\u2022 Farm-to-Table Freshness Guaranteed\n\u2022 Available in Multiple Sizes: Glass Bottle and Pitcher Options\n\u2022 Perfect for Cooking, Baking, and Direct Consumption\n\u2022 Locally Sourced from Premium Dairy Farms\n\u2022 BPA-Free Glass Packaging\n\u2022 Ideal for Healthy Families and Active Lifestyles",
+            "price": "\u20b90999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/EGOwp8XE_DtlLKPbeG_c8_695x911.png",
+        "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThe banner presents a farm-fresh milk advertisement with a clean and modern layout, designed to highlight freshness, purity, and urgency. The composition starts with a bold, prominent headline (`heading`) at the top in a deep blue font, followed by a playful and inviting subheading (`subheading`) in green. A neat bullet list (`description`) conveys key product features such as purity and creamy texture. An orange tagline (`tagline`) adds urgency, while a green promotional line (`call_to_action_text`) reinforces product quality. The banner concludes with the highlighted price (`price`) and a bold call-to-action button (`cta`, `cta_background`). A realistic product image (`product_image`) anchors the layout visually. The background includes soft, overlapping circles and wave lines, enhancing the freshness theme.\n\n**Color Palette:**\n- Deep Blue: #1A5F7A\n- Light Aqua: #C5E8F2\n- Teal Green: #52AB98\n- Cream White: #F7F5F2\n- Coral Orange: #E76F51\n- Soft Grey-Black: #333333\n",
+    "product_color": "\nThe product image showcases a fresh, clean, and minimalist color palette ideal for an advertisement banner. Dominant whites from the milk (#FAFAF5) convey purity, health, and freshness. The transparent glass vessels introduce subtle blue hues (#A4C6E7 on the bottle neck and handle), reflecting coolness and hygiene. Light gray tones (#E0E0E0) from the reflections balance the contrast and make the white milk stand out. The colors are harmoniously blended, with soft edges and gradients, yet highlighted through light reflections and glass transparency. This combination makes the image feel pure, premium, and refreshing. Ideal complementary palette: white, light blue, pale gray, and silver.\n"
+}

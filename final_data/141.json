@@ -1,1 +1,159 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#2B5EDF'/><rect x='540' y='0' width='540' height='540' fill='#72A1FF'/><rect x='0' y='540' width='540' height='540' fill='#E0E0E0'/><rect x='540' y='540' width='540' height='540' fill='#FFFFFF'/><g opacity='0.1'><circle cx='270' cy='270' r='200' fill='#FFFFFF'/><circle cx='810' cy='810' r='180' fill='#2B5EDF'/></g><g opacity='0.1'><path d='M0 80 L540 80' stroke='#FFFFFF' stroke-width='3'/><path d='M0 160 L540 160' stroke='#FFFFFF' stroke-width='3'/><path d='M0 240 L540 240' stroke='#FFFFFF' stroke-width='3'/><path d='M0 320 L540 320' stroke='#FFFFFF' stroke-width='3'/><path d='M0 400 L540 400' stroke='#FFFFFF' stroke-width='3'/><path d='M0 480 L540 480' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.1'><path d='M80 0 L80 540' stroke='#FFFFFF' stroke-width='3'/><path d='M160 0 L160 540' stroke='#FFFFFF' stroke-width='3'/><path d='M240 0 L240 540' stroke='#FFFFFF' stroke-width='3'/><path d='M320 0 L320 540' stroke='#FFFFFF' stroke-width='3'/><path d='M400 0 L400 540' stroke='#FFFFFF' stroke-width='3'/><path d='M480 0 L480 540' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.15'><path d='M540 80 L1080 80' stroke='#FFFFFF' stroke-width='2'/><path d='M540 160 L1080 160' stroke='#FFFFFF' stroke-width='2'/><path d='M540 240 L1080 240' stroke='#FFFFFF' stroke-width='2'/><path d='M540 320 L1080 320' stroke='#FFFFFF' stroke-width='2'/><path d='M540 400 L1080 400' stroke='#FFFFFF' stroke-width='2'/><path d='M540 480 L1080 480' stroke='#FFFFFF' stroke-width='2'/></g><path d='M140 140 L440 140 L440 440 L140 440 Z' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.2'/><path d='M640 140 L940 140 L940 440 L640 440 Z' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.2'/><path d='M140 640 L440 640 L440 940 L140 940 Z' stroke='#00C2CB' stroke-width='4' fill='none' opacity='0.2'/><path d='M640 640 L940 640 L940 940 L640 940 Z' stroke='#2B5EDF' stroke-width='4' fill='none' opacity='0.2'/><circle cx='950' cy='130' r='30' fill='#00C2CB' opacity='0.2'/><circle cx='130' cy='950' r='30' fill='#00C2CB' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 45, "width": 637.14, "height": 63.28, "fill": "#FFFFFF", "text": "REVOLUTIONIZE", "fontSize": 56, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 130, "left": 45, "width": 600.61, "height": 63.28, "fill": "#FFFFFF", "text": "LAUNDRY DAY", "fontSize": 56, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 240, "left": 46, "width": 316.2, "height": 45.2, "fill": "#F0F0F0", "text": "SMART WASHING", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading_1"}, {"type": "text", "top": 285, "left": 46, "width": 211.98, "height": 45.2, "fill": "#F0F0F0", "text": "MADE EASY", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading_2"}, {"type": "text", "top": 600, "left": 50, "width": 330.38, "height": 186.45, "fill": "#333333", "text": "\u2022 Digital LED Display\n\u2022 Multiple Wash Cycles\n\u2022 Energy-Efficient Design\n\u2022 Smart Function Selection", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 50, "width": 202.1, "height": 84.75, "fill": "#2B5EDF", "text": "$234", "fontSize": 75, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 50, "width": 240.0, "height": 60, "fill": "#2B5EDF", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 945, "left": 95, "width": 135.47, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 560, "width": 899, "height": 1281, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/3iogfOZyA0DFPiQlucgeR_899x1281.png", "id": "product_image"}, {"type": "text", "top": 348, "left": 36, "width": 474.77, "height": 28.25, "fill": "#FFFFFF", "text": "INSIGNIA SMART WASHER", "fontSize": 25, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "product_name"}, {"type": "text", "top": 403, "left": 109, "width": 322.74, "height": 27.12, "fill": "#FFFFFF", "text": "MODERN LAUNDRY INNOVATION", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Smart Front Load Washer - Modern Laundry Innovation", "description": "\u2022 Digital LED Display with Clear Time Indicator\n\u2022 Multiple Wash Cycles with Express and Delay Options\n\u2022 Premium Large Capacity Drum Design\n\u2022 User-Friendly Control Panel with Intuitive Dial Selection\n\u2022 Energy-Efficient Performance\n\u2022 Sleek White Design with Modern Black Glass Door\n\u2022 Advanced Temperature Control Settings\n\u2022 Multiple Spin Speed Options\n\u2022 Customizable Wash Programs for Different Fabrics\n\u2022 Easy-Access Front Loading Design\n\u2022 Compact Yet Spacious Interior\n\u2022 Anti-Vibration System with Stabilizing Feet\n\u2022 Clear View Door Window for Load Monitoring\n\u2022 Smart Function Selection for Specialized Washing Needs", "price": "$234"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/3iogfOZyA0DFPiQlucgeR_899x1281.png", "marketplace_url": "blob:https://studio.phot.ai/f2f22391-8c0c-44f1-9ed6-06237dfc1344", "layout": "split_vertical"}, "banner_details": "\nThis banner presents a modern promotional layout for a smart washing machine. The top-left quadrant features bold and futuristic typography in white for the primary message (text layers: `heading_1` and `heading_2`), positioned over a blue grid background that implies technological innovation. Below this, the subheadings (`subheading_1`, `subheading_2`) emphasize ease and intelligence in laundry solutions. The product brand and name (`product_name`) and a sleek tagline (`tagline`) are centered, enhancing brand identity. The right side displays a prominent image of the washer (`product_image`). The bottom-left segment uses a muted grey background to highlight features in a bullet list (`description`), followed by a prominently styled price tag (`price`) and a high-contrast call-to-action button (`cta_button`, `cta`).\n\n**Color Palette:**\n- Royal Blue: `#2B5EDF`\n- Soft Sky Blue: `#72A1FF`\n- Light Gray: `#E0E0E0`\n- Bright White: `#FFFFFF`\n- Charcoal Gray: `#333333`\n- Cyan Accent: `#00C2CB`\n", "product_color": "  \nThe product image features a modern washing machine with a sleek, minimalist design accentuated by a clean and sophisticated monochrome color palette. The primary color is a crisp white (#FFFFFF), which dominates the body and conveys cleanliness and purity. The control panel and inner drum detailing incorporate deep black (#000000), adding contrast and emphasizing structure. The dial features metallic silver (#C0C0C0) for a high-tech feel, and the digital display glows with electric blue (#00BFFF), highlighting functionality and modernity. These colors are expertly blended by maintaining high contrast and sharp edges, making each feature distinct while complementing the overall clean aesthetic.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#2B5EDF'/><rect x='540' y='0' width='540' height='540' fill='#72A1FF'/><rect x='0' y='540' width='540' height='540' fill='#E0E0E0'/><rect x='540' y='540' width='540' height='540' fill='#FFFFFF'/><g opacity='0.1'><circle cx='270' cy='270' r='200' fill='#FFFFFF'/><circle cx='810' cy='810' r='180' fill='#2B5EDF'/></g><g opacity='0.1'><path d='M0 80 L540 80' stroke='#FFFFFF' stroke-width='3'/><path d='M0 160 L540 160' stroke='#FFFFFF' stroke-width='3'/><path d='M0 240 L540 240' stroke='#FFFFFF' stroke-width='3'/><path d='M0 320 L540 320' stroke='#FFFFFF' stroke-width='3'/><path d='M0 400 L540 400' stroke='#FFFFFF' stroke-width='3'/><path d='M0 480 L540 480' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.1'><path d='M80 0 L80 540' stroke='#FFFFFF' stroke-width='3'/><path d='M160 0 L160 540' stroke='#FFFFFF' stroke-width='3'/><path d='M240 0 L240 540' stroke='#FFFFFF' stroke-width='3'/><path d='M320 0 L320 540' stroke='#FFFFFF' stroke-width='3'/><path d='M400 0 L400 540' stroke='#FFFFFF' stroke-width='3'/><path d='M480 0 L480 540' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.15'><path d='M540 80 L1080 80' stroke='#FFFFFF' stroke-width='2'/><path d='M540 160 L1080 160' stroke='#FFFFFF' stroke-width='2'/><path d='M540 240 L1080 240' stroke='#FFFFFF' stroke-width='2'/><path d='M540 320 L1080 320' stroke='#FFFFFF' stroke-width='2'/><path d='M540 400 L1080 400' stroke='#FFFFFF' stroke-width='2'/><path d='M540 480 L1080 480' stroke='#FFFFFF' stroke-width='2'/></g><path d='M140 140 L440 140 L440 440 L140 440 Z' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.2'/><path d='M640 140 L940 140 L940 440 L640 440 Z' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.2'/><path d='M140 640 L440 640 L440 940 L140 940 Z' stroke='#00C2CB' stroke-width='4' fill='none' opacity='0.2'/><path d='M640 640 L940 640 L940 940 L640 940 Z' stroke='#2B5EDF' stroke-width='4' fill='none' opacity='0.2'/><circle cx='950' cy='130' r='30' fill='#00C2CB' opacity='0.2'/><circle cx='130' cy='950' r='30' fill='#00C2CB' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 45,
+                "width": 637.14,
+                "height": 63.28,
+                "fill": "#FFFFFF",
+                "text": "REVOLUTIONIZE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 130,
+                "left": 45,
+                "width": 600.61,
+                "height": 63.28,
+                "fill": "#FFFFFF",
+                "text": "LAUNDRY DAY",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 46,
+                "width": 316.2,
+                "height": 45.2,
+                "fill": "#F0F0F0",
+                "text": "SMART WASHING",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading_1"
+            },
+            {
+                "type": "text",
+                "top": 285,
+                "left": 46,
+                "width": 211.98,
+                "height": 45.2,
+                "fill": "#F0F0F0",
+                "text": "MADE EASY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading_2"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 330.38,
+                "height": 186.45,
+                "fill": "#333333",
+                "text": "\u2022 Digital LED Display\n\u2022 Multiple Wash Cycles\n\u2022 Energy-Efficient Design\n\u2022 Smart Function Selection",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 50,
+                "width": 202.1,
+                "height": 84.75,
+                "fill": "#2B5EDF",
+                "text": "$234",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 50,
+                "width": 240.0,
+                "height": 60,
+                "fill": "#2B5EDF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 945,
+                "left": 95,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 560,
+                "width": 494.45000000000005,
+                "height": 704.5500000000001,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/3iogfOZyA0DFPiQlucgeR_899x1281.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 348,
+                "left": 36,
+                "width": 474.77,
+                "height": 28.25,
+                "fill": "#FFFFFF",
+                "text": "INSIGNIA SMART WASHER",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            },
+            {
+                "type": "text",
+                "top": 403,
+                "left": 109,
+                "width": 322.74,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "MODERN LAUNDRY INNOVATION",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Smart Front Load Washer - Modern Laundry Innovation",
+            "description": "\u2022 Digital LED Display with Clear Time Indicator\n\u2022 Multiple Wash Cycles with Express and Delay Options\n\u2022 Premium Large Capacity Drum Design\n\u2022 User-Friendly Control Panel with Intuitive Dial Selection\n\u2022 Energy-Efficient Performance\n\u2022 Sleek White Design with Modern Black Glass Door\n\u2022 Advanced Temperature Control Settings\n\u2022 Multiple Spin Speed Options\n\u2022 Customizable Wash Programs for Different Fabrics\n\u2022 Easy-Access Front Loading Design\n\u2022 Compact Yet Spacious Interior\n\u2022 Anti-Vibration System with Stabilizing Feet\n\u2022 Clear View Door Window for Load Monitoring\n\u2022 Smart Function Selection for Specialized Washing Needs",
+            "price": "$234"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/3iogfOZyA0DFPiQlucgeR_899x1281.png",
+        "marketplace_url": "blob:https://studio.phot.ai/f2f22391-8c0c-44f1-9ed6-06237dfc1344",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner presents a modern promotional layout for a smart washing machine. The top-left quadrant features bold and futuristic typography in white for the primary message (text layers: `heading_1` and `heading_2`), positioned over a blue grid background that implies technological innovation. Below this, the subheadings (`subheading_1`, `subheading_2`) emphasize ease and intelligence in laundry solutions. The product brand and name (`product_name`) and a sleek tagline (`tagline`) are centered, enhancing brand identity. The right side displays a prominent image of the washer (`product_image`). The bottom-left segment uses a muted grey background to highlight features in a bullet list (`description`), followed by a prominently styled price tag (`price`) and a high-contrast call-to-action button (`cta_button`, `cta`).\n\n**Color Palette:**\n- Royal Blue: `#2B5EDF`\n- Soft Sky Blue: `#72A1FF`\n- Light Gray: `#E0E0E0`\n- Bright White: `#FFFFFF`\n- Charcoal Gray: `#333333`\n- Cyan Accent: `#00C2CB`\n",
+    "product_color": "  \nThe product image features a modern washing machine with a sleek, minimalist design accentuated by a clean and sophisticated monochrome color palette. The primary color is a crisp white (#FFFFFF), which dominates the body and conveys cleanliness and purity. The control panel and inner drum detailing incorporate deep black (#000000), adding contrast and emphasizing structure. The dial features metallic silver (#C0C0C0) for a high-tech feel, and the digital display glows with electric blue (#00BFFF), highlighting functionality and modernity. These colors are expertly blended by maintaining high contrast and sharp edges, making each feature distinct while complementing the overall clean aesthetic.  \n"
+}

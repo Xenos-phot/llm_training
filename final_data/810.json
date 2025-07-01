@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F8E2D8;stop-opacity:1' /><stop offset='100%' style='stop-color:#F1D0CD;stop-opacity:1' /></linearGradient><pattern id='honeycomb' width='40' height='70' patternUnits='userSpaceOnUse' patternTransform='scale(2) rotate(0)'><path d='M0,17.5 L10,0 L30,0 L40,17.5 L30,35 L10,35 L0,17.5' fill='none' stroke='#D4AF37' stroke-width='0.5' opacity='0.3'/></pattern></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><rect x='540' y='0' width='540' height='1080' fill='#FCF6F5'/><rect x='0' y='0' width='540' height='1080' fill='url(#honeycomb)'/><path d='M540,0 L540,1080' stroke='#D4AF37' stroke-width='2' opacity='0.5'/><circle cx='120' cy='120' r='40' fill='#D4AF37' opacity='0.1'/><circle cx='460' cy='960' r='60' fill='#D4AF37' opacity='0.1'/><circle cx='240' cy='480' r='80' fill='#D4AF37' opacity='0.1'/><circle cx='400' cy='240' r='30' fill='#D4AF37' opacity='0.1'/><circle cx='100' cy='720' r='50' fill='#D4AF37' opacity='0.1'/><circle cx='940' cy='140' r='40' fill='#D4AF37' opacity='0.05'/><circle cx='860' cy='860' r='60' fill='#D4AF37' opacity='0.05'/><circle cx='740' cy='480' r='30' fill='#D4AF37' opacity='0.05'/><circle cx='980' cy='720' r='50' fill='#D4AF37' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 180, "left": 60, "width": 335.6, "height": 137.41, "fill": "#8A5A44", "text": "AQUA\nALLEGORIA", "fontSize": 64, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 320, "left": 60, "width": 280.12, "height": 45.2, "fill": "#C1966B", "text": "PERA GRANITA", "fontSize": 40, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 450, "left": 60, "width": 358.81, "height": 103.06, "fill": "#8A5A44", "text": "\u2022 Exclusive Guerlain luxury fragrance\n\u2022 Elegant honeycomb design bottle\n\u2022 Fresh, nature-inspired pear scent", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 60, "width": 267.28, "height": 90.4, "fill": "#C1966B", "text": "\u20b9 999", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 60, "width": 200, "height": 60, "fill": "#8A5A44", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 799, "left": 93, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 230, "left": 660, "width": 295, "height": 615, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c76aa92ae04ced9dc4a14/-48ritYF9Ny8KGhf4pneR_295x615.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Guerlain Aqua Allegoria Pera Granita: A Luxurious Journey in a Bottle", "description": "\u2022 Exclusive Guerlain fragrance from the prestigious Aqua Allegoria collection\n\u2022 Elegant honeycomb-pattern gold cap design showcasing premium craftsmanship\n\u2022 Beautiful gradient rose gold to clear glass bottle\n\u2022 Sophisticated dual-tone design with gold and rose gold accents\n\u2022 Part of the exclusive Aqua Allegoria line featuring fresh, nature-inspired scents\n\u2022 Luxurious 75ml/2.5 fl oz spray bottle\n\u2022 Distinctive pear-inspired fragrance notes (Pera Granita)\n\u2022 Collector's edition bottle design with iconic Guerlain bee emblem\n\u2022 Perfect blend of modern aesthetics and classic luxury\n\u2022 Ideal for fragrance connoisseurs and luxury perfume collectors", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c76aa92ae04ced9dc4a14/-48ritYF9Ny8KGhf4pneR_295x615.png", "marketplace_url": "https://images.pexels.com/photos/1961792/pexels-photo-1961792.jpeg", "layout": "split_vertical"}, "banner_details": "\nThe banner presents a luxurious and elegant fragrance promotion. The layout is split vertically into two contrasting halves. The left side features a dark background with subtle honeycomb patterns and faded golden circles, reinforcing a sense of sophistication. The primary headline (\"heading\") in bold serif typography introduces the product name in an elegant tone, followed by a refined subheading (\"subheading\"). Below that, product highlights (\"description\") are displayed in a neat bulleted list. A large, stylized price tag (\"price\") grabs attention, and below it sits a prominent call-to-action button (\"cta\" over \"cta_background\"). The right half showcases a high-quality perfume image (\"product_image\"), set against a soft pastel background, balancing the visual weight. \n\n**Color Palette:**\n- Soft blush pink (#FCF6F5)\n- Deep brown (#8A5A44)\n- Metallic gold (#D4AF37)\n- Cream beige (#F8E2D8)\n- Warm bronze (#C1966B)\n- White (#FFFFFF)\n- Black (#000000)\n", "product_color": "  \nThe product image of the Guerlain Aqua Allegoria perfume showcases a luxurious and feminine color palette that would beautifully translate into an elegant advertisement banner. Dominant hues include a soft blush pink (#FAD4D0), reflecting the liquid inside, and a radiant metallic gold (#D4AF37) used on the cap, label border, and honeycomb pattern, which symbolizes opulence. A subtle white (#FFFFFF) background and label enhance the clarity and sophistication. The text in golden yellow (#E2B842) and rose pink (#D95485) adds refined highlights. The colors blend harmoniously, with the golden tones accentuating the bottle\u2019s luxurious details, while the pink base adds freshness and charm.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F8E2D8;stop-opacity:1' /><stop offset='100%' style='stop-color:#F1D0CD;stop-opacity:1' /></linearGradient><pattern id='honeycomb' width='40' height='70' patternUnits='userSpaceOnUse' patternTransform='scale(2) rotate(0)'><path d='M0,17.5 L10,0 L30,0 L40,17.5 L30,35 L10,35 L0,17.5' fill='none' stroke='#D4AF37' stroke-width='0.5' opacity='0.3'/></pattern></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><rect x='540' y='0' width='540' height='1080' fill='#FCF6F5'/><rect x='0' y='0' width='540' height='1080' fill='url(#honeycomb)'/><path d='M540,0 L540,1080' stroke='#D4AF37' stroke-width='2' opacity='0.5'/><circle cx='120' cy='120' r='40' fill='#D4AF37' opacity='0.1'/><circle cx='460' cy='960' r='60' fill='#D4AF37' opacity='0.1'/><circle cx='240' cy='480' r='80' fill='#D4AF37' opacity='0.1'/><circle cx='400' cy='240' r='30' fill='#D4AF37' opacity='0.1'/><circle cx='100' cy='720' r='50' fill='#D4AF37' opacity='0.1'/><circle cx='940' cy='140' r='40' fill='#D4AF37' opacity='0.05'/><circle cx='860' cy='860' r='60' fill='#D4AF37' opacity='0.05'/><circle cx='740' cy='480' r='30' fill='#D4AF37' opacity='0.05'/><circle cx='980' cy='720' r='50' fill='#D4AF37' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 335.6,
+                "height": 137.41,
+                "fill": "#8A5A44",
+                "text": "AQUA\nALLEGORIA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 60,
+                "width": 280.12,
+                "height": 45.2,
+                "fill": "#C1966B",
+                "text": "PERA GRANITA",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 60,
+                "width": 358.81,
+                "height": 103.06,
+                "fill": "#8A5A44",
+                "text": "\u2022 Exclusive Guerlain luxury fragrance\n\u2022 Elegant honeycomb design bottle\n\u2022 Fresh, nature-inspired pear scent",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 267.28,
+                "height": 90.4,
+                "fill": "#C1966B",
+                "text": "\u20b9 999",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#8A5A44",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 799,
+                "left": 93,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 230,
+                "left": 660,
+                "width": 295,
+                "height": 615,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c76aa92ae04ced9dc4a14/-48ritYF9Ny8KGhf4pneR_295x615.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Guerlain Aqua Allegoria Pera Granita: A Luxurious Journey in a Bottle",
+            "description": "\u2022 Exclusive Guerlain fragrance from the prestigious Aqua Allegoria collection\n\u2022 Elegant honeycomb-pattern gold cap design showcasing premium craftsmanship\n\u2022 Beautiful gradient rose gold to clear glass bottle\n\u2022 Sophisticated dual-tone design with gold and rose gold accents\n\u2022 Part of the exclusive Aqua Allegoria line featuring fresh, nature-inspired scents\n\u2022 Luxurious 75ml/2.5 fl oz spray bottle\n\u2022 Distinctive pear-inspired fragrance notes (Pera Granita)\n\u2022 Collector's edition bottle design with iconic Guerlain bee emblem\n\u2022 Perfect blend of modern aesthetics and classic luxury\n\u2022 Ideal for fragrance connoisseurs and luxury perfume collectors",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c76aa92ae04ced9dc4a14/-48ritYF9Ny8KGhf4pneR_295x615.png",
+        "marketplace_url": "https://images.pexels.com/photos/1961792/pexels-photo-1961792.jpeg",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner presents a luxurious and elegant fragrance promotion. The layout is split vertically into two contrasting halves. The left side features a dark background with subtle honeycomb patterns and faded golden circles, reinforcing a sense of sophistication. The primary headline (\"heading\") in bold serif typography introduces the product name in an elegant tone, followed by a refined subheading (\"subheading\"). Below that, product highlights (\"description\") are displayed in a neat bulleted list. A large, stylized price tag (\"price\") grabs attention, and below it sits a prominent call-to-action button (\"cta\" over \"cta_background\"). The right half showcases a high-quality perfume image (\"product_image\"), set against a soft pastel background, balancing the visual weight. \n\n**Color Palette:**\n- Soft blush pink (#FCF6F5)\n- Deep brown (#8A5A44)\n- Metallic gold (#D4AF37)\n- Cream beige (#F8E2D8)\n- Warm bronze (#C1966B)\n- White (#FFFFFF)\n- Black (#000000)\n",
+    "product_color": "  \nThe product image of the Guerlain Aqua Allegoria perfume showcases a luxurious and feminine color palette that would beautifully translate into an elegant advertisement banner. Dominant hues include a soft blush pink (#FAD4D0), reflecting the liquid inside, and a radiant metallic gold (#D4AF37) used on the cap, label border, and honeycomb pattern, which symbolizes opulence. A subtle white (#FFFFFF) background and label enhance the clarity and sophistication. The text in golden yellow (#E2B842) and rose pink (#D95485) adds refined highlights. The colors blend harmoniously, with the golden tones accentuating the bottle\u2019s luxurious details, while the pink base adds freshness and charm.\n"
+}

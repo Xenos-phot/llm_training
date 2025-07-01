@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='backgroundGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#8FD14F'/><stop offset='100%' stop-color='#6BA83A'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><g transform='translate(540,540)'><circle r='350' fill='#7BC242' filter='drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.25))'/><circle r='250' fill='#6BA83A' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.2))'/><circle r='150' fill='#5C8F32' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.15))'/></g><g transform='translate(540,540)' opacity='0.1'><path d='M-350,0 A350,350 0 0,1 350,0' stroke='#FFE066' stroke-width='2' fill='none' transform='rotate(-20)'/><path d='M-250,0 A250,250 0 0,1 250,0' stroke='#FFE066' stroke-width='2' fill='none' transform='rotate(-20)'/><path d='M-150,0 A150,150 0 0,1 150,0' stroke='#FFE066' stroke-width='2' fill='none' transform='rotate(-20)'/></g><g transform='translate(1050,30)'><circle r='160' fill='#8FD14F' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.25))'/><circle r='110' fill='#7BC242' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2))'/><circle r='60' fill='#6BA83A' filter='drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.15))'/></g><g transform='translate(30,1050)'><circle r='160' fill='#8FD14F' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.25))'/><circle r='110' fill='#7BC242' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2))'/><circle r='60' fill='#6BA83A' filter='drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.15))'/></g><g transform='translate(20,20)'><circle r='100' fill='#8FD14F' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.25))'/><circle r='70' fill='#7BC242' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2))'/><circle r='40' fill='#6BA83A' filter='drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.15))'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 228.72000000000003, "width": 622.56, "height": 90.4, "fill": "#FFE066", "text": "PLATINUM VIBE", "fontSize": 80, "fontFamily": "Georama Black", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 213.38, "width": 653.24, "height": 67.8, "fill": "#FFF3B0", "text": "Over-Ear Bluetooth Headphones", "fontSize": 60, "fontFamily": "New Amsterdam-Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 231.175, "left": 342.6, "width": 1128, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/432232ce-5a04-4607-a8e0-88399c8bbbfe_nobg_1128x1439.png", "id": "product_image"}, {"type": "text", "top": 775, "left": 203.72000000000003, "width": 672.56, "height": 22.6, "fill": "#FFFFFF", "text": "Noise Reduction Technology \u2022 Hi-Res Audio \u2022 Deep Bass \u2022 Comfort Fit", "fontSize": 20, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 835, "left": 444.69, "width": 190.62, "height": 84.75, "fill": "#FFE066", "text": "$27.99", "fontSize": 75, "fontFamily": "Squada One-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940, "left": 440.0, "width": 200, "height": 60, "fill": "#FFE066", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 955, "left": 485.845, "width": 108.31, "height": 27.12, "fill": "#5C8F32", "text": "BUY NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Noise Reduction Technology: High Definition Stereo Headphones, noise reduction technology designed to reduce surrounding noise so that you can enjoy what you want to hear. Lose yourself in music even in the lowest volume levels! 40mm sound driver for true richness in sound and deep bass. EASY CONNECTIVITY: Gabba Goods Headphones are compatible with all Bluetooth or 3.5mm plug cable enabled devices such as , iPhones, Smart android phones, Tablet, Laptop, iPads, MP3/4 Player, Computers, MacBook and other Bluetooth devices. Just slide the on/off button and the headphones will be in ready to pair mode. It is built to provide a quick and stable Bluetooth connection and to enable hands-free communication through our special noise reduction technology Super Comfortable design: The Cushioned Ear Muffs are made of artificial leather so that you can wear them for extended time with comfort. The Headset is foldable for easy storage and travel. Great for use by Unisex Kids, Teens and Adults. Built-in microphone: For clear hands-free calling. Enjoy Speaking and Talking Handsfree A highly sensitive microphone that is perfect for capturing clear audio, Micro SD card support: And volume and pause/play functions , allows you to conveniently Listen to Your Favorite Music Audio books, and Podcasts. Brand - Gabba Goods ** Color - Lavender ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 26 Ohm **", "price": "27.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/432232ce-5a04-4607-a8e0-88399c8bbbfe_nobg_1128x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0DX2N1VMN", "layout": "circular_focus"}, "banner_details": "\nThis promotional banner features a modern headphone advertisement with a vibrant radial gradient background blending vivid lime green to leafy green tones, enhanced by layered circular graphics for a dynamic visual depth. At the top, the bold heading (`heading`) in warm yellow emphasizes the product branding, while the secondary text (`subheading`) below it uses a softer pastel yellow for the product description. The centrally placed 3D-rendered headphone image (`product_image`) catches immediate attention. Below the image, a feature highlight text (`description`) in white outlines key product selling points. The price (`price`) is prominently displayed in bold yellow, complemented by a rectangular call-to-action button (`cta_background`) with contrasting green \u201cBUY NOW\u201d text (`cta`). The layout is balanced and visually engaging, optimized for e-commerce advertisements.\n\n**Color Palette:**\n- #8FD14F (Lime Green)\n- #6BA83A (Leaf Green)\n- #5C8F32 (Forest Green)\n- #FFE066 (Warm Yellow)\n- #FFF3B0 (Pastel Yellow)\n- #FFFFFF (White)\n", "product_color": "  \nThe product image showcases a sleek pair of headphones in a monochromatic lavender color scheme. The color palette includes glossy and matte lavender hues, offering a luxurious and modern aesthetic. Highlighted areas use a luminous lavender sheen (Hex: #D4B5F1), while the softer matte sections employ a muted mauve (Hex: #A692C3), adding depth and texture. The ear cushions are slightly deeper in tone (Hex: #8A6DA9), subtly balancing the shine. The blend of high gloss and matte finishes strategically reflects light, emphasizing sculpted edges and details like buttons. This elegant monochrome theme pairs beautifully with white and silver accents for advertising.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='backgroundGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#8FD14F'/><stop offset='100%' stop-color='#6BA83A'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><g transform='translate(540,540)'><circle r='350' fill='#7BC242' filter='drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.25))'/><circle r='250' fill='#6BA83A' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.2))'/><circle r='150' fill='#5C8F32' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.15))'/></g><g transform='translate(540,540)' opacity='0.1'><path d='M-350,0 A350,350 0 0,1 350,0' stroke='#FFE066' stroke-width='2' fill='none' transform='rotate(-20)'/><path d='M-250,0 A250,250 0 0,1 250,0' stroke='#FFE066' stroke-width='2' fill='none' transform='rotate(-20)'/><path d='M-150,0 A150,150 0 0,1 150,0' stroke='#FFE066' stroke-width='2' fill='none' transform='rotate(-20)'/></g><g transform='translate(1050,30)'><circle r='160' fill='#8FD14F' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.25))'/><circle r='110' fill='#7BC242' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2))'/><circle r='60' fill='#6BA83A' filter='drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.15))'/></g><g transform='translate(30,1050)'><circle r='160' fill='#8FD14F' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.25))'/><circle r='110' fill='#7BC242' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2))'/><circle r='60' fill='#6BA83A' filter='drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.15))'/></g><g transform='translate(20,20)'><circle r='100' fill='#8FD14F' filter='drop-shadow(0px 6px 12px rgba(0, 0, 0, 0.25))'/><circle r='70' fill='#7BC242' filter='drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.2))'/><circle r='40' fill='#6BA83A' filter='drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.15))'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 228.72000000000003,
+                "width": 622.56,
+                "height": 90.4,
+                "fill": "#FFE066",
+                "text": "PLATINUM VIBE",
+                "fontFamily": "Georama Black",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 213.38,
+                "width": 653.24,
+                "height": 67.8,
+                "fill": "#FFF3B0",
+                "text": "Over-Ear Bluetooth Headphones",
+                "fontFamily": "New Amsterdam-Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 231.175,
+                "left": 342.6,
+                "width": 394.79999999999995,
+                "height": 503.65,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/432232ce-5a04-4607-a8e0-88399c8bbbfe_nobg_1128x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 775,
+                "left": 203.72000000000003,
+                "width": 672.56,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "Noise Reduction Technology \u2022 Hi-Res Audio \u2022 Deep Bass \u2022 Comfort Fit",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 835,
+                "left": 444.69,
+                "width": 190.62,
+                "height": 84.75,
+                "fill": "#FFE066",
+                "text": "$27.99",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#FFE066",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 955,
+                "left": 485.845,
+                "width": 108.31,
+                "height": 27.12,
+                "fill": "#5C8F32",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Noise Reduction Technology: High Definition Stereo Headphones, noise reduction technology designed to reduce surrounding noise so that you can enjoy what you want to hear. Lose yourself in music even in the lowest volume levels! 40mm sound driver for true richness in sound and deep bass. EASY CONNECTIVITY: Gabba Goods Headphones are compatible with all Bluetooth or 3.5mm plug cable enabled devices such as , iPhones, Smart android phones, Tablet, Laptop, iPads, MP3/4 Player, Computers, MacBook and other Bluetooth devices. Just slide the on/off button and the headphones will be in ready to pair mode. It is built to provide a quick and stable Bluetooth connection and to enable hands-free communication through our special noise reduction technology Super Comfortable design: The Cushioned Ear Muffs are made of artificial leather so that you can wear them for extended time with comfort. The Headset is foldable for easy storage and travel. Great for use by Unisex Kids, Teens and Adults. Built-in microphone: For clear hands-free calling. Enjoy Speaking and Talking Handsfree A highly sensitive microphone that is perfect for capturing clear audio, Micro SD card support: And volume and pause/play functions , allows you to conveniently Listen to Your Favorite Music Audio books, and Podcasts. Brand - Gabba Goods ** Color - Lavender ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 26 Ohm **",
+            "price": "27.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/432232ce-5a04-4607-a8e0-88399c8bbbfe_nobg_1128x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0DX2N1VMN",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis promotional banner features a modern headphone advertisement with a vibrant radial gradient background blending vivid lime green to leafy green tones, enhanced by layered circular graphics for a dynamic visual depth. At the top, the bold heading (`heading`) in warm yellow emphasizes the product branding, while the secondary text (`subheading`) below it uses a softer pastel yellow for the product description. The centrally placed 3D-rendered headphone image (`product_image`) catches immediate attention. Below the image, a feature highlight text (`description`) in white outlines key product selling points. The price (`price`) is prominently displayed in bold yellow, complemented by a rectangular call-to-action button (`cta_background`) with contrasting green \u201cBUY NOW\u201d text (`cta`). The layout is balanced and visually engaging, optimized for e-commerce advertisements.\n\n**Color Palette:**\n- #8FD14F (Lime Green)\n- #6BA83A (Leaf Green)\n- #5C8F32 (Forest Green)\n- #FFE066 (Warm Yellow)\n- #FFF3B0 (Pastel Yellow)\n- #FFFFFF (White)\n",
+    "product_color": "  \nThe product image showcases a sleek pair of headphones in a monochromatic lavender color scheme. The color palette includes glossy and matte lavender hues, offering a luxurious and modern aesthetic. Highlighted areas use a luminous lavender sheen (Hex: #D4B5F1), while the softer matte sections employ a muted mauve (Hex: #A692C3), adding depth and texture. The ear cushions are slightly deeper in tone (Hex: #8A6DA9), subtly balancing the shine. The blend of high gloss and matte finishes strategically reflects light, emphasizing sculpted edges and details like buttons. This elegant monochrome theme pairs beautifully with white and silver accents for advertising.  \n"
+}

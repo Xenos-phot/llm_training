@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#181818'/><rect x='0' y='0' width='540' height='540' fill='#141413'/><rect x='540' y='0' width='540' height='540' fill='#442378'/><rect x='0' y='540' width='540' height='540' fill='#442378'/><rect x='540' y='540' width='540' height='540' fill='#141413'/><g opacity='0.6'><path d='M0 50 L540 50' stroke='#12F040' stroke-width='2'/><path d='M0 100 L540 100' stroke='#12F040' stroke-width='2'/><path d='M0 150 L540 150' stroke='#12F040' stroke-width='2'/><path d='M0 200 L540 200' stroke='#12F040' stroke-width='2'/><path d='M0 250 L540 250' stroke='#12F040' stroke-width='2'/><path d='M0 300 L540 300' stroke='#12F040' stroke-width='2'/><path d='M0 350 L540 350' stroke='#12F040' stroke-width='2'/><path d='M0 400 L540 400' stroke='#12F040' stroke-width='2'/><path d='M0 450 L540 450' stroke='#12F040' stroke-width='2'/></g><g opacity='0.3'><line x1='540' y1='650' x2='1080' y2='650' stroke='#12F040' stroke-width='3'/><line x1='540' y1='700' x2='1080' y2='700' stroke='#12F040' stroke-width='3'/><line x1='540' y1='750' x2='1080' y2='750' stroke='#12F040' stroke-width='3'/><line x1='540' y1='800' x2='1080' y2='800' stroke='#12F040' stroke-width='3'/><line x1='540' y1='850' x2='1080' y2='850' stroke='#12F040' stroke-width='3'/><line x1='540' y1='900' x2='1080' y2='900' stroke='#12F040' stroke-width='3'/><line x1='540' y1='950' x2='1080' y2='950' stroke='#12F040' stroke-width='3'/></g><g opacity='0.2'><path d='M100 540 L100 1080' stroke='#f4f4f6' stroke-width='1'/><path d='M200 540 L200 1080' stroke='#f4f4f6' stroke-width='1'/><path d='M300 540 L300 1080' stroke='#f4f4f6' stroke-width='1'/><path d='M400 540 L400 1080' stroke='#f4f4f6' stroke-width='1'/></g><path d='M0,540 L540,540' stroke='#12F040' stroke-width='5'/><path d='M540,540 L1080,540' stroke='#12F040' stroke-width='5'/><path d='M540,0 L540,1080' stroke='#12F040' stroke-width='5'/><g transform='translate(250, 200)'><circle cx='0' cy='0' r='120' fill='none' stroke='#12F040' stroke-width='2' opacity='0.3'/><circle cx='0' cy='0' r='80' fill='none' stroke='#12F040' stroke-width='2' opacity='0.5'/></g><g transform='translate(820, 800)'><circle cx='0' cy='0' r='150' fill='none' stroke='#f4f4f6' stroke-width='2' opacity='0.1'/><circle cx='0' cy='0' r='100' fill='none' stroke='#f4f4f6' stroke-width='2' opacity='0.2'/></g><g><path d='M680 150 L750 150 L800 200 L750 250 L680 250 L630 200 Z' fill='#12F040' opacity='0.4'/><path d='M280 750 L350 750 L400 800 L350 850 L280 850 L230 800 Z' fill='#12F040' opacity='0.4'/></g><path d='M80 300 L150 200 L220 300' stroke='#12F040' stroke-width='3' fill='none' opacity='0.6'/><path d='M850 750 L920 650 L990 750' stroke='#f4f4f6' stroke-width='3' fill='none' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 432.27, "height": 169.5, "fill": "#ffffff", "text": "QUICK", "fontSize": 150, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 240, "left": 54, "width": 491.9, "height": 47.46, "fill": "#12F040", "text": "BY SHIPROCKET", "fontSize": 42, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 350, "left": 54, "width": 318.94, "height": 38.42, "fill": "#f7f9fb", "text": "LIGHTNING-FAST DELIVERY", "fontSize": 34, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 447.79, "height": 198.88, "fill": "#ffffff", "text": "\u2022 Ship Across India in 10 Mins\n\u2022 Quick Commerce for D2C Brands\n\u2022 Hyperlocal Delivery Solution\n\u2022 30% Early Bird Discount", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 770, "left": 590, "width": 217.84, "height": 90.4, "fill": "#ffffff", "text": "\u20b91000", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 590, "width": 286.0, "height": 70, "fill": "#12F040", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 918, "left": 644, "width": 176.03, "height": 33.9, "fill": "#181818", "text": "SHIP NOW", "fontSize": 30, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 60, "left": 600, "width": 1191, "height": 1151, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/qLpQ_Kq3ICiVEDtyLyOj1_1191x1151.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Quick by Shiprocket", "description": "Hyperlocal Delivery?\nShip across India in 10 mins \nQuick Commerce now sorted for every D2C brand. \n30% early discount", "price": "\u20b91000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/qLpQ_Kq3ICiVEDtyLyOj1_1191x1151.png", "marketplace_url": "blob:https://studio.phot.ai/a378f5c1-f0da-44a5-9026-fffd0326c9cf", "layout": "grid_four"}, "banner_details": "\nThe banner is a visually engaging promotional layout divided into four quadrants. The top-left quadrant features a prominent, bold headline (`heading`) in white, paired with a futuristic neon green subheading (`subheading`) beneath it. A strong tagline (`tagline`) emphasizes speed across the same quadrant. The top-right quadrant showcases a lifestyle product image (`product_image`), likely a chair and table set, set against a deep violet background for contrast.\n\nThe bottom-left quadrant is used to communicate details in bullet points (`description`), offering key service benefits in clean white text. A subtle vector graphic complements the content visually. The bottom-right quadrant prominently displays pricing (`price`) in white and a call-to-action button background (`cta_background`) in neon green, with the CTA text (`cta`) in a digital-inspired font.\n\nThe background consists of quadrant color separations and grid lines that enhance a tech-inspired aesthetic, especially with radar-like and abstract geometric SVG overlays.\n\n**Color Palette:**\n- Black (#181818)\n- Dark Charcoal (#141413)\n- Deep Violet (#442378)\n- White (#FFFFFF)\n- Neon Green (#12F040)\n- Light Gray (#f4f4f6)\n", "product_color": "  \nThe product image features a sophisticated blend of deep teal and gold tones, ideal for creating a modern and elegant advertisement banner. The chair showcases a plush teal upholstery (#0F4C5C) that exudes richness and comfort. Its vertical stitching adds texture while reflecting soft lighting to subtly enhance depth. The golden metal legs (#C8A951) introduce a luxurious contrast, catching the light and drawing the eye. Accents like the light gray cloth (#BFBDB6), white teacup (#F5F5F5), and stone-textured vase (#D9D9D6) add softness. A pop of green from the plant (#6BAA75) injects freshness. This refined palette harmonizes beautifully to create a chic, upscale look.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#181818'/><rect x='0' y='0' width='540' height='540' fill='#141413'/><rect x='540' y='0' width='540' height='540' fill='#442378'/><rect x='0' y='540' width='540' height='540' fill='#442378'/><rect x='540' y='540' width='540' height='540' fill='#141413'/><g opacity='0.6'><path d='M0 50 L540 50' stroke='#12F040' stroke-width='2'/><path d='M0 100 L540 100' stroke='#12F040' stroke-width='2'/><path d='M0 150 L540 150' stroke='#12F040' stroke-width='2'/><path d='M0 200 L540 200' stroke='#12F040' stroke-width='2'/><path d='M0 250 L540 250' stroke='#12F040' stroke-width='2'/><path d='M0 300 L540 300' stroke='#12F040' stroke-width='2'/><path d='M0 350 L540 350' stroke='#12F040' stroke-width='2'/><path d='M0 400 L540 400' stroke='#12F040' stroke-width='2'/><path d='M0 450 L540 450' stroke='#12F040' stroke-width='2'/></g><g opacity='0.3'><line x1='540' y1='650' x2='1080' y2='650' stroke='#12F040' stroke-width='3'/><line x1='540' y1='700' x2='1080' y2='700' stroke='#12F040' stroke-width='3'/><line x1='540' y1='750' x2='1080' y2='750' stroke='#12F040' stroke-width='3'/><line x1='540' y1='800' x2='1080' y2='800' stroke='#12F040' stroke-width='3'/><line x1='540' y1='850' x2='1080' y2='850' stroke='#12F040' stroke-width='3'/><line x1='540' y1='900' x2='1080' y2='900' stroke='#12F040' stroke-width='3'/><line x1='540' y1='950' x2='1080' y2='950' stroke='#12F040' stroke-width='3'/></g><g opacity='0.2'><path d='M100 540 L100 1080' stroke='#f4f4f6' stroke-width='1'/><path d='M200 540 L200 1080' stroke='#f4f4f6' stroke-width='1'/><path d='M300 540 L300 1080' stroke='#f4f4f6' stroke-width='1'/><path d='M400 540 L400 1080' stroke='#f4f4f6' stroke-width='1'/></g><path d='M0,540 L540,540' stroke='#12F040' stroke-width='5'/><path d='M540,540 L1080,540' stroke='#12F040' stroke-width='5'/><path d='M540,0 L540,1080' stroke='#12F040' stroke-width='5'/><g transform='translate(250, 200)'><circle cx='0' cy='0' r='120' fill='none' stroke='#12F040' stroke-width='2' opacity='0.3'/><circle cx='0' cy='0' r='80' fill='none' stroke='#12F040' stroke-width='2' opacity='0.5'/></g><g transform='translate(820, 800)'><circle cx='0' cy='0' r='150' fill='none' stroke='#f4f4f6' stroke-width='2' opacity='0.1'/><circle cx='0' cy='0' r='100' fill='none' stroke='#f4f4f6' stroke-width='2' opacity='0.2'/></g><g><path d='M680 150 L750 150 L800 200 L750 250 L680 250 L630 200 Z' fill='#12F040' opacity='0.4'/><path d='M280 750 L350 750 L400 800 L350 850 L280 850 L230 800 Z' fill='#12F040' opacity='0.4'/></g><path d='M80 300 L150 200 L220 300' stroke='#12F040' stroke-width='3' fill='none' opacity='0.6'/><path d='M850 750 L920 650 L990 750' stroke='#f4f4f6' stroke-width='3' fill='none' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 432.27,
+                "height": 169.5,
+                "fill": "#ffffff",
+                "text": "QUICK",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 54,
+                "width": 491.9,
+                "height": 47.46,
+                "fill": "#12F040",
+                "text": "BY SHIPROCKET",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 54,
+                "width": 318.94,
+                "height": 38.42,
+                "fill": "#f7f9fb",
+                "text": "LIGHTNING-FAST DELIVERY",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 447.79,
+                "height": 198.88,
+                "fill": "#ffffff",
+                "text": "\u2022 Ship Across India in 10 Mins\n\u2022 Quick Commerce for D2C Brands\n\u2022 Hyperlocal Delivery Solution\n\u2022 30% Early Bird Discount",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 590,
+                "width": 217.84,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "\u20b91000",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 590,
+                "width": 286.0,
+                "height": 70,
+                "fill": "#12F040",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 918,
+                "left": 644,
+                "width": 176.03,
+                "height": 33.9,
+                "fill": "#181818",
+                "text": "SHIP NOW",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 60,
+                "left": 600,
+                "width": 476.40000000000003,
+                "height": 460.40000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/qLpQ_Kq3ICiVEDtyLyOj1_1191x1151.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Quick by Shiprocket",
+            "description": "Hyperlocal Delivery?\nShip across India in 10 mins \nQuick Commerce now sorted for every D2C brand. \n30% early discount",
+            "price": "\u20b91000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/qLpQ_Kq3ICiVEDtyLyOj1_1191x1151.png",
+        "marketplace_url": "blob:https://studio.phot.ai/a378f5c1-f0da-44a5-9026-fffd0326c9cf",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner is a visually engaging promotional layout divided into four quadrants. The top-left quadrant features a prominent, bold headline (`heading`) in white, paired with a futuristic neon green subheading (`subheading`) beneath it. A strong tagline (`tagline`) emphasizes speed across the same quadrant. The top-right quadrant showcases a lifestyle product image (`product_image`), likely a chair and table set, set against a deep violet background for contrast.\n\nThe bottom-left quadrant is used to communicate details in bullet points (`description`), offering key service benefits in clean white text. A subtle vector graphic complements the content visually. The bottom-right quadrant prominently displays pricing (`price`) in white and a call-to-action button background (`cta_background`) in neon green, with the CTA text (`cta`) in a digital-inspired font.\n\nThe background consists of quadrant color separations and grid lines that enhance a tech-inspired aesthetic, especially with radar-like and abstract geometric SVG overlays.\n\n**Color Palette:**\n- Black (#181818)\n- Dark Charcoal (#141413)\n- Deep Violet (#442378)\n- White (#FFFFFF)\n- Neon Green (#12F040)\n- Light Gray (#f4f4f6)\n",
+    "product_color": "  \nThe product image features a sophisticated blend of deep teal and gold tones, ideal for creating a modern and elegant advertisement banner. The chair showcases a plush teal upholstery (#0F4C5C) that exudes richness and comfort. Its vertical stitching adds texture while reflecting soft lighting to subtly enhance depth. The golden metal legs (#C8A951) introduce a luxurious contrast, catching the light and drawing the eye. Accents like the light gray cloth (#BFBDB6), white teacup (#F5F5F5), and stone-textured vase (#D9D9D6) add softness. A pop of green from the plant (#6BAA75) injects freshness. This refined palette harmonizes beautifully to create a chic, upscale look.  \n"
+}

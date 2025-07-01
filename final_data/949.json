@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A0030'/><stop offset='100%' style='stop-color:#380066'/></linearGradient><radialGradient id='glowEffect' cx='75%' cy='50%' r='70%' fx='75%' fy='50%'><stop offset='0%' style='stop-color:#9B4DFF;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#380066;stop-opacity:0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='540' y='0' width='540' height='1080' fill='url(#glowEffect)'/><g opacity='0.2'><rect x='20' y='120' width='20' height='20' rx='10' fill='#FFFFFF'/><rect x='60' y='180' width='15' height='15' rx='7.5' fill='#FFFFFF'/><rect x='100' y='240' width='10' height='10' rx='5' fill='#FFFFFF'/><rect x='40' y='300' width='25' height='25' rx='12.5' fill='#FFFFFF'/><rect x='90' y='360' width='18' height='18' rx='9' fill='#FFFFFF'/><rect x='30' y='420' width='12' height='12' rx='6' fill='#FFFFFF'/><rect x='70' y='480' width='22' height='22' rx='11' fill='#FFFFFF'/><rect x='110' y='540' width='14' height='14' rx='7' fill='#FFFFFF'/><rect x='50' y='600' width='16' height='16' rx='8' fill='#FFFFFF'/><rect x='80' y='660' width='20' height='20' rx='10' fill='#FFFFFF'/><rect x='20' y='720' width='15' height='15' rx='7.5' fill='#FFFFFF'/><rect x='60' y='780' width='10' height='10' rx='5' fill='#FFFFFF'/><rect x='100' y='840' width='25' height='25' rx='12.5' fill='#FFFFFF'/><rect x='40' y='900' width='18' height='18' rx='9' fill='#FFFFFF'/><rect x='90' y='960' width='12' height='12' rx='6' fill='#FFFFFF'/></g><g transform='translate(940, 180) rotate(30)'><rect x='0' y='0' width='40' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='20' width='60' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='40' width='50' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/></g><g transform='translate(870, 780) rotate(-15)'><rect x='0' y='0' width='40' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='20' width='60' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='40' width='50' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/></g><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='1' stroke-opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 150, "left": 50, "width": 313.17, "height": 144.64, "fill": "#FFFFFF", "text": "LUMINOUS\nSTRIDE", "fontSize": 64, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 50, "width": 331.18, "height": 40.68, "fill": "#9B4DFF", "text": "LED SNEAKERS", "fontSize": 36, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 430, "left": 50, "width": 354.68, "height": 108.48, "fill": "#FFFFFF", "text": "\u2022 Color-changing LED light-up soles\n\u2022 Rechargeable USB battery\n\u2022 Multiple lighting modes & patterns", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 50, "width": 203.65, "height": 54.24, "fill": "#9B4DFF", "text": "\u20b9 9,876", "fontSize": 48, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 750, "left": 50, "width": 220, "height": 70, "fill": "#9B4DFF", "rx": 10, "ry": 10, "id": "cta_button"}, {"type": "text", "top": 768, "left": 84, "width": 135.47, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 850, "left": 50, "width": 240.46, "height": 24.86, "fill": "#FFFFFF", "text": "Light Up Your Path in Style", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 342.12, "left": 515.96, "width": 647, "height": 551, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/UFeVrUWF4ywhgG0LEsl_S_647x551.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Luminous Stride LED Sneakers - Light Up Your Path in Style", "description": "\u2022 Color-changing LED light-up soles with vibrant purple glow\n\u2022 Rechargeable battery with USB charging capability\n\u2022 Durable white synthetic leather upper for lasting comfort\n\u2022 Lightweight construction for all-day wear\n\u2022 Water-resistant design for worry-free use\n\u2022 Multiple lighting modes and patterns\n\u2022 Up to 8-12 hours of continuous illumination\n\u2022 Perfect for parties, concerts, and night activities\n\u2022 Non-marking rubber outsole\n\u2022 Available in unisex sizes\n\u2022 Easy on/off switch control\n\u2022 Modern minimalist design suitable for casual wear", "price": "\u20b99876"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/UFeVrUWF4ywhgG0LEsl_S_647x551.png", "marketplace_url": "https://pixabay.com/get/gbe6fb92d814dbd118b0f9a0a44ad15687d87c6b558dacf64263535a8e4d591dd959b461c4814cf2a3f7297ca918c54daaf35c013e8c542ed58b82a4a44a53a01_1280.jpg", "layout": "split_vertical"}, "banner_details": "\nThe banner is a high-impact promotional design for a futuristic product, LED sneakers. It is divided vertically with a glowing gradient background that transitions from deep violet on the left to bright purple on the right, creating a energetic ambiance. The large text element with id `heading` introduces the product name with bold, white typography. Just below it, the id `subheading` adds a stylish subtitle in bright purple tech-style font. The id `description` is a bullet-point list describing product features in white, clean sans-serif font. Pricing is emphasized with the id `price` in purple futuristic font. A rounded rectangle button with the id `cta_button` and white-labeled CTA text (`cta`) draws attention near the center-left. The tagline positioned at the bottom-left using the `tagline` layer adds a stylish finishing touch. The product image (`product_image`) displays illuminated sneakers slightly to the right, enhanced by a radial glow from the background SVG (`background`). The design features subtle circular decorative elements and neon lines for a digital, modern finish.\n\n**Color Palette:**\n- Deep Violet: #1A0030\n- Electric Purple: #9B4DFF\n- Rich Plum: #380066\n- White: #FFFFFF\n", "product_color": "  \nThe product image showcases a pair of LED-lit sneakers glowing with a vibrant purple hue, ideal for a futuristic and youthful advertisement banner. The primary colors include Electric Purple (#B300FF), White Glow (#FFFFFF), and Deep Indigo (#1C0038). The purple LED lighting is smoothly blended along the sole and gradates into surrounding areas, creating a luminous effect without overwhelming the darker shadows. The white LED circles on the sole stand out sharply, adding emphasis and detail. The background darkness contrasts effectively, helping the light to pop and guide visual focus to the sneakers. Ideal banner palette: #B300FF, #FFFFFF, #1C0038, #5900A0.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A0030'/><stop offset='100%' style='stop-color:#380066'/></linearGradient><radialGradient id='glowEffect' cx='75%' cy='50%' r='70%' fx='75%' fy='50%'><stop offset='0%' style='stop-color:#9B4DFF;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#380066;stop-opacity:0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='540' y='0' width='540' height='1080' fill='url(#glowEffect)'/><g opacity='0.2'><rect x='20' y='120' width='20' height='20' rx='10' fill='#FFFFFF'/><rect x='60' y='180' width='15' height='15' rx='7.5' fill='#FFFFFF'/><rect x='100' y='240' width='10' height='10' rx='5' fill='#FFFFFF'/><rect x='40' y='300' width='25' height='25' rx='12.5' fill='#FFFFFF'/><rect x='90' y='360' width='18' height='18' rx='9' fill='#FFFFFF'/><rect x='30' y='420' width='12' height='12' rx='6' fill='#FFFFFF'/><rect x='70' y='480' width='22' height='22' rx='11' fill='#FFFFFF'/><rect x='110' y='540' width='14' height='14' rx='7' fill='#FFFFFF'/><rect x='50' y='600' width='16' height='16' rx='8' fill='#FFFFFF'/><rect x='80' y='660' width='20' height='20' rx='10' fill='#FFFFFF'/><rect x='20' y='720' width='15' height='15' rx='7.5' fill='#FFFFFF'/><rect x='60' y='780' width='10' height='10' rx='5' fill='#FFFFFF'/><rect x='100' y='840' width='25' height='25' rx='12.5' fill='#FFFFFF'/><rect x='40' y='900' width='18' height='18' rx='9' fill='#FFFFFF'/><rect x='90' y='960' width='12' height='12' rx='6' fill='#FFFFFF'/></g><g transform='translate(940, 180) rotate(30)'><rect x='0' y='0' width='40' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='20' width='60' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='40' width='50' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/></g><g transform='translate(870, 780) rotate(-15)'><rect x='0' y='0' width='40' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='20' width='60' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/><rect x='0' y='40' width='50' height='8' rx='4' fill='#9B4DFF' opacity='0.6'/></g><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='1' stroke-opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 50,
+                "width": 313.17,
+                "height": 144.64,
+                "fill": "#FFFFFF",
+                "text": "LUMINOUS\nSTRIDE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 50,
+                "width": 331.18,
+                "height": 40.68,
+                "fill": "#9B4DFF",
+                "text": "LED SNEAKERS",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 50,
+                "width": 354.68,
+                "height": 108.48,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Color-changing LED light-up soles\n\u2022 Rechargeable USB battery\n\u2022 Multiple lighting modes & patterns",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 50,
+                "width": 203.65,
+                "height": 54.24,
+                "fill": "#9B4DFF",
+                "text": "\u20b9 9,876",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 750,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#9B4DFF",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 768,
+                "left": 84,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 50,
+                "width": 240.46,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "Light Up Your Path in Style",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 342.12,
+                "left": 515.96,
+                "width": 485.25,
+                "height": 413.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/UFeVrUWF4ywhgG0LEsl_S_647x551.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Luminous Stride LED Sneakers - Light Up Your Path in Style",
+            "description": "\u2022 Color-changing LED light-up soles with vibrant purple glow\n\u2022 Rechargeable battery with USB charging capability\n\u2022 Durable white synthetic leather upper for lasting comfort\n\u2022 Lightweight construction for all-day wear\n\u2022 Water-resistant design for worry-free use\n\u2022 Multiple lighting modes and patterns\n\u2022 Up to 8-12 hours of continuous illumination\n\u2022 Perfect for parties, concerts, and night activities\n\u2022 Non-marking rubber outsole\n\u2022 Available in unisex sizes\n\u2022 Easy on/off switch control\n\u2022 Modern minimalist design suitable for casual wear",
+            "price": "\u20b99876"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/UFeVrUWF4ywhgG0LEsl_S_647x551.png",
+        "marketplace_url": "https://pixabay.com/get/gbe6fb92d814dbd118b0f9a0a44ad15687d87c6b558dacf64263535a8e4d591dd959b461c4814cf2a3f7297ca918c54daaf35c013e8c542ed58b82a4a44a53a01_1280.jpg",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner is a high-impact promotional design for a futuristic product, LED sneakers. It is divided vertically with a glowing gradient background that transitions from deep violet on the left to bright purple on the right, creating a energetic ambiance. The large text element with id `heading` introduces the product name with bold, white typography. Just below it, the id `subheading` adds a stylish subtitle in bright purple tech-style font. The id `description` is a bullet-point list describing product features in white, clean sans-serif font. Pricing is emphasized with the id `price` in purple futuristic font. A rounded rectangle button with the id `cta_button` and white-labeled CTA text (`cta`) draws attention near the center-left. The tagline positioned at the bottom-left using the `tagline` layer adds a stylish finishing touch. The product image (`product_image`) displays illuminated sneakers slightly to the right, enhanced by a radial glow from the background SVG (`background`). The design features subtle circular decorative elements and neon lines for a digital, modern finish.\n\n**Color Palette:**\n- Deep Violet: #1A0030\n- Electric Purple: #9B4DFF\n- Rich Plum: #380066\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image showcases a pair of LED-lit sneakers glowing with a vibrant purple hue, ideal for a futuristic and youthful advertisement banner. The primary colors include Electric Purple (#B300FF), White Glow (#FFFFFF), and Deep Indigo (#1C0038). The purple LED lighting is smoothly blended along the sole and gradates into surrounding areas, creating a luminous effect without overwhelming the darker shadows. The white LED circles on the sole stand out sharply, adding emphasis and detail. The background darkness contrasts effectively, helping the light to pop and guide visual focus to the sneakers. Ideal banner palette: #B300FF, #FFFFFF, #1C0038, #5900A0.  \n"
+}

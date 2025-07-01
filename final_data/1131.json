@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='mainGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#0A1933'/><stop offset='100%' stop-color='#1E487A'/></linearGradient><radialGradient id='spotlightGradient' cx='50%' cy='40%' r='60%' fx='50%' fy='40%'><stop offset='0%' stop-color='#3466AA' stop-opacity='0.4'/><stop offset='100%' stop-color='#0A1933' stop-opacity='0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#mainGradient)'/><rect width='1080' height='1080' fill='url(#spotlightGradient)'/><g opacity='0.1'><circle cx='540' cy='540' r='400' stroke='#ffffff' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='300' stroke='#ffffff' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='200' stroke='#ffffff' stroke-width='2' fill='none'/></g><g opacity='0.05'><line x1='0' y1='0' x2='1080' y2='1080' stroke='#ffffff' stroke-width='1'/><line x1='1080' y1='0' x2='0' y2='1080' stroke='#ffffff' stroke-width='1'/><line x1='540' y1='0' x2='540' y2='1080' stroke='#ffffff' stroke-width='1'/><line x1='0' y1='540' x2='1080' y2='540' stroke='#ffffff' stroke-width='1'/></g><path d='M0 880 C 180 920, 360 900, 540 880 S 720 860, 900 880 S 980 920, 1080 900 L 1080 1080 L 0 1080 Z' fill='#122B4D' fill-opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 285.24, "width": 509.52, "height": 90.4, "fill": "#FFFFFF", "text": "GOOD MAN", "fontSize": 80, "fontFamily": "Cinzel Black", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 150, "left": 423.64, "width": 232.72, "height": 45.2, "fill": "#E0E6F0", "text": "BY MAXIMOR", "fontSize": 40, "fontFamily": "DM Serif Text Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 205, "left": 307.58000000000004, "width": 464.84, "height": 31.64, "fill": "#A8C0E5", "text": "Sophisticated Luxury Eau de Parfum", "fontSize": 28, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 303.65, "left": 469.65, "width": 335, "height": 935, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68122fde6f9c154c459e0b6d/iLjDS1zBrIgMajHKtcMva_335x935.png", "id": "product_image"}, {"type": "text", "top": 730, "left": 161.805, "width": 756.39, "height": 24.86, "fill": "#FFFFFF", "text": "Premium 100ml Fragrance \u2022 Elegant Frosted Glass \u2022 Exclusive Signature Scent", "fontSize": 22, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "features"}, {"type": "text", "top": 770, "left": 399.4, "width": 281.2, "height": 24.86, "fill": "#A8C0E5", "text": "For The Modern Gentleman", "fontSize": 22, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 830, "left": 462.03, "width": 155.94, "height": 81.36, "fill": "#FFCFA3", "text": "\u20b9 999", "fontSize": 72, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 930, "left": 430.0, "width": 220, "height": 60, "fill": "#A2C1EF", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 947, "left": 477.315, "width": 125.37, "height": 27.12, "fill": "#0A1933", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Good Man by MAXIMOR - Sophisticated Luxury Eau de Parfum for the Modern Gentleman", "description": "\u2022 Premium 100ml/3.3 FL.OZ eau de parfum concentration for longer-lasting fragrance\n\u2022 Elegant blue frosted glass bottle with sophisticated minimalist design\n\u2022 Exclusive MAXIMOR signature fragrance for distinguished gentlemen\n\u2022 Professional black cap with superior spray mechanism\n\u2022 Perfect blend of masculine notes crafted for daily and special occasions\n\u2022 Luxurious packaging ideal for gifting\n\u2022 High-quality fragrance made with refined ingredients\n\u2022 Sleek and modern bottle design that adds elegance to any vanity\n\u2022 Generous 100ml size offering excellent value\n\u2022 Distinctive MAXIMOR brand emblem representing luxury and quality", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68122fde6f9c154c459e0b6d/iLjDS1zBrIgMajHKtcMva_335x935.png", "marketplace_url": "blob:https://studio.phot.ai/3a53e706-7156-4438-bb1f-0eee71994aaa", "layout": "circular_focus"}, "banner_details": "\nThis premium banner design features a sophisticated fragrance advertisement with a luxurious and masculine mood. The banner is centered around a vertically placed frosted glass perfume bottle (`product_image`) that draws immediate attention. Above the bottle is a strong, bold title (`heading`) complemented by an elegant brand name (`subheading`) and a refined tagline (`description`), emphasizing the product's exclusivity. Surrounding the composition is a radial grid overlaid on a gradient background, adding subtle depth and direction. Below the product image, supporting feature points (`features`), a lifestyle tagline (`tagline`), and a bold price highlight (`price`) lead naturally into a call-to-action button (`cta_button`) with inviting text (`cta`).\n\n**Color Palette:**\n- Navy Blue: #0A1933\n- Deep Blue: #1E487A\n- Steel Blue: #A8C0E5\n- Frosted White: #FFFFFF\n- Soft Peach: #FFCFA3\n- Accent Blue (CTA): #A2C1EF\n- CTA Text: #0A1933\n", "product_color": "  \nThe product image features a sleek, elegant design with a dominant color palette of deep midnight blue (#1A2639), gradient steel blue (#4682B4), and hints of muted lavender (#8C9BB1). The bottle\u2019s glass surface gradually transitions from a rich, dark blue at the base to a lighter, desaturated blue towards the top, highlighting sophistication and modern masculinity. The black cap (#1C1C1C) adds contrast while the white text (#FFFFFF) and logo stand out crisply against the cool-toned backdrop. The blending of blues with high contrast monochrome elements creates a clean, upscale aesthetic ideal for a luxury advertisement banner.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='mainGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#0A1933'/><stop offset='100%' stop-color='#1E487A'/></linearGradient><radialGradient id='spotlightGradient' cx='50%' cy='40%' r='60%' fx='50%' fy='40%'><stop offset='0%' stop-color='#3466AA' stop-opacity='0.4'/><stop offset='100%' stop-color='#0A1933' stop-opacity='0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#mainGradient)'/><rect width='1080' height='1080' fill='url(#spotlightGradient)'/><g opacity='0.1'><circle cx='540' cy='540' r='400' stroke='#ffffff' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='300' stroke='#ffffff' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='200' stroke='#ffffff' stroke-width='2' fill='none'/></g><g opacity='0.05'><line x1='0' y1='0' x2='1080' y2='1080' stroke='#ffffff' stroke-width='1'/><line x1='1080' y1='0' x2='0' y2='1080' stroke='#ffffff' stroke-width='1'/><line x1='540' y1='0' x2='540' y2='1080' stroke='#ffffff' stroke-width='1'/><line x1='0' y1='540' x2='1080' y2='540' stroke='#ffffff' stroke-width='1'/></g><path d='M0 880 C 180 920, 360 900, 540 880 S 720 860, 900 880 S 980 920, 1080 900 L 1080 1080 L 0 1080 Z' fill='#122B4D' fill-opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 285.24,
+                "width": 509.52,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "GOOD MAN",
+                "fontFamily": "Cinzel Black",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 423.64,
+                "width": 232.72,
+                "height": 45.2,
+                "fill": "#E0E6F0",
+                "text": "BY MAXIMOR",
+                "fontFamily": "DM Serif Text Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 307.58000000000004,
+                "width": 464.84,
+                "height": 31.64,
+                "fill": "#A8C0E5",
+                "text": "Sophisticated Luxury Eau de Parfum",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 303.65,
+                "left": 469.65,
+                "width": 140.7,
+                "height": 392.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68122fde6f9c154c459e0b6d/iLjDS1zBrIgMajHKtcMva_335x935.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 161.805,
+                "width": 756.39,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "Premium 100ml Fragrance \u2022 Elegant Frosted Glass \u2022 Exclusive Signature Scent",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 399.4,
+                "width": 281.2,
+                "height": 24.86,
+                "fill": "#A8C0E5",
+                "text": "For The Modern Gentleman",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 462.03,
+                "width": 155.94,
+                "height": 81.36,
+                "fill": "#FFCFA3",
+                "text": "\u20b9 999",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#A2C1EF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 947,
+                "left": 477.315,
+                "width": 125.37,
+                "height": 27.12,
+                "fill": "#0A1933",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Good Man by MAXIMOR - Sophisticated Luxury Eau de Parfum for the Modern Gentleman",
+            "description": "\u2022 Premium 100ml/3.3 FL.OZ eau de parfum concentration for longer-lasting fragrance\n\u2022 Elegant blue frosted glass bottle with sophisticated minimalist design\n\u2022 Exclusive MAXIMOR signature fragrance for distinguished gentlemen\n\u2022 Professional black cap with superior spray mechanism\n\u2022 Perfect blend of masculine notes crafted for daily and special occasions\n\u2022 Luxurious packaging ideal for gifting\n\u2022 High-quality fragrance made with refined ingredients\n\u2022 Sleek and modern bottle design that adds elegance to any vanity\n\u2022 Generous 100ml size offering excellent value\n\u2022 Distinctive MAXIMOR brand emblem representing luxury and quality",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68122fde6f9c154c459e0b6d/iLjDS1zBrIgMajHKtcMva_335x935.png",
+        "marketplace_url": "blob:https://studio.phot.ai/3a53e706-7156-4438-bb1f-0eee71994aaa",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis premium banner design features a sophisticated fragrance advertisement with a luxurious and masculine mood. The banner is centered around a vertically placed frosted glass perfume bottle (`product_image`) that draws immediate attention. Above the bottle is a strong, bold title (`heading`) complemented by an elegant brand name (`subheading`) and a refined tagline (`description`), emphasizing the product's exclusivity. Surrounding the composition is a radial grid overlaid on a gradient background, adding subtle depth and direction. Below the product image, supporting feature points (`features`), a lifestyle tagline (`tagline`), and a bold price highlight (`price`) lead naturally into a call-to-action button (`cta_button`) with inviting text (`cta`).\n\n**Color Palette:**\n- Navy Blue: #0A1933\n- Deep Blue: #1E487A\n- Steel Blue: #A8C0E5\n- Frosted White: #FFFFFF\n- Soft Peach: #FFCFA3\n- Accent Blue (CTA): #A2C1EF\n- CTA Text: #0A1933\n",
+    "product_color": "  \nThe product image features a sleek, elegant design with a dominant color palette of deep midnight blue (#1A2639), gradient steel blue (#4682B4), and hints of muted lavender (#8C9BB1). The bottle\u2019s glass surface gradually transitions from a rich, dark blue at the base to a lighter, desaturated blue towards the top, highlighting sophistication and modern masculinity. The black cap (#1C1C1C) adds contrast while the white text (#FFFFFF) and logo stand out crisply against the cool-toned backdrop. The blending of blues with high contrast monochrome elements creates a clean, upscale aesthetic ideal for a luxury advertisement banner.  \n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1A365D'/><stop offset='100%' stop-color='#60A5FA'/></linearGradient><linearGradient id='rightSide' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#60A5FA'/><stop offset='100%' stop-color='#EDF2F7'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='540' y='0' width='540' height='1080' fill='url(#rightSide)'/><g opacity='0.2'><circle cx='200' cy='200' r='50' fill='#ffffff'/><circle cx='100' cy='400' r='30' fill='#ffffff'/><circle cx='300' cy='600' r='40' fill='#ffffff'/><circle cx='150' cy='800' r='60' fill='#ffffff'/><circle cx='400' cy='300' r='25' fill='#ffffff'/></g><g opacity='0.1'><rect x='600' y='100' width='80' height='8' rx='4' fill='#1A365D'/><rect x='700' y='150' width='120' height='8' rx='4' fill='#1A365D'/><rect x='800' y='200' width='100' height='8' rx='4' fill='#1A365D'/><rect x='650' y='250' width='90' height='8' rx='4' fill='#1A365D'/><rect x='750' y='300' width='110' height='8' rx='4' fill='#1A365D'/><rect x='600' y='650' width='80' height='8' rx='4' fill='#1A365D'/><rect x='700' y='700' width='120' height='8' rx='4' fill='#1A365D'/><rect x='800' y='750' width='100' height='8' rx='4' fill='#1A365D'/><rect x='650' y='800' width='90' height='8' rx='4' fill='#1A365D'/><rect x='750' y='850' width='110' height='8' rx='4' fill='#1A365D'/></g><circle cx='60' cy='60' r='15' fill='#ffffff' opacity='0.3'/><circle cx='120' cy='60' r='10' fill='#ffffff' opacity='0.3'/><circle cx='170' cy='60' r='5' fill='#ffffff' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 40, "width": 644.88, "height": 90.4, "fill": "#FFFFFF", "text": "AIRPODS MAX", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 250, "left": 40, "width": 467.39, "height": 67.8, "fill": "#A3BFFA", "text": "PREMIUM SOUND", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 370, "left": 40, "width": 323.89, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 Active Noise Cancellation\n\u2022 Personalized Spatial Audio\n\u2022 20-Hour Battery Life", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "features"}, {"type": "text", "top": 650, "left": 40, "width": 234.92, "height": 101.7, "fill": "#FFFFFF", "text": "$437.49", "fontSize": 90, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 40, "width": 200, "height": 60, "fill": "#A3BFFA", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 817, "left": 65, "width": 125.04, "height": 27.12, "fill": "#1A365D", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta_text"}, {"type": "image", "top": 235, "left": 465, "width": 1301, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. MAGICAL EXPERIENCE \u2014 Pair AirPods Max by simply placing them near your device and tapping Connect on your screen. AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad, and Mac completely effortless. LONG BATTERY LIFE \u2014 Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation and Personalized Spatial Audio enabled. PRECISION CONTROL \u2014 Use the Digital Crown to play and pause music, to answer, end, and mute yourself on calls, and to control volume and skip between tracks. A SMARTER CASE \u2014 Store in an ultra low-power state with the slim Smart Case. LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See \u201cAdditional information\u201d to learn more. Brand - Apple ** Color - Sky Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **", "price": "437.49"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08PZJN7BD", "layout": "split_vertical"}, "banner_details": "\nThis banner features a strong tech-modern visual composition, split vertically into two halves using a sharp linear gradient background. The left half fades from deep navy to sky blue, while the right half continues from sky blue to a soft off-white. Positioned centrally is a high-resolution image of a pair of headphones, partially overlapping both gradient zones to draw attention.\n\nText layer \"heading\" is positioned on the top-left in large bold typography, serving as the main title. Below it is \"tagline\", slightly smaller and colored in a soft periwinkle to emphasize a subheading. The \"features\" text layer lists product highlights in bullet format directly beneath.\n\nAt the lower left, the \"price\" text layer is prominently displayed in bold white for immediate visibility. Below the price, the call-to-action \"cta_button\" contrasts with the background using a soft blue fill and dark blue \"cta_text\" to drive user interaction.\n\nDecorative translucent circles and bars provide graphical finesse and tech-forward ambience to the composition.\n\n**Color Palette:**\n- Deep Navy: #1A365D  \n- Sky Blue: #60A5FA  \n- Off-White: #EDF2F7  \n- Light Periwinkle: #A3BFFA  \n- White: #FFFFFF  \n", "product_color": "\nThe product image features a sleek, modern design with a refined blue color palette. The main earcup surface showcases a smooth metallic sky blue (#8AA9D6), offering a polished and premium appearance. The mesh covering the ear pads is a lighter, cooler blue (#B4CFE9), creating contrast through texture and tone. The headband incorporates a deeper navy blue (#1C3D5A), which adds depth to the overall design. Shiny silver accents (#C0C0C0) at the hinges enhance sophistication and highlight tech precision. These colors are harmoniously blended with gradient shading and subtle reflections, making each component distinct yet cohesive. Ideal banner backgrounds: deep navy, soft gradients, or futuristic metallic tones.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1A365D'/><stop offset='100%' stop-color='#60A5FA'/></linearGradient><linearGradient id='rightSide' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#60A5FA'/><stop offset='100%' stop-color='#EDF2F7'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='540' y='0' width='540' height='1080' fill='url(#rightSide)'/><g opacity='0.2'><circle cx='200' cy='200' r='50' fill='#ffffff'/><circle cx='100' cy='400' r='30' fill='#ffffff'/><circle cx='300' cy='600' r='40' fill='#ffffff'/><circle cx='150' cy='800' r='60' fill='#ffffff'/><circle cx='400' cy='300' r='25' fill='#ffffff'/></g><g opacity='0.1'><rect x='600' y='100' width='80' height='8' rx='4' fill='#1A365D'/><rect x='700' y='150' width='120' height='8' rx='4' fill='#1A365D'/><rect x='800' y='200' width='100' height='8' rx='4' fill='#1A365D'/><rect x='650' y='250' width='90' height='8' rx='4' fill='#1A365D'/><rect x='750' y='300' width='110' height='8' rx='4' fill='#1A365D'/><rect x='600' y='650' width='80' height='8' rx='4' fill='#1A365D'/><rect x='700' y='700' width='120' height='8' rx='4' fill='#1A365D'/><rect x='800' y='750' width='100' height='8' rx='4' fill='#1A365D'/><rect x='650' y='800' width='90' height='8' rx='4' fill='#1A365D'/><rect x='750' y='850' width='110' height='8' rx='4' fill='#1A365D'/></g><circle cx='60' cy='60' r='15' fill='#ffffff' opacity='0.3'/><circle cx='120' cy='60' r='10' fill='#ffffff' opacity='0.3'/><circle cx='170' cy='60' r='5' fill='#ffffff' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 40,
+                "width": 644.88,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "AIRPODS MAX",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 250,
+                "left": 40,
+                "width": 467.39,
+                "height": 67.8,
+                "fill": "#A3BFFA",
+                "text": "PREMIUM SOUND",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 370,
+                "left": 40,
+                "width": 323.89,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Active Noise Cancellation\n\u2022 Personalized Spatial Audio\n\u2022 20-Hour Battery Life",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 40,
+                "width": 234.92,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$437.49",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#A3BFFA",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 817,
+                "left": 65,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#1A365D",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta_text"
+            },
+            {
+                "type": "image",
+                "top": 235,
+                "left": 465,
+                "width": 585.45,
+                "height": 647.5500000000001,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. MAGICAL EXPERIENCE \u2014 Pair AirPods Max by simply placing them near your device and tapping Connect on your screen. AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad, and Mac completely effortless. LONG BATTERY LIFE \u2014 Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation and Personalized Spatial Audio enabled. PRECISION CONTROL \u2014 Use the Digital Crown to play and pause music, to answer, end, and mute yourself on calls, and to control volume and skip between tracks. A SMARTER CASE \u2014 Store in an ultra low-power state with the slim Smart Case. LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See \u201cAdditional information\u201d to learn more. Brand - Apple ** Color - Sky Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **",
+            "price": "437.49"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08PZJN7BD",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a strong tech-modern visual composition, split vertically into two halves using a sharp linear gradient background. The left half fades from deep navy to sky blue, while the right half continues from sky blue to a soft off-white. Positioned centrally is a high-resolution image of a pair of headphones, partially overlapping both gradient zones to draw attention.\n\nText layer \"heading\" is positioned on the top-left in large bold typography, serving as the main title. Below it is \"tagline\", slightly smaller and colored in a soft periwinkle to emphasize a subheading. The \"features\" text layer lists product highlights in bullet format directly beneath.\n\nAt the lower left, the \"price\" text layer is prominently displayed in bold white for immediate visibility. Below the price, the call-to-action \"cta_button\" contrasts with the background using a soft blue fill and dark blue \"cta_text\" to drive user interaction.\n\nDecorative translucent circles and bars provide graphical finesse and tech-forward ambience to the composition.\n\n**Color Palette:**\n- Deep Navy: #1A365D  \n- Sky Blue: #60A5FA  \n- Off-White: #EDF2F7  \n- Light Periwinkle: #A3BFFA  \n- White: #FFFFFF  \n",
+    "product_color": "\nThe product image features a sleek, modern design with a refined blue color palette. The main earcup surface showcases a smooth metallic sky blue (#8AA9D6), offering a polished and premium appearance. The mesh covering the ear pads is a lighter, cooler blue (#B4CFE9), creating contrast through texture and tone. The headband incorporates a deeper navy blue (#1C3D5A), which adds depth to the overall design. Shiny silver accents (#C0C0C0) at the hinges enhance sophistication and highlight tech precision. These colors are harmoniously blended with gradient shading and subtle reflections, making each component distinct yet cohesive. Ideal banner backgrounds: deep navy, soft gradients, or futuristic metallic tones.\n"
+}

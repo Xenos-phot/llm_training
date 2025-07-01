@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#0B0B0F'/><path d='M0 0L1080 0L1080 1080L0 1080L0 0Z' fill='url(#paint0_linear)'/><circle cx='940' cy='140' r='180' fill='#FF3A3A' opacity='0.3'/><circle cx='150' cy='950' r='230' fill='#5C2BFF' opacity='0.15'/><rect x='0' y='850' width='1080' height='230' fill='#121212'/><g opacity='0.7'><path d='M0 0L1080 0L540 400L0 0Z' fill='#FF3A3A' opacity='0.05'/><path d='M1080 0L1080 1080L680 540L1080 0Z' fill='#FF3A3A' opacity='0.05'/><path d='M1080 1080L0 1080L540 680L1080 1080Z' fill='#FF3A3A' opacity='0.05'/><path d='M0 1080L0 0L400 540L0 1080Z' fill='#FF3A3A' opacity='0.05'/></g><defs><linearGradient id='paint0_linear' x1='540' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#1A1A1A'/><stop offset='1' stop-color='#000000'/></linearGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 130.05, "width": 819.9, "height": 113, "fill": "#FFFFFF", "text": "HYPERSONUS", "fontSize": 100, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 188, "left": 332.84000000000003, "width": 414.32, "height": 56.5, "fill": "#FF3A3A", "text": "GAMING HEADSET", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 237.81, "left": 274.56, "width": 1264, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/iQA6rkGeHNYNlq5hIYa2C_1264x1439.png", "id": "product_image"}, {"type": "text", "top": 819.15, "left": 440.54, "width": 198.92, "height": 101.7, "fill": "#FFFFFF", "text": "$45.99", "fontSize": 90, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940.0, "left": 430.0, "width": 220, "height": 60, "fill": "#FF3A3A", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 953.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Wireless Gaming Headset with Flip Microphone", "description": "Wireless Gaming Headset for PC, Ps5, Ps4 with Flip Microphone, by ozeino", "price": "$45.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/iQA6rkGeHNYNlq5hIYa2C_1264x1439.png", "marketplace_url": "https://www.amazon.com/Ozeino-Wireless-Gaming-Headset-Microphone/dp/B0DR8YG8D5/?_encoding=UTF8&pd_rd_w=qsvBP&content-id=amzn1.sym.0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_p=0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_r=QX3J80X7M7TT2NK3FKSG&pd_rd_wg=2ZueF&pd_rd_r=90c5ba37-5d47-4497-a310-aaf0ff241221&ref_=pd_hp_d_btf_gcx_gw_per_1&th=1", "layout": "minimalist_center"}, "banner_details": "\nThis banner features a sleek and modern technology product layout. The design uses a dark gradient background enhanced with subtle geometric overlays and semi-transparent circular accents for depth. Centered prominently is a high-resolution image of a gaming headset (`product_image`), appealing to tech-savvy and gamer audiences. The bold, futuristic primary heading (`heading`) in white conveys the product name, with a smaller red subheading (`subheading`) for categorization. Pricing is clearly displayed below the product (`price`) in a bold white font. A red rectangular call-to-action button (`cta_background`) with white uppercase text (`cta`) invites immediate engagement. \n\n**Color Palette:**\n- Background Gradient: #0B0B0F \u2192 #000000\n- Red Accent: #FF3A3A\n- Highlight Purple: #5C2BFF\n- Text: #FFFFFF\n\n", "product_color": "  \nThe product image showcases a sleek and modern gaming headset with a bold and high-contrast color palette. Predominantly black (#000000) is used to give a premium and professional look, while vibrant red accents (#FF2D2D) on the inner headband and ear cushions introduce energy and aggression, appealing to gamers. The RGB lighting on the ear cup creates a dynamic blend of colors like neon blue (#00F0FF), bright yellow (#FFF200), and vivid purple (#A347FF), giving it a high-tech, futuristic vibe. These colors are sharply defined yet seamlessly transition across the mesh, adding movement and visual interest to the product.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#0B0B0F'/><path d='M0 0L1080 0L1080 1080L0 1080L0 0Z' fill='url(#paint0_linear)'/><circle cx='940' cy='140' r='180' fill='#FF3A3A' opacity='0.3'/><circle cx='150' cy='950' r='230' fill='#5C2BFF' opacity='0.15'/><rect x='0' y='850' width='1080' height='230' fill='#121212'/><g opacity='0.7'><path d='M0 0L1080 0L540 400L0 0Z' fill='#FF3A3A' opacity='0.05'/><path d='M1080 0L1080 1080L680 540L1080 0Z' fill='#FF3A3A' opacity='0.05'/><path d='M1080 1080L0 1080L540 680L1080 1080Z' fill='#FF3A3A' opacity='0.05'/><path d='M0 1080L0 0L400 540L0 1080Z' fill='#FF3A3A' opacity='0.05'/></g><defs><linearGradient id='paint0_linear' x1='540' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#1A1A1A'/><stop offset='1' stop-color='#000000'/></linearGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 130.05,
+                "width": 819.9,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "HYPERSONUS",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 188,
+                "left": 332.84000000000003,
+                "width": 414.32,
+                "height": 56.5,
+                "fill": "#FF3A3A",
+                "text": "GAMING HEADSET",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 237.81,
+                "left": 274.56,
+                "width": 530.88,
+                "height": 604.38,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/iQA6rkGeHNYNlq5hIYa2C_1264x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 819.15,
+                "left": 440.54,
+                "width": 198.92,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$45.99",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940.0,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FF3A3A",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 953.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Wireless Gaming Headset with Flip Microphone",
+            "description": "Wireless Gaming Headset for PC, Ps5, Ps4 with Flip Microphone, by ozeino",
+            "price": "$45.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/iQA6rkGeHNYNlq5hIYa2C_1264x1439.png",
+        "marketplace_url": "https://www.amazon.com/Ozeino-Wireless-Gaming-Headset-Microphone/dp/B0DR8YG8D5/?_encoding=UTF8&pd_rd_w=qsvBP&content-id=amzn1.sym.0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_p=0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_r=QX3J80X7M7TT2NK3FKSG&pd_rd_wg=2ZueF&pd_rd_r=90c5ba37-5d47-4497-a310-aaf0ff241221&ref_=pd_hp_d_btf_gcx_gw_per_1&th=1",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner features a sleek and modern technology product layout. The design uses a dark gradient background enhanced with subtle geometric overlays and semi-transparent circular accents for depth. Centered prominently is a high-resolution image of a gaming headset (`product_image`), appealing to tech-savvy and gamer audiences. The bold, futuristic primary heading (`heading`) in white conveys the product name, with a smaller red subheading (`subheading`) for categorization. Pricing is clearly displayed below the product (`price`) in a bold white font. A red rectangular call-to-action button (`cta_background`) with white uppercase text (`cta`) invites immediate engagement. \n\n**Color Palette:**\n- Background Gradient: #0B0B0F \u2192 #000000\n- Red Accent: #FF3A3A\n- Highlight Purple: #5C2BFF\n- Text: #FFFFFF\n\n",
+    "product_color": "  \nThe product image showcases a sleek and modern gaming headset with a bold and high-contrast color palette. Predominantly black (#000000) is used to give a premium and professional look, while vibrant red accents (#FF2D2D) on the inner headband and ear cushions introduce energy and aggression, appealing to gamers. The RGB lighting on the ear cup creates a dynamic blend of colors like neon blue (#00F0FF), bright yellow (#FFF200), and vivid purple (#A347FF), giving it a high-tech, futuristic vibe. These colors are sharply defined yet seamlessly transition across the mesh, adding movement and visual interest to the product.  \n"
+}

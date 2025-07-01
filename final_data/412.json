@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#ffffff'/><defs><linearGradient id='bgGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#0055B8'/><stop offset='100%' stop-color='#003580'/></linearGradient><linearGradient id='orangeAccent' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#FFA500'/><stop offset='100%' stop-color='#FF8C00'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.07'><circle cx='100' cy='100' r='200' fill='#ffffff'/><circle cx='980' cy='980' r='150' fill='#ffffff'/><circle cx='980' cy='100' r='120' fill='#ffffff'/><circle cx='100' cy='980' r='180' fill='#ffffff'/></g><g opacity='0.1'><rect x='0' y='0' width='1080' height='20' fill='#ffffff'/><rect x='0' y='40' width='1080' height='20' fill='#ffffff'/><rect x='0' y='1020' width='1080' height='20' fill='#ffffff'/><rect x='0' y='1040' width='1080' height='20' fill='#ffffff'/></g><g transform='rotate(-45, 540, 540)'><rect x='440' y='-100' width='100' height='1280' rx='40' fill='#ffffff' opacity='0.05'/><rect x='640' y='-100' width='100' height='1280' rx='40' fill='#ffffff' opacity='0.05'/></g><g opacity='0.1'><circle cx='150' cy='150' r='10' fill='#FFA500'/><circle cx='930' cy='150' r='10' fill='#FFA500'/><circle cx='150' cy='930' r='10' fill='#FFA500'/><circle cx='930' cy='930' r='10' fill='#FFA500'/><circle cx='540' cy='150' r='10' fill='#FFA500'/><circle cx='540' cy='930' r='10' fill='#FFA500'/><circle cx='150' cy='540' r='10' fill='#FFA500'/><circle cx='930' cy='540' r='10' fill='#FFA500'/></g><circle cx='850' cy='400' r='130' fill='url(#orangeAccent)' opacity='1'/><circle cx='540' cy='540' r='300' fill='#ffffff' opacity='1' stroke='#FFA500' stroke-width='3'/><g opacity='0.5'><circle cx='300' cy='300' r='15' fill='#FFA500'/><circle cx='750' cy='280' r='12' fill='#FFA500'/><circle cx='800' cy='600' r='18' fill='#FFA500'/><circle cx='250' cy='650' r='14' fill='#FFA500'/></g><g opacity='0.5'><rect x='200' y='400' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(45, 230, 407.5)'/><rect x='800' y='500' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(-45, 830, 507.5)'/><rect x='400' y='200' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(15, 430, 207.5)'/><rect x='600' y='800' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(-15, 630, 807.5)'/></g></svg>", "id": "background"}, {"type": "text", "top": 40, "left": 7.9500000000000455, "width": 1064.1, "height": 113, "fill": "#FFFFFF", "text": "PREMIUM PROTEIN", "fontSize": 100, "fontFamily": "Archivo Black-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 294.77, "width": 490.46, "height": 67.8, "fill": "#FFA500", "text": "NUTRICOST WHEY", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 289.57500000000005, "left": 373.57500000000005, "width": 951, "height": 1431, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/bcb8083b-53e8-49bb-804b-af3aad475359_nobg_951x1431.png", "id": "product_image"}, {"type": "text", "top": 318.8, "left": 781.48, "width": 177.04, "height": 90.4, "fill": "#FFFFFF", "text": "$59.95", "fontSize": 80, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "price"}, {"type": "text", "top": 900, "left": 169.22000000000003, "width": 741.56, "height": 45.2, "fill": "#FFFFFF", "text": "\u2022 25G PROTEIN \u2022 63 SERVINGS \u2022 GLUTEN FREE", "fontSize": 40, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#FFA500", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#003580", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Undenatured, Whey Protein Concentrate 5LBS of Chocolate Flavored Whey Protein Concentrate Per Bottle Delicious Milk Chocolate Flavored Whey Protein Concentrate Non-GMO & Gluten Free Made in a GMP Compliant, FDA Registered Facility Brand - Nutricost ** Flavor - Chocolate ** Servings per Container - 63 ** Item Weight - 5.7 Pounds ** Material Type Free - Gluten Free **", "price": "59.95"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/bcb8083b-53e8-49bb-804b-af3aad475359_nobg_951x1431.png", "marketplace_url": "https://www.amazon.com/dp/B01KITQCW2", "layout": "circular_focus"}, "banner_details": "\nThis banner presents a dynamic and energetic promotional layout for a nutritional supplement product. At the top, a bold and large text layer labeled `heading` communicates the product category with impact. Directly underneath it, the `subheading` text layer introduces the brand and product name in a vibrant orange to draw attention. The central feature of the design is the product image (`product_image`), placed against a clean white circular frame highlighted with an orange stroke, creating strong visual focus. To the top-right of the product, the `price` text layer sits within an orange circle, highlighting the cost effectively. Below the main image, the `description` layer details key product features with evenly spaced bullet points. At the bottom, a call-to-action button with `cta_background` and `cta` text invites interaction. The background includes a blue gradient with modern geometric and circular patterns, accented by small orange and white shapes.\n\n**Color Palette:**\n- Royal Blue: `#0055B8`\n- Deep Navy: `#003580`\n- Bright Orange: `#FFA500`\n- Dark Orange: `#FF8C00`\n- Pure White: `#FFFFFF`\n", "product_color": "\nThe product image features a clean, bold color palette centered around white (#FFFFFF), deep blue (#0056A4), vibrant orange (#F7931E), rich chocolate brown (#4D2C1D), and black (#000000). The white background provides a neutral base that allows the other colors to pop. The brand name \"nutricost\" and graphic accents utilize the deep blue and orange for contrast and emphasis. The chocolate brown indicates the milk chocolate flavor and is used effectively at the base to ground the visual. Black is used for strong, readable text. Together, these colors blend smoothly yet remain distinct, offering a dynamic and energetic visual perfect for an advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#ffffff'/><defs><linearGradient id='bgGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#0055B8'/><stop offset='100%' stop-color='#003580'/></linearGradient><linearGradient id='orangeAccent' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#FFA500'/><stop offset='100%' stop-color='#FF8C00'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.07'><circle cx='100' cy='100' r='200' fill='#ffffff'/><circle cx='980' cy='980' r='150' fill='#ffffff'/><circle cx='980' cy='100' r='120' fill='#ffffff'/><circle cx='100' cy='980' r='180' fill='#ffffff'/></g><g opacity='0.1'><rect x='0' y='0' width='1080' height='20' fill='#ffffff'/><rect x='0' y='40' width='1080' height='20' fill='#ffffff'/><rect x='0' y='1020' width='1080' height='20' fill='#ffffff'/><rect x='0' y='1040' width='1080' height='20' fill='#ffffff'/></g><g transform='rotate(-45, 540, 540)'><rect x='440' y='-100' width='100' height='1280' rx='40' fill='#ffffff' opacity='0.05'/><rect x='640' y='-100' width='100' height='1280' rx='40' fill='#ffffff' opacity='0.05'/></g><g opacity='0.1'><circle cx='150' cy='150' r='10' fill='#FFA500'/><circle cx='930' cy='150' r='10' fill='#FFA500'/><circle cx='150' cy='930' r='10' fill='#FFA500'/><circle cx='930' cy='930' r='10' fill='#FFA500'/><circle cx='540' cy='150' r='10' fill='#FFA500'/><circle cx='540' cy='930' r='10' fill='#FFA500'/><circle cx='150' cy='540' r='10' fill='#FFA500'/><circle cx='930' cy='540' r='10' fill='#FFA500'/></g><circle cx='850' cy='400' r='130' fill='url(#orangeAccent)' opacity='1'/><circle cx='540' cy='540' r='300' fill='#ffffff' opacity='1' stroke='#FFA500' stroke-width='3'/><g opacity='0.5'><circle cx='300' cy='300' r='15' fill='#FFA500'/><circle cx='750' cy='280' r='12' fill='#FFA500'/><circle cx='800' cy='600' r='18' fill='#FFA500'/><circle cx='250' cy='650' r='14' fill='#FFA500'/></g><g opacity='0.5'><rect x='200' y='400' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(45, 230, 407.5)'/><rect x='800' y='500' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(-45, 830, 507.5)'/><rect x='400' y='200' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(15, 430, 207.5)'/><rect x='600' y='800' width='50' height='12' rx='6' fill='#FFA500' transform='rotate(-15, 630, 807.5)'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 40,
+                "left": 7.9500000000000455,
+                "width": 1064.1,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM PROTEIN",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 294.77,
+                "width": 490.46,
+                "height": 67.8,
+                "fill": "#FFA500",
+                "text": "NUTRICOST WHEY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 289.57500000000005,
+                "left": 373.57500000000005,
+                "width": 332.84999999999997,
+                "height": 500.84999999999997,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/bcb8083b-53e8-49bb-804b-af3aad475359_nobg_951x1431.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 318.8,
+                "left": 781.48,
+                "width": 177.04,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$59.95",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 169.22000000000003,
+                "width": 741.56,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "\u2022 25G PROTEIN \u2022 63 SERVINGS \u2022 GLUTEN FREE",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFA500",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#003580",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Undenatured, Whey Protein Concentrate 5LBS of Chocolate Flavored Whey Protein Concentrate Per Bottle Delicious Milk Chocolate Flavored Whey Protein Concentrate Non-GMO & Gluten Free Made in a GMP Compliant, FDA Registered Facility Brand - Nutricost ** Flavor - Chocolate ** Servings per Container - 63 ** Item Weight - 5.7 Pounds ** Material Type Free - Gluten Free **",
+            "price": "59.95"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/bcb8083b-53e8-49bb-804b-af3aad475359_nobg_951x1431.png",
+        "marketplace_url": "https://www.amazon.com/dp/B01KITQCW2",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner presents a dynamic and energetic promotional layout for a nutritional supplement product. At the top, a bold and large text layer labeled `heading` communicates the product category with impact. Directly underneath it, the `subheading` text layer introduces the brand and product name in a vibrant orange to draw attention. The central feature of the design is the product image (`product_image`), placed against a clean white circular frame highlighted with an orange stroke, creating strong visual focus. To the top-right of the product, the `price` text layer sits within an orange circle, highlighting the cost effectively. Below the main image, the `description` layer details key product features with evenly spaced bullet points. At the bottom, a call-to-action button with `cta_background` and `cta` text invites interaction. The background includes a blue gradient with modern geometric and circular patterns, accented by small orange and white shapes.\n\n**Color Palette:**\n- Royal Blue: `#0055B8`\n- Deep Navy: `#003580`\n- Bright Orange: `#FFA500`\n- Dark Orange: `#FF8C00`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "\nThe product image features a clean, bold color palette centered around white (#FFFFFF), deep blue (#0056A4), vibrant orange (#F7931E), rich chocolate brown (#4D2C1D), and black (#000000). The white background provides a neutral base that allows the other colors to pop. The brand name \"nutricost\" and graphic accents utilize the deep blue and orange for contrast and emphasis. The chocolate brown indicates the milk chocolate flavor and is used effectively at the base to ground the visual. Black is used for strong, readable text. Together, these colors blend smoothly yet remain distinct, offering a dynamic and energetic visual perfect for an advertisement banner.\n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F5F1E8'/><stop offset='100%' style='stop-color:#E8DCC8'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#A67C52'/><stop offset='100%' style='stop-color:#8B5E3C'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='-50' y='0' width='590' height='1080' rx='40' ry='40' fill='#FAF6EE'/><path d='M980 120 C 1010 150, 1020 180, 980 210' stroke='#A67C52' stroke-width='6' fill='none'/><path d='M980 320 C 1010 350, 1020 380, 980 410' stroke='#A67C52' stroke-width='6' fill='none'/><path d='M980 520 C 1010 550, 1020 580, 980 610' stroke='#A67C52' stroke-width='6' fill='none'/><path d='M50 200 L 80 200' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M50 800 L 80 800' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M50 300 L 80 300' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M50 700 L 80 700' stroke='#A67C52' stroke-width='4' fill='none'/><circle cx='50' cy='500' r='8' fill='#A67C52' opacity='0.6'/><circle cx='100' cy='500' r='8' fill='#A67C52' opacity='0.6'/><circle cx='150' cy='500' r='8' fill='#A67C52' opacity='0.6'/><circle cx='950' cy='900' r='100' fill='#A67C52' opacity='0.1'/><circle cx='870' cy='180' r='60' fill='#A67C52' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 50, "width": 292, "height": 90.4, "fill": "#8B5E3C", "text": "X LOWS", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 210, "left": 50, "width": 396.99, "height": 101.7, "fill": "#A67C52", "text": "CORTADO", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 350, "left": 50, "width": 947.48, "height": 16.95, "fill": "#63452A", "text": "The Cortado is a study in perfect ratios. Pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of espresso.", "fontSize": 15, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 500, "left": 50, "width": 374.4, "height": 81.36, "fill": "#63452A", "text": "\u2022 Premium canvas with brown accents\n\u2022 SpaceWalk 3-layered sole system\n\u2022 Ultra-comfortable roomy toe box", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "features"}, {"type": "text", "top": 700, "left": 50, "width": 281.54, "height": 79.1, "fill": "#A67C52", "text": "\u20b9 4299", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 820, "left": 50, "width": 220, "height": 70, "fill": "#8B5E3C", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 840, "left": 80, "width": 143.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 433, "left": 528, "width": 775, "height": 391, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_3Z7Xqi2i1AI7cOymE6x7_775x391.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "X Lows CORTADO", "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA", "price": "\u20b94299"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_3Z7Xqi2i1AI7cOymE6x7_775x391.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "\nThe banner features a balanced layout with a modern, minimalist aesthetic. On the left panel, there are multiple text elements including a bold subheading (`subheading`), a larger heading (`heading`), a brief descriptive paragraph (`description`), and a list of product features (`features`). The price is prominently displayed using a digital-style font (`price`), while a clear \"SHOP NOW\" call-to-action button (`cta`, `cta_background`) is presented below. The right side of the banner shows a sneaker image (`product_image`) at center stage, set against a smooth beige-to-cream gradient background with soft geometric accent shapes and curved line graphics for added motion. \n\n**Color Palette:**\n- Cream/Soft White: `#FAF6EE` / `#F5F1E8`  \n- Caramel Brown: `#A67C52`  \n- Deep Mocha: `#8B5E3C`  \n- Espresso Brown: `#63452A`  \n- White (for CTA text): `#FFFFFF`\n\n", "product_color": "  \nThe product image features a stylish sneaker in a natural, earthy palette, ideal for a clean and minimalist advertisement banner. The dominant color is a warm off-white or cream (#F5F0E3), which forms the base of the shoe. Accents like the laces, eyelets, and midsole piping introduce a rich cocoa brown (#6E4B3A), adding visual depth and contrast. The star logo is white (#FFFFFF) outlined in brown for standout branding. The outsole is a deeper coffee brown (#4A3528), grounding the design. These tones are harmoniously blended, offering a natural, organic feel while each color is highlighted by its strategic placement and texture.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F5F1E8'/><stop offset='100%' style='stop-color:#E8DCC8'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#A67C52'/><stop offset='100%' style='stop-color:#8B5E3C'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='-50' y='0' width='590' height='1080' rx='40' ry='40' fill='#FAF6EE'/><path d='M980 120 C 1010 150, 1020 180, 980 210' stroke='#A67C52' stroke-width='6' fill='none'/><path d='M980 320 C 1010 350, 1020 380, 980 410' stroke='#A67C52' stroke-width='6' fill='none'/><path d='M980 520 C 1010 550, 1020 580, 980 610' stroke='#A67C52' stroke-width='6' fill='none'/><path d='M50 200 L 80 200' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M50 800 L 80 800' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M50 300 L 80 300' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M50 700 L 80 700' stroke='#A67C52' stroke-width='4' fill='none'/><circle cx='50' cy='500' r='8' fill='#A67C52' opacity='0.6'/><circle cx='100' cy='500' r='8' fill='#A67C52' opacity='0.6'/><circle cx='150' cy='500' r='8' fill='#A67C52' opacity='0.6'/><circle cx='950' cy='900' r='100' fill='#A67C52' opacity='0.1'/><circle cx='870' cy='180' r='60' fill='#A67C52' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 50,
+                "width": 292,
+                "height": 90.4,
+                "fill": "#8B5E3C",
+                "text": "X LOWS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 50,
+                "width": 396.99,
+                "height": 101.7,
+                "fill": "#A67C52",
+                "text": "CORTADO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 50,
+                "width": 947.48,
+                "height": 16.95,
+                "fill": "#63452A",
+                "text": "The Cortado is a study in perfect ratios. Pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of espresso.",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 500,
+                "left": 50,
+                "width": 374.4,
+                "height": 81.36,
+                "fill": "#63452A",
+                "text": "\u2022 Premium canvas with brown accents\n\u2022 SpaceWalk 3-layered sole system\n\u2022 Ultra-comfortable roomy toe box",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 50,
+                "width": 281.54,
+                "height": 79.1,
+                "fill": "#A67C52",
+                "text": "\u20b9 4299",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 820,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#8B5E3C",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 80,
+                "width": 143.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 433,
+                "left": 528,
+                "width": 542.5,
+                "height": 273.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_3Z7Xqi2i1AI7cOymE6x7_775x391.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "X Lows CORTADO",
+            "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA",
+            "price": "\u20b94299"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_3Z7Xqi2i1AI7cOymE6x7_775x391.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a balanced layout with a modern, minimalist aesthetic. On the left panel, there are multiple text elements including a bold subheading (`subheading`), a larger heading (`heading`), a brief descriptive paragraph (`description`), and a list of product features (`features`). The price is prominently displayed using a digital-style font (`price`), while a clear \"SHOP NOW\" call-to-action button (`cta`, `cta_background`) is presented below. The right side of the banner shows a sneaker image (`product_image`) at center stage, set against a smooth beige-to-cream gradient background with soft geometric accent shapes and curved line graphics for added motion. \n\n**Color Palette:**\n- Cream/Soft White: `#FAF6EE` / `#F5F1E8`  \n- Caramel Brown: `#A67C52`  \n- Deep Mocha: `#8B5E3C`  \n- Espresso Brown: `#63452A`  \n- White (for CTA text): `#FFFFFF`\n\n",
+    "product_color": "  \nThe product image features a stylish sneaker in a natural, earthy palette, ideal for a clean and minimalist advertisement banner. The dominant color is a warm off-white or cream (#F5F0E3), which forms the base of the shoe. Accents like the laces, eyelets, and midsole piping introduce a rich cocoa brown (#6E4B3A), adding visual depth and contrast. The star logo is white (#FFFFFF) outlined in brown for standout branding. The outsole is a deeper coffee brown (#4A3528), grounding the design. These tones are harmoniously blended, offering a natural, organic feel while each color is highlighted by its strategic placement and texture.\n"
+}

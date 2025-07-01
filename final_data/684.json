@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFFBF5'/><defs><linearGradient id='warmGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#F2DDC1'/><stop offset='100%' stop-color='#E8C39E'/></linearGradient><linearGradient id='earthGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#D4B996'/><stop offset='100%' stop-color='#C19A6B'/></linearGradient><linearGradient id='accentGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#A86A3E'/><stop offset='100%' stop-color='#8B4513'/></linearGradient></defs><path d='M0 0 L1080 0 L1080 1080 L0 1080 L0 0' fill='url(#warmGradient)' stroke='#ffffff' stroke-width='1'/><path d='M0 0 C400 0, 800 300, 1080 250 L1080 1080 L0 1080 L0 0' fill='url(#earthGradient)' stroke='#ffffff' stroke-width='1' opacity='0.8'/><path d='M0 400 C300 350, 700 600, 1080 550 L1080 1080 L0 1080 L0 400' fill='url(#accentGradient)' stroke='#ffffff' stroke-width='1' opacity='0.6'/><circle cx='540' cy='580' r='300' fill='none' stroke='#D2B48C' stroke-width='5'/><circle cx='540' cy='580' r='290' fill='#FFFBF5'/><circle cx='850' cy='450' r='130' fill='#A86A3E'/><g opacity='0.3'><circle cx='200' cy='200' r='20' fill='#8B4513'/><circle cx='880' cy='180' r='15' fill='#8B4513'/><circle cx='180' cy='880' r='25' fill='#8B4513'/><circle cx='880' cy='780' r='15' fill='#8B4513'/></g><path d='M150 250 Q250 200 350 250' stroke='#D2B48C' fill='none' stroke-width='3'/><path d='M730 850 Q830 800 930 850' stroke='#D2B48C' fill='none' stroke-width='3'/><path d='M200 600 L300 600' stroke='#D2B48C' stroke-width='3'/><path d='M780 300 L880 300' stroke='#D2B48C' stroke-width='3'/></svg>", "id": "background"}, {"type": "text", "top": 40, "left": 163.04000000000002, "width": 753.92, "height": 90.4, "fill": "#5D4037", "text": "ARTISAN COMFORT", "fontSize": 80, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 72.14999999999998, "width": 935.7, "height": 56.5, "fill": "#8B4513", "text": "Bohemian Hand-Crafted Leather Sneaker", "fontSize": 50, "fontFamily": "Playfair Display Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 401.0, "left": 292.2, "width": 1239, "height": 895, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/kwXRlSrXM6QBLNcMLEVG-_1239x895.png", "id": "product_image"}, {"type": "text", "top": 399.15, "left": 777.0, "width": 146, "height": 101.7, "fill": "#FFFFFF", "text": "\u20b9999", "fontSize": 90, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "price"}, {"type": "text", "top": 910, "left": 84.32, "width": 911.36, "height": 40.68, "fill": "#FFFFFF", "text": "\u2022 Premium Leather \u2022 Handcrafted Design \u2022 Cushioned Comfort", "fontSize": 36, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 990, "left": 420.0, "width": 240, "height": 60, "fill": "#8B4513", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 1004.18, "left": 467.23, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Artisan Comfort: Bohemian Hand-Crafted Leather Sneaker", "description": "\u2022 Premium cream and tan leather construction with intricate decorative patterns\n\u2022 Handcrafted scalloped design details with traditional artisanal stitching\n\u2022 Comfortable cushioned sole with unique bubble tread pattern\n\u2022 Breathable interior with moisture-wicking lining\n\u2022 Durable rust-colored laces with brass eyelets\n\u2022 Flexible and lightweight design for all-day comfort\n\u2022 Perfect blend of vintage aesthetic and modern comfort\n\u2022 Unique decorative toe cap with detailed embellishments\n\u2022 Soft padded collar for enhanced ankle support\n\u2022 Versatile style suitable for casual and boho-chic outfits", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/kwXRlSrXM6QBLNcMLEVG-_1239x895.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1077617639624556606_cosmic_circus_apple_pie_shoes_13dced10-9aa8-4db5-b8c2-4295d291ee8f.webp", "layout": "circular_focus"}, "banner_details": "\nThis banner design showcases a handcrafted leather sneaker placed centrally within a soft, layered circular frame. The background layers feature flowing gradients that evoke a warm, earthy ambiance. At the top, the prominently styled text layer **\"heading\"** introduces the brand message with a bold sans-serif font, while the **\"subheading\"** underneath adds a tagline in an elegant serif font, reinforcing the artisanal feel. The sneaker image, represented by the **\"product_image\"** layer, stands out boldly at the center. To the right of the product, a circular badge with the **\"price\"** is clearly visible. Below the main image is a features strip (**\"description\"**) highlighting key product benefits. A standout button (**\"cta\"** and **\"cta_background\"**) at the bottom acts as a call to action.\n\n**Color Palette**:\n- Light Cream (#FFFBF5)\n- Warm Beige (#F2DDC1)\n- Sand (#E8C39E)\n- Earth Brown (#C19A6B)\n- Terracotta (#A86A3E)\n- Deep Brown (#8B4513)\n- Soft Tan (#D2B48C)\n- White (#FFFFFF)\n\n", "product_color": "\nThe product image showcases a uniquely designed sneaker that combines rich earth tones with subtle gradients to create a visually compelling aesthetic. The color palette includes warm ochre (#D98942), deep burnt sienna for the laces (#A04519), creamy beige for the upper layers (#F5D8B3), and a light caramel brown for the edges and details (#C98C5F). White accents (#FFFFFF) outline the patterns and enhance the design intricacies. These colors are blended organically, using highlights and textures to create depth and focus. The dynamic color contrast ensures that each element stands out while maintaining harmony, ideal for crafting an eye-catching advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFFBF5'/><defs><linearGradient id='warmGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#F2DDC1'/><stop offset='100%' stop-color='#E8C39E'/></linearGradient><linearGradient id='earthGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#D4B996'/><stop offset='100%' stop-color='#C19A6B'/></linearGradient><linearGradient id='accentGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#A86A3E'/><stop offset='100%' stop-color='#8B4513'/></linearGradient></defs><path d='M0 0 L1080 0 L1080 1080 L0 1080 L0 0' fill='url(#warmGradient)' stroke='#ffffff' stroke-width='1'/><path d='M0 0 C400 0, 800 300, 1080 250 L1080 1080 L0 1080 L0 0' fill='url(#earthGradient)' stroke='#ffffff' stroke-width='1' opacity='0.8'/><path d='M0 400 C300 350, 700 600, 1080 550 L1080 1080 L0 1080 L0 400' fill='url(#accentGradient)' stroke='#ffffff' stroke-width='1' opacity='0.6'/><circle cx='540' cy='580' r='300' fill='none' stroke='#D2B48C' stroke-width='5'/><circle cx='540' cy='580' r='290' fill='#FFFBF5'/><circle cx='850' cy='450' r='130' fill='#A86A3E'/><g opacity='0.3'><circle cx='200' cy='200' r='20' fill='#8B4513'/><circle cx='880' cy='180' r='15' fill='#8B4513'/><circle cx='180' cy='880' r='25' fill='#8B4513'/><circle cx='880' cy='780' r='15' fill='#8B4513'/></g><path d='M150 250 Q250 200 350 250' stroke='#D2B48C' fill='none' stroke-width='3'/><path d='M730 850 Q830 800 930 850' stroke='#D2B48C' fill='none' stroke-width='3'/><path d='M200 600 L300 600' stroke='#D2B48C' stroke-width='3'/><path d='M780 300 L880 300' stroke='#D2B48C' stroke-width='3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 40,
+                "left": 163.04000000000002,
+                "width": 753.92,
+                "height": 90.4,
+                "fill": "#5D4037",
+                "text": "ARTISAN COMFORT",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 72.14999999999998,
+                "width": 935.7,
+                "height": 56.5,
+                "fill": "#8B4513",
+                "text": "Bohemian Hand-Crafted Leather Sneaker",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 401.0,
+                "left": 292.2,
+                "width": 495.6,
+                "height": 358.0,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/kwXRlSrXM6QBLNcMLEVG-_1239x895.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 399.15,
+                "left": 777.0,
+                "width": 146,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "\u20b9999",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 910,
+                "left": 84.32,
+                "width": 911.36,
+                "height": 40.68,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium Leather \u2022 Handcrafted Design \u2022 Cushioned Comfort",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 990,
+                "left": 420.0,
+                "width": 240,
+                "height": 60,
+                "fill": "#8B4513",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 1004.18,
+                "left": 467.23,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Artisan Comfort: Bohemian Hand-Crafted Leather Sneaker",
+            "description": "\u2022 Premium cream and tan leather construction with intricate decorative patterns\n\u2022 Handcrafted scalloped design details with traditional artisanal stitching\n\u2022 Comfortable cushioned sole with unique bubble tread pattern\n\u2022 Breathable interior with moisture-wicking lining\n\u2022 Durable rust-colored laces with brass eyelets\n\u2022 Flexible and lightweight design for all-day comfort\n\u2022 Perfect blend of vintage aesthetic and modern comfort\n\u2022 Unique decorative toe cap with detailed embellishments\n\u2022 Soft padded collar for enhanced ankle support\n\u2022 Versatile style suitable for casual and boho-chic outfits",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/kwXRlSrXM6QBLNcMLEVG-_1239x895.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1077617639624556606_cosmic_circus_apple_pie_shoes_13dced10-9aa8-4db5-b8c2-4295d291ee8f.webp",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner design showcases a handcrafted leather sneaker placed centrally within a soft, layered circular frame. The background layers feature flowing gradients that evoke a warm, earthy ambiance. At the top, the prominently styled text layer **\"heading\"** introduces the brand message with a bold sans-serif font, while the **\"subheading\"** underneath adds a tagline in an elegant serif font, reinforcing the artisanal feel. The sneaker image, represented by the **\"product_image\"** layer, stands out boldly at the center. To the right of the product, a circular badge with the **\"price\"** is clearly visible. Below the main image is a features strip (**\"description\"**) highlighting key product benefits. A standout button (**\"cta\"** and **\"cta_background\"**) at the bottom acts as a call to action.\n\n**Color Palette**:\n- Light Cream (#FFFBF5)\n- Warm Beige (#F2DDC1)\n- Sand (#E8C39E)\n- Earth Brown (#C19A6B)\n- Terracotta (#A86A3E)\n- Deep Brown (#8B4513)\n- Soft Tan (#D2B48C)\n- White (#FFFFFF)\n\n",
+    "product_color": "\nThe product image showcases a uniquely designed sneaker that combines rich earth tones with subtle gradients to create a visually compelling aesthetic. The color palette includes warm ochre (#D98942), deep burnt sienna for the laces (#A04519), creamy beige for the upper layers (#F5D8B3), and a light caramel brown for the edges and details (#C98C5F). White accents (#FFFFFF) outline the patterns and enhance the design intricacies. These colors are blended organically, using highlights and textures to create depth and focus. The dynamic color contrast ensures that each element stands out while maintaining harmony, ideal for crafting an eye-catching advertisement banner.\n"
+}

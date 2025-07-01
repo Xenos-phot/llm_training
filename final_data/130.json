@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#000000'/><stop offset='100%' style='stop-color:#66001a'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0b0b0b'/><stop offset='100%' style='stop-color:#3c0010'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L430 0 L1080 650 Z' fill='url(#bg2)'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#66001a' opacity='0.15'/><g fill='#e1cf8d' opacity='0.1'><circle cx='150' cy='150' r='50'/><circle cx='850' cy='250' r='30'/><circle cx='950' cy='150' r='40'/><circle cx='200' cy='850' r='60'/><circle cx='900' cy='900' r='70'/></g><path d='M0 540 L540 0' stroke='#e1cf8d' stroke-width='1' opacity='0.2'/><path d='M540 1080 L1080 540' stroke='#e1cf8d' stroke-width='1' opacity='0.2'/><path d='M200 0 L1080 880' stroke='#e1cf8d' stroke-width='1' opacity='0.3'/><path d='M0 880 L880 0' stroke='#e1cf8d' stroke-width='1' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 510.74, "height": 135.6, "fill": "#e1cf8d", "text": "UNLEASH", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 50, "width": 565.76, "height": 135.6, "fill": "#e1cf8d", "text": "ROMANCE", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 310, "left": 52, "width": 458.7, "height": 56.5, "fill": "#ffffff", "text": "NOOKY ISHQIYA", "fontSize": 50, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "product_name"}, {"type": "text", "top": 400, "left": 52, "width": 434.83, "height": 188.03, "fill": "#f7f7f7", "text": "\u2022 Dark Chocolate & Natural Herbs\n\u2022 Enhances Intimacy & Energy\n\u2022 Improves Mood & Arousal\n\u2022 Effects Last 1-3 Hours", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 700, "left": 50, "width": 263.2, "height": 113, "fill": "#e1cf8d", "text": "\u20b9575", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 840, "left": 52, "width": 200, "height": 60, "fill": "#e1cf8d", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 858, "left": 77, "width": 143.26, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "Archivo-Black", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 520, "width": 980, "height": 991, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/mxnDatRX3LKSKK3z446g6_980x991.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Mood Enhancing Paan for Men & Women", "description": "The Nooky Mood Uplifting Paan is an aphrodisiac chocolate paan designed to enhance mood, energy, and intimacy between partners. Crafted with a blend of natural herbs and dark chocolate, it aims to create a delightful experience for couples.\nAmazon India\n+4\nCirkle Street\n+4\nTrynooky\n+4\n\n\ud83c\udf3f Key Ingredients & Benefits\nDark Chocolate: Releases endorphins, improving mood and arousal.\n\nMaca Extract: Supports energy, blood flow, and healthy sexual function.\n\nVelvet Bean (Kaunch Beej): Enhances sperm count and semen quality.\n\nAshwagandha: Reduces stress, enhances arousal, lubrication, and orgasm.\n\nShatavari Extract: Supports reproductive health and balances hormones.\n\nJavitri (Mace): Promotes relaxation and enhances mood.\n\nCaffeine: Boosts physical performance, endurance, and stamina.\n\nLiboost Powder: Increases nitric oxide release, favoring arousal.\nCirkle Street\n+1\nnookychocolate.com\n+1\nnookychocolate.com\n+1\nCirkle Street\n+1\n\n\ud83d\udc91 How to Use\nConsume one piece with your partner approximately 30 minutes before intimacy. The effects typically last between 1 to 3 hours, enhancing the overall experience. Regular use may lead to cumulative benefits over time.\nCirkle Street\n+1\nnookychocolate.com\n+1\n\n\ud83d\udce6 Packaging & Pricing\nPack of 2: \u20b9575 (MRP \u20b9698)\n\nPack of 4: \u20b9699 (MRP \u20b9698)\n\nSpecial offers include \u20b9150 off on prepaid orders and additional discounts with coupon codes:\n\nPAAN2: Extra \u20b926 off on a pack of 2.\n\nPAAN4: Extra \u20b9120 off on a pack of 4.\nCirkle Street\n\nThese offers are valid until May 31, 2025.\n\n", "price": "\u20b9575"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/mxnDatRX3LKSKK3z446g6_980x991.png", "marketplace_url": "blob:https://studio.phot.ai/4fbf5103-ac3e-4427-bb0b-3195718f7954", "layout": "split_vertical"}, "banner_details": "\nThe banner design features a bold and modern composition aimed at evoking passion and intrigue. The background consists of angular overlays and gradients transitioning from deep black to rich maroon, intersected by fine golden lines, lending a sense of depth and luxury. Circular graphic elements in a soft gold hue subtly decorate the layout with a touch of dynamism. The large, commanding text layer (\"heading_1\" and \"heading_2\") in a bold font grabs attention at the top-left. Just beneath, the product's name is highlighted with a futuristic font (\"product_name\"). Detailed feature highlights of the product are neatly arranged in \"description\". A bold price tag (\"price\") appears below, accompanied by a prominent, bordered call-to-action button (\"cta_button\" with text \"cta\"). The main product visual (\"product_image\") is angled and positioned to the right, balancing the text-heavy left side.\n\n**Color Palette:**\n- Black (#000000)\n- Deep Maroon (#66001a)\n- Golden Beige (#e1cf8d)\n- Off-White (#f7f7f7)\n- Rich Teal (used in product_image)\n", "product_color": "\nThe product image features a luxurious and elegant color palette, ideal for an advertisement banner. The dominant color is a deep bottle green (#003F3C), which evokes a sense of depth, sensuality, and sophistication. Accents of rich metallic gold (#D4A857) are used for text and line art, adding a touch of luxury and attention to detail. The gold contrasts beautifully against the green, enhancing readability and visual appeal while blending harmoniously to maintain cohesion. Fine gold botanical illustrations subtly integrated in the background enrich the design without overpowering it. This refined combination ensures the product stands out with classy allure.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#000000'/><stop offset='100%' style='stop-color:#66001a'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0b0b0b'/><stop offset='100%' style='stop-color:#3c0010'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L430 0 L1080 650 Z' fill='url(#bg2)'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#66001a' opacity='0.15'/><g fill='#e1cf8d' opacity='0.1'><circle cx='150' cy='150' r='50'/><circle cx='850' cy='250' r='30'/><circle cx='950' cy='150' r='40'/><circle cx='200' cy='850' r='60'/><circle cx='900' cy='900' r='70'/></g><path d='M0 540 L540 0' stroke='#e1cf8d' stroke-width='1' opacity='0.2'/><path d='M540 1080 L1080 540' stroke='#e1cf8d' stroke-width='1' opacity='0.2'/><path d='M200 0 L1080 880' stroke='#e1cf8d' stroke-width='1' opacity='0.3'/><path d='M0 880 L880 0' stroke='#e1cf8d' stroke-width='1' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 510.74,
+                "height": 135.6,
+                "fill": "#e1cf8d",
+                "text": "UNLEASH",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 565.76,
+                "height": 135.6,
+                "fill": "#e1cf8d",
+                "text": "ROMANCE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 52,
+                "width": 458.7,
+                "height": 56.5,
+                "fill": "#ffffff",
+                "text": "NOOKY ISHQIYA",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 52,
+                "width": 434.83,
+                "height": 188.03,
+                "fill": "#f7f7f7",
+                "text": "\u2022 Dark Chocolate & Natural Herbs\n\u2022 Enhances Intimacy & Energy\n\u2022 Improves Mood & Arousal\n\u2022 Effects Last 1-3 Hours",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 50,
+                "width": 263.2,
+                "height": 113,
+                "fill": "#e1cf8d",
+                "text": "\u20b9575",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 840,
+                "left": 52,
+                "width": 200,
+                "height": 60,
+                "fill": "#e1cf8d",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 858,
+                "left": 77,
+                "width": 143.26,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 520,
+                "width": 637.0,
+                "height": 644.15,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/mxnDatRX3LKSKK3z446g6_980x991.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Mood Enhancing Paan for Men & Women",
+            "description": "The Nooky Mood Uplifting Paan is an aphrodisiac chocolate paan designed to enhance mood, energy, and intimacy between partners. Crafted with a blend of natural herbs and dark chocolate, it aims to create a delightful experience for couples.\nAmazon India\n+4\nCirkle Street\n+4\nTrynooky\n+4\n\n\ud83c\udf3f Key Ingredients & Benefits\nDark Chocolate: Releases endorphins, improving mood and arousal.\n\nMaca Extract: Supports energy, blood flow, and healthy sexual function.\n\nVelvet Bean (Kaunch Beej): Enhances sperm count and semen quality.\n\nAshwagandha: Reduces stress, enhances arousal, lubrication, and orgasm.\n\nShatavari Extract: Supports reproductive health and balances hormones.\n\nJavitri (Mace): Promotes relaxation and enhances mood.\n\nCaffeine: Boosts physical performance, endurance, and stamina.\n\nLiboost Powder: Increases nitric oxide release, favoring arousal.\nCirkle Street\n+1\nnookychocolate.com\n+1\nnookychocolate.com\n+1\nCirkle Street\n+1\n\n\ud83d\udc91 How to Use\nConsume one piece with your partner approximately 30 minutes before intimacy. The effects typically last between 1 to 3 hours, enhancing the overall experience. Regular use may lead to cumulative benefits over time.\nCirkle Street\n+1\nnookychocolate.com\n+1\n\n\ud83d\udce6 Packaging & Pricing\nPack of 2: \u20b9575 (MRP \u20b9698)\n\nPack of 4: \u20b9699 (MRP \u20b9698)\n\nSpecial offers include \u20b9150 off on prepaid orders and additional discounts with coupon codes:\n\nPAAN2: Extra \u20b926 off on a pack of 2.\n\nPAAN4: Extra \u20b9120 off on a pack of 4.\nCirkle Street\n\nThese offers are valid until May 31, 2025.\n\n",
+            "price": "\u20b9575"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/mxnDatRX3LKSKK3z446g6_980x991.png",
+        "marketplace_url": "blob:https://studio.phot.ai/4fbf5103-ac3e-4427-bb0b-3195718f7954",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner design features a bold and modern composition aimed at evoking passion and intrigue. The background consists of angular overlays and gradients transitioning from deep black to rich maroon, intersected by fine golden lines, lending a sense of depth and luxury. Circular graphic elements in a soft gold hue subtly decorate the layout with a touch of dynamism. The large, commanding text layer (\"heading_1\" and \"heading_2\") in a bold font grabs attention at the top-left. Just beneath, the product's name is highlighted with a futuristic font (\"product_name\"). Detailed feature highlights of the product are neatly arranged in \"description\". A bold price tag (\"price\") appears below, accompanied by a prominent, bordered call-to-action button (\"cta_button\" with text \"cta\"). The main product visual (\"product_image\") is angled and positioned to the right, balancing the text-heavy left side.\n\n**Color Palette:**\n- Black (#000000)\n- Deep Maroon (#66001a)\n- Golden Beige (#e1cf8d)\n- Off-White (#f7f7f7)\n- Rich Teal (used in product_image)\n",
+    "product_color": "\nThe product image features a luxurious and elegant color palette, ideal for an advertisement banner. The dominant color is a deep bottle green (#003F3C), which evokes a sense of depth, sensuality, and sophistication. Accents of rich metallic gold (#D4A857) are used for text and line art, adding a touch of luxury and attention to detail. The gold contrasts beautifully against the green, enhancing readability and visual appeal while blending harmoniously to maintain cohesion. Fine gold botanical illustrations subtly integrated in the background enrich the design without overpowering it. This refined combination ensures the product stands out with classy allure.\n"
+}

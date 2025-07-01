@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#f8f8f8;stop-opacity:1'/><stop offset='100%' style='stop-color:#f0f0f0;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5722;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#FF9800;stop-opacity:0.8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#e0e0e0' stroke-width='3' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#f0f0f0' stroke-width='2' fill='none'/><path d='M0,300 C250,250, 500,350, 750,300 C1000,250, 1250,350, 1500,300 L1500,0 L0,0 Z' fill='url(#grad2)' opacity='0.1'/><path d='M0,800 C250,850, 500,750, 750,800 C1000,850, 1250,750, 1500,800 L1500,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.1'/><path d='M40,140 L1040,140' stroke='#FF5722' stroke-width='4' opacity='0.3'/><path d='M40,940 L1040,940' stroke='#FF5722' stroke-width='4' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='#FF5722' opacity='0.03'/><circle cx='540' cy='540' r='300' fill='#FF5722' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 69, "left": 90, "width": 835.7, "height": 84.75, "fill": "#212121", "text": "SPEED EVOLUTION", "fontSize": 75, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 215, "left": 95, "width": 556.79, "height": 67.8, "fill": "#FF5722", "text": "ADIZERO BOSTON 12", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 290, "left": 95, "width": 300, "height": 3, "fill": "#FF9800", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 320, "left": 95, "width": 488.29, "height": 149.16, "fill": "#424242", "text": "\u2022 Mid to Long-Distance Running Performance\n\u2022 ENERGYRODS 2.0 Propulsive Technology\n\u2022 LIGHTSTRIKE PRO Ultra-Light Cushioning\n\u2022 Continental Rubber Outsole Durability", "fontSize": 24, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 95, "width": 350.05, "height": 90.4, "fill": "#212121", "text": "$148.46", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 954, "left": 94, "width": 220, "height": 60, "fill": "#FF5722", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 967, "left": 144, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 400, "left": 530, "width": 755, "height": 356, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "The Boston Marathon is a race. But it's also a goal, and a training plan and all the days it stays on your mind before the big one. The Adizero Boston 12 Shoes are built for mid- to long-distance running. They bring a race-day feel to training with a propulsive feel that comes from the glass-fiber infused ENERGYRODS 2.0, which limit energy loss underfoot. They're fast, but that does not come at the cost of durability - the midsole layers ultra-light LIGHTSTRIKE PRO cushioning with a new version of durable LIGHTSTRIKE 2.0 EVA. Continental Rubber outsole ENERGYRODS 2.0 limit energy loss Imported Sole material - Rubber ** Closure type - Lace-Up **", "price": "148.46"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png", "marketplace_url": "https://www.amazon.com/dp/B0CYQH7WY8", "layout": "frame_layout"}, "banner_details": "\nThis banner features a dynamic and modern layout designed to highlight an athletic product. The primary heading (**heading**) uses a sci-fi styled font in dark gray, positioned at the top for high visibility. Beneath it, the subheading (**subheading**) is bold and orange, drawing attention to the product name. A thin underline (**decorative**) in warm amber adds subtle design emphasis. The feature list (**description**) is succinct and bullet-pointed in a dark gray font, neatly placed to the left of the central focus - a high-resolution product image (**product_image**) floating on soft, curved abstract background shapes. The price (**price**) stands out in bold type, placed at the bottom left. A prominent call-to-action button with a vivid orange background and white text (**cta_background** and **cta**) encourages conversion. The overall theme is framed by minimalist borders and subtle gradients.\n\n**Color Palette**:\n- White: `#ffffff`\n- Charcoal Gray: `#212121`\n- Medium Gray: `#424242`\n- Vivid Orange: `#FF5722`\n- Warm Amber: `#FF9800`\n- Light Gray (background gradient): `#f8f8f8` to `#f0f0f0`\n", "product_color": "\nThe product image showcases a dynamic color palette optimized for performance and energy. The base is a soft beige/off-white (#E6E2D2), providing a neutral backdrop. Bold black (#1C1C1C) is used for the iconic Adidas stripes, creating strong contrast and brand recognition. Vibrant gradients of orange (#FF5A1F), red-orange (#FF3C38), and yellow (#FFD447) energize the design along the midsole and heel, symbolizing speed and motion. A splash of salmon coral (#FF6F61) accents the lace-line, enhancing visual flow. Colors are blended through smooth transitions, especially in the heel area, making them vivid yet harmonious. This palette is ideal for a striking, energetic advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#f8f8f8;stop-opacity:1'/><stop offset='100%' style='stop-color:#f0f0f0;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5722;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#FF9800;stop-opacity:0.8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#e0e0e0' stroke-width='3' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#f0f0f0' stroke-width='2' fill='none'/><path d='M0,300 C250,250, 500,350, 750,300 C1000,250, 1250,350, 1500,300 L1500,0 L0,0 Z' fill='url(#grad2)' opacity='0.1'/><path d='M0,800 C250,850, 500,750, 750,800 C1000,850, 1250,750, 1500,800 L1500,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.1'/><path d='M40,140 L1040,140' stroke='#FF5722' stroke-width='4' opacity='0.3'/><path d='M40,940 L1040,940' stroke='#FF5722' stroke-width='4' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='#FF5722' opacity='0.03'/><circle cx='540' cy='540' r='300' fill='#FF5722' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 69,
+                "left": 90,
+                "width": 835.7,
+                "height": 84.75,
+                "fill": "#212121",
+                "text": "SPEED EVOLUTION",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 215,
+                "left": 95,
+                "width": 556.79,
+                "height": 67.8,
+                "fill": "#FF5722",
+                "text": "ADIZERO BOSTON 12",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 290,
+                "left": 95,
+                "width": 300,
+                "height": 3,
+                "fill": "#FF9800",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 95,
+                "width": 488.29,
+                "height": 149.16,
+                "fill": "#424242",
+                "text": "\u2022 Mid to Long-Distance Running Performance\n\u2022 ENERGYRODS 2.0 Propulsive Technology\n\u2022 LIGHTSTRIKE PRO Ultra-Light Cushioning\n\u2022 Continental Rubber Outsole Durability",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 95,
+                "width": 350.05,
+                "height": 90.4,
+                "fill": "#212121",
+                "text": "$148.46",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 954,
+                "left": 94,
+                "width": 220,
+                "height": 60,
+                "fill": "#FF5722",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 967,
+                "left": 144,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 400,
+                "left": 530,
+                "width": 528.5,
+                "height": 249.2,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "The Boston Marathon is a race. But it's also a goal, and a training plan and all the days it stays on your mind before the big one. The Adizero Boston 12 Shoes are built for mid- to long-distance running. They bring a race-day feel to training with a propulsive feel that comes from the glass-fiber infused ENERGYRODS 2.0, which limit energy loss underfoot. They're fast, but that does not come at the cost of durability - the midsole layers ultra-light LIGHTSTRIKE PRO cushioning with a new version of durable LIGHTSTRIKE 2.0 EVA. Continental Rubber outsole ENERGYRODS 2.0 limit energy loss Imported Sole material - Rubber ** Closure type - Lace-Up **",
+            "price": "148.46"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CYQH7WY8",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner features a dynamic and modern layout designed to highlight an athletic product. The primary heading (**heading**) uses a sci-fi styled font in dark gray, positioned at the top for high visibility. Beneath it, the subheading (**subheading**) is bold and orange, drawing attention to the product name. A thin underline (**decorative**) in warm amber adds subtle design emphasis. The feature list (**description**) is succinct and bullet-pointed in a dark gray font, neatly placed to the left of the central focus - a high-resolution product image (**product_image**) floating on soft, curved abstract background shapes. The price (**price**) stands out in bold type, placed at the bottom left. A prominent call-to-action button with a vivid orange background and white text (**cta_background** and **cta**) encourages conversion. The overall theme is framed by minimalist borders and subtle gradients.\n\n**Color Palette**:\n- White: `#ffffff`\n- Charcoal Gray: `#212121`\n- Medium Gray: `#424242`\n- Vivid Orange: `#FF5722`\n- Warm Amber: `#FF9800`\n- Light Gray (background gradient): `#f8f8f8` to `#f0f0f0`\n",
+    "product_color": "\nThe product image showcases a dynamic color palette optimized for performance and energy. The base is a soft beige/off-white (#E6E2D2), providing a neutral backdrop. Bold black (#1C1C1C) is used for the iconic Adidas stripes, creating strong contrast and brand recognition. Vibrant gradients of orange (#FF5A1F), red-orange (#FF3C38), and yellow (#FFD447) energize the design along the midsole and heel, symbolizing speed and motion. A splash of salmon coral (#FF6F61) accents the lace-line, enhancing visual flow. Colors are blended through smooth transitions, especially in the heel area, making them vivid yet harmonious. This palette is ideal for a striking, energetic advertisement banner.\n"
+}

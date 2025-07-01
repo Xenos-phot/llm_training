@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0.0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='url(#radialGrad)'/><rect x='50' y='50' width='980' height='980' stroke='rgba(255,255,255,0.1)' stroke-width='2' fill='none'/><g opacity='0.25'><path d='M0 200 L1080 200' stroke='#444' stroke-width='2'/><path d='M0 400 L1080 400' stroke='#444' stroke-width='2'/><path d='M0 600 L1080 600' stroke='#444' stroke-width='2'/><path d='M0 800 L1080 800' stroke='#444' stroke-width='2'/></g><g opacity='0.4'><circle cx='40' cy='40' r='5' fill='#646464'/><circle cx='1040' cy='40' r='5' fill='#646464'/><circle cx='40' cy='1040' r='5' fill='#646464'/><circle cx='1040' cy='1040' r='5' fill='#646464'/></g><defs><radialGradient id='radialGrad' cx='0.5' cy='0.5' r='0.8' fx='0.5' fy='0.5' spreadMethod='pad' gradientUnits='objectBoundingBox'><stop offset='0%' stop-color='#212121'/><stop offset='100%' stop-color='#080808'/></radialGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 301.175, "width": 477.65, "height": 79.1, "fill": "#FFFFFF", "text": "GSLMOLN SLIP-ON", "fontSize": 70, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 150, "left": 53.94999999999999, "width": 972.1, "height": 40.68, "fill": "#BBBBBB", "text": "ATHLETIC PERFORMANCE SNEAKERS", "fontSize": 36, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 218.76, "left": 268.26, "width": 1294, "height": 1244, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/c0b8f174-b596-49c7-bb3a-cb66a2c95ba4_nobg_1294x1244.png", "id": "product_image"}, {"type": "text", "top": 750, "left": 188.11, "width": 703.78, "height": 27.12, "fill": "#FFFFFF", "text": "BREATHABLE MESH \u2022 LIGHTWEIGHT \u2022 SLIP-RESISTANT \u2022 FLEXIBLE", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 820, "left": 237.65499999999997, "width": 604.69, "height": 24.86, "fill": "#BBBBBB", "text": "Perfect for running, gym, casual wear and everyday comfort", "fontSize": 22, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 866, "left": 400.28, "width": 279.44, "height": 90.4, "fill": "#FFFFFF", "text": "$36.54", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 995, "left": 477.23, "width": 125.54, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Super Breathable Mesh Vamp: Lightweight, Soft, Comfortable, Wash resistance, They won't deform after clean the sneakers. Breathable and durable air mesh upper allow the foot to breathe. Protect Your ankle: Slip-on ankle design allows you easily put on/off. Shoes's tongue and heels protect your feet from hurt in any activities. Provide more comfort. Slip-Resistance and Durable:Premium Hollow Blade Sole Offers Maximum Durability and Provides the Optimum Cushioning Performance that Creates a Slow Shock Jump, Soft, Comfortableand and Healthier Shoe Environment. Perfect choice to pair with any sport or casual assemble. Suitable for parties, casual, walking, running, indoor, sports, outdoor, travel, exercise, workout and any occasion. Free Running: Stretch breathable mesh upper for ultra-lightweight support and breathability, springblade sole can superb energy return and durability, ensures your feet feel more freedom, allowing to move the way they were meant to, to enjoy the unparalleled pleasure of free running. Fabric type - Mesh ** Origin - Imported ** Sole material - Ethylene Vinyl Acetate ** Outer material - Mesh **", "price": "$36.54"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/c0b8f174-b596-49c7-bb3a-cb66a2c95ba4_nobg_1294x1244.png", "marketplace_url": "https://www.amazon.com/dp/B09QMBJTCR", "layout": "centered_hero"}, "banner_details": "  \nThis banner presents a sleek, dark-themed advertisement for athletic slip-on sneakers. Dominated by a radial black-to-dark-gray gradient background with subtle grid lines and corner dots for structure and depth, it features a pair of black futuristic sneakers at the center (product_image). Above the shoes, two bold typographic layers\u2014'heading' and 'subheading'\u2014highlight the product name and purpose in white and gray respectively. Just below, a tagline (tagline) lists key product features. A brief description (description) promotes multi-use appeal. Pricing is emphasized through a large, bold text layer (price). The call-to-action button (cta and cta_background) is sharply contrasted in white with black text.  \n\n**Color Palette:**  \n- **Black (#000000)**  \n- **Dark Gray (#212121)**  \n- **Light Gray (#BBBBBB)**  \n- **White (#FFFFFF)**  \n- **Accent Gray (#444444, #646464)**  \n", "product_color": "  \nThe product image features a sleek, futuristic black sports sandal with bold structural elements and contrasting text accents. The primary color is a deep matte black (#000000), giving it a modern and edgy tone, ideal for masculine or athletic themes. Contrasting white (#FFFFFF) is used for branding and detailing, offering high visibility and clear focus points. A medium gray (#A9A9A9) appears in the striped pattern for added texture and depth without overwhelming the design. The blending of black and gray provides a smooth gradient, while the white highlights draw attention to the brand identity. This monochromatic palette exudes power and simplicity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0.0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='url(#radialGrad)'/><rect x='50' y='50' width='980' height='980' stroke='rgba(255,255,255,0.1)' stroke-width='2' fill='none'/><g opacity='0.25'><path d='M0 200 L1080 200' stroke='#444' stroke-width='2'/><path d='M0 400 L1080 400' stroke='#444' stroke-width='2'/><path d='M0 600 L1080 600' stroke='#444' stroke-width='2'/><path d='M0 800 L1080 800' stroke='#444' stroke-width='2'/></g><g opacity='0.4'><circle cx='40' cy='40' r='5' fill='#646464'/><circle cx='1040' cy='40' r='5' fill='#646464'/><circle cx='40' cy='1040' r='5' fill='#646464'/><circle cx='1040' cy='1040' r='5' fill='#646464'/></g><defs><radialGradient id='radialGrad' cx='0.5' cy='0.5' r='0.8' fx='0.5' fy='0.5' spreadMethod='pad' gradientUnits='objectBoundingBox'><stop offset='0%' stop-color='#212121'/><stop offset='100%' stop-color='#080808'/></radialGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 301.175,
+                "width": 477.65,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "GSLMOLN SLIP-ON",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 53.94999999999999,
+                "width": 972.1,
+                "height": 40.68,
+                "fill": "#BBBBBB",
+                "text": "ATHLETIC PERFORMANCE SNEAKERS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 218.76,
+                "left": 268.26,
+                "width": 543.48,
+                "height": 522.48,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/c0b8f174-b596-49c7-bb3a-cb66a2c95ba4_nobg_1294x1244.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 188.11,
+                "width": 703.78,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "BREATHABLE MESH \u2022 LIGHTWEIGHT \u2022 SLIP-RESISTANT \u2022 FLEXIBLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 237.65499999999997,
+                "width": 604.69,
+                "height": 24.86,
+                "fill": "#BBBBBB",
+                "text": "Perfect for running, gym, casual wear and everyday comfort",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 866,
+                "left": 400.28,
+                "width": 279.44,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$36.54",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 995,
+                "left": 477.23,
+                "width": 125.54,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Super Breathable Mesh Vamp: Lightweight, Soft, Comfortable, Wash resistance, They won't deform after clean the sneakers. Breathable and durable air mesh upper allow the foot to breathe. Protect Your ankle: Slip-on ankle design allows you easily put on/off. Shoes's tongue and heels protect your feet from hurt in any activities. Provide more comfort. Slip-Resistance and Durable:Premium Hollow Blade Sole Offers Maximum Durability and Provides the Optimum Cushioning Performance that Creates a Slow Shock Jump, Soft, Comfortableand and Healthier Shoe Environment. Perfect choice to pair with any sport or casual assemble. Suitable for parties, casual, walking, running, indoor, sports, outdoor, travel, exercise, workout and any occasion. Free Running: Stretch breathable mesh upper for ultra-lightweight support and breathability, springblade sole can superb energy return and durability, ensures your feet feel more freedom, allowing to move the way they were meant to, to enjoy the unparalleled pleasure of free running. Fabric type - Mesh ** Origin - Imported ** Sole material - Ethylene Vinyl Acetate ** Outer material - Mesh **",
+            "price": "$36.54"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/c0b8f174-b596-49c7-bb3a-cb66a2c95ba4_nobg_1294x1244.png",
+        "marketplace_url": "https://www.amazon.com/dp/B09QMBJTCR",
+        "layout": "centered_hero"
+    },
+    "banner_details": "  \nThis banner presents a sleek, dark-themed advertisement for athletic slip-on sneakers. Dominated by a radial black-to-dark-gray gradient background with subtle grid lines and corner dots for structure and depth, it features a pair of black futuristic sneakers at the center (product_image). Above the shoes, two bold typographic layers\u2014'heading' and 'subheading'\u2014highlight the product name and purpose in white and gray respectively. Just below, a tagline (tagline) lists key product features. A brief description (description) promotes multi-use appeal. Pricing is emphasized through a large, bold text layer (price). The call-to-action button (cta and cta_background) is sharply contrasted in white with black text.  \n\n**Color Palette:**  \n- **Black (#000000)**  \n- **Dark Gray (#212121)**  \n- **Light Gray (#BBBBBB)**  \n- **White (#FFFFFF)**  \n- **Accent Gray (#444444, #646464)**  \n",
+    "product_color": "  \nThe product image features a sleek, futuristic black sports sandal with bold structural elements and contrasting text accents. The primary color is a deep matte black (#000000), giving it a modern and edgy tone, ideal for masculine or athletic themes. Contrasting white (#FFFFFF) is used for branding and detailing, offering high visibility and clear focus points. A medium gray (#A9A9A9) appears in the striped pattern for added texture and depth without overwhelming the design. The blending of black and gray provides a smooth gradient, while the white highlights draw attention to the brand identity. This monochromatic palette exudes power and simplicity.  \n"
+}

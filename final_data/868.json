@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F6F2EE'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#2A2A2A' opacity='0.03'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#2A2A2A' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#2A2A2A' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 120, "width": 356.9, "height": 113, "fill": "#2A2A2A", "text": "LUXURY", "fontSize": 100, "fontFamily": "DM Serif Text Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 190, "left": 120, "width": 413.68, "height": 90.4, "fill": "#846F5B", "text": "HAIR CARE", "fontSize": 80, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 125, "width": 519.83, "height": 155.04, "fill": "#2A2A2A", "text": "Deep moisturizing formula for silky hair\nAdvanced damage repair technology\nAnti-frizz protection for manageable hair\nIntense nourishment for dry hair", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 500, "left": 120, "width": 286.04, "height": 61.02, "fill": "#846F5B", "text": "Ela De Pure", "fontSize": 54, "fontFamily": "Libre Franklin Thin", "textAlign": "left", "id": "brand_name"}, {"type": "text", "top": 560, "left": 120, "width": 323.41, "height": 36.16, "fill": "#2A2A2A", "text": "Moisturizing Shampoo", "fontSize": 32, "fontFamily": "Alata Regular", "textAlign": "left", "id": "product_name"}, {"type": "text", "top": 700, "left": 120, "width": 234.36, "height": 84.75, "fill": "#2A2A2A", "text": "\u20b9 900", "fontSize": 75, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 120, "width": 220, "height": 60, "fill": "#846F5B", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 817, "left": 149, "width": 159.99, "height": 27.12, "fill": "#FFFFFF", "text": "LIMITED OFFER", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 880, "left": 120, "width": 429.41, "height": 24.86, "fill": "#2A2A2A", "text": "Professional-grade luxury hair care solution", "fontSize": 22, "fontFamily": "Alata Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 312, "left": 380, "width": 925, "height": 959, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/o5sz1S_6QJy1XFuF8YVhO_925x959.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Ela De Pure Luxury Moisturizing Shampoo - Premium Hair Hydration Solution", "description": "\u2022 Deep moisturizing formula for silky-smooth hair\n\u2022 Advanced damage repair technology\n\u2022 Anti-frizz protection for manageable hair\n\u2022 Intense nourishment for dry and damaged hair\n\u2022 Professional-grade hair care solution\n\u2022 Generous 280ml/9.5fl.oz size\n\u2022 Elegant and convenient pump dispenser\n\u2022 Minimalist, premium packaging design\n\u2022 Salon-quality formulation for daily use\n\u2022 Perfect for all hair types seeking hydration", "price": "\u20b9900"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/o5sz1S_6QJy1XFuF8YVhO_925x959.png", "marketplace_url": "https://images.unsplash.com/photo-1747240901113-0a8496fd1b0f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHw4fHxQcm9kdWN0c3xlbnwwfHwyfHwxNzQ3ODE2NDg5fDA&ixlib=rb-4.1.0&q=85", "layout": "frame_layout"}, "banner_details": "\nThis banner promotes a premium shampoo product with a sophisticated and minimalistic aesthetic. It features a clean, soft beige background framed by fine stroke lines and elegant decorative curves at the edges. The heading layer (`heading`) uses a bold serif font in charcoal to emphasize luxury, while the subheading (`subheading`) is styled in a muted brown serif font, complementing the overall classy tone. The central text block (`description`) provides product benefits in a neat, left-aligned arrangement using a modern sans-serif. Branding elements (`brand_name`, `product_name`) follow a similar clean and elegant format. A large price display (`price`) in bold black ensures visibility, alongside a brown call-to-action banner (`cta_background`) with contrasting white text (`cta`). A shampoo bottle image (`product_image`) sits to the right, anchoring the layout visually. The tagline (`tagline`) subtly reiterates product positioning at the bottom.\n\n**Color Palette:**\n- Cream white (#F6F2EE)\n- Charcoal black (#2A2A2A)\n- Earthy brown (#846F5B)\n- Pure white (#FFFFFF)\n", "product_color": "  \nThe product image showcases a minimalist and elegant color palette ideal for a luxury hair care brand. The dominant color is an off-white beige (#F6F2EB) used for the bottle, creating a soft and organic feel. Black (#000000) is used prominently in the text and pump, offering strong contrast and clarity. A subtle touch of ivory (#FAF9F6) blends the background seamlessly with the bottle, maintaining a clean aesthetic. The sleek contrast of off-white and black makes key text and features stand out while maintaining a premium, natural tone. This palette can be used effectively in banner designs for a high-end, organic feel.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F6F2EE'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#2A2A2A' opacity='0.03'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#2A2A2A' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#2A2A2A' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#CDBCA9' stroke-width='3' opacity='0.5' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 120,
+                "width": 356.9,
+                "height": 113,
+                "fill": "#2A2A2A",
+                "text": "LUXURY",
+                "fontFamily": "DM Serif Text Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 120,
+                "width": 413.68,
+                "height": 90.4,
+                "fill": "#846F5B",
+                "text": "HAIR CARE",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 125,
+                "width": 519.83,
+                "height": 155.04,
+                "fill": "#2A2A2A",
+                "text": "Deep moisturizing formula for silky hair\nAdvanced damage repair technology\nAnti-frizz protection for manageable hair\nIntense nourishment for dry hair",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 500,
+                "left": 120,
+                "width": 286.04,
+                "height": 61.02,
+                "fill": "#846F5B",
+                "text": "Ela De Pure",
+                "fontFamily": "Libre Franklin Thin",
+                "textAlign": "left",
+                "id": "brand_name"
+            },
+            {
+                "type": "text",
+                "top": 560,
+                "left": 120,
+                "width": 323.41,
+                "height": 36.16,
+                "fill": "#2A2A2A",
+                "text": "Moisturizing Shampoo",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 120,
+                "width": 234.36,
+                "height": 84.75,
+                "fill": "#2A2A2A",
+                "text": "\u20b9 900",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 120,
+                "width": 220,
+                "height": 60,
+                "fill": "#846F5B",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 817,
+                "left": 149,
+                "width": 159.99,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "LIMITED OFFER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 120,
+                "width": 429.41,
+                "height": 24.86,
+                "fill": "#2A2A2A",
+                "text": "Professional-grade luxury hair care solution",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 312,
+                "left": 380,
+                "width": 508.75000000000006,
+                "height": 527.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/o5sz1S_6QJy1XFuF8YVhO_925x959.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Ela De Pure Luxury Moisturizing Shampoo - Premium Hair Hydration Solution",
+            "description": "\u2022 Deep moisturizing formula for silky-smooth hair\n\u2022 Advanced damage repair technology\n\u2022 Anti-frizz protection for manageable hair\n\u2022 Intense nourishment for dry and damaged hair\n\u2022 Professional-grade hair care solution\n\u2022 Generous 280ml/9.5fl.oz size\n\u2022 Elegant and convenient pump dispenser\n\u2022 Minimalist, premium packaging design\n\u2022 Salon-quality formulation for daily use\n\u2022 Perfect for all hair types seeking hydration",
+            "price": "\u20b9900"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/o5sz1S_6QJy1XFuF8YVhO_925x959.png",
+        "marketplace_url": "https://images.unsplash.com/photo-1747240901113-0a8496fd1b0f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHw4fHxQcm9kdWN0c3xlbnwwfHwyfHwxNzQ3ODE2NDg5fDA&ixlib=rb-4.1.0&q=85",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner promotes a premium shampoo product with a sophisticated and minimalistic aesthetic. It features a clean, soft beige background framed by fine stroke lines and elegant decorative curves at the edges. The heading layer (`heading`) uses a bold serif font in charcoal to emphasize luxury, while the subheading (`subheading`) is styled in a muted brown serif font, complementing the overall classy tone. The central text block (`description`) provides product benefits in a neat, left-aligned arrangement using a modern sans-serif. Branding elements (`brand_name`, `product_name`) follow a similar clean and elegant format. A large price display (`price`) in bold black ensures visibility, alongside a brown call-to-action banner (`cta_background`) with contrasting white text (`cta`). A shampoo bottle image (`product_image`) sits to the right, anchoring the layout visually. The tagline (`tagline`) subtly reiterates product positioning at the bottom.\n\n**Color Palette:**\n- Cream white (#F6F2EE)\n- Charcoal black (#2A2A2A)\n- Earthy brown (#846F5B)\n- Pure white (#FFFFFF)\n",
+    "product_color": "  \nThe product image showcases a minimalist and elegant color palette ideal for a luxury hair care brand. The dominant color is an off-white beige (#F6F2EB) used for the bottle, creating a soft and organic feel. Black (#000000) is used prominently in the text and pump, offering strong contrast and clarity. A subtle touch of ivory (#FAF9F6) blends the background seamlessly with the bottle, maintaining a clean aesthetic. The sleek contrast of off-white and black makes key text and features stand out while maintaining a premium, natural tone. This palette can be used effectively in banner designs for a high-end, organic feel.\n"
+}

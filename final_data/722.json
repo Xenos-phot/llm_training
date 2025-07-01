@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2F0EA'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#2D4356' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#2D4356' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#2D4356' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><circle cx='540' cy='540' r='230' fill='#2D4356' opacity='0.03'/><circle cx='540' cy='540' r='180' fill='#2D4356' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 83, "left": 122, "width": 887.11, "height": 113, "fill": "#2D4356", "text": "ALARM CLOCK", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 212, "left": 125, "width": 836.86, "height": 73.45, "fill": "#435B66", "text": "VINTAGE TWIN-BELL DESIGN", "fontSize": 65, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 316, "left": 136, "width": 546.93, "height": 155.04, "fill": "#4C5964", "text": "Elegant Retro-Style With Powerful Twin Bells\nCompact Size Perfect For Nightstands\nClear Analog Display With Large Numbers\nSilent No-Tick Operation For Peaceful Sleep", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 834, "left": 85, "width": 171.88, "height": 84.75, "fill": "#2D4356", "text": "\u20b9 45", "fontSize": 75, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 946, "left": 94, "width": 200, "height": 60, "fill": "#2D4356", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 962, "left": 123, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 460.94, "left": 608.14, "width": 359, "height": 527, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/GYncOLuPXv1EeAWSJ5Kb5_359x527.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Mini Twin-Bell Alarm Clock - Vintage Style Modern Reliability", "description": "\u2022 Elegant white retro-style design with twin bells for powerful wake-up call\n\u2022 Compact size perfect for nightstands and travel (approx. 4 inches tall)\n\u2022 Clear analog display with large numbers for easy reading\n\u2022 Traditional mechanical bell sound for authentic alarm experience\n\u2022 Durable plastic construction with metallic finish\n\u2022 Battery-operated for reliable timekeeping (batteries not included)\n\u2022 No-tick quiet operation for peaceful sleep\n\u2022 Simple to set alarm mechanism\n\u2022 Lightweight and portable design\n\u2022 Perfect blend of classic charm and modern functionality", "price": "\u20b945"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/GYncOLuPXv1EeAWSJ5Kb5_359x527.png", "marketplace_url": "blob:https://test11.phot.ai/c7ec6347-9359-48f2-a554-dde5325d8233", "layout": "frame_layout"}, "banner_details": "\nThis banner features a vintage-themed product advertisement, centered around a classic analog alarm clock. The design uses a soft cream background with geometric and wavy border lines to frame the central content. The headline labeled as `heading` is bold and prominent at the top, using a vintage slab serif font in a deep navy blue. Below that, the `subheading` introduces the style with a modern bold sans-serif font. The `description` block provides a concise, feature-rich product overview in a clean, legible typeface. Bottom left includes the `price` tag in bold, and a contrasting `cta_button` with the `cta` label encourages user action. A realistic image of the clock (`product_image`) is presented on the right side for visual appeal.\n\n**Color Palette:**\n- Cream White: `#F2F0EA` (Background)\n- Deep Navy Blue: `#2D4356` (Text, accents, button)\n- Slate Blue: `#435B66` (Subheading)\n- Charcoal Gray: `#4C5964` (Body text)\n- White: `#FFFFFF` (Button text)\n", "product_color": "\nThe product image features a vintage-style white alarm clock with a minimalistic yet eye-catching color palette. Dominated by clean, crisp white (#FFFFFF), the clock has smooth silver-gray shadows and accents (#D3D3D3) to add depth and realism. The bold black numbers and clock hands (#000000) contrast sharply against the white face, ensuring visibility and visual balance. Slight hints of soft blue tones (#C0D6E4) subtly reflect around metallic edges, creating a cool undertone that enhances its sleek appearance. The color blending is gentle and harmonious, allowing each element to stand out while forming a cohesive, polished look ideal for a clean and modern advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2F0EA'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#2D4356' opacity='0.05'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#2D4356' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#2D4356' stroke-width='2' fill='none' opacity='0.3'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#2D4356' stroke-width='3' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.7'/><circle cx='540' cy='540' r='230' fill='#2D4356' opacity='0.03'/><circle cx='540' cy='540' r='180' fill='#2D4356' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 83,
+                "left": 122,
+                "width": 887.11,
+                "height": 113,
+                "fill": "#2D4356",
+                "text": "ALARM CLOCK",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 212,
+                "left": 125,
+                "width": 836.86,
+                "height": 73.45,
+                "fill": "#435B66",
+                "text": "VINTAGE TWIN-BELL DESIGN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 316,
+                "left": 136,
+                "width": 546.93,
+                "height": 155.04,
+                "fill": "#4C5964",
+                "text": "Elegant Retro-Style With Powerful Twin Bells\nCompact Size Perfect For Nightstands\nClear Analog Display With Large Numbers\nSilent No-Tick Operation For Peaceful Sleep",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 834,
+                "left": 85,
+                "width": 171.88,
+                "height": 84.75,
+                "fill": "#2D4356",
+                "text": "\u20b9 45",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 946,
+                "left": 94,
+                "width": 200,
+                "height": 60,
+                "fill": "#2D4356",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 962,
+                "left": 123,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 460.94,
+                "left": 608.14,
+                "width": 280.02,
+                "height": 411.06,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/GYncOLuPXv1EeAWSJ5Kb5_359x527.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Mini Twin-Bell Alarm Clock - Vintage Style Modern Reliability",
+            "description": "\u2022 Elegant white retro-style design with twin bells for powerful wake-up call\n\u2022 Compact size perfect for nightstands and travel (approx. 4 inches tall)\n\u2022 Clear analog display with large numbers for easy reading\n\u2022 Traditional mechanical bell sound for authentic alarm experience\n\u2022 Durable plastic construction with metallic finish\n\u2022 Battery-operated for reliable timekeeping (batteries not included)\n\u2022 No-tick quiet operation for peaceful sleep\n\u2022 Simple to set alarm mechanism\n\u2022 Lightweight and portable design\n\u2022 Perfect blend of classic charm and modern functionality",
+            "price": "\u20b945"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/GYncOLuPXv1EeAWSJ5Kb5_359x527.png",
+        "marketplace_url": "blob:https://test11.phot.ai/c7ec6347-9359-48f2-a554-dde5325d8233",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner features a vintage-themed product advertisement, centered around a classic analog alarm clock. The design uses a soft cream background with geometric and wavy border lines to frame the central content. The headline labeled as `heading` is bold and prominent at the top, using a vintage slab serif font in a deep navy blue. Below that, the `subheading` introduces the style with a modern bold sans-serif font. The `description` block provides a concise, feature-rich product overview in a clean, legible typeface. Bottom left includes the `price` tag in bold, and a contrasting `cta_button` with the `cta` label encourages user action. A realistic image of the clock (`product_image`) is presented on the right side for visual appeal.\n\n**Color Palette:**\n- Cream White: `#F2F0EA` (Background)\n- Deep Navy Blue: `#2D4356` (Text, accents, button)\n- Slate Blue: `#435B66` (Subheading)\n- Charcoal Gray: `#4C5964` (Body text)\n- White: `#FFFFFF` (Button text)\n",
+    "product_color": "\nThe product image features a vintage-style white alarm clock with a minimalistic yet eye-catching color palette. Dominated by clean, crisp white (#FFFFFF), the clock has smooth silver-gray shadows and accents (#D3D3D3) to add depth and realism. The bold black numbers and clock hands (#000000) contrast sharply against the white face, ensuring visibility and visual balance. Slight hints of soft blue tones (#C0D6E4) subtly reflect around metallic edges, creating a cool undertone that enhances its sleek appearance. The color blending is gentle and harmonious, allowing each element to stand out while forming a cohesive, polished look ideal for a clean and modern advertisement banner.\n"
+}

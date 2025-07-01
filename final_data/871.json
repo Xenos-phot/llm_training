@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4A1942'/><stop offset='100%' stop-color='#2C0A29'/></linearGradient><radialGradient id='circleGlow' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#D4AF37' stop-opacity='0.3'/><stop offset='100%' stop-color='#D4AF37' stop-opacity='0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='280' fill='none' stroke='#D4AF37' stroke-width='2' stroke-dasharray='4,4'/><circle cx='540' cy='540' r='320' fill='none' stroke='#D4AF37' stroke-width='1' opacity='0.5'/><circle cx='540' cy='540' r='300' fill='url(#circleGlow)'/><circle cx='840' cy='400' r='120' fill='#D4AF37' opacity='0.9'/><g opacity='0.3'><circle cx='150' cy='200' r='8' fill='#D4AF37'/><circle cx='200' cy='300' r='5' fill='#D4AF37'/><circle cx='900' cy='200' r='6' fill='#D4AF37'/><circle cx='850' cy='250' r='4' fill='#D4AF37'/><circle cx='180' cy='700' r='7' fill='#D4AF37'/><circle cx='250' cy='800' r='5' fill='#D4AF37'/><circle cx='900' cy='750' r='8' fill='#D4AF37'/><circle cx='850' cy='830' r='6' fill='#D4AF37'/></g><path d='M200 150 L300 100' stroke='#D4AF37' stroke-width='1' opacity='0.4'/><path d='M880 150 L780 100' stroke='#D4AF37' stroke-width='1' opacity='0.4'/><path d='M200 930 L300 980' stroke='#D4AF37' stroke-width='1' opacity='0.4'/><path d='M880 930 L780 980' stroke='#D4AF37' stroke-width='1' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 235.0, "width": 610, "height": 90.4, "fill": "#D4AF37", "text": "CRYSTAL LOVE", "fontSize": 80, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 349.19, "width": 381.62, "height": 67.8, "fill": "#D4AF37", "text": "Bangle Bracelet", "fontSize": 60, "fontFamily": "Ibarra Real Nova Italic", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 290.4, "left": 361.2, "width": 447, "height": 599, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/khCApB3iJG8PtlMdeoPCt_447x599.png", "id": "product_image"}, {"type": "text", "top": 371.75, "left": 744.55, "width": 190.9, "height": 56.5, "fill": "#FFFFFF", "text": "\u20b92346", "fontSize": 50, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 850, "left": 88.44999999999999, "width": 903.1, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 18K GOLD PLATED \u2022 CRYSTAL STUDDED \u2022 PREMIUM FINISH", "fontSize": 34, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 950, "left": 430.0, "width": 220, "height": 60, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 966.44, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Crystal Love Bangle Bracelet", "description": "- Crystal love bangle bracelet is a glamourous and stunning piece that can add a spark to any of your outfit.\n- This bangle bracelet is studded with crystals that enhances the beauty of your wrist.\n- The gold plated bracelet has a smooth finish that gives it a beautiful shine.\n- This cute bangle bracelet for womens is perfect for your all types of occasions.\n- Looking for a perfect everyday bracelet?\n- We have got you covered.\n- The simple yet classy design of crystal love bangle bracelet makes it perfect for every day use.Details:Size- Free Size Plating- 18k gold tone plated Color- GoldShape- OvalMaterial- Surgical Stainless SteelLength - 6.7 cmWeight - 10 gmThickness -2.5 mmYou will receive the bracelet in a Palmonas Handcrafted Pink box.As this is a handmade product it is very rare to create identical items.", "price": "\u20b92346"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/khCApB3iJG8PtlMdeoPCt_447x599.png", "marketplace_url": "https://www.palmonas.com/products/crystal-love-bangle-bracelet-92987", "layout": "circular_focus"}, "banner_details": "\nThis banner features a luxurious and elegant design highlighting a jewelry product. The background is a deep purple gradient with radial and circular golden decorative accents, giving it a regal feel. At the center, a detailed image of a golden crystal-studded bangle (`product_image`) draws focus. Above it, a bold heading (`heading`) in uppercase introduces the product name, followed by a stylish subheading (`subheading`) in script font denoting the product type. To the right, a golden circular tag contains the price (`price`) in a futuristic font. A description (`description`) bar below lists product highlights in bullet points. At the bottom, a gold rectangular button (`cta_background`) with black text (`cta`) prompts users to shop.\n\n**Color Palette:**\n- Deep Purple: #4A1942 to #2C0A29 (gradient)\n- Gold: #D4AF37\n- White: #FFFFFF\n- Black: #000000\n", "product_color": "\nThe product image showcases a luxurious gold bracelet adorned with embedded diamonds, exuding elegance and sophistication. The primary color is a rich metallic gold (#D4AF37), creating a warm and premium appeal. The dazzling diamonds introduce a contrasting icy white tone with shimmering silver hues (#E5E4E2), enhancing the overall brilliance. Soft reflections and highlights on the bracelet\u2019s surface are subtly blended, maintaining a smooth, polished look while emphasizing its high-end finish. A harmonious blend of warm and cool tones makes it visually striking. For an advertisement banner, pair gold with deep charcoal gray (#333333) and ivory (#FFFFF0) for a refined, elegant theme.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4A1942'/><stop offset='100%' stop-color='#2C0A29'/></linearGradient><radialGradient id='circleGlow' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#D4AF37' stop-opacity='0.3'/><stop offset='100%' stop-color='#D4AF37' stop-opacity='0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='280' fill='none' stroke='#D4AF37' stroke-width='2' stroke-dasharray='4,4'/><circle cx='540' cy='540' r='320' fill='none' stroke='#D4AF37' stroke-width='1' opacity='0.5'/><circle cx='540' cy='540' r='300' fill='url(#circleGlow)'/><circle cx='840' cy='400' r='120' fill='#D4AF37' opacity='0.9'/><g opacity='0.3'><circle cx='150' cy='200' r='8' fill='#D4AF37'/><circle cx='200' cy='300' r='5' fill='#D4AF37'/><circle cx='900' cy='200' r='6' fill='#D4AF37'/><circle cx='850' cy='250' r='4' fill='#D4AF37'/><circle cx='180' cy='700' r='7' fill='#D4AF37'/><circle cx='250' cy='800' r='5' fill='#D4AF37'/><circle cx='900' cy='750' r='8' fill='#D4AF37'/><circle cx='850' cy='830' r='6' fill='#D4AF37'/></g><path d='M200 150 L300 100' stroke='#D4AF37' stroke-width='1' opacity='0.4'/><path d='M880 150 L780 100' stroke='#D4AF37' stroke-width='1' opacity='0.4'/><path d='M200 930 L300 980' stroke='#D4AF37' stroke-width='1' opacity='0.4'/><path d='M880 930 L780 980' stroke='#D4AF37' stroke-width='1' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 235.0,
+                "width": 610,
+                "height": 90.4,
+                "fill": "#D4AF37",
+                "text": "CRYSTAL LOVE",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 349.19,
+                "width": 381.62,
+                "height": 67.8,
+                "fill": "#D4AF37",
+                "text": "Bangle Bracelet",
+                "fontFamily": "Ibarra Real Nova Italic",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 290.4,
+                "left": 361.2,
+                "width": 357.6,
+                "height": 479.20000000000005,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/khCApB3iJG8PtlMdeoPCt_447x599.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 371.75,
+                "left": 744.55,
+                "width": 190.9,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "\u20b92346",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 88.44999999999999,
+                "width": 903.1,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 18K GOLD PLATED \u2022 CRYSTAL STUDDED \u2022 PREMIUM FINISH",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 966.44,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Crystal Love Bangle Bracelet",
+            "description": "- Crystal love bangle bracelet is a glamourous and stunning piece that can add a spark to any of your outfit.\n- This bangle bracelet is studded with crystals that enhances the beauty of your wrist.\n- The gold plated bracelet has a smooth finish that gives it a beautiful shine.\n- This cute bangle bracelet for womens is perfect for your all types of occasions.\n- Looking for a perfect everyday bracelet?\n- We have got you covered.\n- The simple yet classy design of crystal love bangle bracelet makes it perfect for every day use.Details:Size- Free Size Plating- 18k gold tone plated Color- GoldShape- OvalMaterial- Surgical Stainless SteelLength - 6.7 cmWeight - 10 gmThickness -2.5 mmYou will receive the bracelet in a Palmonas Handcrafted Pink box.As this is a handmade product it is very rare to create identical items.",
+            "price": "\u20b92346"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/khCApB3iJG8PtlMdeoPCt_447x599.png",
+        "marketplace_url": "https://www.palmonas.com/products/crystal-love-bangle-bracelet-92987",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a luxurious and elegant design highlighting a jewelry product. The background is a deep purple gradient with radial and circular golden decorative accents, giving it a regal feel. At the center, a detailed image of a golden crystal-studded bangle (`product_image`) draws focus. Above it, a bold heading (`heading`) in uppercase introduces the product name, followed by a stylish subheading (`subheading`) in script font denoting the product type. To the right, a golden circular tag contains the price (`price`) in a futuristic font. A description (`description`) bar below lists product highlights in bullet points. At the bottom, a gold rectangular button (`cta_background`) with black text (`cta`) prompts users to shop.\n\n**Color Palette:**\n- Deep Purple: #4A1942 to #2C0A29 (gradient)\n- Gold: #D4AF37\n- White: #FFFFFF\n- Black: #000000\n",
+    "product_color": "\nThe product image showcases a luxurious gold bracelet adorned with embedded diamonds, exuding elegance and sophistication. The primary color is a rich metallic gold (#D4AF37), creating a warm and premium appeal. The dazzling diamonds introduce a contrasting icy white tone with shimmering silver hues (#E5E4E2), enhancing the overall brilliance. Soft reflections and highlights on the bracelet\u2019s surface are subtly blended, maintaining a smooth, polished look while emphasizing its high-end finish. A harmonious blend of warm and cool tones makes it visually striking. For an advertisement banner, pair gold with deep charcoal gray (#333333) and ivory (#FFFFF0) for a refined, elegant theme.\n"
+}

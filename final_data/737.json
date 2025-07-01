@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a2e'/><stop offset='100%' stop-color='#16213e'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#c9a959'/><stop offset='100%' stop-color='#e9b949'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.4'><rect x='0' y='0' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='120' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='240' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='360' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='480' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='600' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='720' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='840' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='960' width='1080' height='120' fill='#000000' opacity='0.1'/></g><g opacity='0.7'><circle cx='100' cy='100' r='40' fill='url(#accentGradient)' opacity='0.3'/><circle cx='980' cy='200' r='60' fill='url(#accentGradient)' opacity='0.2'/><circle cx='150' cy='900' r='50' fill='url(#accentGradient)' opacity='0.1'/><circle cx='900' cy='950' r='70' fill='url(#accentGradient)' opacity='0.3'/></g><rect x='0' y='0' width='1080' height='1080' fill='url(#bgGradient)' opacity='0.85'/><path d='M0,180 C180,220 360,150 540,180 C720,210 900,150 1080,180 L1080,0 L0,0 Z' fill='url(#accentGradient)' opacity='0.1'/><path d='M0,980 C180,920 360,950 540,920 C720,890 900,950 1080,920 L1080,1080 L0,1080 Z' fill='url(#accentGradient)' opacity='0.15'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 212.3, "width": 655.4, "height": 90.4, "fill": "#e9b949", "text": "EARLY BIRD OFFER", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 190, "left": 236.75, "width": 606.5, "height": 56.5, "fill": "#ffffff", "text": "Classic Ray-Ban New Wayfarer", "fontSize": 50, "fontFamily": "Teko Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 250, "left": 255.515, "width": 568.97, "height": 33.9, "fill": "#c9a959", "text": "Timeless Style Meets Premium Protection", "fontSize": 30, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 300, "left": 384.40999999999997, "width": 311.18, "height": 22.6, "fill": "#ffffff", "text": "Limited Time Exclusive Discount", "fontSize": 20, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "description"}, {"type": "image", "top": 359.92499999999995, "left": 179.25, "width": 1110, "height": 431, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/EwxP8MfukLFV8TD3eHRJH_1110x431.png", "id": "product_image"}, {"type": "text", "top": 700, "left": 280.125, "width": 519.75, "height": 24.86, "fill": "#ffffff", "text": "100% UV Protection \u2022 Polarized Lenses \u2022 Iconic Design", "fontSize": 22, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "features_1"}, {"type": "text", "top": 740, "left": 209.11, "width": 661.78, "height": 24.86, "fill": "#c9a959", "text": "Premium Black Frame \u2022 Universal Fit \u2022 Original Case Included", "fontSize": 22, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "features_2"}, {"type": "text", "top": 820, "left": 432.44, "width": 215.12, "height": 90.4, "fill": "#e9b949", "text": "\u20b9 4999", "fontSize": 80, "fontFamily": "Squada One-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940, "left": 430.0, "width": 220, "height": 60, "fill": "#e9b949", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 956, "left": 466.935, "width": 146.13, "height": 27.12, "fill": "#16213e", "text": "CLAIM OFFER", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Ray-Ban New Wayfarer - Timeless Style Meets Premium Protection", "description": "\u2022 Authentic Ray-Ban polarized sunglasses with signature design\n\u2022 Premium black glossy acetate frame construction\n\u2022 Dark tinted UV-protective lenses for optimal sun protection\n\u2022 Iconic silver Ray-Ban logo on temple\n\u2022 Comfortable and lightweight wear for all-day use\n\u2022 Universal fit suitable for most face shapes\n\u2022 Includes original Ray-Ban case and cleaning cloth\n\u2022 100% UV protection against harmful rays\n\u2022 Durable high-quality hinges for long-lasting performance\n\u2022 Classic wayfarer style that never goes out of fashion", "price": "\u20b94999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/EwxP8MfukLFV8TD3eHRJH_1110x431.png", "marketplace_url": "", "layout": "centered_hero"}, "banner_details": "\nThis promotional banner features a modern and bold layout crafted to highlight a limited-time sunglasses deal. It has a dark-themed gradient background with subtle geometric overlays and translucent accents to add depth. The design prominently showcases the product image at the center, with layered text elements arranged above and below. The top section introduces the campaign using the \u201cheading\u201d and \u201csubheading\u201d IDs in large and contrasting fonts. Supporting details including the \u201ctagline\u201d, \u201cdescription\u201d, \u201cfeatures_1\u201d, and \u201cfeatures_2\u201d build trust and value. A vibrant \u201cprice\u201d text draws attention, while a golden \u201ccta_button\u201d and matched \u201ccta\u201d label create a strong call-to-action.\n\n**Color Palette:**\n- Midnight Blue: #16213e\n- Deep Charcoal: #1a1a2e\n- Gold Accent: #e9b949\n- Warm Gold: #c9a959\n- Pure White: #ffffff\n- Charcoal Blue (for text button): #16213e\n", "product_color": "  \nThe product image showcases a stylish pair of Ray-Ban sunglasses, with a sleek and modern color palette dominated by deep blacks and subtle greys. The glossy black frame (#000000) is polished and reflective, creating a bold, premium feel. The lenses are dark charcoal grey (#2E2E2E), smoothly blending into the frame while maintaining a slight contrast. Silver metallic accents (#C0C0C0) on the hinges and the printed logo bring highlights that elevate the design. These colors contrast tastefully, emphasizing luxury and minimalism. An effective advertisement banner could use black, charcoal, silver, and white (#FFFFFF) to evoke sophistication, elegance, and timeless appeal.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a2e'/><stop offset='100%' stop-color='#16213e'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#c9a959'/><stop offset='100%' stop-color='#e9b949'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.4'><rect x='0' y='0' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='120' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='240' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='360' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='480' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='600' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='720' width='1080' height='120' fill='#000000' opacity='0.1'/><rect x='0' y='840' width='1080' height='120' fill='#000000' opacity='0.05'/><rect x='0' y='960' width='1080' height='120' fill='#000000' opacity='0.1'/></g><g opacity='0.7'><circle cx='100' cy='100' r='40' fill='url(#accentGradient)' opacity='0.3'/><circle cx='980' cy='200' r='60' fill='url(#accentGradient)' opacity='0.2'/><circle cx='150' cy='900' r='50' fill='url(#accentGradient)' opacity='0.1'/><circle cx='900' cy='950' r='70' fill='url(#accentGradient)' opacity='0.3'/></g><rect x='0' y='0' width='1080' height='1080' fill='url(#bgGradient)' opacity='0.85'/><path d='M0,180 C180,220 360,150 540,180 C720,210 900,150 1080,180 L1080,0 L0,0 Z' fill='url(#accentGradient)' opacity='0.1'/><path d='M0,980 C180,920 360,950 540,920 C720,890 900,950 1080,920 L1080,1080 L0,1080 Z' fill='url(#accentGradient)' opacity='0.15'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 212.3,
+                "width": 655.4,
+                "height": 90.4,
+                "fill": "#e9b949",
+                "text": "EARLY BIRD OFFER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 236.75,
+                "width": 606.5,
+                "height": 56.5,
+                "fill": "#ffffff",
+                "text": "Classic Ray-Ban New Wayfarer",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 250,
+                "left": 255.515,
+                "width": 568.97,
+                "height": 33.9,
+                "fill": "#c9a959",
+                "text": "Timeless Style Meets Premium Protection",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 384.40999999999997,
+                "width": 311.18,
+                "height": 22.6,
+                "fill": "#ffffff",
+                "text": "Limited Time Exclusive Discount",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 359.92499999999995,
+                "left": 179.25,
+                "width": 721.5,
+                "height": 280.15000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/EwxP8MfukLFV8TD3eHRJH_1110x431.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 280.125,
+                "width": 519.75,
+                "height": 24.86,
+                "fill": "#ffffff",
+                "text": "100% UV Protection \u2022 Polarized Lenses \u2022 Iconic Design",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "features_1"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 209.11,
+                "width": 661.78,
+                "height": 24.86,
+                "fill": "#c9a959",
+                "text": "Premium Black Frame \u2022 Universal Fit \u2022 Original Case Included",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "features_2"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 432.44,
+                "width": 215.12,
+                "height": 90.4,
+                "fill": "#e9b949",
+                "text": "\u20b9 4999",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#e9b949",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 956,
+                "left": 466.935,
+                "width": 146.13,
+                "height": 27.12,
+                "fill": "#16213e",
+                "text": "CLAIM OFFER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Ray-Ban New Wayfarer - Timeless Style Meets Premium Protection",
+            "description": "\u2022 Authentic Ray-Ban polarized sunglasses with signature design\n\u2022 Premium black glossy acetate frame construction\n\u2022 Dark tinted UV-protective lenses for optimal sun protection\n\u2022 Iconic silver Ray-Ban logo on temple\n\u2022 Comfortable and lightweight wear for all-day use\n\u2022 Universal fit suitable for most face shapes\n\u2022 Includes original Ray-Ban case and cleaning cloth\n\u2022 100% UV protection against harmful rays\n\u2022 Durable high-quality hinges for long-lasting performance\n\u2022 Classic wayfarer style that never goes out of fashion",
+            "price": "\u20b94999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/EwxP8MfukLFV8TD3eHRJH_1110x431.png",
+        "marketplace_url": "",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis promotional banner features a modern and bold layout crafted to highlight a limited-time sunglasses deal. It has a dark-themed gradient background with subtle geometric overlays and translucent accents to add depth. The design prominently showcases the product image at the center, with layered text elements arranged above and below. The top section introduces the campaign using the \u201cheading\u201d and \u201csubheading\u201d IDs in large and contrasting fonts. Supporting details including the \u201ctagline\u201d, \u201cdescription\u201d, \u201cfeatures_1\u201d, and \u201cfeatures_2\u201d build trust and value. A vibrant \u201cprice\u201d text draws attention, while a golden \u201ccta_button\u201d and matched \u201ccta\u201d label create a strong call-to-action.\n\n**Color Palette:**\n- Midnight Blue: #16213e\n- Deep Charcoal: #1a1a2e\n- Gold Accent: #e9b949\n- Warm Gold: #c9a959\n- Pure White: #ffffff\n- Charcoal Blue (for text button): #16213e\n",
+    "product_color": "  \nThe product image showcases a stylish pair of Ray-Ban sunglasses, with a sleek and modern color palette dominated by deep blacks and subtle greys. The glossy black frame (#000000) is polished and reflective, creating a bold, premium feel. The lenses are dark charcoal grey (#2E2E2E), smoothly blending into the frame while maintaining a slight contrast. Silver metallic accents (#C0C0C0) on the hinges and the printed logo bring highlights that elevate the design. These colors contrast tastefully, emphasizing luxury and minimalism. An effective advertisement banner could use black, charcoal, silver, and white (#FFFFFF) to evoke sophistication, elegance, and timeless appeal.  \n"
+}

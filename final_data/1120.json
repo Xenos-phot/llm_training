@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#2D3047'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#F2EFE9'/><path d='M1080 0 L200 0 L1080 800 Z' fill='#EADFD7'/><path d='M1080 0 L400 0 L1080 580 Z' fill='#D8B4A0' opacity='0.5'/><circle cx='870' cy='70' r='30' fill='#D8B4A0' opacity='0.3'/><circle cx='930' cy='130' r='20' fill='#D8B4A0' opacity='0.3'/><circle cx='800' cy='120' r='15' fill='#D8B4A0' opacity='0.3'/><line x1='0' y1='540' x2='1080' y2='540' stroke='#D8B4A0' stroke-width='1' opacity='0.2'/><line x1='540' y1='0' x2='540' y2='1080' stroke='#D8B4A0' stroke-width='1' opacity='0.2'/><path d='M0 800 L200 1080 L0 1080 Z' fill='#3D4265' opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 318.94, "height": 178.99, "fill": "#F2EFE9", "text": "ELEGANT\nBUSINESS", "fontSize": 72, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 240, "left": 50, "width": 396.65, "height": 56.5, "fill": "#D8B4A0", "text": "TWEED SUIT SET", "fontSize": 50, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 52, "width": 443.98, "height": 209.73, "fill": "#F2EFE9", "text": "\u2022 Premium Textured Tweed Fabric\n\u2022 Delicate Lace Trim Detailing\n\u2022 Fitted Blazer & Pencil Skirt\n\u2022 Versatile 3/4 Length Sleeves", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 50, "width": 237.08, "height": 101.7, "fill": "#F2EFE9", "text": "$110", "fontSize": 90, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 50, "width": 240, "height": 65, "fill": "#D8B4A0", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 820, "left": 90, "width": 135.47, "height": 29.38, "fill": "#2D3047", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 580, "left": 50, "width": 474.19, "height": 36.16, "fill": "#D8B4A0", "text": "Elevate Your Professional Style", "fontSize": 32, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 180, "left": 530, "width": 425, "height": 878, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/8kHTlTaqHtyIehsyZQ9wk_425x878.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegant Tweed Two-Piece Business Suit Set with Lace Trim", "description": "\u2022 Premium textured tweed fabric in sophisticated gray pattern\n\u2022 Classic fitted blazer with delicate lace trim detailing\n\u2022 Sleek pencil skirt with figure-flattering silhouette\n\u2022 3/4 length sleeves for versatile year-round wear\n\u2022 Professional white cami included for complete ensemble\n\u2022 Perfect blend of modern style and traditional tailoring\n\u2022 Knee-length skirt suitable for office and formal occasions\n\u2022 Decorative trim adds feminine touch to structured design\n\u2022 Available in sizes to fit various body types\n\u2022 Easy-care fabric maintains shape throughout the day", "price": "$110"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/8kHTlTaqHtyIehsyZQ9wk_425x878.png", "marketplace_url": "blob:https://studio.phot.ai/f829c616-ff43-412b-bf72-c66a424dd7e6", "layout": "diagonal_split"}, "banner_details": "\nThis banner showcases a fashion advertisement for a women's tweed suit set. It features a diagonal, geometric split background with overlapping triangular patterns in sophisticated shades. The left section houses the textual information, including a large, bold heading (`heading`), a stylized subheading (`subheading`), a product feature list in bullet form (`description`), and a promotional tagline (`tagline`). The price is prominently displayed using large typography (`price`), followed by a call-to-action button (`cta_button`) with contrasting text (`cta`). On the right side, a model wearing the suit (`product_image`) stands against a soft-toned backdrop with circular accent shapes.\n\n**Color Palette:**\n- Midnight Blue (#2D3047)\n- Soft Beige (#F2EFE9)\n- Blush Pink (#EADFD7)\n- Muted Rose (#D8B4A0)\n- Deep Slate (#3D4265)\n", "product_color": "\nThe product image features a sophisticated women's tweed skirt suit in a soft blend of colors, ideal for a polished advertisement banner. The outfit combines muted lavender (#A89BA2), soft cream (#F3EFEA), and a touch of charcoal grey (#4C4A4E) woven into the tweed fabric, giving it both texture and depth. A clean white inner blouse (#FFFFFF) adds brightness and contrast, while cream piping detail accentuates the jacket\u2019s shape. The warm, natural skin tone (#F9D8C1) enhances the ensemble\u2019s elegance. These colors blend seamlessly for a cohesive look while maintaining individual highlights. The palette conveys grace, confidence, and professional charm.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#2D3047'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#F2EFE9'/><path d='M1080 0 L200 0 L1080 800 Z' fill='#EADFD7'/><path d='M1080 0 L400 0 L1080 580 Z' fill='#D8B4A0' opacity='0.5'/><circle cx='870' cy='70' r='30' fill='#D8B4A0' opacity='0.3'/><circle cx='930' cy='130' r='20' fill='#D8B4A0' opacity='0.3'/><circle cx='800' cy='120' r='15' fill='#D8B4A0' opacity='0.3'/><line x1='0' y1='540' x2='1080' y2='540' stroke='#D8B4A0' stroke-width='1' opacity='0.2'/><line x1='540' y1='0' x2='540' y2='1080' stroke='#D8B4A0' stroke-width='1' opacity='0.2'/><path d='M0 800 L200 1080 L0 1080 Z' fill='#3D4265' opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 318.94,
+                "height": 178.99,
+                "fill": "#F2EFE9",
+                "text": "ELEGANT\nBUSINESS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 50,
+                "width": 396.65,
+                "height": 56.5,
+                "fill": "#D8B4A0",
+                "text": "TWEED SUIT SET",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 52,
+                "width": 443.98,
+                "height": 209.73,
+                "fill": "#F2EFE9",
+                "text": "\u2022 Premium Textured Tweed Fabric\n\u2022 Delicate Lace Trim Detailing\n\u2022 Fitted Blazer & Pencil Skirt\n\u2022 Versatile 3/4 Length Sleeves",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 50,
+                "width": 237.08,
+                "height": 101.7,
+                "fill": "#F2EFE9",
+                "text": "$110",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 50,
+                "width": 240,
+                "height": 65,
+                "fill": "#D8B4A0",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 90,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#2D3047",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 50,
+                "width": 474.19,
+                "height": 36.16,
+                "fill": "#D8B4A0",
+                "text": "Elevate Your Professional Style",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 180,
+                "left": 530,
+                "width": 318.75,
+                "height": 658.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/8kHTlTaqHtyIehsyZQ9wk_425x878.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegant Tweed Two-Piece Business Suit Set with Lace Trim",
+            "description": "\u2022 Premium textured tweed fabric in sophisticated gray pattern\n\u2022 Classic fitted blazer with delicate lace trim detailing\n\u2022 Sleek pencil skirt with figure-flattering silhouette\n\u2022 3/4 length sleeves for versatile year-round wear\n\u2022 Professional white cami included for complete ensemble\n\u2022 Perfect blend of modern style and traditional tailoring\n\u2022 Knee-length skirt suitable for office and formal occasions\n\u2022 Decorative trim adds feminine touch to structured design\n\u2022 Available in sizes to fit various body types\n\u2022 Easy-care fabric maintains shape throughout the day",
+            "price": "$110"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/8kHTlTaqHtyIehsyZQ9wk_425x878.png",
+        "marketplace_url": "blob:https://studio.phot.ai/f829c616-ff43-412b-bf72-c66a424dd7e6",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner showcases a fashion advertisement for a women's tweed suit set. It features a diagonal, geometric split background with overlapping triangular patterns in sophisticated shades. The left section houses the textual information, including a large, bold heading (`heading`), a stylized subheading (`subheading`), a product feature list in bullet form (`description`), and a promotional tagline (`tagline`). The price is prominently displayed using large typography (`price`), followed by a call-to-action button (`cta_button`) with contrasting text (`cta`). On the right side, a model wearing the suit (`product_image`) stands against a soft-toned backdrop with circular accent shapes.\n\n**Color Palette:**\n- Midnight Blue (#2D3047)\n- Soft Beige (#F2EFE9)\n- Blush Pink (#EADFD7)\n- Muted Rose (#D8B4A0)\n- Deep Slate (#3D4265)\n",
+    "product_color": "\nThe product image features a sophisticated women's tweed skirt suit in a soft blend of colors, ideal for a polished advertisement banner. The outfit combines muted lavender (#A89BA2), soft cream (#F3EFEA), and a touch of charcoal grey (#4C4A4E) woven into the tweed fabric, giving it both texture and depth. A clean white inner blouse (#FFFFFF) adds brightness and contrast, while cream piping detail accentuates the jacket\u2019s shape. The warm, natural skin tone (#F9D8C1) enhances the ensemble\u2019s elegance. These colors blend seamlessly for a cohesive look while maintaining individual highlights. The palette conveys grace, confidence, and professional charm.\n"
+}

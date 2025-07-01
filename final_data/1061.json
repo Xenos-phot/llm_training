@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A2B4A'/><stop offset='100%' style='stop-color:#2A3B5A'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F2F2F2'/><stop offset='100%' style='stop-color:#E6E6E6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><g opacity='0.1' fill='#ffffff'><circle cx='200' cy='200' r='5'/><circle cx='240' cy='200' r='5'/><circle cx='280' cy='200' r='5'/><circle cx='200' cy='240' r='5'/><circle cx='240' cy='240' r='5'/><circle cx='280' cy='240' r='5'/><circle cx='200' cy='280' r='5'/><circle cx='240' cy='280' r='5'/><circle cx='280' cy='280' r='5'/></g><g opacity='0.1' fill='#ffffff'><circle cx='600' cy='600' r='5'/><circle cx='640' cy='600' r='5'/><circle cx='680' cy='600' r='5'/><circle cx='600' cy='640' r='5'/><circle cx='640' cy='640' r='5'/><circle cx='680' cy='640' r='5'/><circle cx='600' cy='680' r='5'/><circle cx='640' cy='680' r='5'/><circle cx='680' cy='680' r='5'/></g><g opacity='0.05'><path d='M100,100 L150,150' stroke='#ffffff' stroke-width='2'/><path d='M300,200 L350,250' stroke='#ffffff' stroke-width='2'/><path d='M200,300 L250,350' stroke='#ffffff' stroke-width='2'/></g><path d='M0,540 L540,0' stroke='#E74C3C' stroke-width='3' opacity='0.3'/><path d='M0,640 L640,0' stroke='#E74C3C' stroke-width='2' opacity='0.2'/><path d='M0,740 L740,0' stroke='#E74C3C' stroke-width='1' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 455.6, "height": 135.6, "fill": "#FFFFFF", "text": "CLASSIC RED", "fontSize": 120, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 190, "left": 40, "width": 375.8, "height": 135.6, "fill": "#FFFFFF", "text": "SNEAKERS", "fontSize": 120, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 320, "left": 45, "width": 437.84, "height": 67.8, "fill": "#E74C3C", "text": "TIMELESS STYLE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 410, "left": 45, "width": 294.57, "height": 188.03, "fill": "#FFFFFF", "text": "\u2022 Iconic Canvas Design\n\u2022 Durable Rubber Sole\n\u2022 Cushioned Insole\n\u2022 Versatile Style", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 630, "left": 45, "width": 316.91, "height": 101.7, "fill": "#FFFFFF", "text": "\u20b9 4999", "fontSize": 90, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 750, "left": 45, "width": 220, "height": 70, "fill": "#E74C3C", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 765, "left": 80, "width": 166.05, "height": 36.16, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 517.61, "left": 350.54, "width": 1063, "height": 561, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/b6B_WM8UZjJErEHL8n3ac_1063x561.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Red Canvas Sneakers - Timeless Style & Ultimate Comfort", "description": "\u2022 Iconic red canvas upper construction for lasting durability\n\u2022 Classic white rubber toe cap and bumper for added protection\n\u2022 Durable white rubber outsole with signature diamond tread pattern\n\u2022 Traditional white lace-up closure for adjustable fit\n\u2022 Contrast white stitching details for classic aesthetic\n\u2022 Cushioned insole for all-day comfort\n\u2022 Breathable canvas material ideal for casual wear\n\u2022 Versatile design suitable for any casual outfit\n\u2022 Available in unisex sizing\n\u2022 Timeless low-top silhouette perfect for everyday wear", "price": "\u20b94999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/b6B_WM8UZjJErEHL8n3ac_1063x561.png", "marketplace_url": "", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a modern and stylish layout that highlights a product \u2014 a pair of red sneakers \u2014 in an eye-catching asymmetrical composition. The background is split diagonally with a deep navy blue (#1A2B4A) occupying the top-left triangle and a clean light grey (#F2F2F2) diagonally across the bottom-right. Diagonal red accent lines add a sense of motion and energy. Text layer `heading_1` and `heading_2` introduce the product name in large uppercase white typography. The tagline `tagline` in bold red adds emphasis. A bullet list under `description` details product features. The `price` and a strong red `cta_background` with \"SHOP NOW\" call-to-action in `cta` complete the hierarchy. The product image `product_image` is diagonally tilted for a dynamic look.\n\n**Color Palette:**\n- Navy Blue: #1A2B4A\n- Scarlet Red: #E74C3C\n- Light Grey: #F2F2F2\n- White: #FFFFFF\n- Shadow Grey Gradient: #E6E6E6\n\n", "product_color": "\nThe product image features vibrant red canvas sneakers with white rubber soles and laces, contrasted with fine black detailing. Red (#D72323) takes center stage, radiating energy and boldness\u2014ideal for drawing attention in an ad banner. White (#FFFFFF) adds cleanliness and simplicity, balancing the bright red and giving a sense of style and purity. The subtle touch of black (#1C1C1C) acts as an outline to create visual definition and structure. These colors are harmoniously blended\u2014the white laces stroke across the red canvas, highlighted by even lighting, creating a sharp, fresh contrast that feels dynamic and youthful. Perfect for targeting energetic, fashion-forward audiences.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A2B4A'/><stop offset='100%' style='stop-color:#2A3B5A'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F2F2F2'/><stop offset='100%' style='stop-color:#E6E6E6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><g opacity='0.1' fill='#ffffff'><circle cx='200' cy='200' r='5'/><circle cx='240' cy='200' r='5'/><circle cx='280' cy='200' r='5'/><circle cx='200' cy='240' r='5'/><circle cx='240' cy='240' r='5'/><circle cx='280' cy='240' r='5'/><circle cx='200' cy='280' r='5'/><circle cx='240' cy='280' r='5'/><circle cx='280' cy='280' r='5'/></g><g opacity='0.1' fill='#ffffff'><circle cx='600' cy='600' r='5'/><circle cx='640' cy='600' r='5'/><circle cx='680' cy='600' r='5'/><circle cx='600' cy='640' r='5'/><circle cx='640' cy='640' r='5'/><circle cx='680' cy='640' r='5'/><circle cx='600' cy='680' r='5'/><circle cx='640' cy='680' r='5'/><circle cx='680' cy='680' r='5'/></g><g opacity='0.05'><path d='M100,100 L150,150' stroke='#ffffff' stroke-width='2'/><path d='M300,200 L350,250' stroke='#ffffff' stroke-width='2'/><path d='M200,300 L250,350' stroke='#ffffff' stroke-width='2'/></g><path d='M0,540 L540,0' stroke='#E74C3C' stroke-width='3' opacity='0.3'/><path d='M0,640 L640,0' stroke='#E74C3C' stroke-width='2' opacity='0.2'/><path d='M0,740 L740,0' stroke='#E74C3C' stroke-width='1' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 455.6,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "CLASSIC RED",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 40,
+                "width": 375.8,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "SNEAKERS",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 45,
+                "width": 437.84,
+                "height": 67.8,
+                "fill": "#E74C3C",
+                "text": "TIMELESS STYLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 410,
+                "left": 45,
+                "width": 294.57,
+                "height": 188.03,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Iconic Canvas Design\n\u2022 Durable Rubber Sole\n\u2022 Cushioned Insole\n\u2022 Versatile Style",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 630,
+                "left": 45,
+                "width": 316.91,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 4999",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 750,
+                "left": 45,
+                "width": 220,
+                "height": 70,
+                "fill": "#E74C3C",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 765,
+                "left": 80,
+                "width": 166.05,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 517.61,
+                "left": 350.54,
+                "width": 637.8,
+                "height": 336.59999999999997,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/b6B_WM8UZjJErEHL8n3ac_1063x561.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Red Canvas Sneakers - Timeless Style & Ultimate Comfort",
+            "description": "\u2022 Iconic red canvas upper construction for lasting durability\n\u2022 Classic white rubber toe cap and bumper for added protection\n\u2022 Durable white rubber outsole with signature diamond tread pattern\n\u2022 Traditional white lace-up closure for adjustable fit\n\u2022 Contrast white stitching details for classic aesthetic\n\u2022 Cushioned insole for all-day comfort\n\u2022 Breathable canvas material ideal for casual wear\n\u2022 Versatile design suitable for any casual outfit\n\u2022 Available in unisex sizing\n\u2022 Timeless low-top silhouette perfect for everyday wear",
+            "price": "\u20b94999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/b6B_WM8UZjJErEHL8n3ac_1063x561.png",
+        "marketplace_url": "",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a modern and stylish layout that highlights a product \u2014 a pair of red sneakers \u2014 in an eye-catching asymmetrical composition. The background is split diagonally with a deep navy blue (#1A2B4A) occupying the top-left triangle and a clean light grey (#F2F2F2) diagonally across the bottom-right. Diagonal red accent lines add a sense of motion and energy. Text layer `heading_1` and `heading_2` introduce the product name in large uppercase white typography. The tagline `tagline` in bold red adds emphasis. A bullet list under `description` details product features. The `price` and a strong red `cta_background` with \"SHOP NOW\" call-to-action in `cta` complete the hierarchy. The product image `product_image` is diagonally tilted for a dynamic look.\n\n**Color Palette:**\n- Navy Blue: #1A2B4A\n- Scarlet Red: #E74C3C\n- Light Grey: #F2F2F2\n- White: #FFFFFF\n- Shadow Grey Gradient: #E6E6E6\n\n",
+    "product_color": "\nThe product image features vibrant red canvas sneakers with white rubber soles and laces, contrasted with fine black detailing. Red (#D72323) takes center stage, radiating energy and boldness\u2014ideal for drawing attention in an ad banner. White (#FFFFFF) adds cleanliness and simplicity, balancing the bright red and giving a sense of style and purity. The subtle touch of black (#1C1C1C) acts as an outline to create visual definition and structure. These colors are harmoniously blended\u2014the white laces stroke across the red canvas, highlighted by even lighting, creating a sharp, fresh contrast that feels dynamic and youthful. Perfect for targeting energetic, fashion-forward audiences.\n"
+}

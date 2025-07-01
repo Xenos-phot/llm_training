@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1A1A2E'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 L0 0 Z' fill='#1A1A2E'/><circle cx='540' cy='540' r='800' fill='#0F3460' opacity='0.4'/><circle cx='540' cy='540' r='600' fill='#16213E' opacity='0.7'/><path d='M-100 800 C50 780 200 820 400 800 C600 780 800 820 1180 800 L1180 1080 L-100 1080 L-100 800 Z' fill='#0F3460' opacity='0.6'/><rect x='0' y='800' width='1080' height='280' fill='#16213E' opacity='0.3'/><circle cx='840' cy='200' r='100' fill='#C0C0C0' opacity='0.1'/><circle cx='240' cy='300' r='80' fill='#C0C0C0' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 227.24, "width": 625.52, "height": 101.7, "fill": "#FFFFFF", "text": "AFNAN 9PM", "fontSize": 90, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 220, "left": 262.84, "width": 554.32, "height": 45.2, "fill": "#C0C0C0", "text": "LUXURY FRAGRANCE FOR MEN", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 272.525, "left": 428.525, "width": 343, "height": 823, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png", "id": "product_image"}, {"type": "text", "top": 870, "left": 412.46, "width": 255.08, "height": 90.4, "fill": "#FFFFFF", "text": "$27.00", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 440.0, "width": 200, "height": 60, "fill": "#C0C0C0", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 995.31, "left": 472.265, "width": 135.47, "height": 29.38, "fill": "#1A1A2E", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **", "price": "27.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png", "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7", "layout": "minimalist_center"}, "banner_details": "\nThe banner presents a premium male fragrance ad with a bold, modern aesthetic. The background features layered radial and wavy elements in varying navy tones, adding depth. At the center, a realistic perfume bottle showcases the product visually. Above it, a bold title text layer (`heading`) in futuristic font displays the product's name, followed by a sleek subheading (`tagline`) conveying luxury and targeting male consumers. Below the bottle is a prominent price text (`price`), and beneath that, a rectangular call-to-action button (`cta_button`) with contrasting text (`cta`) invites the user to shop. The layout centers visual hierarchy and blends typography with a product-forward style.\n\n**Color Palette:**\n- Dark Navy Blue (#1A1A2E)\n- Deep Blue (#0F3460)\n- Midnight Blue (#16213E)\n- Light Gray (#C0C0C0)\n- Pure White (#FFFFFF)\n", "product_color": "  \nThe product image showcases a sleek and modern perfume bottle with a monochromatic color scheme that exudes elegance and sophistication. Dominated by deep black (#000000) forming the background of the label, it creates a bold contrast with the crisp white (#FFFFFF) typography of \u201c9 pm\u201d and other text elements, making the brand name and product details stand out prominently. The silver metallic cap and bottle edges blend shades of light gray (#C0C0C0) and chrome-like reflections, adding a luxurious and reflective touch. This minimalistic color palette supports a high-contrast, impactful advertisement banner with an emphasis on chic, night-time elegance.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1A1A2E'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 L0 0 Z' fill='#1A1A2E'/><circle cx='540' cy='540' r='800' fill='#0F3460' opacity='0.4'/><circle cx='540' cy='540' r='600' fill='#16213E' opacity='0.7'/><path d='M-100 800 C50 780 200 820 400 800 C600 780 800 820 1180 800 L1180 1080 L-100 1080 L-100 800 Z' fill='#0F3460' opacity='0.6'/><rect x='0' y='800' width='1080' height='280' fill='#16213E' opacity='0.3'/><circle cx='840' cy='200' r='100' fill='#C0C0C0' opacity='0.1'/><circle cx='240' cy='300' r='80' fill='#C0C0C0' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 227.24,
+                "width": 625.52,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "AFNAN 9PM",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 262.84,
+                "width": 554.32,
+                "height": 45.2,
+                "fill": "#C0C0C0",
+                "text": "LUXURY FRAGRANCE FOR MEN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 272.525,
+                "left": 428.525,
+                "width": 222.95000000000002,
+                "height": 534.95,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 870,
+                "left": 412.46,
+                "width": 255.08,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$27.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#C0C0C0",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 995.31,
+                "left": 472.265,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#1A1A2E",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **",
+            "price": "27.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png",
+        "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThe banner presents a premium male fragrance ad with a bold, modern aesthetic. The background features layered radial and wavy elements in varying navy tones, adding depth. At the center, a realistic perfume bottle showcases the product visually. Above it, a bold title text layer (`heading`) in futuristic font displays the product's name, followed by a sleek subheading (`tagline`) conveying luxury and targeting male consumers. Below the bottle is a prominent price text (`price`), and beneath that, a rectangular call-to-action button (`cta_button`) with contrasting text (`cta`) invites the user to shop. The layout centers visual hierarchy and blends typography with a product-forward style.\n\n**Color Palette:**\n- Dark Navy Blue (#1A1A2E)\n- Deep Blue (#0F3460)\n- Midnight Blue (#16213E)\n- Light Gray (#C0C0C0)\n- Pure White (#FFFFFF)\n",
+    "product_color": "  \nThe product image showcases a sleek and modern perfume bottle with a monochromatic color scheme that exudes elegance and sophistication. Dominated by deep black (#000000) forming the background of the label, it creates a bold contrast with the crisp white (#FFFFFF) typography of \u201c9 pm\u201d and other text elements, making the brand name and product details stand out prominently. The silver metallic cap and bottle edges blend shades of light gray (#C0C0C0) and chrome-like reflections, adding a luxurious and reflective touch. This minimalistic color palette supports a high-contrast, impactful advertisement banner with an emphasis on chic, night-time elegance.  \n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A2F50'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='#091428' opacity='0.8'/><path d='M1080 0 L0 1080' stroke='#FFD700' stroke-width='3' opacity='0.5'/><path d='M1080 50 L50 1080' stroke='#FFD700' stroke-width='2' opacity='0.3'/><path d='M1080 100 L100 1080' stroke='#FFD700' stroke-width='1' opacity='0.2'/><circle cx='200' cy='200' r='50' fill='#FFD700' opacity='0.1'/><circle cx='900' cy='900' r='70' fill='#FFD700' opacity='0.1'/><circle cx='540' cy='540' r='300' fill='#FFD700' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 60, "width": 382.48, "height": 166.11, "fill": "#FFD700", "text": "PREMIUM\nSTUDIO PRO", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 280, "left": 60, "width": 488.24, "height": 67.8, "fill": "#FFFFFF", "text": "BUY ONE, GET ONE FREE!", "fontSize": 60, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 400, "left": 60, "width": 436.91, "height": 186.45, "fill": "#FFFFFF", "text": "\u2022 Large 50mm dynamic drivers\n\u2022 Plush memory foam ear cushions\n\u2022 Professional-grade noise isolation\n\u2022 Extended battery life", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 60, "width": 228.56, "height": 90.4, "fill": "#FFD700", "text": "\u20b9 345", "fontSize": 80, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 60, "width": 200, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 815, "left": 82, "width": 157.62, "height": 31.64, "fill": "#1A2F50", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 287.94, "left": 520.13, "width": 740, "height": 810, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/ZZEwnhC3rKnKOn88wVE0N_740x810.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Studio Pro Wireless Headphones - Immersive Sound Experience", "description": "\u2022 Large 50mm dynamic drivers for superior sound quality\n\u2022 Plush memory foam ear cushions for extended comfort\n\u2022 Professional-grade noise isolation design\n\u2022 Adjustable padded headband for perfect fit\n\u2022 Premium black leather and metal construction\n\u2022 Swivel ear cups for DJ-style monitoring\n\u2022 High-quality wireless connectivity with minimal latency\n\u2022 Extended battery life for long listening sessions\n\u2022 Studio-grade sound reproduction for professionals\n\u2022 Foldable design for easy storage and portability\n\u2022 Deep, rich bass response with crystal clear highs\n\u2022 Compatible with all Bluetooth-enabled devices", "price": "\u20b90345"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/ZZEwnhC3rKnKOn88wVE0N_740x810.png", "marketplace_url": "blob:http://localhost:3001/7aeb0c97-13c0-4120-ae93-b3d0ce2cfc15", "layout": "z_pattern"}, "banner_details": "\nThis promotional banner features a modern and bold design with a strong emphasis on product marketing. The background is a layered composition using dark navy and blackish-blue tones accented by diagonal golden lines and faint circular gradients, establishing a high-tech and premium feel. The headline text (id: \"heading\") is large, bold, and colored in bright yellow for high visibility. Below it, a striking promotional tagline (id: \"tagline\") is styled in clean white to contrast the dark backdrop. A feature list (id: \"description\") follows in a concise bullet format. The price highlight (id: \"price\") is vivid and centrally positioned in yellow, while the CTA button (id: \"cta_background\" and \"cta\") uses the same yellow with dark blue text to draw immediate attention. A sleek product image (id: \"product_image\") of headphones is prominently placed on the right, balancing the composition.\n\n**Color Palette:**\n- Dark Navy: #1A2F50\n- Deep Blue-Black: #091428\n- Golden Yellow: #FFD700\n- White: #FFFFFF\n- Accent Shadow (Gold overlays): rgba(255, 215, 0, 0.1 - 0.5)\n", "product_color": "  \nThe product image showcases sleek, over-ear headphones with a modern and sophisticated design. The dominant color is a deep metallic black (#1C1C1E), giving the product a premium, high-tech appearance. Subtle highlights in gunmetal gray (#3A3B3C) and silvery blue (#AAB2BD) add depth and reflectivity, enhancing the contours and textures of the headphones. Soft shadows and gradients are used to blend these tones seamlessly, emphasizing the product's curves and build quality. A color palette for an advertisement banner could include: deep black (#1C1C1E), gunmetal gray (#3A3B3C), silvery blue (#AAB2BD), and glossy charcoal (#2E2E2E), reflecting both elegance and cutting-edge design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A2F50'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='#091428' opacity='0.8'/><path d='M1080 0 L0 1080' stroke='#FFD700' stroke-width='3' opacity='0.5'/><path d='M1080 50 L50 1080' stroke='#FFD700' stroke-width='2' opacity='0.3'/><path d='M1080 100 L100 1080' stroke='#FFD700' stroke-width='1' opacity='0.2'/><circle cx='200' cy='200' r='50' fill='#FFD700' opacity='0.1'/><circle cx='900' cy='900' r='70' fill='#FFD700' opacity='0.1'/><circle cx='540' cy='540' r='300' fill='#FFD700' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 60,
+                "width": 382.48,
+                "height": 166.11,
+                "fill": "#FFD700",
+                "text": "PREMIUM\nSTUDIO PRO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 60,
+                "width": 488.24,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "BUY ONE, GET ONE FREE!",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 60,
+                "width": 436.91,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Large 50mm dynamic drivers\n\u2022 Plush memory foam ear cushions\n\u2022 Professional-grade noise isolation\n\u2022 Extended battery life",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 228.56,
+                "height": 90.4,
+                "fill": "#FFD700",
+                "text": "\u20b9 345",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 815,
+                "left": 82,
+                "width": 157.62,
+                "height": 31.64,
+                "fill": "#1A2F50",
+                "text": "SHOP NOW",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 287.94,
+                "left": 520.13,
+                "width": 495.8,
+                "height": 542.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/ZZEwnhC3rKnKOn88wVE0N_740x810.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Studio Pro Wireless Headphones - Immersive Sound Experience",
+            "description": "\u2022 Large 50mm dynamic drivers for superior sound quality\n\u2022 Plush memory foam ear cushions for extended comfort\n\u2022 Professional-grade noise isolation design\n\u2022 Adjustable padded headband for perfect fit\n\u2022 Premium black leather and metal construction\n\u2022 Swivel ear cups for DJ-style monitoring\n\u2022 High-quality wireless connectivity with minimal latency\n\u2022 Extended battery life for long listening sessions\n\u2022 Studio-grade sound reproduction for professionals\n\u2022 Foldable design for easy storage and portability\n\u2022 Deep, rich bass response with crystal clear highs\n\u2022 Compatible with all Bluetooth-enabled devices",
+            "price": "\u20b90345"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/ZZEwnhC3rKnKOn88wVE0N_740x810.png",
+        "marketplace_url": "blob:http://localhost:3001/7aeb0c97-13c0-4120-ae93-b3d0ce2cfc15",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis promotional banner features a modern and bold design with a strong emphasis on product marketing. The background is a layered composition using dark navy and blackish-blue tones accented by diagonal golden lines and faint circular gradients, establishing a high-tech and premium feel. The headline text (id: \"heading\") is large, bold, and colored in bright yellow for high visibility. Below it, a striking promotional tagline (id: \"tagline\") is styled in clean white to contrast the dark backdrop. A feature list (id: \"description\") follows in a concise bullet format. The price highlight (id: \"price\") is vivid and centrally positioned in yellow, while the CTA button (id: \"cta_background\" and \"cta\") uses the same yellow with dark blue text to draw immediate attention. A sleek product image (id: \"product_image\") of headphones is prominently placed on the right, balancing the composition.\n\n**Color Palette:**\n- Dark Navy: #1A2F50\n- Deep Blue-Black: #091428\n- Golden Yellow: #FFD700\n- White: #FFFFFF\n- Accent Shadow (Gold overlays): rgba(255, 215, 0, 0.1 - 0.5)\n",
+    "product_color": "  \nThe product image showcases sleek, over-ear headphones with a modern and sophisticated design. The dominant color is a deep metallic black (#1C1C1E), giving the product a premium, high-tech appearance. Subtle highlights in gunmetal gray (#3A3B3C) and silvery blue (#AAB2BD) add depth and reflectivity, enhancing the contours and textures of the headphones. Soft shadows and gradients are used to blend these tones seamlessly, emphasizing the product's curves and build quality. A color palette for an advertisement banner could include: deep black (#1C1C1E), gunmetal gray (#3A3B3C), silvery blue (#AAB2BD), and glossy charcoal (#2E2E2E), reflecting both elegance and cutting-edge design.  \n"
+}

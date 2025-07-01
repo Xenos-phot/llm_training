@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#5D2A23'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#8B4B44'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#4A221C'/><g opacity='0.2'><circle cx='200' cy='200' r='50' fill='#E8C39E'/><circle cx='900' cy='900' r='80' fill='#E8C39E'/><circle cx='150' cy='800' r='30' fill='#E8C39E'/></g><path d='M0 0 L1080 1080' stroke='#E8C39E' stroke-width='2' opacity='0.3'/><path d='M200 0 L1080 880' stroke='#E8C39E' stroke-width='1' opacity='0.2'/><path d='M0 200 L880 1080' stroke='#E8C39E' stroke-width='1' opacity='0.2'/><g opacity='0.1'><rect x='50' y='50' width='200' height='200' rx='10' fill='#E8C39E'/><rect x='900' y='100' width='120' height='120' rx='10' fill='#E8C39E'/><rect x='100' y='900' width='120' height='120' rx='10' fill='#E8C39E'/></g></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 40, "width": 507.78, "height": 107.35, "fill": "#E8C39E", "text": "CROCK-POT", "fontSize": 95, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 42, "width": 356.34, "height": 79.1, "fill": "#FFFFFF", "text": "COOK & CARRY", "fontSize": 70, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 290, "left": 42, "width": 498.62, "height": 50.85, "fill": "#E8C39E", "text": "PROGRAMMABLE SLOW COOKER", "fontSize": 45, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 390, "left": 42, "width": 497.26, "height": 188.03, "fill": "#FFFFFF", "text": "\u2713 7-Quart Capacity (Feeds 9+ People)\n\u2713 Digital Countdown Control\n\u2713 Travel-Proof Locking Lid\n\u2713 Dishwasher Safe Parts", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "rect", "top": 350, "left": 42, "width": 400, "height": 3, "fill": "#E8C39E", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 770, "left": 42, "width": 328.84, "height": 96.05, "fill": "#E8C39E", "text": "$49.96", "fontSize": 85, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 42, "width": 200, "height": 60, "fill": "#E8C39E", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 917, "left": 77, "width": 145.54, "height": 31.64, "fill": "#5D2A23", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 418, "left": 413, "width": 1295, "height": 807, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Whether you&rsquo;re feeding friends and family at home, or taking your meal on the go or to an event, the Crockpot 7 QT Cook & Carry Programmable Slow Cooker makes sharing a home-cooked meal with loved ones easy and effortless. The Cook & Carry travel-proof locking lid provides a tight seal to prevent leaks and spills, for no mess on the go, and convenient handles make it easy to carry and take your favorite slow cooked meals anywhere. A digital countdown control allows you to easily program your slow cooker from 30 minutes up to 20 hours. When cooking is completed, temperature automatically shifts to warm mode to avoid overcooking. The digital display also lets you track your meal progress and monitor remaining cook time. With a 7-quart capacity, it cooks meals for 9+ people, perfect for feeding a crowd. When you&rsquo;re finished slow cooking, both the lid and the stoneware can be placed in the dishwasher for easy cleanup.", "price": "49.96"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png", "marketplace_url": "https://www.walmart.com/ip/Crock-Pot-7-Quart-Cook-and-Carry-Programmable-Slow-Cooker-Grey/2156701161", "layout": "diagonal_split"}, "banner_details": "\nThis banner showcases a modern product advertisement layout for a programmable slow cooker. The design features a dual-tone angled background with geometric overlays and accents that give it a contemporary feel. The layout is organized with a large product title (`heading`) at the top, followed by a bold subheading (`subheading`) and a descriptive tagline (`tagline`). Below that is a bullet list (`description`) outlining the key product features. A prominent price tag (`price`) at the bottom left is paired with a rectangular call-to-action button (`cta_background`) labeled via `cta`. The right-hand side transitions to a product photo (`product_image`) that visually dominates the lower half, enhancing focus on the item. Background includes lightly opaque decorative elements and diagonal strokes enhancing visual depth.\n\n**Color Palette:**\n- Deep Maroon: `#5D2A23`\n- Dusty Rose: `#8B4B44`\n- Dark Chocolate: `#4A221C`\n- Light Beige: `#E8C39E`\n- Pure White: `#FFFFFF`\n", "product_color": "\nThe product image uses a sleek, modern color palette dominated by neutral tones. The primary color is a matte charcoal gray (#5A5A5A), which covers most of the Crockpot body, giving it a professional and sturdy appearance. This is contrasted by clean white (#FFFFFF) detailing in the lid rim, branding, and control panel, which highlights the functional elements. Subtle beige (#E8E3D9) tones on the control panel add warmth, softening the overall look. Glass elements such as the lid reflect soft muted grays (#D1D2D3), creating natural blending. For an advertisement banner, complementary colors like soft blue (#AFC1D6) or warm amber (#E0A96D) can enhance the palette effectively.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#5D2A23'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#8B4B44'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#4A221C'/><g opacity='0.2'><circle cx='200' cy='200' r='50' fill='#E8C39E'/><circle cx='900' cy='900' r='80' fill='#E8C39E'/><circle cx='150' cy='800' r='30' fill='#E8C39E'/></g><path d='M0 0 L1080 1080' stroke='#E8C39E' stroke-width='2' opacity='0.3'/><path d='M200 0 L1080 880' stroke='#E8C39E' stroke-width='1' opacity='0.2'/><path d='M0 200 L880 1080' stroke='#E8C39E' stroke-width='1' opacity='0.2'/><g opacity='0.1'><rect x='50' y='50' width='200' height='200' rx='10' fill='#E8C39E'/><rect x='900' y='100' width='120' height='120' rx='10' fill='#E8C39E'/><rect x='100' y='900' width='120' height='120' rx='10' fill='#E8C39E'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 40,
+                "width": 507.78,
+                "height": 107.35,
+                "fill": "#E8C39E",
+                "text": "CROCK-POT",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 42,
+                "width": 356.34,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "COOK & CARRY",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 42,
+                "width": 498.62,
+                "height": 50.85,
+                "fill": "#E8C39E",
+                "text": "PROGRAMMABLE SLOW COOKER",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 390,
+                "left": 42,
+                "width": 497.26,
+                "height": 188.03,
+                "fill": "#FFFFFF",
+                "text": "\u2713 7-Quart Capacity (Feeds 9+ People)\n\u2713 Digital Countdown Control\n\u2713 Travel-Proof Locking Lid\n\u2713 Dishwasher Safe Parts",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 350,
+                "left": 42,
+                "width": 400,
+                "height": 3,
+                "fill": "#E8C39E",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 42,
+                "width": 328.84,
+                "height": 96.05,
+                "fill": "#E8C39E",
+                "text": "$49.96",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 42,
+                "width": 200,
+                "height": 60,
+                "fill": "#E8C39E",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 917,
+                "left": 77,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#5D2A23",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 418,
+                "left": 413,
+                "width": 647.5,
+                "height": 403.5,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Whether you&rsquo;re feeding friends and family at home, or taking your meal on the go or to an event, the Crockpot 7 QT Cook & Carry Programmable Slow Cooker makes sharing a home-cooked meal with loved ones easy and effortless. The Cook & Carry travel-proof locking lid provides a tight seal to prevent leaks and spills, for no mess on the go, and convenient handles make it easy to carry and take your favorite slow cooked meals anywhere. A digital countdown control allows you to easily program your slow cooker from 30 minutes up to 20 hours. When cooking is completed, temperature automatically shifts to warm mode to avoid overcooking. The digital display also lets you track your meal progress and monitor remaining cook time. With a 7-quart capacity, it cooks meals for 9+ people, perfect for feeding a crowd. When you&rsquo;re finished slow cooking, both the lid and the stoneware can be placed in the dishwasher for easy cleanup.",
+            "price": "49.96"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png",
+        "marketplace_url": "https://www.walmart.com/ip/Crock-Pot-7-Quart-Cook-and-Carry-Programmable-Slow-Cooker-Grey/2156701161",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner showcases a modern product advertisement layout for a programmable slow cooker. The design features a dual-tone angled background with geometric overlays and accents that give it a contemporary feel. The layout is organized with a large product title (`heading`) at the top, followed by a bold subheading (`subheading`) and a descriptive tagline (`tagline`). Below that is a bullet list (`description`) outlining the key product features. A prominent price tag (`price`) at the bottom left is paired with a rectangular call-to-action button (`cta_background`) labeled via `cta`. The right-hand side transitions to a product photo (`product_image`) that visually dominates the lower half, enhancing focus on the item. Background includes lightly opaque decorative elements and diagonal strokes enhancing visual depth.\n\n**Color Palette:**\n- Deep Maroon: `#5D2A23`\n- Dusty Rose: `#8B4B44`\n- Dark Chocolate: `#4A221C`\n- Light Beige: `#E8C39E`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "\nThe product image uses a sleek, modern color palette dominated by neutral tones. The primary color is a matte charcoal gray (#5A5A5A), which covers most of the Crockpot body, giving it a professional and sturdy appearance. This is contrasted by clean white (#FFFFFF) detailing in the lid rim, branding, and control panel, which highlights the functional elements. Subtle beige (#E8E3D9) tones on the control panel add warmth, softening the overall look. Glass elements such as the lid reflect soft muted grays (#D1D2D3), creating natural blending. For an advertisement banner, complementary colors like soft blue (#AFC1D6) or warm amber (#E0A96D) can enhance the palette effectively.\n"
+}

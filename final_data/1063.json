@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#212121'/><rect x='0' y='0' width='540' height='540' fill='#303030'/><rect x='540' y='0' width='540' height='540' fill='#0D0D0D'/><rect x='0' y='540' width='540' height='540' fill='#0D0D0D'/><rect x='540' y='540' width='540' height='540' fill='#303030'/><g opacity='0.08'><circle cx='270' cy='270' r='200' fill='#FFFFFF'/><circle cx='810' cy='810' r='200' fill='#FFFFFF'/></g><g opacity='0.1'><path d='M0 100 L1080 100' stroke='#FFFFFF' stroke-width='1'/><path d='M0 200 L1080 200' stroke='#FFFFFF' stroke-width='1'/><path d='M0 300 L1080 300' stroke='#FFFFFF' stroke-width='1'/><path d='M0 400 L1080 400' stroke='#FFFFFF' stroke-width='1'/><path d='M0 500 L1080 500' stroke='#FFFFFF' stroke-width='1'/><path d='M0 600 L1080 600' stroke='#FFFFFF' stroke-width='1'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='1'/><path d='M0 800 L1080 800' stroke='#FFFFFF' stroke-width='1'/><path d='M0 900 L1080 900' stroke='#FFFFFF' stroke-width='1'/><path d='M0 1000 L1080 1000' stroke='#FFFFFF' stroke-width='1'/><path d='M100 0 L100 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M200 0 L200 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M300 0 L300 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M400 0 L400 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M500 0 L500 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M600 0 L600 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M800 0 L800 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M900 0 L900 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1000 0 L1000 1080' stroke='#FFFFFF' stroke-width='1'/></g><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='2'/><g><rect x='20' y='20' width='60' height='6' fill='#FF5722' rx='3' ry='3'/><rect x='20' y='36' width='40' height='6' fill='#FF5722' rx='3' ry='3'/><rect x='1000' y='1020' width='60' height='6' fill='#FF5722' rx='3' ry='3'/><rect x='1020' y='1004' width='40' height='6' fill='#FF5722' rx='3' ry='3'/></g></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 60, "width": 358.25, "height": 113, "fill": "#FFFFFF", "text": "DOUBLE", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 220, "left": 60, "width": 468.65, "height": 113, "fill": "#FFFFFF", "text": "THE STYLE", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 380, "left": 60, "width": 286.7, "height": 63.28, "fill": "#FF5722", "text": "BUY ONE", "fontSize": 56, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "tagline_1"}, {"type": "text", "top": 445, "left": 60, "width": 462.32, "height": 63.28, "fill": "#FF5722", "text": "GET ONE FREE", "fontSize": 56, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "tagline_2"}, {"type": "text", "top": 603, "left": 49, "width": 476.81, "height": 177.18, "fill": "#FFFFFF", "text": "\u2022 Ultra-soft, breathable cotton blend\n\u2022 Sleek, modern fit design\n\u2022 Durable, color-retaining fabric\n\u2022 Versatile for any occasion", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 60, "width": 224.56, "height": 113, "fill": "#FFFFFF", "text": "\u20b9 499", "fontSize": 100, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 60, "width": 200, "height": 60, "fill": "#FF5722", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 965, "left": 100, "width": 95.87, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 210, "left": 673, "width": 529, "height": 991, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/b_xr7aS_4-2eyb0WdOZUx_529x991.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Classic Crew Neck T-Shirt | Ultimate Comfort & Style", "description": "\u2022 Ultra-soft, breathable cotton blend fabric for all-day comfort\n\u2022 Sleek, modern fit with perfect length and shoulder proportions\n\u2022 Durable black fabric retains color after multiple washes\n\u2022 Versatile crew neck design suitable for any occasion\n\u2022 Athletic cut showcases natural body contours\n\u2022 High-quality stitching for enhanced durability\n\u2022 Perfect for layering or wearing as a standalone piece\n\u2022 Available in various sizes for optimal fit\n\u2022 Easy-care machine washable material\n\u2022 Ideal for casual wear, workouts, or smart-casual styling", "price": "\u20b9499"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/b_xr7aS_4-2eyb0WdOZUx_529x991.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1076135193343185018_WillQuill_man_posing_black_crew_neck_tshirt_mock-up_black_shirt_c8047484-22e8-4713-85b9-23e36ff65d41.webp", "layout": "grid_four"}, "banner_details": "\nThis banner is a bold promotional display with a modern, grid-based dark-toned design. On the left half, a dark grey and black background features subtle geometric grid lines and circular overlays. Prominently displayed at the top are two stacked white headline text elements (\"heading_1\" and \"heading_2\") using a large, bold sans-serif font. Below them, two orange promotional subheadings (\"tagline_1\" and \"tagline_2\") emphasize an offer. The middle section lists product highlights in bullet points within \"description\", aligned to the left in clean white text. At the bottom left, a large white price is shown through \"price\", paired with a rectangular orange call-to-action button (\"cta_background\" and \"cta\") labeled in white. On the right, a semi-cropped male model wearing a black T-shirt (\"product_image\") adds visual appeal, centered over a circular accent. The overall theme is sleek, stylish, and value-driven.\n\n**Color Palette:**\n- Black: #0D0D0D\n- Charcoal: #212121\n- Deep Gray: #303030\n- White: #FFFFFF\n- Accent Orange: #FF5722\n", "product_color": "  \nThe product image features a sleek black t-shirt worn by a model, where the dominant color is a deep matte black (#000000). This black gives a sophisticated and minimalistic look, ideal for a modern and masculine advertisement banner. The skin tone of the model provides a natural contrast using light beige and peach hues (#F5CBA7, #FFDFC4), creating a strong visual separation and enhancing the visibility of the t-shirt. His blue eyes (#4682B4) subtly add a cool accent to the overall warm composition. The colors are well-blended with soft transitions, while black remains the highlight, making the product the focal point.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#212121'/><rect x='0' y='0' width='540' height='540' fill='#303030'/><rect x='540' y='0' width='540' height='540' fill='#0D0D0D'/><rect x='0' y='540' width='540' height='540' fill='#0D0D0D'/><rect x='540' y='540' width='540' height='540' fill='#303030'/><g opacity='0.08'><circle cx='270' cy='270' r='200' fill='#FFFFFF'/><circle cx='810' cy='810' r='200' fill='#FFFFFF'/></g><g opacity='0.1'><path d='M0 100 L1080 100' stroke='#FFFFFF' stroke-width='1'/><path d='M0 200 L1080 200' stroke='#FFFFFF' stroke-width='1'/><path d='M0 300 L1080 300' stroke='#FFFFFF' stroke-width='1'/><path d='M0 400 L1080 400' stroke='#FFFFFF' stroke-width='1'/><path d='M0 500 L1080 500' stroke='#FFFFFF' stroke-width='1'/><path d='M0 600 L1080 600' stroke='#FFFFFF' stroke-width='1'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='1'/><path d='M0 800 L1080 800' stroke='#FFFFFF' stroke-width='1'/><path d='M0 900 L1080 900' stroke='#FFFFFF' stroke-width='1'/><path d='M0 1000 L1080 1000' stroke='#FFFFFF' stroke-width='1'/><path d='M100 0 L100 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M200 0 L200 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M300 0 L300 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M400 0 L400 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M500 0 L500 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M600 0 L600 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M800 0 L800 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M900 0 L900 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1000 0 L1000 1080' stroke='#FFFFFF' stroke-width='1'/></g><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='2'/><g><rect x='20' y='20' width='60' height='6' fill='#FF5722' rx='3' ry='3'/><rect x='20' y='36' width='40' height='6' fill='#FF5722' rx='3' ry='3'/><rect x='1000' y='1020' width='60' height='6' fill='#FF5722' rx='3' ry='3'/><rect x='1020' y='1004' width='40' height='6' fill='#FF5722' rx='3' ry='3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 60,
+                "width": 358.25,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "DOUBLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 60,
+                "width": 468.65,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "THE STYLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 60,
+                "width": 286.7,
+                "height": 63.28,
+                "fill": "#FF5722",
+                "text": "BUY ONE",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "tagline_1"
+            },
+            {
+                "type": "text",
+                "top": 445,
+                "left": 60,
+                "width": 462.32,
+                "height": 63.28,
+                "fill": "#FF5722",
+                "text": "GET ONE FREE",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "tagline_2"
+            },
+            {
+                "type": "text",
+                "top": 603,
+                "left": 49,
+                "width": 476.81,
+                "height": 177.18,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Ultra-soft, breathable cotton blend\n\u2022 Sleek, modern fit design\n\u2022 Durable, color-retaining fabric\n\u2022 Versatile for any occasion",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 60,
+                "width": 224.56,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 499",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF5722",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 100,
+                "width": 95.87,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 210,
+                "left": 673,
+                "width": 290.95000000000005,
+                "height": 545.0500000000001,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/b_xr7aS_4-2eyb0WdOZUx_529x991.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Classic Crew Neck T-Shirt | Ultimate Comfort & Style",
+            "description": "\u2022 Ultra-soft, breathable cotton blend fabric for all-day comfort\n\u2022 Sleek, modern fit with perfect length and shoulder proportions\n\u2022 Durable black fabric retains color after multiple washes\n\u2022 Versatile crew neck design suitable for any occasion\n\u2022 Athletic cut showcases natural body contours\n\u2022 High-quality stitching for enhanced durability\n\u2022 Perfect for layering or wearing as a standalone piece\n\u2022 Available in various sizes for optimal fit\n\u2022 Easy-care machine washable material\n\u2022 Ideal for casual wear, workouts, or smart-casual styling",
+            "price": "\u20b9499"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/b_xr7aS_4-2eyb0WdOZUx_529x991.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1076135193343185018_WillQuill_man_posing_black_crew_neck_tshirt_mock-up_black_shirt_c8047484-22e8-4713-85b9-23e36ff65d41.webp",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis banner is a bold promotional display with a modern, grid-based dark-toned design. On the left half, a dark grey and black background features subtle geometric grid lines and circular overlays. Prominently displayed at the top are two stacked white headline text elements (\"heading_1\" and \"heading_2\") using a large, bold sans-serif font. Below them, two orange promotional subheadings (\"tagline_1\" and \"tagline_2\") emphasize an offer. The middle section lists product highlights in bullet points within \"description\", aligned to the left in clean white text. At the bottom left, a large white price is shown through \"price\", paired with a rectangular orange call-to-action button (\"cta_background\" and \"cta\") labeled in white. On the right, a semi-cropped male model wearing a black T-shirt (\"product_image\") adds visual appeal, centered over a circular accent. The overall theme is sleek, stylish, and value-driven.\n\n**Color Palette:**\n- Black: #0D0D0D\n- Charcoal: #212121\n- Deep Gray: #303030\n- White: #FFFFFF\n- Accent Orange: #FF5722\n",
+    "product_color": "  \nThe product image features a sleek black t-shirt worn by a model, where the dominant color is a deep matte black (#000000). This black gives a sophisticated and minimalistic look, ideal for a modern and masculine advertisement banner. The skin tone of the model provides a natural contrast using light beige and peach hues (#F5CBA7, #FFDFC4), creating a strong visual separation and enhancing the visibility of the t-shirt. His blue eyes (#4682B4) subtly add a cool accent to the overall warm composition. The colors are well-blended with soft transitions, while black remains the highlight, making the product the focal point.  \n"
+}

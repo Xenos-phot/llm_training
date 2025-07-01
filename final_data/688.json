@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#FFF5F7'/><rect x='540' y='0' width='540' height='540' fill='#FFF0F2'/><rect x='0' y='540' width='540' height='540' fill='#E196A6'/><rect x='540' y='540' width='540' height='540' fill='#A5CCD1'/><g opacity='0.2'><path d='M0 140 L1080 140' stroke='#E75480' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#E75480' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#E75480' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#E75480' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#E75480' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#E75480' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='100' cy='100' r='40' fill='#FFD1DC' opacity='0.5'/><circle cx='980' cy='140' r='50' fill='#A5CCD1' opacity='0.6'/><circle cx='100' cy='980' r='40' fill='#FFFFFF' opacity='0.5'/><circle cx='980' cy='980' r='50' fill='#FFFFFF' opacity='0.6'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 259.79, "height": 146.9, "fill": "#E75480", "text": "SUMMER\nBREEZE", "fontSize": 65, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 230, "left": 50, "width": 409.96, "height": 31.64, "fill": "#5F9EA0", "text": "FLORAL TOP & DENIM SHORTS", "fontSize": 28, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 590, "left": 50, "width": 474.05, "height": 164.53, "fill": "#FFFFFF", "text": "\u2022 Pink floral print off-shoulder crop top\n\u2022 High-waisted light blue denim shorts\n\u2022 Perfect for casual outings or beach days\n\u2022 Modern vintage-inspired design", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 50, "width": 319.15, "height": 107.35, "fill": "#FFFFFF", "text": "$1200", "fontSize": 95, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 50, "width": 230, "height": 70, "fill": "#FFFFFF", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 956, "left": 110, "width": 114.64, "height": 40.68, "fill": "#E75480", "text": "SHOP NOW", "fontSize": 36, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 120, "left": 580, "width": 295, "height": 607, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/_6sMLUyM-FBfWJirNJ9jJ_295x607.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Summer Breeze Floral Off-Shoulder Top & High-Waist Denim Shorts Set", "description": "\u2022 Romantic pink floral print off-shoulder crop top with delicate ruffle details\n\u2022 Elastic neckline for comfortable and secure fit\n\u2022 Short flutter sleeves with feminine ruffle trim\n\u2022 High-waisted light blue denim shorts with rolled cuffs\n\u2022 Elastic waistband with button closure for perfect fit\n\u2022 Comfortable cotton-blend materials ideal for summer wear\n\u2022 Versatile two-piece set perfect for casual outings or beach days\n\u2022 Available in multiple sizes\n\u2022 Easy-care machine washable fabric\n\u2022 Modern vintage-inspired design combining classic and contemporary styles", "price": "$1200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/_6sMLUyM-FBfWJirNJ9jJ_295x607.png", "marketplace_url": "blob:https://staging-studio.phot.ai/4c6dfed3-5e50-4966-8821-f824cae55306", "layout": "split_vertical"}, "banner_details": "\nThis banner design features a vibrant and modern aesthetic that captures a youthful summer vibe. It is divided into four background color blocks forming a grid, with subtle geometric lines and translucent decorative circles to add visual depth. The [heading] text boldly introduces the theme using a bright pink font, while the [subheading] just below it balances with a calming teal blue. To the lower left, the [description] provides a feature list of the product with clean white bullet points. The [price] is prominently displayed in large, bold white text. A white rounded rectangle [cta_background] with the pink [cta] \"Shop Now\" button invites interaction. On the right, the [product_image] of a model dressed in the advertised outfit anchors the composition attractively. The overall grid-based structure offers a modern, editorial style suitable for fashion promotions.\n\n**Color Palette**:\n- Bright Pink: `#E75480`\n- Light Rose: `#FFF0F2` / `#FFF5F7`\n- Teal Blue: `#5F9EA0`\n- Soft Denim: `#A5CCD1`\n- White: `#FFFFFF`\n- Accent Pink Background: `#E196A6`\n\n", "product_color": "  \nThe product image features a vibrant and summery color palette that can inspire a fresh, youthful advertisement banner. The top is a vivid fuchsia pink (#D9316D) with white floral patterns (#FFFFFF), creating energetic contrast and a visually striking center of focus. The high-waisted denim shorts are a light blue-teal shade (#6DA7A8), offering a calm balance to the bolder top. The model's natural brown hair (#8A5C39) adds warmth, blending harmoniously without overpowering. The overall palette combines bold and soft tones, maintaining focus on the product while achieving contrast and cohesion. This balance can be leveraged to design an eye-catching, colorful banner.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#FFF5F7'/><rect x='540' y='0' width='540' height='540' fill='#FFF0F2'/><rect x='0' y='540' width='540' height='540' fill='#E196A6'/><rect x='540' y='540' width='540' height='540' fill='#A5CCD1'/><g opacity='0.2'><path d='M0 140 L1080 140' stroke='#E75480' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#E75480' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#E75480' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#E75480' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#E75480' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#E75480' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='100' cy='100' r='40' fill='#FFD1DC' opacity='0.5'/><circle cx='980' cy='140' r='50' fill='#A5CCD1' opacity='0.6'/><circle cx='100' cy='980' r='40' fill='#FFFFFF' opacity='0.5'/><circle cx='980' cy='980' r='50' fill='#FFFFFF' opacity='0.6'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 259.79,
+                "height": 146.9,
+                "fill": "#E75480",
+                "text": "SUMMER\nBREEZE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 230,
+                "left": 50,
+                "width": 409.96,
+                "height": 31.64,
+                "fill": "#5F9EA0",
+                "text": "FLORAL TOP & DENIM SHORTS",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 590,
+                "left": 50,
+                "width": 474.05,
+                "height": 164.53,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Pink floral print off-shoulder crop top\n\u2022 High-waisted light blue denim shorts\n\u2022 Perfect for casual outings or beach days\n\u2022 Modern vintage-inspired design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 50,
+                "width": 319.15,
+                "height": 107.35,
+                "fill": "#FFFFFF",
+                "text": "$1200",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 50,
+                "width": 230,
+                "height": 70,
+                "fill": "#FFFFFF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 956,
+                "left": 110,
+                "width": 114.64,
+                "height": 40.68,
+                "fill": "#E75480",
+                "text": "SHOP NOW",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 120,
+                "left": 580,
+                "width": 413.0,
+                "height": 849.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/_6sMLUyM-FBfWJirNJ9jJ_295x607.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Summer Breeze Floral Off-Shoulder Top & High-Waist Denim Shorts Set",
+            "description": "\u2022 Romantic pink floral print off-shoulder crop top with delicate ruffle details\n\u2022 Elastic neckline for comfortable and secure fit\n\u2022 Short flutter sleeves with feminine ruffle trim\n\u2022 High-waisted light blue denim shorts with rolled cuffs\n\u2022 Elastic waistband with button closure for perfect fit\n\u2022 Comfortable cotton-blend materials ideal for summer wear\n\u2022 Versatile two-piece set perfect for casual outings or beach days\n\u2022 Available in multiple sizes\n\u2022 Easy-care machine washable fabric\n\u2022 Modern vintage-inspired design combining classic and contemporary styles",
+            "price": "$1200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/_6sMLUyM-FBfWJirNJ9jJ_295x607.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/4c6dfed3-5e50-4966-8821-f824cae55306",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design features a vibrant and modern aesthetic that captures a youthful summer vibe. It is divided into four background color blocks forming a grid, with subtle geometric lines and translucent decorative circles to add visual depth. The [heading] text boldly introduces the theme using a bright pink font, while the [subheading] just below it balances with a calming teal blue. To the lower left, the [description] provides a feature list of the product with clean white bullet points. The [price] is prominently displayed in large, bold white text. A white rounded rectangle [cta_background] with the pink [cta] \"Shop Now\" button invites interaction. On the right, the [product_image] of a model dressed in the advertised outfit anchors the composition attractively. The overall grid-based structure offers a modern, editorial style suitable for fashion promotions.\n\n**Color Palette**:\n- Bright Pink: `#E75480`\n- Light Rose: `#FFF0F2` / `#FFF5F7`\n- Teal Blue: `#5F9EA0`\n- Soft Denim: `#A5CCD1`\n- White: `#FFFFFF`\n- Accent Pink Background: `#E196A6`\n\n",
+    "product_color": "  \nThe product image features a vibrant and summery color palette that can inspire a fresh, youthful advertisement banner. The top is a vivid fuchsia pink (#D9316D) with white floral patterns (#FFFFFF), creating energetic contrast and a visually striking center of focus. The high-waisted denim shorts are a light blue-teal shade (#6DA7A8), offering a calm balance to the bolder top. The model's natural brown hair (#8A5C39) adds warmth, blending harmoniously without overpowering. The overall palette combines bold and soft tones, maintaining focus on the product while achieving contrast and cohesion. This balance can be leveraged to design an eye-catching, colorful banner.  \n"
+}

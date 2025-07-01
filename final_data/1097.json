@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='0.5' cy='0.5' r='0.8'><stop offset='0%' stop-color='#FFF0F0'/><stop offset='100%' stop-color='#FFCBD1'/></radialGradient><filter id='softGlow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='20' result='blur'/><feComposite in='SourceGraphic' in2='blur' operator='over'/></filter></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.3'><circle cx='540' cy='540' r='400' fill='none' stroke='#F8A1A8' stroke-width='1'/><circle cx='540' cy='540' r='300' fill='none' stroke='#F8A1A8' stroke-width='1'/><circle cx='540' cy='540' r='200' fill='none' stroke='#F8A1A8' stroke-width='1'/></g><g opacity='0.15'><path d='M-100,200 Q540,100 1180,200' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,400 Q540,300 1180,400' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,600 Q540,500 1180,600' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,800 Q540,700 1180,800' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,1000 Q540,900 1180,1000' stroke='#E57F84' stroke-width='2' fill='none'/></g><g opacity='0.1'><circle cx='100' cy='100' r='30' fill='#F8A1A8'/><circle cx='980' cy='100' r='30' fill='#F8A1A8'/><circle cx='100' cy='980' r='30' fill='#F8A1A8'/><circle cx='980' cy='980' r='30' fill='#F8A1A8'/></g><g opacity='0.05' transform='rotate(45, 540, 540)'><rect x='190' y='190' width='700' height='700' rx='10' stroke='#E57F84' stroke-width='1' fill='none'/></g></svg>", "id": "background"}, {"type": "text", "top": 110, "left": 77.59500000000003, "width": 924.81, "height": 79.1, "fill": "#9E4244", "text": "GIVA Rose Gold Wreath Studs", "fontSize": 70, "fontFamily": "Playfair Display Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 210, "left": 282.44, "width": 515.12, "height": 45.2, "fill": "#BD6E71", "text": "925 Sterling Silver Elegance", "fontSize": 40, "fontFamily": "Cormorant SC Light", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 355.5, "left": 271.5, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/6MhWz5xqKYo8YAaHBaqPy_895x415.png", "id": "product_image"}, {"type": "text", "top": 720, "left": 211.935, "width": 656.13, "height": 27.12, "fill": "#774042", "text": "Sterling Silver | Certificate of Authenticity | 6 Month Warranty", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 800, "left": 423.15999999999997, "width": 233.68, "height": 90.4, "fill": "#9E4244", "text": "\u20b91739", "fontSize": 80, "fontFamily": "Sansita Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 430.0, "width": 220, "height": 60, "fill": "#9E4244", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 936, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 Count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.", "price": "\u20b91739"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/6MhWz5xqKYo8YAaHBaqPy_895x415.png", "marketplace_url": "https://www.amazon.in/GIVA-Sterling-Certificate-Authenticity-Warranty/dp/B0BBW8LKJ4/?_encoding=UTF8&pd_rd_w=eQmE5&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=N53BH4BRJ0Q7NQJ4230H&pd_rd_wg=UFygY&pd_rd_r=a18b7dff-5cac-4d3e-8a6d-79c0aff198df&ref_=pd_hp_d_atf_dealz_cs", "layout": "centered_hero"}, "banner_details": "\nThis elegant promotional banner features a luxurious rose-pink radial gradient background overlaid with soft geometric and circular design elements, lending a refined, feminine aesthetic. Centrally positioned is a product image (\"product_image\") showcasing a pair of rose gold stud earrings. The primary heading (\"heading\") sits at the top in a classic serif font in a rich garnet red, followed by a refined subheading (\"subheading\") in a soft mauve serif typeface, enhancing the high-end appeal. Informational text (\"description\") is elegantly centered below the product. The price (\"price\") is edged in bold beneath that, followed by a bold call-to-action against a deep rose button (\"cta_background\" and \"cta\").\n\n**Color Palette:**\n- Gradient Background: #FFF0F0 \u2192 #FFCBD1  \n- Deep Rose Red: #9E4244  \n- Soft Mauve: #BD6E71  \n- Dark Mulberry: #774042  \n- White: #FFFFFF  \n", "product_color": "  \nThe product image showcases elegant earrings with a playful and feminine color palette that includes a soft rose gold base, accented with blush pink and sparkling white crystals. The rose gold (#EFA9A9) frames the earrings, giving them a warm, luxurious feel. Blush pink (#F9C8D0) is used in the petal detailing, adding a delicate touch. The white crystals (#FFFFFF) and clear diamond-like elements (#E3E3E3) bring brilliance and texture, enhancing the visual contrast. These colors blend seamlessly with subtle transitions, while strategic highlights make the gems pop. A matching ad banner should use this palette to evoke elegance, charm, and femininity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='0.5' cy='0.5' r='0.8'><stop offset='0%' stop-color='#FFF0F0'/><stop offset='100%' stop-color='#FFCBD1'/></radialGradient><filter id='softGlow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='20' result='blur'/><feComposite in='SourceGraphic' in2='blur' operator='over'/></filter></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.3'><circle cx='540' cy='540' r='400' fill='none' stroke='#F8A1A8' stroke-width='1'/><circle cx='540' cy='540' r='300' fill='none' stroke='#F8A1A8' stroke-width='1'/><circle cx='540' cy='540' r='200' fill='none' stroke='#F8A1A8' stroke-width='1'/></g><g opacity='0.15'><path d='M-100,200 Q540,100 1180,200' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,400 Q540,300 1180,400' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,600 Q540,500 1180,600' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,800 Q540,700 1180,800' stroke='#E57F84' stroke-width='2' fill='none'/><path d='M-100,1000 Q540,900 1180,1000' stroke='#E57F84' stroke-width='2' fill='none'/></g><g opacity='0.1'><circle cx='100' cy='100' r='30' fill='#F8A1A8'/><circle cx='980' cy='100' r='30' fill='#F8A1A8'/><circle cx='100' cy='980' r='30' fill='#F8A1A8'/><circle cx='980' cy='980' r='30' fill='#F8A1A8'/></g><g opacity='0.05' transform='rotate(45, 540, 540)'><rect x='190' y='190' width='700' height='700' rx='10' stroke='#E57F84' stroke-width='1' fill='none'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 110,
+                "left": 77.59500000000003,
+                "width": 924.81,
+                "height": 79.1,
+                "fill": "#9E4244",
+                "text": "GIVA Rose Gold Wreath Studs",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 282.44,
+                "width": 515.12,
+                "height": 45.2,
+                "fill": "#BD6E71",
+                "text": "925 Sterling Silver Elegance",
+                "fontFamily": "Cormorant SC Light",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 355.5,
+                "left": 271.5,
+                "width": 537.0,
+                "height": 249.0,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/6MhWz5xqKYo8YAaHBaqPy_895x415.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 720,
+                "left": 211.935,
+                "width": 656.13,
+                "height": 27.12,
+                "fill": "#774042",
+                "text": "Sterling Silver | Certificate of Authenticity | 6 Month Warranty",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 423.15999999999997,
+                "width": 233.68,
+                "height": 90.4,
+                "fill": "#9E4244",
+                "text": "\u20b91739",
+                "fontFamily": "Sansita Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#9E4244",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 936,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 Count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.",
+            "price": "\u20b91739"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/6MhWz5xqKYo8YAaHBaqPy_895x415.png",
+        "marketplace_url": "https://www.amazon.in/GIVA-Sterling-Certificate-Authenticity-Warranty/dp/B0BBW8LKJ4/?_encoding=UTF8&pd_rd_w=eQmE5&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=N53BH4BRJ0Q7NQJ4230H&pd_rd_wg=UFygY&pd_rd_r=a18b7dff-5cac-4d3e-8a6d-79c0aff198df&ref_=pd_hp_d_atf_dealz_cs",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis elegant promotional banner features a luxurious rose-pink radial gradient background overlaid with soft geometric and circular design elements, lending a refined, feminine aesthetic. Centrally positioned is a product image (\"product_image\") showcasing a pair of rose gold stud earrings. The primary heading (\"heading\") sits at the top in a classic serif font in a rich garnet red, followed by a refined subheading (\"subheading\") in a soft mauve serif typeface, enhancing the high-end appeal. Informational text (\"description\") is elegantly centered below the product. The price (\"price\") is edged in bold beneath that, followed by a bold call-to-action against a deep rose button (\"cta_background\" and \"cta\").\n\n**Color Palette:**\n- Gradient Background: #FFF0F0 \u2192 #FFCBD1  \n- Deep Rose Red: #9E4244  \n- Soft Mauve: #BD6E71  \n- Dark Mulberry: #774042  \n- White: #FFFFFF  \n",
+    "product_color": "  \nThe product image showcases elegant earrings with a playful and feminine color palette that includes a soft rose gold base, accented with blush pink and sparkling white crystals. The rose gold (#EFA9A9) frames the earrings, giving them a warm, luxurious feel. Blush pink (#F9C8D0) is used in the petal detailing, adding a delicate touch. The white crystals (#FFFFFF) and clear diamond-like elements (#E3E3E3) bring brilliance and texture, enhancing the visual contrast. These colors blend seamlessly with subtle transitions, while strategic highlights make the gems pop. A matching ad banner should use this palette to evoke elegance, charm, and femininity.  \n"
+}

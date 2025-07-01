@@ -21,7 +21,6 @@
                 "height": 113,
                 "fill": "#8B5A2B",
                 "text": "LUXURY TOTE",
-                "fontSize": 100,
                 "fontFamily": "Ultra-Regular",
                 "textAlign": "left",
                 "id": "heading"
@@ -34,7 +33,6 @@
                 "height": 90.4,
                 "fill": "#A67C52",
                 "text": "ALDO LEGOIRII BAG",
-                "fontSize": 80,
                 "fontFamily": "League Spartan-Bold",
                 "textAlign": "left",
                 "id": "subheading"
@@ -47,7 +45,6 @@
                 "height": 155.04,
                 "fill": "#5D4037",
                 "text": "Spacious Stylish Design\nPremium Faux Leather Material\nGold Hardware Accents\nVersatile Everyday Carry",
-                "fontSize": 28,
                 "fontFamily": "Alata Regular",
                 "textAlign": "left",
                 "id": "description"
@@ -60,7 +57,6 @@
                 "height": 84.75,
                 "fill": "#8B5A2B",
                 "text": "$65.00",
-                "fontSize": 75,
                 "fontFamily": "Ultra-Regular",
                 "textAlign": "left",
                 "id": "price"
@@ -84,7 +80,6 @@
                 "height": 27.12,
                 "fill": "#FFFFFF",
                 "text": "SHOP NOW",
-                "fontSize": 24,
                 "fontFamily": "League Spartan-Bold",
                 "textAlign": "center",
                 "id": "cta"
@@ -93,8 +88,8 @@
                 "type": "image",
                 "top": 348,
                 "left": 500,
-                "width": 1214,
-                "height": 1439,
+                "width": 546.3000000000001,
+                "height": 647.5500000000001,
                 "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png",
                 "id": "product_image"
             }

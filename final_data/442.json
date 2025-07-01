@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#000000", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#121212'/><path d='M0 0L1080 0L1080 1080L0 1080L0 0Z' fill='url(#paint0_linear)'/><path d='M540 0C540 0 1080 0 1080 0V1080H0V0H540Z' fill='url(#paint1_radial)' opacity='0.3'/><path d='M0 500L1080 500L1080 1080L0 1080L0 500Z' fill='url(#paint2_linear)' opacity='0.7'/><g opacity='0.2'><path d='M100 200L140 240L180 200' stroke='#FF5722' stroke-width='2'/><path d='M880 300L920 340L960 300' stroke='#FF5722' stroke-width='2'/><path d='M200 800L240 840L280 800' stroke='#FF5722' stroke-width='2'/><path d='M780 700L820 740L860 700' stroke='#FF5722' stroke-width='2'/></g><circle cx='200' cy='200' r='50' fill='#FF5722' opacity='0.1'/><circle cx='880' cy='300' r='40' fill='#FF5722' opacity='0.1'/><circle cx='240' cy='800' r='60' fill='#FF5722' opacity='0.1'/><circle cx='820' cy='700' r='45' fill='#FF5722' opacity='0.1'/><defs><linearGradient id='paint0_linear' x1='540' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#1A1A1A'/><stop offset='1' stop-color='#0A0A0A'/></linearGradient><radialGradient id='paint1_radial' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(540 540) rotate(90) scale(540)'><stop offset='0' stop-color='#FF5722' stop-opacity='0.2'/><stop offset='1' stop-color='#121212' stop-opacity='0'/></radialGradient><linearGradient id='paint2_linear' x1='540' y1='500' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#121212' stop-opacity='0'/><stop offset='1' stop-color='#000000'/></linearGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 202.10500000000002, "width": 675.79, "height": 96.05, "fill": "#FFFFFF", "text": "POVA CURVE", "fontSize": 85, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 236.875, "width": 606.25, "height": 56.5, "fill": "#FF5722", "text": "5G GAMING SMARTPHONE", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 289.22499999999997, "left": 361.35, "width": 794, "height": 1159, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png", "id": "product_image"}, {"type": "text", "top": 850, "left": 304.82, "width": 470.36, "height": 90.4, "fill": "#FFFFFF", "text": "$15999", "fontSize": 80, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 440.0, "width": 200, "height": 60, "fill": "#FF5722", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 973.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "NA 6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Display 64MP Rear Camera | 13MP Front Camera 5500 mAh Battery Dimensity 7300 Ultimate Processor ", "price": "15999"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png", "marketplace_url": "https://www.flipkart.com/tecno-pova-curve-5g-geek-black-128-gb/p/itma403c7d655267", "layout": "minimalist_center"}, "banner_details": "\nThe banner showcases a futuristic, high-tech vibe suited for a 5G gaming smartphone advertisement. Positioned centrally, the \"product_image\" draws attention, featuring a sleek, modern phone at an angle for dynamic appeal. At the top, the bold \"heading\" establishes the product name in a solid white tech-style font, while the \"subheading\" directly below it reinforces its gaming identity with a vibrant orange color for emphasis. A stylized price is shown with the \"price\" text at the bottom, clearly visible in white. Just beneath this, the vivid orange rectangle \"cta_background\" houses the distinct white \"cta\" text to drive action. The background is enriched with dark gradients, faint circular elements, and a touch of orange line graphics to add depth and energy.\n\n**Color Palette**:\n- Black: #000000\n- Dark Gray: #121212\n- White: #FFFFFF\n- Orange Accent: #FF5722\n", "product_color": "  \nThe product image features a bold, futuristic color palette that blends matte charcoal black (#1A1A1A) for the phone body with vibrant orange (#FF4C00) accents, symbolizing innovation and high-tech energy. The glowing neon orange of the glasses and the POVA \"5G\" logo creates striking contrast against the deep black background (#000000), drawing attention to key elements. Cool teal-green tones (#00C2B8) used on the model\u2019s face add balance and highlight depth. The design smartly merges warm and cool hues to express performance and style, ideal for a tech-savvy campaign. Key colors for the advertisement banner: #1A1A1A, #FF4C00, #00C2B8, #FFFFFF.  \n"}
+{
+    "output": {
+        "backgroundColor": "#000000",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#121212'/><path d='M0 0L1080 0L1080 1080L0 1080L0 0Z' fill='url(#paint0_linear)'/><path d='M540 0C540 0 1080 0 1080 0V1080H0V0H540Z' fill='url(#paint1_radial)' opacity='0.3'/><path d='M0 500L1080 500L1080 1080L0 1080L0 500Z' fill='url(#paint2_linear)' opacity='0.7'/><g opacity='0.2'><path d='M100 200L140 240L180 200' stroke='#FF5722' stroke-width='2'/><path d='M880 300L920 340L960 300' stroke='#FF5722' stroke-width='2'/><path d='M200 800L240 840L280 800' stroke='#FF5722' stroke-width='2'/><path d='M780 700L820 740L860 700' stroke='#FF5722' stroke-width='2'/></g><circle cx='200' cy='200' r='50' fill='#FF5722' opacity='0.1'/><circle cx='880' cy='300' r='40' fill='#FF5722' opacity='0.1'/><circle cx='240' cy='800' r='60' fill='#FF5722' opacity='0.1'/><circle cx='820' cy='700' r='45' fill='#FF5722' opacity='0.1'/><defs><linearGradient id='paint0_linear' x1='540' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#1A1A1A'/><stop offset='1' stop-color='#0A0A0A'/></linearGradient><radialGradient id='paint1_radial' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(540 540) rotate(90) scale(540)'><stop offset='0' stop-color='#FF5722' stop-opacity='0.2'/><stop offset='1' stop-color='#121212' stop-opacity='0'/></radialGradient><linearGradient id='paint2_linear' x1='540' y1='500' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#121212' stop-opacity='0'/><stop offset='1' stop-color='#000000'/></linearGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 202.10500000000002,
+                "width": 675.79,
+                "height": 96.05,
+                "fill": "#FFFFFF",
+                "text": "POVA CURVE",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 236.875,
+                "width": 606.25,
+                "height": 56.5,
+                "fill": "#FF5722",
+                "text": "5G GAMING SMARTPHONE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 289.22499999999997,
+                "left": 361.35,
+                "width": 357.3,
+                "height": 521.5500000000001,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 304.82,
+                "width": 470.36,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$15999",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF5722",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 973.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "NA 6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Display 64MP Rear Camera | 13MP Front Camera 5500 mAh Battery Dimensity 7300 Ultimate Processor ",
+            "price": "15999"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png",
+        "marketplace_url": "https://www.flipkart.com/tecno-pova-curve-5g-geek-black-128-gb/p/itma403c7d655267",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThe banner showcases a futuristic, high-tech vibe suited for a 5G gaming smartphone advertisement. Positioned centrally, the \"product_image\" draws attention, featuring a sleek, modern phone at an angle for dynamic appeal. At the top, the bold \"heading\" establishes the product name in a solid white tech-style font, while the \"subheading\" directly below it reinforces its gaming identity with a vibrant orange color for emphasis. A stylized price is shown with the \"price\" text at the bottom, clearly visible in white. Just beneath this, the vivid orange rectangle \"cta_background\" houses the distinct white \"cta\" text to drive action. The background is enriched with dark gradients, faint circular elements, and a touch of orange line graphics to add depth and energy.\n\n**Color Palette**:\n- Black: #000000\n- Dark Gray: #121212\n- White: #FFFFFF\n- Orange Accent: #FF5722\n",
+    "product_color": "  \nThe product image features a bold, futuristic color palette that blends matte charcoal black (#1A1A1A) for the phone body with vibrant orange (#FF4C00) accents, symbolizing innovation and high-tech energy. The glowing neon orange of the glasses and the POVA \"5G\" logo creates striking contrast against the deep black background (#000000), drawing attention to key elements. Cool teal-green tones (#00C2B8) used on the model\u2019s face add balance and highlight depth. The design smartly merges warm and cool hues to express performance and style, ideal for a tech-savvy campaign. Key colors for the advertisement banner: #1A1A1A, #FF4C00, #00C2B8, #FFFFFF.  \n"
+}

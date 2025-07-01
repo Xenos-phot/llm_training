@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F5F5F5;stop-opacity:1'/><stop offset='100%' style='stop-color:#E0E0E0;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F7F7F7;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#ECECEC;stop-opacity:0.8'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FFE082;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#FDD835;stop-opacity:0.3'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' fill='#FFFFFF' stroke='#DDDDDD' stroke-width='2'/><rect x='60' y='60' width='960' height='960' rx='15' fill='url(#grad2)' stroke='#EEEEEE' stroke-width='1'/><circle cx='540' cy='200' r='180' fill='url(#accentGrad)'/><circle cx='200' cy='800' r='120' fill='url(#accentGrad)'/><circle cx='880' cy='540' r='150' fill='url(#accentGrad)' opacity='0.5'/><path d='M0 350 C150 320, 350 380, 550 350 C750 320, 950 380, 1080 350' stroke='#DDDDDD' stroke-width='5' fill='none' opacity='0.5'/><path d='M0 730 C150 700, 350 760, 550 730 C750 700, 950 760, 1080 730' stroke='#DDDDDD' stroke-width='5' fill='none' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 80, "width": 645.12, "height": 90.4, "fill": "#263238", "text": "GALAXY S24+", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 190, "left": 82, "width": 521.81, "height": 67.8, "fill": "#455A64", "text": "PREMIUM ANDROID", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 290, "left": 85, "width": 306.2, "height": 149.16, "fill": "#37474F", "text": "50MP Camera with 8K Video\nGalaxy AI Technology\n256GB Storage Unlocked\nLong-Lasting Battery Life", "fontSize": 24, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 810, "left": 80, "width": 187.14, "height": 101.7, "fill": "#263238", "text": "$49", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 80, "width": 220, "height": 60, "fill": "#FDD835", "rx": 8, "ry": 8, "id": "cta_background"}, {"type": "text", "top": 948, "left": 123, "width": 125.04, "height": 27.12, "fill": "#263238", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 277, "left": 429, "width": 927, "height": 1151, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b6013a18-f954-4c66-a98b-4671bbf9aa71_nobg_927x1151.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+.  Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure.  With Galaxy AI on GalaxyS24+, life just got a whole lot easier &mdash;and a lot more fun. Epic, just like that.", "price": "49"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b6013a18-f954-4c66-a98b-4671bbf9aa71_nobg_927x1151.png", "marketplace_url": "https://www.walmart.com/ip/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray/5276353716", "layout": "split_vertical"}, "banner_details": "\n\nThe banner features a sleek, modern design centered around promoting a smartphone. It uses a clean white and light-gray gradient background with layered rounded rectangles to create visual depth. Soft yellow circular accents add dimension behind the text and product image, with wave-like line elements crossing the layout subtly.\n\nThe prominent heading (`heading`) sits at the top-left in bold, futuristic font, followed by a secondary subheading (`subheading`) beneath it. Below that, a short bulleted description (`description`) outlines key specs. The central product image (`product_image`) is positioned to the right, partially overlapping the background elements.\n\nAt the bottom-left, a vibrant yellow pricing circle highlights the product cost (`price`), accompanied by a bright yellow call-to-action button (`cta_background`) with high-contrast text (`cta`).\n\n**Color Palette:**\n- White: `#FFFFFF`\n- Highlight Yellow: `#FDD835` / `#FFE082`\n- Dark Slate: `#263238`\n- Steel Blue: `#455A64`\n- Gray Background Gradient: `#F5F5F5`, `#E0E0E0`\n\n", "product_color": "  \nThe product image showcases a sleek and minimalist design with a refined color palette ideal for an elegant advertisement banner. The dominant hues include icy silver-gray (#E1E1E3), deep black (#0A0A0A) from the camera lenses, and soft pearl white (#F5F5F5) on the body. The screen displays a gentle blend of moonstone gray (#BEBEBE) and warm luminescent yellow (#F4EFA0), highlighted with subtle sparkles to create depth. The colors are expertly merged, using gradients and glows that highlight the contours without overwhelming the frame. This palette builds a modern, sophisticated aesthetic, ideal for tech branding that emphasizes innovation and luxury.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F5F5F5;stop-opacity:1'/><stop offset='100%' style='stop-color:#E0E0E0;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F7F7F7;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#ECECEC;stop-opacity:0.8'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FFE082;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#FDD835;stop-opacity:0.3'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' fill='#FFFFFF' stroke='#DDDDDD' stroke-width='2'/><rect x='60' y='60' width='960' height='960' rx='15' fill='url(#grad2)' stroke='#EEEEEE' stroke-width='1'/><circle cx='540' cy='200' r='180' fill='url(#accentGrad)'/><circle cx='200' cy='800' r='120' fill='url(#accentGrad)'/><circle cx='880' cy='540' r='150' fill='url(#accentGrad)' opacity='0.5'/><path d='M0 350 C150 320, 350 380, 550 350 C750 320, 950 380, 1080 350' stroke='#DDDDDD' stroke-width='5' fill='none' opacity='0.5'/><path d='M0 730 C150 700, 350 760, 550 730 C750 700, 950 760, 1080 730' stroke='#DDDDDD' stroke-width='5' fill='none' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 80,
+                "width": 645.12,
+                "height": 90.4,
+                "fill": "#263238",
+                "text": "GALAXY S24+",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 82,
+                "width": 521.81,
+                "height": 67.8,
+                "fill": "#455A64",
+                "text": "PREMIUM ANDROID",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 85,
+                "width": 306.2,
+                "height": 149.16,
+                "fill": "#37474F",
+                "text": "50MP Camera with 8K Video\nGalaxy AI Technology\n256GB Storage Unlocked\nLong-Lasting Battery Life",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 80,
+                "width": 187.14,
+                "height": 101.7,
+                "fill": "#263238",
+                "text": "$49",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 80,
+                "width": 220,
+                "height": 60,
+                "fill": "#FDD835",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 948,
+                "left": 123,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#263238",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 277,
+                "left": 429,
+                "width": 556.1999999999999,
+                "height": 690.6,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b6013a18-f954-4c66-a98b-4671bbf9aa71_nobg_927x1151.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+.  Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure.  With Galaxy AI on GalaxyS24+, life just got a whole lot easier &mdash;and a lot more fun. Epic, just like that.",
+            "price": "49"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b6013a18-f954-4c66-a98b-4671bbf9aa71_nobg_927x1151.png",
+        "marketplace_url": "https://www.walmart.com/ip/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray/5276353716",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\n\nThe banner features a sleek, modern design centered around promoting a smartphone. It uses a clean white and light-gray gradient background with layered rounded rectangles to create visual depth. Soft yellow circular accents add dimension behind the text and product image, with wave-like line elements crossing the layout subtly.\n\nThe prominent heading (`heading`) sits at the top-left in bold, futuristic font, followed by a secondary subheading (`subheading`) beneath it. Below that, a short bulleted description (`description`) outlines key specs. The central product image (`product_image`) is positioned to the right, partially overlapping the background elements.\n\nAt the bottom-left, a vibrant yellow pricing circle highlights the product cost (`price`), accompanied by a bright yellow call-to-action button (`cta_background`) with high-contrast text (`cta`).\n\n**Color Palette:**\n- White: `#FFFFFF`\n- Highlight Yellow: `#FDD835` / `#FFE082`\n- Dark Slate: `#263238`\n- Steel Blue: `#455A64`\n- Gray Background Gradient: `#F5F5F5`, `#E0E0E0`\n\n",
+    "product_color": "  \nThe product image showcases a sleek and minimalist design with a refined color palette ideal for an elegant advertisement banner. The dominant hues include icy silver-gray (#E1E1E3), deep black (#0A0A0A) from the camera lenses, and soft pearl white (#F5F5F5) on the body. The screen displays a gentle blend of moonstone gray (#BEBEBE) and warm luminescent yellow (#F4EFA0), highlighted with subtle sparkles to create depth. The colors are expertly merged, using gradients and glows that highlight the contours without overwhelming the frame. This palette builds a modern, sophisticated aesthetic, ideal for tech branding that emphasizes innovation and luxury.  \n"
+}

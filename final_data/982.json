@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F1EA'/><rect x='0' y='0' width='540' height='1080' fill='#E6D5C1'/><g opacity='0.1'><rect x='40' y='40' width='460' height='2' fill='#5D4037'/><rect x='40' y='100' width='460' height='2' fill='#5D4037'/><rect x='40' y='160' width='460' height='2' fill='#5D4037'/><rect x='40' y='220' width='460' height='2' fill='#5D4037'/><rect x='40' y='280' width='460' height='2' fill='#5D4037'/><rect x='40' y='340' width='460' height='2' fill='#5D4037'/><rect x='40' y='400' width='460' height='2' fill='#5D4037'/><rect x='40' y='460' width='460' height='2' fill='#5D4037'/><rect x='40' y='520' width='460' height='2' fill='#5D4037'/><rect x='40' y='580' width='460' height='2' fill='#5D4037'/><rect x='40' y='640' width='460' height='2' fill='#5D4037'/><rect x='40' y='700' width='460' height='2' fill='#5D4037'/><rect x='40' y='760' width='460' height='2' fill='#5D4037'/><rect x='40' y='820' width='460' height='2' fill='#5D4037'/><rect x='40' y='880' width='460' height='2' fill='#5D4037'/><rect x='40' y='940' width='460' height='2' fill='#5D4037'/><rect x='40' y='1000' width='460' height='2' fill='#5D4037'/><rect x='40' y='1060' width='460' height='2' fill='#5D4037'/></g><g opacity='0.05'><rect x='620' y='40' width='420' height='2' fill='#5D4037'/><rect x='620' y='100' width='420' height='2' fill='#5D4037'/><rect x='620' y='160' width='420' height='2' fill='#5D4037'/><rect x='620' y='220' width='420' height='2' fill='#5D4037'/><rect x='620' y='280' width='420' height='2' fill='#5D4037'/><rect x='620' y='340' width='420' height='2' fill='#5D4037'/><rect x='620' y='400' width='420' height='2' fill='#5D4037'/><rect x='620' y='460' width='420' height='2' fill='#5D4037'/><rect x='620' y='520' width='420' height='2' fill='#5D4037'/><rect x='620' y='580' width='420' height='2' fill='#5D4037'/><rect x='620' y='640' width='420' height='2' fill='#5D4037'/><rect x='620' y='700' width='420' height='2' fill='#5D4037'/><rect x='620' y='760' width='420' height='2' fill='#5D4037'/><rect x='620' y='820' width='420' height='2' fill='#5D4037'/><rect x='620' y='880' width='420' height='2' fill='#5D4037'/><rect x='620' y='940' width='420' height='2' fill='#5D4037'/><rect x='620' y='1000' width='420' height='2' fill='#5D4037'/><rect x='620' y='1060' width='420' height='2' fill='#5D4037'/></g><circle cx='70' cy='540' r='20' fill='#5D4037' opacity='0.1'/><circle cx='470' cy='540' r='20' fill='#5D4037' opacity='0.1'/><circle cx='70' cy='140' r='20' fill='#5D4037' opacity='0.1'/><circle cx='470' cy='140' r='20' fill='#5D4037' opacity='0.1'/><circle cx='70' cy='940' r='20' fill='#5D4037' opacity='0.1'/><circle cx='470' cy='940' r='20' fill='#5D4037' opacity='0.1'/><rect x='80' y='80' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='80' y='480' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='80' y='880' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='420' y='80' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='420' y='480' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='420' y='880' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 50, "width": 448.35, "height": 237.3, "fill": "#5D4037", "text": "MODERN\nLIFT TOP\nCOFFEE TABLE", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 350, "left": 50, "width": 403.49, "height": 31.64, "fill": "#7D5A50", "text": "STYLISH STORAGE SOLUTION", "fontSize": 28, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 430, "left": 50, "width": 322.76, "height": 92.21, "fill": "#5D4037", "text": "\u2022 Adjustable Height (19\" to 24.5\")\n\u2022 Hidden Storage Compartment\n\u2022 Multiple Storage Shelves", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 680, "left": 50, "width": 353.58, "height": 85.88, "fill": "#7D5A50", "text": "$104.99", "fontSize": 76, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 50, "width": 220, "height": 65, "fill": "#5D4037", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 820, "left": 85, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 540, "width": 479, "height": 375, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **", "price": "104.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png", "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW", "layout": "split_vertical"}, "banner_details": "\nThis banner design features a visually balanced layout split into two sections: the left half highlights promotional content, while the right half showcases a product image of a coffee table with modern functionality. The left section includes four text layers: a bold, uppercase multi-line **heading** highlighting the product type, a smaller **subheading** offering a value statement, a compact **description** detailing features, and a prominent **price** tag in large font. Centered beneath these is a clear **CTA button** (\"CALL TO ACTION\") with contrasting white text on a dark rectangle. The right side holds the **product_image**, scaled slightly up for prominence. Decorative lines and abstract shapes subtly embellish the background.\n\n**Color Palette:**\n- Cream (#F5F1EA) \u2013 Background\n- Beige (#E6D5C1) \u2013 Left panel background\n- Dark Brown (#5D4037) \u2013 Heading text, lines, CTA background\n- Medium Brown (#7D5A50) \u2013 Subheading, price text\n- White (#FFFFFF) \u2013 CTA text\n", "product_color": "\nThe product image showcases a modern and minimalist coffee table with a lift-top design blending functionality and aesthetics. The primary colors include a clean **white (#FFFFFF)** base that enhances brightness and simplicity, contrasted with a rich **walnut brown (#6E4B3A)** tabletop, adding warmth and elegance. Accents of **light gray (#D8D8D8)** are subtly present in the legs and compartments, offering a neutral balance. The decor items, such as books and boxes, introduce muted tones like **soft green (#8A9C84)** and **beige (#D3BFA3)**, giving a homely touch. These colors are well-blended yet distinct, ideal for a banner focusing on modern, functional interior aesthetics.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F1EA'/><rect x='0' y='0' width='540' height='1080' fill='#E6D5C1'/><g opacity='0.1'><rect x='40' y='40' width='460' height='2' fill='#5D4037'/><rect x='40' y='100' width='460' height='2' fill='#5D4037'/><rect x='40' y='160' width='460' height='2' fill='#5D4037'/><rect x='40' y='220' width='460' height='2' fill='#5D4037'/><rect x='40' y='280' width='460' height='2' fill='#5D4037'/><rect x='40' y='340' width='460' height='2' fill='#5D4037'/><rect x='40' y='400' width='460' height='2' fill='#5D4037'/><rect x='40' y='460' width='460' height='2' fill='#5D4037'/><rect x='40' y='520' width='460' height='2' fill='#5D4037'/><rect x='40' y='580' width='460' height='2' fill='#5D4037'/><rect x='40' y='640' width='460' height='2' fill='#5D4037'/><rect x='40' y='700' width='460' height='2' fill='#5D4037'/><rect x='40' y='760' width='460' height='2' fill='#5D4037'/><rect x='40' y='820' width='460' height='2' fill='#5D4037'/><rect x='40' y='880' width='460' height='2' fill='#5D4037'/><rect x='40' y='940' width='460' height='2' fill='#5D4037'/><rect x='40' y='1000' width='460' height='2' fill='#5D4037'/><rect x='40' y='1060' width='460' height='2' fill='#5D4037'/></g><g opacity='0.05'><rect x='620' y='40' width='420' height='2' fill='#5D4037'/><rect x='620' y='100' width='420' height='2' fill='#5D4037'/><rect x='620' y='160' width='420' height='2' fill='#5D4037'/><rect x='620' y='220' width='420' height='2' fill='#5D4037'/><rect x='620' y='280' width='420' height='2' fill='#5D4037'/><rect x='620' y='340' width='420' height='2' fill='#5D4037'/><rect x='620' y='400' width='420' height='2' fill='#5D4037'/><rect x='620' y='460' width='420' height='2' fill='#5D4037'/><rect x='620' y='520' width='420' height='2' fill='#5D4037'/><rect x='620' y='580' width='420' height='2' fill='#5D4037'/><rect x='620' y='640' width='420' height='2' fill='#5D4037'/><rect x='620' y='700' width='420' height='2' fill='#5D4037'/><rect x='620' y='760' width='420' height='2' fill='#5D4037'/><rect x='620' y='820' width='420' height='2' fill='#5D4037'/><rect x='620' y='880' width='420' height='2' fill='#5D4037'/><rect x='620' y='940' width='420' height='2' fill='#5D4037'/><rect x='620' y='1000' width='420' height='2' fill='#5D4037'/><rect x='620' y='1060' width='420' height='2' fill='#5D4037'/></g><circle cx='70' cy='540' r='20' fill='#5D4037' opacity='0.1'/><circle cx='470' cy='540' r='20' fill='#5D4037' opacity='0.1'/><circle cx='70' cy='140' r='20' fill='#5D4037' opacity='0.1'/><circle cx='470' cy='140' r='20' fill='#5D4037' opacity='0.1'/><circle cx='70' cy='940' r='20' fill='#5D4037' opacity='0.1'/><circle cx='470' cy='940' r='20' fill='#5D4037' opacity='0.1'/><rect x='80' y='80' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='80' y='480' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='80' y='880' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='420' y='80' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='420' y='480' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/><rect x='420' y='880' width='40' height='40' rx='5' fill='#5D4037' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 50,
+                "width": 448.35,
+                "height": 237.3,
+                "fill": "#5D4037",
+                "text": "MODERN\nLIFT TOP\nCOFFEE TABLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 50,
+                "width": 403.49,
+                "height": 31.64,
+                "fill": "#7D5A50",
+                "text": "STYLISH STORAGE SOLUTION",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 50,
+                "width": 322.76,
+                "height": 92.21,
+                "fill": "#5D4037",
+                "text": "\u2022 Adjustable Height (19\" to 24.5\")\n\u2022 Hidden Storage Compartment\n\u2022 Multiple Storage Shelves",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 50,
+                "width": 353.58,
+                "height": 85.88,
+                "fill": "#7D5A50",
+                "text": "$104.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 50,
+                "width": 220,
+                "height": 65,
+                "fill": "#5D4037",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 85,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 540,
+                "width": 536.48,
+                "height": 420.00000000000006,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **",
+            "price": "104.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design features a visually balanced layout split into two sections: the left half highlights promotional content, while the right half showcases a product image of a coffee table with modern functionality. The left section includes four text layers: a bold, uppercase multi-line **heading** highlighting the product type, a smaller **subheading** offering a value statement, a compact **description** detailing features, and a prominent **price** tag in large font. Centered beneath these is a clear **CTA button** (\"CALL TO ACTION\") with contrasting white text on a dark rectangle. The right side holds the **product_image**, scaled slightly up for prominence. Decorative lines and abstract shapes subtly embellish the background.\n\n**Color Palette:**\n- Cream (#F5F1EA) \u2013 Background\n- Beige (#E6D5C1) \u2013 Left panel background\n- Dark Brown (#5D4037) \u2013 Heading text, lines, CTA background\n- Medium Brown (#7D5A50) \u2013 Subheading, price text\n- White (#FFFFFF) \u2013 CTA text\n",
+    "product_color": "\nThe product image showcases a modern and minimalist coffee table with a lift-top design blending functionality and aesthetics. The primary colors include a clean **white (#FFFFFF)** base that enhances brightness and simplicity, contrasted with a rich **walnut brown (#6E4B3A)** tabletop, adding warmth and elegance. Accents of **light gray (#D8D8D8)** are subtly present in the legs and compartments, offering a neutral balance. The decor items, such as books and boxes, introduce muted tones like **soft green (#8A9C84)** and **beige (#D3BFA3)**, giving a homely touch. These colors are well-blended yet distinct, ideal for a banner focusing on modern, functional interior aesthetics.\n"
+}

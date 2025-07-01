@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFE6F2'/><circle cx='900' cy='200' r='180' fill='#FF69B4' opacity='0.4'/><circle cx='150' cy='900' r='150' fill='#9370DB' opacity='0.5'/><path d='M0 500 C200 450 400 510 600 480 C800 460 1000 500 1080 480 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#FFB6C1' opacity='0.7'/><circle cx='1000' cy='950' r='120' fill='#87CEEB' opacity='0.4'/><path d='M0 850 C200 830 400 870 600 850 C800 830 1000 870 1080 850 L1080 1080 L0 1080 L0 850Z' fill='#77DD77' opacity='0.4'/><path d='M20,80 C60,40 100,120 140,80' stroke='#FF69B4' stroke-width='4' fill='none'/><path d='M900,980 C940,940 980,1020 1020,980' stroke='#FF69B4' stroke-width='4' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 219.43, "width": 641.14, "height": 101.7, "fill": "#FF1493", "text": "KITTY PARADISE", "fontSize": 90, "fontFamily": "Luckiest Guy-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 267.225, "width": 545.55, "height": 56.5, "fill": "#8A2BE2", "text": "BARBIE WORLD PLAYSET", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 251.39999999999998, "left": 264.0, "width": 1380, "height": 1343, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/284fee96-a6ca-4c42-bea1-4b1e6c3d7791_nobg_1380x1343.png", "id": "product_image"}, {"type": "text", "top": 829.15, "left": 403.32, "width": 273.36, "height": 101.7, "fill": "#FF1493", "text": "$9.97", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 947.0, "left": 430.0, "width": 220.00000000000003, "height": 66.0, "fill": "#FF1493", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 963.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Welcome to your Barbie World. Build your best Barbie life! Pounce into pet paradise with this kitty tower playset. Designed with a spinning palm tree, adjustable leaf bed, and relaxing hammock  there are so many pawesome ways for the two pet kitties to play. Also included is a bag of cat food, bowls, and toys. Doll sold separately. Colors and decorations may vary.", "price": "9.97"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/284fee96-a6ca-4c42-bea1-4b1e6c3d7791_nobg_1380x1343.png", "marketplace_url": "https://www.walmart.com/ip/Barbie-World-Pet-Paradise-Kitty-Playset-with-9-Pieces-Including-2-Cats-Food-Accessories-Toys/6294503762", "layout": "minimalist_center"}, "banner_details": "\nThis vibrant and playful banner design promotes a toy product in a fantasy-themed setting. The background features a pastel pink base with flowing wave shapes and soft translucent circles in pink, violet, blue, and mint green, giving a dreamy aesthetic. The top of the banner showcases a bold title text layer (\"heading\") in bright magenta with a childlike, comic-inspired font. Just below, a subtitle text layer (\"subheading\") in a clean, uppercase purple font adds clarity on the product theme. The centerpiece is a colorful toy image (\"product_image\") depicting a kitty playground. The bottom features a prominent price (\"price\") in bold magenta and a matching rectangular call-to-action button (\"cta_button\") labeled with white text (\"cta\"). The design is cohesive, bright, and appeals directly to young audiences and parents alike.\n\n**Color Palette:**\n- Pastel Pink: `#FFE6F2`\n- Hot Pink / Magenta: `#FF1493`\n- Light Pink: `#FFB6C1`\n- Lilac / Lavender: `#9370DB`\n- Light Blue: `#87CEEB`\n- Light Green: `#77DD77`\n- Deep Purple: `#8A2BE2`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases a playful, tropical-themed cat playset with a vibrant and eye-catching color palette perfect for a cheerful advertisement banner. Dominant colors include hot pink (#EF4CA6) used in the upper cat house, bright green (#2FBF71) for the tree leaves, sandy beige (#F2C89C) for the base and structure, and sky blue (#3CCECE) in the hammock and feeding bowl. Soft purples (#B693E8) seen in the paw sign and accessories blend harmoniously with gentle pastels while still standing out. These colors contrast delightfully, creating an exciting visual appeal while maintaining a cohesive, playful theme ideal for young audiences.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFE6F2'/><circle cx='900' cy='200' r='180' fill='#FF69B4' opacity='0.4'/><circle cx='150' cy='900' r='150' fill='#9370DB' opacity='0.5'/><path d='M0 500 C200 450 400 510 600 480 C800 460 1000 500 1080 480 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#FFB6C1' opacity='0.7'/><circle cx='1000' cy='950' r='120' fill='#87CEEB' opacity='0.4'/><path d='M0 850 C200 830 400 870 600 850 C800 830 1000 870 1080 850 L1080 1080 L0 1080 L0 850Z' fill='#77DD77' opacity='0.4'/><path d='M20,80 C60,40 100,120 140,80' stroke='#FF69B4' stroke-width='4' fill='none'/><path d='M900,980 C940,940 980,1020 1020,980' stroke='#FF69B4' stroke-width='4' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 219.43,
+                "width": 641.14,
+                "height": 101.7,
+                "fill": "#FF1493",
+                "text": "KITTY PARADISE",
+                "fontFamily": "Luckiest Guy-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 267.225,
+                "width": 545.55,
+                "height": 56.5,
+                "fill": "#8A2BE2",
+                "text": "BARBIE WORLD PLAYSET",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 251.39999999999998,
+                "left": 264.0,
+                "width": 552.0,
+                "height": 537.2,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/284fee96-a6ca-4c42-bea1-4b1e6c3d7791_nobg_1380x1343.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 829.15,
+                "left": 403.32,
+                "width": 273.36,
+                "height": 101.7,
+                "fill": "#FF1493",
+                "text": "$9.97",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 947.0,
+                "left": 430.0,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#FF1493",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 963.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Welcome to your Barbie World. Build your best Barbie life! Pounce into pet paradise with this kitty tower playset. Designed with a spinning palm tree, adjustable leaf bed, and relaxing hammock  there are so many pawesome ways for the two pet kitties to play. Also included is a bag of cat food, bowls, and toys. Doll sold separately. Colors and decorations may vary.",
+            "price": "9.97"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/284fee96-a6ca-4c42-bea1-4b1e6c3d7791_nobg_1380x1343.png",
+        "marketplace_url": "https://www.walmart.com/ip/Barbie-World-Pet-Paradise-Kitty-Playset-with-9-Pieces-Including-2-Cats-Food-Accessories-Toys/6294503762",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis vibrant and playful banner design promotes a toy product in a fantasy-themed setting. The background features a pastel pink base with flowing wave shapes and soft translucent circles in pink, violet, blue, and mint green, giving a dreamy aesthetic. The top of the banner showcases a bold title text layer (\"heading\") in bright magenta with a childlike, comic-inspired font. Just below, a subtitle text layer (\"subheading\") in a clean, uppercase purple font adds clarity on the product theme. The centerpiece is a colorful toy image (\"product_image\") depicting a kitty playground. The bottom features a prominent price (\"price\") in bold magenta and a matching rectangular call-to-action button (\"cta_button\") labeled with white text (\"cta\"). The design is cohesive, bright, and appeals directly to young audiences and parents alike.\n\n**Color Palette:**\n- Pastel Pink: `#FFE6F2`\n- Hot Pink / Magenta: `#FF1493`\n- Light Pink: `#FFB6C1`\n- Lilac / Lavender: `#9370DB`\n- Light Blue: `#87CEEB`\n- Light Green: `#77DD77`\n- Deep Purple: `#8A2BE2`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases a playful, tropical-themed cat playset with a vibrant and eye-catching color palette perfect for a cheerful advertisement banner. Dominant colors include hot pink (#EF4CA6) used in the upper cat house, bright green (#2FBF71) for the tree leaves, sandy beige (#F2C89C) for the base and structure, and sky blue (#3CCECE) in the hammock and feeding bowl. Soft purples (#B693E8) seen in the paw sign and accessories blend harmoniously with gentle pastels while still standing out. These colors contrast delightfully, creating an exciting visual appeal while maintaining a cohesive, playful theme ideal for young audiences.  \n"
+}

@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A4B7C'/><stop offset='49%' style='stop-color:#1A4B7C'/><stop offset='51%' style='stop-color:#E8F4FF'/><stop offset='100%' style='stop-color:#E8F4FF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#3A6BA0' opacity='0.1'/><path d='M1080 1080 L1080 0 L0 1080 Z' fill='#C5E1FF' opacity='0.1'/><circle cx='200' cy='200' r='100' fill='#FFFFFF' opacity='0.05'/><circle cx='880' cy='880' r='150' fill='#1A4B7C' opacity='0.05'/><g fill='#FFFFFF' opacity='0.1'><circle cx='180' cy='100' r='3'/><circle cx='220' cy='100' r='3'/><circle cx='260' cy='100' r='3'/><circle cx='180' cy='140' r='3'/><circle cx='220' cy='140' r='3'/><circle cx='260' cy='140' r='3'/><circle cx='180' cy='180' r='3'/><circle cx='220' cy='180' r='3'/><circle cx='260' cy='180' r='3'/></g><g fill='#1A4B7C' opacity='0.1'><circle cx='820' cy='900' r='3'/><circle cx='860' cy='900' r='3'/><circle cx='900' cy='900' r='3'/><circle cx='820' cy='940' r='3'/><circle cx='860' cy='940' r='3'/><circle cx='900' cy='940' r='3'/><circle cx='820' cy='980' r='3'/><circle cx='860' cy='980' r='3'/><circle cx='900' cy='980' r='3'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 549.02, "height": 135.6, "fill": "#FFFFFF", "text": "ACT FAST!", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 50, "width": 508.76, "height": 67.8, "fill": "#FFFFFF", "text": "LIMITED OFFER", "fontSize": 60, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 50, "width": 398.61, "height": 89.5, "fill": "#FFFFFF", "text": "FARM FRESH PREMIUM\nDAIRY COLLECTION", "fontSize": 36, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "product_title"}, {"type": "text", "top": 430, "left": 50, "width": 367.37, "height": 164.53, "fill": "#FFFFFF", "text": "\u2022 100% Pure, Farm-Sourced Milk\n\u2022 No artificial additives\n\u2022 Rich in nutrients & calcium\n\u2022 From local farms to your table", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 620, "left": 50, "width": 394.46, "height": 42.94, "fill": "#FFFFFF", "text": "SAVOR THE FRESHNESS!", "fontSize": 38, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 680, "left": 50, "width": 378.77, "height": 36.16, "fill": "#FFFFFF", "text": "Offer ends in: 48 HOURS!", "fontSize": 32, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "urgency_text"}, {"type": "text", "top": 760, "left": 50, "width": 273.97, "height": 101.7, "fill": "#FFFFFF", "text": "\u20b9 999", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 50, "width": 240, "height": 60, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 915, "left": 75, "width": 164.79, "height": 31.64, "fill": "#1A4B7C", "text": "ORDER NOW", "fontSize": 28, "fontFamily": "Gabarito Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 300, "left": 550, "width": 695, "height": 911, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/-3A-ieaztWthsIVx4dPax_695x911.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Farm Fresh Premium Dairy Collection - Pure & Wholesome Milk", "description": "\u2022 100% Pure, Fresh Farm-Sourced Milk\n\u2022 No artificial additives or preservatives\n\u2022 Rich in essential nutrients and calcium\n\u2022 Available in various container sizes for convenience\n\u2022 Perfect for cooking, baking, and direct consumption\n\u2022 Pasteurized for safety while maintaining natural taste\n\u2022 Carefully handled and bottled to ensure maximum freshness\n\u2022 Ideal source of protein and vitamins\n\u2022 Recyclable glass packaging - eco-friendly choice\n\u2022 Direct from local dairy farms to your table", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/-3A-ieaztWthsIVx4dPax_695x911.png", "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg", "layout": "diagonal_split"}, "banner_details": "\nThis visually compelling banner features a gradient diagonal background shifting from a rich navy blue (#1A4B7C) to a soft sky blue (#E8F4FF), intersected by abstract shapes and subtle circular textures, giving the layout a modern and dynamic appeal. On the left side of the banner, bold, all-caps text layers \u2014 identified as `heading`, `subheading`, and `product_title` \u2014 convey urgency and introduce the product. Supporting text such as `description`, `tagline`, and `urgency_text` details the benefits and limited-time nature of the offer. The `price` layer is prominently displayed in large font for emphasis. A high-quality image of glass milk containers is placed on the right (`product_image`), enhancing visual interest. Finally, a strong call-to-action (`cta_button` and `cta`) \u2014 a white button with contrasting blue text \u2014 encourages immediate engagement.\n\n**Color Palette:**\n- Navy Blue: #1A4B7C  \n- Sky Blue: #E8F4FF  \n- Soft Blue Accent: #C5E1FF  \n- White: #FFFFFF  \n- Light Blue Overlay: #3A6BA0  \n", "product_color": "\nThe product image showcases a clean and fresh composition of milk in clear glass containers, highlighting purity and health. The dominant color palette is soft white (#FDFDFD) for the milk, cool blue (#A4D3F4) seen in the handle and necks of the bottles, and subtle glass grayish tones (#D3D3D3) that emphasize transparency and cleanliness. The blue gently blends into the clear glass, providing a refreshing aura while still making the white milk stand out. The interplay of white and blue accentuates cleanliness and freshness, ideal for an advertisement banner focused on health, purity, and trust.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A4B7C'/><stop offset='49%' style='stop-color:#1A4B7C'/><stop offset='51%' style='stop-color:#E8F4FF'/><stop offset='100%' style='stop-color:#E8F4FF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#3A6BA0' opacity='0.1'/><path d='M1080 1080 L1080 0 L0 1080 Z' fill='#C5E1FF' opacity='0.1'/><circle cx='200' cy='200' r='100' fill='#FFFFFF' opacity='0.05'/><circle cx='880' cy='880' r='150' fill='#1A4B7C' opacity='0.05'/><g fill='#FFFFFF' opacity='0.1'><circle cx='180' cy='100' r='3'/><circle cx='220' cy='100' r='3'/><circle cx='260' cy='100' r='3'/><circle cx='180' cy='140' r='3'/><circle cx='220' cy='140' r='3'/><circle cx='260' cy='140' r='3'/><circle cx='180' cy='180' r='3'/><circle cx='220' cy='180' r='3'/><circle cx='260' cy='180' r='3'/></g><g fill='#1A4B7C' opacity='0.1'><circle cx='820' cy='900' r='3'/><circle cx='860' cy='900' r='3'/><circle cx='900' cy='900' r='3'/><circle cx='820' cy='940' r='3'/><circle cx='860' cy='940' r='3'/><circle cx='900' cy='940' r='3'/><circle cx='820' cy='980' r='3'/><circle cx='860' cy='980' r='3'/><circle cx='900' cy='980' r='3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 549.02,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "ACT FAST!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 50,
+                "width": 508.76,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "LIMITED OFFER",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 50,
+                "width": 398.61,
+                "height": 89.5,
+                "fill": "#FFFFFF",
+                "text": "FARM FRESH PREMIUM\nDAIRY COLLECTION",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "product_title"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 50,
+                "width": 367.37,
+                "height": 164.53,
+                "fill": "#FFFFFF",
+                "text": "\u2022 100% Pure, Farm-Sourced Milk\n\u2022 No artificial additives\n\u2022 Rich in nutrients & calcium\n\u2022 From local farms to your table",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 620,
+                "left": 50,
+                "width": 394.46,
+                "height": 42.94,
+                "fill": "#FFFFFF",
+                "text": "SAVOR THE FRESHNESS!",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 50,
+                "width": 378.77,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "Offer ends in: 48 HOURS!",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "urgency_text"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 50,
+                "width": 273.97,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 50,
+                "width": 240,
+                "height": 60,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 915,
+                "left": 75,
+                "width": 164.79,
+                "height": 31.64,
+                "fill": "#1A4B7C",
+                "text": "ORDER NOW",
+                "fontFamily": "Gabarito Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 300,
+                "left": 550,
+                "width": 486.49999999999994,
+                "height": 637.6999999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/-3A-ieaztWthsIVx4dPax_695x911.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Farm Fresh Premium Dairy Collection - Pure & Wholesome Milk",
+            "description": "\u2022 100% Pure, Fresh Farm-Sourced Milk\n\u2022 No artificial additives or preservatives\n\u2022 Rich in essential nutrients and calcium\n\u2022 Available in various container sizes for convenience\n\u2022 Perfect for cooking, baking, and direct consumption\n\u2022 Pasteurized for safety while maintaining natural taste\n\u2022 Carefully handled and bottled to ensure maximum freshness\n\u2022 Ideal source of protein and vitamins\n\u2022 Recyclable glass packaging - eco-friendly choice\n\u2022 Direct from local dairy farms to your table",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/-3A-ieaztWthsIVx4dPax_695x911.png",
+        "marketplace_url": "https://images.pexels.com/photos/248412/pexels-photo-248412.jpeg",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis visually compelling banner features a gradient diagonal background shifting from a rich navy blue (#1A4B7C) to a soft sky blue (#E8F4FF), intersected by abstract shapes and subtle circular textures, giving the layout a modern and dynamic appeal. On the left side of the banner, bold, all-caps text layers \u2014 identified as `heading`, `subheading`, and `product_title` \u2014 convey urgency and introduce the product. Supporting text such as `description`, `tagline`, and `urgency_text` details the benefits and limited-time nature of the offer. The `price` layer is prominently displayed in large font for emphasis. A high-quality image of glass milk containers is placed on the right (`product_image`), enhancing visual interest. Finally, a strong call-to-action (`cta_button` and `cta`) \u2014 a white button with contrasting blue text \u2014 encourages immediate engagement.\n\n**Color Palette:**\n- Navy Blue: #1A4B7C  \n- Sky Blue: #E8F4FF  \n- Soft Blue Accent: #C5E1FF  \n- White: #FFFFFF  \n- Light Blue Overlay: #3A6BA0  \n",
+    "product_color": "\nThe product image showcases a clean and fresh composition of milk in clear glass containers, highlighting purity and health. The dominant color palette is soft white (#FDFDFD) for the milk, cool blue (#A4D3F4) seen in the handle and necks of the bottles, and subtle glass grayish tones (#D3D3D3) that emphasize transparency and cleanliness. The blue gently blends into the clear glass, providing a refreshing aura while still making the white milk stand out. The interplay of white and blue accentuates cleanliness and freshness, ideal for an advertisement banner focused on health, purity, and trust.\n"
+}

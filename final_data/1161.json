@@ -1,1 +1,146 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0D3B66'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#0D3B66'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#F4D35E'/><path d='M1080 0 L500 0 L1080 650 Z' fill='#F95738' opacity='0.6'/><path d='M950 0 L1080 0 L1080 150 Z' fill='#FFFFFF' opacity='0.1'/><path d='M0 930 L150 1080 L0 1080 Z' fill='#FFFFFF' opacity='0.1'/><rect x='40' y='40' width='3' height='100' fill='#F4D35E' opacity='0.8'/><rect x='55' y='40' width='3' height='100' fill='#F4D35E' opacity='0.8'/><rect x='70' y='40' width='3' height='100' fill='#F4D35E' opacity='0.8'/><rect x='40' y='940' width='100' height='3' fill='#F4D35E' opacity='0.8'/><rect x='40' y='955' width='100' height='3' fill='#F4D35E' opacity='0.8'/><rect x='40' y='970' width='100' height='3' fill='#F4D35E' opacity='0.8'/><g transform='rotate(-45 540 540)'><rect x='-200' y='535' width='2000' height='10' fill='#000000' opacity='0.1'/><rect x='-200' y='555' width='2000' height='5' fill='#000000' opacity='0.1'/></g><circle cx='100' cy='100' r='5' fill='#FFFFFF' opacity='0.2'/><circle cx='980' cy='980' r='5' fill='#000000' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 725.47, "height": 124.3, "fill": "#FFFFFF", "text": "HYDRAULIC", "fontSize": 110, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 160, "left": 50, "width": 268.75, "height": 124.3, "fill": "#FFFFFF", "text": "LIFT", "fontSize": 110, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 290, "left": 50, "width": 592.65, "height": 56.5, "fill": "#F4D35E", "text": "INDUSTRIAL GRADE", "fontSize": 50, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 380, "left": 50, "width": 400, "height": 2, "fill": "#F4D35E", "rx": 0, "ry": 0, "id": "decorative_line"}, {"type": "text", "top": 400, "left": 50, "width": 361.9, "height": 188.03, "fill": "#FFFFFF", "text": "\u2022 Robust Steel Construction\n\u2022 High Load Capacity\n\u2022 Safety-Compliant Design\n\u2022 Low Maintenance System", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 610, "left": 50, "width": 435.48, "height": 135.6, "fill": "#F4D35E", "text": "$1,999", "fontSize": 120, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 50, "width": 220, "height": 70, "fill": "#F95738", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 798, "left": 85, "width": 148.17, "height": 33.9, "fill": "#FFFFFF", "text": "GET OFFER", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 880, "left": 50, "width": 442.85, "height": 67.57, "fill": "#FFFFFF", "text": "LIMITED TIME OFFER\nPerfect for warehouses & multi-level facilities", "fontSize": 26, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 240, "left": 580, "width": 231, "height": 499, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/YLpuRQqIpv3iMcdsHkcAO_231x499.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Heavy-Duty Hydraulic Goods Lift | Industrial Vertical Cargo Elevator", "description": "\u2022 Robust steel frame construction for maximum durability and stability\n\u2022 Safety-compliant platform with hazard warning stripes\n\u2022 Vertical guide rails ensure smooth and precise lifting operation\n\u2022 Customizable platform dimensions to suit your space requirements\n\u2022 Perfect for warehouses, factories, and multi-level facilities\n\u2022 High load capacity for efficient material handling\n\u2022 Emergency stop and safety features built-in\n\u2022 Space-efficient design maximizes vertical transport\n\u2022 Low maintenance requirements with reliable hydraulic system\n\u2022 Easy installation and integration into existing facilities", "price": "$100"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/YLpuRQqIpv3iMcdsHkcAO_231x499.png", "marketplace_url": "blob:https://studio.phot.ai/39b36de3-3ca7-42f9-aaca-14ea29fa24ca", "layout": "diagonal_split"}, "banner_details": "\nThe banner features a bold, industrial-style design promoting a hydraulic lift product. It carries a strong geometric layout with diagonal layered backgrounds adding depth and dynamics. The primary headline text layers \"heading_1\" and \"heading_2\" are large, uppercase, and white, ensuring maximum attention against the navy-blue backdrop. The subheading \"subheading\" appears in a techno-style yellow typeface, matched by a sleek horizontal divider (\"decorative_line\"). The feature list in \"description\" highlights product qualities in concise bullet points. A vibrant price tag on \"price\" stands out in oversized yellow font. The \"cta\" call-to-action text is centered over a striking orange-red rectangle (\"cta_background\"). \"product_image\" anchors the right side visually, and the bottom area features \"tagline\" as a complementary, readable note.\n\n**Color Palette**:\n- Navy Blue (#0D3B66)\n- Warm Yellow (#F4D35E)\n- Vibrant Orange (#F95738)\n- White (#FFFFFF)\n- Deep Red Overlay (approximate #7F1D1D with 0.6 opacity)\n\n", "product_color": "\nThe product image showcases a vertical goods lift with a bold and industrial aesthetic. Dominated by a striking **industrial orange** (#D35400), the frame provides visual impact and brand visibility. The platform area contrasts with **matte black** (#2C3E50), giving a grounded, durable appearance. A caution strip at the base uses **bright yellow** (#F1C40F) and black for safety emphasis, drawing attention to potential hazard zones. Colors are distinctly separated yet harmonized through saturation and purpose, promoting both usability and warning. For an advertisement banner, pairing **rich orange**, **dark gray**, **caution yellow**, and **clean white** (#FFFFFF) will reinforce structure, safety, and clarity.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0D3B66'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#0D3B66'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#F4D35E'/><path d='M1080 0 L500 0 L1080 650 Z' fill='#F95738' opacity='0.6'/><path d='M950 0 L1080 0 L1080 150 Z' fill='#FFFFFF' opacity='0.1'/><path d='M0 930 L150 1080 L0 1080 Z' fill='#FFFFFF' opacity='0.1'/><rect x='40' y='40' width='3' height='100' fill='#F4D35E' opacity='0.8'/><rect x='55' y='40' width='3' height='100' fill='#F4D35E' opacity='0.8'/><rect x='70' y='40' width='3' height='100' fill='#F4D35E' opacity='0.8'/><rect x='40' y='940' width='100' height='3' fill='#F4D35E' opacity='0.8'/><rect x='40' y='955' width='100' height='3' fill='#F4D35E' opacity='0.8'/><rect x='40' y='970' width='100' height='3' fill='#F4D35E' opacity='0.8'/><g transform='rotate(-45 540 540)'><rect x='-200' y='535' width='2000' height='10' fill='#000000' opacity='0.1'/><rect x='-200' y='555' width='2000' height='5' fill='#000000' opacity='0.1'/></g><circle cx='100' cy='100' r='5' fill='#FFFFFF' opacity='0.2'/><circle cx='980' cy='980' r='5' fill='#000000' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 725.47,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "HYDRAULIC",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 50,
+                "width": 268.75,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "LIFT",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 50,
+                "width": 592.65,
+                "height": 56.5,
+                "fill": "#F4D35E",
+                "text": "INDUSTRIAL GRADE",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 380,
+                "left": 50,
+                "width": 400,
+                "height": 2,
+                "fill": "#F4D35E",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative_line"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 50,
+                "width": 361.9,
+                "height": 188.03,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Robust Steel Construction\n\u2022 High Load Capacity\n\u2022 Safety-Compliant Design\n\u2022 Low Maintenance System",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 50,
+                "width": 435.48,
+                "height": 135.6,
+                "fill": "#F4D35E",
+                "text": "$1,999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#F95738",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 798,
+                "left": 85,
+                "width": 148.17,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "GET OFFER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 50,
+                "width": 442.85,
+                "height": 67.57,
+                "fill": "#FFFFFF",
+                "text": "LIMITED TIME OFFER\nPerfect for warehouses & multi-level facilities",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 240,
+                "left": 580,
+                "width": 392.7,
+                "height": 848.3,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/YLpuRQqIpv3iMcdsHkcAO_231x499.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Heavy-Duty Hydraulic Goods Lift | Industrial Vertical Cargo Elevator",
+            "description": "\u2022 Robust steel frame construction for maximum durability and stability\n\u2022 Safety-compliant platform with hazard warning stripes\n\u2022 Vertical guide rails ensure smooth and precise lifting operation\n\u2022 Customizable platform dimensions to suit your space requirements\n\u2022 Perfect for warehouses, factories, and multi-level facilities\n\u2022 High load capacity for efficient material handling\n\u2022 Emergency stop and safety features built-in\n\u2022 Space-efficient design maximizes vertical transport\n\u2022 Low maintenance requirements with reliable hydraulic system\n\u2022 Easy installation and integration into existing facilities",
+            "price": "$100"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/YLpuRQqIpv3iMcdsHkcAO_231x499.png",
+        "marketplace_url": "blob:https://studio.phot.ai/39b36de3-3ca7-42f9-aaca-14ea29fa24ca",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner features a bold, industrial-style design promoting a hydraulic lift product. It carries a strong geometric layout with diagonal layered backgrounds adding depth and dynamics. The primary headline text layers \"heading_1\" and \"heading_2\" are large, uppercase, and white, ensuring maximum attention against the navy-blue backdrop. The subheading \"subheading\" appears in a techno-style yellow typeface, matched by a sleek horizontal divider (\"decorative_line\"). The feature list in \"description\" highlights product qualities in concise bullet points. A vibrant price tag on \"price\" stands out in oversized yellow font. The \"cta\" call-to-action text is centered over a striking orange-red rectangle (\"cta_background\"). \"product_image\" anchors the right side visually, and the bottom area features \"tagline\" as a complementary, readable note.\n\n**Color Palette**:\n- Navy Blue (#0D3B66)\n- Warm Yellow (#F4D35E)\n- Vibrant Orange (#F95738)\n- White (#FFFFFF)\n- Deep Red Overlay (approximate #7F1D1D with 0.6 opacity)\n\n",
+    "product_color": "\nThe product image showcases a vertical goods lift with a bold and industrial aesthetic. Dominated by a striking **industrial orange** (#D35400), the frame provides visual impact and brand visibility. The platform area contrasts with **matte black** (#2C3E50), giving a grounded, durable appearance. A caution strip at the base uses **bright yellow** (#F1C40F) and black for safety emphasis, drawing attention to potential hazard zones. Colors are distinctly separated yet harmonized through saturation and purpose, promoting both usability and warning. For an advertisement banner, pairing **rich orange**, **dark gray**, **caution yellow**, and **clean white** (#FFFFFF) will reinforce structure, safety, and clarity.\n"
+}

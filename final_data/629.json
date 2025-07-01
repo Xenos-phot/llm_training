@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD1DC'/><stop offset='100%' stop-color='#FF9AAD'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#A7C7E7'/><stop offset='100%' stop-color='#82B4DE'/></linearGradient><radialGradient id='circleGrad' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F8F8F8'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M0 0 C300 100, 800 300, 1080 250 L1080 1080 L0 1080 Z' fill='url(#bg2)' opacity='0.7'/><circle cx='540' cy='540' r='300' fill='url(#circleGrad)' stroke='#FFFFFF' stroke-width='5'/><circle cx='540' cy='540' r='320' fill='none' stroke='#FFFFFF' stroke-width='2' stroke-dasharray='10,5'/><circle cx='840' cy='400' r='120' fill='#FFFFFF'/><circle cx='200' cy='200' r='20' fill='#FFFFFF' opacity='0.4'/><circle cx='300' cy='120' r='15' fill='#FFFFFF' opacity='0.3'/><circle cx='800' cy='180' r='12' fill='#FFFFFF' opacity='0.5'/><circle cx='900' cy='800' r='25' fill='#FFFFFF' opacity='0.2'/><circle cx='150' cy='750' r='18' fill='#FFFFFF' opacity='0.3'/><path d='M200 400 Q250 350, 300 400' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.5'/><path d='M800 700 Q850 650, 900 700' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.5'/><path d='M400 900 Q450 850, 500 900' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 35, "left": 137.2, "width": 805.6, "height": 113, "fill": "#8B3A62", "text": "SUMMER DREAMS", "fontSize": 100, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 155, "left": 211.71499999999997, "width": 656.57, "height": 50.85, "fill": "#4682B4", "text": "FLORAL TOP & DENIM SHORTS", "fontSize": 45, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 901.58, "left": 84.08999999999997, "width": 911.82, "height": 38.42, "fill": "#8B3A62", "text": "\u2022 FLORAL PATTERN \u2022 ELASTIC DESIGN \u2022 SUMMER COMFORT", "fontSize": 34, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "image", "top": 282.02500000000003, "left": 414.625, "width": 295, "height": 607, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/KoEJOCYzJBBOyiFeawGIE_295x607.png", "id": "product_image"}, {"type": "text", "top": 357.625, "left": 758.0, "width": 164, "height": 84.75, "fill": "#8B3A62", "text": "\u20b9 1200", "fontSize": 75, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 440.0, "width": 200, "height": 60, "fill": "#4682B4", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 976.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Summer Dreams Two-Piece Set: Floral Crop Top & High-Waist Denim Shorts", "description": "\u2022 Pink floral pattern cold-shoulder crop top with ruffle details\n\u2022 Elastic off-shoulder design with adjustable straps\n\u2022 Lightweight, breathable fabric perfect for summer\n\u2022 High-waisted light blue denim shorts with rolled cuffs\n\u2022 Elastic waistband for comfortable fit\n\u2022 Functional front pockets\n\u2022 Casual yet chic design suitable for beach, vacation, or daily wear\n\u2022 Available in various sizes\n\u2022 Easy-care machine washable materials\n\u2022 Perfect combination of comfort and style for warm weather", "price": "\u20b91200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/KoEJOCYzJBBOyiFeawGIE_295x607.png", "marketplace_url": "blob:https://staging-studio.phot.ai/e383dd23-9123-4f76-87ba-4ab0ab9c412d", "layout": "circular_focus"}, "banner_details": "\nThe banner features a vibrant and playful summer theme with a clean circular layout at the center showcasing a cutout of a fashion model dressed in a floral top and denim shorts. The background has an abstract design combining soft overlapping waves and gradient color transitions from pink to light blue, giving it an energetic seasonal vibe. The main heading (id: `heading`) is bold and prominently displayed at the top. Below it, a smaller subheading (id: `subheading`) adds context. The price (id: `price`) is highlighted in a large white circle. Supporting feature text (id: `description`) is neatly aligned at the bottom. A bold call-to-action button (id: `cta`) is located just below, encouraging user interaction.\n\n**Color Palette:**\n- Light Pink (#FFD1DC)\n- Coral Pink (#FF9AAD)\n- Sky Blue (#A7C7E7)\n- Deep Blue (#4682B4)\n- Plum Purple (#8B3A62)\n- White (#FFFFFF)\n", "product_color": "\nThe product image showcases a vibrant, youthful outfit featuring a pink floral off-shoulder top paired with high-waisted blue denim shorts. The dominant colors in the top include a rich **hot pink (#D42F6D)** and **white floral patterns (#F8F3F4)**, creating an energetic and eye-catching look. These shades contrast and highlight each other effectively, intensifying the visual appeal. The shorts are a cool, faded **denim blue (#6FA1AF)** with light stitching, introducing a calming, grounded aesthetic that balances the vividness of the top. Altogether, this color palette of warm and cool tones blends harmoniously, ideal for an advertisement banner that emphasizes freshness and youth.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD1DC'/><stop offset='100%' stop-color='#FF9AAD'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#A7C7E7'/><stop offset='100%' stop-color='#82B4DE'/></linearGradient><radialGradient id='circleGrad' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F8F8F8'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M0 0 C300 100, 800 300, 1080 250 L1080 1080 L0 1080 Z' fill='url(#bg2)' opacity='0.7'/><circle cx='540' cy='540' r='300' fill='url(#circleGrad)' stroke='#FFFFFF' stroke-width='5'/><circle cx='540' cy='540' r='320' fill='none' stroke='#FFFFFF' stroke-width='2' stroke-dasharray='10,5'/><circle cx='840' cy='400' r='120' fill='#FFFFFF'/><circle cx='200' cy='200' r='20' fill='#FFFFFF' opacity='0.4'/><circle cx='300' cy='120' r='15' fill='#FFFFFF' opacity='0.3'/><circle cx='800' cy='180' r='12' fill='#FFFFFF' opacity='0.5'/><circle cx='900' cy='800' r='25' fill='#FFFFFF' opacity='0.2'/><circle cx='150' cy='750' r='18' fill='#FFFFFF' opacity='0.3'/><path d='M200 400 Q250 350, 300 400' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.5'/><path d='M800 700 Q850 650, 900 700' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.5'/><path d='M400 900 Q450 850, 500 900' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 35,
+                "left": 137.2,
+                "width": 805.6,
+                "height": 113,
+                "fill": "#8B3A62",
+                "text": "SUMMER DREAMS",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 155,
+                "left": 211.71499999999997,
+                "width": 656.57,
+                "height": 50.85,
+                "fill": "#4682B4",
+                "text": "FLORAL TOP & DENIM SHORTS",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 901.58,
+                "left": 84.08999999999997,
+                "width": 911.82,
+                "height": 38.42,
+                "fill": "#8B3A62",
+                "text": "\u2022 FLORAL PATTERN \u2022 ELASTIC DESIGN \u2022 SUMMER COMFORT",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 282.02500000000003,
+                "left": 414.625,
+                "width": 250.75,
+                "height": 515.9499999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/KoEJOCYzJBBOyiFeawGIE_295x607.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 357.625,
+                "left": 758.0,
+                "width": 164,
+                "height": 84.75,
+                "fill": "#8B3A62",
+                "text": "\u20b9 1200",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#4682B4",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 976.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Summer Dreams Two-Piece Set: Floral Crop Top & High-Waist Denim Shorts",
+            "description": "\u2022 Pink floral pattern cold-shoulder crop top with ruffle details\n\u2022 Elastic off-shoulder design with adjustable straps\n\u2022 Lightweight, breathable fabric perfect for summer\n\u2022 High-waisted light blue denim shorts with rolled cuffs\n\u2022 Elastic waistband for comfortable fit\n\u2022 Functional front pockets\n\u2022 Casual yet chic design suitable for beach, vacation, or daily wear\n\u2022 Available in various sizes\n\u2022 Easy-care machine washable materials\n\u2022 Perfect combination of comfort and style for warm weather",
+            "price": "\u20b91200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/KoEJOCYzJBBOyiFeawGIE_295x607.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/e383dd23-9123-4f76-87ba-4ab0ab9c412d",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner features a vibrant and playful summer theme with a clean circular layout at the center showcasing a cutout of a fashion model dressed in a floral top and denim shorts. The background has an abstract design combining soft overlapping waves and gradient color transitions from pink to light blue, giving it an energetic seasonal vibe. The main heading (id: `heading`) is bold and prominently displayed at the top. Below it, a smaller subheading (id: `subheading`) adds context. The price (id: `price`) is highlighted in a large white circle. Supporting feature text (id: `description`) is neatly aligned at the bottom. A bold call-to-action button (id: `cta`) is located just below, encouraging user interaction.\n\n**Color Palette:**\n- Light Pink (#FFD1DC)\n- Coral Pink (#FF9AAD)\n- Sky Blue (#A7C7E7)\n- Deep Blue (#4682B4)\n- Plum Purple (#8B3A62)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image showcases a vibrant, youthful outfit featuring a pink floral off-shoulder top paired with high-waisted blue denim shorts. The dominant colors in the top include a rich **hot pink (#D42F6D)** and **white floral patterns (#F8F3F4)**, creating an energetic and eye-catching look. These shades contrast and highlight each other effectively, intensifying the visual appeal. The shorts are a cool, faded **denim blue (#6FA1AF)** with light stitching, introducing a calming, grounded aesthetic that balances the vividness of the top. Altogether, this color palette of warm and cool tones blends harmoniously, ideal for an advertisement banner that emphasizes freshness and youth.\n"
+}

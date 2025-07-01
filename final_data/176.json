@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='techBg' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#2D2D2D'/><stop offset='100%' stop-color='#131313'/></radialGradient><linearGradient id='accentGlow' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#64D3FF'/><stop offset='100%' stop-color='#5D5FEF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#techBg)'/><circle cx='540' cy='540' r='300' fill='none' stroke='#333333' stroke-width='2' stroke-dasharray='5,5'/><circle cx='540' cy='540' r='320' fill='none' stroke='#444444' stroke-width='1'/><g opacity='0.6'><circle cx='140' cy='140' r='5' fill='#64D3FF'/><circle cx='180' cy='140' r='5' fill='#64D3FF'/><circle cx='220' cy='140' r='5' fill='#64D3FF'/><circle cx='140' cy='180' r='5' fill='#64D3FF'/><circle cx='140' cy='220' r='5' fill='#64D3FF'/><circle cx='940' cy='940' r='5' fill='#64D3FF'/><circle cx='900' cy='940' r='5' fill='#64D3FF'/><circle cx='860' cy='940' r='5' fill='#64D3FF'/><circle cx='940' cy='900' r='5' fill='#64D3FF'/><circle cx='940' cy='860' r='5' fill='#64D3FF'/></g><circle cx='540' cy='540' r='280' fill='#202020' opacity='0.8'/><circle cx='850' cy='400' r='120' fill='url(#accentGlow)' opacity='0.9'/><path d='M200 400 L300 300' stroke='#64D3FF' stroke-width='2' opacity='0.6'/><path d='M880 700 L980 800' stroke='#64D3FF' stroke-width='2' opacity='0.6'/><path d='M300 800 L200 900' stroke='#5D5FEF' stroke-width='2' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 158.2, "width": 761.6, "height": 90.4, "fill": "#FFFFFF", "text": "NOTHING PHONE", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 380.29, "width": 317.41, "height": 54.24, "fill": "#64D3FF", "text": "(2a) PLUS", "fontSize": 48, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 268.59, "left": 266.66, "width": 1086, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Z4W376XLtMxQ6NDIMM_LS_1086x1439.png", "id": "product_image"}, {"type": "text", "top": 372.45, "left": 755.33, "width": 188.1, "height": 56.5, "fill": "#FFFFFF", "text": "\u20b920,690", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 900, "left": 179.23, "width": 719.54, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 8GB RAM \u2022 DUAL 50MP CAMERA \u2022 AMOLED DISPLAY", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 970, "left": 430, "width": 220, "height": 60, "fill": "#64D3FF", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 986.44, "left": 485.85, "width": 106.31, "height": 27.12, "fill": "#000000", "text": "BUY NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nothing Phone (2a) Plus (Grey, 8GB RAM, 256GB Storage) | Up to 16GB RAM | Dimensity 7350 Pro 5G Processor | 50MP + 50MP | 50MP Front Camera | 6.7\" AMOLED Display | 56 Minutes Charge of 100%", "description": "Nothing Phone (2a) Plus (Grey, 8GB RAM, 256GB Storage) | Up to 16GB RAM | Dimensity 7350 Pro 5G Processor | 50MP + 50MP | 50MP Front Camera | 6.7\" AMOLED Display | 56 Minutes Charge of 100%", "price": "\u20b920690"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Z4W376XLtMxQ6NDIMM_LS_1086x1439.png", "marketplace_url": "https://www.amazon.in/Nothing-Storage-Dimensity-Processor-Display/dp/B0DC8F2X6T?pf_rd_p=1eddce78-1256-4ab1-8f1e-e43a42c85996&pf_rd_r=R3A28E7PD3MSH2S38S5X&ref_=Smartphones-S3P_B0DC8F2X6T", "layout": "circular_focus"}, "banner_details": "\nThis tech-themed promotional banner showcases a modern smartphone in a stylish, futuristic layout. The background utilizes a dark radial gradient with concentric dotted and solid circles, giving depth and focus to the central elements. Decorative tech-inspired lines and dot patterns enhance the design's high-tech aesthetic. At the center, a realistic image of a phone partially obscures a person standing behind, drawing attention to the product. The **heading** and **subheading** text layers are stacked near the top in sleek, futuristic fonts. The **price** tag is enclosed in a circular blue-purple gradient badge on the top-right. Lower on the banner, there's a concise **description** detailing the phone's features. Finally, a prominent **BUY NOW CTA button** in bright blue is positioned at the bottom center for conversion emphasis.\n\n**Color Palette:**\n- Background Gradient: #2D2D2D \u2192 #131313  \n- Accent Glow: #64D3FF \u2192 #5D5FEF  \n- Text (Primary): #FFFFFF  \n- Text (CTA): #000000  \n- Button Fill: #64D3FF  \n- Accent Details: #64D3FF, #5D5FEF  \n", "product_color": "\nThe product image showcases a minimalist yet futuristic aesthetic using a sleek, monochromatic color palette. Dominated by varying shades of metallic grey (#888C8D) and deep black (#0D0D0D), the design emphasizes modern engineering. Accents of white LED light strips (#FFFFFF) and subtle gradients enhance the phone\u2019s premium and high-tech feel. The use of gunmetal silver (#A0A4A5) across the back cover circuitry gives a refined touch, while the dual camera lenses provide contrast with rich black glass (#1A1A1A). The background face highlights the phone's sleek design, creating visual focus. Together, these colors blend seamlessly while keeping each element visually distinct.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='techBg' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#2D2D2D'/><stop offset='100%' stop-color='#131313'/></radialGradient><linearGradient id='accentGlow' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#64D3FF'/><stop offset='100%' stop-color='#5D5FEF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#techBg)'/><circle cx='540' cy='540' r='300' fill='none' stroke='#333333' stroke-width='2' stroke-dasharray='5,5'/><circle cx='540' cy='540' r='320' fill='none' stroke='#444444' stroke-width='1'/><g opacity='0.6'><circle cx='140' cy='140' r='5' fill='#64D3FF'/><circle cx='180' cy='140' r='5' fill='#64D3FF'/><circle cx='220' cy='140' r='5' fill='#64D3FF'/><circle cx='140' cy='180' r='5' fill='#64D3FF'/><circle cx='140' cy='220' r='5' fill='#64D3FF'/><circle cx='940' cy='940' r='5' fill='#64D3FF'/><circle cx='900' cy='940' r='5' fill='#64D3FF'/><circle cx='860' cy='940' r='5' fill='#64D3FF'/><circle cx='940' cy='900' r='5' fill='#64D3FF'/><circle cx='940' cy='860' r='5' fill='#64D3FF'/></g><circle cx='540' cy='540' r='280' fill='#202020' opacity='0.8'/><circle cx='850' cy='400' r='120' fill='url(#accentGlow)' opacity='0.9'/><path d='M200 400 L300 300' stroke='#64D3FF' stroke-width='2' opacity='0.6'/><path d='M880 700 L980 800' stroke='#64D3FF' stroke-width='2' opacity='0.6'/><path d='M300 800 L200 900' stroke='#5D5FEF' stroke-width='2' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 158.2,
+                "width": 761.6,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "NOTHING PHONE",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 380.29,
+                "width": 317.41,
+                "height": 54.24,
+                "fill": "#64D3FF",
+                "text": "(2a) PLUS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 268.59,
+                "left": 266.66,
+                "width": 412.68,
+                "height": 546.82,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Z4W376XLtMxQ6NDIMM_LS_1086x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 372.45,
+                "left": 755.33,
+                "width": 188.1,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "\u20b920,690",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 179.23,
+                "width": 719.54,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 8GB RAM \u2022 DUAL 50MP CAMERA \u2022 AMOLED DISPLAY",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 430,
+                "width": 220,
+                "height": 60,
+                "fill": "#64D3FF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 986.44,
+                "left": 485.85,
+                "width": 106.31,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nothing Phone (2a) Plus (Grey, 8GB RAM, 256GB Storage) | Up to 16GB RAM | Dimensity 7350 Pro 5G Processor | 50MP + 50MP | 50MP Front Camera | 6.7\" AMOLED Display | 56 Minutes Charge of 100%",
+            "description": "Nothing Phone (2a) Plus (Grey, 8GB RAM, 256GB Storage) | Up to 16GB RAM | Dimensity 7350 Pro 5G Processor | 50MP + 50MP | 50MP Front Camera | 6.7\" AMOLED Display | 56 Minutes Charge of 100%",
+            "price": "\u20b920690"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Z4W376XLtMxQ6NDIMM_LS_1086x1439.png",
+        "marketplace_url": "https://www.amazon.in/Nothing-Storage-Dimensity-Processor-Display/dp/B0DC8F2X6T?pf_rd_p=1eddce78-1256-4ab1-8f1e-e43a42c85996&pf_rd_r=R3A28E7PD3MSH2S38S5X&ref_=Smartphones-S3P_B0DC8F2X6T",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis tech-themed promotional banner showcases a modern smartphone in a stylish, futuristic layout. The background utilizes a dark radial gradient with concentric dotted and solid circles, giving depth and focus to the central elements. Decorative tech-inspired lines and dot patterns enhance the design's high-tech aesthetic. At the center, a realistic image of a phone partially obscures a person standing behind, drawing attention to the product. The **heading** and **subheading** text layers are stacked near the top in sleek, futuristic fonts. The **price** tag is enclosed in a circular blue-purple gradient badge on the top-right. Lower on the banner, there's a concise **description** detailing the phone's features. Finally, a prominent **BUY NOW CTA button** in bright blue is positioned at the bottom center for conversion emphasis.\n\n**Color Palette:**\n- Background Gradient: #2D2D2D \u2192 #131313  \n- Accent Glow: #64D3FF \u2192 #5D5FEF  \n- Text (Primary): #FFFFFF  \n- Text (CTA): #000000  \n- Button Fill: #64D3FF  \n- Accent Details: #64D3FF, #5D5FEF  \n",
+    "product_color": "\nThe product image showcases a minimalist yet futuristic aesthetic using a sleek, monochromatic color palette. Dominated by varying shades of metallic grey (#888C8D) and deep black (#0D0D0D), the design emphasizes modern engineering. Accents of white LED light strips (#FFFFFF) and subtle gradients enhance the phone\u2019s premium and high-tech feel. The use of gunmetal silver (#A0A4A5) across the back cover circuitry gives a refined touch, while the dual camera lenses provide contrast with rich black glass (#1A1A1A). The background face highlights the phone's sleek design, creating visual focus. Together, these colors blend seamlessly while keeping each element visually distinct.\n"
+}

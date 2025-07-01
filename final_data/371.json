@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#E3F1FF'/><rect x='540' y='0' width='540' height='540' fill='#B0D5F2'/><rect x='0' y='540' width='540' height='540' fill='#4983B5'/><rect x='540' y='540' width='540' height='540' fill='#2B5B87'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='1'/></g><circle cx='270' cy='270' r='220' fill='#D0E6FF' opacity='0.4'/><circle cx='810' cy='810' r='200' fill='#3D78AB' opacity='0.4'/><g transform='translate(740, 140)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><g opacity='0.1'><path d='M0 100 L540 100' stroke='#0D2C54' stroke-width='2'/><path d='M0 200 L540 200' stroke='#0D2C54' stroke-width='2'/><path d='M0 300 L540 300' stroke='#0D2C54' stroke-width='2'/><path d='M0 400 L540 400' stroke='#0D2C54' stroke-width='2'/><path d='M0 500 L540 500' stroke='#0D2C54' stroke-width='2'/><path d='M100 0 L100 540' stroke='#0D2C54' stroke-width='2'/><path d='M200 0 L200 540' stroke='#0D2C54' stroke-width='2'/><path d='M300 0 L300 540' stroke='#0D2C54' stroke-width='2'/><path d='M400 0 L400 540' stroke='#0D2C54' stroke-width='2'/><path d='M500 0 L500 540' stroke='#0D2C54' stroke-width='2'/></g><g opacity='0.4'><path d='M540 640 L1080 640' stroke='#FFFFFF' stroke-width='1'/><path d='M540 740 L1080 740' stroke='#FFFFFF' stroke-width='1'/><path d='M540 840 L1080 840' stroke='#FFFFFF' stroke-width='1'/><path d='M540 940 L1080 940' stroke='#FFFFFF' stroke-width='1'/><path d='M640 540 L640 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M740 540 L740 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M840 540 L840 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M940 540 L940 1080' stroke='#FFFFFF' stroke-width='1'/></g><g transform='translate(150, 740)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 414.32, "height": 90.4, "fill": "#0D2C54", "text": "AIRPODS", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 140, "left": 50, "width": 208.08, "height": 90.4, "fill": "#0D2C54", "text": "MAX", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 240, "left": 50, "width": 454.59, "height": 28.25, "fill": "#2B5B87", "text": "WIRELESS HEADPHONES", "fontSize": 25, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 346.88, "height": 186.45, "fill": "#FFFFFF", "text": "\u2022 Active Noise Cancellation\n\u2022 Premium Sound Quality\n\u2022 20 Hours Battery Life\n\u2022 Personalized Spatial Audio", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 590, "width": 358.85, "height": 113, "fill": "#FFFFFF", "text": "$437.49", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 590, "width": 220, "height": 70, "fill": "#E3F1FF", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 960, "left": 638, "width": 135.06, "height": 33.9, "fill": "#0D2C54", "text": "BUY NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 60, "left": 570, "width": 1301, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7d325327-b915-44cc-8d49-245bcfb5fdee_nobg_1301x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. MAGICAL EXPERIENCE \u2014 Pair AirPods Max by simply placing them near your device and tapping Connect on your screen. AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad, and Mac completely effortless. LONG BATTERY LIFE \u2014 Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation and Personalized Spatial Audio enabled. PRECISION CONTROL \u2014 Use the Digital Crown to play and pause music, to answer, end, and mute yourself on calls, and to control volume and skip between tracks. A SMARTER CASE \u2014 Store in an ultra low-power state with the slim Smart Case. LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See \u201cAdditional information\u201d to learn more. Brand - Apple ** Color - Sky Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **", "price": "437.49"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7d325327-b915-44cc-8d49-245bcfb5fdee_nobg_1301x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08PZJN7BD", "layout": "grid_four"}, "banner_details": "  \nThe banner is a promotional advertisement for a wireless headphone product, visually divided into four quadrants with a geometric grid background. The top-left section features bold and modern typographic branding using text layers **heading_1**, **heading_2**, and a sleek subtitle **tagline** beneath it. The top-right quadrant showcases the product image (**product_image**) prominently within a soft blue background, detailed with circular and diagonal graphic accents representing tech and clarity. The bottom-left quadrant presents key features in bullet form using the **description** text layer, and the bottom-right includes a large highlighted price (**price**) and a call-to-action button (**cta_button** & **cta**) prompting purchase. The layout uses a modern and clean design, combining sharp lines and soft color blending.\n\n**Color Palette**:\n- Soft Sky Blue (#E3F1FF)  \n- Steel Blue (#B0D5F2)  \n- Dark Navy (#0D2C54)  \n- Deep Blue (#2B5B87)  \n- White (#FFFFFF)  \n- Light Blue Accent (#D0E6FF)  \n- muted Blue Circle Overlay (#3D78AB)  \n", "product_color": "  \nThe product image features a sleek and modern design with a premium blue color palette. The primary colors include metallic sky blue (#98AFC7) on the earcups and mesh padding, and a darker navy blue (#1F3A93) on the headband, creating depth and contrast. Accents of chrome silver (#C0C0C0) are present in the connectors, lending a touch of sophistication. The colors are smoothly blended, with gradient shading that enhances the contours and texture of the headphones. These tones highlight the precision and quality of the design, making them ideal for a tech-inspired advertisement banner with a clean, futuristic aesthetic.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#E3F1FF'/><rect x='540' y='0' width='540' height='540' fill='#B0D5F2'/><rect x='0' y='540' width='540' height='540' fill='#4983B5'/><rect x='540' y='540' width='540' height='540' fill='#2B5B87'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='1'/></g><circle cx='270' cy='270' r='220' fill='#D0E6FF' opacity='0.4'/><circle cx='810' cy='810' r='200' fill='#3D78AB' opacity='0.4'/><g transform='translate(740, 140)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g><g opacity='0.1'><path d='M0 100 L540 100' stroke='#0D2C54' stroke-width='2'/><path d='M0 200 L540 200' stroke='#0D2C54' stroke-width='2'/><path d='M0 300 L540 300' stroke='#0D2C54' stroke-width='2'/><path d='M0 400 L540 400' stroke='#0D2C54' stroke-width='2'/><path d='M0 500 L540 500' stroke='#0D2C54' stroke-width='2'/><path d='M100 0 L100 540' stroke='#0D2C54' stroke-width='2'/><path d='M200 0 L200 540' stroke='#0D2C54' stroke-width='2'/><path d='M300 0 L300 540' stroke='#0D2C54' stroke-width='2'/><path d='M400 0 L400 540' stroke='#0D2C54' stroke-width='2'/><path d='M500 0 L500 540' stroke='#0D2C54' stroke-width='2'/></g><g opacity='0.4'><path d='M540 640 L1080 640' stroke='#FFFFFF' stroke-width='1'/><path d='M540 740 L1080 740' stroke='#FFFFFF' stroke-width='1'/><path d='M540 840 L1080 840' stroke='#FFFFFF' stroke-width='1'/><path d='M540 940 L1080 940' stroke='#FFFFFF' stroke-width='1'/><path d='M640 540 L640 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M740 540 L740 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M840 540 L840 1080' stroke='#FFFFFF' stroke-width='1'/><path d='M940 540 L940 1080' stroke='#FFFFFF' stroke-width='1'/></g><g transform='translate(150, 740)'><circle cx='0' cy='0' r='5' fill='#FFFFFF'/><circle cx='20' cy='0' r='5' fill='#FFFFFF'/><circle cx='40' cy='0' r='5' fill='#FFFFFF'/><circle cx='60' cy='0' r='5' fill='#FFFFFF'/><circle cx='80' cy='0' r='5' fill='#FFFFFF'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 414.32,
+                "height": 90.4,
+                "fill": "#0D2C54",
+                "text": "AIRPODS",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 50,
+                "width": 208.08,
+                "height": 90.4,
+                "fill": "#0D2C54",
+                "text": "MAX",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 50,
+                "width": 454.59,
+                "height": 28.25,
+                "fill": "#2B5B87",
+                "text": "WIRELESS HEADPHONES",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 346.88,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Active Noise Cancellation\n\u2022 Premium Sound Quality\n\u2022 20 Hours Battery Life\n\u2022 Personalized Spatial Audio",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 590,
+                "width": 358.85,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$437.49",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 590,
+                "width": 220,
+                "height": 70,
+                "fill": "#E3F1FF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 960,
+                "left": 638,
+                "width": 135.06,
+                "height": 33.9,
+                "fill": "#0D2C54",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 60,
+                "left": 570,
+                "width": 468.35999999999996,
+                "height": 518.04,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7d325327-b915-44cc-8d49-245bcfb5fdee_nobg_1301x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. MAGICAL EXPERIENCE \u2014 Pair AirPods Max by simply placing them near your device and tapping Connect on your screen. AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad, and Mac completely effortless. LONG BATTERY LIFE \u2014 Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation and Personalized Spatial Audio enabled. PRECISION CONTROL \u2014 Use the Digital Crown to play and pause music, to answer, end, and mute yourself on calls, and to control volume and skip between tracks. A SMARTER CASE \u2014 Store in an ultra low-power state with the slim Smart Case. LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See \u201cAdditional information\u201d to learn more. Brand - Apple ** Color - Sky Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **",
+            "price": "437.49"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7d325327-b915-44cc-8d49-245bcfb5fdee_nobg_1301x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08PZJN7BD",
+        "layout": "grid_four"
+    },
+    "banner_details": "  \nThe banner is a promotional advertisement for a wireless headphone product, visually divided into four quadrants with a geometric grid background. The top-left section features bold and modern typographic branding using text layers **heading_1**, **heading_2**, and a sleek subtitle **tagline** beneath it. The top-right quadrant showcases the product image (**product_image**) prominently within a soft blue background, detailed with circular and diagonal graphic accents representing tech and clarity. The bottom-left quadrant presents key features in bullet form using the **description** text layer, and the bottom-right includes a large highlighted price (**price**) and a call-to-action button (**cta_button** & **cta**) prompting purchase. The layout uses a modern and clean design, combining sharp lines and soft color blending.\n\n**Color Palette**:\n- Soft Sky Blue (#E3F1FF)  \n- Steel Blue (#B0D5F2)  \n- Dark Navy (#0D2C54)  \n- Deep Blue (#2B5B87)  \n- White (#FFFFFF)  \n- Light Blue Accent (#D0E6FF)  \n- muted Blue Circle Overlay (#3D78AB)  \n",
+    "product_color": "  \nThe product image features a sleek and modern design with a premium blue color palette. The primary colors include metallic sky blue (#98AFC7) on the earcups and mesh padding, and a darker navy blue (#1F3A93) on the headband, creating depth and contrast. Accents of chrome silver (#C0C0C0) are present in the connectors, lending a touch of sophistication. The colors are smoothly blended, with gradient shading that enhances the contours and texture of the headphones. These tones highlight the precision and quality of the design, making them ideal for a tech-inspired advertisement banner with a clean, futuristic aesthetic.  \n"
+}

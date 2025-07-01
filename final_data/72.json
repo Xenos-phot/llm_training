@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1A1A1A'/><rect x='0' y='840' width='1080' height='240' fill='#E21B1B'/><path d='M0 800 C180 770 360 830 540 800 C720 770 900 830 1080 800 L1080 1080 L0 1080 L0 800Z' fill='#BF0000'/><circle cx='940' cy='140' r='80' fill='#E21B1B' opacity='0.7'/><circle cx='140' cy='300' r='60' fill='#E21B1B' opacity='0.5'/><rect x='60' y='420' width='100' height='30' rx='15' fill='#E21B1B' opacity='0.6'/><rect x='920' y='520' width='80' height='20' rx='10' fill='#E21B1B' opacity='0.4'/><circle cx='840' cy='680' r='40' fill='#E21B1B' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 248.60000000000002, "width": 582.8, "height": 113, "fill": "#FFFFFF", "text": "CREATINE GUMMIES", "fontSize": 100, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 369.615, "width": 340.77, "height": 56.5, "fill": "#E21B1B", "text": "FORCE FACTOR", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 260, "left": 277.94, "width": 524.12, "height": 45.2, "fill": "#FFFFFF", "text": "5G PER SERVING \u2022 MIXED BERRY", "fontSize": 40, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 300.98, "left": 357.3, "width": 1015, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Ej0ZAYf5i4evW7vnUQSTX_1015x1439.png", "id": "product_image"}, {"type": "text", "top": 844.8, "left": 415.24, "width": 249.52, "height": 90.4, "fill": "#FFFFFF", "text": "$23.98", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 958.5, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#000000", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 974.18, "left": 467.23, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Force Factor Creatine Gummies, 5 Grams Creatine Monohydrate for Muscle Gain, More Strength, and Faster Recovery, Mixed Berry, 150 Gummies, 30 Servings", "description": "- Introducing Force Factor Creatine Gummies: the delicious and convenient way to fuel your performance and achieve your fitness goals.\n- Absorbing faster than regular creatine thanks to the inclusion of AstraGin, a patented ginseng extract, these gummies ensure more effective results with every serving.\n- Formulated to help you build lean muscle and strength, each creatine gummy serving packs a clinically studied 5g dose of creatine, verified by third-party testing for potency and purity.\n- Sweet and flavorful, these gummies make post-workout refueling a treat, without the hassle of messy powders or creatine settling at the bottom of your shaker cup.\n- Made in the USA in GMP-certified facilities, you can trust Force Factor Creatine Gummies for quality and safety every step of the way.\n- Elevate your workouts with confidence and convenience.", "price": "$23.98"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Ej0ZAYf5i4evW7vnUQSTX_1015x1439.png", "marketplace_url": "https://www.amazon.com/Force-Factor-Creatine-Monohydrate-Clinically/dp/B0D4PFH1GY", "layout": "centered_hero"}, "banner_details": "\nThe banner showcases a bold and energetic advertisement for a supplement product. Dominated by a dark charcoal background, the layout is clean and modern with accent shapes in vibrant red hues, giving it a dynamic yet professional look. At the top, the large heading text (`heading`) introduces the product name in high-contrast white. Just below, a red subheading (`subheading`) emphasizes the brand name prominently, followed by a smaller white tagline (`tagline`) introducing the product flavor and dosage. The central focus is the product bottle image (`product_image`). Lower on the banner, the price (`price`) is boldly displayed in white above a red wave shape. The \"SHOP NOW\" call-to-action (`cta`) is centered in a black button (`cta_background`), drawing the viewer\u2019s eye to take action.\n\n**Color Palette:**\n- Charcoal Black: `#1A1A1A`\n- Red: `#E21B1B`\n- Deep Red: `#BF0000`\n- White: `#FFFFFF`\n- Black (for CTA background): `#000000`\n", "product_color": "  \nThe product image uses a bold and energetic color palette that emphasizes strength and vitality. Dominant colors include a vivid red (#D32F2F), used in the label background and accents to symbolize power and urgency. Black (#000000) and white (#FFFFFF) are used for contrast and clarity, achieving a clean yet dynamic look. Purple (#6A1B9A) from the \"Mixed Berry Flavor\" badge adds a playful touch, and deep blue (#1A237E) from the blueberries introduces freshness. The red is blended prominently with the imagery of berries and gummies, creating visual harmony while making key elements stand out. The bright visuals communicate energy and effectiveness effectively.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1A1A1A'/><rect x='0' y='840' width='1080' height='240' fill='#E21B1B'/><path d='M0 800 C180 770 360 830 540 800 C720 770 900 830 1080 800 L1080 1080 L0 1080 L0 800Z' fill='#BF0000'/><circle cx='940' cy='140' r='80' fill='#E21B1B' opacity='0.7'/><circle cx='140' cy='300' r='60' fill='#E21B1B' opacity='0.5'/><rect x='60' y='420' width='100' height='30' rx='15' fill='#E21B1B' opacity='0.6'/><rect x='920' y='520' width='80' height='20' rx='10' fill='#E21B1B' opacity='0.4'/><circle cx='840' cy='680' r='40' fill='#E21B1B' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 248.60000000000002,
+                "width": 582.8,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "CREATINE GUMMIES",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 369.615,
+                "width": 340.77,
+                "height": 56.5,
+                "fill": "#E21B1B",
+                "text": "FORCE FACTOR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 260,
+                "left": 277.94,
+                "width": 524.12,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "5G PER SERVING \u2022 MIXED BERRY",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 300.98,
+                "left": 357.3,
+                "width": 365.4,
+                "height": 518.04,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Ej0ZAYf5i4evW7vnUQSTX_1015x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 844.8,
+                "left": 415.24,
+                "width": 249.52,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$23.98",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 958.5,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#000000",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 974.18,
+                "left": 467.23,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Force Factor Creatine Gummies, 5 Grams Creatine Monohydrate for Muscle Gain, More Strength, and Faster Recovery, Mixed Berry, 150 Gummies, 30 Servings",
+            "description": "- Introducing Force Factor Creatine Gummies: the delicious and convenient way to fuel your performance and achieve your fitness goals.\n- Absorbing faster than regular creatine thanks to the inclusion of AstraGin, a patented ginseng extract, these gummies ensure more effective results with every serving.\n- Formulated to help you build lean muscle and strength, each creatine gummy serving packs a clinically studied 5g dose of creatine, verified by third-party testing for potency and purity.\n- Sweet and flavorful, these gummies make post-workout refueling a treat, without the hassle of messy powders or creatine settling at the bottom of your shaker cup.\n- Made in the USA in GMP-certified facilities, you can trust Force Factor Creatine Gummies for quality and safety every step of the way.\n- Elevate your workouts with confidence and convenience.",
+            "price": "$23.98"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Ej0ZAYf5i4evW7vnUQSTX_1015x1439.png",
+        "marketplace_url": "https://www.amazon.com/Force-Factor-Creatine-Monohydrate-Clinically/dp/B0D4PFH1GY",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner showcases a bold and energetic advertisement for a supplement product. Dominated by a dark charcoal background, the layout is clean and modern with accent shapes in vibrant red hues, giving it a dynamic yet professional look. At the top, the large heading text (`heading`) introduces the product name in high-contrast white. Just below, a red subheading (`subheading`) emphasizes the brand name prominently, followed by a smaller white tagline (`tagline`) introducing the product flavor and dosage. The central focus is the product bottle image (`product_image`). Lower on the banner, the price (`price`) is boldly displayed in white above a red wave shape. The \"SHOP NOW\" call-to-action (`cta`) is centered in a black button (`cta_background`), drawing the viewer\u2019s eye to take action.\n\n**Color Palette:**\n- Charcoal Black: `#1A1A1A`\n- Red: `#E21B1B`\n- Deep Red: `#BF0000`\n- White: `#FFFFFF`\n- Black (for CTA background): `#000000`\n",
+    "product_color": "  \nThe product image uses a bold and energetic color palette that emphasizes strength and vitality. Dominant colors include a vivid red (#D32F2F), used in the label background and accents to symbolize power and urgency. Black (#000000) and white (#FFFFFF) are used for contrast and clarity, achieving a clean yet dynamic look. Purple (#6A1B9A) from the \"Mixed Berry Flavor\" badge adds a playful touch, and deep blue (#1A237E) from the blueberries introduces freshness. The red is blended prominently with the imagery of berries and gummies, creating visual harmony while making key elements stand out. The bright visuals communicate energy and effectiveness effectively.\n"
+}

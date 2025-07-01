@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0A1829'/><rect x='500' y='0' width='580' height='1080' fill='#122438'/><circle cx='800' cy='200' r='150' fill='#1E3E64' opacity='0.6'/><circle cx='150' cy='800' r='100' fill='#1E3E64' opacity='0.5'/><rect x='0' y='380' width='1080' height='300' fill='#0C1F36' opacity='0.7'/><path d='M0 0 L1080 0 L1080 400 L0 400 Z' fill='#1A2C3F' opacity='0.7'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#2563EB;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#0284C7;stop-opacity:0.1'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 40, "width": 583.25, "height": 107.35, "fill": "#FFFFFF", "text": "COUNTERTOP", "fontSize": 95, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 150, "left": 40, "width": 562.4, "height": 107.35, "fill": "#2563EB", "text": "DISHWASHER", "fontSize": 95, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 270, "left": 40, "width": 764.19, "height": 79.1, "fill": "#93C5FD", "text": "COMPACT CLEANING", "fontSize": 70, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 400, "left": 40, "width": 313.31, "height": 144.64, "fill": "#FFFFFF", "text": "\u2022 8 Wash Programs\n\u2022 5L Water Tank\n\u2022 Child Lock Function\n\u2022 No Installation Needed", "fontSize": 32, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 40, "width": 370.51, "height": 90.4, "fill": "#2563EB", "text": "$294.00", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 910, "left": 40, "width": 220, "height": 70, "fill": "#2563EB", "rx": 10, "ry": 10, "id": "cta_button"}, {"type": "text", "top": 929, "left": 59, "width": 176.67, "height": 36.16, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 388, "left": 465.5, "width": 1058, "height": 1008, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ad7d2e2f-0b6a-49eb-9889-526f201ecb6d_nobg_1058x1008.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "8 WASH CYCLE OPTIONS: HAVA 2024 NEW Upgrade Model R07 Countertop Dishwasher Supports Normal, Quick, ECO, Strong, Glass, Fruit, Self-Clean, and Dry modes for your various dishwashing needs. After each wash cycle finishes, a Dry mode provides an extra 60 minutes of drying and offers 72-hour ventilated storage to prevent odors and keep your dishes clean. UP TO 18-HOUR DELAYED START: HAVA Portable Dishwasher can finish the wash program according to your schedule. A delay of up to 18 hours is available with this new model, so you can be assured of having clean dishes at the desired time. You may also use this feature to run the machine during a non-peak time for a lower electricity bill. SELF-CLEAN & CHILD LOCK FUNCTION: The HAVA Mini Dishwasher features a Self-Clean program for thorough cleaning from the inside out, ensuring consistent washing performance. It also includes a child lock function to prevent misoperation. NO INSTALLATION NEEDED: Simply add water to the built-in 5L water tank for your washing task, so you can put the dishwasher in any suitable place without connecting to tap water. Also, you can connect the water inlet to a faucet using the included hose (adapter included). A compact design makes it perfect for small-sized houses, apartments, dorms, boats, and campers/RVs. LARGE CAPACITY & SAVES ENERGY: HAVA Counter Top Dishwasher can hold up to 4 full-place settings and fit up to 11 dishes loaded at an angle. This dishwasher only consumes 5 L of water per wash cycle, only 1/5 of the amount used by handwashing. Operating at 950 W, this appliance is a great energy-saving choice for every family. QUALITY CONTROL NOTE: Each unit of HAVA undergoes manufacturer's rigorous quality tests to guarantee full functionality, so having a little amount of residual water in the unit is NORMAL. Any questions about the product, please feel free to send us an email and HAVA will try our best to help you! Machine Size: (L x W x H): 16.86 x 16.75 x 18.05 in (42.8 x 42.5 x 45.8 cm); Interior Size (L x W x H): 13 x 13.77 x 10.83 in (space with tableware basket inside). Brand - HAVA ** Installation Type - Countertop ** Product Dimensions - 16.86&#34;D x 16.75&#34;W x 18.05&#34;H ** Capacity - 5 Liters ** Special Feature - Childproof Lock, Digital Display, Self-Cleaning, Built-In Water Tank, Compact ** Color - snow white ** Controls Type - Touch ** Material - Polypropylene (PP) ** Noise Level - 60 dB ** Included Components - User Manual, Drying System, Power Cord, Drain Hose, Cutlery Basket **", "price": "294.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ad7d2e2f-0b6a-49eb-9889-526f201ecb6d_nobg_1058x1008.png", "marketplace_url": "https://www.amazon.com/dp/B0CKPHD13M", "layout": "split_vertical"}, "banner_details": "\nThis banner design is a clean and modern promotional layout for a countertop dishwasher. It features a dark, layered geometric background with subtle gradients and circles to add depth and dimension. The composition is left-aligned, with a large product image on the right and all text content on the left. Texts are displayed in a hierarchy: the main heading (`heading_1` and `heading_2`) grabs attention with bold white and vibrant blue fonts. The tagline (`tagline`) sits beneath in a lighter blue tone, followed by a concise feature list (`description`), a prominent price (`price`), and a bright call-to-action button (`cta_button` and `cta`) at the bottom. The design effectively draws the viewer\u2019s eye from top-left to bottom-right.\n\n**Color Palette**:  \n- Dark Background: `#0A1829`, `#122438`, `#0C1F36`, `#1A2C3F`  \n- Accent Blue: `#2563EB`  \n- Soft Blue: `#93C5FD`  \n- White: `#FFFFFF`\n\n", "product_color": "\nThe product image showcases a modern tabletop dishwasher with a sleek, tech-savvy aesthetic. The primary colors used are crisp white (#FFFFFF) for the body, deep black (#111111) for the front panel, and an electric blue (#0033FF) used as interior lighting, creating a futuristic and clean visual appeal. The bright white dishes contrast brilliantly against the radiant blue glow, while the black panel frames the image, highlighting the interior. The blue light adds vibrancy, suggesting cleanliness and innovation. This triadic palette\u2014white, black, and blue\u2014blends seamlessly while allowing each color to stand out, making it ideal for a stylish and impactful advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0A1829'/><rect x='500' y='0' width='580' height='1080' fill='#122438'/><circle cx='800' cy='200' r='150' fill='#1E3E64' opacity='0.6'/><circle cx='150' cy='800' r='100' fill='#1E3E64' opacity='0.5'/><rect x='0' y='380' width='1080' height='300' fill='#0C1F36' opacity='0.7'/><path d='M0 0 L1080 0 L1080 400 L0 400 Z' fill='#1A2C3F' opacity='0.7'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#2563EB;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#0284C7;stop-opacity:0.1'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 40,
+                "width": 583.25,
+                "height": 107.35,
+                "fill": "#FFFFFF",
+                "text": "COUNTERTOP",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 40,
+                "width": 562.4,
+                "height": 107.35,
+                "fill": "#2563EB",
+                "text": "DISHWASHER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 270,
+                "left": 40,
+                "width": 764.19,
+                "height": 79.1,
+                "fill": "#93C5FD",
+                "text": "COMPACT CLEANING",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 40,
+                "width": 313.31,
+                "height": 144.64,
+                "fill": "#FFFFFF",
+                "text": "\u2022 8 Wash Programs\n\u2022 5L Water Tank\n\u2022 Child Lock Function\n\u2022 No Installation Needed",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 40,
+                "width": 370.51,
+                "height": 90.4,
+                "fill": "#2563EB",
+                "text": "$294.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 910,
+                "left": 40,
+                "width": 220,
+                "height": 70,
+                "fill": "#2563EB",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 929,
+                "left": 59,
+                "width": 176.67,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 388,
+                "left": 465.5,
+                "width": 529.0,
+                "height": 504.0,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ad7d2e2f-0b6a-49eb-9889-526f201ecb6d_nobg_1058x1008.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "8 WASH CYCLE OPTIONS: HAVA 2024 NEW Upgrade Model R07 Countertop Dishwasher Supports Normal, Quick, ECO, Strong, Glass, Fruit, Self-Clean, and Dry modes for your various dishwashing needs. After each wash cycle finishes, a Dry mode provides an extra 60 minutes of drying and offers 72-hour ventilated storage to prevent odors and keep your dishes clean. UP TO 18-HOUR DELAYED START: HAVA Portable Dishwasher can finish the wash program according to your schedule. A delay of up to 18 hours is available with this new model, so you can be assured of having clean dishes at the desired time. You may also use this feature to run the machine during a non-peak time for a lower electricity bill. SELF-CLEAN & CHILD LOCK FUNCTION: The HAVA Mini Dishwasher features a Self-Clean program for thorough cleaning from the inside out, ensuring consistent washing performance. It also includes a child lock function to prevent misoperation. NO INSTALLATION NEEDED: Simply add water to the built-in 5L water tank for your washing task, so you can put the dishwasher in any suitable place without connecting to tap water. Also, you can connect the water inlet to a faucet using the included hose (adapter included). A compact design makes it perfect for small-sized houses, apartments, dorms, boats, and campers/RVs. LARGE CAPACITY & SAVES ENERGY: HAVA Counter Top Dishwasher can hold up to 4 full-place settings and fit up to 11 dishes loaded at an angle. This dishwasher only consumes 5 L of water per wash cycle, only 1/5 of the amount used by handwashing. Operating at 950 W, this appliance is a great energy-saving choice for every family. QUALITY CONTROL NOTE: Each unit of HAVA undergoes manufacturer's rigorous quality tests to guarantee full functionality, so having a little amount of residual water in the unit is NORMAL. Any questions about the product, please feel free to send us an email and HAVA will try our best to help you! Machine Size: (L x W x H): 16.86 x 16.75 x 18.05 in (42.8 x 42.5 x 45.8 cm); Interior Size (L x W x H): 13 x 13.77 x 10.83 in (space with tableware basket inside). Brand - HAVA ** Installation Type - Countertop ** Product Dimensions - 16.86&#34;D x 16.75&#34;W x 18.05&#34;H ** Capacity - 5 Liters ** Special Feature - Childproof Lock, Digital Display, Self-Cleaning, Built-In Water Tank, Compact ** Color - snow white ** Controls Type - Touch ** Material - Polypropylene (PP) ** Noise Level - 60 dB ** Included Components - User Manual, Drying System, Power Cord, Drain Hose, Cutlery Basket **",
+            "price": "294.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ad7d2e2f-0b6a-49eb-9889-526f201ecb6d_nobg_1058x1008.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CKPHD13M",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design is a clean and modern promotional layout for a countertop dishwasher. It features a dark, layered geometric background with subtle gradients and circles to add depth and dimension. The composition is left-aligned, with a large product image on the right and all text content on the left. Texts are displayed in a hierarchy: the main heading (`heading_1` and `heading_2`) grabs attention with bold white and vibrant blue fonts. The tagline (`tagline`) sits beneath in a lighter blue tone, followed by a concise feature list (`description`), a prominent price (`price`), and a bright call-to-action button (`cta_button` and `cta`) at the bottom. The design effectively draws the viewer\u2019s eye from top-left to bottom-right.\n\n**Color Palette**:  \n- Dark Background: `#0A1829`, `#122438`, `#0C1F36`, `#1A2C3F`  \n- Accent Blue: `#2563EB`  \n- Soft Blue: `#93C5FD`  \n- White: `#FFFFFF`\n\n",
+    "product_color": "\nThe product image showcases a modern tabletop dishwasher with a sleek, tech-savvy aesthetic. The primary colors used are crisp white (#FFFFFF) for the body, deep black (#111111) for the front panel, and an electric blue (#0033FF) used as interior lighting, creating a futuristic and clean visual appeal. The bright white dishes contrast brilliantly against the radiant blue glow, while the black panel frames the image, highlighting the interior. The blue light adds vibrancy, suggesting cleanliness and innovation. This triadic palette\u2014white, black, and blue\u2014blends seamlessly while allowing each color to stand out, making it ideal for a stylish and impactful advertisement banner.\n"
+}

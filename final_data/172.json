@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A1A1A;stop-opacity:1'/><stop offset='100%' style='stop-color:#2C2C2C;stop-opacity:1'/></linearGradient><linearGradient id='accent-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#D10000;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#FF0000;stop-opacity:0.5'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#444444' stroke-width='2' fill='none'/><path d='M0,240 C200,180 350,280 500,240 C650,200 800,280 1080,220 L1080,0 L0,0 Z' fill='url(#accent-gradient)' opacity='0.15'/><path d='M0,880 C250,920 400,820 550,860 C700,900 850,820 1080,880 L1080,1080 L0,1080 Z' fill='url(#accent-gradient)' opacity='0.15'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='rgba(255,255,255,0.1)' stroke-width='1' fill='none'/><path d='M120,200 L300,200' stroke='#D10000' stroke-width='3' opacity='0.7'/><path d='M120,880 L300,880' stroke='#D10000' stroke-width='3' opacity='0.7'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><path d='M750,150 L800,200 L850,150 L800,100 Z' fill='#D10000' opacity='0.2'/><path d='M250,900 L300,950 L350,900 L300,850 Z' fill='#D10000' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 80, "width": 662.1, "height": 113, "fill": "#ffffff", "text": "STEELBIRD", "fontSize": 100, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 190, "left": 80, "width": 566.83, "height": 79.1, "fill": "#D10000", "text": "FLIP-UP HELMET", "fontSize": 70, "fontFamily": "Play Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 290, "left": 80, "width": 261.18, "height": 165.43, "fill": "#ffffff", "text": "ISI Certified Design\nInner Smoke Sun Shield\nHigh Impact Resistant\nEPS/ABS Material Shell", "fontSize": 24, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 760, "left": 80, "width": 327.14, "height": 113, "fill": "#ffffff", "text": "\u20b9 1516", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 890, "left": 80, "width": 220, "height": 60, "fill": "#D10000", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 908, "left": 125, "width": 125.04, "height": 27.12, "fill": "#ffffff", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 280, "left": 500, "width": 1047, "height": 1079, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ln5bZMgeJ1ZgO8IdTLSh4_1047x1079.png", "id": "product_image"}, {"type": "text", "top": 108, "left": 778, "width": 203.39, "height": 79.1, "fill": "#ffffff", "text": "SBA-7", "fontSize": 70, "fontFamily": "Play Bold", "textAlign": "left", "id": "tagline"}, {"type": "rect", "top": 270, "left": 80, "width": 180, "height": 3, "fill": "#D10000", "rx": 0, "ry": 0, "id": "decorative"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Steelbird SBA-7 7Wings ISI Certified Flip-Up Helmet for Men and Women with Inner Smoke Sun Shield (Medium 580 MM, Dashing Black)", "description": "Sport: Motorcycling. Certificate Type: ISI. Finish Type: Matte. Shell Type: EPS / ABS Material. Specification Met: isi certified. Shape: Round Oval. Closure Type: Flip. Model Name: SBA-7 Dashing Double Visor. Product Dimensions: 26 x 18 x 25 cm; 1.25 kg. Size: m. Special Features: High Impact Resistant. Country of Origin: India. Item Weight: 1 kg 250 g. Item Dimensions Lx Wx H: 26 x 18 x 25 Centimeters. Net Quantity: 1.00 Count. Generic Name: Helmet.", "price": "\u20b91516"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ln5bZMgeJ1ZgO8IdTLSh4_1047x1079.png", "marketplace_url": "https://www.amazon.in/Steelbird-SBA-7-7Wings-Certified-Thermoplastic/dp/B09MKN3B2L/ref=lp_5258045031_1_10?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=NGJG3YJE8F92N1JSTD95&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1", "layout": "frame_layout"}, "banner_details": "\nThe banner features a modern, tech-forward aesthetic designed to promote a flip-up helmet. A dark, angular gradient background with subtle circular designs provides a sleek and futuristic vibe. The central focus is a high-resolution product image (\"product_image\") of the helmet on the right. The bold white title (\"heading\") sits at the top left, complemented by a vibrant red subheading (\"subheading\"). Below that, key product features are listed in a compact white text block (\"description\"). Bottom-left features a large price tag (\"price\") above a red rectangular call-to-action button (\"cta_background\") with centered white text (\"cta\"). An additional small white tagline (\"tagline\") appears near the top right.\n\n**Color Palette:**\n- Deep Charcoal: #1A1A1A\n- Gunmetal Gray: #2C2C2C\n- Crimson Red: #D10000\n- Bright Red: #FF0000\n- Pure White: #FFFFFF\n", "product_color": "\nThe product image features a sleek motorcycle helmet primarily in matte black and charcoal gray tones, exuding a modern and rugged aesthetic. The color palette includes matte black (#1C1C1C), dark gray (#3A3A3A), light gray (#B0B0B0), glossy black (#0F0F0F), and accents of red (#C21807) and white (#FFFFFF) seen in the logo detailing. Color blending is subtly executed, with matte and glossy finishes interacting to create depth and contrast. The glossy black visor and clear top shield reflect light, effectively highlighting the helmet\u2019s contours. These structural highlights and finishes enhance the premium design, making it ideal for a tech-savvy, performance-driven advertisement banner. \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A1A1A;stop-opacity:1'/><stop offset='100%' style='stop-color:#2C2C2C;stop-opacity:1'/></linearGradient><linearGradient id='accent-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#D10000;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#FF0000;stop-opacity:0.5'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#444444' stroke-width='2' fill='none'/><path d='M0,240 C200,180 350,280 500,240 C650,200 800,280 1080,220 L1080,0 L0,0 Z' fill='url(#accent-gradient)' opacity='0.15'/><path d='M0,880 C250,920 400,820 550,860 C700,900 850,820 1080,880 L1080,1080 L0,1080 Z' fill='url(#accent-gradient)' opacity='0.15'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='rgba(255,255,255,0.1)' stroke-width='1' fill='none'/><path d='M120,200 L300,200' stroke='#D10000' stroke-width='3' opacity='0.7'/><path d='M120,880 L300,880' stroke='#D10000' stroke-width='3' opacity='0.7'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><path d='M750,150 L800,200 L850,150 L800,100 Z' fill='#D10000' opacity='0.2'/><path d='M250,900 L300,950 L350,900 L300,850 Z' fill='#D10000' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 80,
+                "width": 662.1,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "STEELBIRD",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 80,
+                "width": 566.83,
+                "height": 79.1,
+                "fill": "#D10000",
+                "text": "FLIP-UP HELMET",
+                "fontFamily": "Play Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 80,
+                "width": 261.18,
+                "height": 165.43,
+                "fill": "#ffffff",
+                "text": "ISI Certified Design\nInner Smoke Sun Shield\nHigh Impact Resistant\nEPS/ABS Material Shell",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 80,
+                "width": 327.14,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "\u20b9 1516",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 890,
+                "left": 80,
+                "width": 220,
+                "height": 60,
+                "fill": "#D10000",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 908,
+                "left": 125,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#ffffff",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 280,
+                "left": 500,
+                "width": 544.44,
+                "height": 561.08,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ln5bZMgeJ1ZgO8IdTLSh4_1047x1079.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 108,
+                "left": 778,
+                "width": 203.39,
+                "height": 79.1,
+                "fill": "#ffffff",
+                "text": "SBA-7",
+                "fontFamily": "Play Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "rect",
+                "top": 270,
+                "left": 80,
+                "width": 180,
+                "height": 3,
+                "fill": "#D10000",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Steelbird SBA-7 7Wings ISI Certified Flip-Up Helmet for Men and Women with Inner Smoke Sun Shield (Medium 580 MM, Dashing Black)",
+            "description": "Sport: Motorcycling. Certificate Type: ISI. Finish Type: Matte. Shell Type: EPS / ABS Material. Specification Met: isi certified. Shape: Round Oval. Closure Type: Flip. Model Name: SBA-7 Dashing Double Visor. Product Dimensions: 26 x 18 x 25 cm; 1.25 kg. Size: m. Special Features: High Impact Resistant. Country of Origin: India. Item Weight: 1 kg 250 g. Item Dimensions Lx Wx H: 26 x 18 x 25 Centimeters. Net Quantity: 1.00 Count. Generic Name: Helmet.",
+            "price": "\u20b91516"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Ln5bZMgeJ1ZgO8IdTLSh4_1047x1079.png",
+        "marketplace_url": "https://www.amazon.in/Steelbird-SBA-7-7Wings-Certified-Thermoplastic/dp/B09MKN3B2L/ref=lp_5258045031_1_10?pf_rd_p=9e034799-55e2-4ab2-b0d0-eb42f95b2d05&pf_rd_r=NGJG3YJE8F92N1JSTD95&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&th=1",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThe banner features a modern, tech-forward aesthetic designed to promote a flip-up helmet. A dark, angular gradient background with subtle circular designs provides a sleek and futuristic vibe. The central focus is a high-resolution product image (\"product_image\") of the helmet on the right. The bold white title (\"heading\") sits at the top left, complemented by a vibrant red subheading (\"subheading\"). Below that, key product features are listed in a compact white text block (\"description\"). Bottom-left features a large price tag (\"price\") above a red rectangular call-to-action button (\"cta_background\") with centered white text (\"cta\"). An additional small white tagline (\"tagline\") appears near the top right.\n\n**Color Palette:**\n- Deep Charcoal: #1A1A1A\n- Gunmetal Gray: #2C2C2C\n- Crimson Red: #D10000\n- Bright Red: #FF0000\n- Pure White: #FFFFFF\n",
+    "product_color": "\nThe product image features a sleek motorcycle helmet primarily in matte black and charcoal gray tones, exuding a modern and rugged aesthetic. The color palette includes matte black (#1C1C1C), dark gray (#3A3A3A), light gray (#B0B0B0), glossy black (#0F0F0F), and accents of red (#C21807) and white (#FFFFFF) seen in the logo detailing. Color blending is subtly executed, with matte and glossy finishes interacting to create depth and contrast. The glossy black visor and clear top shield reflect light, effectively highlighting the helmet\u2019s contours. These structural highlights and finishes enhance the premium design, making it ideal for a tech-savvy, performance-driven advertisement banner. \n"
+}

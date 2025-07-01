@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalSplit' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#f0d4d4'/><stop offset='49%' stop-color='#f5d6d6'/><stop offset='51%' stop-color='#fff5e6'/><stop offset='100%' stop-color='#fff9f0'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#f5a3a3'/><stop offset='100%' stop-color='#e7766e'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalSplit)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#accent)' opacity='0.05'/><g opacity='0.1'><path d='M280,150 C320,110 380,90 440,130 C500,170 580,120 620,170 C660,220 720,190 780,230' stroke='#e7766e' fill='none' stroke-width='3'/><path d='M180,350 C220,310 280,290 340,330 C400,370 480,320 520,370 C560,420 620,390 680,430' stroke='#e7766e' fill='none' stroke-width='3'/></g><circle cx='200' cy='200' r='5' fill='#e7766e' opacity='0.2'/><circle cx='850' cy='780' r='6' fill='#e7766e' opacity='0.2'/><circle cx='700' cy='200' r='7' fill='#e7766e' opacity='0.2'/><circle cx='180' cy='750' r='5' fill='#e7766e' opacity='0.2'/><g opacity='0.2'><path d='M200 200 L210 230 L240 240 L210 250 L200 280 L190 250 L160 240 L190 230 Z' fill='#e7766e'/><path d='M880 160 L890 190 L920 200 L890 210 L880 240 L870 210 L840 200 L870 190 Z' fill='#e7766e'/><path d='M160 880 L170 910 L200 920 L170 930 L160 960 L150 930 L120 920 L150 910 Z' fill='#e7766e'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 818.58, "height": 118.65, "fill": "#873e3e", "text": "ELEGANT STUDS", "fontSize": 105, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 52, "width": 646.4, "height": 67.8, "fill": "#db7676", "text": "ROSE GOLD BEAUTY", "fontSize": 60, "fontFamily": "Cinzel Decorative Bold", "textAlign": "left", "id": "subheading"}, {"type": "image", "top": 828.69, "left": 302.79, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/7NY3WuRe96RnHiw8UHjee_895x415.png", "id": "product_image"}, {"type": "text", "top": 330, "left": 55, "width": 283.7, "height": 176.28, "fill": "#873e3e", "text": "925 Sterling Silver\nRose Gold Finish\nWrapped in Crystals\nPerfect Gift for Her", "fontSize": 30, "fontFamily": "Taviraj Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 580, "left": 56, "width": 396.46, "height": 54.24, "fill": "#873e3e", "text": "Timeless Treasure", "fontSize": 48, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 800, "left": 57, "width": 204.8, "height": 90.4, "fill": "#873e3e", "text": "\u20b9 1739", "fontSize": 80, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 60, "width": 200, "height": 60, "fill": "#db7676", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 936, "left": 98, "width": 143.65, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "Taviraj Regular", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 680, "left": 57, "width": 276.46, "height": 31.64, "fill": "#873e3e", "text": "Celebrate Her Beauty", "fontSize": 28, "fontFamily": "Taviraj Regular", "textAlign": "left", "id": "subheading_2"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 Count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.", "price": "\u20b91739"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/7NY3WuRe96RnHiw8UHjee_895x415.png", "marketplace_url": "https://www.amazon.in/GIVA-Sterling-Certificate-Authenticity-Warranty/dp/B0BBW8LKJ4/?_encoding=UTF8&pd_rd_w=eQmE5&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=N53BH4BRJ0Q7NQJ4230H&pd_rd_wg=UFygY&pd_rd_r=a18b7dff-5cac-4d3e-8a6d-79c0aff198df&ref_=pd_hp_d_atf_dealz_cs", "layout": "split_vertical"}, "banner_details": "\nThis elegant promotional banner showcases a luxurious and feminine design emphasizing rose gold jewelry. The layout uses a soft diagonal gradient split background merging pastel pink and ivory, adorned with delicate abstract star and swirl accents. A stylish serif typeface in the text layer **heading** presents the main title at the top. Just below, the **subheading** uses a decorative serif font in a bold rose tone to convey luxury. The **description** section follows with minimal spacing, summarizing the product details. The product image (**product_image**) of rose gold earrings is prominently positioned diagonally. The **tagline** and **subheading_2** enhance emotional appeal. The **price** is shown boldly, complemented by a red-toned rectangular call-to-action button (**cta_background**) with white text (**cta**) at the bottom.\n\n**Color Palette:**\n- Deep Ros\u00e9: #873e3e\n- Blush Pink: #f0d4d4\n- Coral Rose: #db7676\n- Soft Ivory: #fff5e6\n- Warm Beige: #fff9f0\n- Accent Coral: #e7766e\n- Pure White: #FFFFFF\n", "product_color": "\nThe product image features a pair of elegant earrings crafted with a soft, feminine color palette. The primary color is a *rose gold* (#F5B6B3), which serves as the base metal and outlines the delicate floral elements. The accompanying stones are *crystal white* (#FFFFFF) and *diamond silver* (#D9D9D9), adding brilliance and contrast that highlight the rose gold structure. A soft *blush pink* (#FADADD) fills the pear-shaped enamel area, blending seamlessly into the rose gold contours. The overall color blending allows the earrings to appear radiant and luxurious without overpowering one another, making rose gold the hero color supported by soft, luminous details.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalSplit' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#f0d4d4'/><stop offset='49%' stop-color='#f5d6d6'/><stop offset='51%' stop-color='#fff5e6'/><stop offset='100%' stop-color='#fff9f0'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#f5a3a3'/><stop offset='100%' stop-color='#e7766e'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalSplit)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#accent)' opacity='0.05'/><g opacity='0.1'><path d='M280,150 C320,110 380,90 440,130 C500,170 580,120 620,170 C660,220 720,190 780,230' stroke='#e7766e' fill='none' stroke-width='3'/><path d='M180,350 C220,310 280,290 340,330 C400,370 480,320 520,370 C560,420 620,390 680,430' stroke='#e7766e' fill='none' stroke-width='3'/></g><circle cx='200' cy='200' r='5' fill='#e7766e' opacity='0.2'/><circle cx='850' cy='780' r='6' fill='#e7766e' opacity='0.2'/><circle cx='700' cy='200' r='7' fill='#e7766e' opacity='0.2'/><circle cx='180' cy='750' r='5' fill='#e7766e' opacity='0.2'/><g opacity='0.2'><path d='M200 200 L210 230 L240 240 L210 250 L200 280 L190 250 L160 240 L190 230 Z' fill='#e7766e'/><path d='M880 160 L890 190 L920 200 L890 210 L880 240 L870 210 L840 200 L870 190 Z' fill='#e7766e'/><path d='M160 880 L170 910 L200 920 L170 930 L160 960 L150 930 L120 920 L150 910 Z' fill='#e7766e'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 818.58,
+                "height": 118.65,
+                "fill": "#873e3e",
+                "text": "ELEGANT STUDS",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 52,
+                "width": 646.4,
+                "height": 67.8,
+                "fill": "#db7676",
+                "text": "ROSE GOLD BEAUTY",
+                "fontFamily": "Cinzel Decorative Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 828.69,
+                "left": 302.79,
+                "width": 805.5,
+                "height": 373.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/7NY3WuRe96RnHiw8UHjee_895x415.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 55,
+                "width": 283.7,
+                "height": 176.28,
+                "fill": "#873e3e",
+                "text": "925 Sterling Silver\nRose Gold Finish\nWrapped in Crystals\nPerfect Gift for Her",
+                "fontFamily": "Taviraj Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 56,
+                "width": 396.46,
+                "height": 54.24,
+                "fill": "#873e3e",
+                "text": "Timeless Treasure",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 57,
+                "width": 204.8,
+                "height": 90.4,
+                "fill": "#873e3e",
+                "text": "\u20b9 1739",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#db7676",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 936,
+                "left": 98,
+                "width": 143.65,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Taviraj Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 57,
+                "width": 276.46,
+                "height": 31.64,
+                "fill": "#873e3e",
+                "text": "Celebrate Her Beauty",
+                "fontFamily": "Taviraj Regular",
+                "textAlign": "left",
+                "id": "subheading_2"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 Count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.",
+            "price": "\u20b91739"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/7NY3WuRe96RnHiw8UHjee_895x415.png",
+        "marketplace_url": "https://www.amazon.in/GIVA-Sterling-Certificate-Authenticity-Warranty/dp/B0BBW8LKJ4/?_encoding=UTF8&pd_rd_w=eQmE5&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=N53BH4BRJ0Q7NQJ4230H&pd_rd_wg=UFygY&pd_rd_r=a18b7dff-5cac-4d3e-8a6d-79c0aff198df&ref_=pd_hp_d_atf_dealz_cs",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis elegant promotional banner showcases a luxurious and feminine design emphasizing rose gold jewelry. The layout uses a soft diagonal gradient split background merging pastel pink and ivory, adorned with delicate abstract star and swirl accents. A stylish serif typeface in the text layer **heading** presents the main title at the top. Just below, the **subheading** uses a decorative serif font in a bold rose tone to convey luxury. The **description** section follows with minimal spacing, summarizing the product details. The product image (**product_image**) of rose gold earrings is prominently positioned diagonally. The **tagline** and **subheading_2** enhance emotional appeal. The **price** is shown boldly, complemented by a red-toned rectangular call-to-action button (**cta_background**) with white text (**cta**) at the bottom.\n\n**Color Palette:**\n- Deep Ros\u00e9: #873e3e\n- Blush Pink: #f0d4d4\n- Coral Rose: #db7676\n- Soft Ivory: #fff5e6\n- Warm Beige: #fff9f0\n- Accent Coral: #e7766e\n- Pure White: #FFFFFF\n",
+    "product_color": "\nThe product image features a pair of elegant earrings crafted with a soft, feminine color palette. The primary color is a *rose gold* (#F5B6B3), which serves as the base metal and outlines the delicate floral elements. The accompanying stones are *crystal white* (#FFFFFF) and *diamond silver* (#D9D9D9), adding brilliance and contrast that highlight the rose gold structure. A soft *blush pink* (#FADADD) fills the pear-shaped enamel area, blending seamlessly into the rose gold contours. The overall color blending allows the earrings to appear radiant and luxurious without overpowering one another, making rose gold the hero color supported by soft, luminous details.\n"
+}

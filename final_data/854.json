@@ -1,1 +1,159 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1E0F30'/><stop offset='100%' style='stop-color:#422D84'/></linearGradient><linearGradient id='accentGrad' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#8A56FF'/><stop offset='100%' style='stop-color:#5B3FD9'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#accentGrad)'/><g opacity='0.15'><circle cx='200' cy='200' r='50' fill='#ffffff'/><circle cx='800' cy='900' r='80' fill='#ffffff'/><circle cx='950' cy='650' r='30' fill='#ffffff'/></g><g opacity='0.1'><path d='M800 100 L900 200 L700 300 Z' fill='#ffffff'/><path d='M100 700 L200 800 L50 900 Z' fill='#ffffff'/></g><g opacity='0.2'><rect x='780' y='200' width='200' height='4' transform='rotate(45, 880, 202)' fill='#ffffff'/><rect x='850' y='300' width='150' height='3' transform='rotate(45, 925, 301.5)' fill='#ffffff'/><rect x='900' y='400' width='100' height='2' transform='rotate(45, 950, 401)' fill='#ffffff'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 448.65, "height": 124.3, "fill": "#FFFFFF", "text": "BUY ONE", "fontSize": 110, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 190, "left": 40, "width": 446.84, "height": 124.3, "fill": "#FFCC00", "text": "GET ONE", "fontSize": 110, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 300, "left": 42, "width": 127.45, "height": 62.15, "fill": "#8A56FF", "text": "FREE", "fontSize": 55, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 380, "left": 45, "width": 291.26, "height": 33.9, "fill": "#FFFFFF", "text": "iPhone 14 Pro", "fontSize": 30, "fontFamily": "Notable-Regular", "textAlign": "left", "id": "product_name"}, {"type": "text", "top": 450, "left": 47, "width": 355.1, "height": 33.9, "fill": "#B794FF", "text": "PREMIUM PURPLE POWER", "fontSize": 30, "fontFamily": "Gabarito Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 540, "left": 50, "width": 431.87, "height": 155.94, "fill": "#FFFFFF", "text": "\u2022 6.1-inch Super Retina XDR display\n\u2022 A16 Bionic - fastest chip ever\n\u2022 48MP camera with ProRAW\n\u2022 Dynamic Island interface", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 700, "left": 50, "width": 383.12, "height": 45.2, "fill": "#FFFFFF", "text": "LIMITED TIME OFFER!", "fontSize": 40, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "offer_text"}, {"type": "text", "top": 770, "left": 52, "width": 336.31, "height": 67.8, "fill": "#FFCC00", "text": "$0 DOWN", "fontSize": 60, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 52, "width": 220, "height": 65, "fill": "#8A56FF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 937, "left": 100, "width": 146.1, "height": 31.64, "fill": "#FFFFFF", "text": "GRAB NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 260, "left": 516, "width": 677, "height": 830, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/cp0dS7HJyU5FVWhcSZkIK_677x830.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "iPhone 14 Pro - Premium Purple Power | Breakthrough Innovation", "description": "\u2022 Stunning 6.1-inch Super Retina XDR display with ProMotion technology\n\u2022 Elegant purple finish with premium aerospace-grade aluminum design\n\u2022 Advanced dual-camera system with 48MP main sensor\n\u2022 A16 Bionic chip - the fastest chip ever in a smartphone\n\u2022 Dynamic Island - revolutionary new way to interact with notifications\n\u2022 5G capable for ultra-fast downloads and streaming\n\u2022 All-day battery life with up to 23 hours of video playback\n\u2022 Face ID for secure authentication and Apple Pay\n\u2022 iOS 16 with powerful new features and customization options\n\u2022 MagSafe compatible for fast wireless charging and accessories\n\u2022 Ceramic Shield front cover - tougher than any smartphone glass\n\u2022 IP68 water and dust resistance", "price": "$0"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/cp0dS7HJyU5FVWhcSZkIK_677x830.png", "marketplace_url": "blob:https://staging-studio.phot.ai/161ac8a7-e0cc-44a5-9ade-3d88274e1898", "layout": "diagonal_split"}, "banner_details": "\nThis promotional banner features a dynamic layout with bold typography and high-contrast colors to highlight a limited-time smartphone offer. The background uses a diagonal gradient split with overlay graphics for depth, while a large product image dominates the right side. The left section organizes multiple text layers for impact\u2014'heading_1' and 'heading_2' are large bold texts conveying the main offer, supported by 'tagline', 'product_name', 'subheading', and 'description' for feature highlights. \u2018offer_text\u2019 and \u2018price\u2019 emphasize urgency and affordability, and a call-to-action button composed of \u2018cta_background\u2019 and \u2018cta\u2019 invites immediate response.\n\n**Color Palette:**\n- Deep Violet (#1E0F30)\n- Royal Purple Gradient (#8A56FF \u2192 #5B3FD9)\n- Bright Yellow (#FFCC00)\n- Pure White (#FFFFFF)\n- Soft Lavender (#B794FF)\n", "product_color": "\nThe product image features a sleek, modern smartphone in a striking lavender purple color, paired with a vibrant blue display. The dominant hues include soft lavender (#B9A9F4), deep royal blue (#2B3C8B), and electric blue gradients (#3B66F6 to #6B8AF6). The device\u2019s back showcases a matte lavender finish that integrates seamlessly with the darker, glossy shades of the camera ring and logo. The screen blends light and dark blue tones in a smooth radial gradient, giving a futuristic depth effect. For an advertisement banner, a complementary palette with lavender, electric blue, midnight black (#000000), and white (#FFFFFF) delivers a premium and tech-savvy appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1E0F30'/><stop offset='100%' style='stop-color:#422D84'/></linearGradient><linearGradient id='accentGrad' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#8A56FF'/><stop offset='100%' style='stop-color:#5B3FD9'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#accentGrad)'/><g opacity='0.15'><circle cx='200' cy='200' r='50' fill='#ffffff'/><circle cx='800' cy='900' r='80' fill='#ffffff'/><circle cx='950' cy='650' r='30' fill='#ffffff'/></g><g opacity='0.1'><path d='M800 100 L900 200 L700 300 Z' fill='#ffffff'/><path d='M100 700 L200 800 L50 900 Z' fill='#ffffff'/></g><g opacity='0.2'><rect x='780' y='200' width='200' height='4' transform='rotate(45, 880, 202)' fill='#ffffff'/><rect x='850' y='300' width='150' height='3' transform='rotate(45, 925, 301.5)' fill='#ffffff'/><rect x='900' y='400' width='100' height='2' transform='rotate(45, 950, 401)' fill='#ffffff'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 448.65,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "BUY ONE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 40,
+                "width": 446.84,
+                "height": 124.3,
+                "fill": "#FFCC00",
+                "text": "GET ONE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 42,
+                "width": 127.45,
+                "height": 62.15,
+                "fill": "#8A56FF",
+                "text": "FREE",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 45,
+                "width": 291.26,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "iPhone 14 Pro",
+                "fontFamily": "Notable-Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 47,
+                "width": 355.1,
+                "height": 33.9,
+                "fill": "#B794FF",
+                "text": "PREMIUM PURPLE POWER",
+                "fontFamily": "Gabarito Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 540,
+                "left": 50,
+                "width": 431.87,
+                "height": 155.94,
+                "fill": "#FFFFFF",
+                "text": "\u2022 6.1-inch Super Retina XDR display\n\u2022 A16 Bionic - fastest chip ever\n\u2022 48MP camera with ProRAW\n\u2022 Dynamic Island interface",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 50,
+                "width": 383.12,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "LIMITED TIME OFFER!",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "offer_text"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 52,
+                "width": 336.31,
+                "height": 67.8,
+                "fill": "#FFCC00",
+                "text": "$0 DOWN",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 52,
+                "width": 220,
+                "height": 65,
+                "fill": "#8A56FF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 937,
+                "left": 100,
+                "width": 146.1,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "GRAB NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 260,
+                "left": 516,
+                "width": 507.75,
+                "height": 622.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/cp0dS7HJyU5FVWhcSZkIK_677x830.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "iPhone 14 Pro - Premium Purple Power | Breakthrough Innovation",
+            "description": "\u2022 Stunning 6.1-inch Super Retina XDR display with ProMotion technology\n\u2022 Elegant purple finish with premium aerospace-grade aluminum design\n\u2022 Advanced dual-camera system with 48MP main sensor\n\u2022 A16 Bionic chip - the fastest chip ever in a smartphone\n\u2022 Dynamic Island - revolutionary new way to interact with notifications\n\u2022 5G capable for ultra-fast downloads and streaming\n\u2022 All-day battery life with up to 23 hours of video playback\n\u2022 Face ID for secure authentication and Apple Pay\n\u2022 iOS 16 with powerful new features and customization options\n\u2022 MagSafe compatible for fast wireless charging and accessories\n\u2022 Ceramic Shield front cover - tougher than any smartphone glass\n\u2022 IP68 water and dust resistance",
+            "price": "$0"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/cp0dS7HJyU5FVWhcSZkIK_677x830.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/161ac8a7-e0cc-44a5-9ade-3d88274e1898",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis promotional banner features a dynamic layout with bold typography and high-contrast colors to highlight a limited-time smartphone offer. The background uses a diagonal gradient split with overlay graphics for depth, while a large product image dominates the right side. The left section organizes multiple text layers for impact\u2014'heading_1' and 'heading_2' are large bold texts conveying the main offer, supported by 'tagline', 'product_name', 'subheading', and 'description' for feature highlights. \u2018offer_text\u2019 and \u2018price\u2019 emphasize urgency and affordability, and a call-to-action button composed of \u2018cta_background\u2019 and \u2018cta\u2019 invites immediate response.\n\n**Color Palette:**\n- Deep Violet (#1E0F30)\n- Royal Purple Gradient (#8A56FF \u2192 #5B3FD9)\n- Bright Yellow (#FFCC00)\n- Pure White (#FFFFFF)\n- Soft Lavender (#B794FF)\n",
+    "product_color": "\nThe product image features a sleek, modern smartphone in a striking lavender purple color, paired with a vibrant blue display. The dominant hues include soft lavender (#B9A9F4), deep royal blue (#2B3C8B), and electric blue gradients (#3B66F6 to #6B8AF6). The device\u2019s back showcases a matte lavender finish that integrates seamlessly with the darker, glossy shades of the camera ring and logo. The screen blends light and dark blue tones in a smooth radial gradient, giving a futuristic depth effect. For an advertisement banner, a complementary palette with lavender, electric blue, midnight black (#000000), and white (#FFFFFF) delivers a premium and tech-savvy appeal.\n"
+}

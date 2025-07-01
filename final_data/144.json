@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2F7FB'/><rect x='0' y='700' width='1080' height='380' fill='#1A5096' opacity='0.9'/><path d='M0 680 L1080 680 L1080 720 C880 750 780 710 680 740 C580 770 480 730 380 750 C280 770 180 730 80 750 L0 740 Z' fill='#1A5096' opacity='0.8'/><path d='M1080 400 C980 420 880 390 780 420 C680 450 580 410 480 430 C380 450 280 410 180 430 C80 450 0 420 0 420 L0 380 L1080 380 Z' fill='#E8B227' opacity='0.2'/><g opacity='0.1'><path d='M200 200 C300 170 400 220 500 190 C600 160 700 210 800 180 C900 150 1000 200 1080 180 L1080 100 L0 100 L0 180 C100 200 100 230 200 200 Z' fill='#1A5096'/><path d='M200 350 C300 320 400 370 500 340 C600 310 700 360 800 330 C900 300 1000 350 1080 330 L1080 250 L0 250 L0 330 C100 350 100 380 200 350 Z' fill='#1A5096'/><path d='M200 500 C300 470 400 520 500 490 C600 460 700 510 800 480 C900 450 1000 500 1080 480 L1080 400 L0 400 L0 480 C100 500 100 530 200 500 Z' fill='#1A5096'/><path d='M200 650 C300 620 400 670 500 640 C600 610 700 660 800 630 C900 600 1000 650 1080 630 L1080 550 L0 550 L0 630 C100 650 100 680 200 650 Z' fill='#1A5096'/></g><linearGradient id='headerGrad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#1A5096;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#3B71B8;stop-opacity:0.3'/></linearGradient><rect x='0' y='0' width='1080' height='280' fill='url(#headerGrad)'/><circle cx='880' cy='200' r='150' fill='#E8B227' opacity='0.1'/><circle cx='200' cy='880' r='120' fill='#FFFFFF' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 60, "width": 1010.58, "height": 152.55, "fill": "#1A5096", "text": "DANDRUFF CARE", "fontSize": 135, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 215, "left": 60, "width": 693.92, "height": 90.4, "fill": "#E8B227", "text": "MICRO MOISTURE", "fontSize": 80, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 62, "width": 384.23, "height": 174.02, "fill": "#333333", "text": "\u2022 CLINICALLY PROVEN FORMULA\n\u2022 REMOVES 100% DANDRUFF\n\u2022 MICRO MOISTURE SERUM\n\u2022 NOURISHES FROM ROOT TO TIP", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 60, "width": 305.32, "height": 113, "fill": "#FFFFFF", "text": "\u20b9 450", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 60, "width": 220, "height": 70, "fill": "#E8B227", "rx": 10, "ry": 10, "id": "cta_background"}, {"type": "text", "top": 959, "left": 96, "width": 156, "height": 33.9, "fill": "#1A5096", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 300, "left": 630, "width": 441, "height": 951, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Bjq0g0ROG29UiD9rrqmij_441x951.png", "id": "product_image"}, {"type": "text", "top": 570, "left": 65, "width": 441.41, "height": 40.68, "fill": "#1A5096", "text": "DOVE PREMIUM SHAMPOO", "fontSize": 36, "fontFamily": "Asap Black", "textAlign": "left", "id": "product_title"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Dove Dandruff Care Shampoo for Dry, Itchy & Flaky Scalp, 650 ml", "description": "Scared of going out with white scalp flakes over your shoulder? When white flakes appear, all we want to know is how to prevent dandruff \u2013 and quickly. Say 'bye' to dandruff and dryness with the Dove Dandruff Care Shampoo. The ZPTO formula is clinically proven to target dandruff at its source. This shampoo removes dandruff* from your scalp without causing harm to your hair. Clinically tested, the formula enriched with ZPTO is proven to be successful at removing dandruff without leaving your hair dry & rough. ZPTO formula starts to clear visible flakes from the first wash. This gentle shampoo effectively relieves dandruff associated itches and clears up white flakes with regular use. The unique formula nourishes from roots up, combining beautiful hair results with effective dandruff relief*, for hair you can be proud of in no time. This anti-dandruff shampoo nourishes your hair from root up, combining beautiful hair results with effective dandruff relief*. Step out of the shower to soft, smooth and visibly flake- free strands*: quick results, with nourishing care, too. For best results, use Dove Dandruff Care shampoo along with Dove Dandruff Care conditioner together. *No visible flakes with regular product use, effect may vary with person.", "price": "\u20b9450"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Bjq0g0ROG29UiD9rrqmij_441x951.png", "marketplace_url": "https://www.amazon.in/Dove-Dandruff-Care-Shampoo-650/dp/B085WJY6NH/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.70fd741c-68a9-470a-9805-115e3115104d%3Aamzn1.sym.70fd741c-68a9-470a-9805-115e3115104d&crid=3K42RU6LC5M7V&cv_ct_cx=shampoo&keywords=shampoo&pd_rd_i=B085WJY6NH&pd_rd_r=e8930d8f-3110-474b-9c02-55b9c45a37fa&pd_rd_w=qEA0U&pd_rd_wg=r7zGz&pf_rd_p=70fd741c-68a9-470a-9805-115e3115104d&pf_rd_r=KRM38A0Z99YR2RGY6V1B&qid=1745917504&s=shoes&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=shampoo%2Cshoes%2C244&sr=1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1", "layout": "z_pattern"}, "banner_details": "\nThis banner features a clean and modern layout promoting an anti-dandruff shampoo. The design includes a prominent bold title (`heading`) and a vibrant subheading (`subheading`) at the top, both aligned to the left. A product image (`product_image`) is positioned on the right-hand side, anchoring the visual balance. The benefits of the product are listed clearly in a bullet-style (`description`), and the product name (`product_title`) is highlighted in uppercase for emphasis. A large price tag (`price`) is positioned at the bottom left, followed by a vibrant call-to-action button (`cta`) over a colored rectangle (`cta_background`).\n\n**Color Palette:**\n- Navy Blue (#1A5096)\n- Golden Yellow (#E8B227)\n- Light Sky Blue (#F2F7FB)\n- Charcoal Gray (#333333)\n- White (#FFFFFF)\n\nOverall, the banner combines brand-oriented visuals with engaging typography and strategic call-to-action placement, optimized for product marketing.\n", "product_color": "  \nThe product image for Dove Anti Dandruff Shampoo utilizes a clean and professional color palette that evokes purity, care, and trust. The dominant colors are **white (#FFFFFF)** for a clean base, **deep blue (#1A3D8F)** representing trust and efficacy, and **golden yellow (#D8B45D)** for highlighting premium quality. The **light gray (#787878)** of the pump cap adds neutrality and balance. Soft blue gradients in the water splash image indicate moisture and freshness, blending smoothly with white to emphasize purity. The contrast between blue text and golden accents draws attention to clinical strength and ingredients. These elements work harmoniously to ensure the product appears reliable, gentle, and effective.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2F7FB'/><rect x='0' y='700' width='1080' height='380' fill='#1A5096' opacity='0.9'/><path d='M0 680 L1080 680 L1080 720 C880 750 780 710 680 740 C580 770 480 730 380 750 C280 770 180 730 80 750 L0 740 Z' fill='#1A5096' opacity='0.8'/><path d='M1080 400 C980 420 880 390 780 420 C680 450 580 410 480 430 C380 450 280 410 180 430 C80 450 0 420 0 420 L0 380 L1080 380 Z' fill='#E8B227' opacity='0.2'/><g opacity='0.1'><path d='M200 200 C300 170 400 220 500 190 C600 160 700 210 800 180 C900 150 1000 200 1080 180 L1080 100 L0 100 L0 180 C100 200 100 230 200 200 Z' fill='#1A5096'/><path d='M200 350 C300 320 400 370 500 340 C600 310 700 360 800 330 C900 300 1000 350 1080 330 L1080 250 L0 250 L0 330 C100 350 100 380 200 350 Z' fill='#1A5096'/><path d='M200 500 C300 470 400 520 500 490 C600 460 700 510 800 480 C900 450 1000 500 1080 480 L1080 400 L0 400 L0 480 C100 500 100 530 200 500 Z' fill='#1A5096'/><path d='M200 650 C300 620 400 670 500 640 C600 610 700 660 800 630 C900 600 1000 650 1080 630 L1080 550 L0 550 L0 630 C100 650 100 680 200 650 Z' fill='#1A5096'/></g><linearGradient id='headerGrad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#1A5096;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#3B71B8;stop-opacity:0.3'/></linearGradient><rect x='0' y='0' width='1080' height='280' fill='url(#headerGrad)'/><circle cx='880' cy='200' r='150' fill='#E8B227' opacity='0.1'/><circle cx='200' cy='880' r='120' fill='#FFFFFF' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 60,
+                "width": 1010.58,
+                "height": 152.55,
+                "fill": "#1A5096",
+                "text": "DANDRUFF CARE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 215,
+                "left": 60,
+                "width": 693.92,
+                "height": 90.4,
+                "fill": "#E8B227",
+                "text": "MICRO MOISTURE",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 62,
+                "width": 384.23,
+                "height": 174.02,
+                "fill": "#333333",
+                "text": "\u2022 CLINICALLY PROVEN FORMULA\n\u2022 REMOVES 100% DANDRUFF\n\u2022 MICRO MOISTURE SERUM\n\u2022 NOURISHES FROM ROOT TO TIP",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 60,
+                "width": 305.32,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 450",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#E8B227",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 959,
+                "left": 96,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#1A5096",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 300,
+                "left": 630,
+                "width": 330.75,
+                "height": 713.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Bjq0g0ROG29UiD9rrqmij_441x951.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 570,
+                "left": 65,
+                "width": 441.41,
+                "height": 40.68,
+                "fill": "#1A5096",
+                "text": "DOVE PREMIUM SHAMPOO",
+                "fontFamily": "Asap Black",
+                "textAlign": "left",
+                "id": "product_title"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Dove Dandruff Care Shampoo for Dry, Itchy & Flaky Scalp, 650 ml",
+            "description": "Scared of going out with white scalp flakes over your shoulder? When white flakes appear, all we want to know is how to prevent dandruff \u2013 and quickly. Say 'bye' to dandruff and dryness with the Dove Dandruff Care Shampoo. The ZPTO formula is clinically proven to target dandruff at its source. This shampoo removes dandruff* from your scalp without causing harm to your hair. Clinically tested, the formula enriched with ZPTO is proven to be successful at removing dandruff without leaving your hair dry & rough. ZPTO formula starts to clear visible flakes from the first wash. This gentle shampoo effectively relieves dandruff associated itches and clears up white flakes with regular use. The unique formula nourishes from roots up, combining beautiful hair results with effective dandruff relief*, for hair you can be proud of in no time. This anti-dandruff shampoo nourishes your hair from root up, combining beautiful hair results with effective dandruff relief*. Step out of the shower to soft, smooth and visibly flake- free strands*: quick results, with nourishing care, too. For best results, use Dove Dandruff Care shampoo along with Dove Dandruff Care conditioner together. *No visible flakes with regular product use, effect may vary with person.",
+            "price": "\u20b9450"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/Bjq0g0ROG29UiD9rrqmij_441x951.png",
+        "marketplace_url": "https://www.amazon.in/Dove-Dandruff-Care-Shampoo-650/dp/B085WJY6NH/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.70fd741c-68a9-470a-9805-115e3115104d%3Aamzn1.sym.70fd741c-68a9-470a-9805-115e3115104d&crid=3K42RU6LC5M7V&cv_ct_cx=shampoo&keywords=shampoo&pd_rd_i=B085WJY6NH&pd_rd_r=e8930d8f-3110-474b-9c02-55b9c45a37fa&pd_rd_w=qEA0U&pd_rd_wg=r7zGz&pf_rd_p=70fd741c-68a9-470a-9805-115e3115104d&pf_rd_r=KRM38A0Z99YR2RGY6V1B&qid=1745917504&s=shoes&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=shampoo%2Cshoes%2C244&sr=1-2-66673dcf-083f-43ba-b782-d4a436cc5cfb-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner features a clean and modern layout promoting an anti-dandruff shampoo. The design includes a prominent bold title (`heading`) and a vibrant subheading (`subheading`) at the top, both aligned to the left. A product image (`product_image`) is positioned on the right-hand side, anchoring the visual balance. The benefits of the product are listed clearly in a bullet-style (`description`), and the product name (`product_title`) is highlighted in uppercase for emphasis. A large price tag (`price`) is positioned at the bottom left, followed by a vibrant call-to-action button (`cta`) over a colored rectangle (`cta_background`).\n\n**Color Palette:**\n- Navy Blue (#1A5096)\n- Golden Yellow (#E8B227)\n- Light Sky Blue (#F2F7FB)\n- Charcoal Gray (#333333)\n- White (#FFFFFF)\n\nOverall, the banner combines brand-oriented visuals with engaging typography and strategic call-to-action placement, optimized for product marketing.\n",
+    "product_color": "  \nThe product image for Dove Anti Dandruff Shampoo utilizes a clean and professional color palette that evokes purity, care, and trust. The dominant colors are **white (#FFFFFF)** for a clean base, **deep blue (#1A3D8F)** representing trust and efficacy, and **golden yellow (#D8B45D)** for highlighting premium quality. The **light gray (#787878)** of the pump cap adds neutrality and balance. Soft blue gradients in the water splash image indicate moisture and freshness, blending smoothly with white to emphasize purity. The contrast between blue text and golden accents draws attention to clinical strength and ingredients. These elements work harmoniously to ensure the product appears reliable, gentle, and effective.  \n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a1a'/><stop offset='100%' stop-color='#333333'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='10' result='blur'/><feComposite in='SourceGraphic' in2='blur' operator='over'/></filter></defs><rect width='1080' height='1080' fill='url(#grad1)'/><g opacity='0.1'><circle cx='540' cy='540' r='400' stroke='#A0A0A0' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='300' stroke='#A0A0A0' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='200' stroke='#A0A0A0' stroke-width='2' fill='none'/></g><g opacity='0.4'><circle cx='200' cy='200' r='5' fill='#CCCCCC'/><circle cx='880' cy='200' r='5' fill='#CCCCCC'/><circle cx='200' cy='880' r='5' fill='#CCCCCC'/><circle cx='880' cy='880' r='5' fill='#CCCCCC'/></g><path d='M0 400 C 200 420, 400 380, 600 400 S 900 420, 1080 400 L 1080 1080 L 0 1080 Z' fill='#0F0F0F' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 184.76, "width": 710.48, "height": 135.6, "fill": "#FFFFFF", "text": "AFNAN 9PM", "fontSize": 120, "fontFamily": "Georama Black", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 230, "left": 131.28500000000003, "width": 817.43, "height": 45.2, "fill": "#CCCCCC", "text": "LUXURY MEN'S FRAGRANCE", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 314.25, "left": 454.25, "width": 343, "height": 823, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png", "id": "product_image"}, {"type": "text", "top": 760, "left": 195.85000000000002, "width": 688.3, "height": 27.12, "fill": "#E6E6E6", "text": "BERGAMOT | CINNAMON | AMBER | PATCHOULI | LONG LASTING", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 840, "left": 400.28, "width": 279.44, "height": 90.4, "fill": "#D6BA7C", "text": "$27.00", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 430.0, "width": 220, "height": 60, "fill": "#D6BA7C", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 965, "left": 477.315, "width": 125.37, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **", "price": "27.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png", "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7", "layout": "centered_hero"}, "banner_details": "\nThis banner showcases a refined advertisement for men's fragrance with a sleek and elegant aesthetic. The background utilizes a dark gradient enhanced with subtle circular line art and corner highlights, creating a sense of depth and sophistication. Centered prominently is the \"product_image\" featuring a vertically placed perfume bottle, drawing the eye. Positioned above it is the bold \"heading\" text, followed by a modern \"subheading\" that reflects the product's premium nature. Below the product image, a \"description\" line of scent notes is arranged horizontally. Dominating the lower portion is a bold \"price\" in gold tones, placed above a \"cta_button\" with prominent call-to-action \"cta\" text, inviting direct user engagement.\n\n**Color Palette:**\n- Deep Charcoal: #1a1a1a\n- Gunmetal Gray: #333333\n- Light Gray: #CCCCCC\n- Pale Gray: #E6E6E6\n- Gold Beige: #D6BA7C\n- White: #FFFFFF\n- Black: #000000\n\n", "product_color": "\nThe product image showcases a sophisticated and modern aesthetic using a monochromatic and metallic color scheme. The dominant color is a deep black (#1C1C1C), which forms the base of the bottle and creates an aura of elegance and mystery. The prominent white typography (#FFFFFF) sharply contrasts with the black background, ensuring high readability and visual impact. Accents of metallic silver (#C0C0C0) are used in the reflective cap and the border of the bottle, adding a sleek, luxurious touch. The colors are seamlessly blended through contrast and reflective surfaces, making each element individually standout while together contributing to a premium look.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a1a'/><stop offset='100%' stop-color='#333333'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='10' result='blur'/><feComposite in='SourceGraphic' in2='blur' operator='over'/></filter></defs><rect width='1080' height='1080' fill='url(#grad1)'/><g opacity='0.1'><circle cx='540' cy='540' r='400' stroke='#A0A0A0' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='300' stroke='#A0A0A0' stroke-width='2' fill='none'/><circle cx='540' cy='540' r='200' stroke='#A0A0A0' stroke-width='2' fill='none'/></g><g opacity='0.4'><circle cx='200' cy='200' r='5' fill='#CCCCCC'/><circle cx='880' cy='200' r='5' fill='#CCCCCC'/><circle cx='200' cy='880' r='5' fill='#CCCCCC'/><circle cx='880' cy='880' r='5' fill='#CCCCCC'/></g><path d='M0 400 C 200 420, 400 380, 600 400 S 900 420, 1080 400 L 1080 1080 L 0 1080 Z' fill='#0F0F0F' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 184.76,
+                "width": 710.48,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "AFNAN 9PM",
+                "fontFamily": "Georama Black",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 230,
+                "left": 131.28500000000003,
+                "width": 817.43,
+                "height": 45.2,
+                "fill": "#CCCCCC",
+                "text": "LUXURY MEN'S FRAGRANCE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 314.25,
+                "left": 454.25,
+                "width": 171.5,
+                "height": 411.5,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 195.85000000000002,
+                "width": 688.3,
+                "height": 27.12,
+                "fill": "#E6E6E6",
+                "text": "BERGAMOT | CINNAMON | AMBER | PATCHOULI | LONG LASTING",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 400.28,
+                "width": 279.44,
+                "height": 90.4,
+                "fill": "#D6BA7C",
+                "text": "$27.00",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#D6BA7C",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 477.315,
+                "width": 125.37,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **",
+            "price": "27.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/b92adb2a-318a-4f43-ba1d-1d3e6fe186c7_nobg_343x823.png",
+        "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner showcases a refined advertisement for men's fragrance with a sleek and elegant aesthetic. The background utilizes a dark gradient enhanced with subtle circular line art and corner highlights, creating a sense of depth and sophistication. Centered prominently is the \"product_image\" featuring a vertically placed perfume bottle, drawing the eye. Positioned above it is the bold \"heading\" text, followed by a modern \"subheading\" that reflects the product's premium nature. Below the product image, a \"description\" line of scent notes is arranged horizontally. Dominating the lower portion is a bold \"price\" in gold tones, placed above a \"cta_button\" with prominent call-to-action \"cta\" text, inviting direct user engagement.\n\n**Color Palette:**\n- Deep Charcoal: #1a1a1a\n- Gunmetal Gray: #333333\n- Light Gray: #CCCCCC\n- Pale Gray: #E6E6E6\n- Gold Beige: #D6BA7C\n- White: #FFFFFF\n- Black: #000000\n\n",
+    "product_color": "\nThe product image showcases a sophisticated and modern aesthetic using a monochromatic and metallic color scheme. The dominant color is a deep black (#1C1C1C), which forms the base of the bottle and creates an aura of elegance and mystery. The prominent white typography (#FFFFFF) sharply contrasts with the black background, ensuring high readability and visual impact. Accents of metallic silver (#C0C0C0) are used in the reflective cap and the border of the bottle, adding a sleek, luxurious touch. The colors are seamlessly blended through contrast and reflective surfaces, making each element individually standout while together contributing to a premium look.\n"
+}

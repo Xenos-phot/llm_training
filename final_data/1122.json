@@ -1,1 +1,180 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1a1a1a'/><rect x='0' y='0' width='540' height='1080' fill='#2D0A31'/><rect x='540' y='0' width='540' height='1080' fill='#1a1a1a'/><path d='M0 0 L540 0 L540 1080 L0 1080 L0 0Z' fill='url(#gradient1)'/><path d='M 0,200 C 150,150 250,350 400,300 S 500,100 540,150 L 540,1080 L 0,1080 Z' fill='url(#gradient2)' opacity='0.4'/><circle cx='120' cy='200' r='8' fill='#FFD700' opacity='0.7'/><circle cx='160' cy='180' r='5' fill='#FFD700' opacity='0.5'/><circle cx='200' cy='220' r='6' fill='#FFD700' opacity='0.6'/><circle cx='90' cy='240' r='4' fill='#FFD700' opacity='0.8'/><circle cx='460' cy='420' r='7' fill='#FFD700' opacity='0.5'/><circle cx='420' cy='460' r='5' fill='#FFD700' opacity='0.6'/><circle cx='480' cy='400' r='3' fill='#FFD700' opacity='0.7'/><defs><linearGradient id='gradient1' x1='0' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#4B0082'/><stop offset='100%' stop-color='#8A2BE2'/></linearGradient><linearGradient id='gradient2' x1='0' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#9400D3'/><stop offset='100%' stop-color='#4B0082'/></linearGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 304.4, "height": 79.1, "fill": "#FFFFFF", "text": "KOORUI", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 60, "width": 115.6, "height": 113, "fill": "#FFD700", "text": "24\"", "fontSize": 100, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 310, "left": 60, "width": 332.98, "height": 99.67, "fill": "#FFFFFF", "text": "CURVED GAMING\nMONITOR", "fontSize": 42, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 450, "left": 60, "width": 180, "height": 60, "fill": "rgba(255,255,255,0.1)", "rx": 0, "ry": 0, "id": "feature_box_1"}, {"type": "text", "top": 450, "left": 82, "width": 113.54, "height": 58.76, "fill": "#FFFFFF", "text": "FULL HD\n1920x1080", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "feature_text_1"}, {"type": "rect", "top": 450, "left": 250, "width": 180, "height": 60, "fill": "rgba(255,255,255,0.1)", "rx": 0, "ry": 0, "id": "feature_box_2"}, {"type": "text", "top": 456, "left": 293, "width": 90.82, "height": 58.76, "fill": "#FFFFFF", "text": "1500R\nCURVED", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "feature_text_2"}, {"type": "rect", "top": 520, "left": 60, "width": 180, "height": 60, "fill": "rgba(255,255,255,0.1)", "rx": 0, "ry": 0, "id": "feature_box_3"}, {"type": "text", "top": 525, "left": 71, "width": 161.8, "height": 58.76, "fill": "#FFFFFF", "text": "75Hz\nREFRESH RATE", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "feature_text_3"}, {"type": "text", "top": 650, "left": 60, "width": 331.31, "height": 85.88, "fill": "#FFD700", "text": "$89.99", "fontSize": 76, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 60, "width": 200, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 797, "left": 85, "width": 135.47, "height": 29.38, "fill": "#2D0A31", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 240, "left": 540, "width": 1439, "height": 1319, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/oQvl7OS7Ue7nAYjNjE93-_1439x1319.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "KOORUI 24 inch Curved Monitor, Full HD 1080P Curved Computer Monitor, 1500R Screen, HDMI VGA, Tilt Adjustment, LCD Display, Eye Care, Black 24N5CA", "description": "Product Dimensions: 7.56 x 16.04 x 21.13 inches. Item Weight: 7.98 pounds. Standing screen display size: 24 Inches. Aspect Ratio: 16:9. Voltage: 2.4E+2 Volts (AC). Resolution: 1920 x 1080 Pixels.", "price": "$89.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/oQvl7OS7Ue7nAYjNjE93-_1439x1319.png", "marketplace_url": "https://www.amazon.com/KOORUI-Monitor-Computer-Adjustment-24N5C/dp/B0CP7C56M8/?_encoding=UTF8&pd_rd_w=P34d1&content-id=amzn1.sym.730a4fb4-1f7f-4520-9e50-8136d347aedd%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=730a4fb4-1f7f-4520-9e50-8136d347aedd&pf_rd_r=JA19BZ5PA6KM7B353PWX&pd_rd_wg=ou8qQ&pd_rd_r=8f254dc0-7f3b-47e9-ab74-02911d3d19ac&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d&th=1", "layout": "split_vertical"}, "banner_details": "\nThis banner is a vibrant and engaging product advertisement for a curved gaming monitor. The layout is split vertically with the left half featuring a vivid purple gradient background and the right half in solid black, which highlights the product image. The main title (`heading`) and supporting descriptor (`subheading`) are placed on the left, with a large size spec (`tagline`) in bold yellow to instantly grab attention. Three boxed feature callouts (`feature_text_1`, `feature_text_2`, `feature_text_3`) highlight key specs, bordered by thin white strokes. The price (`price`) is prominently displayed in large yellow text beneath them. A bold yellow call-to-action button (`cta_button`) with contrasting dark text (`cta`) encourages purchase. Decorative circular accents in golden yellow add depth and energy. The monitor image (`product_image`) sits dynamically on the black background, tilted slightly to enhance its immersive curve.\n\n**Color Palette**\n- Deep Purple: #2D0A31\n- Bright Yellow: #FFD700\n- White: #FFFFFF\n- Black: #1A1A1A\n- Gradient Accent Purple: #4B0082 \u2192 #8A2BE2\n", "product_color": "  \nThe product image showcases a dynamic and visually striking color palette to highlight the Koorui monitor's vibrant display. The key colors include a rich **electric purple (#8015AA)** that sets the background, and a mix of **bright orange (#FFA500)** and **deep yellow (#FFCC00)** that form the central splash, drawing attention to the monitor\u2019s vivid picture quality. Accents of **turquoise blue (#40E0D0)** and **hot pink (#FF69B4)** add contrast and energy. These colors are seamlessly blended in a swirling, ink-in-water style, while each remains distinct due to luminous lighting and sharp contrast, effectively emphasizing brightness, clarity, and color depth of the screen.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1a1a1a'/><rect x='0' y='0' width='540' height='1080' fill='#2D0A31'/><rect x='540' y='0' width='540' height='1080' fill='#1a1a1a'/><path d='M0 0 L540 0 L540 1080 L0 1080 L0 0Z' fill='url(#gradient1)'/><path d='M 0,200 C 150,150 250,350 400,300 S 500,100 540,150 L 540,1080 L 0,1080 Z' fill='url(#gradient2)' opacity='0.4'/><circle cx='120' cy='200' r='8' fill='#FFD700' opacity='0.7'/><circle cx='160' cy='180' r='5' fill='#FFD700' opacity='0.5'/><circle cx='200' cy='220' r='6' fill='#FFD700' opacity='0.6'/><circle cx='90' cy='240' r='4' fill='#FFD700' opacity='0.8'/><circle cx='460' cy='420' r='7' fill='#FFD700' opacity='0.5'/><circle cx='420' cy='460' r='5' fill='#FFD700' opacity='0.6'/><circle cx='480' cy='400' r='3' fill='#FFD700' opacity='0.7'/><defs><linearGradient id='gradient1' x1='0' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#4B0082'/><stop offset='100%' stop-color='#8A2BE2'/></linearGradient><linearGradient id='gradient2' x1='0' y1='0' x2='540' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#9400D3'/><stop offset='100%' stop-color='#4B0082'/></linearGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 304.4,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "KOORUI",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 60,
+                "width": 115.6,
+                "height": 113,
+                "fill": "#FFD700",
+                "text": "24\"",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 60,
+                "width": 332.98,
+                "height": 99.67,
+                "fill": "#FFFFFF",
+                "text": "CURVED GAMING\nMONITOR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 450,
+                "left": 60,
+                "width": 180,
+                "height": 60,
+                "fill": "rgba(255,255,255,0.1)",
+                "rx": 0,
+                "ry": 0,
+                "id": "feature_box_1"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 82,
+                "width": 113.54,
+                "height": 58.76,
+                "fill": "#FFFFFF",
+                "text": "FULL HD\n1920x1080",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "feature_text_1"
+            },
+            {
+                "type": "rect",
+                "top": 450,
+                "left": 250,
+                "width": 180,
+                "height": 60,
+                "fill": "rgba(255,255,255,0.1)",
+                "rx": 0,
+                "ry": 0,
+                "id": "feature_box_2"
+            },
+            {
+                "type": "text",
+                "top": 456,
+                "left": 293,
+                "width": 90.82,
+                "height": 58.76,
+                "fill": "#FFFFFF",
+                "text": "1500R\nCURVED",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "feature_text_2"
+            },
+            {
+                "type": "rect",
+                "top": 520,
+                "left": 60,
+                "width": 180,
+                "height": 60,
+                "fill": "rgba(255,255,255,0.1)",
+                "rx": 0,
+                "ry": 0,
+                "id": "feature_box_3"
+            },
+            {
+                "type": "text",
+                "top": 525,
+                "left": 71,
+                "width": 161.8,
+                "height": 58.76,
+                "fill": "#FFFFFF",
+                "text": "75Hz\nREFRESH RATE",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "feature_text_3"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 331.31,
+                "height": 85.88,
+                "fill": "#FFD700",
+                "text": "$89.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 797,
+                "left": 85,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#2D0A31",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 240,
+                "left": 540,
+                "width": 546.82,
+                "height": 501.22,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/oQvl7OS7Ue7nAYjNjE93-_1439x1319.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "KOORUI 24 inch Curved Monitor, Full HD 1080P Curved Computer Monitor, 1500R Screen, HDMI VGA, Tilt Adjustment, LCD Display, Eye Care, Black 24N5CA",
+            "description": "Product Dimensions: 7.56 x 16.04 x 21.13 inches. Item Weight: 7.98 pounds. Standing screen display size: 24 Inches. Aspect Ratio: 16:9. Voltage: 2.4E+2 Volts (AC). Resolution: 1920 x 1080 Pixels.",
+            "price": "$89.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/oQvl7OS7Ue7nAYjNjE93-_1439x1319.png",
+        "marketplace_url": "https://www.amazon.com/KOORUI-Monitor-Computer-Adjustment-24N5C/dp/B0CP7C56M8/?_encoding=UTF8&pd_rd_w=P34d1&content-id=amzn1.sym.730a4fb4-1f7f-4520-9e50-8136d347aedd%3Aamzn1.symc.abfa8731-fff2-4177-9d31-bf48857c2263&pf_rd_p=730a4fb4-1f7f-4520-9e50-8136d347aedd&pf_rd_r=JA19BZ5PA6KM7B353PWX&pd_rd_wg=ou8qQ&pd_rd_r=8f254dc0-7f3b-47e9-ab74-02911d3d19ac&ref_=pd_hp_d_btf_ci_mcx_mr_ca_id_hp_d&th=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner is a vibrant and engaging product advertisement for a curved gaming monitor. The layout is split vertically with the left half featuring a vivid purple gradient background and the right half in solid black, which highlights the product image. The main title (`heading`) and supporting descriptor (`subheading`) are placed on the left, with a large size spec (`tagline`) in bold yellow to instantly grab attention. Three boxed feature callouts (`feature_text_1`, `feature_text_2`, `feature_text_3`) highlight key specs, bordered by thin white strokes. The price (`price`) is prominently displayed in large yellow text beneath them. A bold yellow call-to-action button (`cta_button`) with contrasting dark text (`cta`) encourages purchase. Decorative circular accents in golden yellow add depth and energy. The monitor image (`product_image`) sits dynamically on the black background, tilted slightly to enhance its immersive curve.\n\n**Color Palette**\n- Deep Purple: #2D0A31\n- Bright Yellow: #FFD700\n- White: #FFFFFF\n- Black: #1A1A1A\n- Gradient Accent Purple: #4B0082 \u2192 #8A2BE2\n",
+    "product_color": "  \nThe product image showcases a dynamic and visually striking color palette to highlight the Koorui monitor's vibrant display. The key colors include a rich **electric purple (#8015AA)** that sets the background, and a mix of **bright orange (#FFA500)** and **deep yellow (#FFCC00)** that form the central splash, drawing attention to the monitor\u2019s vivid picture quality. Accents of **turquoise blue (#40E0D0)** and **hot pink (#FF69B4)** add contrast and energy. These colors are seamlessly blended in a swirling, ink-in-water style, while each remains distinct due to luminous lighting and sharp contrast, effectively emphasizing brightness, clarity, and color depth of the screen.  \n"
+}

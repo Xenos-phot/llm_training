@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#E0F2F7'/><stop offset='100%' stop-color='#B2EBF2'/></radialGradient><linearGradient id='priceGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#90EE90'/><stop offset='100%' stop-color='#3CB371'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='100' cy='150' r='20' fill='white' opacity='0.2'/><circle cx='950' cy='100' r='15' fill='white' opacity='0.15'/><circle cx='150' cy='900' r='25' fill='white' opacity='0.1'/><circle cx='900' cy='850' r='30' fill='white' opacity='0.25'/><path d='M50 300 Q 150 250 250 300 T 450 300' stroke='white' stroke-width='2' fill='none' opacity='0.15'/><path d='M600 800 Q 700 750 800 800 T 1000 800' stroke='white' stroke-width='2' fill='none' opacity='0.15'/><circle cx='540' cy='540' r='300' fill='white'/><circle cx='860' cy='420' r='130' fill='url(#priceGradient)'/><path d='M800 150 L 810 170 L 820 150 L 810 130 Z' fill='white' opacity='0.4'/><path d='M200 850 L 210 870 L 220 850 L 210 830 Z' fill='white' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 99.69999999999999, "width": 880.6, "height": 113, "fill": "#2F4F4F", "text": "SUPER FRESH PRO+", "fontSize": 100, "fontFamily": "Asap Black", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 190, "left": 253.82, "width": 572.36, "height": 67.8, "fill": "#4682B4", "text": "Professional Whitening", "fontSize": 60, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 266.11, "left": 418.61, "width": 199, "height": 449, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/3chDFqa8pB3Hdt8Dltq_f_199x449.png", "id": "product_image"}, {"type": "text", "top": 374.8, "left": 736.2, "width": 247.6, "height": 90.4, "fill": "#2F4F4F", "text": "\u20b9200", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 900, "left": 142.60500000000002, "width": 794.79, "height": 40.68, "fill": "#2F4F4F", "text": "\u2022 Advanced Whitening \u2022 Freshens Breath \u2022 Double Mint", "fontSize": 36, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 965.0, "left": 400.0, "width": 280, "height": 60, "fill": "#DC143C", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 981.44, "left": 445.85, "width": 188.3, "height": 27.12, "fill": "#FFFFFF", "text": "PRE-ORDER NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Perfora Super Fresh PRO+ Whitening Toothpaste - Professional Double Mint Formula", "description": "\u2022 Advanced whitening formula expertly crafted for professional-grade results\n\u2022 Double mint flavor for long-lasting fresh breath\n\u2022 PRO+ technology specially formulated by dental experts\n\u2022 Dual action: Effectively whitens teeth while maintaining freshness\n\u2022 Premium quality ingredients for superior oral care\n\u2022 Travel-friendly tube design for convenience\n\u2022 Clinically proven to freshen breath and whiten teeth\n\u2022 Suitable for daily use with gentle yet effective cleaning\n\u2022 Modern packaging with easy-dispensing tube\n\u2022 Made with carefully selected ingredients for optimal dental care", "price": "\u20b90200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/3chDFqa8pB3Hdt8Dltq_f_199x449.png", "marketplace_url": "blob:https://studio.phot.ai/340ec176-f4a3-4e20-af37-9982a8d90049", "layout": "circular_focus"}, "banner_details": "\nThis banner features a modern, promotional design aimed at marketing a toothpaste product. Against a smooth radial gradient background ranging from light pastel cyan to soft turquoise, the banner is centered around a vivid product image (\"product_image\") elegantly enclosed within a white circular frame. A bold, energetic heading (\"heading\") stands at the top, followed by a calm, descriptive subheading (\"subheading\"), creating strong hierarchy. A vibrant green-gradient circular badge to the right displays the price (\"price\"). At the bottom, a muted feature list (\"description\") and a striking red call-to-action button (\"cta_background\" and \"cta\") complete the layout, prompting user engagement.\n\n**Color Palette:**\n- Background Gradient: #E0F2F7 \u2192 #B2EBF2  \n- Heading & Text: #2F4F4F, #4682B4  \n- Price Badge Gradient: #90EE90 \u2192 #3CB371  \n- CTA Button: #DC143C  \n- CTA Text: #FFFFFF  \n- Accent Elements: White (used in background circle and decorative light icons)\n", "product_color": "\nThe product image features a rich, deep red (#A52435) as the primary color, creating a bold and energetic feel ideal for a fresh and powerful toothpaste. White (#FFFFFF) is used for text and accents, enhancing readability and giving a clean, clinical impression that aligns with dental care. A touch of soft mint green (#A6DABD) in the \"icy double mint\" flavor indicator and tiny branding elements adds freshness. The colors are well blended with red providing the backdrop, while white fonts and icons pop to highlight key information. These hues combined convey a professional, refreshing, and trustworthy aesthetic for advertisement designs.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#E0F2F7'/><stop offset='100%' stop-color='#B2EBF2'/></radialGradient><linearGradient id='priceGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#90EE90'/><stop offset='100%' stop-color='#3CB371'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='100' cy='150' r='20' fill='white' opacity='0.2'/><circle cx='950' cy='100' r='15' fill='white' opacity='0.15'/><circle cx='150' cy='900' r='25' fill='white' opacity='0.1'/><circle cx='900' cy='850' r='30' fill='white' opacity='0.25'/><path d='M50 300 Q 150 250 250 300 T 450 300' stroke='white' stroke-width='2' fill='none' opacity='0.15'/><path d='M600 800 Q 700 750 800 800 T 1000 800' stroke='white' stroke-width='2' fill='none' opacity='0.15'/><circle cx='540' cy='540' r='300' fill='white'/><circle cx='860' cy='420' r='130' fill='url(#priceGradient)'/><path d='M800 150 L 810 170 L 820 150 L 810 130 Z' fill='white' opacity='0.4'/><path d='M200 850 L 210 870 L 220 850 L 210 830 Z' fill='white' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 99.69999999999999,
+                "width": 880.6,
+                "height": 113,
+                "fill": "#2F4F4F",
+                "text": "SUPER FRESH PRO+",
+                "fontFamily": "Asap Black",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 253.82,
+                "width": 572.36,
+                "height": 67.8,
+                "fill": "#4682B4",
+                "text": "Professional Whitening",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 266.11,
+                "left": 418.61,
+                "width": 242.78,
+                "height": 547.78,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/3chDFqa8pB3Hdt8Dltq_f_199x449.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 374.8,
+                "left": 736.2,
+                "width": 247.6,
+                "height": 90.4,
+                "fill": "#2F4F4F",
+                "text": "\u20b9200",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 142.60500000000002,
+                "width": 794.79,
+                "height": 40.68,
+                "fill": "#2F4F4F",
+                "text": "\u2022 Advanced Whitening \u2022 Freshens Breath \u2022 Double Mint",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 965.0,
+                "left": 400.0,
+                "width": 280,
+                "height": 60,
+                "fill": "#DC143C",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 981.44,
+                "left": 445.85,
+                "width": 188.3,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "PRE-ORDER NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Perfora Super Fresh PRO+ Whitening Toothpaste - Professional Double Mint Formula",
+            "description": "\u2022 Advanced whitening formula expertly crafted for professional-grade results\n\u2022 Double mint flavor for long-lasting fresh breath\n\u2022 PRO+ technology specially formulated by dental experts\n\u2022 Dual action: Effectively whitens teeth while maintaining freshness\n\u2022 Premium quality ingredients for superior oral care\n\u2022 Travel-friendly tube design for convenience\n\u2022 Clinically proven to freshen breath and whiten teeth\n\u2022 Suitable for daily use with gentle yet effective cleaning\n\u2022 Modern packaging with easy-dispensing tube\n\u2022 Made with carefully selected ingredients for optimal dental care",
+            "price": "\u20b90200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/3chDFqa8pB3Hdt8Dltq_f_199x449.png",
+        "marketplace_url": "blob:https://studio.phot.ai/340ec176-f4a3-4e20-af37-9982a8d90049",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a modern, promotional design aimed at marketing a toothpaste product. Against a smooth radial gradient background ranging from light pastel cyan to soft turquoise, the banner is centered around a vivid product image (\"product_image\") elegantly enclosed within a white circular frame. A bold, energetic heading (\"heading\") stands at the top, followed by a calm, descriptive subheading (\"subheading\"), creating strong hierarchy. A vibrant green-gradient circular badge to the right displays the price (\"price\"). At the bottom, a muted feature list (\"description\") and a striking red call-to-action button (\"cta_background\" and \"cta\") complete the layout, prompting user engagement.\n\n**Color Palette:**\n- Background Gradient: #E0F2F7 \u2192 #B2EBF2  \n- Heading & Text: #2F4F4F, #4682B4  \n- Price Badge Gradient: #90EE90 \u2192 #3CB371  \n- CTA Button: #DC143C  \n- CTA Text: #FFFFFF  \n- Accent Elements: White (used in background circle and decorative light icons)\n",
+    "product_color": "\nThe product image features a rich, deep red (#A52435) as the primary color, creating a bold and energetic feel ideal for a fresh and powerful toothpaste. White (#FFFFFF) is used for text and accents, enhancing readability and giving a clean, clinical impression that aligns with dental care. A touch of soft mint green (#A6DABD) in the \"icy double mint\" flavor indicator and tiny branding elements adds freshness. The colors are well blended with red providing the backdrop, while white fonts and icons pop to highlight key information. These hues combined convey a professional, refreshing, and trustworthy aesthetic for advertisement designs.\n"
+}

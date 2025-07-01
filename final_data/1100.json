@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#6a4c93'/><stop offset='100%' style='stop-color:#4b3671'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#40e0d0'/><stop offset='100%' style='stop-color:#2ebd92'/></linearGradient></defs><rect width='540' height='1080' fill='url(#bgGrad)'/><rect x='540' y='0' width='540' height='1080' fill='#f8f8f8'/><path d='M 540 0 C 440 200, 490 400, 440 600 C 390 800, 440 1000, 540 1080' stroke='url(#accentGrad)' stroke-width='12' fill='none'/><circle cx='150' cy='150' r='80' fill='url(#accentGrad)' opacity='0.15'/><circle cx='400' cy='900' r='120' fill='url(#accentGrad)' opacity='0.1'/><path d='M 0 400 Q 100 350, 200 400 T 400 400 T 600 400' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.05'/><path d='M 0 600 Q 100 550, 200 600 T 400 600 T 600 600' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.05'/><path d='M 0 800 Q 100 750, 200 800 T 400 800 T 600 800' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 446.32, "height": 90.4, "fill": "#FFFFFF", "text": "RORSOU R10", "fontSize": 80, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 60, "width": 429.06, "height": 45.2, "fill": "#40E0D0", "text": "PREMIUM HEADPHONES", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 60, "width": 329.99, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 Lightweight Folding Design\n\u2022 Stereo Bass Sound\n\u2022 Built-in Microphone", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 60, "width": 198.92, "height": 101.7, "fill": "#40E0D0", "text": "$16.99", "fontSize": 90, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 750, "left": 60, "width": 200, "height": 60, "fill": "#40E0D0", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 765, "left": 90, "width": 125.04, "height": 27.12, "fill": "#6A4C93", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 560, "width": 1108, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/FmpM4R21CVBVlu9_LwMx__1108x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "RORSOU R10 Over-Ear Headphones with Microphone, Lightweight Folding Stereo Bass Headset with 1.5M No-Tangle Cord, Portable Wired Headphones for Smartphone Tablet Computer MP3 / 4 (Purple)", "description": "Headphones Jack: 3.5 mm Jack. Model Name: R10. Connectivity Technology: Wired. Age Range (Description): Adult, Kid. Material: Nylon,Plastic. Specific Uses For Product: Sports and Exercise, Home. Recommended Uses For Product: Calling. Compatible Devices: Smartphone,Tablet,laptops,Computer,MP3,MP4. Theme: Video Game. Control Type: Media Control. Cable Feature: Retractable. Item Weight: 9.9 ounces. Water Resistance Level: Not Water Resistant. Frequency Range: 20 Hz - 20,000 Hz. Customer Package Type: Flat Package. Unit Count: 1 Count. Style: Modern. Control Method: Touch. Number of Items: 1. Controller Type: Media Control. Audio Driver Type: Dynamic Driver. Audio Driver Size: 40 Millimeters. Earpiece Shape: Round. Is Autographed: No. Series Number: 10. Product Dimensions: 7.09 x 3.15 x 7.87 inches. Country of Origin: China.", "price": "$16.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/FmpM4R21CVBVlu9_LwMx__1108x1439.png", "marketplace_url": "https://www.amazon.com/RORSOU-R10-Headphones-Microphone-Lightweight/dp/B094N7YJM5/ref=sxin_13_pa_sp_search_thematic_sspa?content-id=amzn1.sym.245d6db4-f924-4d02-a9dc-78be7e9c7abd%3Aamzn1.sym.245d6db4-f924-4d02-a9dc-78be7e9c7abd&crid=3I69WH7LF2KH5&cv_ct_cx=headphones&keywords=headphones&pd_rd_i=B094N7YJM5&pd_rd_r=b57e59e4-8431-45ff-910e-896e25080760&pd_rd_w=ibXb2&pd_rd_wg=iLtQY&pf_rd_p=245d6db4-f924-4d02-a9dc-78be7e9c7abd&pf_rd_r=0CC3XBMXM5JBKH8AFRH9&qid=1746610226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=headphones%2Caps%2C365&sr=1-2-7efdef4d-9875-47e1-927f-8c2c1c47ed49-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a modern split-layout design. The left half uses a deep purple gradient background with soft wave patterns and circular overlays, giving it a sleek and dynamic feel. On this side, the main heading (\"heading\") is bold and white, signaling the product's name, complemented by a teal-colored subheading (\"subheading\") that adds visual hierarchy. Below is a feature list (\"description\") highlighting the product\u2019s key benefits. A large teal price tag (\"price\") is displayed prominently, followed by a vibrant call-to-action button (\"cta_button\") with contrasting text (\"cta\"). The right side showcases an angled product image (\"product_image\") against a clean white background for contrast.\n\n**Color Palette:**\n- Deep Purple: #6A4C93\n- Indigo: #4B3671\n- Teal: #40E0D0\n- Mint Green: #2EBD92\n- White: #FFFFFF\n- Light Gray: #F8F8F8\n", "product_color": "\nThe product image showcases a vibrant and youthful color palette primarily consisting of deep purple (#6A0DAD) and bright turquoise (#40E0D0). These complementary colors are skillfully used to create a strong contrast that is visually appealing. The dominant purple provides a bold, modern base, while the turquoise accents\u2014seen along the earcup rims, interior headband, and brand name\u2014energize the design and enhance visual interest. The smooth matte finish blends these shades seamlessly while still keeping them distinct for emphasis. This palette exudes a fun, tech-forward vibe and is ideal for targeting a youthful, fashion-conscious audience in advertisement banners.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#6a4c93'/><stop offset='100%' style='stop-color:#4b3671'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#40e0d0'/><stop offset='100%' style='stop-color:#2ebd92'/></linearGradient></defs><rect width='540' height='1080' fill='url(#bgGrad)'/><rect x='540' y='0' width='540' height='1080' fill='#f8f8f8'/><path d='M 540 0 C 440 200, 490 400, 440 600 C 390 800, 440 1000, 540 1080' stroke='url(#accentGrad)' stroke-width='12' fill='none'/><circle cx='150' cy='150' r='80' fill='url(#accentGrad)' opacity='0.15'/><circle cx='400' cy='900' r='120' fill='url(#accentGrad)' opacity='0.1'/><path d='M 0 400 Q 100 350, 200 400 T 400 400 T 600 400' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.05'/><path d='M 0 600 Q 100 550, 200 600 T 400 600 T 600 600' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.05'/><path d='M 0 800 Q 100 750, 200 800 T 400 800 T 600 800' stroke='#ffffff' stroke-width='4' fill='none' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 446.32,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "RORSOU R10",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 60,
+                "width": 429.06,
+                "height": 45.2,
+                "fill": "#40E0D0",
+                "text": "PREMIUM HEADPHONES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 60,
+                "width": 329.99,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Lightweight Folding Design\n\u2022 Stereo Bass Sound\n\u2022 Built-in Microphone",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 198.92,
+                "height": 101.7,
+                "fill": "#40E0D0",
+                "text": "$16.99",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 750,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#40E0D0",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 765,
+                "left": 90,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#6A4C93",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 560,
+                "width": 498.6,
+                "height": 647.5500000000001,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/FmpM4R21CVBVlu9_LwMx__1108x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "RORSOU R10 Over-Ear Headphones with Microphone, Lightweight Folding Stereo Bass Headset with 1.5M No-Tangle Cord, Portable Wired Headphones for Smartphone Tablet Computer MP3 / 4 (Purple)",
+            "description": "Headphones Jack: 3.5 mm Jack. Model Name: R10. Connectivity Technology: Wired. Age Range (Description): Adult, Kid. Material: Nylon,Plastic. Specific Uses For Product: Sports and Exercise, Home. Recommended Uses For Product: Calling. Compatible Devices: Smartphone,Tablet,laptops,Computer,MP3,MP4. Theme: Video Game. Control Type: Media Control. Cable Feature: Retractable. Item Weight: 9.9 ounces. Water Resistance Level: Not Water Resistant. Frequency Range: 20 Hz - 20,000 Hz. Customer Package Type: Flat Package. Unit Count: 1 Count. Style: Modern. Control Method: Touch. Number of Items: 1. Controller Type: Media Control. Audio Driver Type: Dynamic Driver. Audio Driver Size: 40 Millimeters. Earpiece Shape: Round. Is Autographed: No. Series Number: 10. Product Dimensions: 7.09 x 3.15 x 7.87 inches. Country of Origin: China.",
+            "price": "$16.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/FmpM4R21CVBVlu9_LwMx__1108x1439.png",
+        "marketplace_url": "https://www.amazon.com/RORSOU-R10-Headphones-Microphone-Lightweight/dp/B094N7YJM5/ref=sxin_13_pa_sp_search_thematic_sspa?content-id=amzn1.sym.245d6db4-f924-4d02-a9dc-78be7e9c7abd%3Aamzn1.sym.245d6db4-f924-4d02-a9dc-78be7e9c7abd&crid=3I69WH7LF2KH5&cv_ct_cx=headphones&keywords=headphones&pd_rd_i=B094N7YJM5&pd_rd_r=b57e59e4-8431-45ff-910e-896e25080760&pd_rd_w=ibXb2&pd_rd_wg=iLtQY&pf_rd_p=245d6db4-f924-4d02-a9dc-78be7e9c7abd&pf_rd_r=0CC3XBMXM5JBKH8AFRH9&qid=1746610226&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=headphones%2Caps%2C365&sr=1-2-7efdef4d-9875-47e1-927f-8c2c1c47ed49-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a modern split-layout design. The left half uses a deep purple gradient background with soft wave patterns and circular overlays, giving it a sleek and dynamic feel. On this side, the main heading (\"heading\") is bold and white, signaling the product's name, complemented by a teal-colored subheading (\"subheading\") that adds visual hierarchy. Below is a feature list (\"description\") highlighting the product\u2019s key benefits. A large teal price tag (\"price\") is displayed prominently, followed by a vibrant call-to-action button (\"cta_button\") with contrasting text (\"cta\"). The right side showcases an angled product image (\"product_image\") against a clean white background for contrast.\n\n**Color Palette:**\n- Deep Purple: #6A4C93\n- Indigo: #4B3671\n- Teal: #40E0D0\n- Mint Green: #2EBD92\n- White: #FFFFFF\n- Light Gray: #F8F8F8\n",
+    "product_color": "\nThe product image showcases a vibrant and youthful color palette primarily consisting of deep purple (#6A0DAD) and bright turquoise (#40E0D0). These complementary colors are skillfully used to create a strong contrast that is visually appealing. The dominant purple provides a bold, modern base, while the turquoise accents\u2014seen along the earcup rims, interior headband, and brand name\u2014energize the design and enhance visual interest. The smooth matte finish blends these shades seamlessly while still keeping them distinct for emphasis. This palette exudes a fun, tech-forward vibe and is ideal for targeting a youthful, fashion-conscious audience in advertisement banners.\n"
+}

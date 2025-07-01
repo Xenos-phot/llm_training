@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F5F1ED;stop-opacity:1'/><stop offset='100%' style='stop-color:#EBE5DC;stop-opacity:1'/></linearGradient><linearGradient id='frame-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#3D5A80;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#3D5A80;stop-opacity:0.6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='15' stroke='#3D5A80' stroke-width='3' fill='none' opacity='0.7'/><rect x='80' y='80' width='920' height='920' rx='10' stroke='#3D5A80' stroke-width='2' fill='none' opacity='0.5'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><rect x='120' y='120' width='840' height='840' rx='5' fill='#FFFFFF' opacity='0.25'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 100, "width": 746.55, "height": 113, "fill": "#1A2E4C", "text": "PREMIUM DENIM", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 230, "left": 100, "width": 626.4, "height": 45.2, "fill": "#3D5A80", "text": "CLASSIC COMFORT COLLECTION", "fontSize": 40, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 310, "left": 100, "width": 300, "height": 3, "fill": "#A5C4D4", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 340, "left": 100, "width": 658.04, "height": 164.53, "fill": "#1A2E4C", "text": "\u2022 Two versatile washes: Light & Deep indigo\n\u2022 High-quality denim with fade-resistant technology\n\u2022 Modern slim-fit design with perfect stretch\n\u2022 Timeless style for casual & semi-formal wear", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 100, "width": 335.84, "height": 113, "fill": "#1A2E4C", "text": "$1200", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 100, "width": 220, "height": 60, "fill": "#1A2E4C", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 917, "left": 145, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 510.53, "left": 462.14, "width": 871, "height": 687, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/9axKJp6DjEkMJX7yYoyOc_871x687.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Denim Collection: Classic Comfort Meets Modern Style", "description": "\u2022 Two versatile washes: Light fade and Deep indigo blue options\n\u2022 High-quality denim material for superior durability and comfort\n\u2022 Modern slim-fit design that flatters any body type\n\u2022 Expertly crafted with fade-resistant technology\n\u2022 Five-pocket classic styling for practicality\n\u2022 Perfect stretch comfort for all-day wear\n\u2022 Available in multiple sizes to ensure the perfect fit\n\u2022 Timeless design suitable for both casual and semi-formal occasions\n\u2022 Easy-care fabric that maintains shape after washing\n\u2022 Sustainable manufacturing process with eco-friendly materials", "price": "$1200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/9axKJp6DjEkMJX7yYoyOc_871x687.png", "marketplace_url": "https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg", "layout": "frame_layout"}, "banner_details": "\nThis square promotional banner features a premium fashion product display with a clean, modern layout. The background presents soft, gradient beige tones with decorative wavy borders enhancing visual structure. It includes a bold heading (`heading`) with a sans-serif font in deep navy blue, paired with an elegant serif subheading (`subheading`) for stylistic contrast. A thin teal underline (`decorative`) separates the text from the product highlights section (`description`), which outlines key features in bullet format. Centered at the bottom are a large price (`price`) and a contrasting dark blue call-to-action button labeled `SHOP NOW` (`cta`, `cta_background`). Two hanging jeans are displayed through an embedded image (`product_image`), creating product focus and symmetry.\n\n**Color Palette:**\n- Navy Blue: #1A2E4C\n- Muted Blue: #3D5A80\n- Light Gradient Beige: #F5F1ED to #EBE5DC\n- Accent Blue: #A5C4D4\n- White: #FFFFFF\n", "product_color": "  \nThe product image showcases two pairs of jeans in contrasting denim shades\u2014light blue and dark blue\u2014hung on warm wooden hangers. The color palette suggests a harmonious yet striking visual contrast: soft sky blue (#A7C8D1), vintage denim blue (#395B77), faded indigo (#214058), warm natural wood (#B98042), and neutral white (#F4F4F4) from the background. The blending is subtle in denim textures through natural wear gradients and distress effects, adding depth and realism. The wooden hangers provide a warm touch that highlights the cool denim tones. This palette balances vibrancy and subtlety, ideal for a stylish, modern advertising banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F5F1ED;stop-opacity:1'/><stop offset='100%' style='stop-color:#EBE5DC;stop-opacity:1'/></linearGradient><linearGradient id='frame-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#3D5A80;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#3D5A80;stop-opacity:0.6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='15' stroke='#3D5A80' stroke-width='3' fill='none' opacity='0.7'/><rect x='80' y='80' width='920' height='920' rx='10' stroke='#3D5A80' stroke-width='2' fill='none' opacity='0.5'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#3D5A80' stroke-width='3' opacity='0.4' fill='none'/><rect x='120' y='120' width='840' height='840' rx='5' fill='#FFFFFF' opacity='0.25'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 100,
+                "width": 746.55,
+                "height": 113,
+                "fill": "#1A2E4C",
+                "text": "PREMIUM DENIM",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 230,
+                "left": 100,
+                "width": 626.4,
+                "height": 45.2,
+                "fill": "#3D5A80",
+                "text": "CLASSIC COMFORT COLLECTION",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 310,
+                "left": 100,
+                "width": 300,
+                "height": 3,
+                "fill": "#A5C4D4",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 100,
+                "width": 658.04,
+                "height": 164.53,
+                "fill": "#1A2E4C",
+                "text": "\u2022 Two versatile washes: Light & Deep indigo\n\u2022 High-quality denim with fade-resistant technology\n\u2022 Modern slim-fit design with perfect stretch\n\u2022 Timeless style for casual & semi-formal wear",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 100,
+                "width": 335.84,
+                "height": 113,
+                "fill": "#1A2E4C",
+                "text": "$1200",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 100,
+                "width": 220,
+                "height": 60,
+                "fill": "#1A2E4C",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 917,
+                "left": 145,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 510.53,
+                "left": 462.14,
+                "width": 496.46999999999997,
+                "height": 391.59,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/9axKJp6DjEkMJX7yYoyOc_871x687.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Denim Collection: Classic Comfort Meets Modern Style",
+            "description": "\u2022 Two versatile washes: Light fade and Deep indigo blue options\n\u2022 High-quality denim material for superior durability and comfort\n\u2022 Modern slim-fit design that flatters any body type\n\u2022 Expertly crafted with fade-resistant technology\n\u2022 Five-pocket classic styling for practicality\n\u2022 Perfect stretch comfort for all-day wear\n\u2022 Available in multiple sizes to ensure the perfect fit\n\u2022 Timeless design suitable for both casual and semi-formal occasions\n\u2022 Easy-care fabric that maintains shape after washing\n\u2022 Sustainable manufacturing process with eco-friendly materials",
+            "price": "$1200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/9axKJp6DjEkMJX7yYoyOc_871x687.png",
+        "marketplace_url": "https://images.pexels.com/photos/1082528/pexels-photo-1082528.jpeg",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis square promotional banner features a premium fashion product display with a clean, modern layout. The background presents soft, gradient beige tones with decorative wavy borders enhancing visual structure. It includes a bold heading (`heading`) with a sans-serif font in deep navy blue, paired with an elegant serif subheading (`subheading`) for stylistic contrast. A thin teal underline (`decorative`) separates the text from the product highlights section (`description`), which outlines key features in bullet format. Centered at the bottom are a large price (`price`) and a contrasting dark blue call-to-action button labeled `SHOP NOW` (`cta`, `cta_background`). Two hanging jeans are displayed through an embedded image (`product_image`), creating product focus and symmetry.\n\n**Color Palette:**\n- Navy Blue: #1A2E4C\n- Muted Blue: #3D5A80\n- Light Gradient Beige: #F5F1ED to #EBE5DC\n- Accent Blue: #A5C4D4\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image showcases two pairs of jeans in contrasting denim shades\u2014light blue and dark blue\u2014hung on warm wooden hangers. The color palette suggests a harmonious yet striking visual contrast: soft sky blue (#A7C8D1), vintage denim blue (#395B77), faded indigo (#214058), warm natural wood (#B98042), and neutral white (#F4F4F4) from the background. The blending is subtle in denim textures through natural wear gradients and distress effects, adding depth and realism. The wooden hangers provide a warm touch that highlights the cool denim tones. This palette balances vibrancy and subtlety, ideal for a stylish, modern advertising banner.\n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F7F3EA'/><rect x='0' y='0' width='540' height='540' fill='#E0C9A6'/><rect x='540' y='0' width='540' height='540' fill='#D3A97C'/><rect x='0' y='540' width='540' height='540' fill='#C17F41'/><rect x='540' y='540' width='540' height='540' fill='#E7BE90'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#8B5D33' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#8B5D33' stroke-width='2'/></g><circle cx='270' cy='270' r='200' fill='#E5D3B3' opacity='0.4'/><circle cx='810' cy='810' r='200' fill='#CFA077' opacity='0.4'/><g transform='translate(100, 100)'><path d='M0,0 C30,20 60,0 90,20 C120,40 150,20 180,0' stroke='#A87C51' stroke-width='3' fill='none' opacity='0.5'/><path d='M20,40 C50,60 80,40 110,60 C140,80 170,60 200,40' stroke='#A87C51' stroke-width='3' fill='none' opacity='0.5'/><path d='M40,80 C70,100 100,80 130,100 C160,120 190,100 220,80' stroke='#A87C51' stroke-width='3' fill='none' opacity='0.5'/></g><g transform='translate(700, 700)'><path d='M0,0 C30,20 60,0 90,20 C120,40 150,20 180,0' stroke='#C89D75' stroke-width='3' fill='none' opacity='0.5'/><path d='M20,40 C50,60 80,40 110,60 C140,80 170,60 200,40' stroke='#C89D75' stroke-width='3' fill='none' opacity='0.5'/><path d='M40,80 C70,100 100,80 130,100 C160,120 190,100 220,80' stroke='#C89D75' stroke-width='3' fill='none' opacity='0.5'/></g><g transform='translate(100, 700)'><circle cx='0' cy='0' r='5' fill='#8B5D33'/><circle cx='20' cy='0' r='5' fill='#8B5D33'/><circle cx='40' cy='0' r='5' fill='#8B5D33'/><circle cx='60' cy='0' r='5' fill='#8B5D33'/><circle cx='80' cy='0' r='5' fill='#8B5D33'/><circle cx='0' cy='20' r='5' fill='#8B5D33'/><circle cx='20' cy='20' r='5' fill='#8B5D33'/><circle cx='40' cy='20' r='5' fill='#8B5D33'/><circle cx='60' cy='20' r='5' fill='#8B5D33'/><circle cx='80' cy='20' r='5' fill='#8B5D33'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 380.43, "height": 107.35, "fill": "#6B4226", "text": "ARTISAN", "fontSize": 95, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 50, "width": 430.45, "height": 107.35, "fill": "#6B4226", "text": "COMFORT", "fontSize": 95, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 300, "left": 50, "width": 331.2, "height": 22.6, "fill": "#A05C17", "text": "BOHO-CHIC SNEAKERS", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 567, "left": 50, "width": 425.1, "height": 188.03, "fill": "#FFFFFF", "text": "\u2022 Handcrafted Bohemian Design\n\u2022 Premium Leather Construction\n\u2022 Comfortable Padded Insole\n\u2022 Durable Artisanal Outsole", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 195.6, "height": 124.3, "fill": "#FFFFFF", "text": "\u20b9 999", "fontSize": 110, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 50, "width": 220, "height": 70, "fill": "#6B4226", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 967, "left": 88, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 348.52, "left": 533.16, "width": 1239, "height": 895, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/9wvQYKyhikPUx5KcSvhUi_1239x895.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Artisan Comfort: Boho-Chic Designer Sneaker with Handcrafted Details", "description": "\u2022 Unique bohemian-inspired design with decorative scalloped patterns\n\u2022 Premium beige and tan leather construction with artisanal stitching\n\u2022 Comfortable padded insole with light blue interior lining\n\u2022 Durable rubber outsole with distinctive bubble texture\n\u2022 Stylish brown contrast laces for adjustable fit\n\u2022 Hand-detailed ornamental elements on toe and heel\n\u2022 Lightweight and flexible construction for all-day wear\n\u2022 Perfect blend of casual comfort and artistic expression\n\u2022 Available in unique earth-tone color combination\n\u2022 Ideal for fashion-forward individuals seeking distinctive footwear", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/9wvQYKyhikPUx5KcSvhUi_1239x895.png", "marketplace_url": "", "layout": "grid_four"}, "banner_details": "\nThis banner is designed for a product promotion, featuring a stylish boho-chic sneaker. The layout is divided into four quadrants with warm, earthy tones and geometric divisions. The left half focuses on textual content, while the right showcases the product image. The top-left corner features bold, uppercase heading text (`heading_1` and `heading_2`) in a deep brown color. Below it, there's a tagline (`tagline`) in a smaller, modern font. Mid-left features a bullet-point list (`description`) highlighting the product\u2019s features in white. At the bottom-left, the price (`price`) is prominently displayed, accompanied by a rectangular button (`cta_button`) with a call to action (`cta`). The right side is dominated by the shoe (`product_image`), placed centrally for maximum focus.\n\n**Color Palette**:\n- Soft Beige: `#F7F3EA`\n- Warm Tan: `#E0C9A6`\n- Sandy Brown: `#D3A97C`\n- Caramel Orange: `#C17F41`\n- Soft Peach: `#E7BE90`\n- Deep Brown: `#6B4226`\n- Accent Orange: `#A05C17`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a creatively designed sneaker with a warm, earthy tonal palette. Dominant hues include soft beige (#F5D7A5), burnt orange (#C65A28), caramel brown (#A05B2A), and creamy off-white (#F9EFE1), blending together with a sculpted, artisan-crafted appeal. The upper uses beige and cream tones to highlight the shoe\u2019s curves, while the vibrant burnt orange laces and textured sole add contrast and vibrancy. Subtle gradients and outlines emphasize the design portions, giving them depth. These blended warm tones evoke warmth and nostalgia, making them perfect for an advertisement banner aiming for artisanal elegance and playful uniqueness.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F7F3EA'/><rect x='0' y='0' width='540' height='540' fill='#E0C9A6'/><rect x='540' y='0' width='540' height='540' fill='#D3A97C'/><rect x='0' y='540' width='540' height='540' fill='#C17F41'/><rect x='540' y='540' width='540' height='540' fill='#E7BE90'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#8B5D33' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#8B5D33' stroke-width='2'/></g><circle cx='270' cy='270' r='200' fill='#E5D3B3' opacity='0.4'/><circle cx='810' cy='810' r='200' fill='#CFA077' opacity='0.4'/><g transform='translate(100, 100)'><path d='M0,0 C30,20 60,0 90,20 C120,40 150,20 180,0' stroke='#A87C51' stroke-width='3' fill='none' opacity='0.5'/><path d='M20,40 C50,60 80,40 110,60 C140,80 170,60 200,40' stroke='#A87C51' stroke-width='3' fill='none' opacity='0.5'/><path d='M40,80 C70,100 100,80 130,100 C160,120 190,100 220,80' stroke='#A87C51' stroke-width='3' fill='none' opacity='0.5'/></g><g transform='translate(700, 700)'><path d='M0,0 C30,20 60,0 90,20 C120,40 150,20 180,0' stroke='#C89D75' stroke-width='3' fill='none' opacity='0.5'/><path d='M20,40 C50,60 80,40 110,60 C140,80 170,60 200,40' stroke='#C89D75' stroke-width='3' fill='none' opacity='0.5'/><path d='M40,80 C70,100 100,80 130,100 C160,120 190,100 220,80' stroke='#C89D75' stroke-width='3' fill='none' opacity='0.5'/></g><g transform='translate(100, 700)'><circle cx='0' cy='0' r='5' fill='#8B5D33'/><circle cx='20' cy='0' r='5' fill='#8B5D33'/><circle cx='40' cy='0' r='5' fill='#8B5D33'/><circle cx='60' cy='0' r='5' fill='#8B5D33'/><circle cx='80' cy='0' r='5' fill='#8B5D33'/><circle cx='0' cy='20' r='5' fill='#8B5D33'/><circle cx='20' cy='20' r='5' fill='#8B5D33'/><circle cx='40' cy='20' r='5' fill='#8B5D33'/><circle cx='60' cy='20' r='5' fill='#8B5D33'/><circle cx='80' cy='20' r='5' fill='#8B5D33'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 380.43,
+                "height": 107.35,
+                "fill": "#6B4226",
+                "text": "ARTISAN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 430.45,
+                "height": 107.35,
+                "fill": "#6B4226",
+                "text": "COMFORT",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 50,
+                "width": 331.2,
+                "height": 22.6,
+                "fill": "#A05C17",
+                "text": "BOHO-CHIC SNEAKERS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 567,
+                "left": 50,
+                "width": 425.1,
+                "height": 188.03,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Handcrafted Bohemian Design\n\u2022 Premium Leather Construction\n\u2022 Comfortable Padded Insole\n\u2022 Durable Artisanal Outsole",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 195.6,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 999",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#6B4226",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 967,
+                "left": 88,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 348.52,
+                "left": 533.16,
+                "width": 507.98999999999995,
+                "height": 366.95,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/9wvQYKyhikPUx5KcSvhUi_1239x895.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Artisan Comfort: Boho-Chic Designer Sneaker with Handcrafted Details",
+            "description": "\u2022 Unique bohemian-inspired design with decorative scalloped patterns\n\u2022 Premium beige and tan leather construction with artisanal stitching\n\u2022 Comfortable padded insole with light blue interior lining\n\u2022 Durable rubber outsole with distinctive bubble texture\n\u2022 Stylish brown contrast laces for adjustable fit\n\u2022 Hand-detailed ornamental elements on toe and heel\n\u2022 Lightweight and flexible construction for all-day wear\n\u2022 Perfect blend of casual comfort and artistic expression\n\u2022 Available in unique earth-tone color combination\n\u2022 Ideal for fashion-forward individuals seeking distinctive footwear",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/9wvQYKyhikPUx5KcSvhUi_1239x895.png",
+        "marketplace_url": "",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis banner is designed for a product promotion, featuring a stylish boho-chic sneaker. The layout is divided into four quadrants with warm, earthy tones and geometric divisions. The left half focuses on textual content, while the right showcases the product image. The top-left corner features bold, uppercase heading text (`heading_1` and `heading_2`) in a deep brown color. Below it, there's a tagline (`tagline`) in a smaller, modern font. Mid-left features a bullet-point list (`description`) highlighting the product\u2019s features in white. At the bottom-left, the price (`price`) is prominently displayed, accompanied by a rectangular button (`cta_button`) with a call to action (`cta`). The right side is dominated by the shoe (`product_image`), placed centrally for maximum focus.\n\n**Color Palette**:\n- Soft Beige: `#F7F3EA`\n- Warm Tan: `#E0C9A6`\n- Sandy Brown: `#D3A97C`\n- Caramel Orange: `#C17F41`\n- Soft Peach: `#E7BE90`\n- Deep Brown: `#6B4226`\n- Accent Orange: `#A05C17`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a creatively designed sneaker with a warm, earthy tonal palette. Dominant hues include soft beige (#F5D7A5), burnt orange (#C65A28), caramel brown (#A05B2A), and creamy off-white (#F9EFE1), blending together with a sculpted, artisan-crafted appeal. The upper uses beige and cream tones to highlight the shoe\u2019s curves, while the vibrant burnt orange laces and textured sole add contrast and vibrancy. Subtle gradients and outlines emphasize the design portions, giving them depth. These blended warm tones evoke warmth and nostalgia, making them perfect for an advertisement banner aiming for artisanal elegance and playful uniqueness.\n"
+}

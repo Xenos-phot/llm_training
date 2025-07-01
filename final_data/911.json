@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalSplit' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2D2D42'/><stop offset='49%' stop-color='#3D2D4A'/><stop offset='51%' stop-color='#4A2D42'/><stop offset='100%' stop-color='#5D2D4A'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF69B4' stop-opacity='0.6'/><stop offset='100%' stop-color='#FF1493' stop-opacity='0.4'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalSplit)'/><g fill='#FF69B4' opacity='.15'><circle cx='100' cy='100' r='3'/><circle cx='180' cy='100' r='3'/><circle cx='260' cy='100' r='3'/><circle cx='100' cy='180' r='3'/><circle cx='180' cy='180' r='3'/><circle cx='260' cy='180' r='3'/><circle cx='820' cy='820' r='3'/><circle cx='900' cy='820' r='3'/><circle cx='980' cy='820' r='3'/><circle cx='820' cy='900' r='3'/><circle cx='900' cy='900' r='3'/><circle cx='980' cy='900' r='3'/></g><path d='M-100 200L300 -100L500 -50L100 300Z' fill='#FF1493' opacity='.1'/><path d='M1180 880L780 1180L580 1130L980 780Z' fill='#FF1493' opacity='.1'/><circle cx='150' cy='150' r='30' fill='#FF1493' opacity='.1'/><circle cx='930' cy='930' r='30' fill='#FF1493' opacity='.1'/><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2' opacity='.05'/><g fill='#FFFFFF' opacity='.1'><path d='M200 200 L210 230 L240 240 L210 250 L200 280 L190 250 L160 240 L190 230 Z'/><path d='M880 160 L890 190 L920 200 L890 210 L880 240 L870 210 L840 200 L870 190 Z'/><path d='M160 880 L170 910 L200 920 L170 930 L160 960 L150 930 L120 920 L150 910 Z'/><path d='M900 850 L910 880 L940 890 L910 900 L900 930 L890 900 L860 890 L890 880 Z'/></g><g fill='#FFFFFF' opacity='.1'><path d='M400 300 L407 318 L427 325 L407 332 L400 350 L393 332 L373 325 L393 318 Z'/><path d='M700 600 L707 618 L727 625 L707 632 L700 650 L693 632 L673 625 L693 618 Z'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 55, "width": 560.91, "height": 90.4, "fill": "#FF69B4", "text": "PRETTY IN PINK", "fontSize": 80, "fontFamily": "Luckiest Guy-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 55, "width": 517.9, "height": 56.5, "fill": "#FFFFFF", "text": "LUXURY MAKEUP SET", "fontSize": 50, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 280, "left": 55, "width": 452.45, "height": 45.2, "fill": "#FF9CC2", "text": "Timeless Beauty Essentials", "fontSize": 40, "fontFamily": "Neuton Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 360, "left": 55, "width": 507.71, "height": 186.45, "fill": "#FFFFFF", "text": "\u2022 Premium pink blush with built-in mirror\n\u2022 Luxurious silver and black packaging\n\u2022 Long-lasting, pigment-rich color\n\u2022 Perfect for all skin tones", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 55, "width": 273.97, "height": 101.7, "fill": "#FF69B4", "text": "\u20b9 999", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 55, "width": 200, "height": 60, "fill": "#FF1493", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 946, "left": 88, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 240, "left": 550, "width": 703, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682ec6a8e19b2d9ba7e01f0a/gDeAGTCq-b27ssCpBuKjT_703x759.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pretty in Pink Luxury Makeup Set - Timeless Beauty Essentials", "description": "\u2022 Premium pink blush compact with built-in mirror for perfect application on-the-go\n\u2022 Silky-smooth powder formula for natural, buildable coverage\n\u2022 Luxurious silver and black packaging for elegant aesthetics\n\u2022 Matching pink lipstick in sleek silver tube with professional finish\n\u2022 Long-lasting, pigment-rich color coordination\n\u2022 Professional-grade makeup essentials perfect for daily wear\n\u2022 Classic black compact design with protective closure\n\u2022 Travel-friendly size for your purse or makeup bag\n\u2022 Perfect pink shades suitable for all skin tones\n\u2022 High-quality mirror for precise application anywhere", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682ec6a8e19b2d9ba7e01f0a/gDeAGTCq-b27ssCpBuKjT_703x759.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "\nThis vibrant banner showcases a luxurious makeup promotion centered around a pink aesthetic. The top features a bold headline (`heading`) in vivid pink, establishing the energetic feel of the product. Below it, a clean white subheadline (`subheading`) emphasizes the product type, followed by a soft pink tagline (`tagline`) reinforcing elegance. The value propositions (`description`) are neatly bullet-pointed in white, ensuring clarity. The price (`price`) is displayed prominently in a large pink font near the bottom left. A call-to-action button (`cta_background` and `cta`) in deep magenta invites clicks. The product image (`product_image`) of pink blush and lipstick is placed on the right. The background (`background`) uses a rich diagonal gradient with starburst and dot patterns adding texture.\n\n**Color Palette:**\n- Deep Plum: `#2D2D42`\n- Violet Maroon: `#3D2D4A`, `#5D2D4A`\n- Soft Pink: `#FF9CC2`\n- Hot Pink: `#FF69B4`\n- Deep Magenta: `#FF1493`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image features a coordinated cosmetic set with a vibrant yet soft aesthetic. Dominant colors are a gentle bubblegum pink (#F4A6C0) featured in the blush and lipstick, which offers a playful and feminine tone. The sleek black case (#1A1A1A) adds modern contrast and elegance, while the silver lipstick tube (#C0C0C0) presents a reflective, metallic finish for a luxurious feel. The white mirror background (#F8F8F8) maintains brightness and focus on the product. These colors blend smoothly through contrasts\u2014pink draws attention, while black and silver balance the palette. Ideal banner palette: #F4A6C0, #1A1A1A, #C0C0C0, #F8F8F8.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalSplit' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2D2D42'/><stop offset='49%' stop-color='#3D2D4A'/><stop offset='51%' stop-color='#4A2D42'/><stop offset='100%' stop-color='#5D2D4A'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF69B4' stop-opacity='0.6'/><stop offset='100%' stop-color='#FF1493' stop-opacity='0.4'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalSplit)'/><g fill='#FF69B4' opacity='.15'><circle cx='100' cy='100' r='3'/><circle cx='180' cy='100' r='3'/><circle cx='260' cy='100' r='3'/><circle cx='100' cy='180' r='3'/><circle cx='180' cy='180' r='3'/><circle cx='260' cy='180' r='3'/><circle cx='820' cy='820' r='3'/><circle cx='900' cy='820' r='3'/><circle cx='980' cy='820' r='3'/><circle cx='820' cy='900' r='3'/><circle cx='900' cy='900' r='3'/><circle cx='980' cy='900' r='3'/></g><path d='M-100 200L300 -100L500 -50L100 300Z' fill='#FF1493' opacity='.1'/><path d='M1180 880L780 1180L580 1130L980 780Z' fill='#FF1493' opacity='.1'/><circle cx='150' cy='150' r='30' fill='#FF1493' opacity='.1'/><circle cx='930' cy='930' r='30' fill='#FF1493' opacity='.1'/><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2' opacity='.05'/><g fill='#FFFFFF' opacity='.1'><path d='M200 200 L210 230 L240 240 L210 250 L200 280 L190 250 L160 240 L190 230 Z'/><path d='M880 160 L890 190 L920 200 L890 210 L880 240 L870 210 L840 200 L870 190 Z'/><path d='M160 880 L170 910 L200 920 L170 930 L160 960 L150 930 L120 920 L150 910 Z'/><path d='M900 850 L910 880 L940 890 L910 900 L900 930 L890 900 L860 890 L890 880 Z'/></g><g fill='#FFFFFF' opacity='.1'><path d='M400 300 L407 318 L427 325 L407 332 L400 350 L393 332 L373 325 L393 318 Z'/><path d='M700 600 L707 618 L727 625 L707 632 L700 650 L693 632 L673 625 L693 618 Z'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 55,
+                "width": 560.91,
+                "height": 90.4,
+                "fill": "#FF69B4",
+                "text": "PRETTY IN PINK",
+                "fontFamily": "Luckiest Guy-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 55,
+                "width": 517.9,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "LUXURY MAKEUP SET",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 55,
+                "width": 452.45,
+                "height": 45.2,
+                "fill": "#FF9CC2",
+                "text": "Timeless Beauty Essentials",
+                "fontFamily": "Neuton Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 55,
+                "width": 507.71,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium pink blush with built-in mirror\n\u2022 Luxurious silver and black packaging\n\u2022 Long-lasting, pigment-rich color\n\u2022 Perfect for all skin tones",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 55,
+                "width": 273.97,
+                "height": 101.7,
+                "fill": "#FF69B4",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 55,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF1493",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 946,
+                "left": 88,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 240,
+                "left": 550,
+                "width": 492.09999999999997,
+                "height": 531.3,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682ec6a8e19b2d9ba7e01f0a/gDeAGTCq-b27ssCpBuKjT_703x759.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pretty in Pink Luxury Makeup Set - Timeless Beauty Essentials",
+            "description": "\u2022 Premium pink blush compact with built-in mirror for perfect application on-the-go\n\u2022 Silky-smooth powder formula for natural, buildable coverage\n\u2022 Luxurious silver and black packaging for elegant aesthetics\n\u2022 Matching pink lipstick in sleek silver tube with professional finish\n\u2022 Long-lasting, pigment-rich color coordination\n\u2022 Professional-grade makeup essentials perfect for daily wear\n\u2022 Classic black compact design with protective closure\n\u2022 Travel-friendly size for your purse or makeup bag\n\u2022 Perfect pink shades suitable for all skin tones\n\u2022 High-quality mirror for precise application anywhere",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682ec6a8e19b2d9ba7e01f0a/gDeAGTCq-b27ssCpBuKjT_703x759.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis vibrant banner showcases a luxurious makeup promotion centered around a pink aesthetic. The top features a bold headline (`heading`) in vivid pink, establishing the energetic feel of the product. Below it, a clean white subheadline (`subheading`) emphasizes the product type, followed by a soft pink tagline (`tagline`) reinforcing elegance. The value propositions (`description`) are neatly bullet-pointed in white, ensuring clarity. The price (`price`) is displayed prominently in a large pink font near the bottom left. A call-to-action button (`cta_background` and `cta`) in deep magenta invites clicks. The product image (`product_image`) of pink blush and lipstick is placed on the right. The background (`background`) uses a rich diagonal gradient with starburst and dot patterns adding texture.\n\n**Color Palette:**\n- Deep Plum: `#2D2D42`\n- Violet Maroon: `#3D2D4A`, `#5D2D4A`\n- Soft Pink: `#FF9CC2`\n- Hot Pink: `#FF69B4`\n- Deep Magenta: `#FF1493`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image features a coordinated cosmetic set with a vibrant yet soft aesthetic. Dominant colors are a gentle bubblegum pink (#F4A6C0) featured in the blush and lipstick, which offers a playful and feminine tone. The sleek black case (#1A1A1A) adds modern contrast and elegance, while the silver lipstick tube (#C0C0C0) presents a reflective, metallic finish for a luxurious feel. The white mirror background (#F8F8F8) maintains brightness and focus on the product. These colors blend smoothly through contrasts\u2014pink draws attention, while black and silver balance the palette. Ideal banner palette: #F4A6C0, #1A1A1A, #C0C0C0, #F8F8F8.  \n"
+}

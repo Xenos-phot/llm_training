@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFF0F5'/><stop offset='100%' stop-color='#FFE4E1'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F8C3CD'/><stop offset='100%' stop-color='#F4A7B9'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='540' y='0' width='540' height='1080' fill='url(#accent)' opacity='0.1'/><circle cx='100' cy='100' r='80' fill='#FDB6C0' opacity='0.1'/><circle cx='980' cy='980' r='100' fill='#FDB6C0' opacity='0.1'/><path d='M0,250 C150,200 250,350 400,300 S600,200 800,250 S950,350 1080,300' stroke='#F8A1B1' stroke-width='2' fill='none' opacity='0.2'/><path d='M0,650 C150,600 250,750 400,700 S600,600 800,650 S950,750 1080,700' stroke='#F8A1B1' stroke-width='2' fill='none' opacity='0.2'/><g opacity='0.3'><circle cx='100' cy='500' r='5' fill='#E8879B'/><circle cx='150' cy='520' r='3' fill='#E8879B'/><circle cx='200' cy='480' r='4' fill='#E8879B'/><circle cx='250' cy='530' r='3' fill='#E8879B'/><circle cx='300' cy='490' r='5' fill='#E8879B'/><circle cx='350' cy='510' r='4' fill='#E8879B'/><circle cx='400' cy='480' r='3' fill='#E8879B'/><circle cx='450' cy='520' r='5' fill='#E8879B'/></g><g opacity='0.3'><circle cx='700' cy='200' r='5' fill='#E8879B'/><circle cx='750' cy='220' r='3' fill='#E8879B'/><circle cx='800' cy='180' r='4' fill='#E8879B'/><circle cx='850' cy='230' r='3' fill='#E8879B'/><circle cx='900' cy='190' r='5' fill='#E8879B'/><circle cx='950' cy='210' r='4' fill='#E8879B'/><circle cx='1000' cy='180' r='3' fill='#E8879B'/><circle cx='1050' cy='220' r='5' fill='#E8879B'/></g><g opacity='0.3'><circle cx='700' cy='800' r='5' fill='#E8879B'/><circle cx='750' cy='820' r='3' fill='#E8879B'/><circle cx='800' cy='780' r='4' fill='#E8879B'/><circle cx='850' cy='830' r='3' fill='#E8879B'/><circle cx='900' cy='790' r='5' fill='#E8879B'/><circle cx='950' cy='810' r='4' fill='#E8879B'/><circle cx='1000' cy='780' r='3' fill='#E8879B'/><circle cx='1050' cy='820' r='5' fill='#E8879B'/></g></svg>", "id": "background"}, {"type": "text", "top": 180, "left": 50, "width": 315.5, "height": 189.84, "fill": "#C23B5A", "text": "ROSE GOLD\nPINK DROP\nSTUDS", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 130, "left": 50, "width": 136.94, "height": 36.16, "fill": "#212121", "text": "GIVA 925", "fontSize": 32, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 450, "left": 50, "width": 418.88, "height": 113.9, "fill": "#212121", "text": "\u2022 925 Sterling Silver with Rose Gold Plating\n\u2022 Elegant Wreath Design with Pink Drops\n\u2022 Certificate of Authenticity Included", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 623, "left": 55, "width": 215.05, "height": 81.36, "fill": "#C23B5A", "text": "\u20b9 1619", "fontSize": 72, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 770, "left": 50, "width": 200, "height": 60, "fill": "#C23B5A", "rx": 5, "ry": 5, "id": "cta_button_background"}, {"type": "text", "top": 788, "left": 85, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 700, "left": 50, "width": 217.49, "height": 20.34, "fill": "#212121", "text": "\u2605\u2605\u2605\u2605\u00bd (4.5/5 \u2022 65 ratings)", "fontSize": 18, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "rating"}, {"type": "image", "top": 424.12, "left": 582.55, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/73t_h2c2VZcbWfoS7UlFa_895x415.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 65 ratings.", "price": "\u20b91619"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/73t_h2c2VZcbWfoS7UlFa_895x415.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "\nThis banner showcases a minimal, feminine jewelry ad layout with a balanced left-right composition. The left side features textual elements: the brand name (`tagline`), a bold stacked headline (`heading`), followed by a list of product features (`description`). Below are pricing details prominently displayed (`price`), a review summary (`rating`), and a stylish call-to-action button (`cta_button_background` and `cta`). On the right side, there's a high-quality product image (`product_image`) of rose gold earrings. The background (`background`) uses soft wave patterns, circles, and gradient tones to elevate visual appeal without distraction.\n\n**Color Palette:**\n- Rose Pink (#C23B5A)\n- Soft Peach (#FFF0F5)\n- Light Blush (#FFE4E1)\n- Accent Pink (#F8C3CD)\n- Deep Pink (#F4A7B9)\n- Charcoal Black (#212121)\n- Pure White (#FFFFFF)\n\n", "product_color": "  \nThe product image showcases a delicate pair of earrings predominantly using a soft rose gold (#FADADD) metal base, which provides a luxurious and feminine feel. Accents of blush pink (#F9C6C0) highlight the petal-shaped enamel segments, adding elegance and warmth. The sparkling stones\u2014reminiscent of clear crystal and diamond\u2014use shades of icy white (#FFFFFF) and subtle light grey (#DCE0E3) to enhance brilliance and depth. The colors are skillfully blended with rose gold structures enveloping the stones, creating a cohesive and elegant form. For advertisement design, pair blush pink, rose gold, icy white, and soft grey to maintain luxury and charm.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFF0F5'/><stop offset='100%' stop-color='#FFE4E1'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F8C3CD'/><stop offset='100%' stop-color='#F4A7B9'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='540' y='0' width='540' height='1080' fill='url(#accent)' opacity='0.1'/><circle cx='100' cy='100' r='80' fill='#FDB6C0' opacity='0.1'/><circle cx='980' cy='980' r='100' fill='#FDB6C0' opacity='0.1'/><path d='M0,250 C150,200 250,350 400,300 S600,200 800,250 S950,350 1080,300' stroke='#F8A1B1' stroke-width='2' fill='none' opacity='0.2'/><path d='M0,650 C150,600 250,750 400,700 S600,600 800,650 S950,750 1080,700' stroke='#F8A1B1' stroke-width='2' fill='none' opacity='0.2'/><g opacity='0.3'><circle cx='100' cy='500' r='5' fill='#E8879B'/><circle cx='150' cy='520' r='3' fill='#E8879B'/><circle cx='200' cy='480' r='4' fill='#E8879B'/><circle cx='250' cy='530' r='3' fill='#E8879B'/><circle cx='300' cy='490' r='5' fill='#E8879B'/><circle cx='350' cy='510' r='4' fill='#E8879B'/><circle cx='400' cy='480' r='3' fill='#E8879B'/><circle cx='450' cy='520' r='5' fill='#E8879B'/></g><g opacity='0.3'><circle cx='700' cy='200' r='5' fill='#E8879B'/><circle cx='750' cy='220' r='3' fill='#E8879B'/><circle cx='800' cy='180' r='4' fill='#E8879B'/><circle cx='850' cy='230' r='3' fill='#E8879B'/><circle cx='900' cy='190' r='5' fill='#E8879B'/><circle cx='950' cy='210' r='4' fill='#E8879B'/><circle cx='1000' cy='180' r='3' fill='#E8879B'/><circle cx='1050' cy='220' r='5' fill='#E8879B'/></g><g opacity='0.3'><circle cx='700' cy='800' r='5' fill='#E8879B'/><circle cx='750' cy='820' r='3' fill='#E8879B'/><circle cx='800' cy='780' r='4' fill='#E8879B'/><circle cx='850' cy='830' r='3' fill='#E8879B'/><circle cx='900' cy='790' r='5' fill='#E8879B'/><circle cx='950' cy='810' r='4' fill='#E8879B'/><circle cx='1000' cy='780' r='3' fill='#E8879B'/><circle cx='1050' cy='820' r='5' fill='#E8879B'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 315.5,
+                "height": 189.84,
+                "fill": "#C23B5A",
+                "text": "ROSE GOLD\nPINK DROP\nSTUDS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 130,
+                "left": 50,
+                "width": 136.94,
+                "height": 36.16,
+                "fill": "#212121",
+                "text": "GIVA 925",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 50,
+                "width": 418.88,
+                "height": 113.9,
+                "fill": "#212121",
+                "text": "\u2022 925 Sterling Silver with Rose Gold Plating\n\u2022 Elegant Wreath Design with Pink Drops\n\u2022 Certificate of Authenticity Included",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 623,
+                "left": 55,
+                "width": 215.05,
+                "height": 81.36,
+                "fill": "#C23B5A",
+                "text": "\u20b9 1619",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 770,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#C23B5A",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 788,
+                "left": 85,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 50,
+                "width": 217.49,
+                "height": 20.34,
+                "fill": "#212121",
+                "text": "\u2605\u2605\u2605\u2605\u00bd (4.5/5 \u2022 65 ratings)",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "rating"
+            },
+            {
+                "type": "image",
+                "top": 424.12,
+                "left": 582.55,
+                "width": 447.5,
+                "height": 207.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/73t_h2c2VZcbWfoS7UlFa_895x415.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 65 ratings.",
+            "price": "\u20b91619"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/73t_h2c2VZcbWfoS7UlFa_895x415.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner showcases a minimal, feminine jewelry ad layout with a balanced left-right composition. The left side features textual elements: the brand name (`tagline`), a bold stacked headline (`heading`), followed by a list of product features (`description`). Below are pricing details prominently displayed (`price`), a review summary (`rating`), and a stylish call-to-action button (`cta_button_background` and `cta`). On the right side, there's a high-quality product image (`product_image`) of rose gold earrings. The background (`background`) uses soft wave patterns, circles, and gradient tones to elevate visual appeal without distraction.\n\n**Color Palette:**\n- Rose Pink (#C23B5A)\n- Soft Peach (#FFF0F5)\n- Light Blush (#FFE4E1)\n- Accent Pink (#F8C3CD)\n- Deep Pink (#F4A7B9)\n- Charcoal Black (#212121)\n- Pure White (#FFFFFF)\n\n",
+    "product_color": "  \nThe product image showcases a delicate pair of earrings predominantly using a soft rose gold (#FADADD) metal base, which provides a luxurious and feminine feel. Accents of blush pink (#F9C6C0) highlight the petal-shaped enamel segments, adding elegance and warmth. The sparkling stones\u2014reminiscent of clear crystal and diamond\u2014use shades of icy white (#FFFFFF) and subtle light grey (#DCE0E3) to enhance brilliance and depth. The colors are skillfully blended with rose gold structures enveloping the stones, creating a cohesive and elegant form. For advertisement design, pair blush pink, rose gold, icy white, and soft grey to maintain luxury and charm.  \n"
+}

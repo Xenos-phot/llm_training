@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A2742;stop-opacity:1'/><stop offset='100%' style='stop-color:#2C3E50;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#D4AF37;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#D4AF37;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='15' stroke='#D4AF37' stroke-width='2' fill='none'/><rect x='60' y='60' width='960' height='960' rx='10' stroke='rgba(212,175,55,0.4)' stroke-width='1' fill='none'/><path d='M0,300 C250,270 400,370 550,400 C750,440 900,390 1080,450 L1080,0 L0,0 Z' fill='url(#grad2)' opacity='0.5'/><path d='M0,780 C150,820 350,750 550,800 C750,850 900,780 1080,850 L1080,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.5'/><rect x='90' y='90' width='900' height='900' rx='5' fill='rgba(26,39,66,0.7)' stroke='#D4AF37' stroke-width='1' stroke-dasharray='3,3'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><path d='M200 120 L280 120' stroke='#D4AF37' stroke-width='2'/><path d='M800 120 L880 120' stroke='#D4AF37' stroke-width='2'/><path d='M200 960 L280 960' stroke='#D4AF37' stroke-width='2'/><path d='M800 960 L880 960' stroke='#D4AF37' stroke-width='2'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 90, "width": 903.36, "height": 90.4, "fill": "#FFFFFF", "text": "CLASSIC WAYFARER", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 90, "width": 594.4, "height": 50.85, "fill": "#D4AF37", "text": "RAY-BAN PREMIUM EYEWEAR", "fontSize": 45, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 290, "left": 90, "width": 200, "height": 2, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 320, "left": 90, "width": 342.42, "height": 174.02, "fill": "#FFFFFF", "text": "\u2022 Premium polarized lenses\n\u2022 100% UV protection\n\u2022 Durable acetate frame\n\u2022 Iconic rectangular shape", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 90, "width": 575.24, "height": 67.8, "fill": "#FFFFFF", "text": "TIMELESS STYLE", "fontSize": 60, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "tagline"}, {"type": "rect", "top": 870, "left": 90, "width": 220, "height": 60, "fill": "#D4AF37", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 881, "left": 127, "width": 145.54, "height": 31.64, "fill": "#1A2742", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 490, "left": 356, "width": 1110, "height": 431, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/e-ziDM2HWHm5mfwv-pPmk_1110x431.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Ray-Ban New Wayfarer - Timeless Style, Premium Protection", "description": "\u2022 Authentic Ray-Ban New Wayfarer design in sleek black\n\u2022 Premium polarized lenses for superior glare reduction\n\u2022 Durable, high-quality acetate frame construction\n\u2022 Classic silver Ray-Ban signature branding\n\u2022 100% UV protection for optimal eye safety\n\u2022 Comfortable, lightweight wear for all-day use\n\u2022 Universal fit with iconic rectangular shape\n\u2022 Includes genuine Ray-Ban case and cleaning cloth\n\u2022 Stylish design suitable for all face shapes\n\u2022 Perfect blend of fashion and functionality", "price": "\u20b90"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/e-ziDM2HWHm5mfwv-pPmk_1110x431.png", "marketplace_url": "", "layout": "frame_layout"}, "banner_details": "\nThis banner design showcases a sleek dark theme with a radial-circular composition built on a deep navy-blue gradient background. It features elegant layered golden borders that frame the content, providing a premium and high-end visual appeal. At the top left, the bold heading (`heading`) grabs attention in bright white, followed by a secondary subheading (`subheading`) in a rich golden hue. A short golden line (`decorative`) acts as a divider above the compact product description text (`description`). The central focus is the large product image (`product_image`), diagonally aligned for visual interest. Near the bottom, an assertive marketing tagline (`tagline`) sits above a yellow call-to-action button (`cta_background`) with contrasting button text (`cta`). \n\n**Color Palette:**\n- Deep Navy Blue: #1A2742\n- Midnight Blue: #2C3E50\n- Gold: #D4AF37\n- White: #FFFFFF\n- Button Text Blue: #1A2742\n", "product_color": "  \nThe product image showcases a pair of sleek, polarized Ray-Ban sunglasses with a modern and bold aesthetic. Dominated by deep, glossy black tones (#000000) in the frame and temples, the design reflects sophistication. The dark grey polarized lenses (#2F2F2F) offer contrast with a matte, smooth texture. Subtle white accents (#FFFFFF) in the Ray-Ban logo and metallic hinge details create a crisp visual highlight, balancing the overall darkness. These colors are cleanly segmented, yet the reflective surface of the frame blends the blacks and greys naturally. This trio forms a stylish, minimalist palette suited for a premium, high-impact advertisement banner.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A2742;stop-opacity:1'/><stop offset='100%' style='stop-color:#2C3E50;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#D4AF37;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#D4AF37;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='15' stroke='#D4AF37' stroke-width='2' fill='none'/><rect x='60' y='60' width='960' height='960' rx='10' stroke='rgba(212,175,55,0.4)' stroke-width='1' fill='none'/><path d='M0,300 C250,270 400,370 550,400 C750,440 900,390 1080,450 L1080,0 L0,0 Z' fill='url(#grad2)' opacity='0.5'/><path d='M0,780 C150,820 350,750 550,800 C750,850 900,780 1080,850 L1080,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.5'/><rect x='90' y='90' width='900' height='900' rx='5' fill='rgba(26,39,66,0.7)' stroke='#D4AF37' stroke-width='1' stroke-dasharray='3,3'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><path d='M200 120 L280 120' stroke='#D4AF37' stroke-width='2'/><path d='M800 120 L880 120' stroke='#D4AF37' stroke-width='2'/><path d='M200 960 L280 960' stroke='#D4AF37' stroke-width='2'/><path d='M800 960 L880 960' stroke='#D4AF37' stroke-width='2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 90,
+                "width": 903.36,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "CLASSIC WAYFARER",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 90,
+                "width": 594.4,
+                "height": 50.85,
+                "fill": "#D4AF37",
+                "text": "RAY-BAN PREMIUM EYEWEAR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 290,
+                "left": 90,
+                "width": 200,
+                "height": 2,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 90,
+                "width": 342.42,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium polarized lenses\n\u2022 100% UV protection\n\u2022 Durable acetate frame\n\u2022 Iconic rectangular shape",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 90,
+                "width": 575.24,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "TIMELESS STYLE",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "rect",
+                "top": 870,
+                "left": 90,
+                "width": 220,
+                "height": 60,
+                "fill": "#D4AF37",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 881,
+                "left": 127,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#1A2742",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 490,
+                "left": 356,
+                "width": 610.5,
+                "height": 237.05,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/e-ziDM2HWHm5mfwv-pPmk_1110x431.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Ray-Ban New Wayfarer - Timeless Style, Premium Protection",
+            "description": "\u2022 Authentic Ray-Ban New Wayfarer design in sleek black\n\u2022 Premium polarized lenses for superior glare reduction\n\u2022 Durable, high-quality acetate frame construction\n\u2022 Classic silver Ray-Ban signature branding\n\u2022 100% UV protection for optimal eye safety\n\u2022 Comfortable, lightweight wear for all-day use\n\u2022 Universal fit with iconic rectangular shape\n\u2022 Includes genuine Ray-Ban case and cleaning cloth\n\u2022 Stylish design suitable for all face shapes\n\u2022 Perfect blend of fashion and functionality",
+            "price": "\u20b90"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/e-ziDM2HWHm5mfwv-pPmk_1110x431.png",
+        "marketplace_url": "",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner design showcases a sleek dark theme with a radial-circular composition built on a deep navy-blue gradient background. It features elegant layered golden borders that frame the content, providing a premium and high-end visual appeal. At the top left, the bold heading (`heading`) grabs attention in bright white, followed by a secondary subheading (`subheading`) in a rich golden hue. A short golden line (`decorative`) acts as a divider above the compact product description text (`description`). The central focus is the large product image (`product_image`), diagonally aligned for visual interest. Near the bottom, an assertive marketing tagline (`tagline`) sits above a yellow call-to-action button (`cta_background`) with contrasting button text (`cta`). \n\n**Color Palette:**\n- Deep Navy Blue: #1A2742\n- Midnight Blue: #2C3E50\n- Gold: #D4AF37\n- White: #FFFFFF\n- Button Text Blue: #1A2742\n",
+    "product_color": "  \nThe product image showcases a pair of sleek, polarized Ray-Ban sunglasses with a modern and bold aesthetic. Dominated by deep, glossy black tones (#000000) in the frame and temples, the design reflects sophistication. The dark grey polarized lenses (#2F2F2F) offer contrast with a matte, smooth texture. Subtle white accents (#FFFFFF) in the Ray-Ban logo and metallic hinge details create a crisp visual highlight, balancing the overall darkness. These colors are cleanly segmented, yet the reflective surface of the frame blends the blacks and greys naturally. This trio forms a stylish, minimalist palette suited for a premium, high-impact advertisement banner.  \n"
+}

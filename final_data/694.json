@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#E8E8E8'/><rect x='0' y='600' width='1080' height='480' fill='#404040'/><rect x='500' y='400' width='580' height='600' rx='20' fill='#686868'/><circle cx='200' cy='200' r='150' fill='#686868' opacity='0.2'/><circle cx='880' cy='150' r='100' fill='#404040' opacity='0.3'/><path d='M100 900 A200 200 0 0 1 500 900' stroke='#E8E8E8' stroke-width='4' opacity='0.2'/><rect x='500' y='400' width='580' height='200' rx='20' fill='#777777'/><path d='M500 600 L1080 600 L1080 1000 L500 1000 Z' fill='#5A5A5A'/></svg>", "id": "background"}, {"type": "text", "top": 65, "left": 50, "width": 795.74, "height": 124.3, "fill": "#333333", "text": "CROCK-POT", "fontSize": 110, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 185, "left": 50, "width": 629, "height": 90.4, "fill": "#666666", "text": "SMART COOKING", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 330, "left": 58, "width": 288.91, "height": 174.02, "fill": "#333333", "text": "\u2022 7-Quart Capacity\n\u2022 Programmable Timer\n\u2022 Travel-Proof Locking Lid\n\u2022 Dishwasher Safe Parts", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 840, "left": 58, "width": 386.52, "height": 113, "fill": "#FFFFFF", "text": "$49.96", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 970, "left": 58, "width": 220, "height": 65, "fill": "#D32F2F", "rx": 8, "ry": 8, "id": "cta_button"}, {"type": "text", "top": 987, "left": 97, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 478.32, "left": 440.2, "width": 1295, "height": 807, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Whether you&rsquo;re feeding friends and family at home, or taking your meal on the go or to an event, the Crockpot 7 QT Cook & Carry Programmable Slow Cooker makes sharing a home-cooked meal with loved ones easy and effortless. The Cook & Carry travel-proof locking lid provides a tight seal to prevent leaks and spills, for no mess on the go, and convenient handles make it easy to carry and take your favorite slow cooked meals anywhere. A digital countdown control allows you to easily program your slow cooker from 30 minutes up to 20 hours. When cooking is completed, temperature automatically shifts to warm mode to avoid overcooking. The digital display also lets you track your meal progress and monitor remaining cook time. With a 7-quart capacity, it cooks meals for 9+ people, perfect for feeding a crowd. When you&rsquo;re finished slow cooking, both the lid and the stoneware can be placed in the dishwasher for easy cleanup.", "price": "49.96"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png", "marketplace_url": "https://www.walmart.com/ip/Crock-Pot-7-Quart-Cook-and-Carry-Programmable-Slow-Cooker-Grey/2156701161", "layout": "z_pattern"}, "banner_details": "\nThis banner showcases a modern and clean product advertisement for a kitchen appliance. The layout is divided into a two-tone background with a light gray upper section and dark gray lower section, creating strong visual contrast. The banner features a bold, all-caps primary heading (`heading`) and a clean, sans-serif subheading (`subheading`) to communicate the product's category or slogan. A bulleted list (`description`) outlines product features in a lighter font style. Bottom left, a large, prominent price (`price`) in white grabs attention over a dark background. Below it, a vibrant red call-to-action button (`cta_button`) with white text (`cta`) encourages user interaction. A realistic product image (`product_image`) is centrally positioned and overlapped by a background panel to ground it visually. Abstract circular and curved shapes are subtly integrated into the background for a stylish and contemporary look.\n\n**Color Palette**:\n- Light Gray: `#E8E8E8`\n- Charcoal Dark Gray: `#404040`\n- Medium Gray: `#686868`\n- Soft Gray Highlight: `#777777`\n- Accent Red: `#D32F2F`\n- White: `#FFFFFF`\n- Text Dark Gray: `#333333`\n- Text Mid Gray: `#666666`\n", "product_color": "\nThe product image features a modern Crockpot with a sleek and minimalist design, predominantly in shades of gray. The main body is a matte charcoal gray (#666666), which creates a strong and neutral base. This is smoothly blended with a slightly lighter gray (#999999) used for the control panel housing, creating dimension while maintaining cohesion. The white LED display area (#F6F6F6) and logo add contrast and accentuate the functionality, making these elements stand out. Subtle shadows and highlights give a metallic feel without overpowering the aesthetic. Suitable banner colors include charcoal gray, light gray, soft white, and a muted silver (#CCCCCC).\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#E8E8E8'/><rect x='0' y='600' width='1080' height='480' fill='#404040'/><rect x='500' y='400' width='580' height='600' rx='20' fill='#686868'/><circle cx='200' cy='200' r='150' fill='#686868' opacity='0.2'/><circle cx='880' cy='150' r='100' fill='#404040' opacity='0.3'/><path d='M100 900 A200 200 0 0 1 500 900' stroke='#E8E8E8' stroke-width='4' opacity='0.2'/><rect x='500' y='400' width='580' height='200' rx='20' fill='#777777'/><path d='M500 600 L1080 600 L1080 1000 L500 1000 Z' fill='#5A5A5A'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 65,
+                "left": 50,
+                "width": 795.74,
+                "height": 124.3,
+                "fill": "#333333",
+                "text": "CROCK-POT",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 185,
+                "left": 50,
+                "width": 629,
+                "height": 90.4,
+                "fill": "#666666",
+                "text": "SMART COOKING",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 58,
+                "width": 288.91,
+                "height": 174.02,
+                "fill": "#333333",
+                "text": "\u2022 7-Quart Capacity\n\u2022 Programmable Timer\n\u2022 Travel-Proof Locking Lid\n\u2022 Dishwasher Safe Parts",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 58,
+                "width": 386.52,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$49.96",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 58,
+                "width": 220,
+                "height": 65,
+                "fill": "#D32F2F",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 987,
+                "left": 97,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 478.32,
+                "left": 440.2,
+                "width": 621.6,
+                "height": 387.36,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Whether you&rsquo;re feeding friends and family at home, or taking your meal on the go or to an event, the Crockpot 7 QT Cook & Carry Programmable Slow Cooker makes sharing a home-cooked meal with loved ones easy and effortless. The Cook & Carry travel-proof locking lid provides a tight seal to prevent leaks and spills, for no mess on the go, and convenient handles make it easy to carry and take your favorite slow cooked meals anywhere. A digital countdown control allows you to easily program your slow cooker from 30 minutes up to 20 hours. When cooking is completed, temperature automatically shifts to warm mode to avoid overcooking. The digital display also lets you track your meal progress and monitor remaining cook time. With a 7-quart capacity, it cooks meals for 9+ people, perfect for feeding a crowd. When you&rsquo;re finished slow cooking, both the lid and the stoneware can be placed in the dishwasher for easy cleanup.",
+            "price": "49.96"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e7620cda-5bc2-4007-a60e-1ebcd302fd3d_nobg_1295x807.png",
+        "marketplace_url": "https://www.walmart.com/ip/Crock-Pot-7-Quart-Cook-and-Carry-Programmable-Slow-Cooker-Grey/2156701161",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner showcases a modern and clean product advertisement for a kitchen appliance. The layout is divided into a two-tone background with a light gray upper section and dark gray lower section, creating strong visual contrast. The banner features a bold, all-caps primary heading (`heading`) and a clean, sans-serif subheading (`subheading`) to communicate the product's category or slogan. A bulleted list (`description`) outlines product features in a lighter font style. Bottom left, a large, prominent price (`price`) in white grabs attention over a dark background. Below it, a vibrant red call-to-action button (`cta_button`) with white text (`cta`) encourages user interaction. A realistic product image (`product_image`) is centrally positioned and overlapped by a background panel to ground it visually. Abstract circular and curved shapes are subtly integrated into the background for a stylish and contemporary look.\n\n**Color Palette**:\n- Light Gray: `#E8E8E8`\n- Charcoal Dark Gray: `#404040`\n- Medium Gray: `#686868`\n- Soft Gray Highlight: `#777777`\n- Accent Red: `#D32F2F`\n- White: `#FFFFFF`\n- Text Dark Gray: `#333333`\n- Text Mid Gray: `#666666`\n",
+    "product_color": "\nThe product image features a modern Crockpot with a sleek and minimalist design, predominantly in shades of gray. The main body is a matte charcoal gray (#666666), which creates a strong and neutral base. This is smoothly blended with a slightly lighter gray (#999999) used for the control panel housing, creating dimension while maintaining cohesion. The white LED display area (#F6F6F6) and logo add contrast and accentuate the functionality, making these elements stand out. Subtle shadows and highlights give a metallic feel without overpowering the aesthetic. Suitable banner colors include charcoal gray, light gray, soft white, and a muted silver (#CCCCCC).\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='580' width='1080' height='500' fill='#333333'/><rect x='0' y='0' width='1080' height='580' fill='#EFEFEF'/><rect x='630' y='160' width='450' height='700' rx='20' fill='#E0E0E0'/><circle cx='900' cy='200' r='120' fill='#2A9D8F' opacity='0.1'/><circle cx='200' cy='900' r='100' fill='#2A9D8F' opacity='0.2'/><path d='M0 580 L1080 580' stroke='#2A9D8F' stroke-width='4'/><path d='M30 620 L250 620' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><path d='M830 540 L1050 540' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><path d='M30 540 L250 540' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><path d='M830 620 L1050 620' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><rect x='600' y='130' width='10' height='820' fill='#2A9D8F' opacity='0.6' rx='5'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 40, "width": 849.53, "height": 101.7, "fill": "#333333", "text": "SINK ORGANIZER", "fontSize": 90, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 40, "width": 736.16, "height": 79.1, "fill": "#2A9D8F", "text": "PREMIUM STORAGE", "fontSize": 70, "fontFamily": "AHOY-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 320, "left": 40, "width": 331.36, "height": 174.02, "fill": "#333333", "text": "\u2022 Stainless Steel Construction\n\u2022 Rotatable Spout Design\n\u2022 Space Saving Dimensions\n\u2022 Practical Divider Layout", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 40, "width": 282.51, "height": 90.4, "fill": "#FFFFFF", "text": "$17.99", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 40, "width": 220.00000000000003, "height": 66.0, "fill": "#2A9D8F", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 948, "left": 85, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 319, "left": 676, "width": 1439, "height": 1295, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0819aacb-0f7c-454f-bb25-5e5d6cd73bbb_nobg_1439x1295.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Stainless Steel \u3010ROTATABLE SPOUT\u3011This kitchen sink caddy comes with a rotatable spout that swivels in three directions so that the water in the sponge can be directed to the sink. There won't be any water left on the countertop, you don't need to pull out the drip tray to clean it often, saving your cleaning time. \u3010SMALL VOLUME\u3011 Cisily sponge holder is suitable for kitchens with limited space. It measures only 9.25\"*3.97\"*6.37\", Holds a detergent bottle, a sponge ball and sink stopper. With an extra upgraded brush holder that can hold up to 4 small and large sized brushes, with the Cisily Sink caddy you can save countertop space perfectly. \u3010PREMIUM STURDY MATERIAL\u3011 Cisily kitchen sink organizer is made of premium stainless steel which can effectively prevent rust and deformation. And you can clean it easily by rinsing it under a running tap. Take the clutter out of your countertops. \u3010REASONABLE DIVIDER DESIGN\u3011 The sponge holder for kitchen sink ergonomic divider design allows it to have 3 separate storage spaces, Different items are placed in different areas. Make the most of every inch of space and make your kitchen look cleaner. \u3010SATISFACTION GUARANTEED\u3011The CISILY kitchen sink organizer is ready to use upon receipt, no installation required and is widely used on counters or bathrooms, making it a satisfying gift. If you have any questions during use, please consult our customer service staff. We want to provide you with a pleasant shopping experience. USPTO patent\uff1aUSD1045310S Color - Black ** Material - Black ** Product Dimensions - 9.25&#34;L x 3.93&#34;W x 6.3&#34;H ** Item Weight - 100 Grams ** Brand - Cisily **", "price": "17.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0819aacb-0f7c-454f-bb25-5e5d6cd73bbb_nobg_1439x1295.png", "marketplace_url": "https://www.amazon.com/dp/B0C3QZ7SNF", "layout": "grid_four"}, "banner_details": "\nThis promotional banner showcases a home utility product with a sleek, modern layout. It features a clean, two-tone background split horizontally\u2014light grey on the top and dark charcoal on the bottom. The large heading (\"heading\") is bold and black, followed by a stylized teal subheading (\"subheading\"). A compact product description (\"description\") highlights key features using bullet points in a minimalist font. A bold white price tag (\"price\") stands out on the dark background, accompanied by a teal call-to-action button (\"cta_button\") with white text (\"cta\"). The right side displays the product image (\"product_image\") on a subtle curved rectangle with soft shadows and circular graphics for depth.\n\n**Color Palette:**\n- Light Grey: #EFEFEF\n- Dark Charcoal: #333333\n- Teal Green: #2A9D8F\n- White: #FFFFFF\n- Muted Grey: #E0E0E0\n", "product_color": "  \nThe product image features a sleek, modern sink caddy in a black matte metal finish (#1C1C1C), contrasted by natural wood tones of the brush handles (#CBAF87) for a warm, earthy balance. Bright accent colors in the sponge\u2014vivid yellow (#FFE600) and emerald green (#007A3D)\u2014draw the viewer's attention, highlighting functionality and practicality. The soap dispenser adds a touch of elegance with golden accents (#D4AF37) and a light green liquid (#94C29E). The overall blend of muted neutrals and strategic pops of color provides a visually harmonious design, perfect for a clean and organized kitchen. Use white (#FFFFFF) for background contrast in an ad banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='580' width='1080' height='500' fill='#333333'/><rect x='0' y='0' width='1080' height='580' fill='#EFEFEF'/><rect x='630' y='160' width='450' height='700' rx='20' fill='#E0E0E0'/><circle cx='900' cy='200' r='120' fill='#2A9D8F' opacity='0.1'/><circle cx='200' cy='900' r='100' fill='#2A9D8F' opacity='0.2'/><path d='M0 580 L1080 580' stroke='#2A9D8F' stroke-width='4'/><path d='M30 620 L250 620' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><path d='M830 540 L1050 540' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><path d='M30 540 L250 540' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><path d='M830 620 L1050 620' stroke='#2A9D8F' stroke-width='2' opacity='0.6'/><rect x='600' y='130' width='10' height='820' fill='#2A9D8F' opacity='0.6' rx='5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 40,
+                "width": 849.53,
+                "height": 101.7,
+                "fill": "#333333",
+                "text": "SINK ORGANIZER",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 40,
+                "width": 736.16,
+                "height": 79.1,
+                "fill": "#2A9D8F",
+                "text": "PREMIUM STORAGE",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 40,
+                "width": 331.36,
+                "height": 174.02,
+                "fill": "#333333",
+                "text": "\u2022 Stainless Steel Construction\n\u2022 Rotatable Spout Design\n\u2022 Space Saving Dimensions\n\u2022 Practical Divider Layout",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 40,
+                "width": 282.51,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$17.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 40,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#2A9D8F",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 948,
+                "left": 85,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 319,
+                "left": 676,
+                "width": 474.87,
+                "height": 427.35,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0819aacb-0f7c-454f-bb25-5e5d6cd73bbb_nobg_1439x1295.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Stainless Steel \u3010ROTATABLE SPOUT\u3011This kitchen sink caddy comes with a rotatable spout that swivels in three directions so that the water in the sponge can be directed to the sink. There won't be any water left on the countertop, you don't need to pull out the drip tray to clean it often, saving your cleaning time. \u3010SMALL VOLUME\u3011 Cisily sponge holder is suitable for kitchens with limited space. It measures only 9.25\"*3.97\"*6.37\", Holds a detergent bottle, a sponge ball and sink stopper. With an extra upgraded brush holder that can hold up to 4 small and large sized brushes, with the Cisily Sink caddy you can save countertop space perfectly. \u3010PREMIUM STURDY MATERIAL\u3011 Cisily kitchen sink organizer is made of premium stainless steel which can effectively prevent rust and deformation. And you can clean it easily by rinsing it under a running tap. Take the clutter out of your countertops. \u3010REASONABLE DIVIDER DESIGN\u3011 The sponge holder for kitchen sink ergonomic divider design allows it to have 3 separate storage spaces, Different items are placed in different areas. Make the most of every inch of space and make your kitchen look cleaner. \u3010SATISFACTION GUARANTEED\u3011The CISILY kitchen sink organizer is ready to use upon receipt, no installation required and is widely used on counters or bathrooms, making it a satisfying gift. If you have any questions during use, please consult our customer service staff. We want to provide you with a pleasant shopping experience. USPTO patent\uff1aUSD1045310S Color - Black ** Material - Black ** Product Dimensions - 9.25&#34;L x 3.93&#34;W x 6.3&#34;H ** Item Weight - 100 Grams ** Brand - Cisily **",
+            "price": "17.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0819aacb-0f7c-454f-bb25-5e5d6cd73bbb_nobg_1439x1295.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0C3QZ7SNF",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis promotional banner showcases a home utility product with a sleek, modern layout. It features a clean, two-tone background split horizontally\u2014light grey on the top and dark charcoal on the bottom. The large heading (\"heading\") is bold and black, followed by a stylized teal subheading (\"subheading\"). A compact product description (\"description\") highlights key features using bullet points in a minimalist font. A bold white price tag (\"price\") stands out on the dark background, accompanied by a teal call-to-action button (\"cta_button\") with white text (\"cta\"). The right side displays the product image (\"product_image\") on a subtle curved rectangle with soft shadows and circular graphics for depth.\n\n**Color Palette:**\n- Light Grey: #EFEFEF\n- Dark Charcoal: #333333\n- Teal Green: #2A9D8F\n- White: #FFFFFF\n- Muted Grey: #E0E0E0\n",
+    "product_color": "  \nThe product image features a sleek, modern sink caddy in a black matte metal finish (#1C1C1C), contrasted by natural wood tones of the brush handles (#CBAF87) for a warm, earthy balance. Bright accent colors in the sponge\u2014vivid yellow (#FFE600) and emerald green (#007A3D)\u2014draw the viewer's attention, highlighting functionality and practicality. The soap dispenser adds a touch of elegance with golden accents (#D4AF37) and a light green liquid (#94C29E). The overall blend of muted neutrals and strategic pops of color provides a visually harmonious design, perfect for a clean and organized kitchen. Use white (#FFFFFF) for background contrast in an ad banner.\n"
+}

@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#3D2314'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#5D3C22'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#CEA673' opacity='0.2'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#CEA673'/><circle cx='800' cy='300' r='150' fill='#D4AF37' opacity='0.1'/><circle cx='250' cy='780' r='180' fill='#D4AF37' opacity='0.05'/><path d='M0 540 L1080 540' stroke='#D4AF37' stroke-width='1' opacity='0.2'/><g transform='rotate(45 540 540)'><rect x='0' y='520' width='1080' height='2' fill='#D4AF37' opacity='0.3'/></g><g fill='#D4AF37' opacity='0.15'><circle cx='100' cy='100' r='5'/><circle cx='150' cy='100' r='5'/><circle cx='200' cy='100' r='5'/><circle cx='100' cy='150' r='5'/><circle cx='150' cy='150' r='5'/><circle cx='200' cy='150' r='5'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 583.28, "height": 135.6, "fill": "#D4AF37", "text": "ELEGANCE", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 40, "width": 542.67, "height": 84.75, "fill": "#FFFFFF", "text": "ALDO LEGOIRII", "fontSize": 75, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 320, "left": 40, "width": 400, "height": 2, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "decorative_line"}, {"type": "text", "top": 350, "left": 40, "width": 456.05, "height": 198.88, "fill": "#F1E5D1", "text": "\u2022 Durable synthetic leather\n\u2022 Spacious design for everyday use\n\u2022 Gold hardware accents\n\u2022 Size: 10.9'' L x 4'' W x 12.4'' H", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 40, "width": 392.23, "height": 113, "fill": "#D4AF37", "text": "$65.00", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 40, "width": 200, "height": 60, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 815, "left": 75, "width": 145.54, "height": 31.64, "fill": "#3D2314", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 204.55, "left": 516.33, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1a6da62c-86cf-403e-9483-c0eff6b74162_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1a6da62c-86cf-403e-9483-c0eff6b74162_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "diagonal_split"}, "banner_details": "\nThis banner design features a clean, sophisticated layout with a luxury appeal. The background incorporates angular geometric shapes and subtle pattern overlays, creating depth and elegance. The heading (`heading`) is prominently positioned using a bold golden typeface to command attention. Below it, a refined subheading (`subheading`) introduces the brand in a classic serif font. A decorative line (`decorative_line`) separates the text visually from a feature list (`description`) that outlines the product benefits. The price (`price`) is bold and eye-catching in gold, enhancing visibility. A rectangular button (`cta_background`) with dark brown text (`cta`) invites action. A high-quality image of the handbag (`product_image`) occupies the right side for visual balance.\n\n**Color Palette:**\n- Deep Brown (#3D2314)\n- Warm Tan (#CEA673)\n- Metallic Gold (#D4AF37)\n- Soft Beige (#F1E5D1)\n- White (#FFFFFF)\n", "product_color": "  \nThe product image showcases a sophisticated handbag in a warm, muted camel brown (#A9746E), which forms the dominant color. Accents in polished gold (#D4AF37) are smartly used across metallic hardware, including the chains, clasps, and branding elements, adding a sense of luxury and elegance. These golden elements are strategically placed to catch light, drawing attention subtly without overshadowing the overall tone. The brown surface features a finely textured finish, enhancing depth while maintaining uniformity. For an advertisement banner, an elegant palette of camel brown (#A9746E), gold (#D4AF37), soft beige (#F5EBDD), and cream white (#FAF9F6) would offer harmony and refinement.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#3D2314'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#5D3C22'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#CEA673' opacity='0.2'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#CEA673'/><circle cx='800' cy='300' r='150' fill='#D4AF37' opacity='0.1'/><circle cx='250' cy='780' r='180' fill='#D4AF37' opacity='0.05'/><path d='M0 540 L1080 540' stroke='#D4AF37' stroke-width='1' opacity='0.2'/><g transform='rotate(45 540 540)'><rect x='0' y='520' width='1080' height='2' fill='#D4AF37' opacity='0.3'/></g><g fill='#D4AF37' opacity='0.15'><circle cx='100' cy='100' r='5'/><circle cx='150' cy='100' r='5'/><circle cx='200' cy='100' r='5'/><circle cx='100' cy='150' r='5'/><circle cx='150' cy='150' r='5'/><circle cx='200' cy='150' r='5'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 583.28,
+                "height": 135.6,
+                "fill": "#D4AF37",
+                "text": "ELEGANCE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 40,
+                "width": 542.67,
+                "height": 84.75,
+                "fill": "#FFFFFF",
+                "text": "ALDO LEGOIRII",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 320,
+                "left": 40,
+                "width": 400,
+                "height": 2,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative_line"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 40,
+                "width": 456.05,
+                "height": 198.88,
+                "fill": "#F1E5D1",
+                "text": "\u2022 Durable synthetic leather\n\u2022 Spacious design for everyday use\n\u2022 Gold hardware accents\n\u2022 Size: 10.9'' L x 4'' W x 12.4'' H",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 40,
+                "width": 392.23,
+                "height": 113,
+                "fill": "#D4AF37",
+                "text": "$65.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 815,
+                "left": 75,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#3D2314",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 204.55,
+                "left": 516.33,
+                "width": 534.16,
+                "height": 633.16,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1a6da62c-86cf-403e-9483-c0eff6b74162_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1a6da62c-86cf-403e-9483-c0eff6b74162_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner design features a clean, sophisticated layout with a luxury appeal. The background incorporates angular geometric shapes and subtle pattern overlays, creating depth and elegance. The heading (`heading`) is prominently positioned using a bold golden typeface to command attention. Below it, a refined subheading (`subheading`) introduces the brand in a classic serif font. A decorative line (`decorative_line`) separates the text visually from a feature list (`description`) that outlines the product benefits. The price (`price`) is bold and eye-catching in gold, enhancing visibility. A rectangular button (`cta_background`) with dark brown text (`cta`) invites action. A high-quality image of the handbag (`product_image`) occupies the right side for visual balance.\n\n**Color Palette:**\n- Deep Brown (#3D2314)\n- Warm Tan (#CEA673)\n- Metallic Gold (#D4AF37)\n- Soft Beige (#F1E5D1)\n- White (#FFFFFF)\n",
+    "product_color": "  \nThe product image showcases a sophisticated handbag in a warm, muted camel brown (#A9746E), which forms the dominant color. Accents in polished gold (#D4AF37) are smartly used across metallic hardware, including the chains, clasps, and branding elements, adding a sense of luxury and elegance. These golden elements are strategically placed to catch light, drawing attention subtly without overshadowing the overall tone. The brown surface features a finely textured finish, enhancing depth while maintaining uniformity. For an advertisement banner, an elegant palette of camel brown (#A9746E), gold (#D4AF37), soft beige (#F5EBDD), and cream white (#FAF9F6) would offer harmony and refinement.  \n"
+}

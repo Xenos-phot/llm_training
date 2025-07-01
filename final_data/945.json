@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0F7ED'/><rect x='0' y='650' width='1080' height='430' fill='#2D5D3B' opacity='0.9'/><rect x='500' y='350' width='580' height='300' fill='#E8F4E5' rx='20'/><circle cx='850' cy='180' r='150' fill='#D68C45' opacity='0.2'/><circle cx='180' cy='280' r='120' fill='#84A98C' opacity='0.3'/><circle cx='900' cy='880' r='100' fill='#CAD2C5' opacity='0.3'/><path d='M0 0 L400 0 L280 120 L0 120 Z' fill='#84A98C' opacity='0.7'/><path d='M1080 1080 L680 1080 L800 960 L1080 960 Z' fill='#D68C45' opacity='0.5'/><g opacity='0.1'><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#2D5D3B' stroke-width='2'/><line x1='0' y1='40' x2='1080' y2='40' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='80' x2='1080' y2='80' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='160' x2='1080' y2='160' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='280' x2='1080' y2='280' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='320' x2='1080' y2='320' stroke='#2D5D3B' stroke-width='1'/><line x1='40' y1='0' x2='40' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='80' y1='0' x2='80' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='120' y1='0' x2='120' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='160' y1='0' x2='160' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='200' y1='0' x2='200' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='240' y1='0' x2='240' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='280' y1='0' x2='280' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='320' y1='0' x2='320' y2='1080' stroke='#2D5D3B' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 65, "left": 55, "width": 683.02, "height": 96.05, "fill": "#2D5D3B", "text": "BLUE RIDGE HEMP", "fontSize": 85, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 165, "left": 55, "width": 950.85, "height": 79.1, "fill": "#D68C45", "text": "UNLOCK YOUR WELLNESS", "fontSize": 70, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 360, "left": 60, "width": 374.01, "height": 174.02, "fill": "#2D5D3B", "text": "\u2022 Premium CBD Collection\n\u2022 Multiple Formulations Available\n\u2022 200mg CBD Content\n\u2022 Lab-Tested for Quality", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 55, "width": 848.05, "height": 56.5, "fill": "#FFFFFF", "text": "EARLY BIRD SPECIAL: SAVE BIG!", "fontSize": 50, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 860, "left": 55, "width": 245.2, "height": 90.4, "fill": "#F0F7ED", "text": "\u20b9 899", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 970, "left": 55, "width": 200, "height": 60, "fill": "#D68C45", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 987, "left": 85, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 353.375, "left": 502.375, "width": 767, "height": 527, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TxQqoOmgO4yrIeWQn5gBF_767x527.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Blue Ridge Hemp Co. Premium CBD Collection - Natural Wellness Solutions", "description": "\u2022 CBD-infused products from trusted Blue Ridge Hemp Co.\n\u2022 Multiple formulations available in convenient packaging\n\u2022 200mg CBD content in 2oz jar for optimal potency\n\u2022 All-natural hemp-derived ingredients\n\u2022 Various product formats including topicals and oils\n\u2022 Lab-tested for quality and purity\n\u2022 Easy-to-use applicators for precise dosing\n\u2022 Professionally packaged with clear labeling\n\u2022 Made in USA from premium hemp extracts\n\u2022 Perfect for wellness and self-care routines", "price": "\u20b9899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TxQqoOmgO4yrIeWQn5gBF_767x527.png", "marketplace_url": "https://images.pexels.com/photos/1667071/pexels-photo-1667071.jpeg", "layout": "z_pattern"}, "banner_details": "\nThis modern promotional banner is designed to highlight a wellness product collection using a clean, grid-based layout. The top portion includes a bold, all-caps primary heading (\"heading\") in a rich forest green and a vibrant subheading (\"subheading\") in warm orange to draw attention. Below, a concise bullet-list feature section (\"description\") sits beside an image of three product bottles (\"product_image\"), placed inside a soft rectangle to separate them from the background. The bottom block uses a dark green segment to host a compelling white tagline (\"tagline\"), pricing emphasis (\"price\"), and a call-to-action button (\"cta_button\" and \"cta\"), designed in orange with curved edges for visibility and accessibility.\n\n**Color Palette:**\n- Forest Green: #2D5D3B  \n- Warm Orange: #D68C45  \n- Soft Cream: #F0F7ED  \n- Pale Leaf Green: #E8F4E5  \n- Shadow Green: #84A98C  \n- Stone Gray: #CAD2C5  \n- White: #FFFFFF\n", "product_color": "  \nThe product image features three CBD roll-on bottles in rich, earthy tones\u2014Rust Orange (#B24930), Teal Green (#3D6C67), and Mustard Yellow (#D9A441). Each bottle is paired with a deep black cap (#1C1D1F), enhancing contrast and drawing attention to the body color. The colors are presented with a matte finish, giving a grounded, natural feel\u2014ideal for wellness branding. The white logo and text create a sharp contrast against each colored background, ensuring brand visibility. These bold yet harmonious tones can be used in an ad banner to communicate vitality, wellness, and natural ingredients, balancing saturation through dark caps and clean white typography.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0F7ED'/><rect x='0' y='650' width='1080' height='430' fill='#2D5D3B' opacity='0.9'/><rect x='500' y='350' width='580' height='300' fill='#E8F4E5' rx='20'/><circle cx='850' cy='180' r='150' fill='#D68C45' opacity='0.2'/><circle cx='180' cy='280' r='120' fill='#84A98C' opacity='0.3'/><circle cx='900' cy='880' r='100' fill='#CAD2C5' opacity='0.3'/><path d='M0 0 L400 0 L280 120 L0 120 Z' fill='#84A98C' opacity='0.7'/><path d='M1080 1080 L680 1080 L800 960 L1080 960 Z' fill='#D68C45' opacity='0.5'/><g opacity='0.1'><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#2D5D3B' stroke-width='2'/><line x1='0' y1='40' x2='1080' y2='40' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='80' x2='1080' y2='80' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='160' x2='1080' y2='160' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='280' x2='1080' y2='280' stroke='#2D5D3B' stroke-width='1'/><line x1='0' y1='320' x2='1080' y2='320' stroke='#2D5D3B' stroke-width='1'/><line x1='40' y1='0' x2='40' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='80' y1='0' x2='80' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='120' y1='0' x2='120' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='160' y1='0' x2='160' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='200' y1='0' x2='200' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='240' y1='0' x2='240' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='280' y1='0' x2='280' y2='1080' stroke='#2D5D3B' stroke-width='1'/><line x1='320' y1='0' x2='320' y2='1080' stroke='#2D5D3B' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 65,
+                "left": 55,
+                "width": 683.02,
+                "height": 96.05,
+                "fill": "#2D5D3B",
+                "text": "BLUE RIDGE HEMP",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 165,
+                "left": 55,
+                "width": 950.85,
+                "height": 79.1,
+                "fill": "#D68C45",
+                "text": "UNLOCK YOUR WELLNESS",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 60,
+                "width": 374.01,
+                "height": 174.02,
+                "fill": "#2D5D3B",
+                "text": "\u2022 Premium CBD Collection\n\u2022 Multiple Formulations Available\n\u2022 200mg CBD Content\n\u2022 Lab-Tested for Quality",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 55,
+                "width": 848.05,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "EARLY BIRD SPECIAL: SAVE BIG!",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 860,
+                "left": 55,
+                "width": 245.2,
+                "height": 90.4,
+                "fill": "#F0F7ED",
+                "text": "\u20b9 899",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 55,
+                "width": 200,
+                "height": 60,
+                "fill": "#D68C45",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 987,
+                "left": 85,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 353.375,
+                "left": 502.375,
+                "width": 575.25,
+                "height": 395.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TxQqoOmgO4yrIeWQn5gBF_767x527.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Blue Ridge Hemp Co. Premium CBD Collection - Natural Wellness Solutions",
+            "description": "\u2022 CBD-infused products from trusted Blue Ridge Hemp Co.\n\u2022 Multiple formulations available in convenient packaging\n\u2022 200mg CBD content in 2oz jar for optimal potency\n\u2022 All-natural hemp-derived ingredients\n\u2022 Various product formats including topicals and oils\n\u2022 Lab-tested for quality and purity\n\u2022 Easy-to-use applicators for precise dosing\n\u2022 Professionally packaged with clear labeling\n\u2022 Made in USA from premium hemp extracts\n\u2022 Perfect for wellness and self-care routines",
+            "price": "\u20b9899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TxQqoOmgO4yrIeWQn5gBF_767x527.png",
+        "marketplace_url": "https://images.pexels.com/photos/1667071/pexels-photo-1667071.jpeg",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis modern promotional banner is designed to highlight a wellness product collection using a clean, grid-based layout. The top portion includes a bold, all-caps primary heading (\"heading\") in a rich forest green and a vibrant subheading (\"subheading\") in warm orange to draw attention. Below, a concise bullet-list feature section (\"description\") sits beside an image of three product bottles (\"product_image\"), placed inside a soft rectangle to separate them from the background. The bottom block uses a dark green segment to host a compelling white tagline (\"tagline\"), pricing emphasis (\"price\"), and a call-to-action button (\"cta_button\" and \"cta\"), designed in orange with curved edges for visibility and accessibility.\n\n**Color Palette:**\n- Forest Green: #2D5D3B  \n- Warm Orange: #D68C45  \n- Soft Cream: #F0F7ED  \n- Pale Leaf Green: #E8F4E5  \n- Shadow Green: #84A98C  \n- Stone Gray: #CAD2C5  \n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image features three CBD roll-on bottles in rich, earthy tones\u2014Rust Orange (#B24930), Teal Green (#3D6C67), and Mustard Yellow (#D9A441). Each bottle is paired with a deep black cap (#1C1D1F), enhancing contrast and drawing attention to the body color. The colors are presented with a matte finish, giving a grounded, natural feel\u2014ideal for wellness branding. The white logo and text create a sharp contrast against each colored background, ensuring brand visibility. These bold yet harmonious tones can be used in an ad banner to communicate vitality, wellness, and natural ingredients, balancing saturation through dark caps and clean white typography.  \n"
+}

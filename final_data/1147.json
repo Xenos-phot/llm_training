@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#0f0f0f'/><g opacity='0.7'><circle cx='540' cy='540' r='400' fill='#4cb94c' opacity='0.05'/><circle cx='540' cy='540' r='320' fill='#4cb94c' opacity='0.08'/><circle cx='540' cy='540' r='240' fill='#4cb94c' opacity='0.1'/></g><g><rect x='0' y='0' width='1080' height='200' fill='url(#grad1)' opacity='0.2'/><rect x='0' y='880' width='1080' height='200' fill='url(#grad2)' opacity='0.2'/></g><g opacity='0.3'><path d='M0,300 Q270,380 540,300 T1080,300' stroke='#4cb94c' fill='transparent' stroke-width='2'/><path d='M0,780 Q270,700 540,780 T1080,780' stroke='#4cb94c' fill='transparent' stroke-width='2'/></g><g><rect x='40' y='40' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='60' y='40' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='40' y='60' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='1030' y='1030' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='1010' y='1030' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='1030' y='1010' width='10' height='10' fill='#4cb94c' opacity='0.5'/></g><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#4cb94c;stop-opacity:0'/><stop offset='50%' style='stop-color:#4cb94c;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#4cb94c;stop-opacity:0'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#4cb94c;stop-opacity:0'/><stop offset='50%' style='stop-color:#4cb94c;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#4cb94c;stop-opacity:0'/></linearGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 270.24, "width": 539.52, "height": 90.4, "fill": "#ffffff", "text": "GALAXY WATCH 7", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 287.69, "width": 504.62, "height": 33.9, "fill": "#4cb94c", "text": "AI SMARTWATCH \u2022 HEALTH MONITOR", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 238.175, "left": 321.95000000000005, "width": 1246, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png", "id": "product_image"}, {"type": "text", "top": 750, "left": 266.445, "width": 547.11, "height": 62.15, "fill": "#ffffff", "text": "Energy Score \u2022 Heart Rate Tracking \u2022 Sleep Monitor\nFitness Tracker \u2022 Wellness Tips \u2022 Water Resistant", "fontSize": 22, "fontFamily": "Poppins-Light Italic", "textAlign": "center", "id": "description"}, {"type": "text", "top": 840, "left": 415.7, "width": 248.6, "height": 67.8, "fill": "#ffffff", "text": "$251.19", "fontSize": 60, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 930, "left": 440.0, "width": 200, "height": 60, "fill": "#4cb94c", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 944, "left": 467.13, "width": 145.74, "height": 31.64, "fill": "#0f0f0f", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "\u00b9Galaxy AI features track data and require compatible Samsung Galaxy phone, Samsung Health app and Samsung Account. \u00b2Available for outdoor running and cycling only. Must follow the same starting point and path as a workout selected from up to 14 days prior. \u00b3The heart rate software functions are not intended for medical use. \u2074Requires compatible smartphone. \u2075Must wear device for 7 nights during a 30 night period. \u2076The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical application operating on a compatible Samsung Galaxy Watch and phone. This feature is intended to detect signs of moderate to severe obstructive sleep apnea in the form of significant breathing disruptions in adult users 22 years and older, over a two-night monitoring period. It is intended for on-demand use. This feature is not intended for users who have previously been diagnosed with sleep apnea. Users should not use this feature to replace traditional methods of diagnosis and treatment by a qualified clinician. The data provided by this device is also not intended to assist clinicians in diagnosing sleep disorders. \u2077Tracks data and requires compatible Samsung Galaxy phone, and Samsung Account. \u2078Select interchangeable watch bands sold separately. \u2079Requires compatible smartphone. PUSH PAST YESTERDAY: Looking for a great way to bring out your personal best every day? Challenge yourself to excel on your next run or bike ride using tracking with Galaxy AI\u00b9 that lets you compare your current performance to your last one\u00b2 START YOUR DAY WITH YOUR ENERGY SCORE: Know how ready you are to take on the day using your personalized Energy Score with Galaxy AI\u00b9; It calculates today\u2019s physical readiness based on what you did yesterday KEEP A CLOSER EYE ON YOUR HEART HEALTH: Get the most out of your fitness workouts using improved Heart Rate Tracking\u00b3 with Galaxy AI\u00b9 that filters out your body\u2019s movements for a more accurate reading GET A BOOST TOWARD YOUR GOALS: Stay on track toward your goals using personalized suggestions from Wellness Tips\u2074; Your Watch collects the insights and then they\u2019re analyzed on your phone BETTER SLEEP. A HEALTHIER YOU: Learn better habits for more restful nights using sleep tracking\u2075 with Galaxy AI\u00b9 \u2014 it also helps detect moderate to severe sleep apnea\u2076; Get helpful insights collected by your Watch and analyzed by your phone ", "price": "251.19"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0D1YQ3MML", "layout": "centered_hero"}, "banner_details": "\nThe banner showcases a modern and bold aesthetic for a tech product advertisement. It features a centered smartwatch image with a layered circular gradient halo, enhancing focus. The primary text layer **(heading)** at the top uses a bold, uppercase font in white, capturing attention, while a subtitle **(tagline)** in bright green provides clarity about the product\u2019s innovative features. Supporting text **(description)** beneath the image lists multiple product capabilities in a subtle but readable style. The price **(price)** is prominently positioned in bold white, followed by a bright green call-to-action button **(cta_background)** with dark text **(cta)**. The background is dark with geometric accents and flowing lines, giving a tech-savvy, futuristic vibe.\n\n**Color Palette:**\n- Black: `#0f0f0f` (main background)\n- White: `#ffffff` (text and highlights)\n- Green: `#4cb94c` (accents, tagline, CTA background)\n- Dark Grey-Green: watch strap and subtle vector elements\n\n", "product_color": "  \nThe product image showcases a sporty smartwatch with a rugged yet sleek aesthetic. The dominant color is a matte army green (#4B5641), used on the strap, giving a grounded and outdoor-ready feel. Accents like the orange button stitch (#FFA500) and small blue thread (#4682B4) provide contrast and visual interest. The display uses neon yellow-green (#D8FF00) for vibrant emphasis, standing out boldly against the black screen background (#1C1C1C). Smooth chromatic transitions between metallic grey watch casing (#7D7F7D) and the darker tones enhance the modern tech appeal. These colors blend naturally while bright tones subtly highlight functionality and design precision for a compelling advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#0f0f0f'/><g opacity='0.7'><circle cx='540' cy='540' r='400' fill='#4cb94c' opacity='0.05'/><circle cx='540' cy='540' r='320' fill='#4cb94c' opacity='0.08'/><circle cx='540' cy='540' r='240' fill='#4cb94c' opacity='0.1'/></g><g><rect x='0' y='0' width='1080' height='200' fill='url(#grad1)' opacity='0.2'/><rect x='0' y='880' width='1080' height='200' fill='url(#grad2)' opacity='0.2'/></g><g opacity='0.3'><path d='M0,300 Q270,380 540,300 T1080,300' stroke='#4cb94c' fill='transparent' stroke-width='2'/><path d='M0,780 Q270,700 540,780 T1080,780' stroke='#4cb94c' fill='transparent' stroke-width='2'/></g><g><rect x='40' y='40' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='60' y='40' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='40' y='60' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='1030' y='1030' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='1010' y='1030' width='10' height='10' fill='#4cb94c' opacity='0.5'/><rect x='1030' y='1010' width='10' height='10' fill='#4cb94c' opacity='0.5'/></g><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#4cb94c;stop-opacity:0'/><stop offset='50%' style='stop-color:#4cb94c;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#4cb94c;stop-opacity:0'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#4cb94c;stop-opacity:0'/><stop offset='50%' style='stop-color:#4cb94c;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#4cb94c;stop-opacity:0'/></linearGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 270.24,
+                "width": 539.52,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "GALAXY WATCH 7",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 287.69,
+                "width": 504.62,
+                "height": 33.9,
+                "fill": "#4cb94c",
+                "text": "AI SMARTWATCH \u2022 HEALTH MONITOR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 238.175,
+                "left": 321.95000000000005,
+                "width": 436.09999999999997,
+                "height": 503.65,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 266.445,
+                "width": 547.11,
+                "height": 62.15,
+                "fill": "#ffffff",
+                "text": "Energy Score \u2022 Heart Rate Tracking \u2022 Sleep Monitor\nFitness Tracker \u2022 Wellness Tips \u2022 Water Resistant",
+                "fontFamily": "Poppins-Light Italic",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 415.7,
+                "width": 248.6,
+                "height": 67.8,
+                "fill": "#ffffff",
+                "text": "$251.19",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#4cb94c",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 944,
+                "left": 467.13,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#0f0f0f",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "\u00b9Galaxy AI features track data and require compatible Samsung Galaxy phone, Samsung Health app and Samsung Account. \u00b2Available for outdoor running and cycling only. Must follow the same starting point and path as a workout selected from up to 14 days prior. \u00b3The heart rate software functions are not intended for medical use. \u2074Requires compatible smartphone. \u2075Must wear device for 7 nights during a 30 night period. \u2076The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical application operating on a compatible Samsung Galaxy Watch and phone. This feature is intended to detect signs of moderate to severe obstructive sleep apnea in the form of significant breathing disruptions in adult users 22 years and older, over a two-night monitoring period. It is intended for on-demand use. This feature is not intended for users who have previously been diagnosed with sleep apnea. Users should not use this feature to replace traditional methods of diagnosis and treatment by a qualified clinician. The data provided by this device is also not intended to assist clinicians in diagnosing sleep disorders. \u2077Tracks data and requires compatible Samsung Galaxy phone, and Samsung Account. \u2078Select interchangeable watch bands sold separately. \u2079Requires compatible smartphone. PUSH PAST YESTERDAY: Looking for a great way to bring out your personal best every day? Challenge yourself to excel on your next run or bike ride using tracking with Galaxy AI\u00b9 that lets you compare your current performance to your last one\u00b2 START YOUR DAY WITH YOUR ENERGY SCORE: Know how ready you are to take on the day using your personalized Energy Score with Galaxy AI\u00b9; It calculates today\u2019s physical readiness based on what you did yesterday KEEP A CLOSER EYE ON YOUR HEART HEALTH: Get the most out of your fitness workouts using improved Heart Rate Tracking\u00b3 with Galaxy AI\u00b9 that filters out your body\u2019s movements for a more accurate reading GET A BOOST TOWARD YOUR GOALS: Stay on track toward your goals using personalized suggestions from Wellness Tips\u2074; Your Watch collects the insights and then they\u2019re analyzed on your phone BETTER SLEEP. A HEALTHIER YOU: Learn better habits for more restful nights using sleep tracking\u2075 with Galaxy AI\u00b9 \u2014 it also helps detect moderate to severe sleep apnea\u2076; Get helpful insights collected by your Watch and analyzed by your phone ",
+            "price": "251.19"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0D1YQ3MML",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner showcases a modern and bold aesthetic for a tech product advertisement. It features a centered smartwatch image with a layered circular gradient halo, enhancing focus. The primary text layer **(heading)** at the top uses a bold, uppercase font in white, capturing attention, while a subtitle **(tagline)** in bright green provides clarity about the product\u2019s innovative features. Supporting text **(description)** beneath the image lists multiple product capabilities in a subtle but readable style. The price **(price)** is prominently positioned in bold white, followed by a bright green call-to-action button **(cta_background)** with dark text **(cta)**. The background is dark with geometric accents and flowing lines, giving a tech-savvy, futuristic vibe.\n\n**Color Palette:**\n- Black: `#0f0f0f` (main background)\n- White: `#ffffff` (text and highlights)\n- Green: `#4cb94c` (accents, tagline, CTA background)\n- Dark Grey-Green: watch strap and subtle vector elements\n\n",
+    "product_color": "  \nThe product image showcases a sporty smartwatch with a rugged yet sleek aesthetic. The dominant color is a matte army green (#4B5641), used on the strap, giving a grounded and outdoor-ready feel. Accents like the orange button stitch (#FFA500) and small blue thread (#4682B4) provide contrast and visual interest. The display uses neon yellow-green (#D8FF00) for vibrant emphasis, standing out boldly against the black screen background (#1C1C1C). Smooth chromatic transitions between metallic grey watch casing (#7D7F7D) and the darker tones enhance the modern tech appeal. These colors blend naturally while bright tones subtly highlight functionality and design precision for a compelling advertisement banner.\n"
+}

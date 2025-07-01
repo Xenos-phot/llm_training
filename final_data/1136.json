@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#7D5A50'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#E5B299'/><path d='M1080 0 L1080 1080 L0 1080 L1080 0 Z' fill='#7D5A50'/><path d='M900 0 L1080 0 L0 1080 L0 900 Z' fill='#D5A390' opacity='0.5'/><circle cx='200' cy='200' r='30' fill='#FCDEC0' opacity='0.3'/><circle cx='300' cy='150' r='15' fill='#FCDEC0' opacity='0.3'/><circle cx='150' cy='300' r='20' fill='#FCDEC0' opacity='0.3'/><circle cx='900' cy='900' r='30' fill='#5E4B43' opacity='0.3'/><circle cx='850' cy='950' r='15' fill='#5E4B43' opacity='0.3'/><circle cx='950' cy='850' r='20' fill='#5E4B43' opacity='0.3'/><rect x='40' y='420' width='400' height='2' fill='#FCDEC0' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 65, "left": 40, "width": 588.32, "height": 158.2, "fill": "#FCDEC0", "text": "ALDO LEGOIRII", "fontSize": 140, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 205, "left": 40, "width": 550.8, "height": 113, "fill": "#FCDEC0", "text": "TOTE BAG", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 40, "width": 366.65, "height": 236.17, "fill": "#FCDEC0", "text": "Stylish Design\nDurable Faux Leather\nGold Hardware Accents\nPerfect Medium Size", "fontSize": 38, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "features"}, {"type": "text", "top": 570, "left": 40, "width": 416.09, "height": 128.82, "fill": "#FCDEC0", "text": "Elegant everyday tote with ample\nstorage space and signature gold\ndetailing for a luxurious look.", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 760, "left": 40, "width": 470.28, "height": 135.6, "fill": "#FCDEC0", "text": "$65.00", "fontSize": 120, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 925, "left": 40, "width": 200, "height": 60, "fill": "#E5B299", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 943, "left": 77, "width": 125.04, "height": 27.12, "fill": "#7D5A50", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta_text"}, {"type": "image", "top": 302.48, "left": 548.39, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a modern and elegant product showcase layout tailored for fashion or retail advertising. Occupying the right half is a high-resolution image of a stylish tote bag (`product_image`), contrasted against an asymmetrical, diagonally-split background. The background utilizes layered SVG polygons and translucent decorative circles to create depth. The left side contains the text layout: a prominent brand name (`heading`) and product type (`subheading`) sit at the top, followed by a bullet-point list of product highlights (`features`). A brief description of the product (`description`) and the price tag (`price`) appear below. At the bottom-left corner is a call-to-action button (`cta_button` and `cta_text`) in a soft rectangular form.\n\n**Color Palette:**\n- Warm Brown: `#7D5A50`\n- Peach Beige: `#E5B299`\n- Light Apricot: `#FCDEC0`\n- Light Terracotta: `#D5A390`\n- Dark Cocoa: `#5E4B43`\n", "product_color": "\nThe product image features a sophisticated and elegant handbag in a warm camel brown color (#A97463). The bag's body utilizes this muted tone uniformly, giving it a luxurious, cohesive look. Accents of polished gold (#D4AF37) are used in the metallic hardware, including buckles, chains, charms, and brand logo, adding a sense of refinement and glamour. The textures subtly reflect light, enhancing depth without overpowering. A soft beige (#F5F5DC) background for an advertisement banner would balance the visual tone while highlighting the product. A rich, deep brown (#5B3A29) can be used for typographic contrast, reinforcing elegance and readability.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#7D5A50'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#E5B299'/><path d='M1080 0 L1080 1080 L0 1080 L1080 0 Z' fill='#7D5A50'/><path d='M900 0 L1080 0 L0 1080 L0 900 Z' fill='#D5A390' opacity='0.5'/><circle cx='200' cy='200' r='30' fill='#FCDEC0' opacity='0.3'/><circle cx='300' cy='150' r='15' fill='#FCDEC0' opacity='0.3'/><circle cx='150' cy='300' r='20' fill='#FCDEC0' opacity='0.3'/><circle cx='900' cy='900' r='30' fill='#5E4B43' opacity='0.3'/><circle cx='850' cy='950' r='15' fill='#5E4B43' opacity='0.3'/><circle cx='950' cy='850' r='20' fill='#5E4B43' opacity='0.3'/><rect x='40' y='420' width='400' height='2' fill='#FCDEC0' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 65,
+                "left": 40,
+                "width": 588.32,
+                "height": 158.2,
+                "fill": "#FCDEC0",
+                "text": "ALDO LEGOIRII",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 40,
+                "width": 550.8,
+                "height": 113,
+                "fill": "#FCDEC0",
+                "text": "TOTE BAG",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 40,
+                "width": 366.65,
+                "height": 236.17,
+                "fill": "#FCDEC0",
+                "text": "Stylish Design\nDurable Faux Leather\nGold Hardware Accents\nPerfect Medium Size",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 570,
+                "left": 40,
+                "width": 416.09,
+                "height": 128.82,
+                "fill": "#FCDEC0",
+                "text": "Elegant everyday tote with ample\nstorage space and signature gold\ndetailing for a luxurious look.",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 40,
+                "width": 470.28,
+                "height": 135.6,
+                "fill": "#FCDEC0",
+                "text": "$65.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 925,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#E5B299",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 943,
+                "left": 77,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#7D5A50",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta_text"
+            },
+            {
+                "type": "image",
+                "top": 302.48,
+                "left": 548.39,
+                "width": 485.6,
+                "height": 575.6,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/65592cc4-1937-406a-9260-9904e6aa840c_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a modern and elegant product showcase layout tailored for fashion or retail advertising. Occupying the right half is a high-resolution image of a stylish tote bag (`product_image`), contrasted against an asymmetrical, diagonally-split background. The background utilizes layered SVG polygons and translucent decorative circles to create depth. The left side contains the text layout: a prominent brand name (`heading`) and product type (`subheading`) sit at the top, followed by a bullet-point list of product highlights (`features`). A brief description of the product (`description`) and the price tag (`price`) appear below. At the bottom-left corner is a call-to-action button (`cta_button` and `cta_text`) in a soft rectangular form.\n\n**Color Palette:**\n- Warm Brown: `#7D5A50`\n- Peach Beige: `#E5B299`\n- Light Apricot: `#FCDEC0`\n- Light Terracotta: `#D5A390`\n- Dark Cocoa: `#5E4B43`\n",
+    "product_color": "\nThe product image features a sophisticated and elegant handbag in a warm camel brown color (#A97463). The bag's body utilizes this muted tone uniformly, giving it a luxurious, cohesive look. Accents of polished gold (#D4AF37) are used in the metallic hardware, including buckles, chains, charms, and brand logo, adding a sense of refinement and glamour. The textures subtly reflect light, enhancing depth without overpowering. A soft beige (#F5F5DC) background for an advertisement banner would balance the visual tone while highlighting the product. A rich, deep brown (#5B3A29) can be used for typographic contrast, reinforcing elegance and readability.\n"
+}

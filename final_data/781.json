@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F9E4E8'/><stop offset='50%' stop-color='#F9E4E8'/><stop offset='50.1%' stop-color='#E8B8C2'/><stop offset='100%' stop-color='#E8B8C2'/></linearGradient><linearGradient id='goldGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F9D3AB'/><stop offset='50%' stop-color='#E8B996'/><stop offset='100%' stop-color='#D5A078'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='url(#grad1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#CA8596' opacity='0.1'/><g fill='#D1919F' opacity='0.2'><circle cx='150' cy='150' r='5'/><circle cx='150' cy='200' r='5'/><circle cx='150' cy='250' r='5'/><circle cx='200' cy='150' r='5'/><circle cx='200' cy='200' r='5'/><circle cx='200' cy='250' r='5'/><circle cx='250' cy='150' r='5'/><circle cx='250' cy='200' r='5'/><circle cx='250' cy='250' r='5'/></g><g fill='#D1919F' opacity='0.15'><circle cx='830' cy='830' r='5'/><circle cx='830' cy='880' r='5'/><circle cx='830' cy='930' r='5'/><circle cx='880' cy='830' r='5'/><circle cx='880' cy='880' r='5'/><circle cx='880' cy='930' r='5'/><circle cx='930' cy='830' r='5'/><circle cx='930' cy='880' r='5'/><circle cx='930' cy='930' r='5'/></g><path d='M540 0 L1080 540 L1080 0 Z' fill='url(#goldGrad)' opacity='0.1'/><path d='M0 540 L540 1080 L0 1080 Z' fill='url(#goldGrad)' opacity='0.1'/><g fill='#D1919F' opacity='0.2'><path d='M200 200 L220 230 L250 240 L220 250 L200 280 L180 250 L150 240 L180 230 Z'/><path d='M880 800 L900 830 L930 840 L900 850 L880 880 L860 850 L830 840 L860 830 Z'/></g><path d='M0 540 L1080 540' stroke='#D1919F' stroke-width='1' opacity='0.2'/><path d='M540 0 L540 1080' stroke='#D1919F' stroke-width='1' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 50, "width": 1017.27, "height": 119.78, "fill": "#8B3A4A", "text": "HEART & CLOVER", "fontSize": 106, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 213, "left": 52, "width": 549.12, "height": 84.75, "fill": "#9E4257", "text": "NECKLACE SET", "fontSize": 75, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 310, "left": 52, "width": 380, "height": 2, "fill": "#9E4257", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 330, "left": 50, "width": 439.92, "height": 198.88, "fill": "#75333F", "text": "\u2022 Rose gold plated finish\n\u2022 Sparkling cubic zirconia crystals\n\u2022 Two-piece versatile design\n\u2022 Perfect for romantic occasions", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 760, "left": 50, "width": 462.81, "height": 135.6, "fill": "#8B3A4A", "text": "\u20b93,499", "fontSize": 120, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 910, "left": 50, "width": 220, "height": 65, "fill": "#9E4257", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 926, "left": 85, "width": 155.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 360, "left": 591, "width": 543, "height": 631, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/qRl6z12JyaMvgjlJf7hs8_543x631.png", "id": "product_image"}, {"type": "text", "top": 705, "left": 77, "width": 115.36, "height": 40.68, "fill": "#8B3A4A", "text": "Join together", "fontSize": 36, "fontFamily": "Italianno Regular", "textAlign": "center", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Enchanting Rose Gold Four-Heart Clover & Heart Chain Necklace Set", "description": "\u2022 Premium rose gold plated finish for elegant sophistication\n\u2022 Two-piece necklace set featuring a four-heart clover pendant and connected hearts design\n\u2022 Adorned with sparkling cubic zirconia crystals for maximum brilliance\n\u2022 Delicate link chain with secure clasp closure\n\u2022 Perfect layering pieces that can be worn together or separately\n\u2022 Ideal for romantic occasions, gifts, or everyday luxury\n\u2022 Intricate filigree heart details showcasing expert craftsmanship\n\u2022 Hypoallergenic materials suitable for sensitive skin\n\u2022 Comes in a beautiful gift-ready presentation box\n\u2022 Versatile design that complements both casual and formal attire", "price": "\u20b90"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/qRl6z12JyaMvgjlJf7hs8_543x631.png", "marketplace_url": "blob:https://staging-studio.phot.ai/38e33436-adbb-45e9-a6f9-b9dd1b04d5c3", "layout": "diagonal_split"}, "banner_details": "\nThis banner showcases an elegant promotional design for a jewelry product, primarily the \"Heart & Clover\" necklace set. The layout includes a large, bold heading (`heading`) and a complementary subheading (`subheading`), both top-aligned. Below them is a subtle horizontal divider (`decorative`) that separates the section from the descriptive text block (`description`), which enumerates four key product features using bullet points. The stylish, italicized tagline (`tagline`) adds a romantic touch above the prominently featured price (`price`). A clear and bold call-to-action button, made of a background rectangle (`cta_background`) with overlaid text (`cta`), anchors the bottom-left corner. On the right side, a detailed product image (`product_image`) balances the composition, embedded over a geometric, pastel-toned gradient background (`background`).\n\n**Color Palette**:\n- Rosewood: `#8B3A4A`\n- Mauve Berry: `#9E4257`\n- Light Blush: `#F9E4E8`\n- Dusty Pink: `#E8B8C2`\n- White: `#FFFFFF`\n- Accent Pink: `#D1919F`\n", "product_color": "  \nThe product image features a delicate rose gold necklace set with heart-shaped motifs that form a four-leaf clover when joined. The dominant color is a soft, elegant **rose gold (#B76E79)** that gives the design a luxurious and romantic feel. Accents of **crystal white (#F8F8F8)** and subtle **metallic silver (#C0C0C0)** detail the inner patterns, highlighting the fine craftsmanship. The rose gold merges seamlessly with the sparkling crystals, creating a balanced and sophisticated look. Ideal color palette for an advertisement banner includes rose gold, muted blush pink (#F4C2C2), crystal white, and a soft charcoal gray (#4A4A4A) for elegant contrast and readability.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F9E4E8'/><stop offset='50%' stop-color='#F9E4E8'/><stop offset='50.1%' stop-color='#E8B8C2'/><stop offset='100%' stop-color='#E8B8C2'/></linearGradient><linearGradient id='goldGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F9D3AB'/><stop offset='50%' stop-color='#E8B996'/><stop offset='100%' stop-color='#D5A078'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='url(#grad1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#CA8596' opacity='0.1'/><g fill='#D1919F' opacity='0.2'><circle cx='150' cy='150' r='5'/><circle cx='150' cy='200' r='5'/><circle cx='150' cy='250' r='5'/><circle cx='200' cy='150' r='5'/><circle cx='200' cy='200' r='5'/><circle cx='200' cy='250' r='5'/><circle cx='250' cy='150' r='5'/><circle cx='250' cy='200' r='5'/><circle cx='250' cy='250' r='5'/></g><g fill='#D1919F' opacity='0.15'><circle cx='830' cy='830' r='5'/><circle cx='830' cy='880' r='5'/><circle cx='830' cy='930' r='5'/><circle cx='880' cy='830' r='5'/><circle cx='880' cy='880' r='5'/><circle cx='880' cy='930' r='5'/><circle cx='930' cy='830' r='5'/><circle cx='930' cy='880' r='5'/><circle cx='930' cy='930' r='5'/></g><path d='M540 0 L1080 540 L1080 0 Z' fill='url(#goldGrad)' opacity='0.1'/><path d='M0 540 L540 1080 L0 1080 Z' fill='url(#goldGrad)' opacity='0.1'/><g fill='#D1919F' opacity='0.2'><path d='M200 200 L220 230 L250 240 L220 250 L200 280 L180 250 L150 240 L180 230 Z'/><path d='M880 800 L900 830 L930 840 L900 850 L880 880 L860 850 L830 840 L860 830 Z'/></g><path d='M0 540 L1080 540' stroke='#D1919F' stroke-width='1' opacity='0.2'/><path d='M540 0 L540 1080' stroke='#D1919F' stroke-width='1' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 50,
+                "width": 1017.27,
+                "height": 119.78,
+                "fill": "#8B3A4A",
+                "text": "HEART & CLOVER",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 213,
+                "left": 52,
+                "width": 549.12,
+                "height": 84.75,
+                "fill": "#9E4257",
+                "text": "NECKLACE SET",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 310,
+                "left": 52,
+                "width": 380,
+                "height": 2,
+                "fill": "#9E4257",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 50,
+                "width": 439.92,
+                "height": 198.88,
+                "fill": "#75333F",
+                "text": "\u2022 Rose gold plated finish\n\u2022 Sparkling cubic zirconia crystals\n\u2022 Two-piece versatile design\n\u2022 Perfect for romantic occasions",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 50,
+                "width": 462.81,
+                "height": 135.6,
+                "fill": "#8B3A4A",
+                "text": "\u20b93,499",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 910,
+                "left": 50,
+                "width": 220,
+                "height": 65,
+                "fill": "#9E4257",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 926,
+                "left": 85,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 360,
+                "left": 591,
+                "width": 488.7,
+                "height": 567.9,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/qRl6z12JyaMvgjlJf7hs8_543x631.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 705,
+                "left": 77,
+                "width": 115.36,
+                "height": 40.68,
+                "fill": "#8B3A4A",
+                "text": "Join together",
+                "fontFamily": "Italianno Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Enchanting Rose Gold Four-Heart Clover & Heart Chain Necklace Set",
+            "description": "\u2022 Premium rose gold plated finish for elegant sophistication\n\u2022 Two-piece necklace set featuring a four-heart clover pendant and connected hearts design\n\u2022 Adorned with sparkling cubic zirconia crystals for maximum brilliance\n\u2022 Delicate link chain with secure clasp closure\n\u2022 Perfect layering pieces that can be worn together or separately\n\u2022 Ideal for romantic occasions, gifts, or everyday luxury\n\u2022 Intricate filigree heart details showcasing expert craftsmanship\n\u2022 Hypoallergenic materials suitable for sensitive skin\n\u2022 Comes in a beautiful gift-ready presentation box\n\u2022 Versatile design that complements both casual and formal attire",
+            "price": "\u20b90"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/qRl6z12JyaMvgjlJf7hs8_543x631.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/38e33436-adbb-45e9-a6f9-b9dd1b04d5c3",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner showcases an elegant promotional design for a jewelry product, primarily the \"Heart & Clover\" necklace set. The layout includes a large, bold heading (`heading`) and a complementary subheading (`subheading`), both top-aligned. Below them is a subtle horizontal divider (`decorative`) that separates the section from the descriptive text block (`description`), which enumerates four key product features using bullet points. The stylish, italicized tagline (`tagline`) adds a romantic touch above the prominently featured price (`price`). A clear and bold call-to-action button, made of a background rectangle (`cta_background`) with overlaid text (`cta`), anchors the bottom-left corner. On the right side, a detailed product image (`product_image`) balances the composition, embedded over a geometric, pastel-toned gradient background (`background`).\n\n**Color Palette**:\n- Rosewood: `#8B3A4A`\n- Mauve Berry: `#9E4257`\n- Light Blush: `#F9E4E8`\n- Dusty Pink: `#E8B8C2`\n- White: `#FFFFFF`\n- Accent Pink: `#D1919F`\n",
+    "product_color": "  \nThe product image features a delicate rose gold necklace set with heart-shaped motifs that form a four-leaf clover when joined. The dominant color is a soft, elegant **rose gold (#B76E79)** that gives the design a luxurious and romantic feel. Accents of **crystal white (#F8F8F8)** and subtle **metallic silver (#C0C0C0)** detail the inner patterns, highlighting the fine craftsmanship. The rose gold merges seamlessly with the sparkling crystals, creating a balanced and sophisticated look. Ideal color palette for an advertisement banner includes rose gold, muted blush pink (#F4C2C2), crystal white, and a soft charcoal gray (#4A4A4A) for elegant contrast and readability.  \n"
+}

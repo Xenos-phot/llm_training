@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a3853'/><stop offset='100%' stop-color='#051e33'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2a93c9'/><stop offset='100%' stop-color='#126d9e'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><g opacity='0.1'><circle cx='540' cy='540' r='450' fill='none' stroke='#ffffff' stroke-width='2'/><circle cx='540' cy='540' r='350' fill='none' stroke='#ffffff' stroke-width='2'/><circle cx='540' cy='540' r='250' fill='none' stroke='#ffffff' stroke-width='2'/></g><path d='M0 580 C 240 520, 480 620, 720 540 S 960 440, 1080 500 L 1080 1080 L 0 1080 Z' fill='url(#accent)' opacity='0.7'/><path d='M1080 700 C 840 760, 600 660, 360 740 S 120 840, 0 780 L 0 1080 L 1080 1080 Z' fill='#051e33' opacity='0.5'/><g fill='#ffffff' opacity='0.4'><circle cx='100' cy='100' r='3'/><circle cx='130' cy='100' r='3'/><circle cx='160' cy='100' r='3'/><circle cx='100' cy='130' r='3'/><circle cx='130' cy='130' r='3'/><circle cx='160' cy='130' r='3'/><circle cx='980' cy='100' r='3'/><circle cx='950' cy='100' r='3'/><circle cx='920' cy='100' r='3'/><circle cx='980' cy='130' r='3'/><circle cx='950' cy='130' r='3'/><circle cx='920' cy='130' r='3'/><circle cx='980' cy='950' r='3'/><circle cx='950' cy='950' r='3'/><circle cx='920' cy='950' r='3'/><circle cx='980' cy='980' r='3'/><circle cx='950' cy='980' r='3'/><circle cx='920' cy='980' r='3'/><circle cx='100' cy='950' r='3'/><circle cx='130' cy='950' r='3'/><circle cx='160' cy='950' r='3'/><circle cx='100' cy='980' r='3'/><circle cx='130' cy='980' r='3'/><circle cx='160' cy='980' r='3'/></g></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 259.08, "width": 561.84, "height": 90.4, "fill": "#FFFFFF", "text": "CONTIGO CHILL 2.0", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 150, "left": 47.75999999999999, "width": 984.48, "height": 45.2, "fill": "#2a93c9", "text": "STAINLESS STEEL WATER BOTTLE", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 242.565, "left": 474.65999999999997, "width": 396, "height": 1439, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/XCl0P2fe2GEVGq9k0vnQq_396x1439.png", "id": "product_image"}, {"type": "text", "top": 225, "left": 334.895, "width": 410.21, "height": 33.9, "fill": "#FFFFFF", "text": "WITH AUTOPOP LID \u2022 24 OZ", "fontSize": 30, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 730, "left": 199.38, "width": 681.24, "height": 29.38, "fill": "#FFFFFF", "text": "KEEPS DRINKS COLD FOR 24 HOURS \u2022 LEAKPROOF DESIGN", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description_1"}, {"type": "text", "top": 780, "left": 160.60000000000002, "width": 758.8, "height": 24.86, "fill": "#FFFFFF", "text": "VACUUM-INSULATED \u2022 DISHWASHER SAFE \u2022 FITS MOST CUP HOLDERS", "fontSize": 22, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description_2"}, {"type": "text", "top": 850, "left": 439.44, "width": 201.12, "height": 90.4, "fill": "#FFFFFF", "text": "$17.49", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#2a93c9", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 965, "left": 467.23, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta_text"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Contigo Jackson Chill 2.0 Stainless Steel Water Bottle with AUTOPOP Lid, 24oz.", "description": "Pop, sip, and click your way to better hydration. The AUTOPOP Stainless Steel Water Bottle features a wide mouthpiece for convenient on-the-go one-handed drinking in between all of the tasks on your to-do list. Whether you\u2019re working out or working at your desk, the double-wall vacuum-insulated stainless steel body keeps drinks cold for 24 hours. When you\u2019re done drinking, click the lid back into place to help protect the bottle from dirt and grime, then lock the lid for extra protection. The leakproof design means no spills in your car, on your desk, or wherever you are. Carrying it around is easy with the integrated handle. Both lid and body are top-rack dishwasher-safe for easy cleanups. Fits most cup holders.", "price": "$17.49"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/XCl0P2fe2GEVGq9k0vnQq_396x1439.png", "marketplace_url": "https://www.amazon.com/Contigo-Vacuum-Insulated-Stainless-Technology-Leak-Proof/dp/B08RSQ8KXC/?_encoding=UTF8&pd_rd_w=W8M1x&content-id=amzn1.sym.0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_p=0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_r=Q2D7EZ2WGB8F4QAZ6MXZ&pd_rd_wg=INHlc&pd_rd_r=8c02295a-6595-4a93-9cba-1aba090db85e&ref_=pd_hp_d_btf_gcx_gw_per_1&th=1", "layout": "centered_hero"}, "banner_details": "\nThis banner features a modern, tech-inspired design with a clean layout oriented around a central product image (\"product_image\"). A dark gradient background enhances visual depth, with concentric line circles and scattered dot clusters adding a subtle futuristic accent. The heading (\"heading\") is bold and centered at the top in large white font, creating a strong visual anchor. Just below, a blue-toned subheading (\"subheading\") adds contrast, followed by the tagline (\"tagline\") describing key product features. Below the product image, two centered description text blocks (\"description_1\" and \"description_2\") emphasize benefits. The pricing (\"price\") is prominent and large, paired with a stylized call-to-action button (\"cta_button\") containing \"cta_text,\" guiding users toward interaction.\n\n**Color Palette**:\n- Midnight Blue: #051e33\n- Deep Navy: #1a3853\n- Sky Blue: #2a93c9\n- Aqua Blue Gradient: Linear from #2a93c9 to #126d9e\n- Pure White: #FFFFFF\n", "product_color": "\nThis product image showcases a sleek, matte black Contigo travel mug, creating a modern and minimalist aesthetic. The primary color is a deep matte black (#1A1A1A), giving it a bold and sophisticated appearance. The lid combines dark gray tones (#4A4A4A) and soft charcoal (#2F2F2F) for subtle contrast, while the white text (#FFFFFF) on the body enhances visibility and adds a clean touch. The colors blend seamlessly through their satin-finish textures, maintaining visual unity while still highlighting key features like the logo and \"24 OZ\" marking. Ideal colors for an advertisement banner include matte black, charcoal gray, dark gray, and crisp white.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a3853'/><stop offset='100%' stop-color='#051e33'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2a93c9'/><stop offset='100%' stop-color='#126d9e'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><g opacity='0.1'><circle cx='540' cy='540' r='450' fill='none' stroke='#ffffff' stroke-width='2'/><circle cx='540' cy='540' r='350' fill='none' stroke='#ffffff' stroke-width='2'/><circle cx='540' cy='540' r='250' fill='none' stroke='#ffffff' stroke-width='2'/></g><path d='M0 580 C 240 520, 480 620, 720 540 S 960 440, 1080 500 L 1080 1080 L 0 1080 Z' fill='url(#accent)' opacity='0.7'/><path d='M1080 700 C 840 760, 600 660, 360 740 S 120 840, 0 780 L 0 1080 L 1080 1080 Z' fill='#051e33' opacity='0.5'/><g fill='#ffffff' opacity='0.4'><circle cx='100' cy='100' r='3'/><circle cx='130' cy='100' r='3'/><circle cx='160' cy='100' r='3'/><circle cx='100' cy='130' r='3'/><circle cx='130' cy='130' r='3'/><circle cx='160' cy='130' r='3'/><circle cx='980' cy='100' r='3'/><circle cx='950' cy='100' r='3'/><circle cx='920' cy='100' r='3'/><circle cx='980' cy='130' r='3'/><circle cx='950' cy='130' r='3'/><circle cx='920' cy='130' r='3'/><circle cx='980' cy='950' r='3'/><circle cx='950' cy='950' r='3'/><circle cx='920' cy='950' r='3'/><circle cx='980' cy='980' r='3'/><circle cx='950' cy='980' r='3'/><circle cx='920' cy='980' r='3'/><circle cx='100' cy='950' r='3'/><circle cx='130' cy='950' r='3'/><circle cx='160' cy='950' r='3'/><circle cx='100' cy='980' r='3'/><circle cx='130' cy='980' r='3'/><circle cx='160' cy='980' r='3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 259.08,
+                "width": 561.84,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "CONTIGO CHILL 2.0",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 47.75999999999999,
+                "width": 984.48,
+                "height": 45.2,
+                "fill": "#2a93c9",
+                "text": "STAINLESS STEEL WATER BOTTLE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 242.565,
+                "left": 474.65999999999997,
+                "width": 130.68,
+                "height": 474.87,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/XCl0P2fe2GEVGq9k0vnQq_396x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 225,
+                "left": 334.895,
+                "width": 410.21,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "WITH AUTOPOP LID \u2022 24 OZ",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 199.38,
+                "width": 681.24,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "KEEPS DRINKS COLD FOR 24 HOURS \u2022 LEAKPROOF DESIGN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description_1"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 160.60000000000002,
+                "width": 758.8,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "VACUUM-INSULATED \u2022 DISHWASHER SAFE \u2022 FITS MOST CUP HOLDERS",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description_2"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 439.44,
+                "width": 201.12,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$17.49",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#2a93c9",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 467.23,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta_text"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Contigo Jackson Chill 2.0 Stainless Steel Water Bottle with AUTOPOP Lid, 24oz.",
+            "description": "Pop, sip, and click your way to better hydration. The AUTOPOP Stainless Steel Water Bottle features a wide mouthpiece for convenient on-the-go one-handed drinking in between all of the tasks on your to-do list. Whether you\u2019re working out or working at your desk, the double-wall vacuum-insulated stainless steel body keeps drinks cold for 24 hours. When you\u2019re done drinking, click the lid back into place to help protect the bottle from dirt and grime, then lock the lid for extra protection. The leakproof design means no spills in your car, on your desk, or wherever you are. Carrying it around is easy with the integrated handle. Both lid and body are top-rack dishwasher-safe for easy cleanups. Fits most cup holders.",
+            "price": "$17.49"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/XCl0P2fe2GEVGq9k0vnQq_396x1439.png",
+        "marketplace_url": "https://www.amazon.com/Contigo-Vacuum-Insulated-Stainless-Technology-Leak-Proof/dp/B08RSQ8KXC/?_encoding=UTF8&pd_rd_w=W8M1x&content-id=amzn1.sym.0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_p=0f9e35ef-aec2-4925-899e-45c0e396b456&pf_rd_r=Q2D7EZ2WGB8F4QAZ6MXZ&pd_rd_wg=INHlc&pd_rd_r=8c02295a-6595-4a93-9cba-1aba090db85e&ref_=pd_hp_d_btf_gcx_gw_per_1&th=1",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner features a modern, tech-inspired design with a clean layout oriented around a central product image (\"product_image\"). A dark gradient background enhances visual depth, with concentric line circles and scattered dot clusters adding a subtle futuristic accent. The heading (\"heading\") is bold and centered at the top in large white font, creating a strong visual anchor. Just below, a blue-toned subheading (\"subheading\") adds contrast, followed by the tagline (\"tagline\") describing key product features. Below the product image, two centered description text blocks (\"description_1\" and \"description_2\") emphasize benefits. The pricing (\"price\") is prominent and large, paired with a stylized call-to-action button (\"cta_button\") containing \"cta_text,\" guiding users toward interaction.\n\n**Color Palette**:\n- Midnight Blue: #051e33\n- Deep Navy: #1a3853\n- Sky Blue: #2a93c9\n- Aqua Blue Gradient: Linear from #2a93c9 to #126d9e\n- Pure White: #FFFFFF\n",
+    "product_color": "\nThis product image showcases a sleek, matte black Contigo travel mug, creating a modern and minimalist aesthetic. The primary color is a deep matte black (#1A1A1A), giving it a bold and sophisticated appearance. The lid combines dark gray tones (#4A4A4A) and soft charcoal (#2F2F2F) for subtle contrast, while the white text (#FFFFFF) on the body enhances visibility and adds a clean touch. The colors blend seamlessly through their satin-finish textures, maintaining visual unity while still highlighting key features like the logo and \"24 OZ\" marking. Ideal colors for an advertisement banner include matte black, charcoal gray, dark gray, and crisp white.\n"
+}

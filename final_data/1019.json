@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#004d40'/><stop offset='100%' stop-color='#1a237e'/></linearGradient><linearGradient id='overlayGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='rgba(0, 150, 136, 0.2)'/><stop offset='100%' stop-color='rgba(121, 85, 72, 0.2)'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.6'><path d='M0,300 Q270,250 540,350 T1080,280' stroke='rgba(255,255,255,0.2)' stroke-width='10' fill='none'/><path d='M0,400 Q270,350 540,450 T1080,380' stroke='rgba(255,255,255,0.15)' stroke-width='8' fill='none'/><path d='M0,500 Q270,450 540,550 T1080,480' stroke='rgba(255,255,255,0.1)' stroke-width='6' fill='none'/></g><rect width='1080' height='1080' fill='url(#overlayGradient)'/><g opacity='0.4'><circle cx='100' cy='100' r='50' fill='rgba(255,255,255,0.1)'/><circle cx='980' cy='180' r='70' fill='rgba(255,255,255,0.1)'/><circle cx='150' cy='900' r='80' fill='rgba(255,255,255,0.1)'/><circle cx='900' cy='850' r='60' fill='rgba(255,255,255,0.1)'/></g><path d='M0,750 C200,780 400,730 600,770 S800,800 1080,760 L1080,1080 L0,1080 Z' fill='rgba(179, 229, 252, 0.2)'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 103.32, "width": 873.36, "height": 79.1, "fill": "#ffffff", "text": "PREMIUM CBD-INFUSED GEL", "fontSize": 70, "fontFamily": "Barlow Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 112.25999999999999, "width": 855.48, "height": 45.2, "fill": "#b2dfdb", "text": "Natural Pain Relief Solution by Blue Ridge Hemp Co.", "fontSize": 40, "fontFamily": "Alegreya Sans Black", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 255.89499999999998, "left": 222.34500000000003, "width": 767, "height": 527, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/FOUcTKwrAC1PCT7UATThp_767x527.png", "id": "product_image"}, {"type": "text", "top": 700, "left": 86.54000000000002, "width": 906.92, "height": 33.9, "fill": "#ffffff", "text": "Fast-Absorbing \u2022 All-Natural Ingredients \u2022 Lab-Tested \u2022 Non-Greasy", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 770, "left": 221.46499999999997, "width": 637.07, "height": 31.64, "fill": "#b2dfdb", "text": "Professional-grade 2oz (60ml) therapeutic formula", "fontSize": 28, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 850, "left": 454.36, "width": 171.28, "height": 90.4, "fill": "#4db6ac", "text": "\u20b9 99", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 970, "left": 430.0, "width": 220, "height": 60, "fill": "#4db6ac", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 985, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#004d40", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Blue Ridge CBD-Infused Gel | Natural Pain Relief Solution", "description": "\u2022 Professional-grade CBD-infused therapeutic gel formula\n\u2022 2oz (60ml) convenient size for regular use\n\u2022 Multiple varieties available for different therapeutic needs\n\u2022 Fast-absorbing gel formulation for targeted relief\n\u2022 Made by trusted Blue Ridge Hemp Co.\n\u2022 Lab-tested for quality and purity\n\u2022 All-natural ingredients blend\n\u2022 Easy-to-use applicator design\n\u2022 Travel-friendly packaging\n\u2022 Non-greasy formula that dries quickly\n\u2022 Perfect for topical application\n\u2022 Made in USA with premium hemp extracts", "price": "\u20b999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/FOUcTKwrAC1PCT7UATThp_767x527.png", "marketplace_url": "https://images.pexels.com/photos/1667071/pexels-photo-1667071.jpeg", "layout": "centered_hero"}, "banner_details": "\nThis vibrant promotional banner features a health-focused advertisement for a product presented in a clear, eye-catching layout. The background is a graceful blend of teal and indigo hues with abstract wave and circle accents, overlaid with soft linear gradients that give a sense of flow and calm. The composition includes a prominent heading (\"heading\") and subheading (\"subheading\") that establish the premium nature and benefits of the product. Centered beneath is a product image (\"product_image\") \u2014 a trio of colorful tubes arranged diagonally, adding visual emphasis. Supporting text elements (\"tagline\" and \"description\") communicate benefits and details in a clean format. The pricing (\"price\") is bold and inviting, with a rectangular button (\"cta_button\") and its label (\"cta\") strategically placed for conversion.\n\n**Color Palette:**\n- Teal Green (#004d40)\n- Indigo Blue (#1a237e)\n- Aqua Blue (#b2dfdb)\n- Mint Green (#4db6ac)\n- White (#ffffff)\n- Deep Teal (#004d40 with lower opacity for text shadows and accents)\n\n", "product_color": "\nThe product image showcases three CBD roll-ons featuring a sophisticated color palette of earthy tones that evoke calmness, wellness, and natural healing. Each bottle uses a solid background color\u2014burnt orange (#C34F30), teal green (#4B8371), and mustard yellow (#D3A23F)\u2014which are intentionally saturated to create both distinction and harmony. These warm, grounded hues subtly contrast with sleek black caps (#1E1E1E) to highlight the usability and premium quality. White text (#F4F4F4) adds sharp legibility while maintaining a clean aesthetic. The gradient blue-to-red circle icon (#355D82 to #BD4A4A) ties all elements together. This palette can effectively evoke trust and vitality in an advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#004d40'/><stop offset='100%' stop-color='#1a237e'/></linearGradient><linearGradient id='overlayGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='rgba(0, 150, 136, 0.2)'/><stop offset='100%' stop-color='rgba(121, 85, 72, 0.2)'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.6'><path d='M0,300 Q270,250 540,350 T1080,280' stroke='rgba(255,255,255,0.2)' stroke-width='10' fill='none'/><path d='M0,400 Q270,350 540,450 T1080,380' stroke='rgba(255,255,255,0.15)' stroke-width='8' fill='none'/><path d='M0,500 Q270,450 540,550 T1080,480' stroke='rgba(255,255,255,0.1)' stroke-width='6' fill='none'/></g><rect width='1080' height='1080' fill='url(#overlayGradient)'/><g opacity='0.4'><circle cx='100' cy='100' r='50' fill='rgba(255,255,255,0.1)'/><circle cx='980' cy='180' r='70' fill='rgba(255,255,255,0.1)'/><circle cx='150' cy='900' r='80' fill='rgba(255,255,255,0.1)'/><circle cx='900' cy='850' r='60' fill='rgba(255,255,255,0.1)'/></g><path d='M0,750 C200,780 400,730 600,770 S800,800 1080,760 L1080,1080 L0,1080 Z' fill='rgba(179, 229, 252, 0.2)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 103.32,
+                "width": 873.36,
+                "height": 79.1,
+                "fill": "#ffffff",
+                "text": "PREMIUM CBD-INFUSED GEL",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 112.25999999999999,
+                "width": 855.48,
+                "height": 45.2,
+                "fill": "#b2dfdb",
+                "text": "Natural Pain Relief Solution by Blue Ridge Hemp Co.",
+                "fontFamily": "Alegreya Sans Black",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 255.89499999999998,
+                "left": 222.34500000000003,
+                "width": 575.25,
+                "height": 395.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/FOUcTKwrAC1PCT7UATThp_767x527.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 86.54000000000002,
+                "width": 906.92,
+                "height": 33.9,
+                "fill": "#ffffff",
+                "text": "Fast-Absorbing \u2022 All-Natural Ingredients \u2022 Lab-Tested \u2022 Non-Greasy",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 221.46499999999997,
+                "width": 637.07,
+                "height": 31.64,
+                "fill": "#b2dfdb",
+                "text": "Professional-grade 2oz (60ml) therapeutic formula",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 454.36,
+                "width": 171.28,
+                "height": 90.4,
+                "fill": "#4db6ac",
+                "text": "\u20b9 99",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#4db6ac",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 985,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#004d40",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Blue Ridge CBD-Infused Gel | Natural Pain Relief Solution",
+            "description": "\u2022 Professional-grade CBD-infused therapeutic gel formula\n\u2022 2oz (60ml) convenient size for regular use\n\u2022 Multiple varieties available for different therapeutic needs\n\u2022 Fast-absorbing gel formulation for targeted relief\n\u2022 Made by trusted Blue Ridge Hemp Co.\n\u2022 Lab-tested for quality and purity\n\u2022 All-natural ingredients blend\n\u2022 Easy-to-use applicator design\n\u2022 Travel-friendly packaging\n\u2022 Non-greasy formula that dries quickly\n\u2022 Perfect for topical application\n\u2022 Made in USA with premium hemp extracts",
+            "price": "\u20b999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/FOUcTKwrAC1PCT7UATThp_767x527.png",
+        "marketplace_url": "https://images.pexels.com/photos/1667071/pexels-photo-1667071.jpeg",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis vibrant promotional banner features a health-focused advertisement for a product presented in a clear, eye-catching layout. The background is a graceful blend of teal and indigo hues with abstract wave and circle accents, overlaid with soft linear gradients that give a sense of flow and calm. The composition includes a prominent heading (\"heading\") and subheading (\"subheading\") that establish the premium nature and benefits of the product. Centered beneath is a product image (\"product_image\") \u2014 a trio of colorful tubes arranged diagonally, adding visual emphasis. Supporting text elements (\"tagline\" and \"description\") communicate benefits and details in a clean format. The pricing (\"price\") is bold and inviting, with a rectangular button (\"cta_button\") and its label (\"cta\") strategically placed for conversion.\n\n**Color Palette:**\n- Teal Green (#004d40)\n- Indigo Blue (#1a237e)\n- Aqua Blue (#b2dfdb)\n- Mint Green (#4db6ac)\n- White (#ffffff)\n- Deep Teal (#004d40 with lower opacity for text shadows and accents)\n\n",
+    "product_color": "\nThe product image showcases three CBD roll-ons featuring a sophisticated color palette of earthy tones that evoke calmness, wellness, and natural healing. Each bottle uses a solid background color\u2014burnt orange (#C34F30), teal green (#4B8371), and mustard yellow (#D3A23F)\u2014which are intentionally saturated to create both distinction and harmony. These warm, grounded hues subtly contrast with sleek black caps (#1E1E1E) to highlight the usability and premium quality. White text (#F4F4F4) adds sharp legibility while maintaining a clean aesthetic. The gradient blue-to-red circle icon (#355D82 to #BD4A4A) ties all elements together. This palette can effectively evoke trust and vitality in an advertisement banner.\n"
+}

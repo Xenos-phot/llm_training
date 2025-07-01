@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#222222'/><stop offset='100%' style='stop-color:#000000'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#3498db'/><stop offset='100%' style='stop-color:#2980b9'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='-100' y='0' width='640' height='1080' rx='80' ry='80' fill='#111111'/><g transform='translate(800, 100) rotate(45)'><rect x='0' y='0' width='200' height='20' rx='10' ry='10' fill='url(#accentGradient)' opacity='0.7'/><rect x='50' y='50' width='150' height='15' rx='7' ry='7' fill='url(#accentGradient)' opacity='0.5'/><rect x='-50' y='100' width='250' height='25' rx='12' ry='12' fill='url(#accentGradient)' opacity='0.3'/></g><g transform='translate(900, 300) rotate(45)'><rect x='0' y='0' width='200' height='20' rx='10' ry='10' fill='url(#accentGradient)' opacity='0.7'/><rect x='50' y='50' width='150' height='15' rx='7' ry='7' fill='url(#accentGradient)' opacity='0.5'/><rect x='-50' y='100' width='250' height='25' rx='12' ry='12' fill='url(#accentGradient)' opacity='0.3'/></g><g transform='translate(850, 900) rotate(45)'><rect x='0' y='0' width='200' height='20' rx='10' ry='10' fill='url(#accentGradient)' opacity='0.7'/><rect x='50' y='50' width='150' height='15' rx='7' ry='7' fill='url(#accentGradient)' opacity='0.5'/><rect x='-50' y='100' width='250' height='25' rx='12' ry='12' fill='url(#accentGradient)' opacity='0.3'/></g><circle cx='700' cy='200' r='5' fill='#ffffff' opacity='0.5'/><circle cx='750' cy='250' r='3' fill='#ffffff' opacity='0.3'/><circle cx='800' cy='220' r='4' fill='#ffffff' opacity='0.4'/><circle cx='670' cy='500' r='5' fill='#ffffff' opacity='0.5'/><circle cx='720' cy='550' r='3' fill='#ffffff' opacity='0.3'/><circle cx='770' cy='520' r='4' fill='#ffffff' opacity='0.4'/><circle cx='680' cy='800' r='5' fill='#ffffff' opacity='0.5'/><circle cx='730' cy='850' r='3' fill='#ffffff' opacity='0.3'/><circle cx='780' cy='820' r='4' fill='#ffffff' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 40, "width": 454.34, "height": 158.2, "fill": "#FFFFFF", "text": "BLADE\nSNEAKERS", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 300, "left": 40, "width": 537.16, "height": 45.2, "fill": "#3498db", "text": "SLIP-ON BREATHABLE DESIGN", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 40, "width": 369.15, "height": 103.06, "fill": "#FFFFFF", "text": "\u2022 Lightweight Breathable Mesh Upper\n\u2022 Shock-Absorbing Blade Sole\n\u2022 Modern Slip-On Style", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 40, "width": 340.48, "height": 90.4, "fill": "#3498db", "text": "$42.99", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 40, "width": 200, "height": 60, "fill": "#3498db", "rx": 5, "ry": 5, "id": "cta_button_background"}, {"type": "text", "top": 817, "left": 70, "width": 135.47, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 344, "left": 482, "width": 1294, "height": 1244, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ba45afb2-58d8-497d-a368-d7f6ee2a5adc_nobg_1294x1244.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Super Breathable Mesh Vamp: Lightweight, Soft, Comfortable, Wash resistance, They won't deform after clean the sneakers. Breathable and durable air mesh upper allow the foot to breathe. Protect Your ankle: Slip-on ankle design allows you easily put on/off. Shoes's tongue and heels protect your feet from hurt in any activities. Provide more comfort. Slip-Resistance and Durable:Premium Hollow Blade Sole Offers Maximum Durability and Provides the Optimum Cushioning Performance that Creates a Slow Shock Jump, Soft, Comfortableand and Healthier Shoe Environment. Perfect choice to pair with any sport or casual assemble. Suitable for parties, casual, walking, running, indoor, sports, outdoor, travel, exercise, workout and any occasion. Free Running: Stretch breathable mesh upper for ultra-lightweight support and breathability, springblade sole can superb energy return and durability, ensures your feet feel more freedom, allowing to move the way they were meant to, to enjoy the unparalleled pleasure of free running. Fabric type - Mesh ** Origin - Imported ** Sole material - Ethylene Vinyl Acetate ** Outer material - Mesh **", "price": "$42.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ba45afb2-58d8-497d-a368-d7f6ee2a5adc_nobg_1294x1244.png", "marketplace_url": "https://www.amazon.com/dp/B09QMBJTCR", "layout": "split_vertical"}, "banner_details": "\nThis modern and dynamic banner features a dark vertical layout with a sleek and tech-inspired aesthetic. The background combines a diagonal gradient and rounded-edge panel split for depth. Text layers \"heading\" and \"subheading\" emphasize product branding and design benefits in bold, futuristic fonts. Supporting feature descriptions are presented in bullet format under the \"description\" layer. The \"price\" text boldly displays cost in a vibrant hue for emphasis. A bold \"cta\" text sits centered on the \"cta_button_background\", styled as a button. Diagonally rotated gradient lines and scattered circles add energy. The \"product_image\" displays the sneakers, overlapping with dynamic composition.\n\n**Color Palette:**\n- Deep Black: #000000\n- Charcoal: #111111\n- Electric Blue: #3498db\n- Midnight Blue: #2980b9\n- White: #FFFFFF\n", "product_color": "  \nThe product image showcases a sporty and futuristic black sneaker with a breathable mesh design and a bold, sculpted sole. The dominant color is matte black (#000000), used consistently across the shoe's sole and body for a unified and sleek look. Accents of bright white (#FFFFFF) appear in the branding and vertical stripe detailing, creating high contrast and enhancing visual interest. The subtle use of dark gray (#2E2E2E) within texture shadows adds depth. These colors are cleanly separated yet visually integrated through the interplay of material finishes. The resulting palette is bold and minimalistic, ideal for high-impact advertising visuals.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#222222'/><stop offset='100%' style='stop-color:#000000'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#3498db'/><stop offset='100%' style='stop-color:#2980b9'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='-100' y='0' width='640' height='1080' rx='80' ry='80' fill='#111111'/><g transform='translate(800, 100) rotate(45)'><rect x='0' y='0' width='200' height='20' rx='10' ry='10' fill='url(#accentGradient)' opacity='0.7'/><rect x='50' y='50' width='150' height='15' rx='7' ry='7' fill='url(#accentGradient)' opacity='0.5'/><rect x='-50' y='100' width='250' height='25' rx='12' ry='12' fill='url(#accentGradient)' opacity='0.3'/></g><g transform='translate(900, 300) rotate(45)'><rect x='0' y='0' width='200' height='20' rx='10' ry='10' fill='url(#accentGradient)' opacity='0.7'/><rect x='50' y='50' width='150' height='15' rx='7' ry='7' fill='url(#accentGradient)' opacity='0.5'/><rect x='-50' y='100' width='250' height='25' rx='12' ry='12' fill='url(#accentGradient)' opacity='0.3'/></g><g transform='translate(850, 900) rotate(45)'><rect x='0' y='0' width='200' height='20' rx='10' ry='10' fill='url(#accentGradient)' opacity='0.7'/><rect x='50' y='50' width='150' height='15' rx='7' ry='7' fill='url(#accentGradient)' opacity='0.5'/><rect x='-50' y='100' width='250' height='25' rx='12' ry='12' fill='url(#accentGradient)' opacity='0.3'/></g><circle cx='700' cy='200' r='5' fill='#ffffff' opacity='0.5'/><circle cx='750' cy='250' r='3' fill='#ffffff' opacity='0.3'/><circle cx='800' cy='220' r='4' fill='#ffffff' opacity='0.4'/><circle cx='670' cy='500' r='5' fill='#ffffff' opacity='0.5'/><circle cx='720' cy='550' r='3' fill='#ffffff' opacity='0.3'/><circle cx='770' cy='520' r='4' fill='#ffffff' opacity='0.4'/><circle cx='680' cy='800' r='5' fill='#ffffff' opacity='0.5'/><circle cx='730' cy='850' r='3' fill='#ffffff' opacity='0.3'/><circle cx='780' cy='820' r='4' fill='#ffffff' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 40,
+                "width": 454.34,
+                "height": 158.2,
+                "fill": "#FFFFFF",
+                "text": "BLADE\nSNEAKERS",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 40,
+                "width": 537.16,
+                "height": 45.2,
+                "fill": "#3498db",
+                "text": "SLIP-ON BREATHABLE DESIGN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 40,
+                "width": 369.15,
+                "height": 103.06,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Lightweight Breathable Mesh Upper\n\u2022 Shock-Absorbing Blade Sole\n\u2022 Modern Slip-On Style",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 40,
+                "width": 340.48,
+                "height": 90.4,
+                "fill": "#3498db",
+                "text": "$42.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#3498db",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 817,
+                "left": 70,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 344,
+                "left": 482,
+                "width": 543.48,
+                "height": 522.48,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ba45afb2-58d8-497d-a368-d7f6ee2a5adc_nobg_1294x1244.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Super Breathable Mesh Vamp: Lightweight, Soft, Comfortable, Wash resistance, They won't deform after clean the sneakers. Breathable and durable air mesh upper allow the foot to breathe. Protect Your ankle: Slip-on ankle design allows you easily put on/off. Shoes's tongue and heels protect your feet from hurt in any activities. Provide more comfort. Slip-Resistance and Durable:Premium Hollow Blade Sole Offers Maximum Durability and Provides the Optimum Cushioning Performance that Creates a Slow Shock Jump, Soft, Comfortableand and Healthier Shoe Environment. Perfect choice to pair with any sport or casual assemble. Suitable for parties, casual, walking, running, indoor, sports, outdoor, travel, exercise, workout and any occasion. Free Running: Stretch breathable mesh upper for ultra-lightweight support and breathability, springblade sole can superb energy return and durability, ensures your feet feel more freedom, allowing to move the way they were meant to, to enjoy the unparalleled pleasure of free running. Fabric type - Mesh ** Origin - Imported ** Sole material - Ethylene Vinyl Acetate ** Outer material - Mesh **",
+            "price": "$42.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ba45afb2-58d8-497d-a368-d7f6ee2a5adc_nobg_1294x1244.png",
+        "marketplace_url": "https://www.amazon.com/dp/B09QMBJTCR",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis modern and dynamic banner features a dark vertical layout with a sleek and tech-inspired aesthetic. The background combines a diagonal gradient and rounded-edge panel split for depth. Text layers \"heading\" and \"subheading\" emphasize product branding and design benefits in bold, futuristic fonts. Supporting feature descriptions are presented in bullet format under the \"description\" layer. The \"price\" text boldly displays cost in a vibrant hue for emphasis. A bold \"cta\" text sits centered on the \"cta_button_background\", styled as a button. Diagonally rotated gradient lines and scattered circles add energy. The \"product_image\" displays the sneakers, overlapping with dynamic composition.\n\n**Color Palette:**\n- Deep Black: #000000\n- Charcoal: #111111\n- Electric Blue: #3498db\n- Midnight Blue: #2980b9\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image showcases a sporty and futuristic black sneaker with a breathable mesh design and a bold, sculpted sole. The dominant color is matte black (#000000), used consistently across the shoe's sole and body for a unified and sleek look. Accents of bright white (#FFFFFF) appear in the branding and vertical stripe detailing, creating high contrast and enhancing visual interest. The subtle use of dark gray (#2E2E2E) within texture shadows adds depth. These colors are cleanly separated yet visually integrated through the interplay of material finishes. The resulting palette is bold and minimalistic, ideal for high-impact advertising visuals.  \n"
+}

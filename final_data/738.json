@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F0EB'/><rect x='-49' y='0' width='589' height='1080' rx='40' ry='40' fill='#735D54'/><path d='M540 0L540 1080' stroke='#B7A99C' stroke-width='4' stroke-dasharray='20 20'/><path d='M0 180L540 180' stroke='#B7A99C' stroke-width='2' stroke-dasharray='10 10'/><path d='M0 900L540 900' stroke='#B7A99C' stroke-width='2' stroke-dasharray='10 10'/><circle cx='150' cy='240' r='60' fill='#D7C0B0' opacity='0.3'/><circle cx='400' cy='800' r='80' fill='#D7C0B0' opacity='0.3'/><rect x='600' y='100' width='120' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='780' y='130' width='80' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='900' y='160' width='60' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='650' y='950' width='140' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='830' y='980' width='100' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='950' y='1010' width='70' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 160, "left": 40, "width": 384.59, "height": 203.4, "fill": "#FFFFFF", "text": "MODERN\nLIFT TOP\nCOFFEE TABLE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 380, "left": 40, "width": 419, "height": 72.77, "fill": "#F5F0EB", "text": "Versatile design with hidden storage\nand adjustable height for any space", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 500, "left": 40, "width": 322.76, "height": 108.48, "fill": "#FFFFFF", "text": "\u2022 Adjustable Height (19\" to 24.5\")\n\u2022 Hidden Storage Compartment\n\u2022 3-Section Open Storage Shelf", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 690, "left": 40, "width": 325.82, "height": 79.1, "fill": "#FFFFFF", "text": "$104.99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 40, "width": 220, "height": 65, "fill": "#D7C0B0", "rx": 10, "ry": 10, "id": "cta_button"}, {"type": "text", "top": 817, "left": 70, "width": 145.54, "height": 31.64, "fill": "#735D54", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 310, "left": 580, "width": 479, "height": 375, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **", "price": "104.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png", "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW", "layout": "split_vertical"}, "banner_details": "\nThis banner features a modern and minimalist design centered around promoting a stylish lift-top coffee table. The canvas is split vertically, with a rounded brown left panel and a light beige right side, divided by a dashed vertical line. On the left panel, the main headline (text layer `heading`) is bold and uppercase, emphasizing the product\u2019s name. Below it, the subheading (text layer `subheading`) provides a brief description in smaller type. A bullet-point list (text layer `description`) highlights product features. The price (text layer `price`) stands out prominently in bold font, followed by a pill-shaped call-to-action button (rect `cta_button` with text `cta`) labeled for user engagement. On the right, a high-quality product image (`product_image`) showcases the table. Background elements and decorative shapes give the banner a balanced and sophisticated appearance.\n\n**Color Palette:**\n- Deep Mocha Brown: `#735D54`\n- Soft Beige: `#F5F0EB`\n- White: `#FFFFFF`\n- Blush Taupe: `#D7C0B0`\n- Light Taupe Stroke: `#B7A99C`\n", "product_color": "\nThe product image features a modern, multifunctional lift-top coffee table showcasing a clean and minimalist color palette. Dominated by crisp white (#FFFFFF) for the body, it is accented with a rich walnut brown (#6F4E37) tabletop, offering a natural wooden contrast. Hints of beige (#D8CAB8), soft gray (#D3D3D3), and muted green (#8E9775) are visible through the decor and props, creating a warm yet contemporary appeal. The colors are well-blended to balance light and dark tones, and the brown top acts as a visual anchor. For an ad banner, a palette of white, walnut brown, muted green, and light gray will emphasize simplicity and elegance.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F0EB'/><rect x='-49' y='0' width='589' height='1080' rx='40' ry='40' fill='#735D54'/><path d='M540 0L540 1080' stroke='#B7A99C' stroke-width='4' stroke-dasharray='20 20'/><path d='M0 180L540 180' stroke='#B7A99C' stroke-width='2' stroke-dasharray='10 10'/><path d='M0 900L540 900' stroke='#B7A99C' stroke-width='2' stroke-dasharray='10 10'/><circle cx='150' cy='240' r='60' fill='#D7C0B0' opacity='0.3'/><circle cx='400' cy='800' r='80' fill='#D7C0B0' opacity='0.3'/><rect x='600' y='100' width='120' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='780' y='130' width='80' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='900' y='160' width='60' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='650' y='950' width='140' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='830' y='980' width='100' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/><rect x='950' y='1010' width='70' height='10' rx='5' fill='#D7C0B0' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 40,
+                "width": 384.59,
+                "height": 203.4,
+                "fill": "#FFFFFF",
+                "text": "MODERN\nLIFT TOP\nCOFFEE TABLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 40,
+                "width": 419,
+                "height": 72.77,
+                "fill": "#F5F0EB",
+                "text": "Versatile design with hidden storage\nand adjustable height for any space",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 500,
+                "left": 40,
+                "width": 322.76,
+                "height": 108.48,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Adjustable Height (19\" to 24.5\")\n\u2022 Hidden Storage Compartment\n\u2022 3-Section Open Storage Shelf",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 690,
+                "left": 40,
+                "width": 325.82,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "$104.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 40,
+                "width": 220,
+                "height": 65,
+                "fill": "#D7C0B0",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 817,
+                "left": 70,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#735D54",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 310,
+                "left": 580,
+                "width": 431.1,
+                "height": 337.5,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **",
+            "price": "104.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/fce82075-2723-4d11-a9f3-725b19a3de4c_nobg_479x375.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a modern and minimalist design centered around promoting a stylish lift-top coffee table. The canvas is split vertically, with a rounded brown left panel and a light beige right side, divided by a dashed vertical line. On the left panel, the main headline (text layer `heading`) is bold and uppercase, emphasizing the product\u2019s name. Below it, the subheading (text layer `subheading`) provides a brief description in smaller type. A bullet-point list (text layer `description`) highlights product features. The price (text layer `price`) stands out prominently in bold font, followed by a pill-shaped call-to-action button (rect `cta_button` with text `cta`) labeled for user engagement. On the right, a high-quality product image (`product_image`) showcases the table. Background elements and decorative shapes give the banner a balanced and sophisticated appearance.\n\n**Color Palette:**\n- Deep Mocha Brown: `#735D54`\n- Soft Beige: `#F5F0EB`\n- White: `#FFFFFF`\n- Blush Taupe: `#D7C0B0`\n- Light Taupe Stroke: `#B7A99C`\n",
+    "product_color": "\nThe product image features a modern, multifunctional lift-top coffee table showcasing a clean and minimalist color palette. Dominated by crisp white (#FFFFFF) for the body, it is accented with a rich walnut brown (#6F4E37) tabletop, offering a natural wooden contrast. Hints of beige (#D8CAB8), soft gray (#D3D3D3), and muted green (#8E9775) are visible through the decor and props, creating a warm yet contemporary appeal. The colors are well-blended to balance light and dark tones, and the brown top acts as a visual anchor. For an ad banner, a palette of white, walnut brown, muted green, and light gray will emphasize simplicity and elegance.\n"
+}

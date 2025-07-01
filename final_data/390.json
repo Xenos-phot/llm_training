@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F7FA'/><rect x='0' y='0' width='540' height='1080' fill='#E4EDF7'/><path d='M540 0L540 1080' stroke='#D2DCE6' stroke-width='2'/><circle cx='150' cy='150' r='100' fill='#C0D6EA' opacity='0.4'/><circle cx='900' cy='900' r='120' fill='#C0D6EA' opacity='0.4'/><circle cx='960' cy='200' r='80' fill='#7FA6C8' opacity='0.2'/><circle cx='100' cy='880' r='70' fill='#7FA6C8' opacity='0.2'/><rect x='420' y='180' width='20' height='180' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='460' y='220' width='20' height='100' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='380' y='240' width='20' height='80' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='420' y='720' width='20' height='180' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='460' y='760' width='20' height='100' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='380' y='780' width='20' height='80' rx='10' fill='#7FA6C8' opacity='0.3'/><path d='M800 280C800 280 880 320 920 360C960 400 1000 480 1000 480' stroke='#7FA6C8' stroke-width='3' opacity='0.3'/><path d='M800 600C800 600 880 640 920 680C960 720 1000 800 1000 800' stroke='#7FA6C8' stroke-width='3' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 150, "left": 60, "width": 321.4, "height": 167.24, "fill": "#1E4370", "text": "AIRPODS\nMAX", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 60, "width": 296.48, "height": 45.2, "fill": "#4F86B5", "text": "PREMIUM AUDIO", "fontSize": 40, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 430, "left": 60, "width": 392.86, "height": 111.64, "fill": "#2E5984", "text": "\u2022 Pro-Level Active Noise Cancellation\n\u2022 Transparency Mode\n\u2022 High-Fidelity Spatial Audio", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 60, "width": 289.01, "height": 27.12, "fill": "#1E4370", "text": "Includes 2-Year AppleCare+", "fontSize": 24, "fontFamily": "DM Serif Text Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 700, "left": 60, "width": 363.55, "height": 79.1, "fill": "#1E4370", "text": "$558.99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 830, "left": 60, "width": 220, "height": 70, "fill": "#4F86B5", "rx": 10, "ry": 10, "id": "cta_background"}, {"type": "text", "top": 848, "left": 85, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 510, "width": 1143, "height": 1162, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d4334538-e58b-4419-aa69-6119e345d900_nobg_1143x1162.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ULTIMATE OVER-EAR LISTENING EXPERIENCE \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FIVE FRESH COLORS \u2014 AirPods Max come in five fresh colors: Midnight, Starlight, Blue, Purple, and Orange. A color-matched Smart Case is also included. FOCUS ON WHAT\u2019S PLAYING \u2014 Pro-level Active Noise Cancellation removes up to 2x more background noise, so you can immerse yourself in music.* HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you comfortably hear and interact with the world around you. WHY APPLECARE+ - Get protection, service and support direct from Apple. AppleCare+ covers unlimited repairs for accidental damage, like a cracked display, and includes coverage for the hardware and battery. Get convenient service at Apple Stores and Apple Authorized Service Providers around the world or Express Replacement Service so you don\u2019t have to wait for a repair. Help is easy with 24/7 priority tech support from Apple experts. PEACE OF MIND - Each incident is subject to a service fee of $29. AUTOMATIC ACTIVATION - AppleCare+ is a digital purchase that is automatically activated when your device is delivered by Amazon so it\u2019s already protected when it arrives at your door. There is no physical shipment for AppleCare+. PROOF OF COVERAGE EMAIL - You will receive an email from Amazon Marketplace with the AppleCare Proof of Coverage at time of device shipment. This email will contain your AppleCare+ agreement number, attached device serial number, coverage end date and link to the AppleCare+ terms and conditions. For gifts, please forward this email to the owner of the device. Brand - Apple ** Color - Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **", "price": "$558.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d4334538-e58b-4419-aa69-6119e345d900_nobg_1143x1162.png", "marketplace_url": "https://www.amazon.com/dp/B0DGW57KXJ", "layout": "split_vertical"}, "banner_details": "\nThis banner design features a clean, modern layout with a split background: a soft light blue on the left and pure white on the right, divided by a thin vertical line. The left section hosts text layers including a bold title (\u201cheading\u201d), a supporting tagline (\u201ctagline\u201d), a feature list (\u201cdescription\u201d) highlighting key product benefits, a subheading with added value (\u201csubheading\u201d), and a prominent price (\u201cprice\u201d). A rounded rectangular button (\u201ccta_background\u201d) features a call to action (\u201ccta\u201d) in bold white font. The right side showcases a high-quality product image (\u201cproduct_image\u201d), accentuated with decorative audio-themed waveforms and semi-transparent circular elements.\n\n**Color Palette:**\n- Light Blue: #E4EDF7  \n- White: #FFFFFF  \n- Dark Blue: #1E4370  \n- Sky Blue: #4F86B5  \n- Light Gray-Blue: #7FA6C8  \n- Accent Blue: #C0D6EA  \n", "product_color": "  \nThe product image showcases a sleek and modern headphone design in a cool, muted blue-gray tone. The primary color is a matte steel blue (#6A8491), seamlessly blending into lighter shades on the mesh ear pads (#A7BBC8), creating a subtle gradient that accentuates texture and depth. The headband features a darker denim blue (#4C5A66), introducing contrast without overpowering the composition. Metallic accents, such as the silver hinges (#C3C4C7), highlight sophistication and precision. For a vibrant touch, the AppleCare+ badge uses a classic Apple red (#E50000) against a neutral light gray background (#F7F7F7), making it pop prominently while maintaining overall brand elegance.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F7FA'/><rect x='0' y='0' width='540' height='1080' fill='#E4EDF7'/><path d='M540 0L540 1080' stroke='#D2DCE6' stroke-width='2'/><circle cx='150' cy='150' r='100' fill='#C0D6EA' opacity='0.4'/><circle cx='900' cy='900' r='120' fill='#C0D6EA' opacity='0.4'/><circle cx='960' cy='200' r='80' fill='#7FA6C8' opacity='0.2'/><circle cx='100' cy='880' r='70' fill='#7FA6C8' opacity='0.2'/><rect x='420' y='180' width='20' height='180' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='460' y='220' width='20' height='100' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='380' y='240' width='20' height='80' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='420' y='720' width='20' height='180' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='460' y='760' width='20' height='100' rx='10' fill='#7FA6C8' opacity='0.3'/><rect x='380' y='780' width='20' height='80' rx='10' fill='#7FA6C8' opacity='0.3'/><path d='M800 280C800 280 880 320 920 360C960 400 1000 480 1000 480' stroke='#7FA6C8' stroke-width='3' opacity='0.3'/><path d='M800 600C800 600 880 640 920 680C960 720 1000 800 1000 800' stroke='#7FA6C8' stroke-width='3' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 60,
+                "width": 321.4,
+                "height": 167.24,
+                "fill": "#1E4370",
+                "text": "AIRPODS\nMAX",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 60,
+                "width": 296.48,
+                "height": 45.2,
+                "fill": "#4F86B5",
+                "text": "PREMIUM AUDIO",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 60,
+                "width": 392.86,
+                "height": 111.64,
+                "fill": "#2E5984",
+                "text": "\u2022 Pro-Level Active Noise Cancellation\n\u2022 Transparency Mode\n\u2022 High-Fidelity Spatial Audio",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 289.01,
+                "height": 27.12,
+                "fill": "#1E4370",
+                "text": "Includes 2-Year AppleCare+",
+                "fontFamily": "DM Serif Text Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 60,
+                "width": 363.55,
+                "height": 79.1,
+                "fill": "#1E4370",
+                "text": "$558.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 830,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#4F86B5",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 848,
+                "left": 85,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 510,
+                "width": 571.5,
+                "height": 581.0,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d4334538-e58b-4419-aa69-6119e345d900_nobg_1143x1162.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ULTIMATE OVER-EAR LISTENING EXPERIENCE \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FIVE FRESH COLORS \u2014 AirPods Max come in five fresh colors: Midnight, Starlight, Blue, Purple, and Orange. A color-matched Smart Case is also included. FOCUS ON WHAT\u2019S PLAYING \u2014 Pro-level Active Noise Cancellation removes up to 2x more background noise, so you can immerse yourself in music.* HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you comfortably hear and interact with the world around you. WHY APPLECARE+ - Get protection, service and support direct from Apple. AppleCare+ covers unlimited repairs for accidental damage, like a cracked display, and includes coverage for the hardware and battery. Get convenient service at Apple Stores and Apple Authorized Service Providers around the world or Express Replacement Service so you don\u2019t have to wait for a repair. Help is easy with 24/7 priority tech support from Apple experts. PEACE OF MIND - Each incident is subject to a service fee of $29. AUTOMATIC ACTIVATION - AppleCare+ is a digital purchase that is automatically activated when your device is delivered by Amazon so it\u2019s already protected when it arrives at your door. There is no physical shipment for AppleCare+. PROOF OF COVERAGE EMAIL - You will receive an email from Amazon Marketplace with the AppleCare Proof of Coverage at time of device shipment. This email will contain your AppleCare+ agreement number, attached device serial number, coverage end date and link to the AppleCare+ terms and conditions. For gifts, please forward this email to the owner of the device. Brand - Apple ** Color - Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **",
+            "price": "$558.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d4334538-e58b-4419-aa69-6119e345d900_nobg_1143x1162.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0DGW57KXJ",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design features a clean, modern layout with a split background: a soft light blue on the left and pure white on the right, divided by a thin vertical line. The left section hosts text layers including a bold title (\u201cheading\u201d), a supporting tagline (\u201ctagline\u201d), a feature list (\u201cdescription\u201d) highlighting key product benefits, a subheading with added value (\u201csubheading\u201d), and a prominent price (\u201cprice\u201d). A rounded rectangular button (\u201ccta_background\u201d) features a call to action (\u201ccta\u201d) in bold white font. The right side showcases a high-quality product image (\u201cproduct_image\u201d), accentuated with decorative audio-themed waveforms and semi-transparent circular elements.\n\n**Color Palette:**\n- Light Blue: #E4EDF7  \n- White: #FFFFFF  \n- Dark Blue: #1E4370  \n- Sky Blue: #4F86B5  \n- Light Gray-Blue: #7FA6C8  \n- Accent Blue: #C0D6EA  \n",
+    "product_color": "  \nThe product image showcases a sleek and modern headphone design in a cool, muted blue-gray tone. The primary color is a matte steel blue (#6A8491), seamlessly blending into lighter shades on the mesh ear pads (#A7BBC8), creating a subtle gradient that accentuates texture and depth. The headband features a darker denim blue (#4C5A66), introducing contrast without overpowering the composition. Metallic accents, such as the silver hinges (#C3C4C7), highlight sophistication and precision. For a vibrant touch, the AppleCare+ badge uses a classic Apple red (#E50000) against a neutral light gray background (#F7F7F7), making it pop prominently while maintaining overall brand elegance.\n"
+}

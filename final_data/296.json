@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F8F5FD'/><rect x='0' y='700' width='1080' height='380' fill='#6A3D99' opacity='0.8'/><rect x='500' y='380' width='580' height='320' fill='#CEC0E4' opacity='0.8'/><circle cx='800' cy='180' r='120' fill='#CEC0E4' opacity='0.6'/><circle cx='180' cy='880' r='80' fill='#F8F5FD' opacity='0.3'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#E4D9F7' stroke-width='10' opacity='0.5'/><path d='M850 80 C920 120, 980 200, 1000 280' stroke='#A68AC0' stroke-width='5' opacity='0.6'/><path d='M80 780 C130 840, 200 880, 280 900' stroke='#A68AC0' stroke-width='5' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 54, "width": 612.2, "height": 135.6, "fill": "#4A2B75", "text": "PREMIUM", "fontSize": 120, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 54, "width": 456.8, "height": 135.6, "fill": "#4A2B75", "text": "SOUND", "fontSize": 120, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 310, "left": 58, "width": 1007.75, "height": 82.49, "fill": "#6A3D99", "text": "BOSE QUIET COMFORT", "fontSize": 73, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 430, "left": 63, "width": 302.58, "height": 174.02, "fill": "#4A2B75", "text": "\u2022 Active Noise Cancellation\n\u2022 Premium Comfort Design\n\u2022 24 Hour Battery Life\n\u2022 Deep Bass Sound", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 63, "width": 405.03, "height": 111.87, "fill": "#FFFFFF", "text": "$349.00", "fontSize": 99, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 63, "width": 200, "height": 60, "fill": "#F8F5FD", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 958, "left": 90, "width": 125.04, "height": 27.12, "fill": "#4A2B75", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 399.22499999999997, "left": 541.425, "width": 1087, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/4a3d17cd-b170-4427-9afa-1d22470e31f9_nobg_1087x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Go beyond the beat and take control of the sound that puts you on top of the world with Bose QuietComfort Wireless Noise Cancelling Headphones. Experience powerful high-fidelity audio with legendary noise cancellation in these wireless Bluetooth headphones that allow you to block everything out but the beat and control what you hear. These Bose wireless headphones feature new custom modes that give you the power to adjust noise cancellation based in the moment and the option to turn on Wind Block to tune out breezy environments. Or simply toggle your Bose over ear headphones between Quiet and Aware Modes for a quick change when the world calls for it. Adjustable EQ puts you in control of tuning your music and Spotify Tap starts your listening session at the push of a button on the side of the over the ear headphones. With up to 24 hours of battery life on a single charge, your Bluetooth headphones are ready for any adventure. Multi-point toggle lets you switch between multiple wireless connections on these around ear headphones without disconnecting and reconnecting each time. Plug in the optional audio cable with in-line microphone into these wireless headphones to make the headphones wired and use without a Bluetooth connection. The Bose Music app guides you through setup, lets you personalize settings, and keeps your headphones software up-to-date. Press play and take charge of your music with Bose QuietComfort Noise Cancelling Headphones. NOISE CANCELLING HEADPHONES: Effortlessly combines noise cancellation technology with passive features so you can shut off the outside world, quiet distractions, and take music beyond the beat COMFORTABLE HEADPHONES: Plush earcup cushions softly hug your ears, while a secure and comfortable padded band gently keeps your over ear headphones in place for those extra-long listening sessions 2 LISTENING MODES: These wireless Bluetooth headphones feature Quiet and Aware Modes that let you toggle between full noise cancelling or full awareness of your surroundings for seamless sound control HIGH-FIDELITY AUDIO/EQ CONTROL: Supercharge your favorite tracks with high-fidelity audio and Adjustable EQ that puts you in control of the bass, mid-range, and treble for unmatched bold sound ALL DAY BATTERY LIFE: Bose QuietComfort wireless headphones provide up to 24 hours of battery on a single charge, plus a 15-minute charge gives you up to 2.5 hours of additional play time WIRED HEADPHONES OPTION: Plug the included audio cable with in-line microphone into your Bose noise cancelling headphones to use them without a Bluetooth connection, or even when the battery is depleted MULTIPOINT BLUETOOTH HEADPHONES: Seamlessly stay connected to all your favorite devices using the multi-point toggle feature which allows you to switch devices without disconnecting and reconnecting each time BOSE APP: Download the Bose app to receive the latest software updates. Ensure optimal functionality and get access to all the latest features and cutting-edge tech. Brand - Bose ** Color - Chilled Lilac ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **", "price": "349.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/4a3d17cd-b170-4427-9afa-1d22470e31f9_nobg_1087x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0D4Z9HG1X", "layout": "split_vertical"}, "banner_details": "\nThis banner presents a modern and sleek product advertisement for high-end headphones. The composition is divided into two horizontal sections: the upper portion features a soft off-white background with a circular graphic and curved line, creating a sense of sophistication. The lower portion is a rich purple, enhancing contrast and drawing attention to the pricing and call-to-action. \n\nThe top portion features bold, uppercase text layers for the main headline (`heading_1`, `heading_2`) and a subheadline (`subheading`), all using deep purple tones for a clean and premium feel. A feature list (`description`) is placed underneath the subheadline to highlight product benefits in a minimalist font. The price layer (`price`) is prominently placed on the colored section in large white font. A call-to-action button (`cta_button`, `cta`) uses soft light-purple shades to stand out with legible dark-purple text. \n\nThe product image (`product_image`) is placed on the right, blending effectively with the color palette and enhancing focus on the item. Decorative circles and paths add visual interest without distracting from the messaging.\n\n**Color Palette:**\n- Background: #F8F5FD (Soft Lavender White)\n- Accent: #CEC0E4 (Light Lavender)\n- Primary Text: #4A2B75 (Deep Purple)\n- Highlight Section: #6A3D99 (Rich Purple with 0.8 opacity)\n- Button Background: #F8F5FD\n- Button Text: #4A2B75\n", "product_color": "  \nThe product image features a sleek, modern pair of Bose headphones in a soft lavender tone that suggests sophistication and calm. The color palette for an advertisement banner should incorporate soothing pastels and subtle gradients to reflect this elegance. The main color used is a pastel lavender (#D8CFE8), blending into lighter shades of soft lilac (#EDE6F3) on highlight areas and deeper purples (#A59ACB) around contours and shadowed parts, adding depth. The metallic accents and logo are rendered in a faint silver-gray (#C4C3D0), giving the headphones a polished and premium look. These colors blend harmoniously while maintaining high visibility\u2014ideal for minimalist, tech-focused ads.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F8F5FD'/><rect x='0' y='700' width='1080' height='380' fill='#6A3D99' opacity='0.8'/><rect x='500' y='380' width='580' height='320' fill='#CEC0E4' opacity='0.8'/><circle cx='800' cy='180' r='120' fill='#CEC0E4' opacity='0.6'/><circle cx='180' cy='880' r='80' fill='#F8F5FD' opacity='0.3'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#E4D9F7' stroke-width='10' opacity='0.5'/><path d='M850 80 C920 120, 980 200, 1000 280' stroke='#A68AC0' stroke-width='5' opacity='0.6'/><path d='M80 780 C130 840, 200 880, 280 900' stroke='#A68AC0' stroke-width='5' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 54,
+                "width": 612.2,
+                "height": 135.6,
+                "fill": "#4A2B75",
+                "text": "PREMIUM",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 54,
+                "width": 456.8,
+                "height": 135.6,
+                "fill": "#4A2B75",
+                "text": "SOUND",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 58,
+                "width": 1007.75,
+                "height": 82.49,
+                "fill": "#6A3D99",
+                "text": "BOSE QUIET COMFORT",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 63,
+                "width": 302.58,
+                "height": 174.02,
+                "fill": "#4A2B75",
+                "text": "\u2022 Active Noise Cancellation\n\u2022 Premium Comfort Design\n\u2022 24 Hour Battery Life\n\u2022 Deep Bass Sound",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 63,
+                "width": 405.03,
+                "height": 111.87,
+                "fill": "#FFFFFF",
+                "text": "$349.00",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 63,
+                "width": 200,
+                "height": 60,
+                "fill": "#F8F5FD",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 958,
+                "left": 90,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#4A2B75",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 399.22499999999997,
+                "left": 541.425,
+                "width": 489.15000000000003,
+                "height": 647.5500000000001,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/4a3d17cd-b170-4427-9afa-1d22470e31f9_nobg_1087x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Go beyond the beat and take control of the sound that puts you on top of the world with Bose QuietComfort Wireless Noise Cancelling Headphones. Experience powerful high-fidelity audio with legendary noise cancellation in these wireless Bluetooth headphones that allow you to block everything out but the beat and control what you hear. These Bose wireless headphones feature new custom modes that give you the power to adjust noise cancellation based in the moment and the option to turn on Wind Block to tune out breezy environments. Or simply toggle your Bose over ear headphones between Quiet and Aware Modes for a quick change when the world calls for it. Adjustable EQ puts you in control of tuning your music and Spotify Tap starts your listening session at the push of a button on the side of the over the ear headphones. With up to 24 hours of battery life on a single charge, your Bluetooth headphones are ready for any adventure. Multi-point toggle lets you switch between multiple wireless connections on these around ear headphones without disconnecting and reconnecting each time. Plug in the optional audio cable with in-line microphone into these wireless headphones to make the headphones wired and use without a Bluetooth connection. The Bose Music app guides you through setup, lets you personalize settings, and keeps your headphones software up-to-date. Press play and take charge of your music with Bose QuietComfort Noise Cancelling Headphones. NOISE CANCELLING HEADPHONES: Effortlessly combines noise cancellation technology with passive features so you can shut off the outside world, quiet distractions, and take music beyond the beat COMFORTABLE HEADPHONES: Plush earcup cushions softly hug your ears, while a secure and comfortable padded band gently keeps your over ear headphones in place for those extra-long listening sessions 2 LISTENING MODES: These wireless Bluetooth headphones feature Quiet and Aware Modes that let you toggle between full noise cancelling or full awareness of your surroundings for seamless sound control HIGH-FIDELITY AUDIO/EQ CONTROL: Supercharge your favorite tracks with high-fidelity audio and Adjustable EQ that puts you in control of the bass, mid-range, and treble for unmatched bold sound ALL DAY BATTERY LIFE: Bose QuietComfort wireless headphones provide up to 24 hours of battery on a single charge, plus a 15-minute charge gives you up to 2.5 hours of additional play time WIRED HEADPHONES OPTION: Plug the included audio cable with in-line microphone into your Bose noise cancelling headphones to use them without a Bluetooth connection, or even when the battery is depleted MULTIPOINT BLUETOOTH HEADPHONES: Seamlessly stay connected to all your favorite devices using the multi-point toggle feature which allows you to switch devices without disconnecting and reconnecting each time BOSE APP: Download the Bose app to receive the latest software updates. Ensure optimal functionality and get access to all the latest features and cutting-edge tech. Brand - Bose ** Color - Chilled Lilac ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **",
+            "price": "349.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/4a3d17cd-b170-4427-9afa-1d22470e31f9_nobg_1087x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0D4Z9HG1X",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner presents a modern and sleek product advertisement for high-end headphones. The composition is divided into two horizontal sections: the upper portion features a soft off-white background with a circular graphic and curved line, creating a sense of sophistication. The lower portion is a rich purple, enhancing contrast and drawing attention to the pricing and call-to-action. \n\nThe top portion features bold, uppercase text layers for the main headline (`heading_1`, `heading_2`) and a subheadline (`subheading`), all using deep purple tones for a clean and premium feel. A feature list (`description`) is placed underneath the subheadline to highlight product benefits in a minimalist font. The price layer (`price`) is prominently placed on the colored section in large white font. A call-to-action button (`cta_button`, `cta`) uses soft light-purple shades to stand out with legible dark-purple text. \n\nThe product image (`product_image`) is placed on the right, blending effectively with the color palette and enhancing focus on the item. Decorative circles and paths add visual interest without distracting from the messaging.\n\n**Color Palette:**\n- Background: #F8F5FD (Soft Lavender White)\n- Accent: #CEC0E4 (Light Lavender)\n- Primary Text: #4A2B75 (Deep Purple)\n- Highlight Section: #6A3D99 (Rich Purple with 0.8 opacity)\n- Button Background: #F8F5FD\n- Button Text: #4A2B75\n",
+    "product_color": "  \nThe product image features a sleek, modern pair of Bose headphones in a soft lavender tone that suggests sophistication and calm. The color palette for an advertisement banner should incorporate soothing pastels and subtle gradients to reflect this elegance. The main color used is a pastel lavender (#D8CFE8), blending into lighter shades of soft lilac (#EDE6F3) on highlight areas and deeper purples (#A59ACB) around contours and shadowed parts, adding depth. The metallic accents and logo are rendered in a faint silver-gray (#C4C3D0), giving the headphones a polished and premium look. These colors blend harmoniously while maintaining high visibility\u2014ideal for minimalist, tech-focused ads.  \n"
+}

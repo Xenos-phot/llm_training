@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#2A6E39'/><stop offset='100%' stop-color='#193C25'/></radialGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD700'/><stop offset='100%' stop-color='#FFA500'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='#FFFFFF' opacity='0.9' stroke='#FFD700' stroke-width='4'/><circle cx='540' cy='540' r='320' fill='none' stroke='#FFD700' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='400' r='130' fill='url(#accentGradient)'/><g opacity='0.2' fill='#FFD700'><circle cx='200' cy='200' r='10'/><circle cx='250' cy='300' r='15'/><circle cx='150' cy='350' r='8'/><circle cx='900' cy='200' r='12'/><circle cx='850' cy='150' r='8'/><circle cx='180' cy='800' r='15'/><circle cx='250' cy='900' r='10'/><circle cx='900' cy='850' r='15'/><circle cx='800' cy='900' r='10'/></g><path d='M200 750 L300 850' stroke='#FFD700' stroke-width='3' opacity='0.3'/><path d='M800 200 L900 100' stroke='#FFD700' stroke-width='3' opacity='0.3'/><path d='M150 400 C200 420, 250 380, 300 400' stroke='#FFD700' stroke-width='2' opacity='0.3' fill='none'/><path d='M780 800 C830 820, 880 780, 930 800' stroke='#FFD700' stroke-width='2' opacity='0.3' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 268.32, "width": 543.36, "height": 113, "fill": "#FFD700", "text": "TRAVEL SMART", "fontSize": 100, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 165, "left": 288.91999999999996, "width": 502.16, "height": 67.8, "fill": "#FFFFFF", "text": "THE CABIN PRO", "fontSize": 60, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 241.17000000000002, "left": 352.05, "width": 895, "height": 1423, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png", "id": "product_image"}, {"type": "text", "top": 354.8, "left": 758.88, "width": 182.24, "height": 90.4, "fill": "#193C25", "text": "$309", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 916.1, "left": 133.89499999999998, "width": 812.21, "height": 33.9, "fill": "#FFFFFF", "text": "\u2022 LAPTOP COMPARTMENT \u2022 USB CHARGING \u2022 TSA LOCK", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 970, "left": 430.0, "width": 220, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 986.44, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#193C25", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant **", "price": "309.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png", "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY", "layout": "circular_focus"}, "banner_details": "\nThe banner presents a bold and energetic promotional layout for a premium travel product. Set against a deep green radial gradient background (`#2A6E39` to `#193C25`), it incorporates a central white circular backdrop bordered with a vibrant yellow dashed ring, drawing focus to the product image (`product_image`) placed in the center. At the top, a loud call-to-action title (`heading`) in yellow captures attention, followed by a crisp white subheading (`subheading`) that reinforces the product line. The price tag (`price`) is emphasized in a bold font within a striking yellow-orange gradient circle. Key product features are listed in white (`description`) at the bottom, above a sunflower yellow rectangular CTA button (`cta_background`) with a clear dark green prompt (`cta`) to encourage user action. Subtle graphic accents and geometric embellishments boost the modern and tech-savvy appeal of the design.\n\n**Color Palette:**\n- Dark Forest Green: `#193C25`\n- Vibrant Yellow: `#FFD700`\n- Orange Gradient: `#FFA500` to `#FFD700`\n- White: `#FFFFFF`\n- Accent Green: `#2A6E39`\n", "product_color": "\nThe product image features a modern hard-shell suitcase in a stylish blend of deep green and vibrant yellow. The base color is a matte, textured olive green (#4A5C47), conveying durability and sophistication. Bright mustard yellow (#FCC72C) is strategically used along the zippers and the interior lining to provide a bold accent, creating a sharp contrast against the darker exterior. Black (#1D1D1D) is used subtly for handles and wheels, grounding the color scheme. The balance of earthy green and high-contrast yellow is both eye-catching and professional, making this palette ideal for a travel or lifestyle ad banner targeting young professionals.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#2A6E39'/><stop offset='100%' stop-color='#193C25'/></radialGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD700'/><stop offset='100%' stop-color='#FFA500'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='#FFFFFF' opacity='0.9' stroke='#FFD700' stroke-width='4'/><circle cx='540' cy='540' r='320' fill='none' stroke='#FFD700' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='400' r='130' fill='url(#accentGradient)'/><g opacity='0.2' fill='#FFD700'><circle cx='200' cy='200' r='10'/><circle cx='250' cy='300' r='15'/><circle cx='150' cy='350' r='8'/><circle cx='900' cy='200' r='12'/><circle cx='850' cy='150' r='8'/><circle cx='180' cy='800' r='15'/><circle cx='250' cy='900' r='10'/><circle cx='900' cy='850' r='15'/><circle cx='800' cy='900' r='10'/></g><path d='M200 750 L300 850' stroke='#FFD700' stroke-width='3' opacity='0.3'/><path d='M800 200 L900 100' stroke='#FFD700' stroke-width='3' opacity='0.3'/><path d='M150 400 C200 420, 250 380, 300 400' stroke='#FFD700' stroke-width='2' opacity='0.3' fill='none'/><path d='M780 800 C830 820, 880 780, 930 800' stroke='#FFD700' stroke-width='2' opacity='0.3' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 268.32,
+                "width": 543.36,
+                "height": 113,
+                "fill": "#FFD700",
+                "text": "TRAVEL SMART",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 165,
+                "left": 288.91999999999996,
+                "width": 502.16,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "THE CABIN PRO",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 241.17000000000002,
+                "left": 352.05,
+                "width": 375.9,
+                "height": 597.66,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 354.8,
+                "left": 758.88,
+                "width": 182.24,
+                "height": 90.4,
+                "fill": "#193C25",
+                "text": "$309",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 916.1,
+                "left": 133.89499999999998,
+                "width": 812.21,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "\u2022 LAPTOP COMPARTMENT \u2022 USB CHARGING \u2022 TSA LOCK",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 986.44,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#193C25",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant **",
+            "price": "309.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner presents a bold and energetic promotional layout for a premium travel product. Set against a deep green radial gradient background (`#2A6E39` to `#193C25`), it incorporates a central white circular backdrop bordered with a vibrant yellow dashed ring, drawing focus to the product image (`product_image`) placed in the center. At the top, a loud call-to-action title (`heading`) in yellow captures attention, followed by a crisp white subheading (`subheading`) that reinforces the product line. The price tag (`price`) is emphasized in a bold font within a striking yellow-orange gradient circle. Key product features are listed in white (`description`) at the bottom, above a sunflower yellow rectangular CTA button (`cta_background`) with a clear dark green prompt (`cta`) to encourage user action. Subtle graphic accents and geometric embellishments boost the modern and tech-savvy appeal of the design.\n\n**Color Palette:**\n- Dark Forest Green: `#193C25`\n- Vibrant Yellow: `#FFD700`\n- Orange Gradient: `#FFA500` to `#FFD700`\n- White: `#FFFFFF`\n- Accent Green: `#2A6E39`\n",
+    "product_color": "\nThe product image features a modern hard-shell suitcase in a stylish blend of deep green and vibrant yellow. The base color is a matte, textured olive green (#4A5C47), conveying durability and sophistication. Bright mustard yellow (#FCC72C) is strategically used along the zippers and the interior lining to provide a bold accent, creating a sharp contrast against the darker exterior. Black (#1D1D1D) is used subtly for handles and wheels, grounding the color scheme. The balance of earthy green and high-contrast yellow is both eye-catching and professional, making this palette ideal for a travel or lifestyle ad banner targeting young professionals.\n"
+}

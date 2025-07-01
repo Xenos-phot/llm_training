@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a2a3a'/><stop offset='100%' stop-color='#0a1525'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#3a5a7a'/><stop offset='100%' stop-color='#2a4a6a'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><g opacity='0.1'><rect x='0' y='0' width='360' height='1080' fill='#ffffff'/><rect x='720' y='0' width='360' height='1080' fill='#ffffff'/></g><g opacity='0.05'><circle cx='540' cy='200' r='300' fill='#ffffff'/><circle cx='540' cy='880' r='300' fill='#ffffff'/></g><g opacity='0.7'><rect x='0' y='220' width='1080' height='4' fill='#3a5a7a'/><rect x='0' y='860' width='1080' height='4' fill='#3a5a7a'/></g><path d='M0,0 L100,0 L80,1080 L0,1080 Z' fill='url(#accentGrad)'/><path d='M980,0 L1080,0 L1080,1080 L1000,1080 Z' fill='url(#accentGrad)'/><g opacity='0.3'><rect x='20' y='20' width='20' height='20' fill='#ffffff'/><rect x='20' y='60' width='20' height='20' fill='#ffffff'/><rect x='20' y='100' width='20' height='20' fill='#ffffff'/><rect x='1040' y='20' width='20' height='20' fill='#ffffff'/><rect x='1040' y='60' width='20' height='20' fill='#ffffff'/><rect x='1040' y='100' width='20' height='20' fill='#ffffff'/><rect x='20' y='960' width='20' height='20' fill='#ffffff'/><rect x='20' y='1000' width='20' height='20' fill='#ffffff'/><rect x='20' y='1040' width='20' height='20' fill='#ffffff'/><rect x='1040' y='960' width='20' height='20' fill='#ffffff'/><rect x='1040' y='1000' width='20' height='20' fill='#ffffff'/><rect x='1040' y='1040' width='20' height='20' fill='#ffffff'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 127.95999999999998, "width": 824.08, "height": 90.4, "fill": "#FFFFFF", "text": "WEST BEND REFRIGERATOR", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 301.95, "width": 476.1, "height": 40.68, "fill": "#A3C2E6", "text": "Slim Design Apartment Fridge", "fontSize": 36, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 260.27, "left": 435.31, "width": 551, "height": 1367, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/GybruA-7H8AnBcyQrG1D__551x1367.png", "id": "product_image"}, {"type": "text", "top": 800, "left": 144.39499999999998, "width": 791.21, "height": 33.9, "fill": "#A3C2E6", "text": "7.4 cu.ft Capacity \u2022 Adjustable Shelves \u2022 Reversible Doors", "fontSize": 30, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 870, "left": 410.6, "width": 258.8, "height": 90.4, "fill": "#FFFFFF", "text": "$1000", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 970, "left": 440.0, "width": 200, "height": 60, "fill": "#3a5a7a", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 985, "left": 467.13, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "West Bend WBRT73B Apartment Refrigerator Freestanding Slim Design Full Fridge, 7.4 cu.ft, Black", "description": "Store your food in the compact, 7.4 cubic foot apartment sized refrigerator from West Bend. The perfect space saving fridge for the studio apartment, game room, tiny home, rental room, condo, vacation home, or anywhere you need a small refrigerator. This fridge's compact design and reversible two-door construction are made to accommodate any space. It features adjustable and removable glass shelves that give ample space. This fridge also includes adjustable and removable door bins, a lower door rack, a see through crisper with a glass cover, and an ice cube tray. Select the right settings for your items with the full range temperature control.", "price": "$1000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/GybruA-7H8AnBcyQrG1D__551x1367.png", "marketplace_url": "https://www.amazon.com/West-Bend-WBRT73B-Refrigerator-Freestanding/dp/B0C1PL78ZH/ref=sr_1_5?crid=FX5C4PHQRZTK&dib=eyJ2IjoiMSJ9.2Jljuobp68MsDQEJaoilD5-01yMI-O8ALuwFCbQY8svp50NVomFEDWvQg9OvT9i116E1UnmD4o_RU6W51ekRPtxDJ33ng5bX-OoHkJJzckwohcB--G6rzOij9VTiGTPfVMuQCyyvXDZbKQEn1ZLxhzJTmQC37MtGS-VlgHaS5dV7asFG1Nj4KBTOxAdlkTpvo5Oi8CTCjadRIyTJX8o1OxWVzbYbDUcTsCP9W1cua3s.NT_ANZ6r8IttkLFwJmenjJOIVmf5hejj6BH9kC9JaQY&dib_tag=se&keywords=refrigerator&qid=1745829451&sprefix=refrigerator%2Caps%2C362&sr=8-5&th=1", "layout": "centered_hero"}, "banner_details": "\nThis banner showcases a modern and professional product advertisement for a refrigerator. It features a bold heading (`heading`) centered at the top in all caps, backed by a dark gradient background. Below the heading is a secondary line (`subheading`) in a light blue tone, providing a brief product description. At the center, a product image (`product_image`) takes the focus. Near the bottom, a line of features (`description`) is displayed in a subdued light shade, followed by a prominent price (`price`) in white, large font. A rectangular call-to-action button (`cta_button`) with the label `cta` sits below the price, prompting conversion. The layout is neatly separated by horizontal accent lines.\n\n**Color Palette**:\n- Dark Navy: `#0a1525`, `#1a2a3a`\n- Accent Blue: `#3a5a7a`\n- Light Text Blue: `#A3C2E6`\n- White: `#FFFFFF`\n\n", "product_color": "  \nThe product image features a sleek, minimalist design with dominant tones of glossy black, emphasizing elegance and sophistication. The deep black surface (Hex #000000) is subtly accented with gradations of charcoal gray (Hex #1A1A1A) along the edges and handle, creating a soft blending effect that enhances the refrigerator's premium metallic finish. The brand logo adds a visual contrast in bright white (Hex #FFFFFF), making it pop against the dark background. This contrast highlights the product\u2019s modern appeal. An ideal color palette for an advertisement banner includes: Jet Black (#000000), Charcoal Gray (#1A1A1A), Silver Gray (#C0C0C0), and Bright White (#FFFFFF).  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a2a3a'/><stop offset='100%' stop-color='#0a1525'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#3a5a7a'/><stop offset='100%' stop-color='#2a4a6a'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><g opacity='0.1'><rect x='0' y='0' width='360' height='1080' fill='#ffffff'/><rect x='720' y='0' width='360' height='1080' fill='#ffffff'/></g><g opacity='0.05'><circle cx='540' cy='200' r='300' fill='#ffffff'/><circle cx='540' cy='880' r='300' fill='#ffffff'/></g><g opacity='0.7'><rect x='0' y='220' width='1080' height='4' fill='#3a5a7a'/><rect x='0' y='860' width='1080' height='4' fill='#3a5a7a'/></g><path d='M0,0 L100,0 L80,1080 L0,1080 Z' fill='url(#accentGrad)'/><path d='M980,0 L1080,0 L1080,1080 L1000,1080 Z' fill='url(#accentGrad)'/><g opacity='0.3'><rect x='20' y='20' width='20' height='20' fill='#ffffff'/><rect x='20' y='60' width='20' height='20' fill='#ffffff'/><rect x='20' y='100' width='20' height='20' fill='#ffffff'/><rect x='1040' y='20' width='20' height='20' fill='#ffffff'/><rect x='1040' y='60' width='20' height='20' fill='#ffffff'/><rect x='1040' y='100' width='20' height='20' fill='#ffffff'/><rect x='20' y='960' width='20' height='20' fill='#ffffff'/><rect x='20' y='1000' width='20' height='20' fill='#ffffff'/><rect x='20' y='1040' width='20' height='20' fill='#ffffff'/><rect x='1040' y='960' width='20' height='20' fill='#ffffff'/><rect x='1040' y='1000' width='20' height='20' fill='#ffffff'/><rect x='1040' y='1040' width='20' height='20' fill='#ffffff'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 127.95999999999998,
+                "width": 824.08,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "WEST BEND REFRIGERATOR",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 301.95,
+                "width": 476.1,
+                "height": 40.68,
+                "fill": "#A3C2E6",
+                "text": "Slim Design Apartment Fridge",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 260.27,
+                "left": 435.31,
+                "width": 209.38,
+                "height": 519.46,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/GybruA-7H8AnBcyQrG1D__551x1367.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 144.39499999999998,
+                "width": 791.21,
+                "height": 33.9,
+                "fill": "#A3C2E6",
+                "text": "7.4 cu.ft Capacity \u2022 Adjustable Shelves \u2022 Reversible Doors",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 870,
+                "left": 410.6,
+                "width": 258.8,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$1000",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#3a5a7a",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 985,
+                "left": 467.13,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "West Bend WBRT73B Apartment Refrigerator Freestanding Slim Design Full Fridge, 7.4 cu.ft, Black",
+            "description": "Store your food in the compact, 7.4 cubic foot apartment sized refrigerator from West Bend. The perfect space saving fridge for the studio apartment, game room, tiny home, rental room, condo, vacation home, or anywhere you need a small refrigerator. This fridge's compact design and reversible two-door construction are made to accommodate any space. It features adjustable and removable glass shelves that give ample space. This fridge also includes adjustable and removable door bins, a lower door rack, a see through crisper with a glass cover, and an ice cube tray. Select the right settings for your items with the full range temperature control.",
+            "price": "$1000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/GybruA-7H8AnBcyQrG1D__551x1367.png",
+        "marketplace_url": "https://www.amazon.com/West-Bend-WBRT73B-Refrigerator-Freestanding/dp/B0C1PL78ZH/ref=sr_1_5?crid=FX5C4PHQRZTK&dib=eyJ2IjoiMSJ9.2Jljuobp68MsDQEJaoilD5-01yMI-O8ALuwFCbQY8svp50NVomFEDWvQg9OvT9i116E1UnmD4o_RU6W51ekRPtxDJ33ng5bX-OoHkJJzckwohcB--G6rzOij9VTiGTPfVMuQCyyvXDZbKQEn1ZLxhzJTmQC37MtGS-VlgHaS5dV7asFG1Nj4KBTOxAdlkTpvo5Oi8CTCjadRIyTJX8o1OxWVzbYbDUcTsCP9W1cua3s.NT_ANZ6r8IttkLFwJmenjJOIVmf5hejj6BH9kC9JaQY&dib_tag=se&keywords=refrigerator&qid=1745829451&sprefix=refrigerator%2Caps%2C362&sr=8-5&th=1",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner showcases a modern and professional product advertisement for a refrigerator. It features a bold heading (`heading`) centered at the top in all caps, backed by a dark gradient background. Below the heading is a secondary line (`subheading`) in a light blue tone, providing a brief product description. At the center, a product image (`product_image`) takes the focus. Near the bottom, a line of features (`description`) is displayed in a subdued light shade, followed by a prominent price (`price`) in white, large font. A rectangular call-to-action button (`cta_button`) with the label `cta` sits below the price, prompting conversion. The layout is neatly separated by horizontal accent lines.\n\n**Color Palette**:\n- Dark Navy: `#0a1525`, `#1a2a3a`\n- Accent Blue: `#3a5a7a`\n- Light Text Blue: `#A3C2E6`\n- White: `#FFFFFF`\n\n",
+    "product_color": "  \nThe product image features a sleek, minimalist design with dominant tones of glossy black, emphasizing elegance and sophistication. The deep black surface (Hex #000000) is subtly accented with gradations of charcoal gray (Hex #1A1A1A) along the edges and handle, creating a soft blending effect that enhances the refrigerator's premium metallic finish. The brand logo adds a visual contrast in bright white (Hex #FFFFFF), making it pop against the dark background. This contrast highlights the product\u2019s modern appeal. An ideal color palette for an advertisement banner includes: Jet Black (#000000), Charcoal Gray (#1A1A1A), Silver Gray (#C0C0C0), and Bright White (#FFFFFF).  \n"
+}

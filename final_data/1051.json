@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#131313'/><stop offset='80%' style='stop-color:#232323'/></linearGradient><linearGradient id='diagGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#CE7B12'/><stop offset='100%' style='stop-color:#F0A945'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='url(#diagGrad)' opacity='0.7'/><circle cx='880' cy='200' r='100' fill='#CE7B12' opacity='0.15'/><circle cx='900' cy='240' r='50' fill='#F0A945' opacity='0.2'/><g transform='rotate(-30, 540, 540)'><rect x='200' y='200' width='4' height='100' fill='#ffffff' opacity='0.1'/><rect x='800' y='600' width='4' height='100' fill='#ffffff' opacity='0.1'/></g><g fill='#ffffff' opacity='0.1'><circle cx='150' cy='750' r='3'/><circle cx='180' cy='780' r='3'/><circle cx='210' cy='810' r='3'/><circle cx='240' cy='840' r='3'/><circle cx='270' cy='870' r='3'/><circle cx='300' cy='900' r='3'/></g></svg>", "id": "background"}, {"type": "text", "top": 65, "left": 50, "width": 536.69, "height": 146.9, "fill": "#ffffff", "text": "APPLE", "fontSize": 130, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 195, "left": 50, "width": 446.95, "height": 124.3, "fill": "#F0A945", "text": "WATCH", "fontSize": 110, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 325, "left": 50, "width": 441.98, "height": 67.8, "fill": "#E0E0E0", "text": "FIRE FLOWER", "fontSize": 60, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 395, "left": 50, "width": 459.83, "height": 50.85, "fill": "#E0E0E0", "text": "PREMIUM EDITION", "fontSize": 45, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subtitle"}, {"type": "text", "top": 495, "left": 50, "width": 390.28, "height": 205.09, "fill": "#ffffff", "text": "\u2022 Space Gray Aluminum Case\n\u2022 Retina OLED Display\n\u2022 Dynamic Fire Flower Face\n\u2022 Water-Resistant Design", "fontSize": 33, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 750, "left": 50, "width": 459.4, "height": 113, "fill": "#F0A945", "text": "\u20b939,999", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 50, "width": 220, "height": 70, "fill": "#F0A945", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 918, "left": 103, "width": 110.37, "height": 33.9, "fill": "#000000", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Bayon-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 260, "left": 600, "width": 559, "height": 1038, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/9_PqkDTW4Cuuk6tKULIE7_559x1038.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple Watch - Elegant Fire Flower Face Edition | Premium Smart Timepiece", "description": "\u2022 Stunning Fire Flower watch face design with dynamic golden hues\n\u2022 Premium Space Gray aluminum case with sleek black finish\n\u2022 High-resolution Retina OLED display for vibrant visuals\n\u2022 Durable scratch-resistant glass screen\n\u2022 Comfortable and lightweight black sport band\n\u2022 Water-resistant design for everyday use\n\u2022 Digital crown for precise navigation\n\u2022 Customizable watch face complications\n\u2022 Perfect blend of style and smart technology\n\u2022 Compatible with all Apple Watch features and apps", "price": "\u20b90"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/9_PqkDTW4Cuuk6tKULIE7_559x1038.png", "marketplace_url": "blob:https://feature3-studio.phot.ai/8149e27f-b7a2-4d5d-a4e4-bf830d4712f3", "layout": "diagonal_split"}, "banner_details": "\nThis promotional banner features a tech-focused, modern aesthetic with a geometric, high-contrast layout showcasing a smart wearable product. The left half of the background consists of a dark diagonal gradient transitioning from near-black to charcoal, while the bottom-right triangle displays a rich amber-gold tone, adding dynamic interplay. A prominent image of the product is placed on the right for visual focus. The text layers\u2014`heading`, `subheading`, `tagline`, `subtitle`, `description`, `price`, and `cta`\u2014are well-organized and hierarchically styled using bold mono and display fonts to highlight brand, product name, and premium features. The banner concludes with a strong call-to-action button (`cta_button`) aligned under the pricing info. Decorative circular and bar elements subtly enhance the background. \n\n**Color Palette:**\n- Jet Black: #131313  \n- Charcoal: #232323  \n- Amber Orange: #F0A945  \n- Burnt Orange: #CE7B12  \n- Light Gray: #E0E0E0  \n- Pure White: #FFFFFF  \n- Accent Black (CTA text): #000000\n", "product_color": "  \nThe product image showcases a sleek smartwatch with a predominantly dark aesthetic, creating a modern and luxurious vibe. The primary color palette includes jet black (#000000) for the strap and casing, and deep charcoal gray (#1A1A1A) for subtle contrast. The watch face features captivating golden-orange light patterns (#D2691E) that radiate like molten reflections, blended seamlessly into the black background to create depth. This fiery burst is complemented by white clock hands (#FFFFFF), making them stand out for clarity. The palette balances dark elegance with vibrant highlights, ideal for banners emphasizing innovation, premium feel, and futuristic design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#131313'/><stop offset='80%' style='stop-color:#232323'/></linearGradient><linearGradient id='diagGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#CE7B12'/><stop offset='100%' style='stop-color:#F0A945'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='url(#diagGrad)' opacity='0.7'/><circle cx='880' cy='200' r='100' fill='#CE7B12' opacity='0.15'/><circle cx='900' cy='240' r='50' fill='#F0A945' opacity='0.2'/><g transform='rotate(-30, 540, 540)'><rect x='200' y='200' width='4' height='100' fill='#ffffff' opacity='0.1'/><rect x='800' y='600' width='4' height='100' fill='#ffffff' opacity='0.1'/></g><g fill='#ffffff' opacity='0.1'><circle cx='150' cy='750' r='3'/><circle cx='180' cy='780' r='3'/><circle cx='210' cy='810' r='3'/><circle cx='240' cy='840' r='3'/><circle cx='270' cy='870' r='3'/><circle cx='300' cy='900' r='3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 65,
+                "left": 50,
+                "width": 536.69,
+                "height": 146.9,
+                "fill": "#ffffff",
+                "text": "APPLE",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 195,
+                "left": 50,
+                "width": 446.95,
+                "height": 124.3,
+                "fill": "#F0A945",
+                "text": "WATCH",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 325,
+                "left": 50,
+                "width": 441.98,
+                "height": 67.8,
+                "fill": "#E0E0E0",
+                "text": "FIRE FLOWER",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 395,
+                "left": 50,
+                "width": 459.83,
+                "height": 50.85,
+                "fill": "#E0E0E0",
+                "text": "PREMIUM EDITION",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subtitle"
+            },
+            {
+                "type": "text",
+                "top": 495,
+                "left": 50,
+                "width": 390.28,
+                "height": 205.09,
+                "fill": "#ffffff",
+                "text": "\u2022 Space Gray Aluminum Case\n\u2022 Retina OLED Display\n\u2022 Dynamic Fire Flower Face\n\u2022 Water-Resistant Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 50,
+                "width": 459.4,
+                "height": 113,
+                "fill": "#F0A945",
+                "text": "\u20b939,999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#F0A945",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 918,
+                "left": 103,
+                "width": 110.37,
+                "height": 33.9,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "Bayon-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 260,
+                "left": 600,
+                "width": 307.45000000000005,
+                "height": 570.9000000000001,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/9_PqkDTW4Cuuk6tKULIE7_559x1038.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple Watch - Elegant Fire Flower Face Edition | Premium Smart Timepiece",
+            "description": "\u2022 Stunning Fire Flower watch face design with dynamic golden hues\n\u2022 Premium Space Gray aluminum case with sleek black finish\n\u2022 High-resolution Retina OLED display for vibrant visuals\n\u2022 Durable scratch-resistant glass screen\n\u2022 Comfortable and lightweight black sport band\n\u2022 Water-resistant design for everyday use\n\u2022 Digital crown for precise navigation\n\u2022 Customizable watch face complications\n\u2022 Perfect blend of style and smart technology\n\u2022 Compatible with all Apple Watch features and apps",
+            "price": "\u20b90"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683d4a30bccde7044da03670/9_PqkDTW4Cuuk6tKULIE7_559x1038.png",
+        "marketplace_url": "blob:https://feature3-studio.phot.ai/8149e27f-b7a2-4d5d-a4e4-bf830d4712f3",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis promotional banner features a tech-focused, modern aesthetic with a geometric, high-contrast layout showcasing a smart wearable product. The left half of the background consists of a dark diagonal gradient transitioning from near-black to charcoal, while the bottom-right triangle displays a rich amber-gold tone, adding dynamic interplay. A prominent image of the product is placed on the right for visual focus. The text layers\u2014`heading`, `subheading`, `tagline`, `subtitle`, `description`, `price`, and `cta`\u2014are well-organized and hierarchically styled using bold mono and display fonts to highlight brand, product name, and premium features. The banner concludes with a strong call-to-action button (`cta_button`) aligned under the pricing info. Decorative circular and bar elements subtly enhance the background. \n\n**Color Palette:**\n- Jet Black: #131313  \n- Charcoal: #232323  \n- Amber Orange: #F0A945  \n- Burnt Orange: #CE7B12  \n- Light Gray: #E0E0E0  \n- Pure White: #FFFFFF  \n- Accent Black (CTA text): #000000\n",
+    "product_color": "  \nThe product image showcases a sleek smartwatch with a predominantly dark aesthetic, creating a modern and luxurious vibe. The primary color palette includes jet black (#000000) for the strap and casing, and deep charcoal gray (#1A1A1A) for subtle contrast. The watch face features captivating golden-orange light patterns (#D2691E) that radiate like molten reflections, blended seamlessly into the black background to create depth. This fiery burst is complemented by white clock hands (#FFFFFF), making them stand out for clarity. The palette balances dark elegance with vibrant highlights, ideal for banners emphasizing innovation, premium feel, and futuristic design.  \n"
+}

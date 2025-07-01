@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#6A1B9A'/><circle cx='540' cy='400' r='500' fill='#8E24AA' opacity='0.7'/><circle cx='200' cy='950' r='300' fill='#4A148C' opacity='0.5'/><circle cx='850' cy='950' r='350' fill='#7B1FA2' opacity='0.6'/><circle cx='150' cy='150' r='100' fill='#00C853' opacity='0.3'/><circle cx='950' cy='250' r='120' fill='#00E676' opacity='0.3'/><g opacity='0.4'><circle cx='200' cy='400' r='30' fill='#FFFFFF'/><circle cx='350' cy='200' r='25' fill='#FFFFFF'/><circle cx='700' cy='150' r='40' fill='#FFFFFF'/><circle cx='850' cy='350' r='35' fill='#FFFFFF'/><circle cx='400' cy='500' r='20' fill='#FFFFFF'/><circle cx='600' cy='300' r='15' fill='#FFFFFF'/><circle cx='750' cy='450' r='30' fill='#FFFFFF'/><circle cx='300' cy='650' r='35' fill='#FFFFFF'/><circle cx='500' cy='750' r='25' fill='#FFFFFF'/><circle cx='700' cy='650' r='30' fill='#FFFFFF'/><circle cx='850' cy='800' r='40' fill='#FFFFFF'/><circle cx='200' cy='800' r='25' fill='#FFFFFF'/></g></svg>", "id": "background"}, {"type": "text", "top": 65, "left": 310.385, "width": 459.23, "height": 113, "fill": "#FFFFFF", "text": "GAZILLION", "fontSize": 100, "fontFamily": "Luckiest Guy-Regular", "textAlign": "center", "id": "heading_1"}, {"type": "text", "top": 165, "left": 345.615, "width": 388.77, "height": 113, "fill": "#AEEA00", "text": "BUBBLES", "fontSize": 100, "fontFamily": "Luckiest Guy-Regular", "textAlign": "center", "id": "heading_2"}, {"type": "text", "top": 280, "left": 219.615, "width": 640.77, "height": 56.5, "fill": "#FFFFFF", "text": "PREMIUM BUBBLE SOLUTION", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 356.57000000000005, "left": 364.59, "width": 1058, "height": 1431, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png", "id": "product_image"}, {"type": "text", "top": 833.5, "left": 383.28499999999997, "width": 313.43, "height": 113, "fill": "#AEEA00", "text": "$5.86", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950.5, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#7B1FA2", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 968.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "This top secret &ldquo;super solution&rdquo; has been formulated to create the biggest, brightest, most colorful bubbles on earth! You&rsquo;ll be ready for hours and hours of fun with your favorite gazillion products with this oversized solution refill bottle. This premium solution is eco-friendly, safe, non-toxic, and will not stain clothing or furniture. With Gazillion Bubbles, you&rsquo;ll run out of breath before you run out of bubbles! Great Bubbles for Kids.  Appropriate for ages 3 years and up. Multi-color.", "price": "5.86"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png", "marketplace_url": "https://www.walmart.com/ip/Gazillion-Bubbles-Premium-Bubble-Solution-4-Liter/43163825", "layout": "minimalist_center"}, "banner_details": "\nThis vibrant promotional banner features a playful and energetic layout designed for a children's bubble product. At the top, two bold headline text layers (\"heading_1\" and \"heading_2\") use large, all-caps fonts with contrasting colors\u2014white and bright lime green\u2014creating immediate visual impact. Below, a smaller subheading (\"subheading\") presents an enticing tagline in a clean, modern white font. The central element is a product image (\"product_image\") prominently centered, drawing attention with its bright green color. A bold price tag (\"price\") in lime green stands below, paired with a vivid call-to-action (\"cta\") in white over a deep purple rectangle (\"cta_background\").\n\n**Color Palette:**\n- Background Purple: #6A1B9A  \n- Headline White: #FFFFFF  \n- Highlight Lime Green: #AEEA00  \n- Deep CTA Purple: #7B1FA2  \n- Accent Circles: Various shades of green, purple, white with opacities between 0.3 and 0.7\n", "product_color": "\nThe product image uses a playful, vibrant color palette to attract attention and convey fun. The primary base color is a bright translucent green (#7EF07E) used for the bottle, creating a fresh and energetic vibe. The label features a vivid mix of purple (#8B4CD8) and yellow (#FFD700) as highlights, making the \"Gazillion Bubbles\" text pop. The letters are bordered with green (#70C242), orange (#FF8A00), and blue-to-purple blends (#5941A9), adding depth. Accent colors from the bubbles include soft pastels like light blue (#ADD8E6) and lavender (#D8B7F2), blending fluidly into the background for a whimsical, dynamic composition.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#6A1B9A'/><circle cx='540' cy='400' r='500' fill='#8E24AA' opacity='0.7'/><circle cx='200' cy='950' r='300' fill='#4A148C' opacity='0.5'/><circle cx='850' cy='950' r='350' fill='#7B1FA2' opacity='0.6'/><circle cx='150' cy='150' r='100' fill='#00C853' opacity='0.3'/><circle cx='950' cy='250' r='120' fill='#00E676' opacity='0.3'/><g opacity='0.4'><circle cx='200' cy='400' r='30' fill='#FFFFFF'/><circle cx='350' cy='200' r='25' fill='#FFFFFF'/><circle cx='700' cy='150' r='40' fill='#FFFFFF'/><circle cx='850' cy='350' r='35' fill='#FFFFFF'/><circle cx='400' cy='500' r='20' fill='#FFFFFF'/><circle cx='600' cy='300' r='15' fill='#FFFFFF'/><circle cx='750' cy='450' r='30' fill='#FFFFFF'/><circle cx='300' cy='650' r='35' fill='#FFFFFF'/><circle cx='500' cy='750' r='25' fill='#FFFFFF'/><circle cx='700' cy='650' r='30' fill='#FFFFFF'/><circle cx='850' cy='800' r='40' fill='#FFFFFF'/><circle cx='200' cy='800' r='25' fill='#FFFFFF'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 65,
+                "left": 310.385,
+                "width": 459.23,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "GAZILLION",
+                "fontFamily": "Luckiest Guy-Regular",
+                "textAlign": "center",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 165,
+                "left": 345.615,
+                "width": 388.77,
+                "height": 113,
+                "fill": "#AEEA00",
+                "text": "BUBBLES",
+                "fontFamily": "Luckiest Guy-Regular",
+                "textAlign": "center",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 219.615,
+                "width": 640.77,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM BUBBLE SOLUTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 356.57000000000005,
+                "left": 364.59,
+                "width": 317.4,
+                "height": 429.3,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 833.5,
+                "left": 383.28499999999997,
+                "width": 313.43,
+                "height": 113,
+                "fill": "#AEEA00",
+                "text": "$5.86",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950.5,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#7B1FA2",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 968.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "This top secret &ldquo;super solution&rdquo; has been formulated to create the biggest, brightest, most colorful bubbles on earth! You&rsquo;ll be ready for hours and hours of fun with your favorite gazillion products with this oversized solution refill bottle. This premium solution is eco-friendly, safe, non-toxic, and will not stain clothing or furniture. With Gazillion Bubbles, you&rsquo;ll run out of breath before you run out of bubbles! Great Bubbles for Kids.  Appropriate for ages 3 years and up. Multi-color.",
+            "price": "5.86"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0a31028a-6882-4636-9cb7-d9f0d44e1b34_nobg_1058x1431.png",
+        "marketplace_url": "https://www.walmart.com/ip/Gazillion-Bubbles-Premium-Bubble-Solution-4-Liter/43163825",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis vibrant promotional banner features a playful and energetic layout designed for a children's bubble product. At the top, two bold headline text layers (\"heading_1\" and \"heading_2\") use large, all-caps fonts with contrasting colors\u2014white and bright lime green\u2014creating immediate visual impact. Below, a smaller subheading (\"subheading\") presents an enticing tagline in a clean, modern white font. The central element is a product image (\"product_image\") prominently centered, drawing attention with its bright green color. A bold price tag (\"price\") in lime green stands below, paired with a vivid call-to-action (\"cta\") in white over a deep purple rectangle (\"cta_background\").\n\n**Color Palette:**\n- Background Purple: #6A1B9A  \n- Headline White: #FFFFFF  \n- Highlight Lime Green: #AEEA00  \n- Deep CTA Purple: #7B1FA2  \n- Accent Circles: Various shades of green, purple, white with opacities between 0.3 and 0.7\n",
+    "product_color": "\nThe product image uses a playful, vibrant color palette to attract attention and convey fun. The primary base color is a bright translucent green (#7EF07E) used for the bottle, creating a fresh and energetic vibe. The label features a vivid mix of purple (#8B4CD8) and yellow (#FFD700) as highlights, making the \"Gazillion Bubbles\" text pop. The letters are bordered with green (#70C242), orange (#FF8A00), and blue-to-purple blends (#5941A9), adding depth. Accent colors from the bubbles include soft pastels like light blue (#ADD8E6) and lavender (#D8B7F2), blending fluidly into the background for a whimsical, dynamic composition.\n"
+}

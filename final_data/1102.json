@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0d2842'/><stop offset='100%' style='stop-color:#0a1c30'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#d8e0e8'/><stop offset='100%' style='stop-color:#b0c4d8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080,0 L520,0 L1080,600 Z' fill='url(#bg2)'/><path d='M1080,600 L400,1080 L1080,1080 Z' fill='url(#bg2)'/><g opacity='0.15' fill='#ffffff'><path d='M100,200 L120,240 L160,240 L130,270 L140,320 L100,290 L60,320 L70,270 L40,240 L80,240 Z'/><path d='M180,900 L190,920 L210,920 L195,935 L200,960 L180,945 L160,960 L165,935 L150,920 L170,920 Z'/><path d='M240,600 L250,620 L270,620 L255,635 L260,660 L240,645 L220,660 L225,635 L210,620 L230,620 Z'/></g><path d='M0,0 L1080,1080' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M0,540 L1080,540' stroke='#ffffff' stroke-width='1' opacity='0.05'/><path d='M540,0 L540,1080' stroke='#ffffff' stroke-width='1' opacity='0.05'/><circle cx='1040' cy='40' r='200' fill='none' stroke='#b0c4d8' stroke-width='3' opacity='0.2'/><circle cx='40' cy='1040' r='150' fill='none' stroke='#ffffff' stroke-width='2' opacity='0.1'/><path d='M950,100 C1010,120 1060,180 1080,240' stroke='#ffffff' stroke-width='3' opacity='0.1' fill='none'/><path d='M100,950 C120,1010 180,1060 240,1080' stroke='#ffffff' stroke-width='3' opacity='0.1' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 557.06, "height": 135.6, "fill": "#e0e8f0", "text": "NAUTICAL", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 190, "left": 50, "width": 483.8, "height": 135.6, "fill": "#e0e8f0", "text": "ANCHOR", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 340, "left": 50, "width": 656.96, "height": 67.8, "fill": "#90b0d0", "text": "PREMIUM PENDANT", "fontSize": 60, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 425, "left": 50, "width": 320, "height": 2, "fill": "#90b0d0", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 450, "left": 50, "width": 511.37, "height": 176.28, "fill": "#e0e8f0", "text": "\u2022 High-quality stainless steel construction\n\u2022 Classic maritime design with rope detail\n\u2022 Water-resistant and built to last\n\u2022 Perfect for everyday wear or occasions", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 680, "left": 50, "width": 384.23, "height": 113, "fill": "#ffffff", "text": "$49.95", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 820, "left": 50, "width": 200, "height": 60, "fill": "#90b0d0", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 838, "left": 87, "width": 125.04, "height": 27.12, "fill": "#0d2842", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 422, "left": 264, "width": 953, "height": 431, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681447b0496ed45824f29144/R4wqfRWt9j7DwmYLzDX1R_953x431.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Nautical Anchor Pendant - Elegant Maritime Statement Necklace", "description": "\u2022 \u2728 High-quality stainless steel construction - Tarnish and rust-resistant\n\u2022 \u2693 Classic maritime anchor design with sophisticated rope detail\n\u2022 \ud83d\udccf Perfect size pendant for everyday wear or special occasions\n\u2022 \u26d3\ufe0f Durable box chain included - Secure and stylish\n\u2022 \u2705 High-polish mirror finish for lasting brilliance\n\u2022 \ud83c\udf81 Ideal gift for sailors, naval enthusiasts, or maritime fashion lovers\n\u2022 \ud83d\udcaa Water-resistant and built to last\n\u2022 \ud83c\udff7\ufe0f Unisex design suitable for all styles\n\u2022 \ud83d\udd28 Expertly crafted with attention to detail\n\u2022 \ud83d\udce6 Comes in elegant gift packaging", "price": "$1"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681447b0496ed45824f29144/R4wqfRWt9j7DwmYLzDX1R_953x431.png", "marketplace_url": "blob:https://studio.phot.ai/16d2439c-f2b2-42ed-90df-a66cf786fd77", "layout": "diagonal_split"}, "banner_details": "\nThe banner presents a clean and modern product advertisement for a jewelry item. It is divided diagonally into two contrasting backgrounds: a deep navy gradient and a soft blue-gray gradient, creating a stylish and elegant contrast. The top left features two large, bold title text layers (`heading_1` and `heading_2`), centered vertically and aligned to the left. Below them is a subheading (`subheading`) in a lighter blue, followed by a thin horizontal line (`decorative`) for separation. The product details are presented in bullet points (`description`) for clarity. A bold price tag (`price`) stands out prominently, and the banner concludes with a distinct call-to-action button (`cta_button`) labeled by `cta`. The top-right contains a product image (`product_image`), partially overlapping the divided backgrounds.\n\n**Color Palette:**\n- Navy Blue: #0d2842\n- Deep Blue: #0a1c30\n- Light Steel Blue: #d8e0e8\n- Sky Blue: #b0c4d8\n- Text Light: #e0e8f0\n- Accent Blue: #90b0d0\n- CTA Text: #0d2842\n- White: #ffffff\n", "product_color": "  \nThe product image features a sleek silver anchor pendant on a polished chain, set against a deep black satin background. The primary colors are metallic silver (#C0C0C0) and jet black (#000000), which together create a luxurious contrast. The metallic shine is enhanced by gradients of light gray (#D3D3D3) and subtle reflections of white (#FFFFFF), giving the pendant a highly polished, three-dimensional look. The black background blends softly with grays, adding depth while allowing the silver to pop dramatically. This monochrome palette communicates elegance and sophistication\u2014ideal for an advertisement that aims to highlight luxury and precision craftsmanship.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0d2842'/><stop offset='100%' style='stop-color:#0a1c30'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#d8e0e8'/><stop offset='100%' style='stop-color:#b0c4d8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080,0 L520,0 L1080,600 Z' fill='url(#bg2)'/><path d='M1080,600 L400,1080 L1080,1080 Z' fill='url(#bg2)'/><g opacity='0.15' fill='#ffffff'><path d='M100,200 L120,240 L160,240 L130,270 L140,320 L100,290 L60,320 L70,270 L40,240 L80,240 Z'/><path d='M180,900 L190,920 L210,920 L195,935 L200,960 L180,945 L160,960 L165,935 L150,920 L170,920 Z'/><path d='M240,600 L250,620 L270,620 L255,635 L260,660 L240,645 L220,660 L225,635 L210,620 L230,620 Z'/></g><path d='M0,0 L1080,1080' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M0,540 L1080,540' stroke='#ffffff' stroke-width='1' opacity='0.05'/><path d='M540,0 L540,1080' stroke='#ffffff' stroke-width='1' opacity='0.05'/><circle cx='1040' cy='40' r='200' fill='none' stroke='#b0c4d8' stroke-width='3' opacity='0.2'/><circle cx='40' cy='1040' r='150' fill='none' stroke='#ffffff' stroke-width='2' opacity='0.1'/><path d='M950,100 C1010,120 1060,180 1080,240' stroke='#ffffff' stroke-width='3' opacity='0.1' fill='none'/><path d='M100,950 C120,1010 180,1060 240,1080' stroke='#ffffff' stroke-width='3' opacity='0.1' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 557.06,
+                "height": 135.6,
+                "fill": "#e0e8f0",
+                "text": "NAUTICAL",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 50,
+                "width": 483.8,
+                "height": 135.6,
+                "fill": "#e0e8f0",
+                "text": "ANCHOR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 50,
+                "width": 656.96,
+                "height": 67.8,
+                "fill": "#90b0d0",
+                "text": "PREMIUM PENDANT",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 425,
+                "left": 50,
+                "width": 320,
+                "height": 2,
+                "fill": "#90b0d0",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 50,
+                "width": 511.37,
+                "height": 176.28,
+                "fill": "#e0e8f0",
+                "text": "\u2022 High-quality stainless steel construction\n\u2022 Classic maritime design with rope detail\n\u2022 Water-resistant and built to last\n\u2022 Perfect for everyday wear or occasions",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 50,
+                "width": 384.23,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "$49.95",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 820,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#90b0d0",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 838,
+                "left": 87,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#0d2842",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 422,
+                "left": 264,
+                "width": 762.4000000000001,
+                "height": 344.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681447b0496ed45824f29144/R4wqfRWt9j7DwmYLzDX1R_953x431.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Nautical Anchor Pendant - Elegant Maritime Statement Necklace",
+            "description": "\u2022 \u2728 High-quality stainless steel construction - Tarnish and rust-resistant\n\u2022 \u2693 Classic maritime anchor design with sophisticated rope detail\n\u2022 \ud83d\udccf Perfect size pendant for everyday wear or special occasions\n\u2022 \u26d3\ufe0f Durable box chain included - Secure and stylish\n\u2022 \u2705 High-polish mirror finish for lasting brilliance\n\u2022 \ud83c\udf81 Ideal gift for sailors, naval enthusiasts, or maritime fashion lovers\n\u2022 \ud83d\udcaa Water-resistant and built to last\n\u2022 \ud83c\udff7\ufe0f Unisex design suitable for all styles\n\u2022 \ud83d\udd28 Expertly crafted with attention to detail\n\u2022 \ud83d\udce6 Comes in elegant gift packaging",
+            "price": "$1"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681447b0496ed45824f29144/R4wqfRWt9j7DwmYLzDX1R_953x431.png",
+        "marketplace_url": "blob:https://studio.phot.ai/16d2439c-f2b2-42ed-90df-a66cf786fd77",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner presents a clean and modern product advertisement for a jewelry item. It is divided diagonally into two contrasting backgrounds: a deep navy gradient and a soft blue-gray gradient, creating a stylish and elegant contrast. The top left features two large, bold title text layers (`heading_1` and `heading_2`), centered vertically and aligned to the left. Below them is a subheading (`subheading`) in a lighter blue, followed by a thin horizontal line (`decorative`) for separation. The product details are presented in bullet points (`description`) for clarity. A bold price tag (`price`) stands out prominently, and the banner concludes with a distinct call-to-action button (`cta_button`) labeled by `cta`. The top-right contains a product image (`product_image`), partially overlapping the divided backgrounds.\n\n**Color Palette:**\n- Navy Blue: #0d2842\n- Deep Blue: #0a1c30\n- Light Steel Blue: #d8e0e8\n- Sky Blue: #b0c4d8\n- Text Light: #e0e8f0\n- Accent Blue: #90b0d0\n- CTA Text: #0d2842\n- White: #ffffff\n",
+    "product_color": "  \nThe product image features a sleek silver anchor pendant on a polished chain, set against a deep black satin background. The primary colors are metallic silver (#C0C0C0) and jet black (#000000), which together create a luxurious contrast. The metallic shine is enhanced by gradients of light gray (#D3D3D3) and subtle reflections of white (#FFFFFF), giving the pendant a highly polished, three-dimensional look. The black background blends softly with grays, adding depth while allowing the silver to pop dramatically. This monochrome palette communicates elegance and sophistication\u2014ideal for an advertisement that aims to highlight luxury and precision craftsmanship.  \n"
+}

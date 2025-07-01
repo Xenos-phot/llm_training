@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#000000'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#D40000'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#910000'/><path d='M540 540 L1080 0 L1080 1080 Z' fill='#750000' opacity='0.7'/><path d='M0 0 L540 540 L0 1080 Z' fill='#FF2D00' opacity='0.3'/><path d='M900 100 L1080 0 L1080 280 Z' fill='#FF6B00' opacity='0.5'/><path d='M100 900 L0 1080 L280 1080 Z' fill='#FFD100' opacity='0.3'/><path d='M0 0 L1080 1080' stroke='#FFB700' stroke-width='5' opacity='0.2'/><path d='M540 0 L1080 540 L540 1080 L0 540 Z' stroke='#FFB700' stroke-width='3' opacity='0.1' fill='none'/><path d='M380 200 L400 230 L430 240 L400 250 L380 280 L360 250 L330 240 L360 230 Z' fill='#FFD100' opacity='0.4'/><path d='M680 800 L700 830 L730 840 L700 850 L680 880 L660 850 L630 840 L660 830 Z' fill='#FFD100' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 45, "width": 381.95, "height": 169.5, "fill": "#FFFFFF", "text": "DORITOS", "fontSize": 150, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 270, "left": 48, "width": 411.6, "height": 90.4, "fill": "#FFB700", "text": "NACHO CHEESE", "fontSize": 80, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 50, "width": 380.09, "height": 176.28, "fill": "#FFFFFF", "text": "\u2022 Bold Nacho Cheese Flavor\n\u2022 Perfectly Crunchy Triangles\n\u2022 Made with Whole Corn\n\u2022 Perfect for Snacking & Parties", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 610, "left": 50, "width": 308.39, "height": 45.2, "fill": "#FFB700", "text": "Pack of 64, 1.75 oz bags", "fontSize": 40, "fontFamily": "Montez Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 680, "left": 50, "width": 364.06, "height": 113, "fill": "#FFFFFF", "text": "$41.48", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 830, "left": 50, "width": 220, "height": 70, "fill": "#FFB700", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 850, "left": 90, "width": 134.88, "height": 33.9, "fill": "#000000", "text": "BUY NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 280, "left": 520, "width": 991, "height": 1375, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1d672328-9417-43f2-a70e-d9e7b57d8c91_nobg_991x1375.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Product Description          The chip that packs a flavorful punch with the classic crunch. Boldly seasoned with three cheeses, tomatoes, onions and a savory blend of spices. Indulge yourself or share with large gatherings.             Manufacturer Contact Information          Plano, Tx 75024-4099 Pack of 64, 1.75 ounce large single serving bags (total of 112 ounces) Doritos tortilla chips with classic nacho cheese flavor Made of whole corn; flavorings feature real cheddar cheese Crunchy straight from the bag or after scooping up dip or salsa Ships in Certified Frustration Free Packaging Brand - Doritos ** Flavor - Nacho Cheese ** Unit Count - 1 Count ** Number of Items - 64 ** Type - Tortilla Chip **", "price": "41.48"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1d672328-9417-43f2-a70e-d9e7b57d8c91_nobg_991x1375.png", "marketplace_url": "https://www.amazon.com/dp/B000R7XBF2", "layout": "split_vertical"}, "banner_details": "\nThis banner design promotes a popular snack product using a visually striking and warm color theme. The layout is centered around a vivid background made up of layered diagonal shapes in red, orange, maroon, and yellow hues, giving it depth and energy. The focal point, a high-resolution product image (\"product_image\"), is angled slightly and positioned to the right.\n\nBold typography is used to attract attention: the main headline (\"heading\") is a large, white, all-caps sans-serif font, followed by a bright orange subheadline (\"subheading\") in a modern, blocky style. Below it, a concise product description (\"description\") is arranged in bullet points for clarity. A stylized script tagline (\"tagline\") adds flair above the bold, prominent price display (\"price\") in large white digits. The call-to-action button (\"cta\") has a bright yellow rectangular background (\"cta_background\") and black bold text, enhancing its visibility.\n\n**Color Palette:**\n- Crimson Red (#D40000)\n- Deep Maroon (#910000)\n- Bright Orange (#FF6B00)\n- Mustard Yellow (#FFB700)\n- White (#FFFFFF)\n- Black (#000000)\n\n", "product_color": "\nThe Doritos Nacho Cheese product image utilizes a bold and fiery color palette to evoke excitement and appetite. Dominant red (#BF1E2E) forms the background, symbolizing intensity and flavor. Gradient orange (#F97306) elements highlight the dynamic triangular chip icon and add warmth. Yellow (#FFD700) on the chips enhances the cheesy appeal and draws focus, while black (#000000) and white (#FFFFFF) are used for bold, readable typography and logo contrast. The colors blend seamlessly through gradient shading, with red and orange merging in the background for depth, while the chips pop visually, making the design both eye-catching and appetizing.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#000000'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#D40000'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#910000'/><path d='M540 540 L1080 0 L1080 1080 Z' fill='#750000' opacity='0.7'/><path d='M0 0 L540 540 L0 1080 Z' fill='#FF2D00' opacity='0.3'/><path d='M900 100 L1080 0 L1080 280 Z' fill='#FF6B00' opacity='0.5'/><path d='M100 900 L0 1080 L280 1080 Z' fill='#FFD100' opacity='0.3'/><path d='M0 0 L1080 1080' stroke='#FFB700' stroke-width='5' opacity='0.2'/><path d='M540 0 L1080 540 L540 1080 L0 540 Z' stroke='#FFB700' stroke-width='3' opacity='0.1' fill='none'/><path d='M380 200 L400 230 L430 240 L400 250 L380 280 L360 250 L330 240 L360 230 Z' fill='#FFD100' opacity='0.4'/><path d='M680 800 L700 830 L730 840 L700 850 L680 880 L660 850 L630 840 L660 830 Z' fill='#FFD100' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 45,
+                "width": 381.95,
+                "height": 169.5,
+                "fill": "#FFFFFF",
+                "text": "DORITOS",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 270,
+                "left": 48,
+                "width": 411.6,
+                "height": 90.4,
+                "fill": "#FFB700",
+                "text": "NACHO CHEESE",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 50,
+                "width": 380.09,
+                "height": 176.28,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Bold Nacho Cheese Flavor\n\u2022 Perfectly Crunchy Triangles\n\u2022 Made with Whole Corn\n\u2022 Perfect for Snacking & Parties",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 50,
+                "width": 308.39,
+                "height": 45.2,
+                "fill": "#FFB700",
+                "text": "Pack of 64, 1.75 oz bags",
+                "fontFamily": "Montez Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 50,
+                "width": 364.06,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$41.48",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 830,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#FFB700",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 90,
+                "width": 134.88,
+                "height": 33.9,
+                "fill": "#000000",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 280,
+                "left": 520,
+                "width": 396.40000000000003,
+                "height": 550.0,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1d672328-9417-43f2-a70e-d9e7b57d8c91_nobg_991x1375.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Product Description          The chip that packs a flavorful punch with the classic crunch. Boldly seasoned with three cheeses, tomatoes, onions and a savory blend of spices. Indulge yourself or share with large gatherings.             Manufacturer Contact Information          Plano, Tx 75024-4099 Pack of 64, 1.75 ounce large single serving bags (total of 112 ounces) Doritos tortilla chips with classic nacho cheese flavor Made of whole corn; flavorings feature real cheddar cheese Crunchy straight from the bag or after scooping up dip or salsa Ships in Certified Frustration Free Packaging Brand - Doritos ** Flavor - Nacho Cheese ** Unit Count - 1 Count ** Number of Items - 64 ** Type - Tortilla Chip **",
+            "price": "41.48"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/1d672328-9417-43f2-a70e-d9e7b57d8c91_nobg_991x1375.png",
+        "marketplace_url": "https://www.amazon.com/dp/B000R7XBF2",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design promotes a popular snack product using a visually striking and warm color theme. The layout is centered around a vivid background made up of layered diagonal shapes in red, orange, maroon, and yellow hues, giving it depth and energy. The focal point, a high-resolution product image (\"product_image\"), is angled slightly and positioned to the right.\n\nBold typography is used to attract attention: the main headline (\"heading\") is a large, white, all-caps sans-serif font, followed by a bright orange subheadline (\"subheading\") in a modern, blocky style. Below it, a concise product description (\"description\") is arranged in bullet points for clarity. A stylized script tagline (\"tagline\") adds flair above the bold, prominent price display (\"price\") in large white digits. The call-to-action button (\"cta\") has a bright yellow rectangular background (\"cta_background\") and black bold text, enhancing its visibility.\n\n**Color Palette:**\n- Crimson Red (#D40000)\n- Deep Maroon (#910000)\n- Bright Orange (#FF6B00)\n- Mustard Yellow (#FFB700)\n- White (#FFFFFF)\n- Black (#000000)\n\n",
+    "product_color": "\nThe Doritos Nacho Cheese product image utilizes a bold and fiery color palette to evoke excitement and appetite. Dominant red (#BF1E2E) forms the background, symbolizing intensity and flavor. Gradient orange (#F97306) elements highlight the dynamic triangular chip icon and add warmth. Yellow (#FFD700) on the chips enhances the cheesy appeal and draws focus, while black (#000000) and white (#FFFFFF) are used for bold, readable typography and logo contrast. The colors blend seamlessly through gradient shading, with red and orange merging in the background for depth, while the chips pop visually, making the design both eye-catching and appetizing.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#4A6EA9'/><rect x='540' y='0' width='540' height='540' fill='#3B5998'/><rect x='0' y='540' width='540' height='540' fill='#C67C4E'/><rect x='540' y='540' width='540' height='540' fill='#A66A40'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='2'/></g><g transform='translate(100, 100)'><rect x='0' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='30' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='60' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='90' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/></g><g transform='translate(850, 750)'><rect x='0' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='30' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='60' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='90' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/></g><g opacity='0.15'><circle cx='150' cy='150' r='80' fill='#F0F0F0'/><circle cx='930' cy='930' r='80' fill='#F0F0F0'/></g><g transform='translate(270, 500)'><rect x='0' y='0' width='540' height='3' fill='#FFFFFF' opacity='0.2'/></g><g transform='translate(540, 270)'><rect x='0' y='0' width='3' height='540' fill='#FFFFFF' opacity='0.2'/></g><g opacity='0.1'><path d='M0 540 Q 270 450, 540 540 Q 810 630, 1080 540' stroke='#FFFFFF' stroke-width='5' fill='none'/></g></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 50, "width": 401.87, "height": 213.57, "fill": "#FFFFFF", "text": "DENIM\nTOTE BAG", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 310, "left": 50, "width": 601.21, "height": 56.5, "fill": "#F8F4E3", "text": "BOHO HANDBAG", "fontSize": 50, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 50, "width": 347.24, "height": 186.45, "fill": "#FFFFFF", "text": "\u2022 Premium Denim Material\n\u2022 Braided Leather Handles\n\u2022 Matching Wristlet Included\n\u2022 Shoulder Strap Design", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 50, "width": 245.2, "height": 90.4, "fill": "#FFFFFF", "text": "$44.99", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 50, "width": 220, "height": 65, "fill": "#233C7B", "rx": 3, "ry": 3, "id": "cta_button"}, {"type": "text", "top": 935, "left": 102, "width": 89.61, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 382, "left": 427, "width": 1439, "height": 1325, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/hLp_B42GzVW2ldlEp7hyj_1439x1325.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Denim Tote Bag for Women Top Handle Satchel Purse Boho Shoulder Handbags with Wristlet", "description": "Package Dimensions: 14.88 x 11.42 x 2.91 inches; 2.27 Pounds. Department: Women. Country of Origin: China. Customer Reviews: 4.5 4.5 out of 5 stars 113 ratings.", "price": "$44.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/hLp_B42GzVW2ldlEp7hyj_1439x1325.png", "marketplace_url": "https://www.amazon.com/VANSARTO-Satchel-Shoulder-Handbags-Wristlet/dp/B0CHJJFR57/?_encoding=UTF8&pd_rd_w=BmHTv&content-id=amzn1.sym.c2cf8313-b86b-4327-9de4-9398adaa570b%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=c2cf8313-b86b-4327-9de4-9398adaa570b&pf_rd_r=EKVFQPZNE5CHXJRQN3Q9&pd_rd_wg=SbM4q&pd_rd_r=14864adb-c4ce-4167-a391-9de5c070067c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1", "layout": "diagonal_split"}, "banner_details": "\nThe banner design presents a modern and stylish promotional layout for a fashion accessory. The layout is divided into four distinct quadrants using diagonally intersecting rectangles, creating a dynamic split between two shades of blue (top) and two tones of warm brown (bottom). The top-left quadrant features a bold title text layer labeled `heading`, set in large, uppercase sans-serif font, followed by a sleeker `subheading` primarily for stylistic branding. Below the fold, the `description` text element presents the product highlights using bullet points, and the `price` text is displayed prominently in a bold font. A rectangular color-filled element (`cta_button`) contains the call-to-action text `cta`. On the right side, a large, realistic `product_image` of a denim and leather tote with a matching wristlet overlaps the quadrant divide for added contrast and focus. Subtle geometric decorations in white lines, dots, and circles underlay the background SVG, enriching the composition without overwhelming it.\n\n**Color Palette:**\n- Midnight Blue: `#233C7B`\n- Steel Blue: `#4A6EA9`\n- Indigo: `#3B5998`\n- Burnt Orange: `#C67C4E`\n- Saddle Brown: `#A66A40`\n- White: `#FFFFFF`\n- Cream: `#F8F4E3`\n", "product_color": "  \nThe product image features a stylish handbag and pouch set made of distressed denim and rich brown leather accents. The denim showcases a blend of medium to dark indigo shades with frayed textures that add depth and character. The brown leather components, including handles, trims, and patches, contrast beautifully with the denim, creating a sophisticated yet rugged aesthetic. For advertisement banners, a complementary color palette includes denim blue (#3E5A77), light washed blue (#A0C3D2), deep indigo (#233142), rich chestnut brown (#8C4B2F), and soft ivory (#F5F5F5) for balance. The overall color blend is both bold and earthy, highlighting the texture and craftsmanship.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='540' height='540' fill='#4A6EA9'/><rect x='540' y='0' width='540' height='540' fill='#3B5998'/><rect x='0' y='540' width='540' height='540' fill='#C67C4E'/><rect x='540' y='540' width='540' height='540' fill='#A66A40'/><g opacity='0.2'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='2'/></g><g transform='translate(100, 100)'><rect x='0' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='30' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='60' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='90' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/></g><g transform='translate(850, 750)'><rect x='0' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='30' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='60' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/><rect x='90' y='0' width='10' height='300' fill='#FFFFFF' opacity='0.1'/></g><g opacity='0.15'><circle cx='150' cy='150' r='80' fill='#F0F0F0'/><circle cx='930' cy='930' r='80' fill='#F0F0F0'/></g><g transform='translate(270, 500)'><rect x='0' y='0' width='540' height='3' fill='#FFFFFF' opacity='0.2'/></g><g transform='translate(540, 270)'><rect x='0' y='0' width='3' height='540' fill='#FFFFFF' opacity='0.2'/></g><g opacity='0.1'><path d='M0 540 Q 270 450, 540 540 Q 810 630, 1080 540' stroke='#FFFFFF' stroke-width='5' fill='none'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 50,
+                "width": 401.87,
+                "height": 213.57,
+                "fill": "#FFFFFF",
+                "text": "DENIM\nTOTE BAG",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 50,
+                "width": 601.21,
+                "height": 56.5,
+                "fill": "#F8F4E3",
+                "text": "BOHO HANDBAG",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 347.24,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium Denim Material\n\u2022 Braided Leather Handles\n\u2022 Matching Wristlet Included\n\u2022 Shoulder Strap Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 50,
+                "width": 245.2,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$44.99",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 50,
+                "width": 220,
+                "height": 65,
+                "fill": "#233C7B",
+                "rx": 3,
+                "ry": 3,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 935,
+                "left": 102,
+                "width": 89.61,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 382,
+                "left": 427,
+                "width": 575.6,
+                "height": 530.0,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/hLp_B42GzVW2ldlEp7hyj_1439x1325.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Denim Tote Bag for Women Top Handle Satchel Purse Boho Shoulder Handbags with Wristlet",
+            "description": "Package Dimensions: 14.88 x 11.42 x 2.91 inches; 2.27 Pounds. Department: Women. Country of Origin: China. Customer Reviews: 4.5 4.5 out of 5 stars 113 ratings.",
+            "price": "$44.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/hLp_B42GzVW2ldlEp7hyj_1439x1325.png",
+        "marketplace_url": "https://www.amazon.com/VANSARTO-Satchel-Shoulder-Handbags-Wristlet/dp/B0CHJJFR57/?_encoding=UTF8&pd_rd_w=BmHTv&content-id=amzn1.sym.c2cf8313-b86b-4327-9de4-9398adaa570b%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=c2cf8313-b86b-4327-9de4-9398adaa570b&pf_rd_r=EKVFQPZNE5CHXJRQN3Q9&pd_rd_wg=SbM4q&pd_rd_r=14864adb-c4ce-4167-a391-9de5c070067c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner design presents a modern and stylish promotional layout for a fashion accessory. The layout is divided into four distinct quadrants using diagonally intersecting rectangles, creating a dynamic split between two shades of blue (top) and two tones of warm brown (bottom). The top-left quadrant features a bold title text layer labeled `heading`, set in large, uppercase sans-serif font, followed by a sleeker `subheading` primarily for stylistic branding. Below the fold, the `description` text element presents the product highlights using bullet points, and the `price` text is displayed prominently in a bold font. A rectangular color-filled element (`cta_button`) contains the call-to-action text `cta`. On the right side, a large, realistic `product_image` of a denim and leather tote with a matching wristlet overlaps the quadrant divide for added contrast and focus. Subtle geometric decorations in white lines, dots, and circles underlay the background SVG, enriching the composition without overwhelming it.\n\n**Color Palette:**\n- Midnight Blue: `#233C7B`\n- Steel Blue: `#4A6EA9`\n- Indigo: `#3B5998`\n- Burnt Orange: `#C67C4E`\n- Saddle Brown: `#A66A40`\n- White: `#FFFFFF`\n- Cream: `#F8F4E3`\n",
+    "product_color": "  \nThe product image features a stylish handbag and pouch set made of distressed denim and rich brown leather accents. The denim showcases a blend of medium to dark indigo shades with frayed textures that add depth and character. The brown leather components, including handles, trims, and patches, contrast beautifully with the denim, creating a sophisticated yet rugged aesthetic. For advertisement banners, a complementary color palette includes denim blue (#3E5A77), light washed blue (#A0C3D2), deep indigo (#233142), rich chestnut brown (#8C4B2F), and soft ivory (#F5F5F5) for balance. The overall color blend is both bold and earthy, highlighting the texture and craftsmanship.  \n"
+}

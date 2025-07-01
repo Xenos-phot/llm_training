@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='600' width='1080' height='480' fill='#333333'/><path d='M0 600 L1080 600 L1080 300 L0 300 Z' fill='#78C256' opacity='0.1'/><circle cx='900' cy='200' r='180' fill='#78C256' opacity='0.2'/><circle cx='150' cy='900' r='120' fill='#78C256' opacity='0.3'/><path d='M-100 700 L300 400 L500 600 L700 400 L1200 700' stroke='#78C256' stroke-width='8' opacity='0.5' fill='none'/><path d='M-100 730 L300 430 L500 630 L700 430 L1200 730' stroke='#78C256' stroke-width='4' opacity='0.3' fill='none'/><path d='M-100 760 L300 460 L500 660 L700 460 L1200 760' stroke='#78C256' stroke-width='2' opacity='0.2' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 667.51, "height": 135.6, "fill": "#333333", "text": "NIKE AIR MAX 1", "fontSize": 120, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 65, "width": 290.24, "height": 90.4, "fill": "#78C256", "text": "FRESH MINT", "fontSize": 80, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 320, "left": 70, "width": 475.13, "height": 186.45, "fill": "#444444", "text": "\u2022 Iconic Air Max 1 silhouette\n\u2022 Visible Air-Sole cushioning\n\u2022 Premium white and mint design\n\u2022 Durable mesh upper", "fontSize": 30, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 70, "width": 200.15, "height": 113, "fill": "#FFFFFF", "text": "\u20b9 99", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 70, "width": 220, "height": 70, "fill": "#78C256", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 940, "left": 106, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 476, "left": 416, "width": 967, "height": 607, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/jujOHoWRfORyBa5-tIacy_967x607.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nike Air Max 1 'Fresh Mint' - Classic Comfort Meets Modern Style", "description": "\u2022 Iconic Air Max 1 silhouette with premium construction\n\u2022 Fresh white and mint green color combination\n\u2022 Durable mesh and synthetic upper for breathability\n\u2022 Visible Air-Sole unit for legendary cushioning\n\u2022 Padded collar for enhanced comfort\n\u2022 Classic waffle outsole for reliable traction\n\u2022 Signature Nike Swoosh branding in mint green\n\u2022 Lightweight foam midsole for all-day comfort\n\u2022 Versatile design suitable for both casual wear and light activities\n\u2022 Limited edition colorway perfect for collectors", "price": "\u20b999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/jujOHoWRfORyBa5-tIacy_967x607.png", "marketplace_url": "https://images.unsplash.com/photo-1747691875590-14db938e42d4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHwzfHxTaG9lc3xlbnwwfHwyfHwxNzQ4MzQ1ODk5fDA&ixlib=rb-4.1.0&q=85", "layout": "z_pattern"}, "banner_details": "\nThe banner features a dynamic and modern layout designed to promote a sneaker product. The composition is divided into a light upper section and a dark lower half. A bold and impactful heading (id: \"heading\") introduces the product, followed by a vibrant subheading (id: \"subheading\") in a green hue that highlights the edition or variant. A detailed list (id: \"description\") outlines key features of the product, aligned neatly to the left. On the lower left, a large circular backdrop supports the pricing information (id: \"price\") and an eye-catching call-to-action button (ids: \"cta_button\" and \"cta\"). The product image (id: \"product_image\") is prominently placed at an angle to add depth and motion. Geometric lines and circles in soft green tones add a visual rhythm that leads the viewer across the design without clutter.\n\n**Color Palette:**\n- Mint Green: #78C256\n- Charcoal Gray: #333333\n- Light Gray: #F5F5F5\n- White: #FFFFFF\n- Medium Gray (text elements): #444444\n", "product_color": "  \nThe product image showcases a vibrant color palette dominated by shades of green, white, and grey. The lime green (#7AC143) overlays the lower and upper Nike swoosh areas, creating a bold yet refreshing visual appeal. Light grey (#A7A9AC) is used on the mid-upper panels and lace eyelets, blending seamlessly with the white mesh (#FFFFFF) on the toe and collar, ensuring breathability and clean aesthetics. The midsole is a neutral off-white (#F2F2F2), balancing the brightness of the green, while black (#000000) is subtly applied on the outsole for grounding contrast. These colors unify to create a sleek, sporty, and modern vibe.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='600' width='1080' height='480' fill='#333333'/><path d='M0 600 L1080 600 L1080 300 L0 300 Z' fill='#78C256' opacity='0.1'/><circle cx='900' cy='200' r='180' fill='#78C256' opacity='0.2'/><circle cx='150' cy='900' r='120' fill='#78C256' opacity='0.3'/><path d='M-100 700 L300 400 L500 600 L700 400 L1200 700' stroke='#78C256' stroke-width='8' opacity='0.5' fill='none'/><path d='M-100 730 L300 430 L500 630 L700 430 L1200 730' stroke='#78C256' stroke-width='4' opacity='0.3' fill='none'/><path d='M-100 760 L300 460 L500 660 L700 460 L1200 760' stroke='#78C256' stroke-width='2' opacity='0.2' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 667.51,
+                "height": 135.6,
+                "fill": "#333333",
+                "text": "NIKE AIR MAX 1",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 65,
+                "width": 290.24,
+                "height": 90.4,
+                "fill": "#78C256",
+                "text": "FRESH MINT",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 70,
+                "width": 475.13,
+                "height": 186.45,
+                "fill": "#444444",
+                "text": "\u2022 Iconic Air Max 1 silhouette\n\u2022 Visible Air-Sole cushioning\n\u2022 Premium white and mint design\n\u2022 Durable mesh upper",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 70,
+                "width": 200.15,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 99",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 70,
+                "width": 220,
+                "height": 70,
+                "fill": "#78C256",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 940,
+                "left": 106,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 476,
+                "left": 416,
+                "width": 609.21,
+                "height": 382.41,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/jujOHoWRfORyBa5-tIacy_967x607.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nike Air Max 1 'Fresh Mint' - Classic Comfort Meets Modern Style",
+            "description": "\u2022 Iconic Air Max 1 silhouette with premium construction\n\u2022 Fresh white and mint green color combination\n\u2022 Durable mesh and synthetic upper for breathability\n\u2022 Visible Air-Sole unit for legendary cushioning\n\u2022 Padded collar for enhanced comfort\n\u2022 Classic waffle outsole for reliable traction\n\u2022 Signature Nike Swoosh branding in mint green\n\u2022 Lightweight foam midsole for all-day comfort\n\u2022 Versatile design suitable for both casual wear and light activities\n\u2022 Limited edition colorway perfect for collectors",
+            "price": "\u20b999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/jujOHoWRfORyBa5-tIacy_967x607.png",
+        "marketplace_url": "https://images.unsplash.com/photo-1747691875590-14db938e42d4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHwzfHxTaG9lc3xlbnwwfHwyfHwxNzQ4MzQ1ODk5fDA&ixlib=rb-4.1.0&q=85",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThe banner features a dynamic and modern layout designed to promote a sneaker product. The composition is divided into a light upper section and a dark lower half. A bold and impactful heading (id: \"heading\") introduces the product, followed by a vibrant subheading (id: \"subheading\") in a green hue that highlights the edition or variant. A detailed list (id: \"description\") outlines key features of the product, aligned neatly to the left. On the lower left, a large circular backdrop supports the pricing information (id: \"price\") and an eye-catching call-to-action button (ids: \"cta_button\" and \"cta\"). The product image (id: \"product_image\") is prominently placed at an angle to add depth and motion. Geometric lines and circles in soft green tones add a visual rhythm that leads the viewer across the design without clutter.\n\n**Color Palette:**\n- Mint Green: #78C256\n- Charcoal Gray: #333333\n- Light Gray: #F5F5F5\n- White: #FFFFFF\n- Medium Gray (text elements): #444444\n",
+    "product_color": "  \nThe product image showcases a vibrant color palette dominated by shades of green, white, and grey. The lime green (#7AC143) overlays the lower and upper Nike swoosh areas, creating a bold yet refreshing visual appeal. Light grey (#A7A9AC) is used on the mid-upper panels and lace eyelets, blending seamlessly with the white mesh (#FFFFFF) on the toe and collar, ensuring breathability and clean aesthetics. The midsole is a neutral off-white (#F2F2F2), balancing the brightness of the green, while black (#000000) is subtly applied on the outsole for grounding contrast. These colors unify to create a sleek, sporty, and modern vibe.  \n"
+}

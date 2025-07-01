@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFF5E9'/><rect x='-49' y='0' width='590' height='1080' rx='40' ry='40' fill='#FF5733'/><g opacity='0.7'><circle cx='100' cy='200' r='30' fill='#FFD700'/><circle cx='180' cy='280' r='25' fill='#FFD700'/><circle cx='260' cy='180' r='35' fill='#FFD700'/><circle cx='80' cy='350' r='20' fill='#FFD700'/><circle cx='200' cy='400' r='28' fill='#FFD700'/><circle cx='300' cy='320' r='22' fill='#FFD700'/><circle cx='400' cy='200' r='18' fill='#FFD700'/></g><g opacity='0.4'><rect x='800' y='150' width='120' height='15' rx='7' fill='#FF5733'/><rect x='850' y='200' width='150' height='15' rx='7' fill='#FF5733'/><rect x='780' y='250' width='180' height='15' rx='7' fill='#FF5733'/><rect x='820' y='300' width='140' height='15' rx='7' fill='#FF5733'/><rect x='860' y='350' width='120' height='15' rx='7' fill='#FF5733'/></g><rect x='-50' y='720' width='420' height='150' rx='60' ry='60' fill='#FFF5E9'/><path d='M1000 800 L960 840 L1000 880' stroke='#FF5733' stroke-width='15' fill='none'/><path d='M1000 700 L960 740 L1000 780' stroke='#FF5733' stroke-width='15' fill='none'/><path d='M1000 900 L960 940 L1000 980' stroke='#FF5733' stroke-width='15' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 45, "width": 298.46, "height": 220.35, "fill": "#FFFFFF", "text": "PIZZA\nPASSION\nSNEAKERS", "fontSize": 65, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 45, "width": 484, "height": 45.2, "fill": "#FFFFFF", "text": "FOOD LOVER'S FOOTWEAR", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 410, "left": 45, "width": 462.33, "height": 111.64, "fill": "#FFFFFF", "text": "\u2022 Vibrant pepperoni pizza print design\n\u2022 High-quality canvas with detailed artwork\n\u2022 Cushioned insole for all-day comfort", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 570, "left": 100, "width": 282.73, "height": 69.61, "fill": "#FFFFFF", "text": "EARLY BIRD DISCOUNT\nLIMITED TIME OFFER!", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 760, "left": 65, "width": 176.16, "height": 79.1, "fill": "#FF5733", "text": "\u20b9 99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 40, "width": 220, "height": 70, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 969, "left": 69, "width": 155.79, "height": 33.9, "fill": "#FF5733", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 246.63, "left": 541.04, "width": 1335, "height": 1159, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/_CCLjumPJeTDNBo0p5jPI_1335x1159.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pizza Passion High-Top Sneakers - The Ultimate Food Lover's Footwear", "description": "\u2022 Vibrant pepperoni pizza print design covering the entire shoe surface\n\u2022 High-quality canvas upper material with detailed food artwork\n\u2022 Classic high-top silhouette with comfortable ankle support\n\u2022 Durable rubber sole with vintage-style cream colored finish\n\u2022 Traditional lace-up closure with metal eyelets\n\u2022 Realistic food graphics with rich colors and textures\n\u2022 Cushioned insole for all-day comfort\n\u2022 Perfect for pizza enthusiasts and food fashion lovers\n\u2022 Unique conversation starter footwear\n\u2022 Available in unisex sizing\n\u2022 Easy-to-clean surface material\n\u2022 Ideal for casual wear and special food-themed events", "price": "\u20b999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/_CCLjumPJeTDNBo0p5jPI_1335x1159.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1040256386812100678_bunkmeister_pizza_shoes_eb03db37-9af3-4a54-86ea-c0a5f9521927.webp", "layout": "split_vertical"}, "banner_details": "\nThis banner design features a playful and bold aesthetic focused on promoting themed footwear. The background is split vertically with the left side occupying a bright orange rounded rectangle pattern and the right side in a soft beige tone. A vibrant sneaker with a pizza print (\"product_image\") dominates the right, paired with abstract red geometric details and circular yellow accent graphics, reinforcing the food theme. The title (\"heading\") uses a bold, fun font in all caps with color contrasts between white and yellow for emphasis. Supporting text layers include a tagline (\"tagline\"), subhead (\"subheading\"), feature list (\"description\"), price tag (\"price\") in a modern display type, and a bold yellow call-to-action button (\"cta_background\" and \"cta\") at the bottom.\n\n**Color Palette**:\n- Soft Cream (#FFF5E9)\n- Bright Red-Orange (#FF5733)\n- Golden Yellow (#FFD700)\n- Clean White (#FFFFFF)\n- Deep Red (#A13300)\n", "product_color": "  \nThe product image features a high-top sneaker with a vibrant pizza graphic, creatively combining food imagery with fashion. The dominant colors include a rich pepperoni red (#BA3A26), warm baked crust tan (#F5BF82), and creamy mozzarella beige (#F2E2C4). Bright green (#3FA63F) from the herbs adds a pop of contrast, while the white laces and rubber sole (#F5F5F5) balance the palette with neutrality. Colors are skillfully blended to mimic a real pizza while being bold and eye-catching, ensuring the design remains playful yet attention-grabbing. This dynamic palette is ideal for a fun, youthful ad banner targeting trendy, food-loving audiences.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFF5E9'/><rect x='-49' y='0' width='590' height='1080' rx='40' ry='40' fill='#FF5733'/><g opacity='0.7'><circle cx='100' cy='200' r='30' fill='#FFD700'/><circle cx='180' cy='280' r='25' fill='#FFD700'/><circle cx='260' cy='180' r='35' fill='#FFD700'/><circle cx='80' cy='350' r='20' fill='#FFD700'/><circle cx='200' cy='400' r='28' fill='#FFD700'/><circle cx='300' cy='320' r='22' fill='#FFD700'/><circle cx='400' cy='200' r='18' fill='#FFD700'/></g><g opacity='0.4'><rect x='800' y='150' width='120' height='15' rx='7' fill='#FF5733'/><rect x='850' y='200' width='150' height='15' rx='7' fill='#FF5733'/><rect x='780' y='250' width='180' height='15' rx='7' fill='#FF5733'/><rect x='820' y='300' width='140' height='15' rx='7' fill='#FF5733'/><rect x='860' y='350' width='120' height='15' rx='7' fill='#FF5733'/></g><rect x='-50' y='720' width='420' height='150' rx='60' ry='60' fill='#FFF5E9'/><path d='M1000 800 L960 840 L1000 880' stroke='#FF5733' stroke-width='15' fill='none'/><path d='M1000 700 L960 740 L1000 780' stroke='#FF5733' stroke-width='15' fill='none'/><path d='M1000 900 L960 940 L1000 980' stroke='#FF5733' stroke-width='15' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 45,
+                "width": 298.46,
+                "height": 220.35,
+                "fill": "#FFFFFF",
+                "text": "PIZZA\nPASSION\nSNEAKERS",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 45,
+                "width": 484,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "FOOD LOVER'S FOOTWEAR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 410,
+                "left": 45,
+                "width": 462.33,
+                "height": 111.64,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Vibrant pepperoni pizza print design\n\u2022 High-quality canvas with detailed artwork\n\u2022 Cushioned insole for all-day comfort",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 570,
+                "left": 100,
+                "width": 282.73,
+                "height": 69.61,
+                "fill": "#FFFFFF",
+                "text": "EARLY BIRD DISCOUNT\nLIMITED TIME OFFER!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 65,
+                "width": 176.16,
+                "height": 79.1,
+                "fill": "#FF5733",
+                "text": "\u20b9 99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 40,
+                "width": 220,
+                "height": 70,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 969,
+                "left": 69,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#FF5733",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 246.63,
+                "left": 541.04,
+                "width": 520.65,
+                "height": 452.01,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/_CCLjumPJeTDNBo0p5jPI_1335x1159.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pizza Passion High-Top Sneakers - The Ultimate Food Lover's Footwear",
+            "description": "\u2022 Vibrant pepperoni pizza print design covering the entire shoe surface\n\u2022 High-quality canvas upper material with detailed food artwork\n\u2022 Classic high-top silhouette with comfortable ankle support\n\u2022 Durable rubber sole with vintage-style cream colored finish\n\u2022 Traditional lace-up closure with metal eyelets\n\u2022 Realistic food graphics with rich colors and textures\n\u2022 Cushioned insole for all-day comfort\n\u2022 Perfect for pizza enthusiasts and food fashion lovers\n\u2022 Unique conversation starter footwear\n\u2022 Available in unisex sizing\n\u2022 Easy-to-clean surface material\n\u2022 Ideal for casual wear and special food-themed events",
+            "price": "\u20b999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/_CCLjumPJeTDNBo0p5jPI_1335x1159.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1040256386812100678_bunkmeister_pizza_shoes_eb03db37-9af3-4a54-86ea-c0a5f9521927.webp",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design features a playful and bold aesthetic focused on promoting themed footwear. The background is split vertically with the left side occupying a bright orange rounded rectangle pattern and the right side in a soft beige tone. A vibrant sneaker with a pizza print (\"product_image\") dominates the right, paired with abstract red geometric details and circular yellow accent graphics, reinforcing the food theme. The title (\"heading\") uses a bold, fun font in all caps with color contrasts between white and yellow for emphasis. Supporting text layers include a tagline (\"tagline\"), subhead (\"subheading\"), feature list (\"description\"), price tag (\"price\") in a modern display type, and a bold yellow call-to-action button (\"cta_background\" and \"cta\") at the bottom.\n\n**Color Palette**:\n- Soft Cream (#FFF5E9)\n- Bright Red-Orange (#FF5733)\n- Golden Yellow (#FFD700)\n- Clean White (#FFFFFF)\n- Deep Red (#A13300)\n",
+    "product_color": "  \nThe product image features a high-top sneaker with a vibrant pizza graphic, creatively combining food imagery with fashion. The dominant colors include a rich pepperoni red (#BA3A26), warm baked crust tan (#F5BF82), and creamy mozzarella beige (#F2E2C4). Bright green (#3FA63F) from the herbs adds a pop of contrast, while the white laces and rubber sole (#F5F5F5) balance the palette with neutrality. Colors are skillfully blended to mimic a real pizza while being bold and eye-catching, ensuring the design remains playful yet attention-grabbing. This dynamic palette is ideal for a fun, youthful ad banner targeting trendy, food-loving audiences.  \n"
+}

@@ -59,11 +59,11 @@ function loadFont(fontFamily, fontURL) {
         try {
             // Extract the font file name from the URL
             const fontFileName = fontURL.split('/').pop();
-            const fontPath = path.join('/tmp/fonts', fontFileName);
+            const fontPath = path.join('tmp/fonts', fontFileName);
             
             // Create fonts directory if it doesn't exist
-            if (!fs.existsSync('/tmp/fonts')) {
-                fs.mkdirSync('/tmp/fonts', { recursive: true });
+            if (!fs.existsSync('tmp/fonts')) {
+                fs.mkdirSync('tmp/fonts', { recursive: true });
             }
             
             // Check if font already exists
@@ -100,12 +100,12 @@ function createFabricObject(objectData) {
                     // Extract filename from URL
                     const fileurl = objectData.src;
                     const fileName = objectData.src.split('/').pop();
-                    const localPath = path.join('/tmp/images', fileName);
+                    const localPath = path.join('tmp/images', fileName);
                     
                     // Create images directory if it doesn't exist
-                    if (!fs.existsSync('/tmp/images')) {
-                        fs.mkdirSync('/tmp/images', { recursive: true });
-                        console.log('Created /tmp/images directory for caching images');
+                    if (!fs.existsSync('tmp/images')) {
+                        fs.mkdirSync('tmp/images', { recursive: true });
+                        console.log('Created tmp/images directory for caching images');
                     }
                     
                     // Check if we already have this image locally and it's not empty, unless forced to download

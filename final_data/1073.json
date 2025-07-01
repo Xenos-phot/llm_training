@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2C3E50;stop-opacity:1'/><stop offset='100%' style='stop-color:#4A6F8A;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='540' y='0' width='540' height='1080' fill='#F7F7F7'/><g opacity='0.1'><rect x='20' y='150' width='150' height='15' rx='7.5' fill='#ffffff'/><rect x='50' y='190' width='120' height='15' rx='7.5' fill='#ffffff'/><rect x='80' y='230' width='90' height='15' rx='7.5' fill='#ffffff'/><rect x='70' y='270' width='110' height='15' rx='7.5' fill='#ffffff'/><rect x='40' y='310' width='130' height='15' rx='7.5' fill='#ffffff'/><rect x='20' y='350' width='100' height='15' rx='7.5' fill='#ffffff'/></g><g opacity='0.05'><rect x='580' y='150' width='150' height='15' rx='7.5' fill='#2C3E50'/><rect x='610' y='190' width='120' height='15' rx='7.5' fill='#2C3E50'/><rect x='640' y='230' width='90' height='15' rx='7.5' fill='#2C3E50'/><rect x='630' y='270' width='110' height='15' rx='7.5' fill='#2C3E50'/><rect x='600' y='310' width='130' height='15' rx='7.5' fill='#2C3E50'/><rect x='580' y='350' width='100' height='15' rx='7.5' fill='#2C3E50'/></g><circle cx='450' cy='900' r='80' fill='#4B9CD3' opacity='0.3'/><circle cx='100' cy='750' r='40' fill='#ffffff' opacity='0.1'/><circle cx='900' cy='200' r='50' fill='#2C3E50' opacity='0.1'/><path d='M 0 600 Q 270 700, 540 600' stroke='#ffffff' stroke-width='2' fill='none' opacity='0.1'/><path d='M 1080 400 Q 810 300, 540 400' stroke='#2C3E50' stroke-width='2' fill='none' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 45, "width": 438.36, "height": 135.6, "fill": "#FFFFFF", "text": "REVOLUTIONIZE\nYOUR LAUNDRY", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 280, "left": 45, "width": 467.58, "height": 29.38, "fill": "#4B9CD3", "text": "SMART WASHER & DRYER SET", "fontSize": 26, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 45, "width": 302.06, "height": 81.36, "fill": "#FFFFFF", "text": "\u2022 Digital LED Control Panel\n\u2022 Energy-Efficient Performance\n\u2022 Spacious Drum Design", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "features"}, {"type": "text", "top": 600, "left": 45, "width": 222.18, "height": 79.1, "fill": "#FFFFFF", "text": "$234", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 700, "left": 45, "width": 220, "height": 65, "fill": "#4B9CD3", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 718, "left": 75, "width": 133.29, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 300, "left": 580, "width": 554, "height": 388, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/ZPwX2TeLMQHslV25RFJt0_554x388.png", "id": "product_image"}, {"type": "text", "top": 800, "left": 45, "width": 414.62, "height": 45.2, "fill": "#FFFFFF", "text": "Modern laundry solution with space-saving design\nPerfect for contemporary homes and apartments", "fontSize": 20, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Smart Washer & Dryer Set - Modern Laundry Solution with Digital Controls", "description": "\u2022 Sleek white design with modern digital display interface\n\u2022 Large capacity front-loading washer and matching dryer\n\u2022 Digital LED control panel with multiple wash/dry programs\n\u2022 Energy-efficient performance for lower utility bills\n\u2022 Advanced moisture sensing technology for optimal drying\n\u2022 Multiple temperature settings for various fabric types\n\u2022 Easy-to-use dial controls for program selection\n\u2022 Spacious drum design for handling large loads\n\u2022 Contemporary black door design with chrome accents\n\u2022 Space-saving side-by-side configuration\n\u2022 Advanced spin technology for better water extraction\n\u2022 Delay start option for convenient scheduling\n\u2022 Digital time remaining display\n\u2022 Quiet operation technology\n\u2022 Perfect for modern homes and apartments", "price": "$234"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/ZPwX2TeLMQHslV25RFJt0_554x388.png", "marketplace_url": "blob:https://studio.phot.ai/612212c7-cd6f-40e7-8119-96fec4bec5e3", "layout": "split_vertical"}, "banner_details": "\nThe banner design is a visually compelling layout promoting a modern appliance set, split into two distinct sections. The left section features a dark blue gradient background that houses all the key text components, including a bold headline (`heading`), a futuristic subheading (`subheading`), a bulleted feature list (`features`), a highlighted price (`price`), a bright call-to-action button (`cta_button` and `cta`), and a brief descriptive text (`description`). Geometric and abstract elements subtly enhance the background with lines and circles.\n\nThe right section contrasts with a clean, light gray background to display the appliance (`product_image`) clearly, amplifying its sleek design.\n\n**Color Palette:**\n- Deep Navy Blue: `#2C3E50`\n- Muted Slate Blue: `#4A6F8A`\n- Sky Blue: `#4B9CD3`\n- Light Gray: `#F7F7F7`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image features a sleek and modern twin washer-dryer unit with a clean, minimalistic design. Dominated by a crisp white background (#FFFFFF), it conveys cleanliness and simplicity. The front-loading doors are framed in deep charcoal black (#1C1C1C), drawing focus to the central control features, while transparent black glass (#2F2F2F) creates a subtle contrast and technological feel. Touches of metallic silver (#C0C0C0) on the control dials add sophistication, and the blue digital display text (#3399FF) pops out to highlight functionality. These colors blend seamlessly but are highlighted through high contrast and strategic placement, suggesting a balance of tech and elegance.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2C3E50;stop-opacity:1'/><stop offset='100%' style='stop-color:#4A6F8A;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect x='540' y='0' width='540' height='1080' fill='#F7F7F7'/><g opacity='0.1'><rect x='20' y='150' width='150' height='15' rx='7.5' fill='#ffffff'/><rect x='50' y='190' width='120' height='15' rx='7.5' fill='#ffffff'/><rect x='80' y='230' width='90' height='15' rx='7.5' fill='#ffffff'/><rect x='70' y='270' width='110' height='15' rx='7.5' fill='#ffffff'/><rect x='40' y='310' width='130' height='15' rx='7.5' fill='#ffffff'/><rect x='20' y='350' width='100' height='15' rx='7.5' fill='#ffffff'/></g><g opacity='0.05'><rect x='580' y='150' width='150' height='15' rx='7.5' fill='#2C3E50'/><rect x='610' y='190' width='120' height='15' rx='7.5' fill='#2C3E50'/><rect x='640' y='230' width='90' height='15' rx='7.5' fill='#2C3E50'/><rect x='630' y='270' width='110' height='15' rx='7.5' fill='#2C3E50'/><rect x='600' y='310' width='130' height='15' rx='7.5' fill='#2C3E50'/><rect x='580' y='350' width='100' height='15' rx='7.5' fill='#2C3E50'/></g><circle cx='450' cy='900' r='80' fill='#4B9CD3' opacity='0.3'/><circle cx='100' cy='750' r='40' fill='#ffffff' opacity='0.1'/><circle cx='900' cy='200' r='50' fill='#2C3E50' opacity='0.1'/><path d='M 0 600 Q 270 700, 540 600' stroke='#ffffff' stroke-width='2' fill='none' opacity='0.1'/><path d='M 1080 400 Q 810 300, 540 400' stroke='#2C3E50' stroke-width='2' fill='none' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 45,
+                "width": 438.36,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "REVOLUTIONIZE\nYOUR LAUNDRY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 45,
+                "width": 467.58,
+                "height": 29.38,
+                "fill": "#4B9CD3",
+                "text": "SMART WASHER & DRYER SET",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 45,
+                "width": 302.06,
+                "height": 81.36,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Digital LED Control Panel\n\u2022 Energy-Efficient Performance\n\u2022 Spacious Drum Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 45,
+                "width": 222.18,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "$234",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 700,
+                "left": 45,
+                "width": 220,
+                "height": 65,
+                "fill": "#4B9CD3",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 718,
+                "left": 75,
+                "width": 133.29,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 300,
+                "left": 580,
+                "width": 470.9,
+                "height": 329.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/ZPwX2TeLMQHslV25RFJt0_554x388.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 45,
+                "width": 414.62,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "Modern laundry solution with space-saving design\nPerfect for contemporary homes and apartments",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Smart Washer & Dryer Set - Modern Laundry Solution with Digital Controls",
+            "description": "\u2022 Sleek white design with modern digital display interface\n\u2022 Large capacity front-loading washer and matching dryer\n\u2022 Digital LED control panel with multiple wash/dry programs\n\u2022 Energy-efficient performance for lower utility bills\n\u2022 Advanced moisture sensing technology for optimal drying\n\u2022 Multiple temperature settings for various fabric types\n\u2022 Easy-to-use dial controls for program selection\n\u2022 Spacious drum design for handling large loads\n\u2022 Contemporary black door design with chrome accents\n\u2022 Space-saving side-by-side configuration\n\u2022 Advanced spin technology for better water extraction\n\u2022 Delay start option for convenient scheduling\n\u2022 Digital time remaining display\n\u2022 Quiet operation technology\n\u2022 Perfect for modern homes and apartments",
+            "price": "$234"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/ZPwX2TeLMQHslV25RFJt0_554x388.png",
+        "marketplace_url": "blob:https://studio.phot.ai/612212c7-cd6f-40e7-8119-96fec4bec5e3",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner design is a visually compelling layout promoting a modern appliance set, split into two distinct sections. The left section features a dark blue gradient background that houses all the key text components, including a bold headline (`heading`), a futuristic subheading (`subheading`), a bulleted feature list (`features`), a highlighted price (`price`), a bright call-to-action button (`cta_button` and `cta`), and a brief descriptive text (`description`). Geometric and abstract elements subtly enhance the background with lines and circles.\n\nThe right section contrasts with a clean, light gray background to display the appliance (`product_image`) clearly, amplifying its sleek design.\n\n**Color Palette:**\n- Deep Navy Blue: `#2C3E50`\n- Muted Slate Blue: `#4A6F8A`\n- Sky Blue: `#4B9CD3`\n- Light Gray: `#F7F7F7`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image features a sleek and modern twin washer-dryer unit with a clean, minimalistic design. Dominated by a crisp white background (#FFFFFF), it conveys cleanliness and simplicity. The front-loading doors are framed in deep charcoal black (#1C1C1C), drawing focus to the central control features, while transparent black glass (#2F2F2F) creates a subtle contrast and technological feel. Touches of metallic silver (#C0C0C0) on the control dials add sophistication, and the blue digital display text (#3399FF) pops out to highlight functionality. These colors blend seamlessly but are highlighted through high contrast and strategic placement, suggesting a balance of tech and elegance.\n"
+}

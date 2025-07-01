@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF5E6'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#FFF5E6'/><rect x='700' y='0' width='380' height='1080' fill='#FFEAD1' rx='0' ry='0'/><circle cx='150' cy='250' r='200' fill='#FFD6D6' opacity='0.3'/><circle cx='900' cy='250' r='180' fill='#FFE8B3' opacity='0.5'/><circle cx='200' cy='850' r='150' fill='#FFE8B3' opacity='0.4'/><circle cx='850' cy='800' r='180' fill='#FFD6D6' opacity='0.3'/><g opacity='0.1'><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,0) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,80) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,160) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,240) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,320) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,400) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,0) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,80) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,160) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,240) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,320) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,400) scale(1.2)'/></g></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 60, "width": 1007.6, "height": 131.08, "fill": "#D46C4E", "text": "FLORAL DREAMS", "fontSize": 116, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 65, "width": 770.24, "height": 90.4, "fill": "#E9896A", "text": "SUMMER ROMANCE", "fontSize": 80, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 70, "width": 325.03, "height": 174.02, "fill": "#8E3200", "text": "\u2022 Elegant halter neck design\n\u2022 Vintage-inspired floral print\n\u2022 Wrap-style with ruffle hem\n\u2022 Perfect for summer events", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 781, "left": 35, "width": 407.16, "height": 158.2, "fill": "#D46C4E", "text": "\u20b91999", "fontSize": 140, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 70, "width": 220, "height": 70, "fill": "#D46C4E", "rx": 5, "ry": 5, "id": "cta_button_background"}, {"type": "text", "top": 960, "left": 110, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 280, "left": 590, "width": 295, "height": 599, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6838b8cbd805eac51ec130cd/kvqBzrAwgUwwEfakq-SZG_295x599.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Floral Dreams Halter Neck Dress - Perfect Summer Romance", "description": "\u2022 Elegant halter neck design with adjustable tie\n\u2022 Beautiful vintage-inspired floral print in soft yellow and pink tones\n\u2022 Wrap-style silhouette with romantic ruffle hem detail\n\u2022 Lightweight and breathable fabric perfect for summer wear\n\u2022 Empire waist design for a flattering fit\n\u2022 Sleeveless style with open back detail\n\u2022 Mini length with feminine wrap overlay\n\u2022 Easy care fabric blend suitable for daily wear\n\u2022 Available in sizes XS to XL\n\u2022 Perfect for garden parties, brunches, and summer events", "price": "\u20b91999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6838b8cbd805eac51ec130cd/kvqBzrAwgUwwEfakq-SZG_295x599.png", "marketplace_url": "blob:https://studio.phot.ai/bc4374b8-69a9-409a-b2bd-5366c4d4b380", "layout": "split_vertical"}, "banner_details": "\nThis banner presents a stylish and summery promotional layout centered around a fashion product. The composition features a minimal and warm design, starting with a soft beige background enhanced by semi-transparent pastel circles and wave patterns for added texture. A bold heading (`heading`) grabs attention at the top in vibrant orange tones, followed by a slightly lighter subheading (`subheading`) that enhances the seasonal theme. A descriptive bullet-point list (`description`) provides feature highlights of the product. The price section (`price`) is prominently displayed at the bottom left, complemented by a bold call-to-action button (`cta`) in a rounded rectangle (`cta_button_background`). A central image (`product_image`) showcases the product model, anchoring the layout visually.\n\n**Color Palette:**\n- Light Peach: `#FFF5E6`\n- Soft Orange: `#FFEAD1`\n- Pastel Yellow: `#FFE8B3`\n- Muted Pink: `#FFD6D6`\n- Warm Coral: `#D46C4E`\n- Light Coral: `#E9896A`\n- Deep Brown: `#8E3200`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases a summery halter-neck dress with a vibrant and youthful color palette. Dominant colors include pastel yellow (#FDE9A6) as the base, lavender pink (#DDA0DD) for floral motifs, and soft olive green (#A3B18A) used for detailing. These hues blend softly, creating a harmonious and eye-catching aesthetic. The pastel yellow provides a bright, sunny backdrop, while the subtle purple and green prints add feminine charm and visual texture, yet remain delicately balanced so that no element overshadows the other. For a banner, complement these colors with soft cream (#FFF9F0) or muted blush (#F7CAC9) for a light, soothing look.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF5E6'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#FFF5E6'/><rect x='700' y='0' width='380' height='1080' fill='#FFEAD1' rx='0' ry='0'/><circle cx='150' cy='250' r='200' fill='#FFD6D6' opacity='0.3'/><circle cx='900' cy='250' r='180' fill='#FFE8B3' opacity='0.5'/><circle cx='200' cy='850' r='150' fill='#FFE8B3' opacity='0.4'/><circle cx='850' cy='800' r='180' fill='#FFD6D6' opacity='0.3'/><g opacity='0.1'><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,0) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,80) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,160) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,240) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,320) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(0,400) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,0) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,80) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,160) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,240) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,320) scale(1.2)'/><path d='M50 50 Q 100 120, 150 50 Q 200 -20, 250 50' stroke='#E75A7C' stroke-width='4' fill='none' transform='translate(400,400) scale(1.2)'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 60,
+                "width": 1007.6,
+                "height": 131.08,
+                "fill": "#D46C4E",
+                "text": "FLORAL DREAMS",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 65,
+                "width": 770.24,
+                "height": 90.4,
+                "fill": "#E9896A",
+                "text": "SUMMER ROMANCE",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 70,
+                "width": 325.03,
+                "height": 174.02,
+                "fill": "#8E3200",
+                "text": "\u2022 Elegant halter neck design\n\u2022 Vintage-inspired floral print\n\u2022 Wrap-style with ruffle hem\n\u2022 Perfect for summer events",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 781,
+                "left": 35,
+                "width": 407.16,
+                "height": 158.2,
+                "fill": "#D46C4E",
+                "text": "\u20b91999",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 70,
+                "width": 220,
+                "height": 70,
+                "fill": "#D46C4E",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 960,
+                "left": 110,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 280,
+                "left": 590,
+                "width": 354.0,
+                "height": 718.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6838b8cbd805eac51ec130cd/kvqBzrAwgUwwEfakq-SZG_295x599.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Floral Dreams Halter Neck Dress - Perfect Summer Romance",
+            "description": "\u2022 Elegant halter neck design with adjustable tie\n\u2022 Beautiful vintage-inspired floral print in soft yellow and pink tones\n\u2022 Wrap-style silhouette with romantic ruffle hem detail\n\u2022 Lightweight and breathable fabric perfect for summer wear\n\u2022 Empire waist design for a flattering fit\n\u2022 Sleeveless style with open back detail\n\u2022 Mini length with feminine wrap overlay\n\u2022 Easy care fabric blend suitable for daily wear\n\u2022 Available in sizes XS to XL\n\u2022 Perfect for garden parties, brunches, and summer events",
+            "price": "\u20b91999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6838b8cbd805eac51ec130cd/kvqBzrAwgUwwEfakq-SZG_295x599.png",
+        "marketplace_url": "blob:https://studio.phot.ai/bc4374b8-69a9-409a-b2bd-5366c4d4b380",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner presents a stylish and summery promotional layout centered around a fashion product. The composition features a minimal and warm design, starting with a soft beige background enhanced by semi-transparent pastel circles and wave patterns for added texture. A bold heading (`heading`) grabs attention at the top in vibrant orange tones, followed by a slightly lighter subheading (`subheading`) that enhances the seasonal theme. A descriptive bullet-point list (`description`) provides feature highlights of the product. The price section (`price`) is prominently displayed at the bottom left, complemented by a bold call-to-action button (`cta`) in a rounded rectangle (`cta_button_background`). A central image (`product_image`) showcases the product model, anchoring the layout visually.\n\n**Color Palette:**\n- Light Peach: `#FFF5E6`\n- Soft Orange: `#FFEAD1`\n- Pastel Yellow: `#FFE8B3`\n- Muted Pink: `#FFD6D6`\n- Warm Coral: `#D46C4E`\n- Light Coral: `#E9896A`\n- Deep Brown: `#8E3200`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases a summery halter-neck dress with a vibrant and youthful color palette. Dominant colors include pastel yellow (#FDE9A6) as the base, lavender pink (#DDA0DD) for floral motifs, and soft olive green (#A3B18A) used for detailing. These hues blend softly, creating a harmonious and eye-catching aesthetic. The pastel yellow provides a bright, sunny backdrop, while the subtle purple and green prints add feminine charm and visual texture, yet remain delicately balanced so that no element overshadows the other. For a banner, complement these colors with soft cream (#FFF9F0) or muted blush (#F7CAC9) for a light, soothing look.\n"
+}

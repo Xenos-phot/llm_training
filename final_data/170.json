@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#F8F4EC'/><stop offset='100%' stop-color='#E1D9CC'/></radialGradient><linearGradient id='accentGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#9B7A5A'/><stop offset='100%' stop-color='#6D4C33'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='#FFF8F0' stroke='#9B7A5A' stroke-width='3'/><circle cx='540' cy='540' r='320' fill='none' stroke='#9B7A5A' stroke-width='2' stroke-dasharray='10,10'/><circle cx='850' cy='450' r='120' fill='url(#accentGradient)' stroke='#9B7A5A' stroke-width='3'/><g opacity='0.2'><circle cx='200' cy='200' r='15' fill='#9B7A5A'/><circle cx='880' cy='800' r='12' fill='#9B7A5A'/><circle cx='150' cy='700' r='18' fill='#9B7A5A'/><circle cx='750' cy='200' r='14' fill='#9B7A5A'/></g><path d='M100 300 L200 200' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/><path d='M880 780 L980 880' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/><path d='M800 150 L900 50' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/><path d='M180 850 L80 950' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 224.28, "width": 629.44, "height": 113, "fill": "#6D4C33", "text": "X LOWS CORTADO", "fontSize": 100, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 175, "width": 728, "height": 56.5, "fill": "#8B5A2B", "text": "PREMIUM CANVAS SNEAKERS", "fontSize": 50, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 900, "left": 65.55, "width": 946.9, "height": 38.42, "fill": "#6D4C33", "text": "\u2022 EVER-SOFT GRIP \u2022 SPACEWALK SOLE \u2022 BREATHABLE DESIGN", "fontSize": 34, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "image", "top": 412.93, "left": 288.13, "width": 775, "height": 391, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/3cJlgOVqV0VbwHl3vNHWH_775x391.png", "id": "product_image"}, {"type": "text", "top": 426.45, "left": 753.42, "width": 185.8, "height": 56.5, "fill": "#FFFFFF", "text": "\u20b94299", "fontSize": 50, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430, "width": 220, "height": 60, "fill": "#6D4C33", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 996.44, "left": 477.48, "width": 123.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "X Lows CORTADO", "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA", "price": "\u20b94299"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/3cJlgOVqV0VbwHl3vNHWH_775x391.png", "marketplace_url": "", "layout": "circular_focus"}, "banner_details": "\nThe banner features a clean, modern layout with a central highlight on a sneaker product image (`product_image`), enclosed within a circular dotted and solid border element. The background employs a soft radial gradient transitioning from light beige to a warm taupe tone. The topmost bold heading (`heading`) uses a condensed display font in a rich chocolate brown color, followed by a slightly lighter subheading text (`subheading`) highlighting product nature. The price (`price`) is presented inside a circular accent with a linear gradient in tan tones, offering visual contrast. At the bottom, concise features are listed (`description`) in a horizontal line with decorative bullets, and a dark brown rectangular call-to-action button (`cta_button`) featuring white uppercase text (`cta`). The use of radial and linear gradients, dotted strokes and radial balance adds visual interest while keeping focus on the shoe.\n\n**Color Palette**:\n- Background Gradient Start: `#F8F4EC` (light beige)\n- Background Gradient End: `#E1D9CC` (warm taupe)\n- Accent Gradient Start: `#9B7A5A` (light tan brown)\n- Accent Gradient End: `#6D4C33` (dark chocolate brown)\n- Text Primary: `#6D4C33`\n- Subheading Text: `#8B5A2B`\n- Price Text: `#FFFFFF`\n- Button Background: `#6D4C33`\n- Button Text: `#FFFFFF`\n- Circle Fill (Product BG): `#FFF8F0`\n", "product_color": "  \nThe product image showcases a sneaker that features a soft, neutral color palette optimized for natural and earthy-themed advertisement banners. The upper is primarily an off-white cream color (#F5F1E6), offering a clean, versatile base. Accentuating this are deep mocha brown laces and trimming (#6B4C3B), adding warmth and a grounded tone. The sole is a light beige/tan shade (#E6DCCD), harmonizing with the upper while distinguishing itself subtly. The standout element is the white star emblem (#FFFFFF) outlined in the same deep brown, which adds contrast without overwhelming the design. These colors blend seamlessly while each element remains highlighted through sharp borders and material texture contrasts.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#F8F4EC'/><stop offset='100%' stop-color='#E1D9CC'/></radialGradient><linearGradient id='accentGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#9B7A5A'/><stop offset='100%' stop-color='#6D4C33'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='#FFF8F0' stroke='#9B7A5A' stroke-width='3'/><circle cx='540' cy='540' r='320' fill='none' stroke='#9B7A5A' stroke-width='2' stroke-dasharray='10,10'/><circle cx='850' cy='450' r='120' fill='url(#accentGradient)' stroke='#9B7A5A' stroke-width='3'/><g opacity='0.2'><circle cx='200' cy='200' r='15' fill='#9B7A5A'/><circle cx='880' cy='800' r='12' fill='#9B7A5A'/><circle cx='150' cy='700' r='18' fill='#9B7A5A'/><circle cx='750' cy='200' r='14' fill='#9B7A5A'/></g><path d='M100 300 L200 200' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/><path d='M880 780 L980 880' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/><path d='M800 150 L900 50' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/><path d='M180 850 L80 950' stroke='#9B7A5A' stroke-width='2' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 224.28,
+                "width": 629.44,
+                "height": 113,
+                "fill": "#6D4C33",
+                "text": "X LOWS CORTADO",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 175,
+                "width": 728,
+                "height": 56.5,
+                "fill": "#8B5A2B",
+                "text": "PREMIUM CANVAS SNEAKERS",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 65.55,
+                "width": 946.9,
+                "height": 38.42,
+                "fill": "#6D4C33",
+                "text": "\u2022 EVER-SOFT GRIP \u2022 SPACEWALK SOLE \u2022 BREATHABLE DESIGN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 412.93,
+                "left": 288.13,
+                "width": 503.75,
+                "height": 254.15,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/3cJlgOVqV0VbwHl3vNHWH_775x391.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 426.45,
+                "left": 753.42,
+                "width": 185.8,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "\u20b94299",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430,
+                "width": 220,
+                "height": 60,
+                "fill": "#6D4C33",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.48,
+                "width": 123.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "X Lows CORTADO",
+            "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA",
+            "price": "\u20b94299"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/3cJlgOVqV0VbwHl3vNHWH_775x391.png",
+        "marketplace_url": "",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner features a clean, modern layout with a central highlight on a sneaker product image (`product_image`), enclosed within a circular dotted and solid border element. The background employs a soft radial gradient transitioning from light beige to a warm taupe tone. The topmost bold heading (`heading`) uses a condensed display font in a rich chocolate brown color, followed by a slightly lighter subheading text (`subheading`) highlighting product nature. The price (`price`) is presented inside a circular accent with a linear gradient in tan tones, offering visual contrast. At the bottom, concise features are listed (`description`) in a horizontal line with decorative bullets, and a dark brown rectangular call-to-action button (`cta_button`) featuring white uppercase text (`cta`). The use of radial and linear gradients, dotted strokes and radial balance adds visual interest while keeping focus on the shoe.\n\n**Color Palette**:\n- Background Gradient Start: `#F8F4EC` (light beige)\n- Background Gradient End: `#E1D9CC` (warm taupe)\n- Accent Gradient Start: `#9B7A5A` (light tan brown)\n- Accent Gradient End: `#6D4C33` (dark chocolate brown)\n- Text Primary: `#6D4C33`\n- Subheading Text: `#8B5A2B`\n- Price Text: `#FFFFFF`\n- Button Background: `#6D4C33`\n- Button Text: `#FFFFFF`\n- Circle Fill (Product BG): `#FFF8F0`\n",
+    "product_color": "  \nThe product image showcases a sneaker that features a soft, neutral color palette optimized for natural and earthy-themed advertisement banners. The upper is primarily an off-white cream color (#F5F1E6), offering a clean, versatile base. Accentuating this are deep mocha brown laces and trimming (#6B4C3B), adding warmth and a grounded tone. The sole is a light beige/tan shade (#E6DCCD), harmonizing with the upper while distinguishing itself subtly. The standout element is the white star emblem (#FFFFFF) outlined in the same deep brown, which adds contrast without overwhelming the design. These colors blend seamlessly while each element remains highlighted through sharp borders and material texture contrasts.  \n"
+}

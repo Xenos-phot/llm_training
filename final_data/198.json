@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2B2D42;stop-opacity:1' /><stop offset='100%' style='stop-color:#141526;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#3498DB;stop-opacity:1' /><stop offset='100%' style='stop-color:#2980B9;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='540' y='0' width='540' height='1080' fill='#F0F0F0' opacity='0.95'/><circle cx='970' cy='150' r='120' fill='url(#grad2)' opacity='0.3'/><circle cx='100' cy='900' r='80' fill='url(#grad2)' opacity='0.2'/><g transform='translate(20, 180) rotate(-15)'><rect x='0' y='0' width='150' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='20' width='100' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='40' width='200' height='10' fill='#3498DB' opacity='0.5'/></g><g transform='translate(50, 500) rotate(-15)'><rect x='0' y='0' width='180' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='20' width='130' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='40' width='230' height='10' fill='#3498DB' opacity='0.5'/></g><g transform='translate(30, 800) rotate(-15)'><rect x='0' y='0' width='160' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='20' width='110' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='40' width='210' height='10' fill='#3498DB' opacity='0.5'/></g></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 40, "width": 371.39, "height": 221.48, "fill": "#FFFFFF", "text": "UNVEIL THE\nFUTURE OF\nLAUNDRY", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 340, "left": 40, "width": 324.56, "height": 71.19, "fill": "#3498DB", "text": "INSIGNIA\u2122 SMART\nWASHER & DRYER SET", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 460, "left": 40, "width": 426.73, "height": 120.23, "fill": "#FFFFFF", "text": "\u2022 Sleek Design with Digital Display\n\u2022 Energy-Efficient Operation\n\u2022 Smart Controls with Multiple Cycles", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 670, "left": 40, "width": 255.92, "height": 90.4, "fill": "#3498DB", "text": "$234", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 40, "width": 220, "height": 70, "fill": "#3498DB", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 820, "left": 77, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 920, "left": 40, "width": 465.43, "height": 24.86, "fill": "#FFFFFF", "text": "Transform Your Home with Cutting-Edge Efficiency!", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 120, "left": 590, "width": 489, "height": 1353, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/43F_8QhxE8BPPY3LjUWl__489x1353.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia\u2122 Smart Washer & Dryer Set - Modern Laundry Made Easy!", "description": "\u2022 \u2728 Sleek white design with modern digital displays for contemporary home aesthetics\n\u2022 \ud83d\udd27 Front-loading washer and dryer with large capacity for family-sized loads\n\u2022 \ud83d\udcf1 Digital LED display with intuitive controls and multiple wash/dry cycles\n\u2022 \u26a1 Energy-efficient operation to help reduce utility bills\n\u2022 \ud83c\udf1f Stackable design perfect for saving space in apartments or small laundry rooms\n\u2022 \ud83d\udd04 Multiple temperature settings and customizable cycle options\n\u2022 \ud83d\udca7 Advanced moisture sensing technology in dryer for optimal drying results\n\u2022 \ud83c\udfc3 Quick wash and dry cycles available for time-saving convenience\n\u2022 \ud83d\udd0a Quiet operation with advanced noise reduction technology\n\u2022 \u2b50 Easy-access maintenance panels and lint filter for simple upkeep", "price": "$234"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/43F_8QhxE8BPPY3LjUWl__489x1353.png", "marketplace_url": "blob:https://studio.phot.ai/55db35f0-bd49-4450-82a0-53b504227adb", "layout": "split_vertical"}, "banner_details": "\nThe banner features a modern, tech-inspired layout divided vertically between a dark left section with gradient tones and a clean, light grey right side showcasing a washer and dryer set image. The layout effectively highlights five distinct text elements. The bold and impactful title (`heading`) introduces the theme, followed by a bright blue subtitle (`subheading`) to reinforce product identity. A descriptive bullet list (`description`) outlines key features. The prominent price (`price`) is styled in a futuristic blue font to draw attention. Below, a solid blue call-to-action button (`cta_background` with `cta` text) and a subtle tagline (`tagline`) complete the promotional message.\n\n**Color Palette:**\n- Dark Navy: #2B2D42\n- Deep Blue: #141526\n- Sky Blue: #3498DB\n- Medium Blue: #2980B9\n- Light Grey: #F0F0F0\n- White: #FFFFFF\n", "product_color": "\nThe product image features a sleek, modern washer-dryer unit dominated by a clean white (#FFFFFF) finish, creating a minimalist and premium look. Black (#000000) is used prominently for the door rims and inner drum, adding contrast and visual focus. The control panels integrate soft grays (#D3D3D3) and metallic silver (#C0C0C0), especially in the dial, giving a high-tech and sophisticated feel. Blue accents (#3399FF) on the interface highlight key functions, guiding the user\u2019s attention effectively. Together, these colors blend with clean, precise lines, offering a balance of cleanliness and innovation. A suitable advertising palette includes white, black, silver, light gray, and electric blue.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2B2D42;stop-opacity:1' /><stop offset='100%' style='stop-color:#141526;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#3498DB;stop-opacity:1' /><stop offset='100%' style='stop-color:#2980B9;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='540' y='0' width='540' height='1080' fill='#F0F0F0' opacity='0.95'/><circle cx='970' cy='150' r='120' fill='url(#grad2)' opacity='0.3'/><circle cx='100' cy='900' r='80' fill='url(#grad2)' opacity='0.2'/><g transform='translate(20, 180) rotate(-15)'><rect x='0' y='0' width='150' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='20' width='100' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='40' width='200' height='10' fill='#3498DB' opacity='0.5'/></g><g transform='translate(50, 500) rotate(-15)'><rect x='0' y='0' width='180' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='20' width='130' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='40' width='230' height='10' fill='#3498DB' opacity='0.5'/></g><g transform='translate(30, 800) rotate(-15)'><rect x='0' y='0' width='160' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='20' width='110' height='10' fill='#3498DB' opacity='0.5'/><rect x='0' y='40' width='210' height='10' fill='#3498DB' opacity='0.5'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 40,
+                "width": 371.39,
+                "height": 221.48,
+                "fill": "#FFFFFF",
+                "text": "UNVEIL THE\nFUTURE OF\nLAUNDRY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 40,
+                "width": 324.56,
+                "height": 71.19,
+                "fill": "#3498DB",
+                "text": "INSIGNIA\u2122 SMART\nWASHER & DRYER SET",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 460,
+                "left": 40,
+                "width": 426.73,
+                "height": 120.23,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Sleek Design with Digital Display\n\u2022 Energy-Efficient Operation\n\u2022 Smart Controls with Multiple Cycles",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 670,
+                "left": 40,
+                "width": 255.92,
+                "height": 90.4,
+                "fill": "#3498DB",
+                "text": "$234",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 40,
+                "width": 220,
+                "height": 70,
+                "fill": "#3498DB",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 77,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 920,
+                "left": 40,
+                "width": 465.43,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "Transform Your Home with Cutting-Edge Efficiency!",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 120,
+                "left": 590,
+                "width": 293.4,
+                "height": 811.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/43F_8QhxE8BPPY3LjUWl__489x1353.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia\u2122 Smart Washer & Dryer Set - Modern Laundry Made Easy!",
+            "description": "\u2022 \u2728 Sleek white design with modern digital displays for contemporary home aesthetics\n\u2022 \ud83d\udd27 Front-loading washer and dryer with large capacity for family-sized loads\n\u2022 \ud83d\udcf1 Digital LED display with intuitive controls and multiple wash/dry cycles\n\u2022 \u26a1 Energy-efficient operation to help reduce utility bills\n\u2022 \ud83c\udf1f Stackable design perfect for saving space in apartments or small laundry rooms\n\u2022 \ud83d\udd04 Multiple temperature settings and customizable cycle options\n\u2022 \ud83d\udca7 Advanced moisture sensing technology in dryer for optimal drying results\n\u2022 \ud83c\udfc3 Quick wash and dry cycles available for time-saving convenience\n\u2022 \ud83d\udd0a Quiet operation with advanced noise reduction technology\n\u2022 \u2b50 Easy-access maintenance panels and lint filter for simple upkeep",
+            "price": "$234"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/43F_8QhxE8BPPY3LjUWl__489x1353.png",
+        "marketplace_url": "blob:https://studio.phot.ai/55db35f0-bd49-4450-82a0-53b504227adb",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a modern, tech-inspired layout divided vertically between a dark left section with gradient tones and a clean, light grey right side showcasing a washer and dryer set image. The layout effectively highlights five distinct text elements. The bold and impactful title (`heading`) introduces the theme, followed by a bright blue subtitle (`subheading`) to reinforce product identity. A descriptive bullet list (`description`) outlines key features. The prominent price (`price`) is styled in a futuristic blue font to draw attention. Below, a solid blue call-to-action button (`cta_background` with `cta` text) and a subtle tagline (`tagline`) complete the promotional message.\n\n**Color Palette:**\n- Dark Navy: #2B2D42\n- Deep Blue: #141526\n- Sky Blue: #3498DB\n- Medium Blue: #2980B9\n- Light Grey: #F0F0F0\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a sleek, modern washer-dryer unit dominated by a clean white (#FFFFFF) finish, creating a minimalist and premium look. Black (#000000) is used prominently for the door rims and inner drum, adding contrast and visual focus. The control panels integrate soft grays (#D3D3D3) and metallic silver (#C0C0C0), especially in the dial, giving a high-tech and sophisticated feel. Blue accents (#3399FF) on the interface highlight key functions, guiding the user\u2019s attention effectively. Together, these colors blend with clean, precise lines, offering a balance of cleanliness and innovation. A suitable advertising palette includes white, black, silver, light gray, and electric blue.\n"
+}

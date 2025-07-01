@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF5F8'/><rect y='600' width='1080' height='480' fill='#FFE0EB'/><circle cx='950' cy='150' r='180' fill='#FF8EB4' opacity='0.3'/><circle cx='120' cy='250' r='150' fill='#FF8EB4' opacity='0.2'/><circle cx='150' cy='850' r='120' fill='#FF6699' opacity='0.2'/><path d='M0 0 L1080 0 L1080 130 L0 130 Z' fill='#FF6699' opacity='0.8'/><path d='M0 950 L1080 950 L1080 1080 L0 1080 Z' fill='#FF6699' opacity='0.8'/><path d='M700 250 C800 300 850 400 900 500 C950 600 980 700 1000 800' stroke='#FF8EB4' stroke-width='8' opacity='0.5'/><path d='M100 300 C200 350 250 450 300 550 C350 650 380 750 400 850' stroke='#FF8EB4' stroke-width='8' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 7, "left": 36, "width": 926.48, "height": 135.6, "fill": "#333333", "text": "PINK PERFECT", "fontSize": 120, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 60, "width": 520.72, "height": 90.4, "fill": "#D62E83", "text": "LUXE DUO SET", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 315, "left": 60, "width": 533.01, "height": 193.46, "fill": "#333333", "text": "\u2022 Premium Creamy Long-Lasting Formula\n\u2022 Matched Pink Powder Blush\n\u2022 Built-in Mirror for Touch-ups\n\u2022 Professional-Grade Pigmentation", "fontSize": 32, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 530, "left": 60, "width": 444.72, "height": 45.2, "fill": "#D62E83", "text": "EARLY BIRD DISCOUNT", "fontSize": 40, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 780, "left": 60, "width": 243.76, "height": 90.4, "fill": "#333333", "text": "\u20b9 999", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 890, "left": 60, "width": 220.00000000000003, "height": 66.0, "fill": "#D62E83", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 910, "left": 94, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 403.325, "left": 521.525, "width": 703, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/y2FYOaf3ZIgPlf4vsv3Nq_703x759.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pink Perfect Duo: Luxe Lipstick & Blush Compact Set", "description": "\u2022 Premium pink-toned lipstick with creamy, long-lasting formula\n\u2022 Elegant silver and black lipstick packaging for sophisticated look\n\u2022 Perfectly matched pink powder blush in sleek compact case\n\u2022 Built-in mirror for on-the-go touch-ups\n\u2022 Professional-grade pigmentation for vibrant color payoff\n\u2022 Complementary shades designed to enhance natural beauty\n\u2022 Travel-friendly compact size\n\u2022 Mirror-finish compact case with secure closure\n\u2022 Dermatologically tested formulation\n\u2022 Perfect for creating a coordinated makeup look", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/y2FYOaf3ZIgPlf4vsv3Nq_703x759.png", "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg", "layout": "z_pattern"}, "banner_details": "\nThis banner design features a modern and vibrant promotional layout with a strong feminine appeal, suited for beauty product marketing. The background is constructed with soft pink gradients and circular graphic elements, giving the composition a layered and dynamic feel. The heading (`heading`) is bold and dark-toned, providing strong contrast atop a light pink strip. Below it, the subheading (`subheading`) uses a magenta hue to emphasize the featured product: a cosmetics set. Informational bullet points are listed in a light grey (`description`) font. A callout line (`tagline`) highlights a special offer in vivid magenta. The price (`price`) is showcased in bold font with a currency icon, and a solid magenta button (`cta_button`) contains the call-to-action text (`cta`). To the right, the focus product image (`product_image`) balances the textual and visual elements effectively.\n\n**Color Palette:**\n- Soft pink: `#FFF5F8`\n- Light blush: `#FFE0EB`\n- Vibrant pink: `#FF6699`\n- Magenta: `#D62E83`\n- Pale rose: `#FF8EB4`\n- Dark grey: `#333333`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a vibrant pink lipstick and matching blush palette, balanced elegantly with sleek black and silver casing. The primary color, a bright candy pink (#F48BB1), is used in both the lipstick and blush, creating a cohesive visual appeal. The black casing (#1C1C1C) provides a bold contrast, which helps highlight the vibrant pink. The silver metallic section of the lipstick holder (#C0C0C0) adds a modern, polished touch. The blending of bright pink against the neutral black and silver emphasizes the product while maintaining sophistication. This palette is perfect for banners targeting a youthful, chic, and stylish demographic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF5F8'/><rect y='600' width='1080' height='480' fill='#FFE0EB'/><circle cx='950' cy='150' r='180' fill='#FF8EB4' opacity='0.3'/><circle cx='120' cy='250' r='150' fill='#FF8EB4' opacity='0.2'/><circle cx='150' cy='850' r='120' fill='#FF6699' opacity='0.2'/><path d='M0 0 L1080 0 L1080 130 L0 130 Z' fill='#FF6699' opacity='0.8'/><path d='M0 950 L1080 950 L1080 1080 L0 1080 Z' fill='#FF6699' opacity='0.8'/><path d='M700 250 C800 300 850 400 900 500 C950 600 980 700 1000 800' stroke='#FF8EB4' stroke-width='8' opacity='0.5'/><path d='M100 300 C200 350 250 450 300 550 C350 650 380 750 400 850' stroke='#FF8EB4' stroke-width='8' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 7,
+                "left": 36,
+                "width": 926.48,
+                "height": 135.6,
+                "fill": "#333333",
+                "text": "PINK PERFECT",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 520.72,
+                "height": 90.4,
+                "fill": "#D62E83",
+                "text": "LUXE DUO SET",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 315,
+                "left": 60,
+                "width": 533.01,
+                "height": 193.46,
+                "fill": "#333333",
+                "text": "\u2022 Premium Creamy Long-Lasting Formula\n\u2022 Matched Pink Powder Blush\n\u2022 Built-in Mirror for Touch-ups\n\u2022 Professional-Grade Pigmentation",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 530,
+                "left": 60,
+                "width": 444.72,
+                "height": 45.2,
+                "fill": "#D62E83",
+                "text": "EARLY BIRD DISCOUNT",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 60,
+                "width": 243.76,
+                "height": 90.4,
+                "fill": "#333333",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 890,
+                "left": 60,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#D62E83",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 910,
+                "left": 94,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 403.325,
+                "left": 521.525,
+                "width": 456.95,
+                "height": 493.35,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/y2FYOaf3ZIgPlf4vsv3Nq_703x759.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pink Perfect Duo: Luxe Lipstick & Blush Compact Set",
+            "description": "\u2022 Premium pink-toned lipstick with creamy, long-lasting formula\n\u2022 Elegant silver and black lipstick packaging for sophisticated look\n\u2022 Perfectly matched pink powder blush in sleek compact case\n\u2022 Built-in mirror for on-the-go touch-ups\n\u2022 Professional-grade pigmentation for vibrant color payoff\n\u2022 Complementary shades designed to enhance natural beauty\n\u2022 Travel-friendly compact size\n\u2022 Mirror-finish compact case with secure closure\n\u2022 Dermatologically tested formulation\n\u2022 Perfect for creating a coordinated makeup look",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/y2FYOaf3ZIgPlf4vsv3Nq_703x759.png",
+        "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner design features a modern and vibrant promotional layout with a strong feminine appeal, suited for beauty product marketing. The background is constructed with soft pink gradients and circular graphic elements, giving the composition a layered and dynamic feel. The heading (`heading`) is bold and dark-toned, providing strong contrast atop a light pink strip. Below it, the subheading (`subheading`) uses a magenta hue to emphasize the featured product: a cosmetics set. Informational bullet points are listed in a light grey (`description`) font. A callout line (`tagline`) highlights a special offer in vivid magenta. The price (`price`) is showcased in bold font with a currency icon, and a solid magenta button (`cta_button`) contains the call-to-action text (`cta`). To the right, the focus product image (`product_image`) balances the textual and visual elements effectively.\n\n**Color Palette:**\n- Soft pink: `#FFF5F8`\n- Light blush: `#FFE0EB`\n- Vibrant pink: `#FF6699`\n- Magenta: `#D62E83`\n- Pale rose: `#FF8EB4`\n- Dark grey: `#333333`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a vibrant pink lipstick and matching blush palette, balanced elegantly with sleek black and silver casing. The primary color, a bright candy pink (#F48BB1), is used in both the lipstick and blush, creating a cohesive visual appeal. The black casing (#1C1C1C) provides a bold contrast, which helps highlight the vibrant pink. The silver metallic section of the lipstick holder (#C0C0C0) adds a modern, polished touch. The blending of bright pink against the neutral black and silver emphasizes the product while maintaining sophistication. This palette is perfect for banners targeting a youthful, chic, and stylish demographic.\n"
+}

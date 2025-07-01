@@ -1,1 +1,159 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#000000'/><rect x='0' y='0' width='540' height='540' fill='#3e2021'/><rect x='540' y='0' width='540' height='540' fill='#3c2b2c'/><rect x='0' y='540' width='540' height='540' fill='#555555'/><rect x='540' y='540' width='540' height='540' fill='#3c2b2c'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#f4ebdc' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#f4ebdc' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#f4ebdc' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#f4ebdc' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#f4ebdc' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#f4ebdc' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#f4ebdc' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#f4ebdc' stroke-width='2'/></g><path d='M540 0 L540 1080' stroke='#d72300' stroke-width='2'/><path d='M0 540 L1080 540' stroke='#d72300' stroke-width='2'/><circle cx='540' cy='540' r='80' fill='#d72300' opacity='0.1'/><path d='M40 40 L180 40 L200 80 L40 80 Z' fill='#d72300' opacity='0.3'/><path d='M900 900 L1040 900 L1040 1040 L900 1060 Z' fill='#d72300' opacity='0.3'/><g><path d='M800 100 C 820 80, 840 120, 860 100' stroke='#f4ebdc' stroke-width='2' fill='none' opacity='0.6'/><path d='M800 120 C 820 100, 840 140, 860 120' stroke='#f4ebdc' stroke-width='2' fill='none' opacity='0.6'/><path d='M800 140 C 820 120, 840 160, 860 140' stroke='#f4ebdc' stroke-width='2' fill='none' opacity='0.6'/></g><g opacity='0.5'><path d='M100 600 L140 600 L120 630 L80 630 Z' fill='#f4ebdc'/><path d='M180 600 L220 600 L200 630 L160 630 Z' fill='#f4ebdc'/><path d='M260 600 L300 600 L280 630 L240 630 Z' fill='#f4ebdc'/></g><path d='M80 350 L80 190 L180 190 L180 350 Z' stroke='#f4ebdc' stroke-opacity='0.2' stroke-width='1' fill='none'/><path d='M900 450 L900 290 L1000 290 L1000 450 Z' stroke='#f4ebdc' stroke-opacity='0.2' stroke-width='1' fill='none'/><text x='180' y='260' font-family='Arial' font-size='24' fill='#f4ebdc' opacity='0.2'>LIMITED TIME</text><text x='900' y='350' font-family='Arial' font-size='24' fill='#f4ebdc' opacity='0.2'>OFFER</text></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 60, "width": 281.6, "height": 113, "fill": "#f4ebdc", "text": "EARLY", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 210, "left": 60, "width": 204.75, "height": 113, "fill": "#f4ebdc", "text": "BIRD", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 330, "left": 70, "width": 377.34, "height": 79.1, "fill": "#d72300", "text": "DISCOUNT", "fontSize": 70, "fontFamily": "AHOY-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 580, "left": 60, "width": 340.97, "height": 186.45, "fill": "#f4ebdc", "text": "\u2022 184L Capacity\n\u2022 9 Hours Cooling Retention\n\u2022 Adjustable Shelves\n\u2022 Energy Efficient", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 60, "width": 341.2, "height": 90.4, "fill": "#f4ebdc", "text": "\u20b912,990", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 915, "left": 60, "width": 230, "height": 65, "fill": "#d72300", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 932, "left": 103, "width": 157.82, "height": 31.64, "fill": "#f4ebdc", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 435, "left": 60, "width": 287.84, "height": 33.9, "fill": "#f4ebdc", "text": "LIMITED TIME OFFER!", "fontSize": 30, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "image", "top": 100, "left": 600, "width": 623, "height": 1360, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/HHuz5FVb26117ZqnU3KGc_623x1360.png", "id": "product_image"}, {"type": "text", "top": 880, "left": 690, "width": 229.66, "height": 33.9, "fill": "#f4ebdc", "text": "WHIRLPOOL", "fontSize": 30, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "brand_name"}, {"type": "text", "top": 930, "left": 640, "width": 314.24, "height": 24.86, "fill": "#f4ebdc", "text": "205 WDE CLS 2S SAPPHIRE BLUE-Z", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "product_model"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE CLS 2S SAPPHIRE BLUE-Z, Blue,2023 Model)", "description": "- Brand: Whirlpool.\n- Model: 205 WDE CLS 2S.\n- Capacity: 184 litres.\n- Annual Energy Consumption: 190 Kilowatt Hours Per Year.\n- Refrigerator Fresh Food Capacity: 169.2 litres.\n- Freezer Capacity: 14.3 Litres.\n- Bottle Count: 4.\n- Installation Type: Freestanding.\n- Part Number: 205 WDE CLS 2S.\n- Form Factor: Stand Alone.\n- Special Features: Adjustable Shelves.\n- Colour: SAPPHIRE BLUE-Z.\n- Voltage: 220.\n- Wattage: 205 Watts.\n- Number of Drawers: 4.\n- Defrost System: Automatic.\n- Door Orientation: Left.\n- Door Material: Stainless Steel.\n- Shelf Type: Wire.\n- Number of Shelves: 2.\n- Certification: Energy Rating.\n- Material: Stainless Steel.\n- Batteries Required: No.\n- Country of Origin: India.\n- Importer: Whirlpool of India Ltd.\n- Plot No.\n- A-4, MIDC Ranjangaon,Taluka Shirur, Dist: Pune, Maharashtra 412220, India, Email - helpdeskindia@whirlpool.com ; Toll Free - 1800 208 1800.\n- Item Weight: 33 kg 400 g.\n- Item Dimensions Lx Wx H: 60.5 x 53.5 x 118.8 Centimeters.\n- Net Quantity: 1 count.\n- Generic Name: Refrigerator.", "price": "\u20b912990"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/HHuz5FVb26117ZqnU3KGc_623x1360.png", "marketplace_url": "https://www.amazon.in/Whirlpool-Refrigerator-205-WDE-CLS/dp/B0BSRVL2VV", "layout": "grid_four"}, "banner_details": "\nThis visually engaging banner is divided into two main sections separated by a vertical red line. The left half includes promotional text elements: a bold headline (`heading_1` and `heading_2`), a vibrant red text block for urgency (`tagline`), a smaller sub-header for limited-time messaging (`subheading`), and product features detailed in bullet points (`description`). Below this, a large price highlight (`price`) and a red call-to-action button with white text (`cta_background` and `cta`) are placed for strong visual emphasis. On the right, there's a fridge product image (`product_image`) with overlaid cooling information and brand/model identification (`brand_name`, `product_model`).\n\n**Color Palette:**\n- Deep Red: #d72300  \n- Cream White: #f4ebdc  \n- Dark Burgundy: #3e2021  \n- Muted Gray: #555555  \n- Charcoal Brown: #3c2b2c  \n- Sapphire Blue: (from product image)\n\n", "product_color": "\nThe product image features a Whirlpool refrigerator characterized by a deep and rich royal blue color (#10003A), which exudes a premium and modern appeal. The center body blends gradients of dark navy blue (#0A1B66) to slightly lighter bluish-purple hues (#3B3F94) towards the sides, creating a smooth, luxurious finish. The white text and snowflake icon (#FFFFFF) contrast sharply with the background, making key features like \"9 HOURS COOLING RETENTION\" highly legible and attention-grabbing. The color palette for an advertisement banner can include royal blue (#10003A), white (#FFFFFF), silver-gray (#B0B4C8), and accent light blue (#A6C8FF) for highlights and emphasis.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#000000'/><rect x='0' y='0' width='540' height='540' fill='#3e2021'/><rect x='540' y='0' width='540' height='540' fill='#3c2b2c'/><rect x='0' y='540' width='540' height='540' fill='#555555'/><rect x='540' y='540' width='540' height='540' fill='#3c2b2c'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#f4ebdc' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#f4ebdc' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#f4ebdc' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#f4ebdc' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#f4ebdc' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#f4ebdc' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#f4ebdc' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#f4ebdc' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#f4ebdc' stroke-width='2'/></g><path d='M540 0 L540 1080' stroke='#d72300' stroke-width='2'/><path d='M0 540 L1080 540' stroke='#d72300' stroke-width='2'/><circle cx='540' cy='540' r='80' fill='#d72300' opacity='0.1'/><path d='M40 40 L180 40 L200 80 L40 80 Z' fill='#d72300' opacity='0.3'/><path d='M900 900 L1040 900 L1040 1040 L900 1060 Z' fill='#d72300' opacity='0.3'/><g><path d='M800 100 C 820 80, 840 120, 860 100' stroke='#f4ebdc' stroke-width='2' fill='none' opacity='0.6'/><path d='M800 120 C 820 100, 840 140, 860 120' stroke='#f4ebdc' stroke-width='2' fill='none' opacity='0.6'/><path d='M800 140 C 820 120, 840 160, 860 140' stroke='#f4ebdc' stroke-width='2' fill='none' opacity='0.6'/></g><g opacity='0.5'><path d='M100 600 L140 600 L120 630 L80 630 Z' fill='#f4ebdc'/><path d='M180 600 L220 600 L200 630 L160 630 Z' fill='#f4ebdc'/><path d='M260 600 L300 600 L280 630 L240 630 Z' fill='#f4ebdc'/></g><path d='M80 350 L80 190 L180 190 L180 350 Z' stroke='#f4ebdc' stroke-opacity='0.2' stroke-width='1' fill='none'/><path d='M900 450 L900 290 L1000 290 L1000 450 Z' stroke='#f4ebdc' stroke-opacity='0.2' stroke-width='1' fill='none'/><text x='180' y='260' font-family='Arial' font-size='24' fill='#f4ebdc' opacity='0.2'>LIMITED TIME</text><text x='900' y='350' font-family='Arial' font-size='24' fill='#f4ebdc' opacity='0.2'>OFFER</text></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 60,
+                "width": 281.6,
+                "height": 113,
+                "fill": "#f4ebdc",
+                "text": "EARLY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 60,
+                "width": 204.75,
+                "height": 113,
+                "fill": "#f4ebdc",
+                "text": "BIRD",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 70,
+                "width": 377.34,
+                "height": 79.1,
+                "fill": "#d72300",
+                "text": "DISCOUNT",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 60,
+                "width": 340.97,
+                "height": 186.45,
+                "fill": "#f4ebdc",
+                "text": "\u2022 184L Capacity\n\u2022 9 Hours Cooling Retention\n\u2022 Adjustable Shelves\n\u2022 Energy Efficient",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 60,
+                "width": 341.2,
+                "height": 90.4,
+                "fill": "#f4ebdc",
+                "text": "\u20b912,990",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 915,
+                "left": 60,
+                "width": 230,
+                "height": 65,
+                "fill": "#d72300",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 932,
+                "left": 103,
+                "width": 157.82,
+                "height": 31.64,
+                "fill": "#f4ebdc",
+                "text": "SHOP NOW",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 435,
+                "left": 60,
+                "width": 287.84,
+                "height": 33.9,
+                "fill": "#f4ebdc",
+                "text": "LIMITED TIME OFFER!",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 100,
+                "left": 600,
+                "width": 342.65000000000003,
+                "height": 748.0000000000001,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/HHuz5FVb26117ZqnU3KGc_623x1360.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 690,
+                "width": 229.66,
+                "height": 33.9,
+                "fill": "#f4ebdc",
+                "text": "WHIRLPOOL",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "brand_name"
+            },
+            {
+                "type": "text",
+                "top": 930,
+                "left": 640,
+                "width": 314.24,
+                "height": 24.86,
+                "fill": "#f4ebdc",
+                "text": "205 WDE CLS 2S SAPPHIRE BLUE-Z",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "product_model"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE CLS 2S SAPPHIRE BLUE-Z, Blue,2023 Model)",
+            "description": "- Brand: Whirlpool.\n- Model: 205 WDE CLS 2S.\n- Capacity: 184 litres.\n- Annual Energy Consumption: 190 Kilowatt Hours Per Year.\n- Refrigerator Fresh Food Capacity: 169.2 litres.\n- Freezer Capacity: 14.3 Litres.\n- Bottle Count: 4.\n- Installation Type: Freestanding.\n- Part Number: 205 WDE CLS 2S.\n- Form Factor: Stand Alone.\n- Special Features: Adjustable Shelves.\n- Colour: SAPPHIRE BLUE-Z.\n- Voltage: 220.\n- Wattage: 205 Watts.\n- Number of Drawers: 4.\n- Defrost System: Automatic.\n- Door Orientation: Left.\n- Door Material: Stainless Steel.\n- Shelf Type: Wire.\n- Number of Shelves: 2.\n- Certification: Energy Rating.\n- Material: Stainless Steel.\n- Batteries Required: No.\n- Country of Origin: India.\n- Importer: Whirlpool of India Ltd.\n- Plot No.\n- A-4, MIDC Ranjangaon,Taluka Shirur, Dist: Pune, Maharashtra 412220, India, Email - helpdeskindia@whirlpool.com ; Toll Free - 1800 208 1800.\n- Item Weight: 33 kg 400 g.\n- Item Dimensions Lx Wx H: 60.5 x 53.5 x 118.8 Centimeters.\n- Net Quantity: 1 count.\n- Generic Name: Refrigerator.",
+            "price": "\u20b912990"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/HHuz5FVb26117ZqnU3KGc_623x1360.png",
+        "marketplace_url": "https://www.amazon.in/Whirlpool-Refrigerator-205-WDE-CLS/dp/B0BSRVL2VV",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis visually engaging banner is divided into two main sections separated by a vertical red line. The left half includes promotional text elements: a bold headline (`heading_1` and `heading_2`), a vibrant red text block for urgency (`tagline`), a smaller sub-header for limited-time messaging (`subheading`), and product features detailed in bullet points (`description`). Below this, a large price highlight (`price`) and a red call-to-action button with white text (`cta_background` and `cta`) are placed for strong visual emphasis. On the right, there's a fridge product image (`product_image`) with overlaid cooling information and brand/model identification (`brand_name`, `product_model`).\n\n**Color Palette:**\n- Deep Red: #d72300  \n- Cream White: #f4ebdc  \n- Dark Burgundy: #3e2021  \n- Muted Gray: #555555  \n- Charcoal Brown: #3c2b2c  \n- Sapphire Blue: (from product image)\n\n",
+    "product_color": "\nThe product image features a Whirlpool refrigerator characterized by a deep and rich royal blue color (#10003A), which exudes a premium and modern appeal. The center body blends gradients of dark navy blue (#0A1B66) to slightly lighter bluish-purple hues (#3B3F94) towards the sides, creating a smooth, luxurious finish. The white text and snowflake icon (#FFFFFF) contrast sharply with the background, making key features like \"9 HOURS COOLING RETENTION\" highly legible and attention-grabbing. The color palette for an advertisement banner can include royal blue (#10003A), white (#FFFFFF), silver-gray (#B0B4C8), and accent light blue (#A6C8FF) for highlights and emphasis.\n"
+}

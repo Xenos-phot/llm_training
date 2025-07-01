@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#E8F4FF'/><rect x='0' y='0' width='540' height='540' fill='#1A3A5F'/><rect x='540' y='0' width='540' height='540' fill='#6B9AC4'/><rect x='0' y='540' width='540' height='540' fill='#6B9AC4'/><rect x='540' y='540' width='540' height='540' fill='#1A3A5F'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='270' cy='270' r='150' fill='#0F2A47' opacity='0.4'/><circle cx='810' cy='810' r='150' fill='#50809E' opacity='0.4'/><g opacity='0.5'><path d='M100 100 L150 150 L200 100' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M150 150 L200 200 L250 150' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M200 200 L250 250 L300 200' stroke='#FFD700' stroke-width='3' fill='none'/></g><g opacity='0.5'><path d='M780 880 L830 930 L880 880' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M830 930 L880 980 L930 930' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M880 980 L930 1030 L980 980' stroke='#FFD700' stroke-width='3' fill='none'/></g><g opacity='0.7'><circle cx='100' cy='450' r='5' fill='#FFD700'/><circle cx='130' cy='450' r='5' fill='#FFD700'/><circle cx='160' cy='450' r='5' fill='#FFD700'/><circle cx='190' cy='450' r='5' fill='#FFD700'/><circle cx='220' cy='450' r='5' fill='#FFD700'/></g><g opacity='0.7'><circle cx='860' cy='630' r='5' fill='#FFD700'/><circle cx='890' cy='630' r='5' fill='#FFD700'/><circle cx='920' cy='630' r='5' fill='#FFD700'/><circle cx='950' cy='630' r='5' fill='#FFD700'/><circle cx='980' cy='630' r='5' fill='#FFD700'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 509.45, "height": 113, "fill": "#FFFFFF", "text": "EARLY BIRD", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 60, "width": 421.98, "height": 33.9, "fill": "#FFD700", "text": "SPECIAL DISCOUNT", "fontSize": 30, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 280, "left": 60, "width": 341.84, "height": 85.43, "fill": "#FFFFFF", "text": "CLASSIC CANVAS SNEAKERS\nNAVY BLUE URBAN CASUAL", "fontSize": 36, "fontFamily": "Bayon-Regular", "textAlign": "left", "id": "product_title"}, {"type": "text", "top": 610, "left": 60, "width": 372.72, "height": 188.03, "fill": "#FFFFFF", "text": "\u2022 Premium Canvas Material\n\u2022 Navy Blue Urban Design\n\u2022 Cushioned Comfort Insole\n\u2022 Durable White Rubber Sole", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 60, "width": 92.93, "height": 36.16, "fill": "#FFD700", "text": "\u20b99999", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "original_price"}, {"type": "text", "top": 850, "left": 60, "width": 261.2, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b97499", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "discounted_price"}, {"type": "rect", "top": 960, "left": 60, "width": 240, "height": 70, "fill": "#FFD700", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 978, "left": 85, "width": 198.24, "height": 31.64, "fill": "#1A3A5F", "text": "GRAB THE DEAL", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 506, "left": 61, "width": 352.15, "height": 27.12, "fill": "#FFD700", "text": "LIMITED TIME OFFER!", "fontSize": 24, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 271.59, "left": 522.49, "width": 967, "height": 623, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/OK-JDvAh5iU_T0PKMESx7_967x623.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Canvas Comfort: Urban Casual Sneakers in Navy Blue", "description": "\u2022 Premium quality canvas material for breathable comfort\n\u2022 Sleek navy blue design perfect for casual and smart-casual outfits\n\u2022 Durable white rubber sole with excellent grip\n\u2022 Metallic eyelets with matching navy laces for secure fit\n\u2022 Lightweight construction for all-day wear\n\u2022 Classic low-top silhouette with minimalist styling\n\u2022 Cushioned insole for enhanced comfort\n\u2022 Versatile design suitable for both men and women\n\u2022 Easy-to-clean canvas exterior\n\u2022 Perfect for daily wear, casual outings, and weekend activities", "price": "\u20b99999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/OK-JDvAh5iU_T0PKMESx7_967x623.png", "marketplace_url": "https://images.pexels.com/photos/19090/pexels-photo.jpg", "layout": "grid_four"}, "banner_details": "\nThis promotional banner features a modern, grid-based layout divided into four quadrants with a bold and vibrant design. The top-left quadrant contains the prominent \"heading\" in a large white font, while just below it, the \"subheading\" in yellow provides emphasis. The \"product_title\" appears beneath it in crisp white type for context. The bottom-left corner includes the \"description\" of product features in a bullet format, followed by pricing details with the \"original_price\" in yellow and the prominent \"discounted_price\" in white. A bold yellow \"cta_button\" with \"cta\" text grabs the viewer's attention. The right side features a stylish pair of sneakers (\"product_image\") and abstract yellow-lined decorative elements. Geometric circles and soft gridlines enhance visual structure, while yellow dotted dividers and a \"tagline\" between sections add visual interest.\n\n**Color Palette:**\n- Navy Blue `#1A3A5F`\n- Sky Blue `#6B9AC4`\n- Soft Blue Background `#E8F4FF`\n- Yellow Accent `#FFD700`\n- White `#FFFFFF`\n", "product_color": "\nThe product image showcases a pair of casual sneakers in a dominant deep navy blue color (#1E3264), giving the shoes a sleek and versatile aesthetic. The canvas material subtly reflects light, adding texture to the flat navy surface. The soles are a soft icy white (#E4E9F1), providing contrast while maintaining harmony with the upper tone. Metallic eyelets in silver-gray (#C0C0C0) bring subtle highlights and visual interest. This balance of muted and cool colors is ideal for an advertisement banner using a complementary palette of navy blue, icy white, steel gray (#B0B8C1), and accents of pale blue (#AFC7E1) for text or backgrounds.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#E8F4FF'/><rect x='0' y='0' width='540' height='540' fill='#1A3A5F'/><rect x='540' y='0' width='540' height='540' fill='#6B9AC4'/><rect x='0' y='540' width='540' height='540' fill='#6B9AC4'/><rect x='540' y='540' width='540' height='540' fill='#1A3A5F'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='270' cy='270' r='150' fill='#0F2A47' opacity='0.4'/><circle cx='810' cy='810' r='150' fill='#50809E' opacity='0.4'/><g opacity='0.5'><path d='M100 100 L150 150 L200 100' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M150 150 L200 200 L250 150' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M200 200 L250 250 L300 200' stroke='#FFD700' stroke-width='3' fill='none'/></g><g opacity='0.5'><path d='M780 880 L830 930 L880 880' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M830 930 L880 980 L930 930' stroke='#FFD700' stroke-width='3' fill='none'/><path d='M880 980 L930 1030 L980 980' stroke='#FFD700' stroke-width='3' fill='none'/></g><g opacity='0.7'><circle cx='100' cy='450' r='5' fill='#FFD700'/><circle cx='130' cy='450' r='5' fill='#FFD700'/><circle cx='160' cy='450' r='5' fill='#FFD700'/><circle cx='190' cy='450' r='5' fill='#FFD700'/><circle cx='220' cy='450' r='5' fill='#FFD700'/></g><g opacity='0.7'><circle cx='860' cy='630' r='5' fill='#FFD700'/><circle cx='890' cy='630' r='5' fill='#FFD700'/><circle cx='920' cy='630' r='5' fill='#FFD700'/><circle cx='950' cy='630' r='5' fill='#FFD700'/><circle cx='980' cy='630' r='5' fill='#FFD700'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 509.45,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "EARLY BIRD",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 60,
+                "width": 421.98,
+                "height": 33.9,
+                "fill": "#FFD700",
+                "text": "SPECIAL DISCOUNT",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 60,
+                "width": 341.84,
+                "height": 85.43,
+                "fill": "#FFFFFF",
+                "text": "CLASSIC CANVAS SNEAKERS\nNAVY BLUE URBAN CASUAL",
+                "fontFamily": "Bayon-Regular",
+                "textAlign": "left",
+                "id": "product_title"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 60,
+                "width": 372.72,
+                "height": 188.03,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium Canvas Material\n\u2022 Navy Blue Urban Design\n\u2022 Cushioned Comfort Insole\n\u2022 Durable White Rubber Sole",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 60,
+                "width": 92.93,
+                "height": 36.16,
+                "fill": "#FFD700",
+                "text": "\u20b99999",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "original_price"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 60,
+                "width": 261.2,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b97499",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "discounted_price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 60,
+                "width": 240,
+                "height": 70,
+                "fill": "#FFD700",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 978,
+                "left": 85,
+                "width": 198.24,
+                "height": 31.64,
+                "fill": "#1A3A5F",
+                "text": "GRAB THE DEAL",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 506,
+                "left": 61,
+                "width": 352.15,
+                "height": 27.12,
+                "fill": "#FFD700",
+                "text": "LIMITED TIME OFFER!",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 271.59,
+                "left": 522.49,
+                "width": 531.85,
+                "height": 342.65000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/OK-JDvAh5iU_T0PKMESx7_967x623.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Canvas Comfort: Urban Casual Sneakers in Navy Blue",
+            "description": "\u2022 Premium quality canvas material for breathable comfort\n\u2022 Sleek navy blue design perfect for casual and smart-casual outfits\n\u2022 Durable white rubber sole with excellent grip\n\u2022 Metallic eyelets with matching navy laces for secure fit\n\u2022 Lightweight construction for all-day wear\n\u2022 Classic low-top silhouette with minimalist styling\n\u2022 Cushioned insole for enhanced comfort\n\u2022 Versatile design suitable for both men and women\n\u2022 Easy-to-clean canvas exterior\n\u2022 Perfect for daily wear, casual outings, and weekend activities",
+            "price": "\u20b99999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/OK-JDvAh5iU_T0PKMESx7_967x623.png",
+        "marketplace_url": "https://images.pexels.com/photos/19090/pexels-photo.jpg",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis promotional banner features a modern, grid-based layout divided into four quadrants with a bold and vibrant design. The top-left quadrant contains the prominent \"heading\" in a large white font, while just below it, the \"subheading\" in yellow provides emphasis. The \"product_title\" appears beneath it in crisp white type for context. The bottom-left corner includes the \"description\" of product features in a bullet format, followed by pricing details with the \"original_price\" in yellow and the prominent \"discounted_price\" in white. A bold yellow \"cta_button\" with \"cta\" text grabs the viewer's attention. The right side features a stylish pair of sneakers (\"product_image\") and abstract yellow-lined decorative elements. Geometric circles and soft gridlines enhance visual structure, while yellow dotted dividers and a \"tagline\" between sections add visual interest.\n\n**Color Palette:**\n- Navy Blue `#1A3A5F`\n- Sky Blue `#6B9AC4`\n- Soft Blue Background `#E8F4FF`\n- Yellow Accent `#FFD700`\n- White `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a pair of casual sneakers in a dominant deep navy blue color (#1E3264), giving the shoes a sleek and versatile aesthetic. The canvas material subtly reflects light, adding texture to the flat navy surface. The soles are a soft icy white (#E4E9F1), providing contrast while maintaining harmony with the upper tone. Metallic eyelets in silver-gray (#C0C0C0) bring subtle highlights and visual interest. This balance of muted and cool colors is ideal for an advertisement banner using a complementary palette of navy blue, icy white, steel gray (#B0B8C1), and accents of pale blue (#AFC7E1) for text or backgrounds.\n"
+}

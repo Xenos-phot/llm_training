@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F1ED'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#BEA27B' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#BEA27B' stroke-width='2' fill='none' opacity='0.8'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.6'/><path d='M0 280 L1080 280' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M0 480 L1080 480' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M0 680 L1080 680' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M0 880 L1080 880' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M280 0 L280 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M480 0 L480 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M680 0 L680 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M880 0 L880 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><circle cx='540' cy='540' r='400' fill='#BEA27B' opacity='0.05'/><rect x='520' y='250' width='400' height='600' rx='10' fill='#BEA27B' opacity='0.05'/><path d='M180 120 L200 140 L220 120 L200 100 Z' fill='#BEA27B' opacity='0.3'/><path d='M880 120 L900 140 L920 120 L900 100 Z' fill='#BEA27B' opacity='0.3'/><path d='M180 940 L200 960 L220 940 L200 920 Z' fill='#BEA27B' opacity='0.3'/><path d='M880 940 L900 960 L920 940 L900 920 Z' fill='#BEA27B' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 120, "width": 778.55, "height": 124.3, "fill": "#8B4513", "text": "SIGNATURE", "fontSize": 110, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 200, "left": 120, "width": 561.51, "height": 124.3, "fill": "#8B4513", "text": "BOSTON", "fontSize": 110, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 325, "left": 125, "width": 756.13, "height": 73.45, "fill": "#BF0F1E", "text": "GUCCI LUXURY HANDBAG", "fontSize": 65, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 405, "left": 125, "width": 300, "height": 2, "fill": "#BEA27B", "rx": 0, "ry": 0, "id": "decorative_line"}, {"type": "text", "top": 430, "left": 125, "width": 524.14, "height": 155.04, "fill": "#555555", "text": "\u2022 Authentic Monogram Embossed Leather\n\u2022 Iconic Green and Red Web Stripe\n\u2022 Premium Cream Leather Exterior\n\u2022 Elegant Structured Silhouette", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 675, "left": 125, "width": 303.6, "height": 90.4, "fill": "#8B4513", "text": "\u20b9 8999", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 125, "width": 200, "height": 60, "fill": "#BF0F1E", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 796, "left": 155, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 434.72, "left": 566.35, "width": 911, "height": 1031, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/2ANymMn5C4SwzvHyPRTJa_911x1031.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Luxurious Gucci Signature Boston Bag - Classic Elegance Meets Modern Style", "description": "\u2022 Authentic Gucci monogram pattern embossed leather construction\n\u2022 Iconic green and red web stripe detail with antique brass GG logo\n\u2022 Premium cream/ivory colored leather exterior\n\u2022 Durable dual top handles with metallic hardware\n\u2022 Spacious main compartment with secure zip closure\n\u2022 Distinctive quilted pattern design throughout\n\u2022 Perfect size for daily essentials and travel\n\u2022 Signature Gucci craftsmanship and attention to detail\n\u2022 Versatile design suitable for both casual and formal occasions\n\u2022 Includes branded hardware fixtures and finishings\n\u2022 Elegant structured silhouette maintains its shape\n\u2022 Part of the prestigious Gucci heritage collection", "price": "\u20b98999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/2ANymMn5C4SwzvHyPRTJa_911x1031.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1087499999128076430_DardariArt_realistic_painting_gucci_bags_white_colors_c0e8c4b8-220c-49b0-83c5-3fc479ff0d77.webp", "layout": "frame_layout"}, "banner_details": "\nThe banner showcases a premium fashion product with a luxurious layout suited for upscale branding. It features a cream-colored background with elegant double-line border frames, curved line elements, and subtle grid overlays. The title, composed of two prominent stacked text elements (\"heading_1\" and \"heading_2\"), is set in a bold serif font and uses a deep brown color to command attention. Just beneath it, the \"subheading\" in crimson red adds contrast and emphasis. A short horizontal line (\"decorative_line\") delivers a visual break before a list of features in \"description\". The \"price\" is highlighted in a bold type next to the product image. A prominent CTA button (\"cta_button\") in red with white \"cta\" text invites immediate action. The right side balances the layout with a cream-colored handbag and floral elements, contributing to an elegant and luxurious aesthetic.\n\n**Color Palette:**\n- Cream White: `#F5F1ED` (Background)\n- Deep Brown: `#8B4513` (Titles and Price)\n- Crimson Red: `#BF0F1E` (Subheading & CTA Button)\n- Sand Gold: `#BEA27B` (Borders and Accents)\n- Charcoal Gray: `#555555` (Description text)\n- Pure White: `#FFFFFF` (CTA text, frame highlight)\n\n", "product_color": "  \nThe product image features a luxury handbag with a sophisticated and elegant color palette. The primary shade is a soft ivory cream (#F7F3EF), which provides a neutral backdrop. A rich forest green (#1C3A29) and deep burgundy red (#7B1E22) stripe runs centrally, adding bold contrast. Gold accents (#C49A6C) on the clasp and hardware infuse luxury and highlight the bag\u2019s premium branding. Subtle shadows and gradients deepen the ivory tone, giving texture and depth without overpowering the design. The pale rose (#EBD9D4) and soft green (#6A7B5C) of the flowers at the base complement the handbag delicately. This palette balances elegance, class, and visual distinction.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F1ED'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#BEA27B' stroke-width='3' fill='none' opacity='0.6'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#BEA27B' stroke-width='2' fill='none' opacity='0.8'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#BEA27B' stroke-width='3' opacity='0.5' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.6'/><path d='M0 280 L1080 280' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M0 480 L1080 480' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M0 680 L1080 680' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M0 880 L1080 880' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M280 0 L280 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M480 0 L480 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M680 0 L680 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><path d='M880 0 L880 1080' stroke='#B4794F' stroke-width='2' opacity='0.15'/><circle cx='540' cy='540' r='400' fill='#BEA27B' opacity='0.05'/><rect x='520' y='250' width='400' height='600' rx='10' fill='#BEA27B' opacity='0.05'/><path d='M180 120 L200 140 L220 120 L200 100 Z' fill='#BEA27B' opacity='0.3'/><path d='M880 120 L900 140 L920 120 L900 100 Z' fill='#BEA27B' opacity='0.3'/><path d='M180 940 L200 960 L220 940 L200 920 Z' fill='#BEA27B' opacity='0.3'/><path d='M880 940 L900 960 L920 940 L900 920 Z' fill='#BEA27B' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 120,
+                "width": 778.55,
+                "height": 124.3,
+                "fill": "#8B4513",
+                "text": "SIGNATURE",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 120,
+                "width": 561.51,
+                "height": 124.3,
+                "fill": "#8B4513",
+                "text": "BOSTON",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 325,
+                "left": 125,
+                "width": 756.13,
+                "height": 73.45,
+                "fill": "#BF0F1E",
+                "text": "GUCCI LUXURY HANDBAG",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 405,
+                "left": 125,
+                "width": 300,
+                "height": 2,
+                "fill": "#BEA27B",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative_line"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 125,
+                "width": 524.14,
+                "height": 155.04,
+                "fill": "#555555",
+                "text": "\u2022 Authentic Monogram Embossed Leather\n\u2022 Iconic Green and Red Web Stripe\n\u2022 Premium Cream Leather Exterior\n\u2022 Elegant Structured Silhouette",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 675,
+                "left": 125,
+                "width": 303.6,
+                "height": 90.4,
+                "fill": "#8B4513",
+                "text": "\u20b9 8999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 125,
+                "width": 200,
+                "height": 60,
+                "fill": "#BF0F1E",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 796,
+                "left": 155,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 434.72,
+                "left": 566.35,
+                "width": 409.95,
+                "height": 463.95,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/2ANymMn5C4SwzvHyPRTJa_911x1031.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Luxurious Gucci Signature Boston Bag - Classic Elegance Meets Modern Style",
+            "description": "\u2022 Authentic Gucci monogram pattern embossed leather construction\n\u2022 Iconic green and red web stripe detail with antique brass GG logo\n\u2022 Premium cream/ivory colored leather exterior\n\u2022 Durable dual top handles with metallic hardware\n\u2022 Spacious main compartment with secure zip closure\n\u2022 Distinctive quilted pattern design throughout\n\u2022 Perfect size for daily essentials and travel\n\u2022 Signature Gucci craftsmanship and attention to detail\n\u2022 Versatile design suitable for both casual and formal occasions\n\u2022 Includes branded hardware fixtures and finishings\n\u2022 Elegant structured silhouette maintains its shape\n\u2022 Part of the prestigious Gucci heritage collection",
+            "price": "\u20b98999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/2ANymMn5C4SwzvHyPRTJa_911x1031.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1087499999128076430_DardariArt_realistic_painting_gucci_bags_white_colors_c0e8c4b8-220c-49b0-83c5-3fc479ff0d77.webp",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThe banner showcases a premium fashion product with a luxurious layout suited for upscale branding. It features a cream-colored background with elegant double-line border frames, curved line elements, and subtle grid overlays. The title, composed of two prominent stacked text elements (\"heading_1\" and \"heading_2\"), is set in a bold serif font and uses a deep brown color to command attention. Just beneath it, the \"subheading\" in crimson red adds contrast and emphasis. A short horizontal line (\"decorative_line\") delivers a visual break before a list of features in \"description\". The \"price\" is highlighted in a bold type next to the product image. A prominent CTA button (\"cta_button\") in red with white \"cta\" text invites immediate action. The right side balances the layout with a cream-colored handbag and floral elements, contributing to an elegant and luxurious aesthetic.\n\n**Color Palette:**\n- Cream White: `#F5F1ED` (Background)\n- Deep Brown: `#8B4513` (Titles and Price)\n- Crimson Red: `#BF0F1E` (Subheading & CTA Button)\n- Sand Gold: `#BEA27B` (Borders and Accents)\n- Charcoal Gray: `#555555` (Description text)\n- Pure White: `#FFFFFF` (CTA text, frame highlight)\n\n",
+    "product_color": "  \nThe product image features a luxury handbag with a sophisticated and elegant color palette. The primary shade is a soft ivory cream (#F7F3EF), which provides a neutral backdrop. A rich forest green (#1C3A29) and deep burgundy red (#7B1E22) stripe runs centrally, adding bold contrast. Gold accents (#C49A6C) on the clasp and hardware infuse luxury and highlight the bag\u2019s premium branding. Subtle shadows and gradients deepen the ivory tone, giving texture and depth without overpowering the design. The pale rose (#EBD9D4) and soft green (#6A7B5C) of the flowers at the base complement the handbag delicately. This palette balances elegance, class, and visual distinction.  \n"
+}

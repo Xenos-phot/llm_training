@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='backgroundGradient' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#B0C4DE'/><stop offset='100%' stop-color='#4682B4'/></radialGradient><radialGradient id='priceGradient' cx='830' cy='450' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#FFD700'/><stop offset='100%' stop-color='#FFA500'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='830' cy='450' r='120' fill='url(#priceGradient)' stroke='#FFA500' stroke-width='3'/><circle cx='150' cy='700' r='100' fill='none' stroke='white' stroke-width='4'/><circle cx='950' cy='150' r='80' fill='none' stroke='white' stroke-width='4'/><line x1='250' y1='200' x2='350' y2='100' stroke='white' stroke-width='3'/><line x1='800' y1='750' x2='900' y2='650' stroke='white' stroke-width='3'/><line x1='200' y1='850' x2='300' y2='750' stroke='#FFA500' stroke-width='3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 263.45, "width": 551.1, "height": 113, "fill": "#FFFFFF", "text": "ELEGANCE", "fontSize": 100, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 204.79, "width": 668.43, "height": 79.1, "fill": "#FFD700", "text": "OFFICE COMFORT", "fontSize": 70, "fontFamily": "AHOY-Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 900, "left": 69.69, "width": 938.64, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 HEIGHT ADJUSTABLE \u2022 ERGONOMIC DESIGN \u2022 PREMIUM COMFORT", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 266.59, "left": 340.31, "width": 951, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png", "id": "product_image"}, {"type": "text", "top": 420.1, "left": 710.47, "width": 228.3, "height": 62.15, "fill": "#FFFFFF", "text": "$76.99", "fontSize": 55, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430, "width": 220, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.48, "width": 123.04, "height": 27.12, "fill": "#4682B4", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Product Description          Amazon Basics Classic Puresoft PU-Padded Mid-Back Office Computer Desk Chair with Armrest - Cream             From the Manufacturer          Amazon Basics VERSATILE USE: Office desk chair for home office, work station, or conference room ADJUSTABLE COMFORT: Adjustable seat height, adjustable seat angle, and tilt control for customizable comfort STURDY CONSTRUCTION:Supports up to 275 pounds; sturdy KD metal base COMFORTABLE DESIGN:Puresoft PU upholstery in Black; contoured padded seat, backrest, and armrests for comfort; durable caster wheels for smooth-rolling mobility EASY ASSEMBLY:Assembly instructions included; components (casters, base, arms, seat mechanism, hardware kit) arrive packed in the back cushion PRODUCT SPECIFICATIONS: Product Dimensions: 23.75 x 26 x 38.25 - 42 inches (WxDxH); seat width: 19.5 inches; seat depth: 17.75 inches; arm height: 26.25 - 30 inches Brand - Amazon Basics ** Color - Cream ** Product Dimensions - 26&#34;D x 23.75&#34;W x 42&#34;H ** Size - 26&#34;D x 23.75&#34;W x 42&#34;H ** Back Style - Mid Back **", "price": "76.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png", "marketplace_url": "https://www.amazon.com/dp/B081H44MHD", "layout": "circular_focus"}, "banner_details": "\nThis promotional banner showcases a premium office chair at the center, highlighted by a circular white background surrounded by a double dashed line, creating a focal frame around the product image (`product_image`). At the top, a bold primary heading (`heading`) in white conveys sophistication, while a secondary subheading (`subheading`) in bright yellow emphasizes comfort. A price tag (`price`) is embedded inside a striking orange-yellow radial gradient circle. Informational text (`description`) spans the bottom in white, featuring product highlights. A yellow call-to-action button (`cta_background`) with blue text (`cta`) entices users to engage. The background is a smooth blue radial gradient with abstract lines and outlined circles for visual interest.\n\n**Color Palette:**\n- Sky Blue: `#B0C4DE`\n- Steel Blue: `#4682B4`\n- White: `#FFFFFF`\n- Gold: `#FFD700`\n- Orange: `#FFA500`\n", "product_color": "\nThe product image showcases an elegant office chair in a soft ivory-white color (#F5F5EF) with sleek black accents (#1A1A1A) on the armrest frames and base. The design presents a professional, minimalist aesthetic perfect for modern office setups. The chair\u2019s creamy upholstery contrasts sharply with the matte black components, creating a balanced visual hierarchy. The stitching and shadows add depth, subtly blending the light tones without overpowering the darker elements. For an advertisement banner, a refined palette of Ivory White (#F5F5EF), Charcoal Black (#1A1A1A), Light Gray (#D3D3D3), and Soft Beige (#EAE7DD) can evoke sophistication and comfort.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='backgroundGradient' cx='540' cy='540' r='600' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#B0C4DE'/><stop offset='100%' stop-color='#4682B4'/></radialGradient><radialGradient id='priceGradient' cx='830' cy='450' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#FFD700'/><stop offset='100%' stop-color='#FFA500'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='830' cy='450' r='120' fill='url(#priceGradient)' stroke='#FFA500' stroke-width='3'/><circle cx='150' cy='700' r='100' fill='none' stroke='white' stroke-width='4'/><circle cx='950' cy='150' r='80' fill='none' stroke='white' stroke-width='4'/><line x1='250' y1='200' x2='350' y2='100' stroke='white' stroke-width='3'/><line x1='800' y1='750' x2='900' y2='650' stroke='white' stroke-width='3'/><line x1='200' y1='850' x2='300' y2='750' stroke='#FFA500' stroke-width='3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 263.45,
+                "width": 551.1,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "ELEGANCE",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 204.79,
+                "width": 668.43,
+                "height": 79.1,
+                "fill": "#FFD700",
+                "text": "OFFICE COMFORT",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 69.69,
+                "width": 938.64,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 HEIGHT ADJUSTABLE \u2022 ERGONOMIC DESIGN \u2022 PREMIUM COMFORT",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 266.59,
+                "left": 340.31,
+                "width": 361.38,
+                "height": 546.82,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 420.1,
+                "left": 710.47,
+                "width": 228.3,
+                "height": 62.15,
+                "fill": "#FFFFFF",
+                "text": "$76.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.48,
+                "width": 123.04,
+                "height": 27.12,
+                "fill": "#4682B4",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Product Description          Amazon Basics Classic Puresoft PU-Padded Mid-Back Office Computer Desk Chair with Armrest - Cream             From the Manufacturer          Amazon Basics VERSATILE USE: Office desk chair for home office, work station, or conference room ADJUSTABLE COMFORT: Adjustable seat height, adjustable seat angle, and tilt control for customizable comfort STURDY CONSTRUCTION:Supports up to 275 pounds; sturdy KD metal base COMFORTABLE DESIGN:Puresoft PU upholstery in Black; contoured padded seat, backrest, and armrests for comfort; durable caster wheels for smooth-rolling mobility EASY ASSEMBLY:Assembly instructions included; components (casters, base, arms, seat mechanism, hardware kit) arrive packed in the back cushion PRODUCT SPECIFICATIONS: Product Dimensions: 23.75 x 26 x 38.25 - 42 inches (WxDxH); seat width: 19.5 inches; seat depth: 17.75 inches; arm height: 26.25 - 30 inches Brand - Amazon Basics ** Color - Cream ** Product Dimensions - 26&#34;D x 23.75&#34;W x 42&#34;H ** Size - 26&#34;D x 23.75&#34;W x 42&#34;H ** Back Style - Mid Back **",
+            "price": "76.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B081H44MHD",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis promotional banner showcases a premium office chair at the center, highlighted by a circular white background surrounded by a double dashed line, creating a focal frame around the product image (`product_image`). At the top, a bold primary heading (`heading`) in white conveys sophistication, while a secondary subheading (`subheading`) in bright yellow emphasizes comfort. A price tag (`price`) is embedded inside a striking orange-yellow radial gradient circle. Informational text (`description`) spans the bottom in white, featuring product highlights. A yellow call-to-action button (`cta_background`) with blue text (`cta`) entices users to engage. The background is a smooth blue radial gradient with abstract lines and outlined circles for visual interest.\n\n**Color Palette:**\n- Sky Blue: `#B0C4DE`\n- Steel Blue: `#4682B4`\n- White: `#FFFFFF`\n- Gold: `#FFD700`\n- Orange: `#FFA500`\n",
+    "product_color": "\nThe product image showcases an elegant office chair in a soft ivory-white color (#F5F5EF) with sleek black accents (#1A1A1A) on the armrest frames and base. The design presents a professional, minimalist aesthetic perfect for modern office setups. The chair\u2019s creamy upholstery contrasts sharply with the matte black components, creating a balanced visual hierarchy. The stitching and shadows add depth, subtly blending the light tones without overpowering the darker elements. For an advertisement banner, a refined palette of Ivory White (#F5F5EF), Charcoal Black (#1A1A1A), Light Gray (#D3D3D3), and Soft Beige (#EAE7DD) can evoke sophistication and comfort.\n"
+}

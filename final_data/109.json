@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1E3D59'/><path d='M1080 0 L0 1080 L0 0 Z' fill='#1E3D59'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#3A6EA5' opacity='0.9'/><circle cx='200' cy='200' r='50' fill='#F5F5F5' opacity='0.05'/><circle cx='900' cy='900' r='80' fill='#F5F5F5' opacity='0.05'/><path d='M0 400 L400 0' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M0 800 L800 0' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M300 1080 L1080 300' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M700 1080 L1080 700' stroke='#ffffff' stroke-width='1' opacity='0.1'/><rect x='50' y='50' width='300' height='2' rx='1' fill='#F5F5F5' opacity='0.3'/><rect x='850' y='950' width='180' height='2' rx='1' fill='#F5F5F5' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 513.42, "height": 135.6, "fill": "#FFFFFF", "text": "UPGRADE", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 160, "left": 50, "width": 509.46, "height": 135.6, "fill": "#FFFFFF", "text": "LAUNDRY", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 260, "left": 50, "width": 465.62, "height": 81.36, "fill": "#C4E0F9", "text": "INSIGNIA SET", "fontSize": 72, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 345, "left": 49, "width": 346.86, "height": 135.6, "fill": "#FFFFFF", "text": "\u2022 Digital LED Display\n\u2022 Sleek Modern Design\n\u2022 Energy-Efficient Operation\n\u2022 Multiple Wash & Dry Cycles", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 274, "left": 567, "width": 469.38, "height": 67.8, "fill": "#FFFFFF", "text": "Sleek Design Meets Power", "fontSize": 60, "fontFamily": "Comforter Brush Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 750, "left": 50, "width": 261.2, "height": 113, "fill": "#FFFFFF", "text": "$359", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 50, "width": 220, "height": 60, "fill": "#FF9E3F", "rx": 4, "ry": 4, "id": "cta_background"}, {"type": "text", "top": 917, "left": 88, "width": 87.42, "height": 31.64, "fill": "#1E3D59", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 507.29, "left": 291.78, "width": 1333, "height": 984, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/RNKK3RRDyV88HCbt7XM4S_1333x984.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Front Load Washer & Dryer Set - Modern Laundry Solution", "description": "\u2022 Digital LED display with intuitive controls and multiple wash/dry settings\n\u2022 Sleek white design with modern black accents and premium finish\n\u2022 Large capacity front-loading washer and matching dryer\n\u2022 Energy-efficient operation with advanced programming options\n\u2022 Smart dial control for easy cycle selection\n\u2022 Clear viewing window with chrome trim design\n\u2022 Compact yet spacious design perfect for apartments and homes\n\u2022 Multiple wash and dry cycles for various fabric types\n\u2022 Easy-access front panel maintenance door\n\u2022 Ventilated dryer system for efficient drying\n\u2022 Durable construction with stabilizing feet\n\u2022 Contemporary style that complements modern home decor", "price": "$359"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/RNKK3RRDyV88HCbt7XM4S_1333x984.png", "marketplace_url": "blob:https://studio.phot.ai/8592c124-9743-4a7f-af26-d6c903f207cb", "layout": "diagonal_split"}, "banner_details": "\nThe banner is a promotional layout featuring a modern home laundry appliance set. At the top left, bold and uppercase heading layers like `heading_1` and `heading_2` are stacked with strong emphasis. Just below them, subheading `subheading` adds further context in a softer blue tone. A smaller, informational paragraph identified by `description` outlines four distinct product features with bullet points. On the right half, `tagline` in a cursive font delivers an elegant slogan overlaying a diagonally split geometric background. Lower left contains a prominent price text `price` and a vibrant orange CTA button `cta_background` with `cta` text. The `product_image` showcases two laundry machines, creating a clean professional visual balance. \n\n**Color Palette:**\n- Navy Blue: #1E3D59\n- Light Blue: #C4E0F9\n- Sky Blue: #3A6EA5\n- White: #FFFFFF\n- Orange (CTA): #FF9E3F\n- Light Gray Accents: #F5F5F5\n", "product_color": "\nThe product image features a modern, minimalistic aesthetic dominated by a clean white base (#FFFFFF), lending a sleek and hygienic appeal. The black elements (#000000), such as the door rims and digital panel, contrast strongly with the white, highlighting functionality areas. Soft gray shades (#D1D1D1) on the control panel and metallic dial (#B0B0B0) provide subtle blending, avoiding harsh transitions and maintaining visual flow. Vibrant blue accents on the LED screen (#00BFFF) and dial ring (#0078FF) add a touch of liveliness, drawing attention to interface elements. These selected hues create a technological yet clean vibe ideal for an appliance banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1E3D59'/><path d='M1080 0 L0 1080 L0 0 Z' fill='#1E3D59'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='#3A6EA5' opacity='0.9'/><circle cx='200' cy='200' r='50' fill='#F5F5F5' opacity='0.05'/><circle cx='900' cy='900' r='80' fill='#F5F5F5' opacity='0.05'/><path d='M0 400 L400 0' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M0 800 L800 0' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M300 1080 L1080 300' stroke='#ffffff' stroke-width='1' opacity='0.1'/><path d='M700 1080 L1080 700' stroke='#ffffff' stroke-width='1' opacity='0.1'/><rect x='50' y='50' width='300' height='2' rx='1' fill='#F5F5F5' opacity='0.3'/><rect x='850' y='950' width='180' height='2' rx='1' fill='#F5F5F5' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 513.42,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "UPGRADE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 50,
+                "width": 509.46,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "LAUNDRY",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 260,
+                "left": 50,
+                "width": 465.62,
+                "height": 81.36,
+                "fill": "#C4E0F9",
+                "text": "INSIGNIA SET",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 345,
+                "left": 49,
+                "width": 346.86,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Digital LED Display\n\u2022 Sleek Modern Design\n\u2022 Energy-Efficient Operation\n\u2022 Multiple Wash & Dry Cycles",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 274,
+                "left": 567,
+                "width": 469.38,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "Sleek Design Meets Power",
+                "fontFamily": "Comforter Brush Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 50,
+                "width": 261.2,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$359",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 50,
+                "width": 220,
+                "height": 60,
+                "fill": "#FF9E3F",
+                "rx": 4,
+                "ry": 4,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 917,
+                "left": 88,
+                "width": 87.42,
+                "height": 31.64,
+                "fill": "#1E3D59",
+                "text": "SHOP NOW",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 507.29,
+                "left": 291.78,
+                "width": 773.14,
+                "height": 570.7199999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/RNKK3RRDyV88HCbt7XM4S_1333x984.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Front Load Washer & Dryer Set - Modern Laundry Solution",
+            "description": "\u2022 Digital LED display with intuitive controls and multiple wash/dry settings\n\u2022 Sleek white design with modern black accents and premium finish\n\u2022 Large capacity front-loading washer and matching dryer\n\u2022 Energy-efficient operation with advanced programming options\n\u2022 Smart dial control for easy cycle selection\n\u2022 Clear viewing window with chrome trim design\n\u2022 Compact yet spacious design perfect for apartments and homes\n\u2022 Multiple wash and dry cycles for various fabric types\n\u2022 Easy-access front panel maintenance door\n\u2022 Ventilated dryer system for efficient drying\n\u2022 Durable construction with stabilizing feet\n\u2022 Contemporary style that complements modern home decor",
+            "price": "$359"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/RNKK3RRDyV88HCbt7XM4S_1333x984.png",
+        "marketplace_url": "blob:https://studio.phot.ai/8592c124-9743-4a7f-af26-d6c903f207cb",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner is a promotional layout featuring a modern home laundry appliance set. At the top left, bold and uppercase heading layers like `heading_1` and `heading_2` are stacked with strong emphasis. Just below them, subheading `subheading` adds further context in a softer blue tone. A smaller, informational paragraph identified by `description` outlines four distinct product features with bullet points. On the right half, `tagline` in a cursive font delivers an elegant slogan overlaying a diagonally split geometric background. Lower left contains a prominent price text `price` and a vibrant orange CTA button `cta_background` with `cta` text. The `product_image` showcases two laundry machines, creating a clean professional visual balance. \n\n**Color Palette:**\n- Navy Blue: #1E3D59\n- Light Blue: #C4E0F9\n- Sky Blue: #3A6EA5\n- White: #FFFFFF\n- Orange (CTA): #FF9E3F\n- Light Gray Accents: #F5F5F5\n",
+    "product_color": "\nThe product image features a modern, minimalistic aesthetic dominated by a clean white base (#FFFFFF), lending a sleek and hygienic appeal. The black elements (#000000), such as the door rims and digital panel, contrast strongly with the white, highlighting functionality areas. Soft gray shades (#D1D1D1) on the control panel and metallic dial (#B0B0B0) provide subtle blending, avoiding harsh transitions and maintaining visual flow. Vibrant blue accents on the LED screen (#00BFFF) and dial ring (#0078FF) add a touch of liveliness, drawing attention to interface elements. These selected hues create a technological yet clean vibe ideal for an appliance banner.\n"
+}

@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#E8F0F8;stop-opacity:1'/><stop offset='100%' style='stop-color:#D9E6F2;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#3D5A80;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#3D5A80;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#98C1D9' stroke-width='3' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#98C1D9' stroke-width='1' fill='none'/><path d='M0,300 C150,250 300,350 450,300 C600,250 750,350 900,300 C1050,250 1200,350 1350,300 L1350,0 L0,0 Z' fill='#98C1D9' opacity='0.3'/><path d='M0,780 C150,830 300,730 450,780 C600,830 750,730 900,780 C1050,830 1200,730 1350,780 L1350,1080 L0,1080 Z' fill='#98C1D9' opacity='0.3'/><circle cx='300' cy='300' r='200' fill='#3D5A80' opacity='0.05'/><circle cx='800' cy='800' r='150' fill='#3D5A80' opacity='0.05'/><rect x='90' y='90' width='900' height='900' rx='10' fill='#FFFFFF' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 80, "width": 982.72, "height": 79.1, "fill": "#3D5A80", "text": "MODERN LAUNDRY", "fontSize": 70, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 215, "left": 82, "width": 687.98, "height": 67.8, "fill": "#293241", "text": "VENTLESS DIGITAL DRYER", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 320, "left": 85, "width": 541.64, "height": 164.53, "fill": "#3D5A80", "text": "Sleek Design Meets Advanced Technology\nMultiple Drying Cycles for All Fabrics\nEnergy-Efficient Ventless Technology\nPerfect for Spaces Without External Venting", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 790, "left": 82, "width": 280.91, "height": 113, "fill": "#3D5A80", "text": "$234", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 80, "width": 220, "height": 60, "fill": "#3D5A80", "rx": 8, "ry": 8, "id": "cta_button"}, {"type": "text", "top": 935, "left": 115, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 296, "left": 637, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Sd0rE6p2V23pkqLbmsKGJ_899x1336.png", "id": "product_image"}, {"type": "rect", "top": 290, "left": 80, "width": 300, "height": 2, "fill": "#98C1D9", "rx": 1, "ry": 1, "id": "decorative"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Digital Ventless Dryer - Modern Laundry Solution", "description": "\u2022 \u2728 Sleek white design with modern digital display and intuitive controls\n\u2022 \ud83c\udfaf Multiple drying cycles including Normal, Heavy Duty, Delicate, and Quick Dry\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83d\udd27 Easy-access maintenance panel and lint filter system\n\u2022 \ud83d\udcf1 Digital LED display with time remaining and cycle status\n\u2022 \ud83c\udf1f Large capacity drum with dark glass door for visibility\n\u2022 \u2699\ufe0f Adjustable temperature settings for various fabric types\n\u2022 \ud83d\udca8 Advanced moisture sensing technology for precise drying\n\u2022 \ud83d\udd04 Multiple drying options including Air Fluff and Wrinkle Prevent\n\u2022 \ud83c\udfe0 Perfect for apartments, condos, and spaces without external venting", "price": "$234"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Sd0rE6p2V23pkqLbmsKGJ_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/423df4c4-22ce-4c14-9c72-5f41b4794e19", "layout": "frame_layout"}, "banner_details": "  \nThis banner design showcases a modern and clean layout for promoting a home appliance product. It features a large central product image on the right, allowing the item to dominate the visual field. The left section is text-focused with a bold, futuristic heading (`heading`) and a strong subheading (`subheading`) to grab attention. Below, four concise feature lines (`description`) outline product highlights. Price is emphasized in a large, bold font (`price`), and a prominent call-to-action button (`cta_button`, `cta`) encourages engagement. Subtle layered background patterns and a light, gradient-rich palette add a sleek, professional aesthetic.  \n\n**Color Palette:**  \n- Deep Blue: #3D5A80  \n- Navy Gray: #293241  \n- Light Blue: #98C1D9  \n- White: #FFFFFF  \n- Gradient Background: #E8F0F8 to #D9E6F2  \n", "product_color": "  \nThe product image features a modern dryer with a sleek and minimalist color palette, perfect for a clean and tech-centered advertisement banner. The base white color (#FFFFFF) dominates, conveying purity and simplicity. The black door frame and control panel contrast boldly (#1C1C1C), adding visual depth and a sense of technology. Accents like the chrome knob (#C0C0C0) and small blue and red temperature indicator lines (#0096FF and #FF341C respectively) inject subtle energy, enhancing a high-tech feel. These colors blend smoothly through sharp, defined transitions, making each element stand out. This palette supports a clean, futuristic ad theme with high visual clarity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#E8F0F8;stop-opacity:1'/><stop offset='100%' style='stop-color:#D9E6F2;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#3D5A80;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#3D5A80;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#98C1D9' stroke-width='3' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#98C1D9' stroke-width='1' fill='none'/><path d='M0,300 C150,250 300,350 450,300 C600,250 750,350 900,300 C1050,250 1200,350 1350,300 L1350,0 L0,0 Z' fill='#98C1D9' opacity='0.3'/><path d='M0,780 C150,830 300,730 450,780 C600,830 750,730 900,780 C1050,830 1200,730 1350,780 L1350,1080 L0,1080 Z' fill='#98C1D9' opacity='0.3'/><circle cx='300' cy='300' r='200' fill='#3D5A80' opacity='0.05'/><circle cx='800' cy='800' r='150' fill='#3D5A80' opacity='0.05'/><rect x='90' y='90' width='900' height='900' rx='10' fill='#FFFFFF' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 80,
+                "width": 982.72,
+                "height": 79.1,
+                "fill": "#3D5A80",
+                "text": "MODERN LAUNDRY",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 215,
+                "left": 82,
+                "width": 687.98,
+                "height": 67.8,
+                "fill": "#293241",
+                "text": "VENTLESS DIGITAL DRYER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 85,
+                "width": 541.64,
+                "height": 164.53,
+                "fill": "#3D5A80",
+                "text": "Sleek Design Meets Advanced Technology\nMultiple Drying Cycles for All Fabrics\nEnergy-Efficient Ventless Technology\nPerfect for Spaces Without External Venting",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 790,
+                "left": 82,
+                "width": 280.91,
+                "height": 113,
+                "fill": "#3D5A80",
+                "text": "$234",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 80,
+                "width": 220,
+                "height": 60,
+                "fill": "#3D5A80",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 935,
+                "left": 115,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 296,
+                "left": 637,
+                "width": 386.57,
+                "height": 574.48,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Sd0rE6p2V23pkqLbmsKGJ_899x1336.png",
+                "id": "product_image"
+            },
+            {
+                "type": "rect",
+                "top": 290,
+                "left": 80,
+                "width": 300,
+                "height": 2,
+                "fill": "#98C1D9",
+                "rx": 1,
+                "ry": 1,
+                "id": "decorative"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Digital Ventless Dryer - Modern Laundry Solution",
+            "description": "\u2022 \u2728 Sleek white design with modern digital display and intuitive controls\n\u2022 \ud83c\udfaf Multiple drying cycles including Normal, Heavy Duty, Delicate, and Quick Dry\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83d\udd27 Easy-access maintenance panel and lint filter system\n\u2022 \ud83d\udcf1 Digital LED display with time remaining and cycle status\n\u2022 \ud83c\udf1f Large capacity drum with dark glass door for visibility\n\u2022 \u2699\ufe0f Adjustable temperature settings for various fabric types\n\u2022 \ud83d\udca8 Advanced moisture sensing technology for precise drying\n\u2022 \ud83d\udd04 Multiple drying options including Air Fluff and Wrinkle Prevent\n\u2022 \ud83c\udfe0 Perfect for apartments, condos, and spaces without external venting",
+            "price": "$234"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/Sd0rE6p2V23pkqLbmsKGJ_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/423df4c4-22ce-4c14-9c72-5f41b4794e19",
+        "layout": "frame_layout"
+    },
+    "banner_details": "  \nThis banner design showcases a modern and clean layout for promoting a home appliance product. It features a large central product image on the right, allowing the item to dominate the visual field. The left section is text-focused with a bold, futuristic heading (`heading`) and a strong subheading (`subheading`) to grab attention. Below, four concise feature lines (`description`) outline product highlights. Price is emphasized in a large, bold font (`price`), and a prominent call-to-action button (`cta_button`, `cta`) encourages engagement. Subtle layered background patterns and a light, gradient-rich palette add a sleek, professional aesthetic.  \n\n**Color Palette:**  \n- Deep Blue: #3D5A80  \n- Navy Gray: #293241  \n- Light Blue: #98C1D9  \n- White: #FFFFFF  \n- Gradient Background: #E8F0F8 to #D9E6F2  \n",
+    "product_color": "  \nThe product image features a modern dryer with a sleek and minimalist color palette, perfect for a clean and tech-centered advertisement banner. The base white color (#FFFFFF) dominates, conveying purity and simplicity. The black door frame and control panel contrast boldly (#1C1C1C), adding visual depth and a sense of technology. Accents like the chrome knob (#C0C0C0) and small blue and red temperature indicator lines (#0096FF and #FF341C respectively) inject subtle energy, enhancing a high-tech feel. These colors blend smoothly through sharp, defined transitions, making each element stand out. This palette supports a clean, futuristic ad theme with high visual clarity.  \n"
+}

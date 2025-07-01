@@ -1,1 +1,158 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0A0E17;stop-opacity:1'/><stop offset='100%' style='stop-color:#1D2837;stop-opacity:1'/></linearGradient><radialGradient id='glowGrad' cx='75%' cy='50%' r='70%' fx='75%' fy='50%'><stop offset='0%' style='stop-color:#FF6B00;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#FF6B00;stop-opacity:0'/></radialGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FF5500;stop-opacity:1'/><stop offset='50%' style='stop-color:#FFB800;stop-opacity:1'/><stop offset='100%' style='stop-color:#FF5500;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><rect x='0' y='0' width='1080' height='1080' fill='url(#glowGrad)'/><rect x='510' y='0' width='10' height='1080' fill='url(#accentGrad)' opacity='0.7'/><g opacity='0.5'><circle cx='150' cy='200' r='5' fill='#00BFFF'/><circle cx='200' cy='150' r='3' fill='#FFB800'/><circle cx='120' cy='300' r='4' fill='#FF5500'/><circle cx='250' cy='400' r='6' fill='#00BFFF'/><circle cx='180' cy='500' r='3' fill='#FFB800'/><circle cx='100' cy='600' r='5' fill='#FF5500'/><circle cx='220' cy='700' r='4' fill='#00BFFF'/><circle cx='150' cy='800' r='6' fill='#FFB800'/><circle cx='240' cy='900' r='3' fill='#FF5500'/></g><g opacity='0.3'><rect x='40' y='950' width='400' height='4' rx='2' fill='#FF5500'/><rect x='40' y='960' width='300' height='4' rx='2' fill='#00BFFF'/><rect x='40' y='970' width='200' height='4' rx='2' fill='#FFB800'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 232.52, "height": 67.8, "fill": "#FFFFFF", "text": "XIAOMI", "fontSize": 60, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "brand"}, {"type": "text", "top": 155, "left": 60, "width": 460.46, "height": 135.6, "fill": "#FF5500", "text": "QLED TV", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 290, "left": 60, "width": 284.09, "height": 42.94, "fill": "#FFFFFF", "text": "FX PRO 55", "fontSize": 38, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 370, "left": 60, "width": 280, "height": 50, "fill": "#FF5500", "rx": 0, "ry": 0, "id": "tag_background"}, {"type": "text", "top": 382, "left": 85, "width": 179.89, "height": 27.12, "fill": "#FFFFFF", "text": "LIMITED EDITION", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 460, "left": 60, "width": 382.07, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 Ultra HD 4K Resolution\n\u2022 Fire OS with Alexa Voice Control\n\u2022 34W Dolby Audio System", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 60, "width": 432.2, "height": 45.2, "fill": "#FFB800", "text": "ONLY A FEW LEFT!", "fontSize": 40, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "urgency"}, {"type": "text", "top": 740, "left": 60, "width": 295.56, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b939,999", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 875, "left": 60, "width": 319, "height": 53, "fill": "#FF5500", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 890, "left": 85, "width": 267.48, "height": 31.64, "fill": "#FFFFFF", "text": "SECURE YOURS NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 140, "left": 540, "width": 1383, "height": 887, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66f4029e98c110f53d9dd144/tVrNupTlq4qbtjKSiikz0_1383x887.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Xiaomi 138 cm (55 inch) FX Pro QLED Ultra HD 4K Smart Fire TV L55MB-FPIN", "description": "- Brand: Xiaomi.\n- Model: L55MB-FPIN.\n- Model Name: L55MB-FPIN.\n- Model Year: 2025.\n- Product Dimensions: 7.6 x 122.6 x 71.7 cm; 9.1 kg.\n- Memory Storage Capacity: 32 GB.\n- Ram Memory Installed Size: 2 GB.\n- Operating System: Fire OS 8.\n- Graphics Coprocessor: Mali-G52 MC1.\n- Response Time: 6.5 Milliseconds.\n- Resolution: 3840x2160 Pixels.\n- Special Features: Built-In Speaker, Chromecast, Bezel-Less Design, Wide Viewing Angle, Eye Comfort Mode.\n- Mounting Hardware: Stand, User Manual, Warranty Card, Remote Control, Power Cable.\n- Number of items: 7.\n- Remote Control Description: One Click Prime, Netflix, Youtube | Alexa Voice Assistant.\n- Remote control technology: Bluetooth.\n- Display Technology: QLED.\n- Standing screen display size: 55 Inches.\n- Display Type: HDR 10+.\n- Viewing Angle: 178 Degrees.\n- Image Aspect Ratio: 16:09.\n- Audio input compatible with the item: Earphone Out.\n- Audio output mode: Surround.\n- Supported audio formats: Dolby/DTS/MP3/FLAC/AAC/OGG/ADPCM/OPUS.\n- Speaker Surround Sound Channel Configuration: Dolby Audio.\n- Speakers Maximum Output Power: 34 Watts.\n- Audio Wattage: 34 Watts.\n- Voltage: 130 Volts.\n- Power Source: AC.\n- Batteries Included: Yes.\n- Batteries Required: Yes.\n- Battery cell composition: Alkaline.\n- Refresh Rate: 60 Hz.\n- Total USB ports: 2.\n- Connector Type: Wi-Fi, USB, Ethernet, HDMI.\n- Mounting Type: Wall Mount & Table Mount.\n- Actual viewing angle: 178 Degrees.\n- Includes Rechargeable Battery: No.\n- Includes remote: Yes.\n- Supports Bluetooth Technology: Yes.\n- Country of Origin: India.\n- Item Weight: 9 kg 100 g.\n- Importer: TTE Electronics India Private Limited, Vikruthamala Village, Papanaidupeta Post, Yerpedu Mandal, Tirupati, Vikruthamala Village, Chitt oor, Andhra Pradesh, 5179.\n- Item Dimensions Lx Wx H: 7.6 x 122.6 x 71.7 Centimeters.\n- Net Quantity: 1 Piece.\n- Generic Name: Television.", "price": "\u20b939999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66f4029e98c110f53d9dd144/tVrNupTlq4qbtjKSiikz0_1383x887.png", "marketplace_url": "https://www.amazon.in/dp/B0F3JL33DW/?_encoding=UTF8&ref_=cct_cg_BULATVHB_2a1&pf_rd_p=539d8d87-85bc-449f-bdc0-6205abf00c60&pf_rd_r=RHSME0TG6GCCS828WQ2Q&th=1", "layout": "split_vertical"}, "banner_details": "\nThis visually striking promotional banner features a technology product with futuristic appeal. The layout is divided into two halves, with the left housing key marketing text and offers, and the right showcasing a vibrant product image. At the top of the left section is a bold brand name (`brand`), followed by a large product title (`heading`) and its model identifier (`subheading`). A standout orange label (`tagline`) marks the product as a limited edition, sitting above a list of key features (`description`). High urgency is communicated with a callout line (`urgency`) in bold yellow. Below that, the attractive price is emphasized in a large white font (`price`). The bottom section includes a vibrant orange call-to-action button (`cta`) backed by a rounded rectangle (`cta_background`). Background effects include gradients and decorative dot accents that convey energy and premium feel. \n\n**Color Palette:**  \n- Deep navy blue (#0A0E17)  \n- Midnight blue (#1D2837)  \n- Bright orange (#FF5500)  \n- Golden yellow (#FFB800)  \n- White (#FFFFFF)  \n- Sky blue accent (#00BFFF)  \n\n", "product_color": "\nThe product image features a Xiaomi QLED TV with a visually striking display, showcasing a vivid array of colors that can serve as the core palette for advertisement design. The central color scheme blends vibrant orange (#F28C28), deep purple (#5E3A7A), electric blue (#00BFFF), and subtle gold (#FFD700), which are interspersed with sparkles and gradients to suggest clarity, depth, and premium quality. These hues are artistically layered to draw attention to the display technology and overall visual richness. Complementary dark shades like black (#000000) and charcoal gray (#2D2D2D) are used for logos and text for high contrast and impactful readability.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0A0E17;stop-opacity:1'/><stop offset='100%' style='stop-color:#1D2837;stop-opacity:1'/></linearGradient><radialGradient id='glowGrad' cx='75%' cy='50%' r='70%' fx='75%' fy='50%'><stop offset='0%' style='stop-color:#FF6B00;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#FF6B00;stop-opacity:0'/></radialGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FF5500;stop-opacity:1'/><stop offset='50%' style='stop-color:#FFB800;stop-opacity:1'/><stop offset='100%' style='stop-color:#FF5500;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><rect x='0' y='0' width='1080' height='1080' fill='url(#glowGrad)'/><rect x='510' y='0' width='10' height='1080' fill='url(#accentGrad)' opacity='0.7'/><g opacity='0.5'><circle cx='150' cy='200' r='5' fill='#00BFFF'/><circle cx='200' cy='150' r='3' fill='#FFB800'/><circle cx='120' cy='300' r='4' fill='#FF5500'/><circle cx='250' cy='400' r='6' fill='#00BFFF'/><circle cx='180' cy='500' r='3' fill='#FFB800'/><circle cx='100' cy='600' r='5' fill='#FF5500'/><circle cx='220' cy='700' r='4' fill='#00BFFF'/><circle cx='150' cy='800' r='6' fill='#FFB800'/><circle cx='240' cy='900' r='3' fill='#FF5500'/></g><g opacity='0.3'><rect x='40' y='950' width='400' height='4' rx='2' fill='#FF5500'/><rect x='40' y='960' width='300' height='4' rx='2' fill='#00BFFF'/><rect x='40' y='970' width='200' height='4' rx='2' fill='#FFB800'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 232.52,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "XIAOMI",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "brand"
+            },
+            {
+                "type": "text",
+                "top": 155,
+                "left": 60,
+                "width": 460.46,
+                "height": 135.6,
+                "fill": "#FF5500",
+                "text": "QLED TV",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 60,
+                "width": 284.09,
+                "height": 42.94,
+                "fill": "#FFFFFF",
+                "text": "FX PRO 55",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 370,
+                "left": 60,
+                "width": 280,
+                "height": 50,
+                "fill": "#FF5500",
+                "rx": 0,
+                "ry": 0,
+                "id": "tag_background"
+            },
+            {
+                "type": "text",
+                "top": 382,
+                "left": 85,
+                "width": 179.89,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "LIMITED EDITION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 460,
+                "left": 60,
+                "width": 382.07,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Ultra HD 4K Resolution\n\u2022 Fire OS with Alexa Voice Control\n\u2022 34W Dolby Audio System",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 432.2,
+                "height": 45.2,
+                "fill": "#FFB800",
+                "text": "ONLY A FEW LEFT!",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "urgency"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 60,
+                "width": 295.56,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b939,999",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 875,
+                "left": 60,
+                "width": 319,
+                "height": 53,
+                "fill": "#FF5500",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 890,
+                "left": 85,
+                "width": 267.48,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SECURE YOURS NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 140,
+                "left": 540,
+                "width": 553.2,
+                "height": 354.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66f4029e98c110f53d9dd144/tVrNupTlq4qbtjKSiikz0_1383x887.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Xiaomi 138 cm (55 inch) FX Pro QLED Ultra HD 4K Smart Fire TV L55MB-FPIN",
+            "description": "- Brand: Xiaomi.\n- Model: L55MB-FPIN.\n- Model Name: L55MB-FPIN.\n- Model Year: 2025.\n- Product Dimensions: 7.6 x 122.6 x 71.7 cm; 9.1 kg.\n- Memory Storage Capacity: 32 GB.\n- Ram Memory Installed Size: 2 GB.\n- Operating System: Fire OS 8.\n- Graphics Coprocessor: Mali-G52 MC1.\n- Response Time: 6.5 Milliseconds.\n- Resolution: 3840x2160 Pixels.\n- Special Features: Built-In Speaker, Chromecast, Bezel-Less Design, Wide Viewing Angle, Eye Comfort Mode.\n- Mounting Hardware: Stand, User Manual, Warranty Card, Remote Control, Power Cable.\n- Number of items: 7.\n- Remote Control Description: One Click Prime, Netflix, Youtube | Alexa Voice Assistant.\n- Remote control technology: Bluetooth.\n- Display Technology: QLED.\n- Standing screen display size: 55 Inches.\n- Display Type: HDR 10+.\n- Viewing Angle: 178 Degrees.\n- Image Aspect Ratio: 16:09.\n- Audio input compatible with the item: Earphone Out.\n- Audio output mode: Surround.\n- Supported audio formats: Dolby/DTS/MP3/FLAC/AAC/OGG/ADPCM/OPUS.\n- Speaker Surround Sound Channel Configuration: Dolby Audio.\n- Speakers Maximum Output Power: 34 Watts.\n- Audio Wattage: 34 Watts.\n- Voltage: 130 Volts.\n- Power Source: AC.\n- Batteries Included: Yes.\n- Batteries Required: Yes.\n- Battery cell composition: Alkaline.\n- Refresh Rate: 60 Hz.\n- Total USB ports: 2.\n- Connector Type: Wi-Fi, USB, Ethernet, HDMI.\n- Mounting Type: Wall Mount & Table Mount.\n- Actual viewing angle: 178 Degrees.\n- Includes Rechargeable Battery: No.\n- Includes remote: Yes.\n- Supports Bluetooth Technology: Yes.\n- Country of Origin: India.\n- Item Weight: 9 kg 100 g.\n- Importer: TTE Electronics India Private Limited, Vikruthamala Village, Papanaidupeta Post, Yerpedu Mandal, Tirupati, Vikruthamala Village, Chitt oor, Andhra Pradesh, 5179.\n- Item Dimensions Lx Wx H: 7.6 x 122.6 x 71.7 Centimeters.\n- Net Quantity: 1 Piece.\n- Generic Name: Television.",
+            "price": "\u20b939999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66f4029e98c110f53d9dd144/tVrNupTlq4qbtjKSiikz0_1383x887.png",
+        "marketplace_url": "https://www.amazon.in/dp/B0F3JL33DW/?_encoding=UTF8&ref_=cct_cg_BULATVHB_2a1&pf_rd_p=539d8d87-85bc-449f-bdc0-6205abf00c60&pf_rd_r=RHSME0TG6GCCS828WQ2Q&th=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis visually striking promotional banner features a technology product with futuristic appeal. The layout is divided into two halves, with the left housing key marketing text and offers, and the right showcasing a vibrant product image. At the top of the left section is a bold brand name (`brand`), followed by a large product title (`heading`) and its model identifier (`subheading`). A standout orange label (`tagline`) marks the product as a limited edition, sitting above a list of key features (`description`). High urgency is communicated with a callout line (`urgency`) in bold yellow. Below that, the attractive price is emphasized in a large white font (`price`). The bottom section includes a vibrant orange call-to-action button (`cta`) backed by a rounded rectangle (`cta_background`). Background effects include gradients and decorative dot accents that convey energy and premium feel. \n\n**Color Palette:**  \n- Deep navy blue (#0A0E17)  \n- Midnight blue (#1D2837)  \n- Bright orange (#FF5500)  \n- Golden yellow (#FFB800)  \n- White (#FFFFFF)  \n- Sky blue accent (#00BFFF)  \n\n",
+    "product_color": "\nThe product image features a Xiaomi QLED TV with a visually striking display, showcasing a vivid array of colors that can serve as the core palette for advertisement design. The central color scheme blends vibrant orange (#F28C28), deep purple (#5E3A7A), electric blue (#00BFFF), and subtle gold (#FFD700), which are interspersed with sparkles and gradients to suggest clarity, depth, and premium quality. These hues are artistically layered to draw attention to the display technology and overall visual richness. Complementary dark shades like black (#000000) and charcoal gray (#2D2D2D) are used for logos and text for high contrast and impactful readability.\n"
+}

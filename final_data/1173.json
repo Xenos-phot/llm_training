@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#121212'/><path d='M0 0L1080 0L1080 1080L0 1080L0 0Z' fill='#121212'/><rect x='0' y='0' width='1080' height='200' fill='#1E1E1E'/><rect x='0' y='880' width='1080' height='200' fill='#1E1E1E'/><circle cx='940' cy='150' r='80' fill='#FF3366' opacity='0.2'/><circle cx='130' cy='930' r='100' fill='#33CCFF' opacity='0.2'/><circle cx='800' cy='950' r='70' fill='#66FF99' opacity='0.2'/><path d='M0 200C100 220 200 230 300 220C400 210 500 190 600 200C700 210 800 240 900 230C1000 220 1080 190 1080 190V220C1080 220 1000 250 900 260C800 270 700 240 600 230C500 220 400 240 300 250C200 260 100 250 0 230V200Z' fill='#1E1E1E'/><path d='M0 880C100 860 200 850 300 860C400 870 500 890 600 880C700 870 800 840 900 850C1000 860 1080 890 1080 890V860C1080 860 1000 830 900 820C800 810 700 840 600 850C500 860 400 840 300 830C200 820 100 830 0 850V880Z' fill='#1E1E1E'/><rect x='100' y='250' width='4' height='30' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='150' y='250' width='4' height='40' rx='2' fill='#FF3366' opacity='0.8'/><rect x='200' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='250' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='300' y='250' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='350' y='250' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='400' y='250' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='450' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='500' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='550' y='250' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='600' y='250' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='650' y='250' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='700' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='750' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='800' y='250' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='850' y='250' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='900' y='250' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='950' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='1000' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='100' y='800' width='4' height='30' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='150' y='800' width='4' height='40' rx='2' fill='#FF3366' opacity='0.8'/><rect x='200' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='250' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='300' y='800' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='350' y='800' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='400' y='800' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='450' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='500' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='550' y='800' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='600' y='800' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='650' y='800' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='700' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='750' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='800' y='800' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='850' y='800' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='900' y='800' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='950' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='1000' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 246.35000000000002, "width": 587.3, "height": 113, "fill": "#FFFFFF", "text": "K673 PRO", "fontSize": 100, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 141.10000000000002, "width": 797.8, "height": 56.5, "fill": "#33CCFF", "text": "WIRELESS RGB GAMING KEYBOARD", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 307.92499999999995, "left": 90.52499999999998, "width": 1383, "height": 591, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/gA7h_SfeBhPXaaoJzsD4O_1383x591.png", "id": "product_image"}, {"type": "text", "top": 763.05, "left": 186.82999999999998, "width": 706.34, "height": 33.9, "fill": "#FFFFFF", "text": "75% Compact | Hot-Swap Switches | 3-Mode Connectivity", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 834.8, "left": 385.19, "width": 309.62, "height": 90.4, "fill": "#FF3366", "text": "$64.99", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950.0, "left": 440.0, "width": 200, "height": 60, "fill": "#33CCFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 963.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Redragon K673 PRO 75% Wireless Gasket RGB Gaming Keyboard, 3-Modes 81 Keys Compact Mechanical Keyboard Hot-Swap Socket, Dedicated Knob Control and Sound Absorbing Pads, Linear Red Switch", "description": "Brand: Redragon. Hardware Platform: Gaming Console, PC. Operating System: Win. Item Weight: 1.1 pounds. Product Dimensions: 13.78 x 1.34 x 5.12 inches. Item Dimensions Lx Wx H: 13.78 x 1.34 x 5.12 inches. Color: Abyssal Blue. Batteries: 1 Lithium Polymer batteries required. (included). Country of Origin: China.", "price": "\u20b964.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/gA7h_SfeBhPXaaoJzsD4O_1383x591.png", "marketplace_url": "https://www.amazon.com/Redragon-K673-Mechanical-Dedicated-Absorbing/dp/B0CDX5XGLK/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.12129333-2117-4490-9c17-6d31baf0582a&dib=eyJ2IjoiMSJ9.676cNQSgvxxcgZDQHqcVlxnh5d_QQJC1xaUPqLgL8OIIZE0jbrmnLAowzrl7elAGakhXcEwOjFI_0HxRRiFzKNO9XSwVa_jHFMzEE4KmqidEzkNs665OCN300rDxO-YvFYOEEMnHxp1StfJFhH-04bX0lqGFfu9wvYTYEAH3AWAHUv05mUpdnJnneav2dFFwWX_WhC_tl8dWlkXnFRU22fY9x_WEeBzxxLMOJj6c45A.YkURrQu6WHG8VnpqEuGgVT9o_h1IqtvbTNCu8r8QkUU&dib_tag=se&keywords=gaming%2Bkeyboard&pd_rd_r=8861c5eb-55b7-4e10-b5c4-fa8b12e6d8d1&pd_rd_w=dSLep&pd_rd_wg=mc2i7&qid=1747070789&sr=8-2&th=1", "layout": "centered_hero"}, "banner_details": "\nThe banner design features a sleek and modern layout to promote a wireless RGB gaming keyboard. It uses a dark-themed background with dynamic curved shapes and translucent circles to create visual depth. The banner centers a product image of a mechanical keyboard (id: `product_image`) with RGB lighting, establishing the focus. The large, bold heading text (id: `heading`) sits near the top for brand recognition, paired with a vibrant subheading (id: `subheading`) in cyan to highlight the product type. Supporting features are summarized in a description text (id: `description`), followed by a high-contrast price tag (id: `price`) in bold pink. A rectangular call-to-action button (ids: `cta_background`, `cta`) in cyan-blue concludes the composition visually and functionally. Decorative colored vertical bars frame the top and bottom, enhancing the RGB theme.\n\n**Color Palette**:\n- Background Black: `#121212`\n- Accent Cyan: `#33CCFF`\n- Hot Pink: `#FF3366`\n- Lime Green: `#66FF99`\n- Bright Yellow: `#FFCC33`\n- Lavender: `#CC99FF`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image features a mechanical keyboard with a bold and vibrant color palette ideal for a gaming or tech-themed advertisement banner. Primary colors include matte black (#1C1E22), soft white (#F2F3F4), and neon accent tones like yellow (#FFD700), green (#00FF96), cyan (#00E5FF), and electric blue (#1E90FF). The left-hand keys use warm yellow-orange legends for emphasis, while the right side leans into cool tones with blue and cyan legends. The base tones are effectively contrasted by RGB underglow lighting that blends smoothly under the keys, creating a glowing, futuristic aesthetic. These colors balance well, enhancing both visibility and modern appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#121212'/><path d='M0 0L1080 0L1080 1080L0 1080L0 0Z' fill='#121212'/><rect x='0' y='0' width='1080' height='200' fill='#1E1E1E'/><rect x='0' y='880' width='1080' height='200' fill='#1E1E1E'/><circle cx='940' cy='150' r='80' fill='#FF3366' opacity='0.2'/><circle cx='130' cy='930' r='100' fill='#33CCFF' opacity='0.2'/><circle cx='800' cy='950' r='70' fill='#66FF99' opacity='0.2'/><path d='M0 200C100 220 200 230 300 220C400 210 500 190 600 200C700 210 800 240 900 230C1000 220 1080 190 1080 190V220C1080 220 1000 250 900 260C800 270 700 240 600 230C500 220 400 240 300 250C200 260 100 250 0 230V200Z' fill='#1E1E1E'/><path d='M0 880C100 860 200 850 300 860C400 870 500 890 600 880C700 870 800 840 900 850C1000 860 1080 890 1080 890V860C1080 860 1000 830 900 820C800 810 700 840 600 850C500 860 400 840 300 830C200 820 100 830 0 850V880Z' fill='#1E1E1E'/><rect x='100' y='250' width='4' height='30' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='150' y='250' width='4' height='40' rx='2' fill='#FF3366' opacity='0.8'/><rect x='200' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='250' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='300' y='250' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='350' y='250' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='400' y='250' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='450' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='500' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='550' y='250' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='600' y='250' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='650' y='250' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='700' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='750' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='800' y='250' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='850' y='250' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='900' y='250' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='950' y='250' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='1000' y='250' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='100' y='800' width='4' height='30' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='150' y='800' width='4' height='40' rx='2' fill='#FF3366' opacity='0.8'/><rect x='200' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='250' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='300' y='800' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='350' y='800' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='400' y='800' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='450' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='500' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='550' y='800' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='600' y='800' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='650' y='800' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='700' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='750' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/><rect x='800' y='800' width='4' height='25' rx='2' fill='#CC99FF' opacity='0.8'/><rect x='850' y='800' width='4' height='45' rx='2' fill='#33CCFF' opacity='0.8'/><rect x='900' y='800' width='4' height='30' rx='2' fill='#FF3366' opacity='0.8'/><rect x='950' y='800' width='4' height='20' rx='2' fill='#66FF99' opacity='0.8'/><rect x='1000' y='800' width='4' height='35' rx='2' fill='#FFCC33' opacity='0.8'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 246.35000000000002,
+                "width": 587.3,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "K673 PRO",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 141.10000000000002,
+                "width": 797.8,
+                "height": 56.5,
+                "fill": "#33CCFF",
+                "text": "WIRELESS RGB GAMING KEYBOARD",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 307.92499999999995,
+                "left": 90.52499999999998,
+                "width": 898.95,
+                "height": 384.15000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/gA7h_SfeBhPXaaoJzsD4O_1383x591.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 763.05,
+                "left": 186.82999999999998,
+                "width": 706.34,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "75% Compact | Hot-Swap Switches | 3-Mode Connectivity",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 834.8,
+                "left": 385.19,
+                "width": 309.62,
+                "height": 90.4,
+                "fill": "#FF3366",
+                "text": "$64.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950.0,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#33CCFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 963.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Redragon K673 PRO 75% Wireless Gasket RGB Gaming Keyboard, 3-Modes 81 Keys Compact Mechanical Keyboard Hot-Swap Socket, Dedicated Knob Control and Sound Absorbing Pads, Linear Red Switch",
+            "description": "Brand: Redragon. Hardware Platform: Gaming Console, PC. Operating System: Win. Item Weight: 1.1 pounds. Product Dimensions: 13.78 x 1.34 x 5.12 inches. Item Dimensions Lx Wx H: 13.78 x 1.34 x 5.12 inches. Color: Abyssal Blue. Batteries: 1 Lithium Polymer batteries required. (included). Country of Origin: China.",
+            "price": "\u20b964.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/gA7h_SfeBhPXaaoJzsD4O_1383x591.png",
+        "marketplace_url": "https://www.amazon.com/Redragon-K673-Mechanical-Dedicated-Absorbing/dp/B0CDX5XGLK/ref=sr_1_2?_encoding=UTF8&content-id=amzn1.sym.12129333-2117-4490-9c17-6d31baf0582a&dib=eyJ2IjoiMSJ9.676cNQSgvxxcgZDQHqcVlxnh5d_QQJC1xaUPqLgL8OIIZE0jbrmnLAowzrl7elAGakhXcEwOjFI_0HxRRiFzKNO9XSwVa_jHFMzEE4KmqidEzkNs665OCN300rDxO-YvFYOEEMnHxp1StfJFhH-04bX0lqGFfu9wvYTYEAH3AWAHUv05mUpdnJnneav2dFFwWX_WhC_tl8dWlkXnFRU22fY9x_WEeBzxxLMOJj6c45A.YkURrQu6WHG8VnpqEuGgVT9o_h1IqtvbTNCu8r8QkUU&dib_tag=se&keywords=gaming%2Bkeyboard&pd_rd_r=8861c5eb-55b7-4e10-b5c4-fa8b12e6d8d1&pd_rd_w=dSLep&pd_rd_wg=mc2i7&qid=1747070789&sr=8-2&th=1",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner design features a sleek and modern layout to promote a wireless RGB gaming keyboard. It uses a dark-themed background with dynamic curved shapes and translucent circles to create visual depth. The banner centers a product image of a mechanical keyboard (id: `product_image`) with RGB lighting, establishing the focus. The large, bold heading text (id: `heading`) sits near the top for brand recognition, paired with a vibrant subheading (id: `subheading`) in cyan to highlight the product type. Supporting features are summarized in a description text (id: `description`), followed by a high-contrast price tag (id: `price`) in bold pink. A rectangular call-to-action button (ids: `cta_background`, `cta`) in cyan-blue concludes the composition visually and functionally. Decorative colored vertical bars frame the top and bottom, enhancing the RGB theme.\n\n**Color Palette**:\n- Background Black: `#121212`\n- Accent Cyan: `#33CCFF`\n- Hot Pink: `#FF3366`\n- Lime Green: `#66FF99`\n- Bright Yellow: `#FFCC33`\n- Lavender: `#CC99FF`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image features a mechanical keyboard with a bold and vibrant color palette ideal for a gaming or tech-themed advertisement banner. Primary colors include matte black (#1C1E22), soft white (#F2F3F4), and neon accent tones like yellow (#FFD700), green (#00FF96), cyan (#00E5FF), and electric blue (#1E90FF). The left-hand keys use warm yellow-orange legends for emphasis, while the right side leans into cool tones with blue and cyan legends. The base tones are effectively contrasted by RGB underglow lighting that blends smoothly under the keys, creating a glowing, futuristic aesthetic. These colors balance well, enhancing both visibility and modern appeal.\n"
+}

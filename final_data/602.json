@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFF5F5'/><rect x='0' y='0' width='540' height='540' fill='#FFE8E6'/><rect x='540' y='0' width='540' height='540' fill='#F8D1D0'/><rect x='0' y='540' width='540' height='540' fill='#EDC2C2'/><rect x='540' y='540' width='540' height='540' fill='#FFDCD7'/><circle cx='270' cy='270' r='200' fill='#F9BFB7' opacity='0.3'/><circle cx='810' cy='810' r='200' fill='#F9BFB7' opacity='0.3'/><path d='M0,0 L1080,1080' stroke='#F9C4BD' stroke-width='1' opacity='0.5'/><path d='M1080,0 L0,1080' stroke='#F9C4BD' stroke-width='1' opacity='0.5'/><g opacity='0.4'><circle cx='750' cy='150' r='5' fill='#E9967A'/><circle cx='780' cy='150' r='5' fill='#E9967A'/><circle cx='810' cy='150' r='5' fill='#E9967A'/><circle cx='840' cy='150' r='5' fill='#E9967A'/><circle cx='870' cy='150' r='5' fill='#E9967A'/></g><g opacity='0.4'><circle cx='150' cy='750' r='5' fill='#E9967A'/><circle cx='180' cy='750' r='5' fill='#E9967A'/><circle cx='210' cy='750' r='5' fill='#E9967A'/><circle cx='240' cy='750' r='5' fill='#E9967A'/><circle cx='270' cy='750' r='5' fill='#E9967A'/></g><path d='M140,400 C200,380 260,420 300,380' stroke='#E9967A' stroke-width='2' fill='none' opacity='0.3'/><path d='M780,680 C840,660 900,700 940,660' stroke='#E9967A' stroke-width='2' fill='none' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 229.2, "height": 113, "fill": "#C06A6A", "text": "GIVA", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "brand_logo"}, {"type": "text", "top": 190, "left": 60, "width": 422.66, "height": 87.01, "fill": "#C06A6A", "text": "ROSE GOLD\nWREATH STUDS", "fontSize": 35, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 350, "left": 60, "width": 377.76, "height": 27.12, "fill": "#8B5A5A", "text": "925 STERLING SILVER", "fontSize": 24, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 60, "width": 331.97, "height": 186.45, "fill": "#8B5A5A", "text": "\u2022 925 Sterling Silver\n\u2022 Rose Gold Plated\n\u2022 Certificate of Authenticity\n\u2022 6 Month Warranty", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 60, "width": 261.2, "height": 90.4, "fill": "#C06A6A", "text": "\u20b91619", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 60, "width": 200, "height": 60, "fill": "#C06A6A", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 955, "left": 100, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 250, "left": 555, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/zBmU79Xe8ElKkSKm0qoDx_895x415.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 65 ratings.", "price": "\u20b91619"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/zBmU79Xe8ElKkSKm0qoDx_895x415.png", "marketplace_url": "", "layout": "grid_four"}, "banner_details": "\nThis elegantly styled banner is divided into four quadrants, each shaded in soft, muted pink tones that create a gentle and luxurious feel. The top-left quadrant features a circular backdrop overlaid with three text layers: a bold brand logo (`brand_logo`), a product title with two-line layout (`heading`), and a material descriptor in a modern font (`subheading`). The top-right quadrant showcases a centered product image (`product_image`), with a subtle dotted carousel navigation above it.\n\nIn the bottom-left, benefits are listed with bullet points (`description`), followed by a bold product price (`price`) and a rectangular call-to-action button (`cta_button`) containing a white label (`cta`). Background elements include softly-rendered circles and delicate diagonal lines and curves that add a decorative yet understated aesthetic.\n\n**Color Palette:**\n- Soft Peach (#FFF5F5)\n- Blush Pink (#FFE8E6)\n- Rose Tint (#F8D1D0)\n- Dusty Rose (#EDC2C2)\n- Coral Pink (#FFDCD7)\n- Warm Rose (#C06A6A)\n- Earthy Brown (#8B5A5A)\n- Accent Coral (#E9967A)\n- Pure White (#FFFFFF)\n", "product_color": "  \nThe product image showcases a pair of elegant earrings with a delicately feminine color palette. The main colors include a soft rose gold (#F4AAB9), prominently featured in the floral metal detailing, and a pastel pink (#F7C6CC) embedded in the teardrop-shaped elements. Sparkling crystal-like gems, colored in shimmering white (#FFFFFF), add pristine highlights. The rose gold structure seamlessly blends with the crystals surrounding it, offering contrast yet harmony. This luxurious combination of warm pinks and icy brilliance gives a balanced and sophisticated feel, ideal for a premium or romantic-themed advertisement banner. Accent colors could include muted peach (#FAD4D8) and metallic blush (#E6A6A9).  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFF5F5'/><rect x='0' y='0' width='540' height='540' fill='#FFE8E6'/><rect x='540' y='0' width='540' height='540' fill='#F8D1D0'/><rect x='0' y='540' width='540' height='540' fill='#EDC2C2'/><rect x='540' y='540' width='540' height='540' fill='#FFDCD7'/><circle cx='270' cy='270' r='200' fill='#F9BFB7' opacity='0.3'/><circle cx='810' cy='810' r='200' fill='#F9BFB7' opacity='0.3'/><path d='M0,0 L1080,1080' stroke='#F9C4BD' stroke-width='1' opacity='0.5'/><path d='M1080,0 L0,1080' stroke='#F9C4BD' stroke-width='1' opacity='0.5'/><g opacity='0.4'><circle cx='750' cy='150' r='5' fill='#E9967A'/><circle cx='780' cy='150' r='5' fill='#E9967A'/><circle cx='810' cy='150' r='5' fill='#E9967A'/><circle cx='840' cy='150' r='5' fill='#E9967A'/><circle cx='870' cy='150' r='5' fill='#E9967A'/></g><g opacity='0.4'><circle cx='150' cy='750' r='5' fill='#E9967A'/><circle cx='180' cy='750' r='5' fill='#E9967A'/><circle cx='210' cy='750' r='5' fill='#E9967A'/><circle cx='240' cy='750' r='5' fill='#E9967A'/><circle cx='270' cy='750' r='5' fill='#E9967A'/></g><path d='M140,400 C200,380 260,420 300,380' stroke='#E9967A' stroke-width='2' fill='none' opacity='0.3'/><path d='M780,680 C840,660 900,700 940,660' stroke='#E9967A' stroke-width='2' fill='none' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 229.2,
+                "height": 113,
+                "fill": "#C06A6A",
+                "text": "GIVA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "brand_logo"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 60,
+                "width": 422.66,
+                "height": 87.01,
+                "fill": "#C06A6A",
+                "text": "ROSE GOLD\nWREATH STUDS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 60,
+                "width": 377.76,
+                "height": 27.12,
+                "fill": "#8B5A5A",
+                "text": "925 STERLING SILVER",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 331.97,
+                "height": 186.45,
+                "fill": "#8B5A5A",
+                "text": "\u2022 925 Sterling Silver\n\u2022 Rose Gold Plated\n\u2022 Certificate of Authenticity\n\u2022 6 Month Warranty",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 60,
+                "width": 261.2,
+                "height": 90.4,
+                "fill": "#C06A6A",
+                "text": "\u20b91619",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#C06A6A",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 955,
+                "left": 100,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 250,
+                "left": 555,
+                "width": 492.25000000000006,
+                "height": 228.25000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/zBmU79Xe8ElKkSKm0qoDx_895x415.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 65 ratings.",
+            "price": "\u20b91619"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68241daa671f7aaffc6a4e4e/zBmU79Xe8ElKkSKm0qoDx_895x415.png",
+        "marketplace_url": "",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis elegantly styled banner is divided into four quadrants, each shaded in soft, muted pink tones that create a gentle and luxurious feel. The top-left quadrant features a circular backdrop overlaid with three text layers: a bold brand logo (`brand_logo`), a product title with two-line layout (`heading`), and a material descriptor in a modern font (`subheading`). The top-right quadrant showcases a centered product image (`product_image`), with a subtle dotted carousel navigation above it.\n\nIn the bottom-left, benefits are listed with bullet points (`description`), followed by a bold product price (`price`) and a rectangular call-to-action button (`cta_button`) containing a white label (`cta`). Background elements include softly-rendered circles and delicate diagonal lines and curves that add a decorative yet understated aesthetic.\n\n**Color Palette:**\n- Soft Peach (#FFF5F5)\n- Blush Pink (#FFE8E6)\n- Rose Tint (#F8D1D0)\n- Dusty Rose (#EDC2C2)\n- Coral Pink (#FFDCD7)\n- Warm Rose (#C06A6A)\n- Earthy Brown (#8B5A5A)\n- Accent Coral (#E9967A)\n- Pure White (#FFFFFF)\n",
+    "product_color": "  \nThe product image showcases a pair of elegant earrings with a delicately feminine color palette. The main colors include a soft rose gold (#F4AAB9), prominently featured in the floral metal detailing, and a pastel pink (#F7C6CC) embedded in the teardrop-shaped elements. Sparkling crystal-like gems, colored in shimmering white (#FFFFFF), add pristine highlights. The rose gold structure seamlessly blends with the crystals surrounding it, offering contrast yet harmony. This luxurious combination of warm pinks and icy brilliance gives a balanced and sophisticated feel, ideal for a premium or romantic-themed advertisement banner. Accent colors could include muted peach (#FAD4D8) and metallic blush (#E6A6A9).  \n"
+}

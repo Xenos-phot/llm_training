@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A3A5E'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#0D2C4D'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#2C4F75'/><g opacity='0.1'><circle cx='200' cy='200' r='30' fill='#ffffff'/><circle cx='300' cy='300' r='20' fill='#ffffff'/><circle cx='150' cy='400' r='25' fill='#ffffff'/><circle cx='250' cy='550' r='15' fill='#ffffff'/><circle cx='120' cy='700' r='22' fill='#ffffff'/><circle cx='300' cy='800' r='18' fill='#ffffff'/></g><g opacity='0.2'><rect x='950' y='150' width='80' height='3' fill='#60B6FF'/><rect x='900' y='250' width='140' height='3' fill='#60B6FF'/><rect x='920' y='350' width='100' height='3' fill='#60B6FF'/><rect x='880' y='450' width='150' height='3' fill='#60B6FF'/><rect x='930' y='550' width='90' height='3' fill='#60B6FF'/></g><path d='M0 540 L1080 540' stroke='#60B6FF' stroke-width='1' opacity='0.2'/><path d='M0 0 L1080 1080' stroke='#60B6FF' stroke-width='2' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 45, "width": 361, "height": 189.84, "fill": "#FFFFFF", "text": "COMPACT\nDRYER", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 255, "left": 45, "width": 470.68, "height": 81.36, "fill": "#60B6FF", "text": "REVOLUTIONIZE YOUR\nLAUNDRY EXPERIENCE!", "fontSize": 36, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 365, "left": 45, "width": 366.67, "height": 164.53, "fill": "#FFFFFF", "text": "\u2022 Space-Saving Compact Design\n\u2022 Multiple Drying Cycles\n\u2022 Energy-Efficient Operation\n\u2022 Digital LED Display", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 560, "left": 45, "width": 412.79, "height": 33.9, "fill": "#60B6FF", "text": "Effortless Drying, Chic Style!", "fontSize": 30, "fontFamily": "Poppins-Italic", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 670, "left": 45, "width": 254.82, "height": 101.7, "fill": "#FFFFFF", "text": "$899", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 820, "left": 45, "width": 200, "height": 60, "fill": "#60B6FF", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 835, "left": 85, "width": 95.66, "height": 33.9, "fill": "#0D2C4D", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 332, "left": 527, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/kr80K1s0-_ePvtdQSPKSG_899x1336.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Modern High-Efficiency Compact Clothes Dryer - Sleek White Design", "description": "\u2022 Digital LED Display with Clear Time & Cycle Indicators\n\u2022 Multiple Drying Cycles Including My Cycle, Mixed Load, Heavy Duty & Towels\n\u2022 Space-Saving Compact Design Perfect for Apartments & Small Spaces\n\u2022 Easy-to-Use Control Dial with Multiple Temperature Settings\n\u2022 Contemporary White Finish with Large Dark Glass Door\n\u2022 Built-in Ventilation System for Efficient Drying\n\u2022 Convenient Maintenance Access Panel\n\u2022 Energy-Efficient Operation for Lower Utility Bills\n\u2022 Clear Digital Interface with Simple Program Selection\n\u2022 Durable Construction with Modern Aesthetic\n\u2022 Front-Loading Design with Easy Access Door\n\u2022 Professional-Grade Drying Performance in a Home Format", "price": "$899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/kr80K1s0-_ePvtdQSPKSG_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/335a9f61-340a-41fe-8856-da6d72f91c27", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a clean, bold layout designed to promote a compact dryer. The background uses layered diagonal shapes in deep navy and steel blue tones, enhanced by geometric accents like translucent lines, circles, and bars, adding a modern, tech-inspired feel. The focal point is a prominent product image (\"product_image\") on the right half of the design. \n\nText elements include a large, bold headline (\"heading\") in white, followed by a vibrant electric blue subheading (\"subheading\"). Key product features are listed in a clear white bullet format (\"description\"). A stylish italic tagline (\"tagline\") complements the theme, and the bold price (\"price\") grabs attention. A bright call-to-action button (\"cta_button\") with contrasting text (\"cta\") at the bottom invites users to act.\n\n**Color Palette:**\n- Deep Navy: #1A3A5E\n- Ocean Blue: #0D2C4D\n- Steel Blue: #2C4F75\n- Electric Blue: #60B6FF\n- White: #FFFFFF\n", "product_color": "  \nThe product image features a modern and minimalist aesthetic dominated by a clean white body (#FFFFFF), which conveys hygiene, simplicity, and elegance. The door and display panel use deep black (#1C1C1C) and charcoal gray (#2F2F2F), adding contrast and a sleek visual appeal. The control knob is highlighted with metallic silver (#C0C0C0), surrounded by subtle accent colors like light blue (#7FC6E9), orange-red (#F15B40), and pale gray (#D3D3D3), which highlight different cycle options without overwhelming the design. These colors blend harmoniously by maintaining light tones with minimal saturation, enhancing functionality while keeping the design modern and clean\u2014ideal for a technology-focused advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A3A5E'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#0D2C4D'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#2C4F75'/><g opacity='0.1'><circle cx='200' cy='200' r='30' fill='#ffffff'/><circle cx='300' cy='300' r='20' fill='#ffffff'/><circle cx='150' cy='400' r='25' fill='#ffffff'/><circle cx='250' cy='550' r='15' fill='#ffffff'/><circle cx='120' cy='700' r='22' fill='#ffffff'/><circle cx='300' cy='800' r='18' fill='#ffffff'/></g><g opacity='0.2'><rect x='950' y='150' width='80' height='3' fill='#60B6FF'/><rect x='900' y='250' width='140' height='3' fill='#60B6FF'/><rect x='920' y='350' width='100' height='3' fill='#60B6FF'/><rect x='880' y='450' width='150' height='3' fill='#60B6FF'/><rect x='930' y='550' width='90' height='3' fill='#60B6FF'/></g><path d='M0 540 L1080 540' stroke='#60B6FF' stroke-width='1' opacity='0.2'/><path d='M0 0 L1080 1080' stroke='#60B6FF' stroke-width='2' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 45,
+                "width": 361,
+                "height": 189.84,
+                "fill": "#FFFFFF",
+                "text": "COMPACT\nDRYER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 255,
+                "left": 45,
+                "width": 470.68,
+                "height": 81.36,
+                "fill": "#60B6FF",
+                "text": "REVOLUTIONIZE YOUR\nLAUNDRY EXPERIENCE!",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 365,
+                "left": 45,
+                "width": 366.67,
+                "height": 164.53,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Space-Saving Compact Design\n\u2022 Multiple Drying Cycles\n\u2022 Energy-Efficient Operation\n\u2022 Digital LED Display",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 560,
+                "left": 45,
+                "width": 412.79,
+                "height": 33.9,
+                "fill": "#60B6FF",
+                "text": "Effortless Drying, Chic Style!",
+                "fontFamily": "Poppins-Italic",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 670,
+                "left": 45,
+                "width": 254.82,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$899",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 820,
+                "left": 45,
+                "width": 200,
+                "height": 60,
+                "fill": "#60B6FF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 835,
+                "left": 85,
+                "width": 95.66,
+                "height": 33.9,
+                "fill": "#0D2C4D",
+                "text": "SHOP NOW",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 332,
+                "left": 527,
+                "width": 467.48,
+                "height": 694.72,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/kr80K1s0-_ePvtdQSPKSG_899x1336.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Modern High-Efficiency Compact Clothes Dryer - Sleek White Design",
+            "description": "\u2022 Digital LED Display with Clear Time & Cycle Indicators\n\u2022 Multiple Drying Cycles Including My Cycle, Mixed Load, Heavy Duty & Towels\n\u2022 Space-Saving Compact Design Perfect for Apartments & Small Spaces\n\u2022 Easy-to-Use Control Dial with Multiple Temperature Settings\n\u2022 Contemporary White Finish with Large Dark Glass Door\n\u2022 Built-in Ventilation System for Efficient Drying\n\u2022 Convenient Maintenance Access Panel\n\u2022 Energy-Efficient Operation for Lower Utility Bills\n\u2022 Clear Digital Interface with Simple Program Selection\n\u2022 Durable Construction with Modern Aesthetic\n\u2022 Front-Loading Design with Easy Access Door\n\u2022 Professional-Grade Drying Performance in a Home Format",
+            "price": "$899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/kr80K1s0-_ePvtdQSPKSG_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/335a9f61-340a-41fe-8856-da6d72f91c27",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a clean, bold layout designed to promote a compact dryer. The background uses layered diagonal shapes in deep navy and steel blue tones, enhanced by geometric accents like translucent lines, circles, and bars, adding a modern, tech-inspired feel. The focal point is a prominent product image (\"product_image\") on the right half of the design. \n\nText elements include a large, bold headline (\"heading\") in white, followed by a vibrant electric blue subheading (\"subheading\"). Key product features are listed in a clear white bullet format (\"description\"). A stylish italic tagline (\"tagline\") complements the theme, and the bold price (\"price\") grabs attention. A bright call-to-action button (\"cta_button\") with contrasting text (\"cta\") at the bottom invites users to act.\n\n**Color Palette:**\n- Deep Navy: #1A3A5E\n- Ocean Blue: #0D2C4D\n- Steel Blue: #2C4F75\n- Electric Blue: #60B6FF\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image features a modern and minimalist aesthetic dominated by a clean white body (#FFFFFF), which conveys hygiene, simplicity, and elegance. The door and display panel use deep black (#1C1C1C) and charcoal gray (#2F2F2F), adding contrast and a sleek visual appeal. The control knob is highlighted with metallic silver (#C0C0C0), surrounded by subtle accent colors like light blue (#7FC6E9), orange-red (#F15B40), and pale gray (#D3D3D3), which highlight different cycle options without overwhelming the design. These colors blend harmoniously by maintaining light tones with minimal saturation, enhancing functionality while keeping the design modern and clean\u2014ideal for a technology-focused advertisement banner.\n"
+}

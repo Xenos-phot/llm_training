@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#E8E8E8'/><rect x='0' y='0' width='540' height='540' fill='#2D4B2F'/><rect x='540' y='0' width='540' height='540' fill='#1A2C1C'/><rect x='0' y='540' width='540' height='540' fill='#3E5C40'/><rect x='540' y='540' width='540' height='540' fill='#F0C808'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='140' cy='140' r='60' fill='#F0C808' opacity='0.3'/><circle cx='940' cy='940' r='80' fill='#2D4B2F' opacity='0.5'/><g transform='translate(100, 440)'><rect x='0' y='0' width='15' height='60' fill='#F0C808'/><rect x='25' y='0' width='15' height='60' fill='#F0C808'/><rect x='50' y='0' width='15' height='60' fill='#F0C808'/></g><g transform='translate(900, 140)'><rect x='0' y='0' width='15' height='60' fill='#FFFFFF' opacity='0.2'/><rect x='25' y='0' width='15' height='60' fill='#FFFFFF' opacity='0.2'/><rect x='50' y='0' width='15' height='60' fill='#FFFFFF' opacity='0.2'/></g><path d='M580 540 L640 600 L700 540' stroke='#2D4B2F' stroke-width='8' fill='none'/><path d='M740 780 L800 840 L860 780' stroke='#2D4B2F' stroke-width='8' fill='none'/><path d='M580 900 L640 840 L700 900' stroke='#2D4B2F' stroke-width='8' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 428.44, "height": 90.4, "fill": "#FFFFFF", "text": "MOKOBARA", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 50, "width": 298.96, "height": 94.92, "fill": "#F0C808", "text": "CABIN PRO\nSMARTCASE", "fontSize": 40, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 50, "width": 446.24, "height": 24.86, "fill": "#E8E8E8", "text": "PREMIUM TRAVEL LUGGAGE", "fontSize": 22, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 620, "left": 50, "width": 370.28, "height": 176.28, "fill": "#2D2D2D", "text": "\u2022 German Polycarbonate Shell\n\u2022 8-Wheel Silent Technology\n\u2022 Built-in USB Charging Port\n\u2022 TSA Approved Smart Lock", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 50, "width": 348.8, "height": 90.4, "fill": "#2D2D2D", "text": "$309.00", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 50, "width": 220, "height": 70, "fill": "#2D4B2F", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 970, "left": 85, "width": 129.3, "height": 38.42, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 34, "fontFamily": "Squada One-Regular", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 150, "left": 540, "width": 895, "height": 1423, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant **", "price": "309.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png", "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY", "layout": "split_vertical"}, "banner_details": "\nThis banner design promotes premium travel luggage with a sleek and modern layout. It consists of four visually distinct quadrants split diagonally with dark green (#2D4B2F, #1A2C1C), deep olive (#3E5C40), and vibrant yellow (#F0C808) backgrounds overlaid by a semi-transparent white line grid. At the top-left corner, a bold white uppercase heading (\"heading\") sits above a yellow techno-style subheading (\"subheading\"), conveying product identity. Below that, a clean, futuristic tagline (\"tagline\") summarizes the offering. A centrally placed high-quality product image (\"product_image\") dominates the right half. Key selling points are listed in the lower-left text block (\"description\"), followed by the product price in bold (\"price\"). A rectangular dark green CTA button (\"cta_background\") with white text (\"cta\") encourages interaction.\n\n**Color Palette:**\n- Dark Green: #2D4B2F  \n- Deep Forest Green: #1A2C1C  \n- Olive Green: #3E5C40  \n- Vibrant Yellow: #F0C808  \n- Light Grey Grid: #E8E8E8  \n- White: #FFFFFF  \n- Dark Text: #2D2D2D  \n", "product_color": "\nThe product image showcases a sleek, modern suitcase in a refined dark olive green (#4A5A41) base color, complemented by a vivid mustard yellow (#F2B233) accent that adds energy and style. The yellow highlights appear on the zipper tracks and interior lining, creating dynamic contrast and guiding the viewer\u2019s attention across the design. The matte black (#1D1D1B) handle and corner wheels blend seamlessly without overpowering the main colors, maintaining a clean, focused look. The yellow grid interior lining introduces subtle texture. For an advertisement banner, a palette of dark olive green, mustard yellow, matte black, and soft beige (#F2F2E9) will be visually compelling.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#E8E8E8'/><rect x='0' y='0' width='540' height='540' fill='#2D4B2F'/><rect x='540' y='0' width='540' height='540' fill='#1A2C1C'/><rect x='0' y='540' width='540' height='540' fill='#3E5C40'/><rect x='540' y='540' width='540' height='540' fill='#F0C808'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#FFFFFF' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#FFFFFF' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#FFFFFF' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><circle cx='140' cy='140' r='60' fill='#F0C808' opacity='0.3'/><circle cx='940' cy='940' r='80' fill='#2D4B2F' opacity='0.5'/><g transform='translate(100, 440)'><rect x='0' y='0' width='15' height='60' fill='#F0C808'/><rect x='25' y='0' width='15' height='60' fill='#F0C808'/><rect x='50' y='0' width='15' height='60' fill='#F0C808'/></g><g transform='translate(900, 140)'><rect x='0' y='0' width='15' height='60' fill='#FFFFFF' opacity='0.2'/><rect x='25' y='0' width='15' height='60' fill='#FFFFFF' opacity='0.2'/><rect x='50' y='0' width='15' height='60' fill='#FFFFFF' opacity='0.2'/></g><path d='M580 540 L640 600 L700 540' stroke='#2D4B2F' stroke-width='8' fill='none'/><path d='M740 780 L800 840 L860 780' stroke='#2D4B2F' stroke-width='8' fill='none'/><path d='M580 900 L640 840 L700 900' stroke='#2D4B2F' stroke-width='8' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 428.44,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "MOKOBARA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 298.96,
+                "height": 94.92,
+                "fill": "#F0C808",
+                "text": "CABIN PRO\nSMARTCASE",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 50,
+                "width": 446.24,
+                "height": 24.86,
+                "fill": "#E8E8E8",
+                "text": "PREMIUM TRAVEL LUGGAGE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 620,
+                "left": 50,
+                "width": 370.28,
+                "height": 176.28,
+                "fill": "#2D2D2D",
+                "text": "\u2022 German Polycarbonate Shell\n\u2022 8-Wheel Silent Technology\n\u2022 Built-in USB Charging Port\n\u2022 TSA Approved Smart Lock",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 50,
+                "width": 348.8,
+                "height": 90.4,
+                "fill": "#2D2D2D",
+                "text": "$309.00",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#2D4B2F",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 970,
+                "left": 85,
+                "width": 129.3,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 150,
+                "left": 540,
+                "width": 465.40000000000003,
+                "height": 739.96,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant **",
+            "price": "309.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7c1b0db4-c729-4531-ad4d-be4e51f1960f_nobg_895x1423.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design promotes premium travel luggage with a sleek and modern layout. It consists of four visually distinct quadrants split diagonally with dark green (#2D4B2F, #1A2C1C), deep olive (#3E5C40), and vibrant yellow (#F0C808) backgrounds overlaid by a semi-transparent white line grid. At the top-left corner, a bold white uppercase heading (\"heading\") sits above a yellow techno-style subheading (\"subheading\"), conveying product identity. Below that, a clean, futuristic tagline (\"tagline\") summarizes the offering. A centrally placed high-quality product image (\"product_image\") dominates the right half. Key selling points are listed in the lower-left text block (\"description\"), followed by the product price in bold (\"price\"). A rectangular dark green CTA button (\"cta_background\") with white text (\"cta\") encourages interaction.\n\n**Color Palette:**\n- Dark Green: #2D4B2F  \n- Deep Forest Green: #1A2C1C  \n- Olive Green: #3E5C40  \n- Vibrant Yellow: #F0C808  \n- Light Grey Grid: #E8E8E8  \n- White: #FFFFFF  \n- Dark Text: #2D2D2D  \n",
+    "product_color": "\nThe product image showcases a sleek, modern suitcase in a refined dark olive green (#4A5A41) base color, complemented by a vivid mustard yellow (#F2B233) accent that adds energy and style. The yellow highlights appear on the zipper tracks and interior lining, creating dynamic contrast and guiding the viewer\u2019s attention across the design. The matte black (#1D1D1B) handle and corner wheels blend seamlessly without overpowering the main colors, maintaining a clean, focused look. The yellow grid interior lining introduces subtle texture. For an advertisement banner, a palette of dark olive green, mustard yellow, matte black, and soft beige (#F2F2E9) will be visually compelling.\n"
+}

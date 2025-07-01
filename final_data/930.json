@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A1A1A'/><stop offset='100%' style='stop-color:#2A2A2A'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#333333'/><stop offset='100%' style='stop-color:#444444'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#888888'/><stop offset='100%' style='stop-color:#666666'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><path d='M950 0 L0 950 L0 1080 L1080 0 Z' fill='url(#accent)' opacity='0.3'/><path d='M0 540 L540 1080 L0 1080 Z' fill='#222222' opacity='0.5'/><path d='M1080 0 L1080 540 L540 0 Z' fill='#505050' opacity='0.2'/><circle cx='270' cy='270' r='150' fill='none' stroke='#555555' stroke-width='1' opacity='0.2'/><circle cx='810' cy='810' r='200' fill='none' stroke='#777777' stroke-width='1' opacity='0.1'/><line x1='0' y1='0' x2='1080' y2='1080' stroke='#AAAAAA' stroke-width='1' opacity='0.1'/><line x1='540' y1='0' x2='1080' y2='540' stroke='#AAAAAA' stroke-width='1' opacity='0.1'/><line x1='0' y1='540' x2='540' y2='1080' stroke='#AAAAAA' stroke-width='1' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 338.05, "height": 124.3, "fill": "#CCCCCC", "text": "BOSS", "fontSize": 110, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 50, "width": 701.9, "height": 67.8, "fill": "#9A9A9A", "text": "CLOUD CHRONO", "fontSize": 60, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 340, "left": 52, "width": 305.96, "height": 176.28, "fill": "#B8B8B8", "text": "\u2022 Ionic Plated Black Steel\n\u2022 Chronograph Function\n\u2022 Premium Grey Dial\n\u2022 Scratch-Resistant Glass", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 580, "left": 50, "width": 286.56, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9 11,200", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 720, "left": 50, "width": 200, "height": 60, "fill": "#888888", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 738, "left": 85, "width": 133.86, "height": 27.12, "fill": "#1A1A1A", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 360, "left": 540, "width": 631, "height": 1087, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/lf0lU48yIJEwwzvXsL1mJ_631x1087.png", "id": "product_image"}, {"type": "rect", "top": 310, "left": 50, "width": 400, "height": 2, "fill": "#888888", "rx": 0, "ry": 0, "id": "decorative_divider"}], "version": "5.3.0"}, "input": {"product_details": {"name": "BOSS Cloud Qtz Fashion Chrono Grey Round Dial Men's Analog Watch|Ionic Plated Black Steel Material|Black Color Band - 1514016", "description": "Brand: BOSS. Model: 1514016. Model Name: 1514016. Product Dimensions: 16 x 4.4 x 4.4 cm; 148 g. Batteries: 1 12V batteries required. (included). Special Features: Easy Reader, Lightweight, Glow In The Dark, Second Hand, Scratch-Resistant. Display Type: Analog. Power Source: Battery Powered. Batteries Included: Yes. Batteries Required: Yes. Battery cell composition: Silver Oxide. Speaker Diameter: 44 Millimeters. Country of Origin: Hong Kong. Item Weight: 148 g. Importer: MGI Distribution Pvt Ltd.210/2 Bellary road, sadashiv nagar 2nd floor upper Palace Orchards Bengalure- 560080. Item Dimensions Lx Wx H: 16 x 4.4 x 4.4 Centimeters. Net Quantity: 1 Count. Generic Name: Casual Watch.", "price": "\u20b911200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/lf0lU48yIJEwwzvXsL1mJ_631x1087.png", "marketplace_url": "https://www.amazon.in/BOSS-Fashion-Chrono-Plated-Material/dp/B0BX943NNV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.lDgXYdoFdzZiSbFzSlK4H7L4epkuBtoEwdFxSDNxepQeiLaAxLzsQ2EwnfhN7V8hk037ln0zjuigtBJIALovjPj3ADWR94-xs-UydJCnUN_vHfqNVI2PzQcjSCJtVTWacrZMhydntmHTQljGuMUWJ-f358_8Z5xXOEo9PI0sZ5lv5lO3kz3FJdVZTp4lsJog6klYaDofj9BUiPHhsTNk0SqD-BOYKi-0VTZhLFqcjDpenvCnFjH_GnaYaDSnlzdXxJhaKmjXsxVFJL0rp6Rt0n0WGf15dukdT8OH8seNVI4.KVa3lgGdsxVyi__zFtjHlOixxIeYnYpDNw6CEecTl4s&dib_tag=se&pf_rd_i=2563504031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-12&qid=1747223330&refinements=p_89%3ABOSS&rnid=3837712031&s=watches&sr=1-1", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a sleek, modern design promoting a luxury wristwatch. The layout is diagonally split with layered geometric accents, giving a dynamic, professional look. The top-left corner begins with a bold title labeled as `heading`, followed by a sleek subheading `subheading` in a futuristic font. Below, there's a vertical list of product highlights in the `description` layer, enhancing user clarity. A strong white price tag identified by `price` draws attention. Beneath it, a rectangular call-to-action button (`cta_background`) houses the label `cta`, encouraging users to shop. On the right side, a high-resolution, centered watch image (`product_image`) balances the composition.\n\n**Color Palette:**\n- Jet Black (#1A1A1A)\n- Charcoal Gray (#2A2A2A)\n- Gunmetal (#444444)\n- Light Slate Gray (#888888)\n- Cool Silver (#CCCCCC)\n- White (#FFFFFF)\n", "product_color": "  \nThe product image presents a BOSS wristwatch with a refined, monochromatic palette ideal for a premium and masculine advertisement banner. The primary colors are a brushed black metal (`#1C1C1C`) used on the band and casing, paired with a matte charcoal grey dial (`#4C4C4C`) that lends a subtle industrial feel. The sub-dials are outlined in darker graphite (`#2F2F2F`) and finely contrasted with light metallic elements (`#A0A0A0`) for visibility. The blend of dark tones highlights the precision detailing without overwhelming the design. An accent of white (`#FFFFFF`) in date and marker indicators ensures clarity and elegance amidst the grayscale theme.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1A1A1A'/><stop offset='100%' style='stop-color:#2A2A2A'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#333333'/><stop offset='100%' style='stop-color:#444444'/></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#888888'/><stop offset='100%' style='stop-color:#666666'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><path d='M950 0 L0 950 L0 1080 L1080 0 Z' fill='url(#accent)' opacity='0.3'/><path d='M0 540 L540 1080 L0 1080 Z' fill='#222222' opacity='0.5'/><path d='M1080 0 L1080 540 L540 0 Z' fill='#505050' opacity='0.2'/><circle cx='270' cy='270' r='150' fill='none' stroke='#555555' stroke-width='1' opacity='0.2'/><circle cx='810' cy='810' r='200' fill='none' stroke='#777777' stroke-width='1' opacity='0.1'/><line x1='0' y1='0' x2='1080' y2='1080' stroke='#AAAAAA' stroke-width='1' opacity='0.1'/><line x1='540' y1='0' x2='1080' y2='540' stroke='#AAAAAA' stroke-width='1' opacity='0.1'/><line x1='0' y1='540' x2='540' y2='1080' stroke='#AAAAAA' stroke-width='1' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 338.05,
+                "height": 124.3,
+                "fill": "#CCCCCC",
+                "text": "BOSS",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 50,
+                "width": 701.9,
+                "height": 67.8,
+                "fill": "#9A9A9A",
+                "text": "CLOUD CHRONO",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 52,
+                "width": 305.96,
+                "height": 176.28,
+                "fill": "#B8B8B8",
+                "text": "\u2022 Ionic Plated Black Steel\n\u2022 Chronograph Function\n\u2022 Premium Grey Dial\n\u2022 Scratch-Resistant Glass",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 50,
+                "width": 286.56,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 11,200",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 720,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#888888",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 738,
+                "left": 85,
+                "width": 133.86,
+                "height": 27.12,
+                "fill": "#1A1A1A",
+                "text": "SHOP NOW",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 360,
+                "left": 540,
+                "width": 378.59999999999997,
+                "height": 652.1999999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/lf0lU48yIJEwwzvXsL1mJ_631x1087.png",
+                "id": "product_image"
+            },
+            {
+                "type": "rect",
+                "top": 310,
+                "left": 50,
+                "width": 400,
+                "height": 2,
+                "fill": "#888888",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative_divider"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "BOSS Cloud Qtz Fashion Chrono Grey Round Dial Men's Analog Watch|Ionic Plated Black Steel Material|Black Color Band - 1514016",
+            "description": "Brand: BOSS. Model: 1514016. Model Name: 1514016. Product Dimensions: 16 x 4.4 x 4.4 cm; 148 g. Batteries: 1 12V batteries required. (included). Special Features: Easy Reader, Lightweight, Glow In The Dark, Second Hand, Scratch-Resistant. Display Type: Analog. Power Source: Battery Powered. Batteries Included: Yes. Batteries Required: Yes. Battery cell composition: Silver Oxide. Speaker Diameter: 44 Millimeters. Country of Origin: Hong Kong. Item Weight: 148 g. Importer: MGI Distribution Pvt Ltd.210/2 Bellary road, sadashiv nagar 2nd floor upper Palace Orchards Bengalure- 560080. Item Dimensions Lx Wx H: 16 x 4.4 x 4.4 Centimeters. Net Quantity: 1 Count. Generic Name: Casual Watch.",
+            "price": "\u20b911200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/lf0lU48yIJEwwzvXsL1mJ_631x1087.png",
+        "marketplace_url": "https://www.amazon.in/BOSS-Fashion-Chrono-Plated-Material/dp/B0BX943NNV/ref=sr_1_1?dib=eyJ2IjoiMSJ9.lDgXYdoFdzZiSbFzSlK4H7L4epkuBtoEwdFxSDNxepQeiLaAxLzsQ2EwnfhN7V8hk037ln0zjuigtBJIALovjPj3ADWR94-xs-UydJCnUN_vHfqNVI2PzQcjSCJtVTWacrZMhydntmHTQljGuMUWJ-f358_8Z5xXOEo9PI0sZ5lv5lO3kz3FJdVZTp4lsJog6klYaDofj9BUiPHhsTNk0SqD-BOYKi-0VTZhLFqcjDpenvCnFjH_GnaYaDSnlzdXxJhaKmjXsxVFJL0rp6Rt0n0WGf15dukdT8OH8seNVI4.KVa3lgGdsxVyi__zFtjHlOixxIeYnYpDNw6CEecTl4s&dib_tag=se&pf_rd_i=2563504031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-12&qid=1747223330&refinements=p_89%3ABOSS&rnid=3837712031&s=watches&sr=1-1",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a sleek, modern design promoting a luxury wristwatch. The layout is diagonally split with layered geometric accents, giving a dynamic, professional look. The top-left corner begins with a bold title labeled as `heading`, followed by a sleek subheading `subheading` in a futuristic font. Below, there's a vertical list of product highlights in the `description` layer, enhancing user clarity. A strong white price tag identified by `price` draws attention. Beneath it, a rectangular call-to-action button (`cta_background`) houses the label `cta`, encouraging users to shop. On the right side, a high-resolution, centered watch image (`product_image`) balances the composition.\n\n**Color Palette:**\n- Jet Black (#1A1A1A)\n- Charcoal Gray (#2A2A2A)\n- Gunmetal (#444444)\n- Light Slate Gray (#888888)\n- Cool Silver (#CCCCCC)\n- White (#FFFFFF)\n",
+    "product_color": "  \nThe product image presents a BOSS wristwatch with a refined, monochromatic palette ideal for a premium and masculine advertisement banner. The primary colors are a brushed black metal (`#1C1C1C`) used on the band and casing, paired with a matte charcoal grey dial (`#4C4C4C`) that lends a subtle industrial feel. The sub-dials are outlined in darker graphite (`#2F2F2F`) and finely contrasted with light metallic elements (`#A0A0A0`) for visibility. The blend of dark tones highlights the precision detailing without overwhelming the design. An accent of white (`#FFFFFF`) in date and marker indicators ensures clarity and elegance amidst the grayscale theme.  \n"
+}

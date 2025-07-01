@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F5E9DC'/><stop offset='100%' stop-color='#E8C9A9'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F8EFE7'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' stroke='#D9A566' stroke-width='5'/><g opacity='0.2'><path d='M150 150 Q200 100, 250 150 T350 150' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M850 250 Q900 200, 950 250 T1050 250' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M150 850 Q200 800, 250 850 T350 850' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M850 950 Q900 900, 950 950 T1050 950' stroke='#A67C52' stroke-width='4' fill='none'/></g><g opacity='0.15'><path d='M50 400 L100 420 L80 450 L120 470 L90 500' stroke='#7D5A2C' stroke-width='3' fill='none'/><path d='M980 400 L930 420 L950 450 L910 470 L940 500' stroke='#7D5A2C' stroke-width='3' fill='none'/></g><g opacity='0.1'><circle cx='200' cy='200' r='30' fill='#D9A566'/><circle cx='880' cy='200' r='25' fill='#D9A566'/><circle cx='200' cy='880' r='25' fill='#D9A566'/><circle cx='880' cy='880' r='30' fill='#D9A566'/></g><circle cx='850' cy='400' r='120' fill='#D9A566' stroke='#B37F39' stroke-width='3'/><g opacity='0.3'><path d='M200 300 l40 -20 l40 20 l40 -20 l40 20' stroke='#A67C52' stroke-width='2'/><path d='M700 800 l40 -20 l40 20 l40 -20 l40 20' stroke='#A67C52' stroke-width='2'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 297.52, "width": 484.96, "height": 101.7, "fill": "#8B4513", "text": "ALMOND BLISS", "fontSize": 90, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 275.06, "width": 529.88, "height": 67.8, "fill": "#8B5A2B", "text": "Luxury Body Lotion", "fontSize": 60, "fontFamily": "Bitter Thin", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 338.6, "left": 412.2, "width": 639, "height": 1007, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/ntknJUswbiuTw9vaRoJVw_639x1007.png", "id": "product_image"}, {"type": "text", "top": 354.8, "left": 759.1800000000001, "width": 181.64, "height": 90.4, "fill": "#FFFFFF", "text": "$899", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 910, "left": 43.214999999999975, "width": 993.57, "height": 38.42, "fill": "#8B4513", "text": "\u2022 HYDRATES & ILLUMINATES \u2022 DEEP NOURISHMENT \u2022 NON-GREASY", "fontSize": 34, "fontFamily": "Fira Sans Bold", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#A67C52", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Almond Body Lotion Locks Deep Nourishment, Revitalize Skin Glow, With Goodness of Natural Ingredients, Non-Greasy \u2013 200 ml", "description": "<p>\u2705 HYDRATES &amp; ILLUMINATES: Our lotion deeply hydrates the skin, delivering essential moisture that enhances your natural glow. Infused with nourishing ingredients, it leaves your skin feeling soft and visibly radiant.<br />\n\u2705 DEEP NOURISHMENT: Packed with essential nutrients, our lotion delivers intense nourishment to the skin, promoting a healthy and revitalized appearance. It helps restore the skin&#8217;s natural barrier, ensuring softness and resilience against dryness.<br />\n\u2705 KEY INGREDIENTS: Featuring Hyaluronic Acid for deep hydration, Shea Butter and Cocoa Butter, Coconut Oil for intense nourishment, and Vitamin E for enhanced skin health, our lotion ensures your skin stays deeply moisturized, soft, and radiant.<br />\n\u2705 HOW TO USE: Apply a generous amount of lotion to clean, dry skin and gently massage until fully absorbed. For best results, use daily to maintain hydration and softness.<br />\n\u2705 NON-GREASY: Our lotion absorbs quickly into the skin, providing hydration without leaving a greasy residue, ensuring a smooth and comfortable finish all day long.</p>", "price": "$899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/ntknJUswbiuTw9vaRoJVw_639x1007.png", "marketplace_url": "https://themanipediessentials.com/product/almond-body-lotion-locks-deep-nourishment-revitalize-skin-glow-with-goodness-of-natural-ingredients-non-greasy-200-ml/", "layout": "circular_focus"}, "banner_details": "\nThis banner features a skincare product promotion with an elegant and warm layout. The design centers around a circular frame that highlights the product image (`product_image`), surrounded by almond visuals to emphasize natural ingredients. The main title (`heading`) is bold and placed at the top center, followed by a delicate subheading (`subheading`) that reflects luxury and softness. A circular badge on the right prominently displays the price (`price`). Three key benefits are listed at the bottom (`description`), maintaining balance. Below that, a rectangular call-to-action button (`cta_background`) with clear type (`cta`) encourages users to shop immediately.\n\n**Color Palette:**\n- Almond Brown: `#8B4513`\n- Soft Bronze: `#A67C52`\n- Warm Beige Gradient: `#F5E9DC` to `#E8C9A9`\n- Highlight Cream: `#F8EFE7`\n- Accent Gold: `#D9A566`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a body lotion with a rich, earthy color palette that effectively communicates its \"Bitter Almond\" essence. Dominant tones include warm almond brown (#A65329), creamy beige (#F9E6CD), and crisp white (#FFFFFF), giving it a clean and natural appeal. The green from the mint leaves (#52A348) adds freshness and contrasts beautifully with the brown nuts. The use of orange-brown (#C46621) in the product label highlights text and draws attention while maintaining harmony with the almond visuals. These colors blend naturally with subtle gradients and seamless transitions, yet each hue distinctly stands out to enhance the organic luxury aesthetic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F5E9DC'/><stop offset='100%' stop-color='#E8C9A9'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F8EFE7'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' stroke='#D9A566' stroke-width='5'/><g opacity='0.2'><path d='M150 150 Q200 100, 250 150 T350 150' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M850 250 Q900 200, 950 250 T1050 250' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M150 850 Q200 800, 250 850 T350 850' stroke='#A67C52' stroke-width='4' fill='none'/><path d='M850 950 Q900 900, 950 950 T1050 950' stroke='#A67C52' stroke-width='4' fill='none'/></g><g opacity='0.15'><path d='M50 400 L100 420 L80 450 L120 470 L90 500' stroke='#7D5A2C' stroke-width='3' fill='none'/><path d='M980 400 L930 420 L950 450 L910 470 L940 500' stroke='#7D5A2C' stroke-width='3' fill='none'/></g><g opacity='0.1'><circle cx='200' cy='200' r='30' fill='#D9A566'/><circle cx='880' cy='200' r='25' fill='#D9A566'/><circle cx='200' cy='880' r='25' fill='#D9A566'/><circle cx='880' cy='880' r='30' fill='#D9A566'/></g><circle cx='850' cy='400' r='120' fill='#D9A566' stroke='#B37F39' stroke-width='3'/><g opacity='0.3'><path d='M200 300 l40 -20 l40 20 l40 -20 l40 20' stroke='#A67C52' stroke-width='2'/><path d='M700 800 l40 -20 l40 20 l40 -20 l40 20' stroke='#A67C52' stroke-width='2'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 297.52,
+                "width": 484.96,
+                "height": 101.7,
+                "fill": "#8B4513",
+                "text": "ALMOND BLISS",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 275.06,
+                "width": 529.88,
+                "height": 67.8,
+                "fill": "#8B5A2B",
+                "text": "Luxury Body Lotion",
+                "fontFamily": "Bitter Thin",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 338.6,
+                "left": 412.2,
+                "width": 255.60000000000002,
+                "height": 402.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/ntknJUswbiuTw9vaRoJVw_639x1007.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 354.8,
+                "left": 759.1800000000001,
+                "width": 181.64,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$899",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 910,
+                "left": 43.214999999999975,
+                "width": 993.57,
+                "height": 38.42,
+                "fill": "#8B4513",
+                "text": "\u2022 HYDRATES & ILLUMINATES \u2022 DEEP NOURISHMENT \u2022 NON-GREASY",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#A67C52",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Almond Body Lotion Locks Deep Nourishment, Revitalize Skin Glow, With Goodness of Natural Ingredients, Non-Greasy \u2013 200 ml",
+            "description": "<p>\u2705 HYDRATES &amp; ILLUMINATES: Our lotion deeply hydrates the skin, delivering essential moisture that enhances your natural glow. Infused with nourishing ingredients, it leaves your skin feeling soft and visibly radiant.<br />\n\u2705 DEEP NOURISHMENT: Packed with essential nutrients, our lotion delivers intense nourishment to the skin, promoting a healthy and revitalized appearance. It helps restore the skin&#8217;s natural barrier, ensuring softness and resilience against dryness.<br />\n\u2705 KEY INGREDIENTS: Featuring Hyaluronic Acid for deep hydration, Shea Butter and Cocoa Butter, Coconut Oil for intense nourishment, and Vitamin E for enhanced skin health, our lotion ensures your skin stays deeply moisturized, soft, and radiant.<br />\n\u2705 HOW TO USE: Apply a generous amount of lotion to clean, dry skin and gently massage until fully absorbed. For best results, use daily to maintain hydration and softness.<br />\n\u2705 NON-GREASY: Our lotion absorbs quickly into the skin, providing hydration without leaving a greasy residue, ensuring a smooth and comfortable finish all day long.</p>",
+            "price": "$899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67e4d926fffaf50957a34568/ntknJUswbiuTw9vaRoJVw_639x1007.png",
+        "marketplace_url": "https://themanipediessentials.com/product/almond-body-lotion-locks-deep-nourishment-revitalize-skin-glow-with-goodness-of-natural-ingredients-non-greasy-200-ml/",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a skincare product promotion with an elegant and warm layout. The design centers around a circular frame that highlights the product image (`product_image`), surrounded by almond visuals to emphasize natural ingredients. The main title (`heading`) is bold and placed at the top center, followed by a delicate subheading (`subheading`) that reflects luxury and softness. A circular badge on the right prominently displays the price (`price`). Three key benefits are listed at the bottom (`description`), maintaining balance. Below that, a rectangular call-to-action button (`cta_background`) with clear type (`cta`) encourages users to shop immediately.\n\n**Color Palette:**\n- Almond Brown: `#8B4513`\n- Soft Bronze: `#A67C52`\n- Warm Beige Gradient: `#F5E9DC` to `#E8C9A9`\n- Highlight Cream: `#F8EFE7`\n- Accent Gold: `#D9A566`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a body lotion with a rich, earthy color palette that effectively communicates its \"Bitter Almond\" essence. Dominant tones include warm almond brown (#A65329), creamy beige (#F9E6CD), and crisp white (#FFFFFF), giving it a clean and natural appeal. The green from the mint leaves (#52A348) adds freshness and contrasts beautifully with the brown nuts. The use of orange-brown (#C46621) in the product label highlights text and draws attention while maintaining harmony with the almond visuals. These colors blend naturally with subtle gradients and seamless transitions, yet each hue distinctly stands out to enhance the organic luxury aesthetic.\n"
+}

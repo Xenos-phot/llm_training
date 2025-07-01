@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 L0 0Z' fill='#F5F5F5'/><path d='M0 820 C180 780 360 840 540 820 C720 800 900 860 1080 820 L1080 1080 L0 1080 L0 820Z' fill='#E63946' opacity='0.8'/><path d='M0 880 C180 860 360 900 540 880 C720 860 900 900 1080 880 L1080 1080 L0 1080 L0 880Z' fill='#E63946' opacity='0.5'/><circle cx='950' cy='150' r='180' fill='#E63946' opacity='0.1'/><circle cx='130' cy='200' r='120' fill='#E63946' opacity='0.1'/><g><rect x='20' y='20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='50' y='20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='80' y='20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='20' y='50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='50' y='50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='80' y='50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='20' y='80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='50' y='80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='80' y='80' width='12' height='12' fill='#E63946' opacity='0.5'/></g><g transform='translate(980, 980)'><rect x='-20' y='-20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-50' y='-20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-80' y='-20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-20' y='-50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-50' y='-50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-80' y='-50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-20' y='-80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-50' y='-80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-80' y='-80' width='12' height='12' fill='#E63946' opacity='0.5'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 174.04000000000002, "width": 731.92, "height": 90.4, "fill": "#1D3557", "text": "ADIDAS AF1295", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 329.875, "width": 420.25, "height": 56.5, "fill": "#457B9D", "text": "RECEIVER GLOVES", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 226.58999999999997, "left": 361.4, "width": 940, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png", "id": "product_image"}, {"type": "text", "top": 830, "left": 361.68, "width": 356.64, "height": 101.7, "fill": "#FFFFFF", "text": "$50.00", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 440.0, "width": 200, "height": 60, "fill": "#1D3557", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 966.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Always be ready to play with the Adizero 11 Receiver\u2019s Gloves from adidas! Designed to provide exceptional comfort and grip to keep up with intense gameplay. This glove features box fingertip construction to deliver an unbeatable fit for your fingertips, without any pinching or tightness. It includes a custom injection molded rubber tab with no-snag hook and loop closure to make sure it is always secure. Enhance your game with the Adizero 11 Football Gloves for receivers! Our football receiver gloves are carefully made with engineered PrimeKnit Mesh to provide the structure, support, and performance you deserve. They are designed with GripTack - an exclusive palm treatment that ensures amazing grip and performance in all weather conditions, while AeroReady technology wicks away moisture and keeps your hands cool and dry. Plus, our receiver gloves include 4-way stretch multi-dimensional fabric that naturally mimics the movements and motion of your hand, delivering supreme accuracy that will keep you ready for the next play. All adidas football gloves are certified to meet SFIA specifications required for in-game use. Experience each play like never before with the Adizero 11 Gloves! 35% Polyester, 34% Nylon, 17% Silicone, 11% Spandex, 3% Chloroprene Rubber Imported READY TO PLAY: Always be ready for every game with the adidas Adizero 11 Receiver Gloves for Football! Designed with exclusive technology, high-quality materials, and exceptional comfort, these football gloves will keep you prepared for any play. UNBEATABLE GRIP: Our durable football gloves feature GripTack - an adidas exclusive palm treatment that provides unparalleled grip and performance in all weather conditions. You will be able to rely on these gloves to help expertly catch every ball! AEROREADY: Never fumble with sweaty palms again with these adult football gloves. Featuring AEROREADY technology on the back of the hand and fourchette material, our exclusive gloves provide amazing moisture wicking to keep your hands dry and cool. DESIGNED FOR COMFORT: Engineered with 11.0 PrimeKnit mesh, these superior football gloves deliver optimal structure, support, and performance. They have an ergonomically designed pattern to fully mimic natural hand movements and motion. THE PERFECT FOOTBALL GLOVE: Custom fit features for high-level performance such as a compression fit, venting without binding, breathability, dexterity, flexibility, superior fingertip construction, increased range of motion and a no-snag hook and loop closure for a perfect fit. Brand - adidas ** Material - Polyester, Nylon ** Size - Medium ** Sport - Football ** Age Range (Description) - Adult ** Color - Black/White ** Special Feature - Ther, Moisture Wicking, Breathable ** Hand Orientation - Ambidextrous ** Item Package Quantity - 1 ** Product Care Instructions - Hand Wash Only **", "price": "$50.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08ZWBFN5K", "layout": "minimalist_center"}, "banner_details": "\nThis banner features a clean, athletic design ideal for sportswear promotions. Centered is a high-resolution image of a glove, labeled under the \u201cproduct_image\u201d layer. At the top, the bold and modern \u201cheading\u201d showcases the product name using a futuristic typeface. Below it, the \u201csubheading\u201d reinforces the product category in crisp, spaced typography. The \u201cprice\u201d layer is prominently placed in large white text near the bottom over sweeping, stylized red curves, adding energy and urgency. Finally, a dark button behind the \u201ccta\u201d layer with call-to-action text draws attention for shopping. Geometric accents and circles in the background add structure and modern flair.\n\n**Color Palette**:\n- Background: #F5F5F5 (Light Gray-white)\n- Accent Red: #E63946\n- Navy Blue Texts & Button: #1D3557\n- Secondary Blue Text: #457B9D\n- White Text: #FFFFFF\n", "product_color": "\nThe product image showcases a stylish Adidas glove that utilizes a clean and bold color palette dominated by white and deep red tones. The primary base color is a crisp white (#F5F5F5), which provides a neutral, high-contrast background that enhances the visibility of intricate design elements. Accents of rich crimson red (#A72026) are strategically placed in the logo, perforation underlays, finger creases, and wrist strap for emphasis. Thin outlines and shadows in a deeper maroon (#731015) subtly enhance depth. The white and red tones blend smoothly, while the contrast makes the logo and interior ridges pop, ensuring brand visibility and dynamic appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 L0 0Z' fill='#F5F5F5'/><path d='M0 820 C180 780 360 840 540 820 C720 800 900 860 1080 820 L1080 1080 L0 1080 L0 820Z' fill='#E63946' opacity='0.8'/><path d='M0 880 C180 860 360 900 540 880 C720 860 900 900 1080 880 L1080 1080 L0 1080 L0 880Z' fill='#E63946' opacity='0.5'/><circle cx='950' cy='150' r='180' fill='#E63946' opacity='0.1'/><circle cx='130' cy='200' r='120' fill='#E63946' opacity='0.1'/><g><rect x='20' y='20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='50' y='20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='80' y='20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='20' y='50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='50' y='50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='80' y='50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='20' y='80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='50' y='80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='80' y='80' width='12' height='12' fill='#E63946' opacity='0.5'/></g><g transform='translate(980, 980)'><rect x='-20' y='-20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-50' y='-20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-80' y='-20' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-20' y='-50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-50' y='-50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-80' y='-50' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-20' y='-80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-50' y='-80' width='12' height='12' fill='#E63946' opacity='0.5'/><rect x='-80' y='-80' width='12' height='12' fill='#E63946' opacity='0.5'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 174.04000000000002,
+                "width": 731.92,
+                "height": 90.4,
+                "fill": "#1D3557",
+                "text": "ADIDAS AF1295",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 329.875,
+                "width": 420.25,
+                "height": 56.5,
+                "fill": "#457B9D",
+                "text": "RECEIVER GLOVES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 226.58999999999997,
+                "left": 361.4,
+                "width": 357.2,
+                "height": 546.82,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 361.68,
+                "width": 356.64,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$50.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#1D3557",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 966.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Always be ready to play with the Adizero 11 Receiver\u2019s Gloves from adidas! Designed to provide exceptional comfort and grip to keep up with intense gameplay. This glove features box fingertip construction to deliver an unbeatable fit for your fingertips, without any pinching or tightness. It includes a custom injection molded rubber tab with no-snag hook and loop closure to make sure it is always secure. Enhance your game with the Adizero 11 Football Gloves for receivers! Our football receiver gloves are carefully made with engineered PrimeKnit Mesh to provide the structure, support, and performance you deserve. They are designed with GripTack - an exclusive palm treatment that ensures amazing grip and performance in all weather conditions, while AeroReady technology wicks away moisture and keeps your hands cool and dry. Plus, our receiver gloves include 4-way stretch multi-dimensional fabric that naturally mimics the movements and motion of your hand, delivering supreme accuracy that will keep you ready for the next play. All adidas football gloves are certified to meet SFIA specifications required for in-game use. Experience each play like never before with the Adizero 11 Gloves! 35% Polyester, 34% Nylon, 17% Silicone, 11% Spandex, 3% Chloroprene Rubber Imported READY TO PLAY: Always be ready for every game with the adidas Adizero 11 Receiver Gloves for Football! Designed with exclusive technology, high-quality materials, and exceptional comfort, these football gloves will keep you prepared for any play. UNBEATABLE GRIP: Our durable football gloves feature GripTack - an adidas exclusive palm treatment that provides unparalleled grip and performance in all weather conditions. You will be able to rely on these gloves to help expertly catch every ball! AEROREADY: Never fumble with sweaty palms again with these adult football gloves. Featuring AEROREADY technology on the back of the hand and fourchette material, our exclusive gloves provide amazing moisture wicking to keep your hands dry and cool. DESIGNED FOR COMFORT: Engineered with 11.0 PrimeKnit mesh, these superior football gloves deliver optimal structure, support, and performance. They have an ergonomically designed pattern to fully mimic natural hand movements and motion. THE PERFECT FOOTBALL GLOVE: Custom fit features for high-level performance such as a compression fit, venting without binding, breathability, dexterity, flexibility, superior fingertip construction, increased range of motion and a no-snag hook and loop closure for a perfect fit. Brand - adidas ** Material - Polyester, Nylon ** Size - Medium ** Sport - Football ** Age Range (Description) - Adult ** Color - Black/White ** Special Feature - Ther, Moisture Wicking, Breathable ** Hand Orientation - Ambidextrous ** Item Package Quantity - 1 ** Product Care Instructions - Hand Wash Only **",
+            "price": "$50.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08ZWBFN5K",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner features a clean, athletic design ideal for sportswear promotions. Centered is a high-resolution image of a glove, labeled under the \u201cproduct_image\u201d layer. At the top, the bold and modern \u201cheading\u201d showcases the product name using a futuristic typeface. Below it, the \u201csubheading\u201d reinforces the product category in crisp, spaced typography. The \u201cprice\u201d layer is prominently placed in large white text near the bottom over sweeping, stylized red curves, adding energy and urgency. Finally, a dark button behind the \u201ccta\u201d layer with call-to-action text draws attention for shopping. Geometric accents and circles in the background add structure and modern flair.\n\n**Color Palette**:\n- Background: #F5F5F5 (Light Gray-white)\n- Accent Red: #E63946\n- Navy Blue Texts & Button: #1D3557\n- Secondary Blue Text: #457B9D\n- White Text: #FFFFFF\n",
+    "product_color": "\nThe product image showcases a stylish Adidas glove that utilizes a clean and bold color palette dominated by white and deep red tones. The primary base color is a crisp white (#F5F5F5), which provides a neutral, high-contrast background that enhances the visibility of intricate design elements. Accents of rich crimson red (#A72026) are strategically placed in the logo, perforation underlays, finger creases, and wrist strap for emphasis. Thin outlines and shadows in a deeper maroon (#731015) subtly enhance depth. The white and red tones blend smoothly, while the contrast makes the logo and interior ridges pop, ensuring brand visibility and dynamic appeal.\n"
+}

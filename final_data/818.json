@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F0E5'/><rect x='0' y='0' width='540' height='540' fill='#F5F0E5'/><rect x='540' y='0' width='540' height='540' fill='#E5D9C8'/><rect x='0' y='540' width='540' height='540' fill='#C3957A'/><rect x='540' y='540' width='540' height='540' fill='#8A5A44'/><g opacity='0.2'><path d='M0 140 L1080 140' stroke='#6D4C3D' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#6D4C3D' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#6D4C3D' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#6D4C3D' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#6D4C3D' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#6D4C3D' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.1'><circle cx='120' cy='120' r='40' fill='#C3957A'/><circle cx='270' cy='270' r='80' fill='#C3957A'/><circle cx='420' cy='420' r='60' fill='#C3957A'/><circle cx='150' cy='450' r='30' fill='#C3957A'/><circle cx='400' cy='180' r='25' fill='#C3957A'/></g><g opacity='0.15'><circle cx='850' cy='150' r='60' fill='#8A5A44'/><circle cx='700' cy='300' r='40' fill='#8A5A44'/><circle cx='950' cy='400' r='30' fill='#8A5A44'/><circle cx='650' cy='100' r='25' fill='#8A5A44'/><circle cx='780' cy='240' r='20' fill='#8A5A44'/></g><g opacity='0.15'><circle cx='150' cy='800' r='60' fill='#E5D9C8'/><circle cx='300' cy='650' r='40' fill='#E5D9C8'/><circle cx='400' cy='900' r='30' fill='#E5D9C8'/><circle cx='100' cy='650' r='25' fill='#E5D9C8'/><circle cx='240' cy='780' r='20' fill='#E5D9C8'/></g><g opacity='0.15'><circle cx='800' cy='800' r='80' fill='#F5F0E5'/><circle cx='650' cy='650' r='50' fill='#F5F0E5'/><circle cx='900' cy='700' r='40' fill='#F5F0E5'/><circle cx='750' cy='950' r='35' fill='#F5F0E5'/><circle cx='850' cy='600' r='30' fill='#F5F0E5'/></g><g transform='translate(0, 540)'><path d='M0 0 C 60 20, 120 -20, 180 0 C 240 20, 300 -20, 360 0 C 420 20, 480 -20, 540 0' stroke='#E5D9C8' stroke-width='3' fill='none'/></g><g transform='translate(540, 0)'><path d='M0 0 C 20 60, -20 120, 0 180 C 20 240, -20 300, 0 360 C 20 420, -20 480, 0 540' stroke='#8A5A44' stroke-width='3' fill='none'/></g><g transform='translate(540, 540)'><path d='M0 0 C 60 20, 120 -20, 180 0 C 240 20, 300 -20, 360 0 C 420 20, 480 -20, 540 0' stroke='#C3957A' stroke-width='3' fill='none'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 440.16, "height": 90.4, "fill": "#6D4C3D", "text": "WOODLAND", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 50, "width": 348.77, "height": 22.6, "fill": "#8A5A44", "text": "ADVENTURE SNEAKERS", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 290, "left": 60, "width": 368.48, "height": 103.06, "fill": "#6D4C3D", "text": "Handcrafted designer comfort\nwith artistic folk-inspired patterns\nfor your everyday adventures.", "fontSize": 24, "fontFamily": "Barlow Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 50, "width": 413.74, "height": 198.88, "fill": "#FFFFFF", "text": "\u2022 Unique folk-art design\n\u2022 Premium leather construction\n\u2022 Ergonomic cushioned sole\n\u2022 Hand-stitched craftsmanship", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "features"}, {"type": "text", "top": 800, "left": 580, "width": 222.96, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9999", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 580, "width": 220, "height": 70, "fill": "#F5F0E5", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 940, "left": 617, "width": 125.2, "height": 27.12, "fill": "#6D4C3D", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 216, "left": 560, "width": 1239, "height": 895, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/7dFyhIq4pkm1DonDNOC1T_1239x895.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Whimsical Woodland Adventure Sneakers - Handcrafted Designer Comfort", "description": "\u2022 Unique folk-art inspired design with decorative scalloped patterns\n\u2022 Premium cream and tan leather construction\n\u2022 Ergonomic cushioned sole with bubble traction design\n\u2022 Contrast rust-colored laces for stylish accent\n\u2022 Artistic toe cap detailing with intricate stitching\n\u2022 Soft interior lining for maximum comfort\n\u2022 Breathable leather upper material\n\u2022 Durable rubber outsole for long-lasting wear\n\u2022 Perfect blend of artistic design and practical comfort\n\u2022 Hand-stitched details showcasing superior craftsmanship\n\u2022 Versatile style suitable for casual and bohemian fashion\n\u2022 Available in unisex sizing for universal appeal", "price": "\u20b90999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/7dFyhIq4pkm1DonDNOC1T_1239x895.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1077617639624556606_cosmic_circus_apple_pie_shoes_13dced10-9aa8-4db5-b8c2-4295d291ee8f.webp", "layout": "grid_four"}, "banner_details": "\nThe banner is a modern, grid-themed advertisement for handcrafted sneakers. It uses a four-panel background split into diagonally opposing tones\u2014light beige, warm sand, terracotta, and rich mocha\u2014complemented by a soft grid and circular accents. The left half contains text elements, including a large bold heading (\"heading\"), an elegant subheading (\"subheading\"), and a brief introduction (\"description\") that promotes the artistic craftsmanship. Below that, the \"features\" section lists key selling points in bullet-style. On the right side, a detailed product image (\"product_image\") is presented above a bold price (\"price\") and a soft-toned rectangular call-to-action button (\"cta_button\") with the text (\"cta\"). The design emphasizes a handcrafted, artistic, and earthy aesthetic.\n\n**Color Palette:**\n- Soft Beige: `#F5F0E5`\n- Sandstone: `#E5D9C8`\n- Terracotta: `#C3957A`\n- Mocha Brown: `#8A5A44`\n- Dark Chocolate: `#6D4C3D`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image features an earthy, warm-toned sneaker that blends shades of beige, tan, caramel, and burnt orange to create a handcrafted and organic aesthetic. The dominant base is a smooth beige (#F5D7B2) enriched with caramel brown (#D97A39) accents, particularly on the laces and heel detailing. A light cream (#EFE1C8) outlines the intricate patterns, while deeper burnt orange (#A34E1F) highlights the textured portions, enhancing depth and contrast. The sole includes a muted mocha brown (#9C6B46), grounding the palette. These warm hues create a cozy, artisanal vibe perfect for banners targeting a rustic, authentic, and visually tactile appeal.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F0E5'/><rect x='0' y='0' width='540' height='540' fill='#F5F0E5'/><rect x='540' y='0' width='540' height='540' fill='#E5D9C8'/><rect x='0' y='540' width='540' height='540' fill='#C3957A'/><rect x='540' y='540' width='540' height='540' fill='#8A5A44'/><g opacity='0.2'><path d='M0 140 L1080 140' stroke='#6D4C3D' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#6D4C3D' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#6D4C3D' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#FFFFFF' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#FFFFFF' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#FFFFFF' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#FFFFFF' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#6D4C3D' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#6D4C3D' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#6D4C3D' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#FFFFFF' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#FFFFFF' stroke-width='2'/></g><g opacity='0.1'><circle cx='120' cy='120' r='40' fill='#C3957A'/><circle cx='270' cy='270' r='80' fill='#C3957A'/><circle cx='420' cy='420' r='60' fill='#C3957A'/><circle cx='150' cy='450' r='30' fill='#C3957A'/><circle cx='400' cy='180' r='25' fill='#C3957A'/></g><g opacity='0.15'><circle cx='850' cy='150' r='60' fill='#8A5A44'/><circle cx='700' cy='300' r='40' fill='#8A5A44'/><circle cx='950' cy='400' r='30' fill='#8A5A44'/><circle cx='650' cy='100' r='25' fill='#8A5A44'/><circle cx='780' cy='240' r='20' fill='#8A5A44'/></g><g opacity='0.15'><circle cx='150' cy='800' r='60' fill='#E5D9C8'/><circle cx='300' cy='650' r='40' fill='#E5D9C8'/><circle cx='400' cy='900' r='30' fill='#E5D9C8'/><circle cx='100' cy='650' r='25' fill='#E5D9C8'/><circle cx='240' cy='780' r='20' fill='#E5D9C8'/></g><g opacity='0.15'><circle cx='800' cy='800' r='80' fill='#F5F0E5'/><circle cx='650' cy='650' r='50' fill='#F5F0E5'/><circle cx='900' cy='700' r='40' fill='#F5F0E5'/><circle cx='750' cy='950' r='35' fill='#F5F0E5'/><circle cx='850' cy='600' r='30' fill='#F5F0E5'/></g><g transform='translate(0, 540)'><path d='M0 0 C 60 20, 120 -20, 180 0 C 240 20, 300 -20, 360 0 C 420 20, 480 -20, 540 0' stroke='#E5D9C8' stroke-width='3' fill='none'/></g><g transform='translate(540, 0)'><path d='M0 0 C 20 60, -20 120, 0 180 C 20 240, -20 300, 0 360 C 20 420, -20 480, 0 540' stroke='#8A5A44' stroke-width='3' fill='none'/></g><g transform='translate(540, 540)'><path d='M0 0 C 60 20, 120 -20, 180 0 C 240 20, 300 -20, 360 0 C 420 20, 480 -20, 540 0' stroke='#C3957A' stroke-width='3' fill='none'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 440.16,
+                "height": 90.4,
+                "fill": "#6D4C3D",
+                "text": "WOODLAND",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 50,
+                "width": 348.77,
+                "height": 22.6,
+                "fill": "#8A5A44",
+                "text": "ADVENTURE SNEAKERS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 60,
+                "width": 368.48,
+                "height": 103.06,
+                "fill": "#6D4C3D",
+                "text": "Handcrafted designer comfort\nwith artistic folk-inspired patterns\nfor your everyday adventures.",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 413.74,
+                "height": 198.88,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Unique folk-art design\n\u2022 Premium leather construction\n\u2022 Ergonomic cushioned sole\n\u2022 Hand-stitched craftsmanship",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 580,
+                "width": 222.96,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 580,
+                "width": 220,
+                "height": 70,
+                "fill": "#F5F0E5",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 940,
+                "left": 617,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#6D4C3D",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 216,
+                "left": 560,
+                "width": 520.38,
+                "height": 375.9,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/7dFyhIq4pkm1DonDNOC1T_1239x895.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Whimsical Woodland Adventure Sneakers - Handcrafted Designer Comfort",
+            "description": "\u2022 Unique folk-art inspired design with decorative scalloped patterns\n\u2022 Premium cream and tan leather construction\n\u2022 Ergonomic cushioned sole with bubble traction design\n\u2022 Contrast rust-colored laces for stylish accent\n\u2022 Artistic toe cap detailing with intricate stitching\n\u2022 Soft interior lining for maximum comfort\n\u2022 Breathable leather upper material\n\u2022 Durable rubber outsole for long-lasting wear\n\u2022 Perfect blend of artistic design and practical comfort\n\u2022 Hand-stitched details showcasing superior craftsmanship\n\u2022 Versatile style suitable for casual and bohemian fashion\n\u2022 Available in unisex sizing for universal appeal",
+            "price": "\u20b90999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d7d6492ae04ced9dc7fc7/7dFyhIq4pkm1DonDNOC1T_1239x895.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1077617639624556606_cosmic_circus_apple_pie_shoes_13dced10-9aa8-4db5-b8c2-4295d291ee8f.webp",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner is a modern, grid-themed advertisement for handcrafted sneakers. It uses a four-panel background split into diagonally opposing tones\u2014light beige, warm sand, terracotta, and rich mocha\u2014complemented by a soft grid and circular accents. The left half contains text elements, including a large bold heading (\"heading\"), an elegant subheading (\"subheading\"), and a brief introduction (\"description\") that promotes the artistic craftsmanship. Below that, the \"features\" section lists key selling points in bullet-style. On the right side, a detailed product image (\"product_image\") is presented above a bold price (\"price\") and a soft-toned rectangular call-to-action button (\"cta_button\") with the text (\"cta\"). The design emphasizes a handcrafted, artistic, and earthy aesthetic.\n\n**Color Palette:**\n- Soft Beige: `#F5F0E5`\n- Sandstone: `#E5D9C8`\n- Terracotta: `#C3957A`\n- Mocha Brown: `#8A5A44`\n- Dark Chocolate: `#6D4C3D`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image features an earthy, warm-toned sneaker that blends shades of beige, tan, caramel, and burnt orange to create a handcrafted and organic aesthetic. The dominant base is a smooth beige (#F5D7B2) enriched with caramel brown (#D97A39) accents, particularly on the laces and heel detailing. A light cream (#EFE1C8) outlines the intricate patterns, while deeper burnt orange (#A34E1F) highlights the textured portions, enhancing depth and contrast. The sole includes a muted mocha brown (#9C6B46), grounding the palette. These warm hues create a cozy, artisanal vibe perfect for banners targeting a rustic, authentic, and visually tactile appeal.  \n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F6EFE4'/><rect x='0' y='580' width='1080' height='500' fill='#BA8D75' opacity='0.8'/><path d='M0 580 L1080 580 L1080 600 L0 600 Z' fill='#D8A98B'/><circle cx='900' cy='200' r='120' fill='#D8A98B' opacity='0.4'/><circle cx='180' cy='800' r='100' fill='#F6EFE4' opacity='0.2'/><g opacity='0.1'><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#7D5A50' stroke-width='2'/><line x1='0' y1='40' x2='1080' y2='40' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='80' x2='1080' y2='80' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='160' x2='1080' y2='160' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='280' x2='1080' y2='280' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='320' x2='1080' y2='320' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='360' x2='1080' y2='360' stroke='#7D5A50' stroke-width='1'/><line x1='40' y1='0' x2='40' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='80' y1='0' x2='80' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='120' y1='0' x2='120' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='160' y1='0' x2='160' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='200' y1='0' x2='200' y2='1080' stroke='#7D5A50' stroke-width='1'/></g><g opacity='0.2'><path d='M900 150 A80 80 0 0 1 980 230' stroke='#D4AF93' stroke-width='3'/><path d='M900 950 A80 80 0 0 0 980 870' stroke='#D4AF93' stroke-width='3'/><path d='M180 150 A80 80 0 0 0 100 230' stroke='#D4AF93' stroke-width='3'/><path d='M180 950 A80 80 0 0 1 100 870' stroke='#D4AF93' stroke-width='3'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 369.44, "height": 135.6, "fill": "#7D5A50", "text": "ALDO", "fontSize": 120, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 60, "width": 336.08, "height": 90.4, "fill": "#7D5A50", "text": "LEGOIRII", "fontSize": 80, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 300, "left": 60, "width": 315.01, "height": 174.02, "fill": "#A47C69", "text": "\u2022 Spacious Stylish Design\n\u2022 Ample Storage Space\n\u2022 Durable Synthetic Material\n\u2022 Gold Hardware Accents", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 60, "width": 314.19, "height": 90.4, "fill": "#F6EFE4", "text": "$65.00", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 60, "width": 220, "height": 65, "fill": "#7D5A50", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 967, "left": 100, "width": 135.47, "height": 29.38, "fill": "#F6EFE4", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 120, "left": 700, "width": 370.73, "height": 57.63, "fill": "#D49773", "text": "LUXURY TOTE", "fontSize": 51, "fontFamily": "Spectral Light", "textAlign": "right", "id": "tagline"}, {"type": "image", "top": 312.2, "left": 507.2, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "z_pattern"}, "banner_details": "\nThis elegantly styled banner features a luxury handbag promotional layout with a clean and minimal design. It is split horizontally with a light cream upper background and a warm muted brown lower section. Rounded graphic elements and faint grid lines add subtle sophistication. The main visual focus is the central handbag image (\"product_image\"), highlighted with soft shadows to enhance its premium look.\n\nKey text elements include a bold brand name (\"heading\") and subheading (\"subheading\") at the top-left, followed by a feature description list (\"description\"). A soft serif tagline in the upper-right (\"tagline\") emphasizes luxury. At the bottom-left, the price (\"price\") is boldly displayed above a rounded rectangular call-to-action (\"cta_background\" and \"cta\").\n\n**Color Palette:**\n- Cream White: `#F6EFE4` (background)\n- Cocoa Brown: `#7D5A50` (text and button)\n- Warm Beige: `#BA8D75` (divider section)\n- Bronze/Peach Tint: `#D8A98B`, `#A47C69`, `#D49773` (decorative and accent text)\n", "product_color": "  \nThe product image features a sophisticated handbag in a warm, muted camel brown color (#B88A6D), which dominates the visual space, offering elegance and neutrality. The surface has a subtle textured pattern that gives depth and refinement. Accents in polished metallic gold (#D4AF37) highlight the hardware, charms, and brand logo, adding a luxurious and eye-catching contrast. The warm tones are seamlessly blended, with the gold elements standing out while complementing the main color. For an advertisement banner, a color palette including camel brown (#B88A6D), metallic gold (#D4AF37), soft beige (#F5EBDD), and ivory white (#FFFFFF) would maintain elegance and sophistication.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F6EFE4'/><rect x='0' y='580' width='1080' height='500' fill='#BA8D75' opacity='0.8'/><path d='M0 580 L1080 580 L1080 600 L0 600 Z' fill='#D8A98B'/><circle cx='900' cy='200' r='120' fill='#D8A98B' opacity='0.4'/><circle cx='180' cy='800' r='100' fill='#F6EFE4' opacity='0.2'/><g opacity='0.1'><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#7D5A50' stroke-width='2'/><line x1='0' y1='40' x2='1080' y2='40' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='80' x2='1080' y2='80' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='160' x2='1080' y2='160' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='280' x2='1080' y2='280' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='320' x2='1080' y2='320' stroke='#7D5A50' stroke-width='1'/><line x1='0' y1='360' x2='1080' y2='360' stroke='#7D5A50' stroke-width='1'/><line x1='40' y1='0' x2='40' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='80' y1='0' x2='80' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='120' y1='0' x2='120' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='160' y1='0' x2='160' y2='1080' stroke='#7D5A50' stroke-width='1'/><line x1='200' y1='0' x2='200' y2='1080' stroke='#7D5A50' stroke-width='1'/></g><g opacity='0.2'><path d='M900 150 A80 80 0 0 1 980 230' stroke='#D4AF93' stroke-width='3'/><path d='M900 950 A80 80 0 0 0 980 870' stroke='#D4AF93' stroke-width='3'/><path d='M180 150 A80 80 0 0 0 100 230' stroke='#D4AF93' stroke-width='3'/><path d='M180 950 A80 80 0 0 1 100 870' stroke='#D4AF93' stroke-width='3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 369.44,
+                "height": 135.6,
+                "fill": "#7D5A50",
+                "text": "ALDO",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 336.08,
+                "height": 90.4,
+                "fill": "#7D5A50",
+                "text": "LEGOIRII",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 60,
+                "width": 315.01,
+                "height": 174.02,
+                "fill": "#A47C69",
+                "text": "\u2022 Spacious Stylish Design\n\u2022 Ample Storage Space\n\u2022 Durable Synthetic Material\n\u2022 Gold Hardware Accents",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 60,
+                "width": 314.19,
+                "height": 90.4,
+                "fill": "#F6EFE4",
+                "text": "$65.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 60,
+                "width": 220,
+                "height": 65,
+                "fill": "#7D5A50",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 967,
+                "left": 100,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#F6EFE4",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 700,
+                "width": 370.73,
+                "height": 57.63,
+                "fill": "#D49773",
+                "text": "LUXURY TOTE",
+                "fontFamily": "Spectral Light",
+                "textAlign": "right",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 312.2,
+                "left": 507.2,
+                "width": 485.6,
+                "height": 575.6,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis elegantly styled banner features a luxury handbag promotional layout with a clean and minimal design. It is split horizontally with a light cream upper background and a warm muted brown lower section. Rounded graphic elements and faint grid lines add subtle sophistication. The main visual focus is the central handbag image (\"product_image\"), highlighted with soft shadows to enhance its premium look.\n\nKey text elements include a bold brand name (\"heading\") and subheading (\"subheading\") at the top-left, followed by a feature description list (\"description\"). A soft serif tagline in the upper-right (\"tagline\") emphasizes luxury. At the bottom-left, the price (\"price\") is boldly displayed above a rounded rectangular call-to-action (\"cta_background\" and \"cta\").\n\n**Color Palette:**\n- Cream White: `#F6EFE4` (background)\n- Cocoa Brown: `#7D5A50` (text and button)\n- Warm Beige: `#BA8D75` (divider section)\n- Bronze/Peach Tint: `#D8A98B`, `#A47C69`, `#D49773` (decorative and accent text)\n",
+    "product_color": "  \nThe product image features a sophisticated handbag in a warm, muted camel brown color (#B88A6D), which dominates the visual space, offering elegance and neutrality. The surface has a subtle textured pattern that gives depth and refinement. Accents in polished metallic gold (#D4AF37) highlight the hardware, charms, and brand logo, adding a luxurious and eye-catching contrast. The warm tones are seamlessly blended, with the gold elements standing out while complementing the main color. For an advertisement banner, a color palette including camel brown (#B88A6D), metallic gold (#D4AF37), soft beige (#F5EBDD), and ivory white (#FFFFFF) would maintain elegance and sophistication.  \n"
+}

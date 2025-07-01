@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#ffffff'/><rect x='0' y='0' width='540' height='540' fill='#0D4F8B'/><rect x='540' y='0' width='540' height='540' fill='#136DAD'/><rect x='0' y='540' width='540' height='540' fill='#1389C1'/><rect x='540' y='540' width='540' height='540' fill='#20A4E0'/><g opacity='0.2'><path d='M50 50 L150 150 L250 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 250 L150 350 L250 250' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 450 L150 550 L250 450' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M850 50 L950 150 L1050 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 650 L150 750 L250 650' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 850 L150 950 L250 850' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M850 850 L950 950 L1050 850' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><circle cx='900' cy='200' r='50' fill='#FFFFFF' opacity='0.1'/><circle cx='800' cy='300' r='30' fill='#FFFFFF' opacity='0.1'/><circle cx='980' cy='120' r='20' fill='#FFFFFF' opacity='0.1'/><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2' opacity='0.5'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='2' opacity='0.5'/><g opacity='0.2'><path d='M840 650 L900 720 L960 650' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M800 700 L860 770 L920 700' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M860 600 L920 670 L980 600' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><g opacity='0.4'><rect x='50' y='280' width='40' height='3' fill='#FFFFFF'/><rect x='50' y='290' width='30' height='3' fill='#FFFFFF'/><rect x='50' y='300' width='50' height='3' fill='#FFFFFF'/><rect x='820' y='200' width='40' height='3' fill='#FFFFFF'/><rect x='820' y='210' width='30' height='3' fill='#FFFFFF'/><rect x='820' y='220' width='50' height='3' fill='#FFFFFF'/><rect x='90' y='780' width='40' height='3' fill='#FFFFFF'/><rect x='90' y='790' width='30' height='3' fill='#FFFFFF'/><rect x='90' y='800' width='50' height='3' fill='#FFFFFF'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 45, "width": 357.21, "height": 79.1, "fill": "#ffffff", "text": "EARLY BIRD", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 140, "left": 45, "width": 161.77, "height": 79.1, "fill": "#FFD700", "text": "DEAL", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 240, "left": 45, "width": 462.46, "height": 22.6, "fill": "#E8E8E8", "text": "INDUSTRIAL COOLING SOLUTION", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 585, "left": 45, "width": 446.6, "height": 176.28, "fill": "#FFFFFF", "text": "\u2022 Large Industrial-Grade Cooling Fan\n\u2022 Durable Weather-Resistant Design\n\u2022 Heavy-Duty Steel Stand Included\n\u2022 High-Capacity Ventilation System", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 45, "width": 282, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9 6999", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 45, "width": 252.99999999999997, "height": 65, "fill": "#FFD700", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 934, "left": 85, "width": 166.91, "height": 36.16, "fill": "#0D4F8B", "text": "GRAB NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 310, "left": 45, "width": 307.69, "height": 24.86, "fill": "#FFFFFF", "text": "Commercial Air Conditioning Unit", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "product_name"}, {"type": "image", "top": 267, "left": 585, "width": 1007, "height": 935, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/A8V_Iu6zCvL8QD_Th7bi-_1007x935.png", "id": "product_image"}, {"type": "text", "top": 370, "left": 45, "width": 513.08, "height": 27.12, "fill": "#FFD700", "text": "UNLOCK EXCLUSIVE SAVINGS", "fontSize": 24, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Professional-Grade Commercial Air Conditioning Unit with Heavy-Duty Stand | Industrial Cooling Solution", "description": "\u2022 Large industrial-grade cooling fan with protective grill\n\u2022 Durable white powder-coated metal housing for weather resistance\n\u2022 Heavy-duty steel stand for elevated installation and stability\n\u2022 High-capacity ventilation system with premium fan motor\n\u2022 Professional mounting bracket system for secure installation\n\u2022 Industrial-strength construction ideal for commercial applications\n\u2022 Space-efficient design with compact footprint\n\u2022 External condensing unit configuration for optimal performance\n\u2022 Rust-resistant framework for long-term durability\n\u2022 Easy-access design for maintenance and servicing\n\u2022 Suitable for outdoor installation with weatherproof components\n\u2022 Compatible with standard commercial HVAC systems", "price": "\u20b96999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/A8V_Iu6zCvL8QD_Th7bi-_1007x935.png", "marketplace_url": "https://images.pexels.com/photos/3964341/pexels-photo-3964341.jpeg", "layout": "grid_four"}, "banner_details": "\nThis vibrant promotional banner visually promotes an industrial air cooling unit using a clean and modern layout divided into a four-color quadrant background. The top left quadrant features a bold heading with two text layers: `heading_1` in white and `heading_2` in bright yellow, creating a striking contrast over the dark blue (`#0D4F8B`) background. Below this, `subheading`, `product_name`, and `tagline` provide structured, concise product information using smaller font sizes and a high-tech font style. The tagline (`tagline`) appears in yellow, enhancing visual hierarchy.\n\nThe top right quadrant showcases the product image (`product_image`) prominently. On the bottom left, a bulleted feature list (`description`) outlines the key specs of the unit in white text. Below it, a large white price (`price`) stands out, while a yellow rectangular button (`cta_background`) with rounded corners includes the call-to-action text (`cta`) in blue. \n\nSubtle abstract white geometric line accents and semi-transparent circles add a contemporary tech feel throughout the banner. The layout balances visual weight with practical space for communication.\n\n**Color Palette:**\n- Dark Blue: #0D4F8B  \n- Medium Blue: #136DAD  \n- Bright Blue: #1389C1  \n- Sky Blue: #20A4E0  \n- White: #FFFFFF  \n- Yellow: #FFD700  \n- Light Grey: #E8E8E8\n", "product_color": "\nThe product image showcases an industrial cooling unit with a rugged and utilitarian color scheme, ideal for creating a bold and technical advertisement banner. The primary colors include metallic gray (#BFC0C0) from the unit casing, deep black (#1C1C1C) from the fan blades and shadows, and rust brown (#8B5E3C) highlighting wear and tear for authenticity. Subtle steel blue-gray tones (#778899) on the grille and aged white (#EDEDED) around the frame balance the composition. These colors are blended through gradients of metal reflection and age, yet distinctly highlighted by contrast and material texture, emphasizing durability and industrial reliability in the ad.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#ffffff'/><rect x='0' y='0' width='540' height='540' fill='#0D4F8B'/><rect x='540' y='0' width='540' height='540' fill='#136DAD'/><rect x='0' y='540' width='540' height='540' fill='#1389C1'/><rect x='540' y='540' width='540' height='540' fill='#20A4E0'/><g opacity='0.2'><path d='M50 50 L150 150 L250 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 250 L150 350 L250 250' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 450 L150 550 L250 450' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M850 50 L950 150 L1050 50' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 650 L150 750 L250 650' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M50 850 L150 950 L250 850' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M850 850 L950 950 L1050 850' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><circle cx='900' cy='200' r='50' fill='#FFFFFF' opacity='0.1'/><circle cx='800' cy='300' r='30' fill='#FFFFFF' opacity='0.1'/><circle cx='980' cy='120' r='20' fill='#FFFFFF' opacity='0.1'/><path d='M0 540 L1080 540' stroke='#FFFFFF' stroke-width='2' opacity='0.5'/><path d='M540 0 L540 1080' stroke='#FFFFFF' stroke-width='2' opacity='0.5'/><g opacity='0.2'><path d='M840 650 L900 720 L960 650' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M800 700 L860 770 L920 700' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M860 600 L920 670 L980 600' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><g opacity='0.4'><rect x='50' y='280' width='40' height='3' fill='#FFFFFF'/><rect x='50' y='290' width='30' height='3' fill='#FFFFFF'/><rect x='50' y='300' width='50' height='3' fill='#FFFFFF'/><rect x='820' y='200' width='40' height='3' fill='#FFFFFF'/><rect x='820' y='210' width='30' height='3' fill='#FFFFFF'/><rect x='820' y='220' width='50' height='3' fill='#FFFFFF'/><rect x='90' y='780' width='40' height='3' fill='#FFFFFF'/><rect x='90' y='790' width='30' height='3' fill='#FFFFFF'/><rect x='90' y='800' width='50' height='3' fill='#FFFFFF'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 45,
+                "width": 357.21,
+                "height": 79.1,
+                "fill": "#ffffff",
+                "text": "EARLY BIRD",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 45,
+                "width": 161.77,
+                "height": 79.1,
+                "fill": "#FFD700",
+                "text": "DEAL",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 45,
+                "width": 462.46,
+                "height": 22.6,
+                "fill": "#E8E8E8",
+                "text": "INDUSTRIAL COOLING SOLUTION",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 585,
+                "left": 45,
+                "width": 446.6,
+                "height": 176.28,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Large Industrial-Grade Cooling Fan\n\u2022 Durable Weather-Resistant Design\n\u2022 Heavy-Duty Steel Stand Included\n\u2022 High-Capacity Ventilation System",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 45,
+                "width": 282,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 6999",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 45,
+                "width": 252.99999999999997,
+                "height": 65,
+                "fill": "#FFD700",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 934,
+                "left": 85,
+                "width": 166.91,
+                "height": 36.16,
+                "fill": "#0D4F8B",
+                "text": "GRAB NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 45,
+                "width": 307.69,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "Commercial Air Conditioning Unit",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            },
+            {
+                "type": "image",
+                "top": 267,
+                "left": 585,
+                "width": 483.35999999999996,
+                "height": 448.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/A8V_Iu6zCvL8QD_Th7bi-_1007x935.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 370,
+                "left": 45,
+                "width": 513.08,
+                "height": 27.12,
+                "fill": "#FFD700",
+                "text": "UNLOCK EXCLUSIVE SAVINGS",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Professional-Grade Commercial Air Conditioning Unit with Heavy-Duty Stand | Industrial Cooling Solution",
+            "description": "\u2022 Large industrial-grade cooling fan with protective grill\n\u2022 Durable white powder-coated metal housing for weather resistance\n\u2022 Heavy-duty steel stand for elevated installation and stability\n\u2022 High-capacity ventilation system with premium fan motor\n\u2022 Professional mounting bracket system for secure installation\n\u2022 Industrial-strength construction ideal for commercial applications\n\u2022 Space-efficient design with compact footprint\n\u2022 External condensing unit configuration for optimal performance\n\u2022 Rust-resistant framework for long-term durability\n\u2022 Easy-access design for maintenance and servicing\n\u2022 Suitable for outdoor installation with weatherproof components\n\u2022 Compatible with standard commercial HVAC systems",
+            "price": "\u20b96999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682c230892ae04ced9dbc54a/A8V_Iu6zCvL8QD_Th7bi-_1007x935.png",
+        "marketplace_url": "https://images.pexels.com/photos/3964341/pexels-photo-3964341.jpeg",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis vibrant promotional banner visually promotes an industrial air cooling unit using a clean and modern layout divided into a four-color quadrant background. The top left quadrant features a bold heading with two text layers: `heading_1` in white and `heading_2` in bright yellow, creating a striking contrast over the dark blue (`#0D4F8B`) background. Below this, `subheading`, `product_name`, and `tagline` provide structured, concise product information using smaller font sizes and a high-tech font style. The tagline (`tagline`) appears in yellow, enhancing visual hierarchy.\n\nThe top right quadrant showcases the product image (`product_image`) prominently. On the bottom left, a bulleted feature list (`description`) outlines the key specs of the unit in white text. Below it, a large white price (`price`) stands out, while a yellow rectangular button (`cta_background`) with rounded corners includes the call-to-action text (`cta`) in blue. \n\nSubtle abstract white geometric line accents and semi-transparent circles add a contemporary tech feel throughout the banner. The layout balances visual weight with practical space for communication.\n\n**Color Palette:**\n- Dark Blue: #0D4F8B  \n- Medium Blue: #136DAD  \n- Bright Blue: #1389C1  \n- Sky Blue: #20A4E0  \n- White: #FFFFFF  \n- Yellow: #FFD700  \n- Light Grey: #E8E8E8\n",
+    "product_color": "\nThe product image showcases an industrial cooling unit with a rugged and utilitarian color scheme, ideal for creating a bold and technical advertisement banner. The primary colors include metallic gray (#BFC0C0) from the unit casing, deep black (#1C1C1C) from the fan blades and shadows, and rust brown (#8B5E3C) highlighting wear and tear for authenticity. Subtle steel blue-gray tones (#778899) on the grille and aged white (#EDEDED) around the frame balance the composition. These colors are blended through gradients of metal reflection and age, yet distinctly highlighted by contrast and material texture, emphasizing durability and industrial reliability in the ad.\n"
+}

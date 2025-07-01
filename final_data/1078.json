@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F2EA'/><rect x='0' y='0' width='540' height='540' fill='#E8E2D4'/><rect x='540' y='0' width='540' height='540' fill='#D8CFBD'/><rect x='0' y='540' width='540' height='540' fill='#BEA88D'/><rect x='540' y='540' width='540' height='540' fill='#A48C6E'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#78624E' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#78624E' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#78624E' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#78624E' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#78624E' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#78624E' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#78624E' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#78624E' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#78624E' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#78624E' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#78624E' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#78624E' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#78624E' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#78624E' stroke-width='2'/></g><path d='M540 0 L540 1080' stroke='#78624E' stroke-width='1'/><path d='M0 540 L1080 540' stroke='#78624E' stroke-width='1'/><g opacity='0.2'><circle cx='120' cy='120' r='30' fill='#78624E'/><circle cx='960' cy='120' r='30' fill='#78624E'/><circle cx='120' cy='960' r='30' fill='#F5F2EA'/><circle cx='960' cy='960' r='30' fill='#F5F2EA'/></g><path d='M100 100 L440 100 L270 200 L100 100' fill='#78624E' opacity='0.1'/><path d='M640 100 L980 100 L810 200 L640 100' fill='#78624E' opacity='0.1'/><path d='M100 980 L440 980 L270 880 L100 980' fill='#F5F2EA' opacity='0.2'/><path d='M640 980 L980 980 L810 880 L640 980' fill='#F5F2EA' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 441.72, "height": 67.8, "fill": "#5D4A3C", "text": "COMET CLASSIC", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 150, "left": 50, "width": 532.02, "height": 67.8, "fill": "#5D4A3C", "text": "CANVAS SNEAKERS", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 240, "left": 50, "width": 455.35, "height": 18.08, "fill": "#78624E", "text": "URBAN COMFORT MEETS RETRO STYLE", "fontSize": 16, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 433.1, "height": 126.56, "fill": "#F5F2EA", "text": "\u2022 Premium canvas upper construction\n\u2022 Iconic star logo design\n\u2022 Cushioned insole for comfort\n\u2022 Classic retro style", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "image", "top": 130, "left": 580, "width": 527, "height": 263, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/n9REPgGueaqKlwNEZQhtK_527x263.png", "id": "product_image"}, {"type": "text", "top": 650, "left": 580, "width": 350.1, "height": 113, "fill": "#F5F2EA", "text": "\u20b9 3000", "fontSize": 100, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 580, "width": 242, "height": 70, "fill": "#F5F2EA", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 820, "left": 624, "width": 153.79, "height": 33.9, "fill": "#5D4A3C", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Comet Classic Canvas Sneakers - Urban Comfort Meets Retro Style", "description": "\u2022 Premium canvas upper construction for durability and breathability\n\u2022 Iconic star logo design on sides for distinctive branding\n\u2022 Brown gum rubber outsole providing excellent grip and traction\n\u2022 Cream/off-white colorway perfect for versatile styling\n\u2022 Cushioned insole for all-day comfort\n\u2022 Brown leather accents and laces adding premium detailing\n\u2022 Low-top silhouette ideal for casual everyday wear\n\u2022 Reinforced stitching for enhanced durability\n\u2022 Classic court-inspired design with modern comfort features\n\u2022 Lightweight construction for easy movement", "price": "\u20b93000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/n9REPgGueaqKlwNEZQhtK_527x263.png", "marketplace_url": "blob:https://studio.phot.ai/bbaf9404-acaf-4df3-a960-2cd9db151930", "layout": "grid_four"}, "banner_details": "\nThis banner features a modern, minimalist promotional layout for a sneaker product with a retro appeal. It is divided into four quadrants with a soft grid overlay, maintaining a clean visual structure. The top-left quadrant contains bold, uppercase text layers (`heading_1` and `heading_2`) forming the product name, followed by a smaller tagline (`tagline`) emphasizing style and comfort. The top-right quadrant highlights a shoe image (`product_image`) placed prominently for focus. The bottom half splits into feature highlights on the left (`description`) and bold pricing information (`price`) with a clear call-to-action button (`cta_button` and `cta`) on the right.\n\n**Color Palette:**\n- Cream: `#F5F2EA`\n- Soft Beige: `#E8E2D4`\n- Warm Taupe: `#D8CFBD`\n- Brownstone: `#BEA88D`\n- Cocoa Brown: `#A48C6E`\n- Mocha: `#5D4A3C`\n- Warm Grey: `#78624E`\n", "product_color": "  \nThe product image features a sneaker dominated by earthy, neutral tones, creating a versatile and timeless look. The primary color is a soft cream/beige (#F5F0E6), which covers most of the upper canvas, providing a clean and warm base. Brown accents (#6B4C3B) on the laces and outsole add contrast and depth, while the sole midsection in a light taupe/beige (#E1D6C6) blends smoothly with the upper. The white star emblem (#FFFFFF), outlined in brown, draws attention and adds visual interest. The subtle blending of neutral hues with strategic contrast highlights each element. Ideal banner palette includes: #F5F0E6, #6B4C3B, #FFFFFF, #E1D6C6, #B27E5E.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#F5F2EA'/><rect x='0' y='0' width='540' height='540' fill='#E8E2D4'/><rect x='540' y='0' width='540' height='540' fill='#D8CFBD'/><rect x='0' y='540' width='540' height='540' fill='#BEA88D'/><rect x='540' y='540' width='540' height='540' fill='#A48C6E'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#78624E' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#78624E' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#78624E' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#78624E' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#78624E' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#78624E' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#78624E' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#78624E' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#78624E' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#78624E' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#78624E' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#78624E' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#78624E' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#78624E' stroke-width='2'/></g><path d='M540 0 L540 1080' stroke='#78624E' stroke-width='1'/><path d='M0 540 L1080 540' stroke='#78624E' stroke-width='1'/><g opacity='0.2'><circle cx='120' cy='120' r='30' fill='#78624E'/><circle cx='960' cy='120' r='30' fill='#78624E'/><circle cx='120' cy='960' r='30' fill='#F5F2EA'/><circle cx='960' cy='960' r='30' fill='#F5F2EA'/></g><path d='M100 100 L440 100 L270 200 L100 100' fill='#78624E' opacity='0.1'/><path d='M640 100 L980 100 L810 200 L640 100' fill='#78624E' opacity='0.1'/><path d='M100 980 L440 980 L270 880 L100 980' fill='#F5F2EA' opacity='0.2'/><path d='M640 980 L980 980 L810 880 L640 980' fill='#F5F2EA' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 441.72,
+                "height": 67.8,
+                "fill": "#5D4A3C",
+                "text": "COMET CLASSIC",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 50,
+                "width": 532.02,
+                "height": 67.8,
+                "fill": "#5D4A3C",
+                "text": "CANVAS SNEAKERS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 50,
+                "width": 455.35,
+                "height": 18.08,
+                "fill": "#78624E",
+                "text": "URBAN COMFORT MEETS RETRO STYLE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 433.1,
+                "height": 126.56,
+                "fill": "#F5F2EA",
+                "text": "\u2022 Premium canvas upper construction\n\u2022 Iconic star logo design\n\u2022 Cushioned insole for comfort\n\u2022 Classic retro style",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 130,
+                "left": 580,
+                "width": 474.3,
+                "height": 236.70000000000002,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/n9REPgGueaqKlwNEZQhtK_527x263.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 580,
+                "width": 350.1,
+                "height": 113,
+                "fill": "#F5F2EA",
+                "text": "\u20b9 3000",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 580,
+                "width": 242,
+                "height": 70,
+                "fill": "#F5F2EA",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 624,
+                "width": 153.79,
+                "height": 33.9,
+                "fill": "#5D4A3C",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Comet Classic Canvas Sneakers - Urban Comfort Meets Retro Style",
+            "description": "\u2022 Premium canvas upper construction for durability and breathability\n\u2022 Iconic star logo design on sides for distinctive branding\n\u2022 Brown gum rubber outsole providing excellent grip and traction\n\u2022 Cream/off-white colorway perfect for versatile styling\n\u2022 Cushioned insole for all-day comfort\n\u2022 Brown leather accents and laces adding premium detailing\n\u2022 Low-top silhouette ideal for casual everyday wear\n\u2022 Reinforced stitching for enhanced durability\n\u2022 Classic court-inspired design with modern comfort features\n\u2022 Lightweight construction for easy movement",
+            "price": "\u20b93000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/n9REPgGueaqKlwNEZQhtK_527x263.png",
+        "marketplace_url": "blob:https://studio.phot.ai/bbaf9404-acaf-4df3-a960-2cd9db151930",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis banner features a modern, minimalist promotional layout for a sneaker product with a retro appeal. It is divided into four quadrants with a soft grid overlay, maintaining a clean visual structure. The top-left quadrant contains bold, uppercase text layers (`heading_1` and `heading_2`) forming the product name, followed by a smaller tagline (`tagline`) emphasizing style and comfort. The top-right quadrant highlights a shoe image (`product_image`) placed prominently for focus. The bottom half splits into feature highlights on the left (`description`) and bold pricing information (`price`) with a clear call-to-action button (`cta_button` and `cta`) on the right.\n\n**Color Palette:**\n- Cream: `#F5F2EA`\n- Soft Beige: `#E8E2D4`\n- Warm Taupe: `#D8CFBD`\n- Brownstone: `#BEA88D`\n- Cocoa Brown: `#A48C6E`\n- Mocha: `#5D4A3C`\n- Warm Grey: `#78624E`\n",
+    "product_color": "  \nThe product image features a sneaker dominated by earthy, neutral tones, creating a versatile and timeless look. The primary color is a soft cream/beige (#F5F0E6), which covers most of the upper canvas, providing a clean and warm base. Brown accents (#6B4C3B) on the laces and outsole add contrast and depth, while the sole midsection in a light taupe/beige (#E1D6C6) blends smoothly with the upper. The white star emblem (#FFFFFF), outlined in brown, draws attention and adds visual interest. The subtle blending of neutral hues with strategic contrast highlights each element. Ideal banner palette includes: #F5F0E6, #6B4C3B, #FFFFFF, #E1D6C6, #B27E5E.  \n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2a2a2a'/><stop offset='100%' stop-color='#464646'/></linearGradient><linearGradient id='glowGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF8C00' stop-opacity='0.7'/><stop offset='100%' stop-color='#FFA500' stop-opacity='0.3'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.15'><rect x='0' y='0' width='1080' height='1080' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='0' y1='0' x2='1080' y2='1080' stroke='#FFA500' stroke-width='1'/><line x1='1080' y1='0' x2='0' y2='1080' stroke='#FFA500' stroke-width='1'/><rect x='90' y='90' width='900' height='900' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='90' y1='90' x2='990' y2='990' stroke='#FFA500' stroke-width='1'/><line x1='990' y1='90' x2='90' y2='990' stroke='#FFA500' stroke-width='1'/><rect x='180' y='180' width='720' height='720' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='180' y1='180' x2='900' y2='900' stroke='#FFA500' stroke-width='1'/><line x1='900' y1='180' x2='180' y2='900' stroke='#FFA500' stroke-width='1'/><rect x='270' y='270' width='540' height='540' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='270' y1='270' x2='810' y2='810' stroke='#FFA500' stroke-width='1'/><line x1='810' y1='270' x2='270' y2='810' stroke='#FFA500' stroke-width='1'/></g><circle cx='540' cy='540' r='400' fill='url(#glowGradient)' filter='blur(120px)'/><g transform='translate(540,540)'><circle r='200' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.2'/><circle r='250' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.15'/><circle r='300' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.1'/><circle r='350' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.05'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 83.64999999999998, "width": 912.7, "height": 113, "fill": "#FFFFFF", "text": "NUWAVE BRAVO XL PRO", "fontSize": 100, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 41.06, "width": 997.88, "height": 45.2, "fill": "#FFA500", "text": "Air Fryer Toaster Oven with Grill Combo", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 296.51, "left": 266.59, "width": 1439, "height": 1071, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa4cc71959d5e74e9836fe/w9SfGzYHQeaPyzXntVTj6_1439x1071.png", "id": "product_image"}, {"type": "text", "top": 760, "left": 143.89999999999998, "width": 792.2, "height": 33.9, "fill": "#FFFFFF", "text": "Ultra-Fast Convection \u2022 35% Crispier \u2022 142 Presets \u2022 50-500F", "fontSize": 30, "fontFamily": "Barlow Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 825, "left": 374.6, "width": 330.8, "height": 90.4, "fill": "#FFA500", "text": "$246.74", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#FFA500", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 957, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#1E1D25", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nuwave Bravo XL Pro Air Fryer Toaster Oven with Grill Combo, 2025 New Ultra-Fast Convection System, 35% Crispier, 2X More Even, 142 Presets, 50-500F, Smarter Probe, PFAS Free, 30QT, Stainless Steel", "description": "- Brand: Nuwave.\n- Color: Brushed Stainless Steel.\n- Product Dimensions: 17\"D x 20.1\"W x 11.1\"H.\n- Special Feature: 50-500, 0-100 Hours, 3 Selectable Fan Speed; Upper and Lower Heaters Adjustable From 0-100%; Carrying-over Cooking Function; Auto Preheat, Auto Shut Off; Delay and Clock Function; Mute/Unmute, Panel Lock; 5 Heavy-Duty Accessories, PFAS Free, Dishwasher-Safe; 60+ Chef-Made Recipes., 2025 Improved Ultra-fast Convection System; Linear T Air Frying Tech; True Char-Grilled Flavor; 3X Faster, 2X More Even; 35% Crispier Results, 95% Less Oil; 12 Cooking Functions, 100 Easy-Cook Presets, 30 Memory Slots; 10 Toast Settings, 5-Stage Cooking, 3 Sear Modes; 30QT XL Large Capacity, 4 Adjustable Rack;.\n- Door Style: Dropdown Door.\n- Model Name: Bravo XL Pro with Grill.\n- Door Material Type: Tempered Glass.\n- Power Source: Electric.\n- Temperature Range: 50-500 Degrees Fahrenheit.\n- Number of Shelves: 1.\n- Size: 30QT.\n- Control Type: Knob and Push Button.\n- Manufacture Year: 2024.\n- Item Weight: 24.5 pounds.\n- Country of Origin: China.", "price": "$246.74"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa4cc71959d5e74e9836fe/w9SfGzYHQeaPyzXntVTj6_1439x1071.png", "marketplace_url": "https://www.amazon.com/Nuwave-Ultra-Fast-Convection-Crispier-Stainless/dp/B0D7D3CZ1S/?_encoding=UTF8&pd_rd_w=1VoJJ&content-id=amzn1.sym.4bba068a-9322-4692-abd5-0bbe652907a9&pf_rd_p=4bba068a-9322-4692-abd5-0bbe652907a9&pf_rd_r=VQ4Q25WJ2E2F9N9TM2FT&pd_rd_wg=3Wmt3&pd_rd_r=77fca6e9-7765-4f9f-bfe3-1637b7934abe&ref_=pd_hp_d_btf_nta-top-picks&th=1", "layout": "circular_focus"}, "banner_details": "\nThe banner is a vibrant and modern promotional design centered around a kitchen appliance. It features a dark, gradient geometric background with subtle orange grid lines and concentric circles adding visual depth. A prominent circular orange glow frames the centerpiece image of the product (`product_image`), enhancing focus and appeal. At the top, the bold white headline (`heading`) grabs attention, followed by a sleek orange subheading (`subheading`) that communicates secondary information. Below the product image, a white text layer (`description`) outlines key features, while a large orange price highlight (`price`) drives interest. A rectangular orange call-to-action button (`cta_background`) with contrasting black text (`cta`) invites interaction. \n\n**Color Palette:**\n- Charcoal (#2A2A2A)\n- Dark Gray (#464646)\n- Bright Orange (#FFA500)\n- Deep Orange (#FF8C00)\n- White (#FFFFFF)\n- Black (#1E1D25)\n", "product_color": "\nThe product image showcases a sleek and modern stainless steel oven with vibrant, fiery visuals highlighting its cooking performance. The dominant color is a brushed metallic silver (#C0C0C0), which conveys durability and modernity. Intense bursts of golden yellow (#FFD700) and orange (#FF8C00) emanate from the food chamber, symbolizing heat, flavor, and energy. These warm tones contrast boldly against the cool blue highlights (#00BFFF) and deep black (#000000) of the control panel, ensuring a dynamic and eye-catching composition. The warm-cool contrast emphasizes functionality and power, making this palette perfect for an energetic and premium advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2a2a2a'/><stop offset='100%' stop-color='#464646'/></linearGradient><linearGradient id='glowGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF8C00' stop-opacity='0.7'/><stop offset='100%' stop-color='#FFA500' stop-opacity='0.3'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.15'><rect x='0' y='0' width='1080' height='1080' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='0' y1='0' x2='1080' y2='1080' stroke='#FFA500' stroke-width='1'/><line x1='1080' y1='0' x2='0' y2='1080' stroke='#FFA500' stroke-width='1'/><rect x='90' y='90' width='900' height='900' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='90' y1='90' x2='990' y2='990' stroke='#FFA500' stroke-width='1'/><line x1='990' y1='90' x2='90' y2='990' stroke='#FFA500' stroke-width='1'/><rect x='180' y='180' width='720' height='720' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='180' y1='180' x2='900' y2='900' stroke='#FFA500' stroke-width='1'/><line x1='900' y1='180' x2='180' y2='900' stroke='#FFA500' stroke-width='1'/><rect x='270' y='270' width='540' height='540' fill='none' stroke='#FFA500' stroke-width='1'/><line x1='270' y1='270' x2='810' y2='810' stroke='#FFA500' stroke-width='1'/><line x1='810' y1='270' x2='270' y2='810' stroke='#FFA500' stroke-width='1'/></g><circle cx='540' cy='540' r='400' fill='url(#glowGradient)' filter='blur(120px)'/><g transform='translate(540,540)'><circle r='200' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.2'/><circle r='250' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.15'/><circle r='300' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.1'/><circle r='350' fill='none' stroke='#FFA500' stroke-width='1' opacity='0.05'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 83.64999999999998,
+                "width": 912.7,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "NUWAVE BRAVO XL PRO",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 41.06,
+                "width": 997.88,
+                "height": 45.2,
+                "fill": "#FFA500",
+                "text": "Air Fryer Toaster Oven with Grill Combo",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 296.51,
+                "left": 266.59,
+                "width": 546.82,
+                "height": 406.98,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa4cc71959d5e74e9836fe/w9SfGzYHQeaPyzXntVTj6_1439x1071.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 143.89999999999998,
+                "width": 792.2,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "Ultra-Fast Convection \u2022 35% Crispier \u2022 142 Presets \u2022 50-500F",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 825,
+                "left": 374.6,
+                "width": 330.8,
+                "height": 90.4,
+                "fill": "#FFA500",
+                "text": "$246.74",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#FFA500",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 957,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#1E1D25",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nuwave Bravo XL Pro Air Fryer Toaster Oven with Grill Combo, 2025 New Ultra-Fast Convection System, 35% Crispier, 2X More Even, 142 Presets, 50-500F, Smarter Probe, PFAS Free, 30QT, Stainless Steel",
+            "description": "- Brand: Nuwave.\n- Color: Brushed Stainless Steel.\n- Product Dimensions: 17\"D x 20.1\"W x 11.1\"H.\n- Special Feature: 50-500, 0-100 Hours, 3 Selectable Fan Speed; Upper and Lower Heaters Adjustable From 0-100%; Carrying-over Cooking Function; Auto Preheat, Auto Shut Off; Delay and Clock Function; Mute/Unmute, Panel Lock; 5 Heavy-Duty Accessories, PFAS Free, Dishwasher-Safe; 60+ Chef-Made Recipes., 2025 Improved Ultra-fast Convection System; Linear T Air Frying Tech; True Char-Grilled Flavor; 3X Faster, 2X More Even; 35% Crispier Results, 95% Less Oil; 12 Cooking Functions, 100 Easy-Cook Presets, 30 Memory Slots; 10 Toast Settings, 5-Stage Cooking, 3 Sear Modes; 30QT XL Large Capacity, 4 Adjustable Rack;.\n- Door Style: Dropdown Door.\n- Model Name: Bravo XL Pro with Grill.\n- Door Material Type: Tempered Glass.\n- Power Source: Electric.\n- Temperature Range: 50-500 Degrees Fahrenheit.\n- Number of Shelves: 1.\n- Size: 30QT.\n- Control Type: Knob and Push Button.\n- Manufacture Year: 2024.\n- Item Weight: 24.5 pounds.\n- Country of Origin: China.",
+            "price": "$246.74"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa4cc71959d5e74e9836fe/w9SfGzYHQeaPyzXntVTj6_1439x1071.png",
+        "marketplace_url": "https://www.amazon.com/Nuwave-Ultra-Fast-Convection-Crispier-Stainless/dp/B0D7D3CZ1S/?_encoding=UTF8&pd_rd_w=1VoJJ&content-id=amzn1.sym.4bba068a-9322-4692-abd5-0bbe652907a9&pf_rd_p=4bba068a-9322-4692-abd5-0bbe652907a9&pf_rd_r=VQ4Q25WJ2E2F9N9TM2FT&pd_rd_wg=3Wmt3&pd_rd_r=77fca6e9-7765-4f9f-bfe3-1637b7934abe&ref_=pd_hp_d_btf_nta-top-picks&th=1",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner is a vibrant and modern promotional design centered around a kitchen appliance. It features a dark, gradient geometric background with subtle orange grid lines and concentric circles adding visual depth. A prominent circular orange glow frames the centerpiece image of the product (`product_image`), enhancing focus and appeal. At the top, the bold white headline (`heading`) grabs attention, followed by a sleek orange subheading (`subheading`) that communicates secondary information. Below the product image, a white text layer (`description`) outlines key features, while a large orange price highlight (`price`) drives interest. A rectangular orange call-to-action button (`cta_background`) with contrasting black text (`cta`) invites interaction. \n\n**Color Palette:**\n- Charcoal (#2A2A2A)\n- Dark Gray (#464646)\n- Bright Orange (#FFA500)\n- Deep Orange (#FF8C00)\n- White (#FFFFFF)\n- Black (#1E1D25)\n",
+    "product_color": "\nThe product image showcases a sleek and modern stainless steel oven with vibrant, fiery visuals highlighting its cooking performance. The dominant color is a brushed metallic silver (#C0C0C0), which conveys durability and modernity. Intense bursts of golden yellow (#FFD700) and orange (#FF8C00) emanate from the food chamber, symbolizing heat, flavor, and energy. These warm tones contrast boldly against the cool blue highlights (#00BFFF) and deep black (#000000) of the control panel, ensuring a dynamic and eye-catching composition. The warm-cool contrast emphasizes functionality and power, making this palette perfect for an energetic and premium advertisement banner.\n"
+}

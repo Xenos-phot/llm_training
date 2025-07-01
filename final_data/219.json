@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF0EE'/><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F8D0CF;stop-opacity:1' /><stop offset='100%' style='stop-color:#F5B6B6;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#E7A3A1;stop-opacity:0.6' /><stop offset='100%' style='stop-color:#D66D88;stop-opacity:0.6' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)' opacity='0.3'/><path d='M0 200 C250 150, 400 250, 600 200 C800 150, 900 200, 1080 150 L1080 0 L0 0 Z' fill='url(#grad2)' opacity='0.5'/><path d='M0 880 C200 930, 400 880, 600 930 C800 980, 900 930, 1080 980 L1080 1080 L0 1080 Z' fill='url(#grad2)' opacity='0.5'/><rect x='50' y='50' width='980' height='980' rx='20' stroke='#E7A3A1' stroke-width='3' fill='none' opacity='0.7'/><rect x='80' y='80' width='920' height='920' rx='15' stroke='#D66D88' stroke-width='2' fill='none' opacity='0.5'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.1)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.15)'/><circle cx='190' cy='190' r='40' fill='#D66D88' opacity='0.2'/><circle cx='890' cy='890' r='40' fill='#D66D88' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 90, "width": 664.8, "height": 113, "fill": "#9E3A52", "text": "SMART WATCH", "fontSize": 100, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 92, "width": 885.11, "height": 67.8, "fill": "#C75C7B", "text": "HWAGOL 1.85\" FITNESS TRACKER", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 320, "left": 95, "width": 463.35, "height": 174.02, "fill": "#733148", "text": "Answer & Make Calls on Your Wrist\nMultiple Sport Modes for Active Lifestyle\nIP67 Waterproof Design\nCreate Custom DIY Watch Faces", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 95, "width": 292.27, "height": 90.4, "fill": "#9E3A52", "text": "$18.99", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 95, "width": 220, "height": 60, "fill": "#B44362", "rx": 8, "ry": 8, "id": "cta_background"}, {"type": "text", "top": 956, "left": 130, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 398, "left": 461, "width": 1430, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2b748ba0-5b7a-4ff9-8a35-14f62edbc3d3_nobg_1430x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "\ud83c\udf08\u30101.85 inch screen and DIY dial\u3011This pink smart watch is equipped with 1.85 inch full touch color screen with excellent picture and smoother use. This men and women smartwatch supports multiple languages, fitness tracking software JYOUpro can update the clock face, view more beautiful clock faces at Jyoupro, and the watch wallpaper can be DIY, connect your phone and design your own unique style. \ud83c\udf08\u3010Multiple Sports Modes and Stylish Design\u3011Stylish and simple smart watch for men and women, and multi-sport modes for walking, running, cycling, basketball, football, badminton, rope skipping, table tennis, tennis, baseball, yoga, etc., to meet daily needs Exercise demand, tracking and recording exercise data function. Make your exercise program more effective. \ud83c\udf08\u3010Activity Tracker \u3011Smart watch has many practical tools such as alarm clock, stopwatch, music controller, weather, sedentary reminder, adjustable brightness, find your phone, etc. to meet your daily use. \ud83c\udf08\u3010IP67 Waterproof and Long Battery Life\u3011The smartwatch is IP67 waterproof so you can wash your hands or wear it during outdoor activities. The activity tracker is equipped with a strong battery capacity that can last up to 10 days on a 1.5 hour charge. This smartwatch is powered by low-power Bluetooth chip for IOS, Android. supports most smartphones with Bluetooth 5.0 or above, IOS 8.2 or above, Android 5.1 or above. \ud83c\udf08\u3010Message Notification & More Practical Tools\u3011Connecting this smartwatch with your phone,you can receive notifications of Facebook,WhatsApp,Instagram,Twitter and more,even hang up incoming calls.It will never let you miss any important things.Also there are many convenient functions like Timer,Stopwatch,Find device,Sedentary Reminder,Music Control and Weather Display. Operating System - android ios ** Memory Storage Capacity - 1 GB ** Special Feature - Activity Tracker ** Battery Capacity - 250 Milliamp Hours ** Connectivity Technology - Bluetooth ** Wireless Communication Standard - Bluetooth ** Battery Cell Composition - Lithium Ion ** GPS - No GPS ** Shape - Square ** Screen Size - 1.85 Inches **", "price": "18.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2b748ba0-5b7a-4ff9-8a35-14f62edbc3d3_nobg_1430x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0BQR71778", "layout": "frame_layout"}, "banner_details": "\nThis vibrant marketing banner presents a sleek modern smartwatch with a focus on sporty and lifestyle functionality. The header text layer [heading] uses large, bold typography in a deep plum tone to convey attention and strength, while the subheading layer [subheading] follows with a slightly smaller but still prominent font in a lighter raspberry shade, highlighting the product model. The body text layer [description] lists key features in a compact, readable format. Emphasizing the price, the [price] layer is styled for bold visibility towards the bottom, accompanied by a contrasting colored call-to-action button [cta_background] and its centered label [cta]. The [product_image] layer showcases the smartwatch prominently on the right. The background [background] incorporates soft pink gradients, overlapping wave shapes, and subtle graphic accents for depth and visual interest.\n\n**Color Palette:**\n- Soft Pink: #FFF0EE\n- Raspberry Rose: #C75C7B\n- Plum Red: #9E3A52\n- Mulberry: #733148\n- Rose Wine: #B44362\n- White: #FFFFFF\n", "product_color": "\nThe product image showcases a sleek smartwatch designed in a soft pastel pink (#FBEAEA) strap with a rose gold metallic frame (#E7BBA2), emitting a luxurious and feminine appeal. The main watch face integrates deep red floral graphics (#8B0F2F) blended with brighter pink highlights (#EF476F), set against a black background (#000000) to create visual depth and contrast. White (#FFFFFF) is used for digital elements, adding clarity and readability. The harmonious blend of soft pastels and bold, contrasting rich tones makes the design both elegant and eye-catching, perfect for a modern, stylish banner ad targeting fashion-forward tech users.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#FFF0EE'/><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F8D0CF;stop-opacity:1' /><stop offset='100%' style='stop-color:#F5B6B6;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#E7A3A1;stop-opacity:0.6' /><stop offset='100%' style='stop-color:#D66D88;stop-opacity:0.6' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)' opacity='0.3'/><path d='M0 200 C250 150, 400 250, 600 200 C800 150, 900 200, 1080 150 L1080 0 L0 0 Z' fill='url(#grad2)' opacity='0.5'/><path d='M0 880 C200 930, 400 880, 600 930 C800 980, 900 930, 1080 980 L1080 1080 L0 1080 Z' fill='url(#grad2)' opacity='0.5'/><rect x='50' y='50' width='980' height='980' rx='20' stroke='#E7A3A1' stroke-width='3' fill='none' opacity='0.7'/><rect x='80' y='80' width='920' height='920' rx='15' stroke='#D66D88' stroke-width='2' fill='none' opacity='0.5'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.1)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.15)'/><circle cx='190' cy='190' r='40' fill='#D66D88' opacity='0.2'/><circle cx='890' cy='890' r='40' fill='#D66D88' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 90,
+                "width": 664.8,
+                "height": 113,
+                "fill": "#9E3A52",
+                "text": "SMART WATCH",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 92,
+                "width": 885.11,
+                "height": 67.8,
+                "fill": "#C75C7B",
+                "text": "HWAGOL 1.85\" FITNESS TRACKER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 95,
+                "width": 463.35,
+                "height": 174.02,
+                "fill": "#733148",
+                "text": "Answer & Make Calls on Your Wrist\nMultiple Sport Modes for Active Lifestyle\nIP67 Waterproof Design\nCreate Custom DIY Watch Faces",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 95,
+                "width": 292.27,
+                "height": 90.4,
+                "fill": "#9E3A52",
+                "text": "$18.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 95,
+                "width": 220,
+                "height": 60,
+                "fill": "#B44362",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 956,
+                "left": 130,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 398,
+                "left": 461,
+                "width": 614.9,
+                "height": 618.77,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2b748ba0-5b7a-4ff9-8a35-14f62edbc3d3_nobg_1430x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "\ud83c\udf08\u30101.85 inch screen and DIY dial\u3011This pink smart watch is equipped with 1.85 inch full touch color screen with excellent picture and smoother use. This men and women smartwatch supports multiple languages, fitness tracking software JYOUpro can update the clock face, view more beautiful clock faces at Jyoupro, and the watch wallpaper can be DIY, connect your phone and design your own unique style. \ud83c\udf08\u3010Multiple Sports Modes and Stylish Design\u3011Stylish and simple smart watch for men and women, and multi-sport modes for walking, running, cycling, basketball, football, badminton, rope skipping, table tennis, tennis, baseball, yoga, etc., to meet daily needs Exercise demand, tracking and recording exercise data function. Make your exercise program more effective. \ud83c\udf08\u3010Activity Tracker \u3011Smart watch has many practical tools such as alarm clock, stopwatch, music controller, weather, sedentary reminder, adjustable brightness, find your phone, etc. to meet your daily use. \ud83c\udf08\u3010IP67 Waterproof and Long Battery Life\u3011The smartwatch is IP67 waterproof so you can wash your hands or wear it during outdoor activities. The activity tracker is equipped with a strong battery capacity that can last up to 10 days on a 1.5 hour charge. This smartwatch is powered by low-power Bluetooth chip for IOS, Android. supports most smartphones with Bluetooth 5.0 or above, IOS 8.2 or above, Android 5.1 or above. \ud83c\udf08\u3010Message Notification & More Practical Tools\u3011Connecting this smartwatch with your phone,you can receive notifications of Facebook,WhatsApp,Instagram,Twitter and more,even hang up incoming calls.It will never let you miss any important things.Also there are many convenient functions like Timer,Stopwatch,Find device,Sedentary Reminder,Music Control and Weather Display. Operating System - android ios ** Memory Storage Capacity - 1 GB ** Special Feature - Activity Tracker ** Battery Capacity - 250 Milliamp Hours ** Connectivity Technology - Bluetooth ** Wireless Communication Standard - Bluetooth ** Battery Cell Composition - Lithium Ion ** GPS - No GPS ** Shape - Square ** Screen Size - 1.85 Inches **",
+            "price": "18.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2b748ba0-5b7a-4ff9-8a35-14f62edbc3d3_nobg_1430x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0BQR71778",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis vibrant marketing banner presents a sleek modern smartwatch with a focus on sporty and lifestyle functionality. The header text layer [heading] uses large, bold typography in a deep plum tone to convey attention and strength, while the subheading layer [subheading] follows with a slightly smaller but still prominent font in a lighter raspberry shade, highlighting the product model. The body text layer [description] lists key features in a compact, readable format. Emphasizing the price, the [price] layer is styled for bold visibility towards the bottom, accompanied by a contrasting colored call-to-action button [cta_background] and its centered label [cta]. The [product_image] layer showcases the smartwatch prominently on the right. The background [background] incorporates soft pink gradients, overlapping wave shapes, and subtle graphic accents for depth and visual interest.\n\n**Color Palette:**\n- Soft Pink: #FFF0EE\n- Raspberry Rose: #C75C7B\n- Plum Red: #9E3A52\n- Mulberry: #733148\n- Rose Wine: #B44362\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image showcases a sleek smartwatch designed in a soft pastel pink (#FBEAEA) strap with a rose gold metallic frame (#E7BBA2), emitting a luxurious and feminine appeal. The main watch face integrates deep red floral graphics (#8B0F2F) blended with brighter pink highlights (#EF476F), set against a black background (#000000) to create visual depth and contrast. White (#FFFFFF) is used for digital elements, adding clarity and readability. The harmonious blend of soft pastels and bold, contrasting rich tones makes the design both elegant and eye-catching, perfect for a modern, stylish banner ad targeting fashion-forward tech users.\n"
+}

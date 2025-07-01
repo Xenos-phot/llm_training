@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F1E9'/><rect x='0' y='0' width='540' height='1080' fill='#362F2D'/><g opacity='0.1'><circle cx='200' cy='150' r='40' fill='#E8D8C0'/><circle cx='300' cy='250' r='30' fill='#E8D8C0'/><circle cx='150' cy='350' r='35' fill='#E8D8C0'/><circle cx='400' cy='450' r='25' fill='#E8D8C0'/><circle cx='100' cy='550' r='45' fill='#E8D8C0'/><circle cx='250' cy='650' r='30' fill='#E8D8C0'/><circle cx='350' cy='750' r='20' fill='#E8D8C0'/><circle cx='450' cy='850' r='40' fill='#E8D8C0'/><circle cx='150' cy='950' r='35' fill='#E8D8C0'/></g><g><line x1='520' y1='0' x2='520' y2='1080' stroke='#A89078' stroke-width='2' stroke-dasharray='5,5'/></g><g opacity='0.3'><rect x='60' y='60' width='420' height='2' fill='#E8D8C0'/><rect x='60' y='1020' width='420' height='2' fill='#E8D8C0'/><rect x='60' y='60' width='2' height='960' fill='#E8D8C0'/><rect x='480' y='60' width='2' height='960' fill='#E8D8C0'/></g><g><circle cx='700' cy='200' r='5' fill='#362F2D'/><circle cx='750' cy='200' r='5' fill='#362F2D'/><circle cx='800' cy='200' r='5' fill='#362F2D'/><circle cx='850' cy='200' r='5' fill='#362F2D'/><circle cx='900' cy='200' r='5' fill='#362F2D'/><circle cx='950' cy='200' r='5' fill='#362F2D'/><circle cx='700' cy='880' r='5' fill='#362F2D'/><circle cx='750' cy='880' r='5' fill='#362F2D'/><circle cx='800' cy='880' r='5' fill='#362F2D'/><circle cx='850' cy='880' r='5' fill='#362F2D'/><circle cx='900' cy='880' r='5' fill='#362F2D'/><circle cx='950' cy='880' r='5' fill='#362F2D'/></g><path d='M 950 50 A 15 15 0 0 1 980 80' stroke='#A89078' stroke-width='3' fill='none'/><path d='M 980 1000 A 15 15 0 0 1 950 1030' stroke='#A89078' stroke-width='3' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 45, "width": 356.64, "height": 124.3, "fill": "#E8D8C0", "text": "VINTAGE\nWALL CLOCK", "fontSize": 55, "fontFamily": "Cinzel Decorative Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 290, "left": 45, "width": 329.93, "height": 69.61, "fill": "#A89078", "text": "Seth Thomas Schoolhouse\nClassic Octagonal Design", "fontSize": 28, "fontFamily": "Gilda Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 420, "left": 45, "width": 295.97, "height": 108.48, "fill": "#E8D8C0", "text": "\u2022 Authentic craftsmanship\n\u2022 Traditional Roman numerals\n\u2022 Classic pendulum design", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 45, "width": 230.56, "height": 90.4, "fill": "#E8D8C0", "text": "\u20b9 999", "fontSize": 80, "fontFamily": "Cinzel Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 45, "width": 220, "height": 65, "fill": "#A89078", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 818, "left": 75, "width": 145.74, "height": 31.64, "fill": "#362F2D", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 190, "left": 590, "width": 463, "height": 695, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/o4zUjIVuVIIiic6czy2Rp_463x695.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Vintage Seth Thomas Schoolhouse Wall Clock - Classic Octagonal Design", "description": "\u2022 Authentic Seth Thomas clockmaker craftsmanship\n\u2022 Elegant octagonal shape with dark wood frame\n\u2022 Traditional Roman numeral dial face\n\u2022 Classic pendulum design in lower compartment\n\u2022 Perfect for home, office, or vintage collections\n\u2022 Timeless schoolhouse clock style\n\u2022 Large, easy-to-read white dial face\n\u2022 Distinctive black frame with period-correct finish\n\u2022 Wall-mounted design saves space\n\u2022 Adds sophisticated charm to any room decor", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/o4zUjIVuVIIiic6czy2Rp_463x695.png", "marketplace_url": "https://images.unsplash.com/photo-1747762948139-e94e57495664?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHwzOHx8Y2xvY2t8ZW58MHx8Mnx8MTc0ODMzMTM4NHww&ixlib=rb-4.1.0&q=85", "layout": "split_vertical"}, "banner_details": "\nThis banner features a vintage-themed aesthetic that promotes a classic wall clock. The layout is elegantly divided vertically, with the left half in a rich dark brown containing decorative text elements and the right half in a soft cream tone displaying a photograph of the octagonal product. The main title (`heading`) is styled with an ornate serif font, exuding antiquity. A subtle subheading (`subheading`) and description list (`description`) emphasize craftsmanship and design features. A bold price tag (`price`) stands out beneath it. A call-to-action button (`cta`) overlays a muted accent rectangle (`cta_background`). Decorative dotted circles and lines enhance visual balance.\n\n**Color Palette:**\n- Dark Brown: #362F2D\n- Cream: #F5F1E9\n- Beige Accent: #A89078\n- Pale Ivory Text: #E8D8C0\n", "product_color": "  \nThe product image features a vintage Seth Thomas wall clock with a rich, classic color palette ideal for creating an elegant advertisement banner. Dominant colors include deep mahogany brown (#3B2F2F) from the clock\u2019s wooden casing, and antique ivory (#F5F5DC) on the clock face. Accents of muted brass (#BDA55D) are seen on the pendulum frame, adding a touch of sophistication. Black (#000000) Roman numerals and clock hands are sharply contrasted against the cream dial, effectively highlighting timey elegance. The overall color harmony evokes heritage, reliability, and timeless craftsmanship, making these hues perfect for reinforcing a classic, premium brand identity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F1E9'/><rect x='0' y='0' width='540' height='1080' fill='#362F2D'/><g opacity='0.1'><circle cx='200' cy='150' r='40' fill='#E8D8C0'/><circle cx='300' cy='250' r='30' fill='#E8D8C0'/><circle cx='150' cy='350' r='35' fill='#E8D8C0'/><circle cx='400' cy='450' r='25' fill='#E8D8C0'/><circle cx='100' cy='550' r='45' fill='#E8D8C0'/><circle cx='250' cy='650' r='30' fill='#E8D8C0'/><circle cx='350' cy='750' r='20' fill='#E8D8C0'/><circle cx='450' cy='850' r='40' fill='#E8D8C0'/><circle cx='150' cy='950' r='35' fill='#E8D8C0'/></g><g><line x1='520' y1='0' x2='520' y2='1080' stroke='#A89078' stroke-width='2' stroke-dasharray='5,5'/></g><g opacity='0.3'><rect x='60' y='60' width='420' height='2' fill='#E8D8C0'/><rect x='60' y='1020' width='420' height='2' fill='#E8D8C0'/><rect x='60' y='60' width='2' height='960' fill='#E8D8C0'/><rect x='480' y='60' width='2' height='960' fill='#E8D8C0'/></g><g><circle cx='700' cy='200' r='5' fill='#362F2D'/><circle cx='750' cy='200' r='5' fill='#362F2D'/><circle cx='800' cy='200' r='5' fill='#362F2D'/><circle cx='850' cy='200' r='5' fill='#362F2D'/><circle cx='900' cy='200' r='5' fill='#362F2D'/><circle cx='950' cy='200' r='5' fill='#362F2D'/><circle cx='700' cy='880' r='5' fill='#362F2D'/><circle cx='750' cy='880' r='5' fill='#362F2D'/><circle cx='800' cy='880' r='5' fill='#362F2D'/><circle cx='850' cy='880' r='5' fill='#362F2D'/><circle cx='900' cy='880' r='5' fill='#362F2D'/><circle cx='950' cy='880' r='5' fill='#362F2D'/></g><path d='M 950 50 A 15 15 0 0 1 980 80' stroke='#A89078' stroke-width='3' fill='none'/><path d='M 980 1000 A 15 15 0 0 1 950 1030' stroke='#A89078' stroke-width='3' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 45,
+                "width": 356.64,
+                "height": 124.3,
+                "fill": "#E8D8C0",
+                "text": "VINTAGE\nWALL CLOCK",
+                "fontFamily": "Cinzel Decorative Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 45,
+                "width": 329.93,
+                "height": 69.61,
+                "fill": "#A89078",
+                "text": "Seth Thomas Schoolhouse\nClassic Octagonal Design",
+                "fontFamily": "Gilda Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 420,
+                "left": 45,
+                "width": 295.97,
+                "height": 108.48,
+                "fill": "#E8D8C0",
+                "text": "\u2022 Authentic craftsmanship\n\u2022 Traditional Roman numerals\n\u2022 Classic pendulum design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 45,
+                "width": 230.56,
+                "height": 90.4,
+                "fill": "#E8D8C0",
+                "text": "\u20b9 999",
+                "fontFamily": "Cinzel Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 45,
+                "width": 220,
+                "height": 65,
+                "fill": "#A89078",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 818,
+                "left": 75,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#362F2D",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 190,
+                "left": 590,
+                "width": 463,
+                "height": 695,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/o4zUjIVuVIIiic6czy2Rp_463x695.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Vintage Seth Thomas Schoolhouse Wall Clock - Classic Octagonal Design",
+            "description": "\u2022 Authentic Seth Thomas clockmaker craftsmanship\n\u2022 Elegant octagonal shape with dark wood frame\n\u2022 Traditional Roman numeral dial face\n\u2022 Classic pendulum design in lower compartment\n\u2022 Perfect for home, office, or vintage collections\n\u2022 Timeless schoolhouse clock style\n\u2022 Large, easy-to-read white dial face\n\u2022 Distinctive black frame with period-correct finish\n\u2022 Wall-mounted design saves space\n\u2022 Adds sophisticated charm to any room decor",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/o4zUjIVuVIIiic6czy2Rp_463x695.png",
+        "marketplace_url": "https://images.unsplash.com/photo-1747762948139-e94e57495664?crop=entropy&cs=srgb&fm=jpg&ixid=M3w2NjE5Njh8MHwxfHNlYXJjaHwzOHx8Y2xvY2t8ZW58MHx8Mnx8MTc0ODMzMTM4NHww&ixlib=rb-4.1.0&q=85",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a vintage-themed aesthetic that promotes a classic wall clock. The layout is elegantly divided vertically, with the left half in a rich dark brown containing decorative text elements and the right half in a soft cream tone displaying a photograph of the octagonal product. The main title (`heading`) is styled with an ornate serif font, exuding antiquity. A subtle subheading (`subheading`) and description list (`description`) emphasize craftsmanship and design features. A bold price tag (`price`) stands out beneath it. A call-to-action button (`cta`) overlays a muted accent rectangle (`cta_background`). Decorative dotted circles and lines enhance visual balance.\n\n**Color Palette:**\n- Dark Brown: #362F2D\n- Cream: #F5F1E9\n- Beige Accent: #A89078\n- Pale Ivory Text: #E8D8C0\n",
+    "product_color": "  \nThe product image features a vintage Seth Thomas wall clock with a rich, classic color palette ideal for creating an elegant advertisement banner. Dominant colors include deep mahogany brown (#3B2F2F) from the clock\u2019s wooden casing, and antique ivory (#F5F5DC) on the clock face. Accents of muted brass (#BDA55D) are seen on the pendulum frame, adding a touch of sophistication. Black (#000000) Roman numerals and clock hands are sharply contrasted against the cream dial, effectively highlighting timey elegance. The overall color harmony evokes heritage, reliability, and timeless craftsmanship, making these hues perfect for reinforcing a classic, premium brand identity.  \n"
+}

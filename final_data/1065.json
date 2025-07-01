@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E0E0E0'/><stop offset='100%' stop-color='#BDBDBD'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#D4AF37'/><stop offset='100%' stop-color='#C8A031'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F5F5F5'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' stroke='#E0E0E0' stroke-width='5'/><circle cx='540' cy='540' r='310' fill='none' stroke='#D4AF37' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='400' r='130' fill='#212121' stroke='#D4AF37' stroke-width='3'/><g opacity='0.1'><circle cx='150' cy='150' r='15' fill='#212121'/><circle cx='920' cy='180' r='10' fill='#212121'/><circle cx='220' cy='800' r='12' fill='#212121'/><circle cx='870' cy='750' r='18' fill='#212121'/></g><path d='M200 250 L300 170' stroke='#D4AF37' stroke-width='3' opacity='0.5'/><path d='M900 750 L980 650' stroke='#D4AF37' stroke-width='3' opacity='0.5'/><path d='M150 600 L230 660' stroke='#D4AF37' stroke-width='3' opacity='0.5'/><rect x='0' y='1040' width='1080' height='40' fill='url(#accentGradient)' opacity='0.8'/><rect x='0' y='0' width='1080' height='40' fill='url(#accentGradient)' opacity='0.8'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 184.85000000000002, "width": 710.3, "height": 113, "fill": "#212121", "text": "NIKE COURT LEGACY", "fontSize": 100, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 190, "left": 333.86, "width": 412.28, "height": 67.8, "fill": "#D4AF37", "text": "CLASSIC STREET STYLE", "fontSize": 60, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 900, "left": 27.934999999999945, "width": 1024.13, "height": 35.03, "fill": "#212121", "text": "\u2022 COMFORTABLE WEAR \u2022 STYLISH DESIGN \u2022 PREMIUM QUALITY", "fontSize": 31, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 440.29499999999996, "left": 313.645, "width": 1263, "height": 767, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/OnVUnMjAqQ7UVHJ8S4Wtv_1263x767.png", "id": "product_image"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#212121", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 366.1, "left": 744.0, "width": 212, "height": 67.8, "fill": "#FFFFFF", "text": "\u20b9 4100", "fontSize": 60, "fontFamily": "Archivo Black-Regular", "textAlign": "center", "id": "price"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nike Mens Court Legacy Running Shoes Nn-White/Black-Desert Ochre-Dh3162-100-9 UK", "description": "Designed for comfortable wear for sports and street style,\u00a0NIKE is always fun to wear. Upgrade in style with a wide range from the world\u2019s leading and much-loved sports brand,\u00a0NIKE.", "price": "\u20b94100"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/OnVUnMjAqQ7UVHJ8S4Wtv_1263x767.png", "marketplace_url": "https://www.amazon.in/Nike-Legacy-NN-White-Black-Desert-OCHRE-DH3162-100-9UK/dp/B09NMJHWBV/ref=sr_1_7?crid=2QIFL0176K342&dib=eyJ2IjoiMSJ9.FZHL35W8TC3-clayx-ET0-IA2iqplm-p5hxeIWp3t0e23-wrkjwg-0ZaG2OWnImHBgS6bESrIIvnTCM5r_rC1UTmf3Gt08GyJwlCiwfaGkvVnZ-GdWxwcQEsbbk7bTHnyQZIr4nssNnHeRcFkAUgFKaQCBst-ZyfvgwTVzIY672HfOD8ahYxkSWQwMogtfAQt1LsfdgU4yxQ2iTUoDF51-xwMANnpHQru56oFycQXR19tYgi-cKEsAbThKfIi1lt9MEBlsJM0Fwpg0rVXwA2B1PaTSB4ySzO_AX-SC1Hj3g.LgHmW4uUEA3WOtXPJNp0OVC_ZjmPSfLyANoQspmzu6k&dib_tag=se&keywords=nike+shoes+for+man&nsdOptOutParam=true&qid=1748260283&s=shoes&sprefix=nike+shoes+for+man%2Cshoes%2C291&sr=1-7", "layout": "circular_focus"}, "banner_details": "\nThis banner features a modern and stylish shoe advertisement with a theme of minimalistic sophistication. The design is centered around the product image (\"product_image\") placed prominently within a radial gradient circle that guides focus. A bold headline (\"heading\") sits at the top in a large black font, complemented by a gold-toned subheading (\"subheading\") that adds flair and hierarchy. The price tag (\"price\") is enclosed in a black circular badge with a gold border, positioned near the product for quick visibility. Supporting details are presented in a tagline section (\"tagline\") near the bottom, and a call-to-action button (\"cta\") over a black background (\"cta_background\") encourages immediate interaction.\n\n**Color Palette:**\n- Jet Black: #212121\n- Gold: #D4AF37\n- Warm Gray: #E0E0E0 / #BDBDBD\n- Pure White: #FFFFFF\n", "product_color": "  \nThis product image showcases a clean and stylish white sneaker with contrasting accent colors that pop effectively. The dominant color is a crisp white (#FFFFFF), representing purity and versatility, covering most of the shoe's surface. The black swoosh logo (#1A1A1A) and midsole line provide bold contrast and brand recognition. A mustard yellow strip (#D89E36) adds a touch of retro flair along the sole, drawing attention to the contours. A small dash of vibrant orange-red (#FF5733) on the tongue label subtly energizes the design. These colors are well-blended yet distinctly highlighted, offering a modern, minimal aesthetic\u2014ideal for a youthful, sporty banner ad.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E0E0E0'/><stop offset='100%' stop-color='#BDBDBD'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#D4AF37'/><stop offset='100%' stop-color='#C8A031'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F5F5F5'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' stroke='#E0E0E0' stroke-width='5'/><circle cx='540' cy='540' r='310' fill='none' stroke='#D4AF37' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='400' r='130' fill='#212121' stroke='#D4AF37' stroke-width='3'/><g opacity='0.1'><circle cx='150' cy='150' r='15' fill='#212121'/><circle cx='920' cy='180' r='10' fill='#212121'/><circle cx='220' cy='800' r='12' fill='#212121'/><circle cx='870' cy='750' r='18' fill='#212121'/></g><path d='M200 250 L300 170' stroke='#D4AF37' stroke-width='3' opacity='0.5'/><path d='M900 750 L980 650' stroke='#D4AF37' stroke-width='3' opacity='0.5'/><path d='M150 600 L230 660' stroke='#D4AF37' stroke-width='3' opacity='0.5'/><rect x='0' y='1040' width='1080' height='40' fill='url(#accentGradient)' opacity='0.8'/><rect x='0' y='0' width='1080' height='40' fill='url(#accentGradient)' opacity='0.8'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 184.85000000000002,
+                "width": 710.3,
+                "height": 113,
+                "fill": "#212121",
+                "text": "NIKE COURT LEGACY",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 333.86,
+                "width": 412.28,
+                "height": 67.8,
+                "fill": "#D4AF37",
+                "text": "CLASSIC STREET STYLE",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 27.934999999999945,
+                "width": 1024.13,
+                "height": 35.03,
+                "fill": "#212121",
+                "text": "\u2022 COMFORTABLE WEAR \u2022 STYLISH DESIGN \u2022 PREMIUM QUALITY",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 440.29499999999996,
+                "left": 313.645,
+                "width": 442.04999999999995,
+                "height": 268.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/OnVUnMjAqQ7UVHJ8S4Wtv_1263x767.png",
+                "id": "product_image"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#212121",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 366.1,
+                "left": 744.0,
+                "width": 212,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 4100",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "center",
+                "id": "price"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nike Mens Court Legacy Running Shoes Nn-White/Black-Desert Ochre-Dh3162-100-9 UK",
+            "description": "Designed for comfortable wear for sports and street style,\u00a0NIKE is always fun to wear. Upgrade in style with a wide range from the world\u2019s leading and much-loved sports brand,\u00a0NIKE.",
+            "price": "\u20b94100"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/OnVUnMjAqQ7UVHJ8S4Wtv_1263x767.png",
+        "marketplace_url": "https://www.amazon.in/Nike-Legacy-NN-White-Black-Desert-OCHRE-DH3162-100-9UK/dp/B09NMJHWBV/ref=sr_1_7?crid=2QIFL0176K342&dib=eyJ2IjoiMSJ9.FZHL35W8TC3-clayx-ET0-IA2iqplm-p5hxeIWp3t0e23-wrkjwg-0ZaG2OWnImHBgS6bESrIIvnTCM5r_rC1UTmf3Gt08GyJwlCiwfaGkvVnZ-GdWxwcQEsbbk7bTHnyQZIr4nssNnHeRcFkAUgFKaQCBst-ZyfvgwTVzIY672HfOD8ahYxkSWQwMogtfAQt1LsfdgU4yxQ2iTUoDF51-xwMANnpHQru56oFycQXR19tYgi-cKEsAbThKfIi1lt9MEBlsJM0Fwpg0rVXwA2B1PaTSB4ySzO_AX-SC1Hj3g.LgHmW4uUEA3WOtXPJNp0OVC_ZjmPSfLyANoQspmzu6k&dib_tag=se&keywords=nike+shoes+for+man&nsdOptOutParam=true&qid=1748260283&s=shoes&sprefix=nike+shoes+for+man%2Cshoes%2C291&sr=1-7",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a modern and stylish shoe advertisement with a theme of minimalistic sophistication. The design is centered around the product image (\"product_image\") placed prominently within a radial gradient circle that guides focus. A bold headline (\"heading\") sits at the top in a large black font, complemented by a gold-toned subheading (\"subheading\") that adds flair and hierarchy. The price tag (\"price\") is enclosed in a black circular badge with a gold border, positioned near the product for quick visibility. Supporting details are presented in a tagline section (\"tagline\") near the bottom, and a call-to-action button (\"cta\") over a black background (\"cta_background\") encourages immediate interaction.\n\n**Color Palette:**\n- Jet Black: #212121\n- Gold: #D4AF37\n- Warm Gray: #E0E0E0 / #BDBDBD\n- Pure White: #FFFFFF\n",
+    "product_color": "  \nThis product image showcases a clean and stylish white sneaker with contrasting accent colors that pop effectively. The dominant color is a crisp white (#FFFFFF), representing purity and versatility, covering most of the shoe's surface. The black swoosh logo (#1A1A1A) and midsole line provide bold contrast and brand recognition. A mustard yellow strip (#D89E36) adds a touch of retro flair along the sole, drawing attention to the contours. A small dash of vibrant orange-red (#FF5733) on the tongue label subtly energizes the design. These colors are well-blended yet distinctly highlighted, offering a modern, minimal aesthetic\u2014ideal for a youthful, sporty banner ad.  \n"
+}

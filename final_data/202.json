@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='backgroundGradient' cx='540' cy='540' r='800' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#5EAEE3'/><stop offset='100%' stop-color='#1A6BA0'/></radialGradient><radialGradient id='circleGradient' cx='850' cy='450' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#42C0FB'/><stop offset='100%' stop-color='#0D8FCE'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='850' cy='400' r='120' fill='url(#circleGradient)' stroke='#FFFFFF' stroke-width='3'/><circle cx='150' cy='200' r='40' fill='none' stroke='white' stroke-width='2' opacity='0.5'/><circle cx='900' cy='800' r='60' fill='none' stroke='white' stroke-width='2' opacity='0.5'/><line x1='150' y1='250' x2='250' y2='120' stroke='white' stroke-width='3' opacity='0.5'/><line x1='850' y1='750' x2='950' y2='620' stroke='white' stroke-width='3' opacity='0.5'/><line x1='150' y1='850' x2='250' y2='770' stroke='#FFFFFF' stroke-width='3' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 11.399999999999977, "width": 1057.2, "height": 80.23, "fill": "#FFFFFF", "text": "REVOLUTIONIZE LAUNDRY", "fontSize": 71, "fontFamily": "Archivo Black-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 114.82499999999999, "width": 850.35, "height": 56.5, "fill": "#E0F7FF", "text": "Effortless \u2022 Efficient \u2022 Exceptional", "fontSize": 50, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 900, "left": 132.04000000000002, "width": 815.92, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 MULTIPLE CYCLES \u2022 ENERGY EFFICIENT \u2022 SMART SENSING", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 299.52, "left": 378.18, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/cOqahpKRCcuRGXPVL9wCY_899x1336.png", "id": "product_image"}, {"type": "text", "top": 360.45, "left": 737.91, "width": 224.18, "height": 79.1, "fill": "#FFFFFF", "text": "$234", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#0D3B56", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia\u2122 High-Efficiency Digital Front Load Dryer - Modern Laundry Solution", "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Multiple drying cycles including Normal, Heavy Duty, Delicates, and Quick Dry\n\u2022 Large capacity drum with spacious interior for family-sized loads\n\u2022 LED digital display shows remaining time and cycle status\n\u2022 Easy-to-use control dial with multiple temperature settings\n\u2022 Energy-efficient operation to help reduce utility costs\n\u2022 Convenient maintenance access panel for easy cleaning and service\n\u2022 Ventilation system with proper airflow management\n\u2022 Durable construction with premium finish\n\u2022 Compact yet powerful design perfect for apartments and homes\n\u2022 Clear viewing window to monitor drying progress\n\u2022 Advanced moisture sensing technology for optimal drying results", "price": "$234"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/cOqahpKRCcuRGXPVL9wCY_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/3ff4610e-59ef-4bb6-ada8-046cdf5dcd32", "layout": "circular_focus"}, "banner_details": "\nA bold and modern promotional banner designed for a home appliance, specifically a laundry dryer. The composition centers around a high-resolution product image placed within a white circular cutout surrounded by decorative dashed strokes, giving it a dynamic, futuristic energy. The background features a cool radial gradient enhanced with geometric elements like outlined circles and angled lines, adding depth and visual motion.\n\nText layers include a dominant heading (\"heading\") at the top, a subheading tagline (\"tagline\") emphasizing key selling points, and a list of features (\"description\") near the bottom. The price text (\"price\") is boldly displayed inside a stylized gradient circle on the right. A yellow call-to-action button (\"cta\" and \"cta_background\") anchors the design at the bottom center for immediacy and contrast.\n\n**Color Palette:**\n- Sky Blue: #5EAEE3  \n- Deep Blue: #1A6BA0  \n- Gradient Circle Start: #42C0FB  \n- Gradient Circle End: #0D8FCE  \n- White: #FFFFFF  \n- Highlight Text Blue: #E0F7FF  \n- CTA Button Yellow: #FFD700  \n- CTA Text Navy: #0D3B56  \n", "product_color": "\nThis product image features a sleek, modern design with a clean and minimalistic color palette. The primary color is a crisp white (#FFFFFF) that gives a sense of cleanliness and efficiency. The large circular door features glossy black (#000000) to add visual contrast and emphasis. The digital screen uses neon blue (#00C9FF) and white for clarity and high-tech appeal, while the control knob includes silver (#C0C0C0) and subtle highlights of red (#FF4C4C) and blue (#007BFF), creating a balanced yet vibrant look. The colors are blended seamlessly through reflective surfaces and soft lighting, giving the product a polished, premium aesthetic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='backgroundGradient' cx='540' cy='540' r='800' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#5EAEE3'/><stop offset='100%' stop-color='#1A6BA0'/></radialGradient><radialGradient id='circleGradient' cx='850' cy='450' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#42C0FB'/><stop offset='100%' stop-color='#0D8FCE'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='850' cy='400' r='120' fill='url(#circleGradient)' stroke='#FFFFFF' stroke-width='3'/><circle cx='150' cy='200' r='40' fill='none' stroke='white' stroke-width='2' opacity='0.5'/><circle cx='900' cy='800' r='60' fill='none' stroke='white' stroke-width='2' opacity='0.5'/><line x1='150' y1='250' x2='250' y2='120' stroke='white' stroke-width='3' opacity='0.5'/><line x1='850' y1='750' x2='950' y2='620' stroke='white' stroke-width='3' opacity='0.5'/><line x1='150' y1='850' x2='250' y2='770' stroke='#FFFFFF' stroke-width='3' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 11.399999999999977,
+                "width": 1057.2,
+                "height": 80.23,
+                "fill": "#FFFFFF",
+                "text": "REVOLUTIONIZE LAUNDRY",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 114.82499999999999,
+                "width": 850.35,
+                "height": 56.5,
+                "fill": "#E0F7FF",
+                "text": "Effortless \u2022 Efficient \u2022 Exceptional",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 132.04000000000002,
+                "width": 815.92,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 MULTIPLE CYCLES \u2022 ENERGY EFFICIENT \u2022 SMART SENSING",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 299.52,
+                "left": 378.18,
+                "width": 323.64,
+                "height": 480.96,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/cOqahpKRCcuRGXPVL9wCY_899x1336.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 360.45,
+                "left": 737.91,
+                "width": 224.18,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "$234",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#0D3B56",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia\u2122 High-Efficiency Digital Front Load Dryer - Modern Laundry Solution",
+            "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Multiple drying cycles including Normal, Heavy Duty, Delicates, and Quick Dry\n\u2022 Large capacity drum with spacious interior for family-sized loads\n\u2022 LED digital display shows remaining time and cycle status\n\u2022 Easy-to-use control dial with multiple temperature settings\n\u2022 Energy-efficient operation to help reduce utility costs\n\u2022 Convenient maintenance access panel for easy cleaning and service\n\u2022 Ventilation system with proper airflow management\n\u2022 Durable construction with premium finish\n\u2022 Compact yet powerful design perfect for apartments and homes\n\u2022 Clear viewing window to monitor drying progress\n\u2022 Advanced moisture sensing technology for optimal drying results",
+            "price": "$234"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/cOqahpKRCcuRGXPVL9wCY_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/3ff4610e-59ef-4bb6-ada8-046cdf5dcd32",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nA bold and modern promotional banner designed for a home appliance, specifically a laundry dryer. The composition centers around a high-resolution product image placed within a white circular cutout surrounded by decorative dashed strokes, giving it a dynamic, futuristic energy. The background features a cool radial gradient enhanced with geometric elements like outlined circles and angled lines, adding depth and visual motion.\n\nText layers include a dominant heading (\"heading\") at the top, a subheading tagline (\"tagline\") emphasizing key selling points, and a list of features (\"description\") near the bottom. The price text (\"price\") is boldly displayed inside a stylized gradient circle on the right. A yellow call-to-action button (\"cta\" and \"cta_background\") anchors the design at the bottom center for immediacy and contrast.\n\n**Color Palette:**\n- Sky Blue: #5EAEE3  \n- Deep Blue: #1A6BA0  \n- Gradient Circle Start: #42C0FB  \n- Gradient Circle End: #0D8FCE  \n- White: #FFFFFF  \n- Highlight Text Blue: #E0F7FF  \n- CTA Button Yellow: #FFD700  \n- CTA Text Navy: #0D3B56  \n",
+    "product_color": "\nThis product image features a sleek, modern design with a clean and minimalistic color palette. The primary color is a crisp white (#FFFFFF) that gives a sense of cleanliness and efficiency. The large circular door features glossy black (#000000) to add visual contrast and emphasis. The digital screen uses neon blue (#00C9FF) and white for clarity and high-tech appeal, while the control knob includes silver (#C0C0C0) and subtle highlights of red (#FF4C4C) and blue (#007BFF), creating a balanced yet vibrant look. The colors are blended seamlessly through reflective surfaces and soft lighting, giving the product a polished, premium aesthetic.\n"
+}

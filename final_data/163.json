@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F3EE'/><rect x='-50' y='0' width='590' height='1080' fill='#F5F3EE'/><rect x='540' y='0' width='540' height='1080' fill='#ECEAE5'/><g transform='translate(40, 40)'><rect x='0' y='0' width='60' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='16' width='40' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='32' width='50' height='6' rx='3' fill='#444444' opacity='0.2'/></g><g transform='translate(940, 940)'><rect x='0' y='0' width='60' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='16' width='40' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='32' width='50' height='6' rx='3' fill='#444444' opacity='0.2'/></g><g transform='translate(60, 880)'><circle cx='10' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='45' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='80' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='115' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/></g><g transform='translate(860, 180)'><circle cx='10' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='45' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='80' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='115' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/></g><path d='M540,0 L540,1080' stroke='#D9D1C7' stroke-width='4' stroke-dasharray='10,15'/><g transform='translate(80, 700)' opacity='0.15'><path d='M0,0 L50,25 L0,50' fill='#444444'/><path d='M65,0 L115,25 L65,50' fill='#444444'/><path d='M130,0 L180,25 L130,50' fill='#444444'/></g><rect x='40' y='170' width='80' height='4' rx='2' fill='#BCA388' opacity='0.6'/><rect x='40' y='185' width='60' height='4' rx='2' fill='#BCA388' opacity='0.6'/><rect x='40' y='200' width='70' height='4' rx='2' fill='#BCA388' opacity='0.6'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 40, "width": 233.94, "height": 237.3, "fill": "#222222", "text": "PREMIUM\nKITCHEN\nORGANIZER", "fontSize": 70, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 323, "left": 40, "width": 424.11, "height": 36.16, "fill": "#BCA388", "text": "MODERN BLACK COLLECTION", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 40, "width": 349.03, "height": 162.72, "fill": "#444444", "text": "\u2022 Sleek matte black design with\n   decorative utensil cutouts\n\u2022 2-piece set includes utensil holder\n   and silverware caddy\n\u2022 Durable metal construction with\n   rust-resistant coating", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 680, "left": 40, "width": 296.17, "height": 79.1, "fill": "#222222", "text": "$42.99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 790, "left": 40, "width": 220, "height": 65, "fill": "#222222", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 810, "left": 80, "width": 133.29, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 120, "left": 580, "width": 967, "height": 1311, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825e40d3f090ff92f0a2668/0H8VasHIT1eVMIVv5PKlS_967x1311.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Kitchen Utensil Organizer Set - Modern Black Collection", "description": "\u2022 Sleek matte black design with decorative utensil cutouts and perforated pattern\n\u2022 2-piece set includes large utensil holder and matching silverware caddy\n\u2022 Durable metal construction with rust-resistant coating\n\u2022 Perfect height for storing cooking tools and eating utensils\n\u2022 Stylish wooden handle accents on utensils for enhanced durability\n\u2022 Space-saving circular design fits perfectly on countertops\n\u2022 Easy to clean and dishwasher safe\n\u2022 Versatile storage solution for kitchen tools and flatware\n\u2022 Modern minimalist aesthetic complements any kitchen d\u00e9cor\n\u2022 Ergonomically designed for easy access to all utensils", "price": "$02"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825e40d3f090ff92f0a2668/0H8VasHIT1eVMIVv5PKlS_967x1311.png", "marketplace_url": "blob:https://studio.phot.ai/e4bc1870-cb00-46b9-80d3-54c6a061c4d1", "layout": "split_vertical"}, "banner_details": "\nThis banner features a two-column layout with a clean and modern aesthetic, promoting a kitchen utensil organizer. On the left, the layout showcases a prominent stacked header composed of three bold text lines (id: \"heading\") in uppercase black. Below this, a contrasting gold-toned subheading (id: \"subheading\") adds a touch of elegance. Three concise bullet points (id: \"description\") follow, summarizing product features in a minimalist sans-serif font. A bold price tag (id: \"price\") grabs attention underneath, accompanied by a call-to-action button (id: \"cta\" and \"cta_background\") labeled in white on a black background. On the right side, a high-quality product image (id: \"product_image\") displays the utensils clearly, enhancing visual interest against a light beige and ivory background split by a dotted vertical divider.\n\n**Color Palette:**\n- Ivory #F5F3EE\n- Warm Light Gray #ECEAE5\n- Charcoal Black #222222\n- Dusty Beige (Gold Accent) #BCA388\n- Soft Brownish Gray #D9D1C7\n- White #FFFFFF\n", "product_color": "\nThe product image features a sleek, modern aesthetic with a dominant color palette combining muted tones and polished finishes. The utensils are mainly charcoal gray (#3A3F41) with matte finishes, complemented by light bamboo wood handles (#D8B07E), adding warmth and contrast. The holders are black (#121212), punctuated with metallic silver cut-outs and utensils (#C0C0C0), which reflect light and give a premium, contemporary look. The blend of matte and metallic finishes creates a visually balanced effect, enhancing product focus. For an advertisement banner, use this palette: Charcoal Gray (#3A3F41), Bamboo Tan (#D8B07E), Black (#121212), and Silver (#C0C0C0) for an elegant, minimal appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F3EE'/><rect x='-50' y='0' width='590' height='1080' fill='#F5F3EE'/><rect x='540' y='0' width='540' height='1080' fill='#ECEAE5'/><g transform='translate(40, 40)'><rect x='0' y='0' width='60' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='16' width='40' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='32' width='50' height='6' rx='3' fill='#444444' opacity='0.2'/></g><g transform='translate(940, 940)'><rect x='0' y='0' width='60' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='16' width='40' height='6' rx='3' fill='#444444' opacity='0.2'/><rect x='0' y='32' width='50' height='6' rx='3' fill='#444444' opacity='0.2'/></g><g transform='translate(60, 880)'><circle cx='10' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='45' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='80' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='115' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/></g><g transform='translate(860, 180)'><circle cx='10' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='45' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='80' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/><circle cx='115' cy='10' r='8' fill='#D9D1C7' opacity='0.6'/></g><path d='M540,0 L540,1080' stroke='#D9D1C7' stroke-width='4' stroke-dasharray='10,15'/><g transform='translate(80, 700)' opacity='0.15'><path d='M0,0 L50,25 L0,50' fill='#444444'/><path d='M65,0 L115,25 L65,50' fill='#444444'/><path d='M130,0 L180,25 L130,50' fill='#444444'/></g><rect x='40' y='170' width='80' height='4' rx='2' fill='#BCA388' opacity='0.6'/><rect x='40' y='185' width='60' height='4' rx='2' fill='#BCA388' opacity='0.6'/><rect x='40' y='200' width='70' height='4' rx='2' fill='#BCA388' opacity='0.6'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 40,
+                "width": 233.94,
+                "height": 237.3,
+                "fill": "#222222",
+                "text": "PREMIUM\nKITCHEN\nORGANIZER",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 323,
+                "left": 40,
+                "width": 424.11,
+                "height": 36.16,
+                "fill": "#BCA388",
+                "text": "MODERN BLACK COLLECTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 40,
+                "width": 349.03,
+                "height": 162.72,
+                "fill": "#444444",
+                "text": "\u2022 Sleek matte black design with\n   decorative utensil cutouts\n\u2022 2-piece set includes utensil holder\n   and silverware caddy\n\u2022 Durable metal construction with\n   rust-resistant coating",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 680,
+                "left": 40,
+                "width": 296.17,
+                "height": 79.1,
+                "fill": "#222222",
+                "text": "$42.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 790,
+                "left": 40,
+                "width": 220,
+                "height": 65,
+                "fill": "#222222",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 80,
+                "width": 133.29,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 120,
+                "left": 580,
+                "width": 435.15000000000003,
+                "height": 589.95,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825e40d3f090ff92f0a2668/0H8VasHIT1eVMIVv5PKlS_967x1311.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Kitchen Utensil Organizer Set - Modern Black Collection",
+            "description": "\u2022 Sleek matte black design with decorative utensil cutouts and perforated pattern\n\u2022 2-piece set includes large utensil holder and matching silverware caddy\n\u2022 Durable metal construction with rust-resistant coating\n\u2022 Perfect height for storing cooking tools and eating utensils\n\u2022 Stylish wooden handle accents on utensils for enhanced durability\n\u2022 Space-saving circular design fits perfectly on countertops\n\u2022 Easy to clean and dishwasher safe\n\u2022 Versatile storage solution for kitchen tools and flatware\n\u2022 Modern minimalist aesthetic complements any kitchen d\u00e9cor\n\u2022 Ergonomically designed for easy access to all utensils",
+            "price": "$02"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825e40d3f090ff92f0a2668/0H8VasHIT1eVMIVv5PKlS_967x1311.png",
+        "marketplace_url": "blob:https://studio.phot.ai/e4bc1870-cb00-46b9-80d3-54c6a061c4d1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a two-column layout with a clean and modern aesthetic, promoting a kitchen utensil organizer. On the left, the layout showcases a prominent stacked header composed of three bold text lines (id: \"heading\") in uppercase black. Below this, a contrasting gold-toned subheading (id: \"subheading\") adds a touch of elegance. Three concise bullet points (id: \"description\") follow, summarizing product features in a minimalist sans-serif font. A bold price tag (id: \"price\") grabs attention underneath, accompanied by a call-to-action button (id: \"cta\" and \"cta_background\") labeled in white on a black background. On the right side, a high-quality product image (id: \"product_image\") displays the utensils clearly, enhancing visual interest against a light beige and ivory background split by a dotted vertical divider.\n\n**Color Palette:**\n- Ivory #F5F3EE\n- Warm Light Gray #ECEAE5\n- Charcoal Black #222222\n- Dusty Beige (Gold Accent) #BCA388\n- Soft Brownish Gray #D9D1C7\n- White #FFFFFF\n",
+    "product_color": "\nThe product image features a sleek, modern aesthetic with a dominant color palette combining muted tones and polished finishes. The utensils are mainly charcoal gray (#3A3F41) with matte finishes, complemented by light bamboo wood handles (#D8B07E), adding warmth and contrast. The holders are black (#121212), punctuated with metallic silver cut-outs and utensils (#C0C0C0), which reflect light and give a premium, contemporary look. The blend of matte and metallic finishes creates a visually balanced effect, enhancing product focus. For an advertisement banner, use this palette: Charcoal Gray (#3A3F41), Bamboo Tan (#D8B07E), Black (#121212), and Silver (#C0C0C0) for an elegant, minimal appeal.\n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='mainGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E8F4FC'/><stop offset='100%' stop-color='#B7D9F2'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#2E7DB3'/><stop offset='100%' stop-color='#095B96'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#mainGradient)'/><g opacity='0.07'><circle cx='200' cy='200' r='300' fill='#000000'/><circle cx='900' cy='900' r='300' fill='#000000'/></g><rect x='0' y='0' width='1080' height='140' fill='url(#accentGradient)'/><rect x='0' y='940' width='1080' height='140' fill='url(#accentGradient)'/><g opacity='0.4'><circle cx='100' cy='70' r='20' fill='white'/><circle cx='150' cy='70' r='20' fill='white'/><circle cx='200' cy='70' r='20' fill='white'/><circle cx='980' cy='1010' r='20' fill='white'/><circle cx='930' cy='1010' r='20' fill='white'/><circle cx='880' cy='1010' r='20' fill='white'/></g><path d='M0,140 C180,190 360,170 540,140 C720,110 900,130 1080,140 L1080,150 L0,150 Z' fill='url(#accentGradient)'/><path d='M0,940 C180,890 360,910 540,940 C720,970 900,950 1080,940 L1080,930 L0,930 Z' fill='url(#accentGradient)'/></svg>", "id": "background"}, {"type": "text", "top": 30, "left": 141.16000000000003, "width": 797.68, "height": 90.4, "fill": "#FFFFFF", "text": "INSIGNIA COMPACT DRYER", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 140, "left": 221.04000000000002, "width": 637.92, "height": 45.2, "fill": "#095B96", "text": "Effortless Drying Awaits!", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 196.16, "left": 369.19, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/PnA8I6SfnXg96WIbzrVSM_899x1336.png", "id": "product_image"}, {"type": "text", "top": 740, "left": 86.77499999999998, "width": 906.45, "height": 33.9, "fill": "#095B96", "text": "Multiple Cycles \u2022 Digital Display \u2022 Energy Efficient \u2022 Compact Design", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "features"}, {"type": "text", "top": 800, "left": 285.155, "width": 509.69, "height": 31.64, "fill": "#2E7DB3", "text": "Perfect for apartments and small homes", "fontSize": 28, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 860, "left": 436.28, "width": 207.44, "height": 90.4, "fill": "#095B96", "text": "$999", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 970, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#095B96", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 985, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Compact Ventless Dryer - Modern Digital Control", "description": "\u2022 \u2728 Sleek white design with modern digital display and intuitive control panel\n\u2022 \ud83d\udd04 Multiple drying cycles including My Cycle, Mixed Load, Heavy Duty, and Towels\n\u2022 \ud83d\udcf1 LED digital display showing time remaining and cycle status\n\u2022 \ud83c\udf21\ufe0f Advanced temperature control with various heat settings\n\u2022 \ud83d\udeaa Large capacity drum with spacious door opening for easy loading/unloading\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83d\udd27 Easy-access maintenance panel and built-in cleaning reminder\n\u2022 \ud83d\udccf Space-saving compact design perfect for apartments and small homes\n\u2022 \ud83d\udd0a Sound alert when cycle completes\n\u2022 \u2699\ufe0f Multiple fabric care options with adjustable drying preferences", "price": "$999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/PnA8I6SfnXg96WIbzrVSM_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/0754b8d3-3ce5-4e5b-bf2f-352454db94ab", "layout": "centered_hero"}, "banner_details": "\nThe banner showcases a sleek promotional layout for a household appliance, centered around a high-contrast and clean design. At the top, a bold and prominent heading (`heading`) grabs attention, supported by a visually elegant tagline (`tagline`) in a modern font. The central focus of the banner is a high-resolution product image (`product_image`), laying front and center against a soft, vertically blended blue gradient background with large translucent circles for visual interest.\n\nBelow the product, the feature highlights (`features`) are presented with impactful bullet-pointed descriptors, followed by a brief value statement (`description`) to emphasize usage scenarios. The price (`price`) is large and bold, making the cost immediately noticeable, while the bottom contains a solid call-to-action button (`cta_button`) labeled with compelling text (`cta`).\n\n**Color Palette:**\n- Deep Blue: `#095B96`\n- Steel Blue: `#2E7DB3`\n- Light Sky Blue: `#B7D9F2`\n- Pale Ice Blue: `#E8F4FC`\n- White: `#FFFFFF`\n\nThe banner blends a modern gradient aesthetic with practical layout hierarchy\u2014ideal for ecommerce promotions while ensuring visual clarity and product focus.\n", "product_color": "  \nThe product image, showcasing a modern Insignia dryer, uses a clean and minimalistic color palette centered around white (#FFFFFF), black (#000000), and steel gray (#D8D8D8). The main body is a bright white, creating a sense of hygiene and sleekness, ideal for appliance marketing. The door and trim feature glossy black, which contrasts sharply with the white, drawing attention to the central functionality area. Accents of subtle blue (#6CA6CD), red (#E94B35), and orange (#F28C28) on the control panel provide visual interest and emphasize functionality without overpowering the minimalist aesthetic. These colors blend harmoniously while creating clear focal highlights for usability.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='mainGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E8F4FC'/><stop offset='100%' stop-color='#B7D9F2'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#2E7DB3'/><stop offset='100%' stop-color='#095B96'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#mainGradient)'/><g opacity='0.07'><circle cx='200' cy='200' r='300' fill='#000000'/><circle cx='900' cy='900' r='300' fill='#000000'/></g><rect x='0' y='0' width='1080' height='140' fill='url(#accentGradient)'/><rect x='0' y='940' width='1080' height='140' fill='url(#accentGradient)'/><g opacity='0.4'><circle cx='100' cy='70' r='20' fill='white'/><circle cx='150' cy='70' r='20' fill='white'/><circle cx='200' cy='70' r='20' fill='white'/><circle cx='980' cy='1010' r='20' fill='white'/><circle cx='930' cy='1010' r='20' fill='white'/><circle cx='880' cy='1010' r='20' fill='white'/></g><path d='M0,140 C180,190 360,170 540,140 C720,110 900,130 1080,140 L1080,150 L0,150 Z' fill='url(#accentGradient)'/><path d='M0,940 C180,890 360,910 540,940 C720,970 900,950 1080,940 L1080,930 L0,930 Z' fill='url(#accentGradient)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 30,
+                "left": 141.16000000000003,
+                "width": 797.68,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "INSIGNIA COMPACT DRYER",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 221.04000000000002,
+                "width": 637.92,
+                "height": 45.2,
+                "fill": "#095B96",
+                "text": "Effortless Drying Awaits!",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 196.16,
+                "left": 369.19,
+                "width": 341.62,
+                "height": 507.68,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/PnA8I6SfnXg96WIbzrVSM_899x1336.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 86.77499999999998,
+                "width": 906.45,
+                "height": 33.9,
+                "fill": "#095B96",
+                "text": "Multiple Cycles \u2022 Digital Display \u2022 Energy Efficient \u2022 Compact Design",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 285.155,
+                "width": 509.69,
+                "height": 31.64,
+                "fill": "#2E7DB3",
+                "text": "Perfect for apartments and small homes",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 860,
+                "left": 436.28,
+                "width": 207.44,
+                "height": 90.4,
+                "fill": "#095B96",
+                "text": "$999",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#095B96",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 985,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Compact Ventless Dryer - Modern Digital Control",
+            "description": "\u2022 \u2728 Sleek white design with modern digital display and intuitive control panel\n\u2022 \ud83d\udd04 Multiple drying cycles including My Cycle, Mixed Load, Heavy Duty, and Towels\n\u2022 \ud83d\udcf1 LED digital display showing time remaining and cycle status\n\u2022 \ud83c\udf21\ufe0f Advanced temperature control with various heat settings\n\u2022 \ud83d\udeaa Large capacity drum with spacious door opening for easy loading/unloading\n\u2022 \u26a1 Energy-efficient ventless condensing technology\n\u2022 \ud83d\udd27 Easy-access maintenance panel and built-in cleaning reminder\n\u2022 \ud83d\udccf Space-saving compact design perfect for apartments and small homes\n\u2022 \ud83d\udd0a Sound alert when cycle completes\n\u2022 \u2699\ufe0f Multiple fabric care options with adjustable drying preferences",
+            "price": "$999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/PnA8I6SfnXg96WIbzrVSM_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/0754b8d3-3ce5-4e5b-bf2f-352454db94ab",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner showcases a sleek promotional layout for a household appliance, centered around a high-contrast and clean design. At the top, a bold and prominent heading (`heading`) grabs attention, supported by a visually elegant tagline (`tagline`) in a modern font. The central focus of the banner is a high-resolution product image (`product_image`), laying front and center against a soft, vertically blended blue gradient background with large translucent circles for visual interest.\n\nBelow the product, the feature highlights (`features`) are presented with impactful bullet-pointed descriptors, followed by a brief value statement (`description`) to emphasize usage scenarios. The price (`price`) is large and bold, making the cost immediately noticeable, while the bottom contains a solid call-to-action button (`cta_button`) labeled with compelling text (`cta`).\n\n**Color Palette:**\n- Deep Blue: `#095B96`\n- Steel Blue: `#2E7DB3`\n- Light Sky Blue: `#B7D9F2`\n- Pale Ice Blue: `#E8F4FC`\n- White: `#FFFFFF`\n\nThe banner blends a modern gradient aesthetic with practical layout hierarchy\u2014ideal for ecommerce promotions while ensuring visual clarity and product focus.\n",
+    "product_color": "  \nThe product image, showcasing a modern Insignia dryer, uses a clean and minimalistic color palette centered around white (#FFFFFF), black (#000000), and steel gray (#D8D8D8). The main body is a bright white, creating a sense of hygiene and sleekness, ideal for appliance marketing. The door and trim feature glossy black, which contrasts sharply with the white, drawing attention to the central functionality area. Accents of subtle blue (#6CA6CD), red (#E94B35), and orange (#F28C28) on the control panel provide visual interest and emphasize functionality without overpowering the minimalist aesthetic. These colors blend harmoniously while creating clear focal highlights for usability.  \n"
+}

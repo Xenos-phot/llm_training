@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#F5F5F5'/><stop offset='50%' style='stop-color:#E0E0E0'/><stop offset='50%' style='stop-color:#1A237E'/><stop offset='100%' style='stop-color:#0D1442'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M540 0 L540 1080' stroke='#FFD54F' stroke-width='5' stroke-dasharray='20,10'/><path d='M0 200 Q 270 280, 540 200' stroke='#FFD54F' stroke-width='4' fill='none' opacity='0.7'/><path d='M0 400 Q 270 480, 540 400' stroke='#FFD54F' stroke-width='3' fill='none' opacity='0.5'/><path d='M0 600 Q 270 680, 540 600' stroke='#FFD54F' stroke-width='3' fill='none' opacity='0.5'/><path d='M0 800 Q 270 880, 540 800' stroke='#FFD54F' stroke-width='4' fill='none' opacity='0.7'/><circle cx='120' cy='150' r='12' fill='#FFD54F' opacity='0.6'/><circle cx='240' cy='350' r='8' fill='#FFD54F' opacity='0.6'/><circle cx='380' cy='550' r='15' fill='#FFD54F' opacity='0.6'/><circle cx='180' cy='750' r='10' fill='#FFD54F' opacity='0.6'/><circle cx='300' cy='950' r='12' fill='#FFD54F' opacity='0.6'/><path d='M650 200 L800 200 L900 300 L750 300 Z' fill='#FFD54F' opacity='0.2'/><path d='M700 500 L850 500 L950 600 L800 600 Z' fill='#FFD54F' opacity='0.2'/><path d='M600 800 L750 800 L850 900 L700 900 Z' fill='#FFD54F' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 50, "width": 331.19, "height": 169.05, "fill": "#1A237E", "text": "ASIAN\nOXYGEN", "fontSize": 68, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 300, "left": 50, "width": 368.72, "height": 36.16, "fill": "#333333", "text": "SPORTS RUNNING SHOES", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 50, "width": 266.94, "height": 126.56, "fill": "#333333", "text": "\u2022 Oxygen Technology\n\u2022 Lightweight Design\n\u2022 Premium Mesh Upper", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 50, "width": 282, "height": 90.4, "fill": "#1A237E", "text": "\u20b9 1118", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 750, "left": 50, "width": 220, "height": 70, "fill": "#FFD54F", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 770, "left": 82, "width": 145.74, "height": 31.64, "fill": "#1A237E", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 240, "left": 560, "width": 991, "height": 599, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/wd7tGdcskBX1_NzPt59uU_991x599.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "ASIAN Oxygen-01 Sports Running,Walking & Gym Shoes with Oxygen Technology Lightweight Casual Sneaker Shoes for Men's & Boy's", "description": "Product Dimensions: 31 x 21 x 10 cm; 400 g. Country of Origin: India. Department: mens. Item Weight: 400 g. Item Dimensions Lx Wx H: 31 x 21 x 10 Centimeters. Net Quantity: 1 Count. Generic Name: Sneaker. Customer Reviews: 3.8 3.8 out of 5 stars 4,408 ratings.", "price": "\u20b91118"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/wd7tGdcskBX1_NzPt59uU_991x599.png", "marketplace_url": "https://www.amazon.in/ASIAN-Oxygen-01-Lightweight-Running-Shoes/dp/B09C3YM7KW/?_encoding=UTF8&pd_rd_w=HOkwf&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=Q9RKGBVMAR2Q5Q37WTS0&pd_rd_wg=6aXO6&pd_rd_r=5da681f4-ae15-4b2b-857a-1fd39bd8d9d3&ref_=pd_hp_d_atf_dealz_cs&th=1&psc=1", "layout": "split_vertical"}, "banner_details": "\nThe banner showcases a modern and sporty design, ideal for promoting athletic footwear. The layout is divided vertically with a sleek gradient background transitioning from light grey to deep navy blue. On the left side, a dynamic background pattern includes curved golden lines and circular accents, giving a sense of motion and energy. A bold heading (\"heading\") in a futuristic font grabs attention at the top, followed by a supporting subheading (\"subheading\") indicating the product type. Beneath that, a bulleted features list (\"description\") provides key product benefits. The price section (\"price\") is prominently displayed in a bold style. A CTA button (\"cta\") in contrasting yellow with blue text encourages action. To the right, a product image (\"product_image\") is presented cleanly over a neutral section of the background.\n\n**Color Palette:**\n- Navy Blue: #1A237E\n- Deep Blue: #0D1442\n- Light Grey: #F5F5F5\n- Medium Grey: #E0E0E0\n- Golden Yellow: #FFD54F\n- Charcoal Grey: #333333\n", "product_color": "  \nThe product image features a stylish pair of sneakers predominantly in navy blue (#121E3F), which provides a sleek and modern base tone. Accents of vibrant mustard yellow (#F6B024) are strategically placed on the logo, heel, and midsole, creating a sharp contrast that draws visual attention. Subtle charcoal black (#1E1E1E) and dark grey (#2C2F35) elements on the sole and eyelets offer depth and texture. A crisp white (#F4F4F4) portion of the midsole adds brightness, balancing the richness of darker hues. These complementary colors are smoothly blended, allowing key details to pop while maintaining a cohesive, athletic aesthetic perfect for banner design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#F5F5F5'/><stop offset='50%' style='stop-color:#E0E0E0'/><stop offset='50%' style='stop-color:#1A237E'/><stop offset='100%' style='stop-color:#0D1442'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M540 0 L540 1080' stroke='#FFD54F' stroke-width='5' stroke-dasharray='20,10'/><path d='M0 200 Q 270 280, 540 200' stroke='#FFD54F' stroke-width='4' fill='none' opacity='0.7'/><path d='M0 400 Q 270 480, 540 400' stroke='#FFD54F' stroke-width='3' fill='none' opacity='0.5'/><path d='M0 600 Q 270 680, 540 600' stroke='#FFD54F' stroke-width='3' fill='none' opacity='0.5'/><path d='M0 800 Q 270 880, 540 800' stroke='#FFD54F' stroke-width='4' fill='none' opacity='0.7'/><circle cx='120' cy='150' r='12' fill='#FFD54F' opacity='0.6'/><circle cx='240' cy='350' r='8' fill='#FFD54F' opacity='0.6'/><circle cx='380' cy='550' r='15' fill='#FFD54F' opacity='0.6'/><circle cx='180' cy='750' r='10' fill='#FFD54F' opacity='0.6'/><circle cx='300' cy='950' r='12' fill='#FFD54F' opacity='0.6'/><path d='M650 200 L800 200 L900 300 L750 300 Z' fill='#FFD54F' opacity='0.2'/><path d='M700 500 L850 500 L950 600 L800 600 Z' fill='#FFD54F' opacity='0.2'/><path d='M600 800 L750 800 L850 900 L700 900 Z' fill='#FFD54F' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 50,
+                "width": 331.19,
+                "height": 169.05,
+                "fill": "#1A237E",
+                "text": "ASIAN\nOXYGEN",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 50,
+                "width": 368.72,
+                "height": 36.16,
+                "fill": "#333333",
+                "text": "SPORTS RUNNING SHOES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 50,
+                "width": 266.94,
+                "height": 126.56,
+                "fill": "#333333",
+                "text": "\u2022 Oxygen Technology\n\u2022 Lightweight Design\n\u2022 Premium Mesh Upper",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 282,
+                "height": 90.4,
+                "fill": "#1A237E",
+                "text": "\u20b9 1118",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 750,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#FFD54F",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 82,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#1A237E",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 240,
+                "left": 560,
+                "width": 495.5,
+                "height": 299.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/wd7tGdcskBX1_NzPt59uU_991x599.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "ASIAN Oxygen-01 Sports Running,Walking & Gym Shoes with Oxygen Technology Lightweight Casual Sneaker Shoes for Men's & Boy's",
+            "description": "Product Dimensions: 31 x 21 x 10 cm; 400 g. Country of Origin: India. Department: mens. Item Weight: 400 g. Item Dimensions Lx Wx H: 31 x 21 x 10 Centimeters. Net Quantity: 1 Count. Generic Name: Sneaker. Customer Reviews: 3.8 3.8 out of 5 stars 4,408 ratings.",
+            "price": "\u20b91118"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/wd7tGdcskBX1_NzPt59uU_991x599.png",
+        "marketplace_url": "https://www.amazon.in/ASIAN-Oxygen-01-Lightweight-Running-Shoes/dp/B09C3YM7KW/?_encoding=UTF8&pd_rd_w=HOkwf&content-id=amzn1.sym.0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_p=0e03aefb-8b93-49f8-beeb-6d21836a1b3d&pf_rd_r=Q9RKGBVMAR2Q5Q37WTS0&pd_rd_wg=6aXO6&pd_rd_r=5da681f4-ae15-4b2b-857a-1fd39bd8d9d3&ref_=pd_hp_d_atf_dealz_cs&th=1&psc=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner showcases a modern and sporty design, ideal for promoting athletic footwear. The layout is divided vertically with a sleek gradient background transitioning from light grey to deep navy blue. On the left side, a dynamic background pattern includes curved golden lines and circular accents, giving a sense of motion and energy. A bold heading (\"heading\") in a futuristic font grabs attention at the top, followed by a supporting subheading (\"subheading\") indicating the product type. Beneath that, a bulleted features list (\"description\") provides key product benefits. The price section (\"price\") is prominently displayed in a bold style. A CTA button (\"cta\") in contrasting yellow with blue text encourages action. To the right, a product image (\"product_image\") is presented cleanly over a neutral section of the background.\n\n**Color Palette:**\n- Navy Blue: #1A237E\n- Deep Blue: #0D1442\n- Light Grey: #F5F5F5\n- Medium Grey: #E0E0E0\n- Golden Yellow: #FFD54F\n- Charcoal Grey: #333333\n",
+    "product_color": "  \nThe product image features a stylish pair of sneakers predominantly in navy blue (#121E3F), which provides a sleek and modern base tone. Accents of vibrant mustard yellow (#F6B024) are strategically placed on the logo, heel, and midsole, creating a sharp contrast that draws visual attention. Subtle charcoal black (#1E1E1E) and dark grey (#2C2F35) elements on the sole and eyelets offer depth and texture. A crisp white (#F4F4F4) portion of the midsole adds brightness, balancing the richness of darker hues. These complementary colors are smoothly blended, allowing key details to pop while maintaining a cohesive, athletic aesthetic perfect for banner design.  \n"
+}

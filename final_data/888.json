@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A2A4A'/><path d='M0 0L550 0L550 600L0 600Z' fill='#0F172A'/><path d='M550 600L1080 600L1080 1080L550 1080Z' fill='#0F172A'/><circle cx='900' cy='250' r='200' fill='#E63946' opacity='0.1'/><circle cx='200' cy='850' r='150' fill='#E63946' opacity='0.1'/><path d='M0 600L400 600L400 1080L0 1080Z' fill='#152238'/><g opacity='0.05'><path d='M980 50C1030 50 1070 90 1070 140' stroke='#FFFFFF' stroke-width='3'/><path d='M980 70C1020 70 1050 100 1050 140' stroke='#FFFFFF' stroke-width='3'/><path d='M980 90C1010 90 1030 110 1030 140' stroke='#FFFFFF' stroke-width='3'/><path d='M980 110C1000 110 1010 120 1010 140' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.05'><path d='M100 980C50 980 10 940 10 890' stroke='#FFFFFF' stroke-width='3'/><path d='M100 960C60 960 30 930 30 890' stroke='#FFFFFF' stroke-width='3'/><path d='M100 940C70 940 50 920 50 890' stroke='#FFFFFF' stroke-width='3'/><path d='M100 920C80 920 70 910 70 890' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.1'><path d='M0 0L1080 0L1080 1080L0 1080Z' fill='none' stroke='#E63946' stroke-width='1'/><line x1='0' y1='60' x2='1080' y2='60' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='180' x2='1080' y2='180' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='300' x2='1080' y2='300' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='360' x2='1080' y2='360' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='420' x2='1080' y2='420' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='480' x2='1080' y2='480' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='540' x2='1080' y2='540' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='600' x2='1080' y2='600' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='660' x2='1080' y2='660' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='720' x2='1080' y2='720' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='780' x2='1080' y2='780' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='840' x2='1080' y2='840' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='900' x2='1080' y2='900' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='960' x2='1080' y2='960' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='1020' x2='1080' y2='1020' stroke='#E63946' stroke-width='0.5'/><line x1='60' y1='0' x2='60' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='120' y1='0' x2='120' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='180' y1='0' x2='180' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='240' y1='0' x2='240' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='300' y1='0' x2='300' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='360' y1='0' x2='360' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='420' y1='0' x2='420' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='480' y1='0' x2='480' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='540' y1='0' x2='540' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='600' y1='0' x2='600' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='660' y1='0' x2='660' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='720' y1='0' x2='720' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='780' y1='0' x2='780' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='840' y1='0' x2='840' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='900' y1='0' x2='900' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='960' y1='0' x2='960' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='1020' y1='0' x2='1020' y2='1080' stroke='#E63946' stroke-width='0.5'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 736.63, "height": 107.35, "fill": "#FFFFFF", "text": "ELEVATE YOUR", "fontSize": 95, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 175, "left": 50, "width": 758.96, "height": 107.35, "fill": "#E63946", "text": "PHOTOGRAPHY", "fontSize": 95, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 290, "left": 50, "width": 666.05, "height": 33.9, "fill": "#FFFFFF", "text": "CLASSIC DESIGN MEETS MODERN INNOVATION", "fontSize": 30, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 350, "left": 580, "width": 483.65, "height": 179.22, "fill": "#FFFFFF", "text": "\u2022 16.3MP APS-C X-Trans CMOS II Sensor\n\u2022 3.0-inch Tilting LCD Screen\n\u2022 Advanced Autofocus System\n\u2022 Film Simulation Modes", "fontSize": 26, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 870, "left": 50, "width": 364.63, "height": 135.6, "fill": "#E63946", "text": "\u20b9 999", "fontSize": 120, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 600, "width": 220.00000000000003, "height": 66.0, "fill": "#E63946", "rx": 10, "ry": 10, "id": "cta_button"}, {"type": "text", "top": 966, "left": 636, "width": 155.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 383, "left": 63, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/czQDGtWUAVvXxKwb-xjPh_551x559.png", "id": "product_image"}, {"type": "text", "top": 900, "left": 580, "width": 451.22, "height": 22.6, "fill": "#FFFFFF", "text": "FUJIFILM X-T10 PROFESSIONAL", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Professional Mirrorless Camera - Classic Design Meets Modern Innovation", "description": "\u2022 Premium X-Series mirrorless camera system with classic retro design\n\u2022 Advanced 16.3MP APS-C X-Trans CMOS II Sensor for exceptional image quality\n\u2022 Versatile 3.0-inch tilting LCD screen for flexible shooting angles\n\u2022 High-precision electronic viewfinder with real-time preview\n\u2022 Multiple manual control dials for quick access to essential settings\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing and remote control\n\u2022 Advanced autofocus system with multiple focus points\n\u2022 Compatible with Fujifilm's renowned X-mount lens system\n\u2022 Compact and lightweight design ideal for travel photography\n\u2022 Film simulation modes that recreate classic Fujifilm styles\n\u2022 Full HD video recording capabilities\n\u2022 Durable metal construction with ergonomic grip", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/czQDGtWUAVvXxKwb-xjPh_551x559.png", "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg", "layout": "z_pattern"}, "banner_details": "  \nThis promotional banner features a modern and professional layout tailored for a tech-savvy audience. It centers around a high-resolution camera image (`product_image`) placed prominently on the left side, balanced by key textual elements on the right. The main headline is split across two impactful text layers: `heading_1` in bold white and `heading_2` in vivid red, enhancing legibility and attention. Below, a sleek `tagline` adds sophistication. The `description` text outlines product features in a bulleted style. The red `price` detail gives a clear callout to affordability, and a rounded red rectangular `cta_button` hosts the bold white `cta` inviting users to take action. The `subheading` reinforces the product model. A dark blue geometric background and subtle design accents convey modernity and depth.\n\n**Color Palette:**  \n- Midnight Blue: #1A2A4A  \n- Dark Navy: #0F172A  \n- Crimson Red: #E63946  \n- White: #FFFFFF  \n- Graphite Black (for shadows and objects)  \n\n", "product_color": "  \nThe product image features a sleek Fujifilm X-T10 camera characterized by a dominant matte black finish, evoking a professional and high-tech aesthetic. The camera body uses deep black (#0A0A0A) and charcoal gray (#2C2C2C) to emphasize durability and elegance. Accents like the white text (#FFFFFF) and red focal length markings (#FF4C4C) provide visual contrast and guide user attention. The lens glass features subtle greenish-yellow reflections (#BDCFAF, #F2E6A2), blending smoothly into the dark tones while adding depth and dimension. This color palette \u2013 bold, minimalistic, and modern \u2013 creates a refined and dynamic look, ideal for crafting an advertisement banner with sophistication and clarity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A2A4A'/><path d='M0 0L550 0L550 600L0 600Z' fill='#0F172A'/><path d='M550 600L1080 600L1080 1080L550 1080Z' fill='#0F172A'/><circle cx='900' cy='250' r='200' fill='#E63946' opacity='0.1'/><circle cx='200' cy='850' r='150' fill='#E63946' opacity='0.1'/><path d='M0 600L400 600L400 1080L0 1080Z' fill='#152238'/><g opacity='0.05'><path d='M980 50C1030 50 1070 90 1070 140' stroke='#FFFFFF' stroke-width='3'/><path d='M980 70C1020 70 1050 100 1050 140' stroke='#FFFFFF' stroke-width='3'/><path d='M980 90C1010 90 1030 110 1030 140' stroke='#FFFFFF' stroke-width='3'/><path d='M980 110C1000 110 1010 120 1010 140' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.05'><path d='M100 980C50 980 10 940 10 890' stroke='#FFFFFF' stroke-width='3'/><path d='M100 960C60 960 30 930 30 890' stroke='#FFFFFF' stroke-width='3'/><path d='M100 940C70 940 50 920 50 890' stroke='#FFFFFF' stroke-width='3'/><path d='M100 920C80 920 70 910 70 890' stroke='#FFFFFF' stroke-width='3'/></g><g opacity='0.1'><path d='M0 0L1080 0L1080 1080L0 1080Z' fill='none' stroke='#E63946' stroke-width='1'/><line x1='0' y1='60' x2='1080' y2='60' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='120' x2='1080' y2='120' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='180' x2='1080' y2='180' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='240' x2='1080' y2='240' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='300' x2='1080' y2='300' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='360' x2='1080' y2='360' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='420' x2='1080' y2='420' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='480' x2='1080' y2='480' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='540' x2='1080' y2='540' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='600' x2='1080' y2='600' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='660' x2='1080' y2='660' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='720' x2='1080' y2='720' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='780' x2='1080' y2='780' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='840' x2='1080' y2='840' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='900' x2='1080' y2='900' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='960' x2='1080' y2='960' stroke='#E63946' stroke-width='0.5'/><line x1='0' y1='1020' x2='1080' y2='1020' stroke='#E63946' stroke-width='0.5'/><line x1='60' y1='0' x2='60' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='120' y1='0' x2='120' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='180' y1='0' x2='180' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='240' y1='0' x2='240' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='300' y1='0' x2='300' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='360' y1='0' x2='360' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='420' y1='0' x2='420' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='480' y1='0' x2='480' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='540' y1='0' x2='540' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='600' y1='0' x2='600' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='660' y1='0' x2='660' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='720' y1='0' x2='720' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='780' y1='0' x2='780' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='840' y1='0' x2='840' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='900' y1='0' x2='900' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='960' y1='0' x2='960' y2='1080' stroke='#E63946' stroke-width='0.5'/><line x1='1020' y1='0' x2='1020' y2='1080' stroke='#E63946' stroke-width='0.5'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 736.63,
+                "height": 107.35,
+                "fill": "#FFFFFF",
+                "text": "ELEVATE YOUR",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 175,
+                "left": 50,
+                "width": 758.96,
+                "height": 107.35,
+                "fill": "#E63946",
+                "text": "PHOTOGRAPHY",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 50,
+                "width": 666.05,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "CLASSIC DESIGN MEETS MODERN INNOVATION",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 580,
+                "width": 483.65,
+                "height": 179.22,
+                "fill": "#FFFFFF",
+                "text": "\u2022 16.3MP APS-C X-Trans CMOS II Sensor\n\u2022 3.0-inch Tilting LCD Screen\n\u2022 Advanced Autofocus System\n\u2022 Film Simulation Modes",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 870,
+                "left": 50,
+                "width": 364.63,
+                "height": 135.6,
+                "fill": "#E63946",
+                "text": "\u20b9 999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 600,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#E63946",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 966,
+                "left": 636,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 383,
+                "left": 63,
+                "width": 440.8,
+                "height": 447.20000000000005,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/czQDGtWUAVvXxKwb-xjPh_551x559.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 580,
+                "width": 451.22,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "FUJIFILM X-T10 PROFESSIONAL",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Professional Mirrorless Camera - Classic Design Meets Modern Innovation",
+            "description": "\u2022 Premium X-Series mirrorless camera system with classic retro design\n\u2022 Advanced 16.3MP APS-C X-Trans CMOS II Sensor for exceptional image quality\n\u2022 Versatile 3.0-inch tilting LCD screen for flexible shooting angles\n\u2022 High-precision electronic viewfinder with real-time preview\n\u2022 Multiple manual control dials for quick access to essential settings\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing and remote control\n\u2022 Advanced autofocus system with multiple focus points\n\u2022 Compatible with Fujifilm's renowned X-mount lens system\n\u2022 Compact and lightweight design ideal for travel photography\n\u2022 Film simulation modes that recreate classic Fujifilm styles\n\u2022 Full HD video recording capabilities\n\u2022 Durable metal construction with ergonomic grip",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682dac6472fac2891c5c072e/czQDGtWUAVvXxKwb-xjPh_551x559.png",
+        "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+        "layout": "z_pattern"
+    },
+    "banner_details": "  \nThis promotional banner features a modern and professional layout tailored for a tech-savvy audience. It centers around a high-resolution camera image (`product_image`) placed prominently on the left side, balanced by key textual elements on the right. The main headline is split across two impactful text layers: `heading_1` in bold white and `heading_2` in vivid red, enhancing legibility and attention. Below, a sleek `tagline` adds sophistication. The `description` text outlines product features in a bulleted style. The red `price` detail gives a clear callout to affordability, and a rounded red rectangular `cta_button` hosts the bold white `cta` inviting users to take action. The `subheading` reinforces the product model. A dark blue geometric background and subtle design accents convey modernity and depth.\n\n**Color Palette:**  \n- Midnight Blue: #1A2A4A  \n- Dark Navy: #0F172A  \n- Crimson Red: #E63946  \n- White: #FFFFFF  \n- Graphite Black (for shadows and objects)  \n\n",
+    "product_color": "  \nThe product image features a sleek Fujifilm X-T10 camera characterized by a dominant matte black finish, evoking a professional and high-tech aesthetic. The camera body uses deep black (#0A0A0A) and charcoal gray (#2C2C2C) to emphasize durability and elegance. Accents like the white text (#FFFFFF) and red focal length markings (#FF4C4C) provide visual contrast and guide user attention. The lens glass features subtle greenish-yellow reflections (#BDCFAF, #F2E6A2), blending smoothly into the dark tones while adding depth and dimension. This color palette \u2013 bold, minimalistic, and modern \u2013 creates a refined and dynamic look, ideal for crafting an advertisement banner with sophistication and clarity.  \n"
+}

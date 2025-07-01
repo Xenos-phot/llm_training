@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#283b53'/><circle cx='950' cy='150' r='200' fill='#ffce44' opacity='0.3'/><circle cx='150' cy='900' r='230' fill='#ffce44' opacity='0.3'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#008a00' opacity='0.2'/><circle cx='800' cy='400' r='50' fill='#a3afef' opacity='0.4'/><circle cx='200' cy='300' r='60' fill='#a3afef' opacity='0.4'/><path d='M0 850 C180 830 360 870 540 850 C720 830 900 870 1080 850 L1080 1080 L0 1080 L0 850Z' fill='#008a00' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 124.51999999999998, "width": 830.96, "height": 90.4, "fill": "#ffffff", "text": "UNMISSABLE SAVINGS!", "fontSize": 80, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 150, "left": 263.515, "width": 552.97, "height": 56.5, "fill": "#ffce44", "text": "PREMIUM TROPICAL MIX", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 270.25, "left": 394.25, "width": 583, "height": 919, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c96fdaa8821d2bf2a8e0bf/uleK4KpKPIVLUyLpftBQX_583x919.png", "id": "product_image"}, {"type": "text", "top": 760, "left": 244.38, "width": 591.24, "height": 45.2, "fill": "#ffffff", "text": "INDULGE WITHOUT THE GUILT!", "fontSize": 40, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 830, "left": 285.53499999999997, "width": 508.93, "height": 113, "fill": "#ffce44", "text": "40% OFF", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 430.0, "width": 220.00000000000003, "height": 66.0, "fill": "#008a00", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 973.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#ffffff", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Farmley Premium Tropical Savoury Mix - A Perfect Blend of Nuts & Dried Fruits", "description": "\u2022 Premium blend of nuts and dried fruits for a wholesome snacking experience\n\u2022 Contains nutritious mix of almonds, cashews, cranberries, blueberries, and black raisins\n\u2022 Perfectly balanced sweet and savory tropical flavors\n\u2022 Includes exotic ingredients like mango and papaya for unique taste\n\u2022 100% natural ingredients with no artificial additives\n\u2022 Convenient resealable packaging to maintain freshness\n\u2022 Rich in essential nutrients and healthy antioxidants\n\u2022 Perfect for on-the-go snacking or party servings\n\u2022 Vegetarian-friendly product (Green dot certified)\n\u2022 Ideal balance of proteins, healthy fats, and natural sugars", "price": "\u20b90"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c96fdaa8821d2bf2a8e0bf/uleK4KpKPIVLUyLpftBQX_583x919.png", "marketplace_url": "blob:https://studio.phot.ai/57d4dec7-0166-41b3-9379-00e7629f2dd6", "layout": "centered_hero"}, "banner_details": "\nThis promotional banner features a bold and vibrant design centered around a snack product. A rich navy blue background, enhanced with soft circular and wavy abstract shapes, sets a modern and dynamic visual tone. The banner prominently displays the product image (\"product_image\") in the center, surrounded by various compelling text elements. The top features an eye-catching headline (\"heading\") in bold white, followed by a bright yellow subheading (\"subheading\") beneath it. At the bottom, a white tagline (\"tagline\") supports a large yellow discount text (\"price\"), emphasizing the offer. A green call-to-action button (\"cta_button\") with white text (\"cta\") invites users to make a purchase.\n\n**Color Palette:**\n- Navy Blue: `#283b53`\n- Olive Yellow: `#ffce44`\n- Light Periwinkle: `#a3afef`\n- Fresh Green: `#008a00`\n- White: `#ffffff`\n", "product_color": "\nThe product image employs a vibrant and appetizing color palette that effectively draws attention while emphasizing freshness and tropical flavor. The dominant colors include a warm mustard yellow (Hex: #F5AA3D) for the background, conveying warmth and energy, and a deep navy blue (Hex: #1C3E7C) for the branding and text, providing contrast and elegance. The snack mix includes lively accents such as cranberry red (Hex: #A8323E), mango yellow (Hex: #FFC107), creamy cashew white (Hex: #F5E8D7), and almond brown (Hex: #8B5B2B). These hues are strategically blended yet individually highlighted to showcase product diversity and natural appeal\u2014ideal for an energetic promotional banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#283b53'/><circle cx='950' cy='150' r='200' fill='#ffce44' opacity='0.3'/><circle cx='150' cy='900' r='230' fill='#ffce44' opacity='0.3'/><path d='M0 500 C200 480 400 520 600 500 C800 480 1000 520 1080 500 L1080 700 C900 680 700 720 500 700 C300 680 100 720 0 700 L0 500Z' fill='#008a00' opacity='0.2'/><circle cx='800' cy='400' r='50' fill='#a3afef' opacity='0.4'/><circle cx='200' cy='300' r='60' fill='#a3afef' opacity='0.4'/><path d='M0 850 C180 830 360 870 540 850 C720 830 900 870 1080 850 L1080 1080 L0 1080 L0 850Z' fill='#008a00' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 124.51999999999998,
+                "width": 830.96,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "UNMISSABLE SAVINGS!",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 263.515,
+                "width": 552.97,
+                "height": 56.5,
+                "fill": "#ffce44",
+                "text": "PREMIUM TROPICAL MIX",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 270.25,
+                "left": 394.25,
+                "width": 291.5,
+                "height": 459.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c96fdaa8821d2bf2a8e0bf/uleK4KpKPIVLUyLpftBQX_583x919.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 244.38,
+                "width": 591.24,
+                "height": 45.2,
+                "fill": "#ffffff",
+                "text": "INDULGE WITHOUT THE GUILT!",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 285.53499999999997,
+                "width": 508.93,
+                "height": 113,
+                "fill": "#ffce44",
+                "text": "40% OFF",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 430.0,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#008a00",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 973.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#ffffff",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Farmley Premium Tropical Savoury Mix - A Perfect Blend of Nuts & Dried Fruits",
+            "description": "\u2022 Premium blend of nuts and dried fruits for a wholesome snacking experience\n\u2022 Contains nutritious mix of almonds, cashews, cranberries, blueberries, and black raisins\n\u2022 Perfectly balanced sweet and savory tropical flavors\n\u2022 Includes exotic ingredients like mango and papaya for unique taste\n\u2022 100% natural ingredients with no artificial additives\n\u2022 Convenient resealable packaging to maintain freshness\n\u2022 Rich in essential nutrients and healthy antioxidants\n\u2022 Perfect for on-the-go snacking or party servings\n\u2022 Vegetarian-friendly product (Green dot certified)\n\u2022 Ideal balance of proteins, healthy fats, and natural sugars",
+            "price": "\u20b90"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c96fdaa8821d2bf2a8e0bf/uleK4KpKPIVLUyLpftBQX_583x919.png",
+        "marketplace_url": "blob:https://studio.phot.ai/57d4dec7-0166-41b3-9379-00e7629f2dd6",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis promotional banner features a bold and vibrant design centered around a snack product. A rich navy blue background, enhanced with soft circular and wavy abstract shapes, sets a modern and dynamic visual tone. The banner prominently displays the product image (\"product_image\") in the center, surrounded by various compelling text elements. The top features an eye-catching headline (\"heading\") in bold white, followed by a bright yellow subheading (\"subheading\") beneath it. At the bottom, a white tagline (\"tagline\") supports a large yellow discount text (\"price\"), emphasizing the offer. A green call-to-action button (\"cta_button\") with white text (\"cta\") invites users to make a purchase.\n\n**Color Palette:**\n- Navy Blue: `#283b53`\n- Olive Yellow: `#ffce44`\n- Light Periwinkle: `#a3afef`\n- Fresh Green: `#008a00`\n- White: `#ffffff`\n",
+    "product_color": "\nThe product image employs a vibrant and appetizing color palette that effectively draws attention while emphasizing freshness and tropical flavor. The dominant colors include a warm mustard yellow (Hex: #F5AA3D) for the background, conveying warmth and energy, and a deep navy blue (Hex: #1C3E7C) for the branding and text, providing contrast and elegance. The snack mix includes lively accents such as cranberry red (Hex: #A8323E), mango yellow (Hex: #FFC107), creamy cashew white (Hex: #F5E8D7), and almond brown (Hex: #8B5B2B). These hues are strategically blended yet individually highlighted to showcase product diversity and natural appeal\u2014ideal for an energetic promotional banner.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F7'/><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/><defs><linearGradient id='grad1' x1='0' y1='0' x2='1080' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#F5F5F7'/><stop offset='1' stop-color='#E0E0E5'/></linearGradient></defs><circle cx='800' cy='250' r='300' fill='#E8E8F0' opacity='0.7'/><circle cx='200' cy='800' r='250' fill='#E8E8F0' opacity='0.7'/><path d='M0 580 L1080 580 L1080 1080 L0 1080 Z' fill='#444B54' opacity='0.9'/><path d='M0 580 L1080 580 L1080 630 L0 630 Z' fill='#5A6270' opacity='0.9'/><circle cx='900' cy='150' r='60' fill='#64B5F6' opacity='0.4'/><circle cx='850' cy='200' r='30' fill='#2196F3' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 623.36, "height": 101.7, "fill": "#1A237E", "text": "GALAXY S24+", "fontSize": 90, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 180, "left": 60, "width": 620.04, "height": 42.94, "fill": "#455A64", "text": "PREMIUM INNOVATION", "fontSize": 38, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 300, "left": 60, "width": 293.45, "height": 174.02, "fill": "#455A64", "text": "\u2022 50MP Pro-Grade Camera\n\u2022 Powered by Galaxy AI\n\u2022 Stunning 8K Video\n\u2022 All-Day Battery Life", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 60, "width": 166.95, "height": 113, "fill": "#FFFFFF", "text": "$49", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 60, "width": 220, "height": 70, "fill": "#2196F3", "rx": 10, "ry": 10, "id": "cta_button"}, {"type": "text", "top": 940, "left": 100, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 266, "left": 591, "width": 927, "height": 1151, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0c455c55-d510-48ad-a9ef-70de6f7eed22_nobg_927x1151.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+.  Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure.  With Galaxy AI on GalaxyS24+, life just got a whole lot easier &mdash;and a lot more fun. Epic, just like that.", "price": "49"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0c455c55-d510-48ad-a9ef-70de6f7eed22_nobg_927x1151.png", "marketplace_url": "https://www.walmart.com/ip/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray/5276353716", "layout": "split_vertical"}, "banner_details": "\nThis banner design promotes a modern smartphone with a clean, professional layout. It features a minimalistic gradient background with soft circular elements, giving it a tech-forward, elegant aesthetic. The main product image (id: \"product_image\") is positioned to the right, showcasing the sleek design of the phone. The heading (id: \"heading\") appears in bold dark blue uppercase text, creating a strong visual anchor. Directly below, a more refined tagline (id: \"tagline\") adds sophistication. The feature list (id: \"description\") is presented in bullet points, enhancing readability. A bold price highlight (id: \"price\") and call-to-action button (id: \"cta_button\", \"cta\") at the bottom left ensure easy engagement.\n\n**Color Palette:**\n- #F5F5F7 (Background)\n- #E0E0E5 (Gradient secondary)\n- #444B54 (Dark block)\n- #5A6270 (Grey divider)\n- #1A237E (Heading)\n- #455A64 (Tagline and Text)\n- #2196F3 (Button Blue)\n- #64B5F6 (Light Blue Accent)\n\n", "product_color": "\nThe product image showcases a sleek and modern smartphone with a minimalist, elegant design. Dominant colors include a soft matte silver/white tone (#E5E5E5) for the body, a deep black (#000000) around the camera lenses and screen, and accents of soft yellow glow (#F3E9B5) and gentle gray tones (#CFCFCF, #9E9E9E) in the background. The background art blends smooth gradients of gray and yellow with subtle sparkles, adding a premium futuristic feel. These colors merge seamlessly yet pop through contrast\u2014white and black providing high definition, while the muted yellow highlights add warmth and sophistication, perfect for an advertisement promoting innovation and elegance.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F7'/><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/><defs><linearGradient id='grad1' x1='0' y1='0' x2='1080' y2='1080' gradientUnits='userSpaceOnUse'><stop offset='0' stop-color='#F5F5F7'/><stop offset='1' stop-color='#E0E0E5'/></linearGradient></defs><circle cx='800' cy='250' r='300' fill='#E8E8F0' opacity='0.7'/><circle cx='200' cy='800' r='250' fill='#E8E8F0' opacity='0.7'/><path d='M0 580 L1080 580 L1080 1080 L0 1080 Z' fill='#444B54' opacity='0.9'/><path d='M0 580 L1080 580 L1080 630 L0 630 Z' fill='#5A6270' opacity='0.9'/><circle cx='900' cy='150' r='60' fill='#64B5F6' opacity='0.4'/><circle cx='850' cy='200' r='30' fill='#2196F3' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 623.36,
+                "height": 101.7,
+                "fill": "#1A237E",
+                "text": "GALAXY S24+",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 60,
+                "width": 620.04,
+                "height": 42.94,
+                "fill": "#455A64",
+                "text": "PREMIUM INNOVATION",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 60,
+                "width": 293.45,
+                "height": 174.02,
+                "fill": "#455A64",
+                "text": "\u2022 50MP Pro-Grade Camera\n\u2022 Powered by Galaxy AI\n\u2022 Stunning 8K Video\n\u2022 All-Day Battery Life",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 60,
+                "width": 166.95,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$49",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#2196F3",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 940,
+                "left": 100,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 266,
+                "left": 591,
+                "width": 463.5,
+                "height": 575.5,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0c455c55-d510-48ad-a9ef-70de6f7eed22_nobg_927x1151.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Plus-up your day with Galaxy AI on Galaxy S24+. Wonder where your favorite influencer got their shoes? Simply Circle to Search* with Google to see where you can buy your own pair. Then snap a photo to show off your new kicks and elevate your pic from good to great on Galaxy S24+.  Before you head out in style, call up that new authentic Japanese restaurant to make a reservation and impress the staff as you use Live Translate* to speak their language in real time. And with our most powerful processor yet, you can smoothly switch between texting friends, taking photos of your food and searching for your next culinary adventure.  With Galaxy AI on GalaxyS24+, life just got a whole lot easier &mdash;and a lot more fun. Epic, just like that.",
+            "price": "49"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0c455c55-d510-48ad-a9ef-70de6f7eed22_nobg_927x1151.png",
+        "marketplace_url": "https://www.walmart.com/ip/Samsung-Galaxy-S24-256GB-US-Version-Unlocked-Android-Smartphone-with-50MP-Camera-8K-Video-Long-Battery-Marble-Gray/5276353716",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design promotes a modern smartphone with a clean, professional layout. It features a minimalistic gradient background with soft circular elements, giving it a tech-forward, elegant aesthetic. The main product image (id: \"product_image\") is positioned to the right, showcasing the sleek design of the phone. The heading (id: \"heading\") appears in bold dark blue uppercase text, creating a strong visual anchor. Directly below, a more refined tagline (id: \"tagline\") adds sophistication. The feature list (id: \"description\") is presented in bullet points, enhancing readability. A bold price highlight (id: \"price\") and call-to-action button (id: \"cta_button\", \"cta\") at the bottom left ensure easy engagement.\n\n**Color Palette:**\n- #F5F5F7 (Background)\n- #E0E0E5 (Gradient secondary)\n- #444B54 (Dark block)\n- #5A6270 (Grey divider)\n- #1A237E (Heading)\n- #455A64 (Tagline and Text)\n- #2196F3 (Button Blue)\n- #64B5F6 (Light Blue Accent)\n\n",
+    "product_color": "\nThe product image showcases a sleek and modern smartphone with a minimalist, elegant design. Dominant colors include a soft matte silver/white tone (#E5E5E5) for the body, a deep black (#000000) around the camera lenses and screen, and accents of soft yellow glow (#F3E9B5) and gentle gray tones (#CFCFCF, #9E9E9E) in the background. The background art blends smooth gradients of gray and yellow with subtle sparkles, adding a premium futuristic feel. These colors merge seamlessly yet pop through contrast\u2014white and black providing high definition, while the muted yellow highlights add warmth and sophistication, perfect for an advertisement promoting innovation and elegance.\n"
+}

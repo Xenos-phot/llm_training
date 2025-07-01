@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><path d='M0 0 L1080 0 L1080 250 Q900 280 700 260 Q500 240 300 280 Q100 300 0 260 L0 0Z' fill='#D50032' opacity='0.9'/><path d='M0 900 Q200 870 400 890 Q600 910 800 880 Q1000 850 1080 880 L1080 1080 L0 1080 L0 900Z' fill='#D50032' opacity='0.9'/><circle cx='950' cy='150' r='100' fill='#FFFFFF' opacity='0.2'/><circle cx='120' cy='950' r='80' fill='#FFFFFF' opacity='0.2'/><path d='M20,280 L120,320 L220,280' stroke='#D50032' stroke-width='3' fill='none' opacity='0.7'/><path d='M860,780 L960,820 L1060,780' stroke='#D50032' stroke-width='3' fill='none' opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 202.51, "width": 674.98, "height": 124.3, "fill": "#FFFFFF", "text": "PRECISION", "fontSize": 110, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 286.05, "width": 507.9, "height": 45.2, "fill": "#FFFFFF", "text": "ADIZERO RECEIVER GLOVES", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 260.75500000000005, "left": 358.20000000000005, "width": 940, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png", "id": "product_image"}, {"type": "text", "top": 798.3, "left": 361.68, "width": 356.64, "height": 101.7, "fill": "#2D2D2D", "text": "$50.00", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 930, "left": 440.0, "width": 200, "height": 60, "fill": "#D50032", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 943.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Always be ready to play with the Adizero 11 Receiver\u2019s Gloves from adidas! Designed to provide exceptional comfort and grip to keep up with intense gameplay. This glove features box fingertip construction to deliver an unbeatable fit for your fingertips, without any pinching or tightness. It includes a custom injection molded rubber tab with no-snag hook and loop closure to make sure it is always secure. Enhance your game with the Adizero 11 Football Gloves for receivers! Our football receiver gloves are carefully made with engineered PrimeKnit Mesh to provide the structure, support, and performance you deserve. They are designed with GripTack - an exclusive palm treatment that ensures amazing grip and performance in all weather conditions, while AeroReady technology wicks away moisture and keeps your hands cool and dry. Plus, our receiver gloves include 4-way stretch multi-dimensional fabric that naturally mimics the movements and motion of your hand, delivering supreme accuracy that will keep you ready for the next play. All adidas football gloves are certified to meet SFIA specifications required for in-game use. Experience each play like never before with the Adizero 11 Gloves! 35% Polyester, 34% Nylon, 17% Silicone, 11% Spandex, 3% Chloroprene Rubber Imported READY TO PLAY: Always be ready for every game with the adidas Adizero 11 Receiver Gloves for Football! Designed with exclusive technology, high-quality materials, and exceptional comfort, these football gloves will keep you prepared for any play. UNBEATABLE GRIP: Our durable football gloves feature GripTack - an adidas exclusive palm treatment that provides unparalleled grip and performance in all weather conditions. You will be able to rely on these gloves to help expertly catch every ball! AEROREADY: Never fumble with sweaty palms again with these adult football gloves. Featuring AEROREADY technology on the back of the hand and fourchette material, our exclusive gloves provide amazing moisture wicking to keep your hands dry and cool. DESIGNED FOR COMFORT: Engineered with 11.0 PrimeKnit mesh, these superior football gloves deliver optimal structure, support, and performance. They have an ergonomically designed pattern to fully mimic natural hand movements and motion. THE PERFECT FOOTBALL GLOVE: Custom fit features for high-level performance such as a compression fit, venting without binding, breathability, dexterity, flexibility, superior fingertip construction, increased range of motion and a no-snag hook and loop closure for a perfect fit. Brand - adidas ** Material - Polyester, Nylon ** Size - Medium ** Sport - Football ** Age Range (Description) - Adult ** Color - Black/White ** Special Feature - Ther, Moisture Wicking, Breathable ** Hand Orientation - Ambidextrous ** Item Package Quantity - 1 ** Product Care Instructions - Hand Wash Only **", "price": "$50.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08ZWBFN5K", "layout": "minimalist_center"}, "banner_details": "\nThis banner showcases a dynamic and sporty product advertisement design with a central focus on a product image prominently placed in the middle. The background features soft, curved wave shapes on the top and bottom, with circular faded accents and angular details that create a bold and energetic mood. At the top, a high-impact text layer labeled `heading` conveys the product's theme, followed by a clean supporting line labeled `subheading`. The price is emphasized in a bold, dark font (`price`), located below the product. A call-to-action button at the bottom right, constructed from two layers (`cta_background` and `cta`), encourages user interaction.\n\n**Color Palette:**\n- Crimson Red: #D50032 (highlights and CTA elements)\n- Pure White: #FFFFFF (text and accents)\n- Light Gray: #F5F5F5 (background base)\n- Charcoal Black: #2D2D2D (price text)\n", "product_color": "\nThe product image showcases a stylish Adidas glove, predominantly using a clean white base (#F8F8F8) with striking red accents (#B30838). The red perforation details, logo, and inner lining contrast sharply against the matte white exterior, creating a bold and sporty aesthetic. The red is subtly blended into the design via textured patterns and fine detailing, maintaining harmony without overpowering the minimalistic white. A hint of metallic gold (#C49A6C) outlining the logo adds a touch of sophistication and premium feel. This color palette \u2013 white, red, and gold \u2013 can be used to design an energetic, high-performance themed advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F5'/><path d='M0 0 L1080 0 L1080 250 Q900 280 700 260 Q500 240 300 280 Q100 300 0 260 L0 0Z' fill='#D50032' opacity='0.9'/><path d='M0 900 Q200 870 400 890 Q600 910 800 880 Q1000 850 1080 880 L1080 1080 L0 1080 L0 900Z' fill='#D50032' opacity='0.9'/><circle cx='950' cy='150' r='100' fill='#FFFFFF' opacity='0.2'/><circle cx='120' cy='950' r='80' fill='#FFFFFF' opacity='0.2'/><path d='M20,280 L120,320 L220,280' stroke='#D50032' stroke-width='3' fill='none' opacity='0.7'/><path d='M860,780 L960,820 L1060,780' stroke='#D50032' stroke-width='3' fill='none' opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 202.51,
+                "width": 674.98,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "PRECISION",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 286.05,
+                "width": 507.9,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "ADIZERO RECEIVER GLOVES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 260.75500000000005,
+                "left": 358.20000000000005,
+                "width": 347.8,
+                "height": 532.43,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 798.3,
+                "left": 361.68,
+                "width": 356.64,
+                "height": 101.7,
+                "fill": "#2D2D2D",
+                "text": "$50.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#D50032",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 943.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Always be ready to play with the Adizero 11 Receiver\u2019s Gloves from adidas! Designed to provide exceptional comfort and grip to keep up with intense gameplay. This glove features box fingertip construction to deliver an unbeatable fit for your fingertips, without any pinching or tightness. It includes a custom injection molded rubber tab with no-snag hook and loop closure to make sure it is always secure. Enhance your game with the Adizero 11 Football Gloves for receivers! Our football receiver gloves are carefully made with engineered PrimeKnit Mesh to provide the structure, support, and performance you deserve. They are designed with GripTack - an exclusive palm treatment that ensures amazing grip and performance in all weather conditions, while AeroReady technology wicks away moisture and keeps your hands cool and dry. Plus, our receiver gloves include 4-way stretch multi-dimensional fabric that naturally mimics the movements and motion of your hand, delivering supreme accuracy that will keep you ready for the next play. All adidas football gloves are certified to meet SFIA specifications required for in-game use. Experience each play like never before with the Adizero 11 Gloves! 35% Polyester, 34% Nylon, 17% Silicone, 11% Spandex, 3% Chloroprene Rubber Imported READY TO PLAY: Always be ready for every game with the adidas Adizero 11 Receiver Gloves for Football! Designed with exclusive technology, high-quality materials, and exceptional comfort, these football gloves will keep you prepared for any play. UNBEATABLE GRIP: Our durable football gloves feature GripTack - an adidas exclusive palm treatment that provides unparalleled grip and performance in all weather conditions. You will be able to rely on these gloves to help expertly catch every ball! AEROREADY: Never fumble with sweaty palms again with these adult football gloves. Featuring AEROREADY technology on the back of the hand and fourchette material, our exclusive gloves provide amazing moisture wicking to keep your hands dry and cool. DESIGNED FOR COMFORT: Engineered with 11.0 PrimeKnit mesh, these superior football gloves deliver optimal structure, support, and performance. They have an ergonomically designed pattern to fully mimic natural hand movements and motion. THE PERFECT FOOTBALL GLOVE: Custom fit features for high-level performance such as a compression fit, venting without binding, breathability, dexterity, flexibility, superior fingertip construction, increased range of motion and a no-snag hook and loop closure for a perfect fit. Brand - adidas ** Material - Polyester, Nylon ** Size - Medium ** Sport - Football ** Age Range (Description) - Adult ** Color - Black/White ** Special Feature - Ther, Moisture Wicking, Breathable ** Hand Orientation - Ambidextrous ** Item Package Quantity - 1 ** Product Care Instructions - Hand Wash Only **",
+            "price": "$50.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/d1c20838-e401-4b77-b6c8-3c2bf267f884_nobg_940x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08ZWBFN5K",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner showcases a dynamic and sporty product advertisement design with a central focus on a product image prominently placed in the middle. The background features soft, curved wave shapes on the top and bottom, with circular faded accents and angular details that create a bold and energetic mood. At the top, a high-impact text layer labeled `heading` conveys the product's theme, followed by a clean supporting line labeled `subheading`. The price is emphasized in a bold, dark font (`price`), located below the product. A call-to-action button at the bottom right, constructed from two layers (`cta_background` and `cta`), encourages user interaction.\n\n**Color Palette:**\n- Crimson Red: #D50032 (highlights and CTA elements)\n- Pure White: #FFFFFF (text and accents)\n- Light Gray: #F5F5F5 (background base)\n- Charcoal Black: #2D2D2D (price text)\n",
+    "product_color": "\nThe product image showcases a stylish Adidas glove, predominantly using a clean white base (#F8F8F8) with striking red accents (#B30838). The red perforation details, logo, and inner lining contrast sharply against the matte white exterior, creating a bold and sporty aesthetic. The red is subtly blended into the design via textured patterns and fine detailing, maintaining harmony without overpowering the minimalistic white. A hint of metallic gold (#C49A6C) outlining the logo adds a touch of sophistication and premium feel. This color palette \u2013 white, red, and gold \u2013 can be used to design an energetic, high-performance themed advertisement banner.\n"
+}

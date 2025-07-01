@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1a1a1a;stop-opacity:1' /><stop offset='100%' style='stop-color:#333333;stop-opacity:1' /></linearGradient><filter id='noise' x='0%' y='0%' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.04' numOctaves='5' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/><feComponentTransfer><feFuncR type='linear' slope='0.2'/><feFuncG type='linear' slope='0.2'/><feFuncB type='linear' slope='0.2'/></feComponentTransfer><feBlend in='SourceGraphic' mode='overlay'/></filter></defs><rect width='1080' height='1080' fill='url(#grad1)' filter='url(#noise)'/><g opacity='0.7'><circle cx='540' cy='540' r='300' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='250' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='200' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='150' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/></g><g opacity='0.6'><path d='M50,200 L150,200' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,250 L200,250' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,300 L120,300' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M930,200 L1030,200' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M880,250 L1030,250' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M960,300 L1030,300' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,780 L150,780' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,830 L200,830' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,880 L120,880' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M930,780 L1030,780' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M880,830 L1030,830' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M960,880 L1030,880' stroke='#666666' stroke-width='1' opacity='0.5'/></g><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)' opacity='0.5'/><g opacity='0.8'><circle cx='100' cy='100' r='2' fill='#ffffff'/><circle cx='150' cy='120' r='2' fill='#ffffff'/><circle cx='200' cy='80' r='2' fill='#ffffff'/><circle cx='980' cy='100' r='2' fill='#ffffff'/><circle cx='930' cy='120' r='2' fill='#ffffff'/><circle cx='880' cy='80' r='2' fill='#ffffff'/><circle cx='100' cy='980' r='2' fill='#ffffff'/><circle cx='150' cy='930' r='2' fill='#ffffff'/><circle cx='200' cy='960' r='2' fill='#ffffff'/><circle cx='980' cy='980' r='2' fill='#ffffff'/><circle cx='930' cy='930' r='2' fill='#ffffff'/><circle cx='880' cy='960' r='2' fill='#ffffff'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 305.71000000000004, "width": 468.58, "height": 79.1, "fill": "#FFFFFF", "text": "FUJIFILM X-T10", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 150.06, "width": 779.88, "height": 45.2, "fill": "#E6E6E6", "text": "Professional Photography Made Accessible", "fontSize": 40, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 256.4, "left": 319.6, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/SDzwt7gFMZ7cRa4GXp83X_551x559.png", "id": "product_image"}, {"type": "text", "top": 730, "left": 158.73000000000002, "width": 762.54, "height": 22.6, "fill": "#CCCCCC", "text": "X-Trans CMOS II Sensor \u2022 Classic Design \u2022 WiFi Connectivity \u2022 Full HD Video", "fontSize": 20, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 800, "left": 453.32, "width": 173.36, "height": 90.4, "fill": "#FFB800", "text": "\u20b9 899", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 900, "left": 430.0, "width": 220, "height": 60, "fill": "#FFFFFF", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 917, "left": 477.315, "width": 125.37, "height": 27.12, "fill": "#000000", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible", "description": "\u2022 Classic retro-styled compact mirrorless camera design\n\u2022 Advanced X-Trans CMOS II sensor for exceptional image quality\n\u2022 Versatile interchangeable lens system compatibility\n\u2022 Precision-engineered manual control dials for intuitive operation\n\u2022 High-performance autofocus system for quick and accurate focusing\n\u2022 Built-in electronic viewfinder for precise composition\n\u2022 Durable metal construction with ergonomic grip\n\u2022 WiFi connectivity for easy photo sharing and remote control\n\u2022 Full HD video recording capabilities\n\u2022 Compatible with Fujifilm's renowned X-mount lens collection\n\u2022 Compact and lightweight design perfect for travel photography\n\u2022 Advanced shooting modes and creative filters", "price": "\u20b9899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/SDzwt7gFMZ7cRa4GXp83X_551x559.png", "marketplace_url": "", "layout": "centered_hero"}, "banner_details": "\nThe banner features a modern, sleek promotional layout for a digital camera, centered on a dark gradient background with subtle noise and fine geometric circles for depth. The headline (id: \"heading\") is prominently displayed in bold white, drawing attention at the top. Just below it, the subheadline (id: \"subheading\") adds a soft, elegant line in light gray, complementing the headline. At the center, a high-quality product image (id: \"product_image\") is featured, making it the focal point of the design. Beneath the image, product features are listed in small uppercase text (id: \"description\"). A bold, eye-catching price (id: \"price\") in yellow is shown above a strong call-to-action button, with a white background and black text (ids: \"cta_background\" and \"cta\").\n\n**Color Palette:**\n- Background gradient: #1a1a1a to #333333\n- Headline Text: #FFFFFF\n- Subheadline Text: #E6E6E6\n- Feature Description Text: #CCCCCC\n- Price Text: #FFB800 (yellow)\n- CTA Button Background: #FFFFFF\n- CTA Text: #000000\n", "product_color": "\nThe product image of the Fujifilm X-T10 camera showcases a sleek, professional design dominated by matte and glossy blacks. The color palette is mostly monochromatic with subtle highlights. Key tones include deep black (#0D0D0D) for the body, graphite gray (#2E2E2E) on the textured grip, and metallic silver (#BFBFBF) on the dials and lens rings. Accents like the red \"5.6\" marking (#C0392B) and orange \"XF\" logo (#E67E22) add visual interest without disrupting the elegance. The lens coating reflects faint greenish-yellow (#A3C46D), subtly enhancing depth. This balanced combination of neutrals and highlights makes a strong foundation for a sophisticated advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1a1a1a;stop-opacity:1' /><stop offset='100%' style='stop-color:#333333;stop-opacity:1' /></linearGradient><filter id='noise' x='0%' y='0%' width='100%' height='100%'><feTurbulence type='fractalNoise' baseFrequency='0.04' numOctaves='5' stitchTiles='stitch'/><feColorMatrix type='saturate' values='0'/><feComponentTransfer><feFuncR type='linear' slope='0.2'/><feFuncG type='linear' slope='0.2'/><feFuncB type='linear' slope='0.2'/></feComponentTransfer><feBlend in='SourceGraphic' mode='overlay'/></filter></defs><rect width='1080' height='1080' fill='url(#grad1)' filter='url(#noise)'/><g opacity='0.7'><circle cx='540' cy='540' r='300' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='250' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='200' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/><circle cx='540' cy='540' r='150' fill='none' stroke='#444444' stroke-width='1' opacity='0.3'/></g><g opacity='0.6'><path d='M50,200 L150,200' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,250 L200,250' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,300 L120,300' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M930,200 L1030,200' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M880,250 L1030,250' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M960,300 L1030,300' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,780 L150,780' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,830 L200,830' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M50,880 L120,880' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M930,780 L1030,780' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M880,830 L1030,830' stroke='#666666' stroke-width='1' opacity='0.5'/><path d='M960,880 L1030,880' stroke='#666666' stroke-width='1' opacity='0.5'/></g><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)' opacity='0.5'/><g opacity='0.8'><circle cx='100' cy='100' r='2' fill='#ffffff'/><circle cx='150' cy='120' r='2' fill='#ffffff'/><circle cx='200' cy='80' r='2' fill='#ffffff'/><circle cx='980' cy='100' r='2' fill='#ffffff'/><circle cx='930' cy='120' r='2' fill='#ffffff'/><circle cx='880' cy='80' r='2' fill='#ffffff'/><circle cx='100' cy='980' r='2' fill='#ffffff'/><circle cx='150' cy='930' r='2' fill='#ffffff'/><circle cx='200' cy='960' r='2' fill='#ffffff'/><circle cx='980' cy='980' r='2' fill='#ffffff'/><circle cx='930' cy='930' r='2' fill='#ffffff'/><circle cx='880' cy='960' r='2' fill='#ffffff'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 305.71000000000004,
+                "width": 468.58,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "FUJIFILM X-T10",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 150.06,
+                "width": 779.88,
+                "height": 45.2,
+                "fill": "#E6E6E6",
+                "text": "Professional Photography Made Accessible",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 256.4,
+                "left": 319.6,
+                "width": 440.8,
+                "height": 447.20000000000005,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/SDzwt7gFMZ7cRa4GXp83X_551x559.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 158.73000000000002,
+                "width": 762.54,
+                "height": 22.6,
+                "fill": "#CCCCCC",
+                "text": "X-Trans CMOS II Sensor \u2022 Classic Design \u2022 WiFi Connectivity \u2022 Full HD Video",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 453.32,
+                "width": 173.36,
+                "height": 90.4,
+                "fill": "#FFB800",
+                "text": "\u20b9 899",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFFFFF",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 917,
+                "left": 477.315,
+                "width": 125.37,
+                "height": 27.12,
+                "fill": "#000000",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible",
+            "description": "\u2022 Classic retro-styled compact mirrorless camera design\n\u2022 Advanced X-Trans CMOS II sensor for exceptional image quality\n\u2022 Versatile interchangeable lens system compatibility\n\u2022 Precision-engineered manual control dials for intuitive operation\n\u2022 High-performance autofocus system for quick and accurate focusing\n\u2022 Built-in electronic viewfinder for precise composition\n\u2022 Durable metal construction with ergonomic grip\n\u2022 WiFi connectivity for easy photo sharing and remote control\n\u2022 Full HD video recording capabilities\n\u2022 Compatible with Fujifilm's renowned X-mount lens collection\n\u2022 Compact and lightweight design perfect for travel photography\n\u2022 Advanced shooting modes and creative filters",
+            "price": "\u20b9899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/SDzwt7gFMZ7cRa4GXp83X_551x559.png",
+        "marketplace_url": "",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner features a modern, sleek promotional layout for a digital camera, centered on a dark gradient background with subtle noise and fine geometric circles for depth. The headline (id: \"heading\") is prominently displayed in bold white, drawing attention at the top. Just below it, the subheadline (id: \"subheading\") adds a soft, elegant line in light gray, complementing the headline. At the center, a high-quality product image (id: \"product_image\") is featured, making it the focal point of the design. Beneath the image, product features are listed in small uppercase text (id: \"description\"). A bold, eye-catching price (id: \"price\") in yellow is shown above a strong call-to-action button, with a white background and black text (ids: \"cta_background\" and \"cta\").\n\n**Color Palette:**\n- Background gradient: #1a1a1a to #333333\n- Headline Text: #FFFFFF\n- Subheadline Text: #E6E6E6\n- Feature Description Text: #CCCCCC\n- Price Text: #FFB800 (yellow)\n- CTA Button Background: #FFFFFF\n- CTA Text: #000000\n",
+    "product_color": "\nThe product image of the Fujifilm X-T10 camera showcases a sleek, professional design dominated by matte and glossy blacks. The color palette is mostly monochromatic with subtle highlights. Key tones include deep black (#0D0D0D) for the body, graphite gray (#2E2E2E) on the textured grip, and metallic silver (#BFBFBF) on the dials and lens rings. Accents like the red \"5.6\" marking (#C0392B) and orange \"XF\" logo (#E67E22) add visual interest without disrupting the elegance. The lens coating reflects faint greenish-yellow (#A3C46D), subtly enhancing depth. This balanced combination of neutrals and highlights makes a strong foundation for a sophisticated advertisement banner.\n"
+}

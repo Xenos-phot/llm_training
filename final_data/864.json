@@ -1,1 +1,146 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#001F3F'/><stop offset='100%' style='stop-color:#0074D9'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#39CCCC'/><stop offset='100%' style='stop-color:#7FDBFF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><g opacity='0.1' fill='#ffffff'><circle cx='200' cy='200' r='5'/><circle cx='220' cy='220' r='5'/><circle cx='240' cy='240' r='5'/><circle cx='260' cy='260' r='5'/><circle cx='280' cy='280' r='5'/><circle cx='300' cy='300' r='5'/><circle cx='320' cy='320' r='5'/><circle cx='340' cy='340' r='5'/><circle cx='360' cy='360' r='5'/><circle cx='800' cy='800' r='5'/><circle cx='820' cy='820' r='5'/><circle cx='840' cy='840' r='5'/><circle cx='860' cy='860' r='5'/><circle cx='880' cy='880' r='5'/><circle cx='900' cy='900' r='5'/><circle cx='920' cy='920' r='5'/><circle cx='940' cy='940' r='5'/><circle cx='960' cy='960' r='5'/></g><path d='M400,0 L500,100 L600,0 Z' fill='#ffffff' opacity='0.05'/><path d='M0,400 L100,500 L0,600 Z' fill='#ffffff' opacity='0.05'/><path d='M1080,400 L980,500 L1080,600 Z' fill='#001F3F' opacity='0.2'/><rect x='490' y='0' width='100' height='1080' transform='rotate(45 540 540)' fill='#ffffff' opacity='0.03'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 40, "width": 502.78, "height": 237.3, "fill": "#ffffff", "text": "FLASH SALE\nENDING SOON!", "fontSize": 100, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 280, "left": 40, "width": 446.93, "height": 67.8, "fill": "#7FDBFF", "text": "GALAXY A55 5G", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 40, "width": 480.94, "height": 188.03, "fill": "#ffffff", "text": "\u2022 8GB RAM + 128GB Storage\n\u2022 50MP Main Camera with OIS\n\u2022 Metal Frame & IP67 Water Resistant\n\u2022 sAMOLED with Vision Booster", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 610, "left": 40, "width": 346.85, "height": 31.64, "fill": "#FF851B", "text": "LIMITED STOCK AVAILABLE!", "fontSize": 28, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 700, "left": 40, "width": 364.56, "height": 90.4, "fill": "#ffffff", "text": "\u20b926,999", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 830, "left": 40, "width": 230, "height": 70, "fill": "#FF4136", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 850, "left": 85, "width": 134.88, "height": 33.9, "fill": "#ffffff", "text": "BUY NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "rect", "top": 920, "left": 40, "width": 300, "height": 50, "fill": "#7FDBFF", "rx": 5, "ry": 5, "id": "offer_overlay"}, {"type": "text", "top": 932, "left": 70, "width": 262.38, "height": 27.12, "fill": "#ffffff", "text": "OFFER ENDS IN 24 HRS", "fontSize": 24, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "offer_timer"}, {"type": "image", "top": 292, "left": 574, "width": 839, "height": 1063, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/Oi6b8zEr-3re3zSI3ZB4d_839x1063.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Samsung Galaxy A55 5G (Awesome Iceblue, 8GB RAM, 128GB Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster", "description": "OS: Android 14. RAM: 8 GB. Package Dimensions: 17.7 x 9.3 x 2.7 cm; 213 g. Batteries: 1 Lithium Ion batteries required. (included). Wireless communication technologies: Bluetooth, Wi-Fi. Connectivity technologies: Bluetooth, Wi-Fi, USB, NFC. GPS: True. Special features: Fast Charging Support, Dual SIM, Always On Display, Built-In GPS, Mobile Hotspot Capability. Other display features: Wireless. Device interface - primary: Touchscreen. Resolution: FHD+ 2340 x 1080. Other camera features: Rear, Front. Audio Jack: USB Type C. Form factor: Bar. Colour: Awesome Iceblue. Battery Power Rating: 5000 Milliamp Hours. Whats in the box: Smartphone,Data Cable (Type C-to-C),SIM Ejector Pin,Quick Start Guide,,. Country of Origin: India. Item Weight: 213 g. Importer: Samsung India Electronics Pvt. Ltd. having its Registered Office at: 6th Floor, DLF Centre, Sansad Marg, New Delhi \u2013 110001 Email us at: support.india@samsung.com Tel (Toll Free): 1800 40 7267864. Net Quantity: 1 Count. Generic Name: Smartphone.", "price": "\u20b926999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/Oi6b8zEr-3re3zSI3ZB4d_839x1063.png", "marketplace_url": "", "layout": "diagonal_split"}, "banner_details": "\nThe banner features a bold promotional design focused on a smartphone flash sale. The background consists of a dual diagonal color split with deep navy blue to cyan gradient and subtle geometric overlays. At the top left, a large, high-impact heading (`heading`) captures attention in white bold text. Just below, a stylish subheading (`subheading`) in light cyan introduces the product name. A feature list (`description`) follows in smaller white text. A highlighted orange tagline (`tagline`) emphasizes urgency. The price (`price`) is prominently displayed in large white font. A red rounded button (`cta_background` and `cta`) invites immediate action, while a semi-transparent offer bar (`offer_overlay` and `offer_timer`) below reinforces limited-time urgency. A high-resolution product image (`product_image`) is placed on the right, extending visual appeal.\n\n**Color Palette:**\n- Navy Blue: `#001F3F`\n- Sky Blue: `#0074D9`\n- Cyan: `#7FDBFF`\n- Orange: `#FF851B`\n- Red: `#FF4136`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image of the Samsung Galaxy A55 5G features a cool, refined color palette dominated by icy blue and ethereal purples. The back panel uses a pearl white (#F3F8FC) with subtle hints of silver (#D6E5F2), giving it a sleek, premium appearance. The camera rings and branding are accented in slate gray (#2D2D2D). The display showcases a vibrant mix of deep indigo (#4B5BBF) and violet (#A087FB), fading into dreamy pastel hues with soft gradients of lavender (#DCCEF9) and light cyan (#CFF4F9). This color blending offers visual depth while accentuating brightness, making it ideal for tech-focused, futuristic advertisement banners.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#001F3F'/><stop offset='100%' style='stop-color:#0074D9'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#39CCCC'/><stop offset='100%' style='stop-color:#7FDBFF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><g opacity='0.1' fill='#ffffff'><circle cx='200' cy='200' r='5'/><circle cx='220' cy='220' r='5'/><circle cx='240' cy='240' r='5'/><circle cx='260' cy='260' r='5'/><circle cx='280' cy='280' r='5'/><circle cx='300' cy='300' r='5'/><circle cx='320' cy='320' r='5'/><circle cx='340' cy='340' r='5'/><circle cx='360' cy='360' r='5'/><circle cx='800' cy='800' r='5'/><circle cx='820' cy='820' r='5'/><circle cx='840' cy='840' r='5'/><circle cx='860' cy='860' r='5'/><circle cx='880' cy='880' r='5'/><circle cx='900' cy='900' r='5'/><circle cx='920' cy='920' r='5'/><circle cx='940' cy='940' r='5'/><circle cx='960' cy='960' r='5'/></g><path d='M400,0 L500,100 L600,0 Z' fill='#ffffff' opacity='0.05'/><path d='M0,400 L100,500 L0,600 Z' fill='#ffffff' opacity='0.05'/><path d='M1080,400 L980,500 L1080,600 Z' fill='#001F3F' opacity='0.2'/><rect x='490' y='0' width='100' height='1080' transform='rotate(45 540 540)' fill='#ffffff' opacity='0.03'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 40,
+                "width": 502.78,
+                "height": 237.3,
+                "fill": "#ffffff",
+                "text": "FLASH SALE\nENDING SOON!",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 40,
+                "width": 446.93,
+                "height": 67.8,
+                "fill": "#7FDBFF",
+                "text": "GALAXY A55 5G",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 40,
+                "width": 480.94,
+                "height": 188.03,
+                "fill": "#ffffff",
+                "text": "\u2022 8GB RAM + 128GB Storage\n\u2022 50MP Main Camera with OIS\n\u2022 Metal Frame & IP67 Water Resistant\n\u2022 sAMOLED with Vision Booster",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 40,
+                "width": 346.85,
+                "height": 31.64,
+                "fill": "#FF851B",
+                "text": "LIMITED STOCK AVAILABLE!",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 700,
+                "left": 40,
+                "width": 364.56,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "\u20b926,999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 830,
+                "left": 40,
+                "width": 230,
+                "height": 70,
+                "fill": "#FF4136",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 85,
+                "width": 134.88,
+                "height": 33.9,
+                "fill": "#ffffff",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 40,
+                "width": 300,
+                "height": 50,
+                "fill": "#7FDBFF",
+                "rx": 5,
+                "ry": 5,
+                "id": "offer_overlay"
+            },
+            {
+                "type": "text",
+                "top": 932,
+                "left": 70,
+                "width": 262.38,
+                "height": 27.12,
+                "fill": "#ffffff",
+                "text": "OFFER ENDS IN 24 HRS",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "offer_timer"
+            },
+            {
+                "type": "image",
+                "top": 292,
+                "left": 574,
+                "width": 461.45000000000005,
+                "height": 584.6500000000001,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/Oi6b8zEr-3re3zSI3ZB4d_839x1063.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Samsung Galaxy A55 5G (Awesome Iceblue, 8GB RAM, 128GB Storage) | Metal Frame | 50 MP Main Camera (OIS) | Nightography | IP67 | Corning Gorilla Glass Victus+ | sAMOLED with Vision Booster",
+            "description": "OS: Android 14. RAM: 8 GB. Package Dimensions: 17.7 x 9.3 x 2.7 cm; 213 g. Batteries: 1 Lithium Ion batteries required. (included). Wireless communication technologies: Bluetooth, Wi-Fi. Connectivity technologies: Bluetooth, Wi-Fi, USB, NFC. GPS: True. Special features: Fast Charging Support, Dual SIM, Always On Display, Built-In GPS, Mobile Hotspot Capability. Other display features: Wireless. Device interface - primary: Touchscreen. Resolution: FHD+ 2340 x 1080. Other camera features: Rear, Front. Audio Jack: USB Type C. Form factor: Bar. Colour: Awesome Iceblue. Battery Power Rating: 5000 Milliamp Hours. Whats in the box: Smartphone,Data Cable (Type C-to-C),SIM Ejector Pin,Quick Start Guide,,. Country of Origin: India. Item Weight: 213 g. Importer: Samsung India Electronics Pvt. Ltd. having its Registered Office at: 6th Floor, DLF Centre, Sansad Marg, New Delhi \u2013 110001 Email us at: support.india@samsung.com Tel (Toll Free): 1800 40 7267864. Net Quantity: 1 Count. Generic Name: Smartphone.",
+            "price": "\u20b926999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/Oi6b8zEr-3re3zSI3ZB4d_839x1063.png",
+        "marketplace_url": "",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner features a bold promotional design focused on a smartphone flash sale. The background consists of a dual diagonal color split with deep navy blue to cyan gradient and subtle geometric overlays. At the top left, a large, high-impact heading (`heading`) captures attention in white bold text. Just below, a stylish subheading (`subheading`) in light cyan introduces the product name. A feature list (`description`) follows in smaller white text. A highlighted orange tagline (`tagline`) emphasizes urgency. The price (`price`) is prominently displayed in large white font. A red rounded button (`cta_background` and `cta`) invites immediate action, while a semi-transparent offer bar (`offer_overlay` and `offer_timer`) below reinforces limited-time urgency. A high-resolution product image (`product_image`) is placed on the right, extending visual appeal.\n\n**Color Palette:**\n- Navy Blue: `#001F3F`\n- Sky Blue: `#0074D9`\n- Cyan: `#7FDBFF`\n- Orange: `#FF851B`\n- Red: `#FF4136`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image of the Samsung Galaxy A55 5G features a cool, refined color palette dominated by icy blue and ethereal purples. The back panel uses a pearl white (#F3F8FC) with subtle hints of silver (#D6E5F2), giving it a sleek, premium appearance. The camera rings and branding are accented in slate gray (#2D2D2D). The display showcases a vibrant mix of deep indigo (#4B5BBF) and violet (#A087FB), fading into dreamy pastel hues with soft gradients of lavender (#DCCEF9) and light cyan (#CFF4F9). This color blending offers visual depth while accentuating brightness, making it ideal for tech-focused, futuristic advertisement banners.  \n"
+}

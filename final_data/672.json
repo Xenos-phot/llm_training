@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#101820'/><stop offset='100%' style='stop-color:#1A2C3F'/></linearGradient><linearGradient id='accent1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5722'/><stop offset='100%' style='stop-color:#FF8A65'/></linearGradient><linearGradient id='accent2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#00BCD4'/><stop offset='100%' style='stop-color:#26C6DA'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M450 0 L1080 0 L1080 1080 Z' fill='#181818'/><path d='M480 0 L1080 0 L1080 1080 L510 1080 Z' fill='#101010' opacity='0.8'/><path d='M500 0 L1080 0 L1080 1080 Z' fill='#FF5722' opacity='0.05'/><g opacity='0.15'><circle cx='200' cy='200' r='5' fill='#FF5722'/><circle cx='220' cy='200' r='5' fill='#FF5722'/><circle cx='240' cy='200' r='5' fill='#FF5722'/><circle cx='200' cy='220' r='5' fill='#FF5722'/><circle cx='220' cy='220' r='5' fill='#FF5722'/><circle cx='240' cy='220' r='5' fill='#FF5722'/><circle cx='200' cy='240' r='5' fill='#FF5722'/><circle cx='220' cy='240' r='5' fill='#FF5722'/><circle cx='240' cy='240' r='5' fill='#FF5722'/></g><g opacity='0.15'><circle cx='100' cy='600' r='5' fill='#00BCD4'/><circle cx='120' cy='600' r='5' fill='#00BCD4'/><circle cx='140' cy='600' r='5' fill='#00BCD4'/><circle cx='100' cy='620' r='5' fill='#00BCD4'/><circle cx='120' cy='620' r='5' fill='#00BCD4'/><circle cx='140' cy='620' r='5' fill='#00BCD4'/><circle cx='100' cy='640' r='5' fill='#00BCD4'/><circle cx='120' cy='640' r='5' fill='#00BCD4'/><circle cx='140' cy='640' r='5' fill='#00BCD4'/></g><path d='M0 300 L100 200 L150 250 L50 350 Z' fill='#FF5722' opacity='0.1'/><path d='M300 900 L400 800 L450 850 L350 950 Z' fill='#00BCD4' opacity='0.1'/><path d='M550 0 L1080 0 L1080 1080 Z' fill='#FF5722' opacity='0.5'/><path d='M1080 0 L500 580 L1080 1080 Z' fill='#FF5722' opacity='0.2'/><circle cx='200' cy='800' r='100' fill='#00BCD4' opacity='0.05'/><path d='M700 300 L900 100 L1080 280 L880 480 Z' fill='#00BCD4' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 438.49, "height": 128.82, "fill": "#FFFFFF", "text": "POVA\nCURVE 5G", "fontSize": 60, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 240, "left": 40, "width": 470.65, "height": 40.68, "fill": "#FF5722", "text": "GAMING SMARTPHONE", "fontSize": 36, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 310, "left": 40, "width": 120, "height": 4, "fill": "#FF5722", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 340, "left": 40, "width": 432.46, "height": 198.88, "fill": "#FFFFFF", "text": "\u2022 6.78\" Curved AMOLED Display\n\u2022 6 GB RAM | 128 GB Storage\n\u2022 64MP Rear Camera\n\u2022 5500 mAh Battery", "fontSize": 32, "fontFamily": "Barlow Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 560, "left": 40, "width": 194.79, "height": 27.12, "fill": "#00BCD4", "text": "Geek Black | 128 GB", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 770, "left": 40, "width": 317.68, "height": 90.4, "fill": "#FFFFFF", "text": "$15999", "fontSize": 80, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 40, "width": 200, "height": 60, "fill": "#FF5722", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 918, "left": 78, "width": 126.03, "height": 31.64, "fill": "#FFFFFF", "text": "BUY NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 550, "width": 794, "height": 1159, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "NA 6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Display 64MP Rear Camera | 13MP Front Camera 5500 mAh Battery Dimensity 7300 Ultimate Processor ", "price": "15999"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png", "marketplace_url": "https://www.flipkart.com/tecno-pova-curve-5g-geek-black-128-gb/p/itma403c7d655267", "layout": "diagonal_split"}, "banner_details": "\nThis promotional banner features a dynamic tech-themed layout for a 5G gaming smartphone. The left segment highlights text layers arranged vertically, starting with a bold headline (`heading`) and a sharp orange subheading (`subheading`) just below it. A thin accent line (`decorative`) underscores the subheading for added emphasis. A detailed feature list (`description`) follows, describing key product specifications, accompanied by a short tagline (`tagline`) in a digital blue tone. The price (`price`) is prominently showcased in a striking white font, and a vibrant call-to-action button (`cta` and `cta_background`) caps off the section. The right side features a scaled product image (`product_image`) set against a diagonal split background, combining both dark techno-blue and soft orange gradients. The backdrop (`background`) is a complex SVG layered with gradient fills and geometric shapes, giving the design a futuristic and high-tech aesthetic.\n\n**Color Palette:**\n- Midnight Navy (#101820)\n- Charcoal Black (#181818)\n- Neon Orange (#FF5722)\n- Bright Teal (#00BCD4)\n- White (#FFFFFF)\n", "product_color": "  \nThe product image features a sleek and futuristic color palette, ideal for a tech-forward advertisement banner. Dominant colors include matte black (#1F1F1F) used on the smartphone\u2019s body for a premium, minimalistic look, and vivid orange (#FF5C00) as an accent to highlight innovation and energy. Neon teal (#00FFD1) gives a cyberpunk glow to the skin tone and background, offering contrast and modernity. Bright white (#FFFFFF) text ensures clarity and legibility. The blend of dark and neon hues creates a high-tech, energetic vibe while drawing attention to key elements like the camera and display specs, effectively merging aesthetics and functionality.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#101820'/><stop offset='100%' style='stop-color:#1A2C3F'/></linearGradient><linearGradient id='accent1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5722'/><stop offset='100%' style='stop-color:#FF8A65'/></linearGradient><linearGradient id='accent2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#00BCD4'/><stop offset='100%' style='stop-color:#26C6DA'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M450 0 L1080 0 L1080 1080 Z' fill='#181818'/><path d='M480 0 L1080 0 L1080 1080 L510 1080 Z' fill='#101010' opacity='0.8'/><path d='M500 0 L1080 0 L1080 1080 Z' fill='#FF5722' opacity='0.05'/><g opacity='0.15'><circle cx='200' cy='200' r='5' fill='#FF5722'/><circle cx='220' cy='200' r='5' fill='#FF5722'/><circle cx='240' cy='200' r='5' fill='#FF5722'/><circle cx='200' cy='220' r='5' fill='#FF5722'/><circle cx='220' cy='220' r='5' fill='#FF5722'/><circle cx='240' cy='220' r='5' fill='#FF5722'/><circle cx='200' cy='240' r='5' fill='#FF5722'/><circle cx='220' cy='240' r='5' fill='#FF5722'/><circle cx='240' cy='240' r='5' fill='#FF5722'/></g><g opacity='0.15'><circle cx='100' cy='600' r='5' fill='#00BCD4'/><circle cx='120' cy='600' r='5' fill='#00BCD4'/><circle cx='140' cy='600' r='5' fill='#00BCD4'/><circle cx='100' cy='620' r='5' fill='#00BCD4'/><circle cx='120' cy='620' r='5' fill='#00BCD4'/><circle cx='140' cy='620' r='5' fill='#00BCD4'/><circle cx='100' cy='640' r='5' fill='#00BCD4'/><circle cx='120' cy='640' r='5' fill='#00BCD4'/><circle cx='140' cy='640' r='5' fill='#00BCD4'/></g><path d='M0 300 L100 200 L150 250 L50 350 Z' fill='#FF5722' opacity='0.1'/><path d='M300 900 L400 800 L450 850 L350 950 Z' fill='#00BCD4' opacity='0.1'/><path d='M550 0 L1080 0 L1080 1080 Z' fill='#FF5722' opacity='0.5'/><path d='M1080 0 L500 580 L1080 1080 Z' fill='#FF5722' opacity='0.2'/><circle cx='200' cy='800' r='100' fill='#00BCD4' opacity='0.05'/><path d='M700 300 L900 100 L1080 280 L880 480 Z' fill='#00BCD4' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 438.49,
+                "height": 128.82,
+                "fill": "#FFFFFF",
+                "text": "POVA\nCURVE 5G",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 40,
+                "width": 470.65,
+                "height": 40.68,
+                "fill": "#FF5722",
+                "text": "GAMING SMARTPHONE",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 310,
+                "left": 40,
+                "width": 120,
+                "height": 4,
+                "fill": "#FF5722",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 40,
+                "width": 432.46,
+                "height": 198.88,
+                "fill": "#FFFFFF",
+                "text": "\u2022 6.78\" Curved AMOLED Display\n\u2022 6 GB RAM | 128 GB Storage\n\u2022 64MP Rear Camera\n\u2022 5500 mAh Battery",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 560,
+                "left": 40,
+                "width": 194.79,
+                "height": 27.12,
+                "fill": "#00BCD4",
+                "text": "Geek Black | 128 GB",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 40,
+                "width": 317.68,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$15999",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF5722",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 918,
+                "left": 78,
+                "width": 126.03,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 550,
+                "width": 476.4,
+                "height": 695.4,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "NA 6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Display 64MP Rear Camera | 13MP Front Camera 5500 mAh Battery Dimensity 7300 Ultimate Processor ",
+            "price": "15999"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5d7a61b8-bf30-4b25-9d12-ff60d0574faa_nobg_794x1159.png",
+        "marketplace_url": "https://www.flipkart.com/tecno-pova-curve-5g-geek-black-128-gb/p/itma403c7d655267",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis promotional banner features a dynamic tech-themed layout for a 5G gaming smartphone. The left segment highlights text layers arranged vertically, starting with a bold headline (`heading`) and a sharp orange subheading (`subheading`) just below it. A thin accent line (`decorative`) underscores the subheading for added emphasis. A detailed feature list (`description`) follows, describing key product specifications, accompanied by a short tagline (`tagline`) in a digital blue tone. The price (`price`) is prominently showcased in a striking white font, and a vibrant call-to-action button (`cta` and `cta_background`) caps off the section. The right side features a scaled product image (`product_image`) set against a diagonal split background, combining both dark techno-blue and soft orange gradients. The backdrop (`background`) is a complex SVG layered with gradient fills and geometric shapes, giving the design a futuristic and high-tech aesthetic.\n\n**Color Palette:**\n- Midnight Navy (#101820)\n- Charcoal Black (#181818)\n- Neon Orange (#FF5722)\n- Bright Teal (#00BCD4)\n- White (#FFFFFF)\n",
+    "product_color": "  \nThe product image features a sleek and futuristic color palette, ideal for a tech-forward advertisement banner. Dominant colors include matte black (#1F1F1F) used on the smartphone\u2019s body for a premium, minimalistic look, and vivid orange (#FF5C00) as an accent to highlight innovation and energy. Neon teal (#00FFD1) gives a cyberpunk glow to the skin tone and background, offering contrast and modernity. Bright white (#FFFFFF) text ensures clarity and legibility. The blend of dark and neon hues creates a high-tech, energetic vibe while drawing attention to key elements like the camera and display specs, effectively merging aesthetics and functionality.  \n"
+}

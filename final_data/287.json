@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='1080' height='1080' fill='#F5F5F5'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#F5F5F5'/><path d='M0 720 L1080 720 L1080 1080 L0 1080 Z' fill='#FAF0E6' opacity='0.7'/><path d='M550 0 L1080 0 L1080 600 L550 600 Z' fill='#FFF9F2' opacity='0.7'/><circle cx='900' cy='200' r='250' fill='#FF5733' opacity='0.05'/><circle cx='150' cy='800' r='180' fill='#FF8C00' opacity='0.1'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5733;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#FF8C00;stop-opacity:0.3'/></linearGradient><path d='M0 0 L1080 1080' stroke='url(#grad1)' stroke-width='200' opacity='0.05'/><path d='M0 540 L1080 540' stroke='#FF7043' stroke-width='5' opacity='0.05'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 1001, "height": 102.83, "fill": "#212121", "text": "ADIZERO BOSTON 12", "fontSize": 91, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 65, "width": 828.21, "height": 79.1, "fill": "#FF5733", "text": "PERFORMANCE RUNNER", "fontSize": 70, "fontFamily": "Play Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 350, "left": 70, "width": 360.43, "height": 174.02, "fill": "#444444", "text": "\u2022 Marathon-Ready Design\n\u2022 ENERGYRODS 2.0 Technology\n\u2022 LIGHTSTRIKE PRO Cushioning\n\u2022 Continental Rubber Outsole", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 65, "width": 393.55, "height": 101.7, "fill": "#FF5733", "text": "$148.46", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 68, "width": 220, "height": 70, "fill": "#FF5733", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 970, "left": 113, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 445.79999999999995, "left": 380.25, "width": 755, "height": 356, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "The Boston Marathon is a race. But it's also a goal, and a training plan and all the days it stays on your mind before the big one. The Adizero Boston 12 Shoes are built for mid- to long-distance running. They bring a race-day feel to training with a propulsive feel that comes from the glass-fiber infused ENERGYRODS 2.0, which limit energy loss underfoot. They're fast, but that does not come at the cost of durability - the midsole layers ultra-light LIGHTSTRIKE PRO cushioning with a new version of durable LIGHTSTRIKE 2.0 EVA. Continental Rubber outsole ENERGYRODS 2.0 limit energy loss Imported Sole material - Rubber ** Closure type - Lace-Up **", "price": "148.46"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png", "marketplace_url": "https://www.amazon.com/dp/B0CYQH7WY8", "layout": "split_vertical"}, "banner_details": "\nThe banner features a promotional ad for a premium running shoe. It is composed of a clean, light-colored background with soft geometric overlays, including semi-transparent circular shapes and gradients for added depth. The main elements include a bold, black uppercase headline (`heading`) aligned left, immediately followed by a bright orange subheading (`subheading`) that emphasizes performance. Key product benefits are listed below (`description`) in a smaller gray font. The product image (`product_image`) is tilted slightly, providing dynamic visual impact. At the bottom left, a bold orange price (`price`) is accompanied by a rounded rectangular call-to-action button (`cta_background`) with white text (`cta`) urging the viewer to shop now. Everything is well-balanced and visually engaging.\n\n**Color Palette:**\n- Soft White: `#F5F5F5`\n- Light Beige: `#FAF0E6`\n- Pale Peach: `#FFF9F2`\n- Charcoal Black (text): `#212121`\n- Gray Text: `#444444`\n- Bright Orange: `#FF5733`\n- Highlight Orange: `#FF8C00`\n- Button Text White: `#FFFFFF`\n", "product_color": "\nThe product image features a dynamic and vibrant color palette that merges neutral tones with energetic accents. The base of the shoe is a soft beige (#E6E3D8), acting as a neutral canvas. Bold overlays include gradient transitions from bright orange (#FF5F1F) to warm yellow (#FFD93D), creating a sense of movement and energy. Dark gray stripes (#2E2E2E) provide contrast and brand identity. Accents in red (#FF2C2C) add intensity and direct focus toward branding elements and lace details. These colors are strategically placed and expertly blended to create depth, while still highlighting key design features, ideal for drawing attention in advertisements.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F5F5'/><rect x='0' y='0' width='1080' height='1080' fill='#F5F5F5'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#F5F5F5'/><path d='M0 720 L1080 720 L1080 1080 L0 1080 Z' fill='#FAF0E6' opacity='0.7'/><path d='M550 0 L1080 0 L1080 600 L550 600 Z' fill='#FFF9F2' opacity='0.7'/><circle cx='900' cy='200' r='250' fill='#FF5733' opacity='0.05'/><circle cx='150' cy='800' r='180' fill='#FF8C00' opacity='0.1'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF5733;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#FF8C00;stop-opacity:0.3'/></linearGradient><path d='M0 0 L1080 1080' stroke='url(#grad1)' stroke-width='200' opacity='0.05'/><path d='M0 540 L1080 540' stroke='#FF7043' stroke-width='5' opacity='0.05'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 1001,
+                "height": 102.83,
+                "fill": "#212121",
+                "text": "ADIZERO BOSTON 12",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 65,
+                "width": 828.21,
+                "height": 79.1,
+                "fill": "#FF5733",
+                "text": "PERFORMANCE RUNNER",
+                "fontFamily": "Play Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 70,
+                "width": 360.43,
+                "height": 174.02,
+                "fill": "#444444",
+                "text": "\u2022 Marathon-Ready Design\n\u2022 ENERGYRODS 2.0 Technology\n\u2022 LIGHTSTRIKE PRO Cushioning\n\u2022 Continental Rubber Outsole",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 65,
+                "width": 393.55,
+                "height": 101.7,
+                "fill": "#FF5733",
+                "text": "$148.46",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 68,
+                "width": 220,
+                "height": 70,
+                "fill": "#FF5733",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 970,
+                "left": 113,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 445.79999999999995,
+                "left": 380.25,
+                "width": 679.5,
+                "height": 320.40000000000003,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "The Boston Marathon is a race. But it's also a goal, and a training plan and all the days it stays on your mind before the big one. The Adizero Boston 12 Shoes are built for mid- to long-distance running. They bring a race-day feel to training with a propulsive feel that comes from the glass-fiber infused ENERGYRODS 2.0, which limit energy loss underfoot. They're fast, but that does not come at the cost of durability - the midsole layers ultra-light LIGHTSTRIKE PRO cushioning with a new version of durable LIGHTSTRIKE 2.0 EVA. Continental Rubber outsole ENERGYRODS 2.0 limit energy loss Imported Sole material - Rubber ** Closure type - Lace-Up **",
+            "price": "148.46"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/15eba903-3a00-456b-a386-47805c74436b_nobg_755x356.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CYQH7WY8",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a promotional ad for a premium running shoe. It is composed of a clean, light-colored background with soft geometric overlays, including semi-transparent circular shapes and gradients for added depth. The main elements include a bold, black uppercase headline (`heading`) aligned left, immediately followed by a bright orange subheading (`subheading`) that emphasizes performance. Key product benefits are listed below (`description`) in a smaller gray font. The product image (`product_image`) is tilted slightly, providing dynamic visual impact. At the bottom left, a bold orange price (`price`) is accompanied by a rounded rectangular call-to-action button (`cta_background`) with white text (`cta`) urging the viewer to shop now. Everything is well-balanced and visually engaging.\n\n**Color Palette:**\n- Soft White: `#F5F5F5`\n- Light Beige: `#FAF0E6`\n- Pale Peach: `#FFF9F2`\n- Charcoal Black (text): `#212121`\n- Gray Text: `#444444`\n- Bright Orange: `#FF5733`\n- Highlight Orange: `#FF8C00`\n- Button Text White: `#FFFFFF`\n",
+    "product_color": "\nThe product image features a dynamic and vibrant color palette that merges neutral tones with energetic accents. The base of the shoe is a soft beige (#E6E3D8), acting as a neutral canvas. Bold overlays include gradient transitions from bright orange (#FF5F1F) to warm yellow (#FFD93D), creating a sense of movement and energy. Dark gray stripes (#2E2E2E) provide contrast and brand identity. Accents in red (#FF2C2C) add intensity and direct focus toward branding elements and lace details. These colors are strategically placed and expertly blended to create depth, while still highlighting key design features, ideal for drawing attention in advertisements.\n"
+}

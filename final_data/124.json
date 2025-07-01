@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#162740'/><stop offset='100%' style='stop-color:#1A4066'/></linearGradient><linearGradient id='accent-line' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#78A3D0'/><stop offset='100%' style='stop-color:#A3C5E6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='-100' y='120' width='750' height='4' fill='url(#accent-line)'/><rect x='-100' y='800' width='750' height='4' fill='url(#accent-line)'/><circle cx='150' cy='200' r='80' fill='#1A3F65' opacity='0.3'/><circle cx='400' cy='850' r='100' fill='#1A3F65' opacity='0.3'/><g opacity='0.1'><rect x='580' y='0' width='1' height='1080' fill='#ffffff'/><rect x='640' y='0' width='1' height='1080' fill='#ffffff'/><rect x='700' y='0' width='1' height='1080' fill='#ffffff'/><rect x='760' y='0' width='1' height='1080' fill='#ffffff'/><rect x='820' y='0' width='1' height='1080' fill='#ffffff'/><rect x='880' y='0' width='1' height='1080' fill='#ffffff'/><rect x='940' y='0' width='1' height='1080' fill='#ffffff'/><rect x='1000' y='0' width='1' height='1080' fill='#ffffff'/><rect x='1060' y='0' width='1' height='1080' fill='#ffffff'/><rect x='600' y='60' width='480' height='1' fill='#ffffff'/><rect x='600' y='120' width='480' height='1' fill='#ffffff'/><rect x='600' y='180' width='480' height='1' fill='#ffffff'/><rect x='600' y='240' width='480' height='1' fill='#ffffff'/><rect x='600' y='300' width='480' height='1' fill='#ffffff'/><rect x='600' y='360' width='480' height='1' fill='#ffffff'/><rect x='600' y='420' width='480' height='1' fill='#ffffff'/><rect x='600' y='480' width='480' height='1' fill='#ffffff'/><rect x='600' y='540' width='480' height='1' fill='#ffffff'/><rect x='600' y='600' width='480' height='1' fill='#ffffff'/><rect x='600' y='660' width='480' height='1' fill='#ffffff'/><rect x='600' y='720' width='480' height='1' fill='#ffffff'/><rect x='600' y='780' width='480' height='1' fill='#ffffff'/><rect x='600' y='840' width='480' height='1' fill='#ffffff'/><rect x='600' y='900' width='480' height='1' fill='#ffffff'/><rect x='600' y='960' width='480' height='1' fill='#ffffff'/><rect x='600' y='1020' width='480' height='1' fill='#ffffff'/></g><path d='M540 0 L540 1080' stroke='#78A3D0' stroke-width='2' opacity='0.5'/><circle cx='180' cy='250' r='5' fill='#A3C5E6' opacity='0.7'/><circle cx='220' cy='250' r='3' fill='#A3C5E6' opacity='0.7'/><circle cx='260' cy='250' r='2' fill='#A3C5E6' opacity='0.7'/><circle cx='180' cy='750' r='5' fill='#A3C5E6' opacity='0.7'/><circle cx='220' cy='750' r='3' fill='#A3C5E6' opacity='0.7'/><circle cx='260' cy='750' r='2' fill='#A3C5E6' opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 40, "width": 362.78, "height": 166.11, "fill": "#FFFFFF", "text": "AIRPODS\nMAX", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 300, "left": 40, "width": 360, "height": 94.92, "fill": "#78A3D0", "text": "PREMIUM WIRELESS\nAUDIO EXPERIENCE", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 440, "left": 40, "width": 278.62, "height": 124.75, "fill": "#FFFFFF", "text": "\u2022 Active Noise Cancellation\n\u2022 Personalized Spatial Audio\n\u2022 Up to 20 Hours Battery Life", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 40, "width": 209.04, "height": 90.4, "fill": "#FFFFFF", "text": "$437.49", "fontSize": 80, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 40, "width": 220, "height": 65, "fill": "#78A3D0", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 798, "left": 86, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 180, "left": 530, "width": 1301, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. MAGICAL EXPERIENCE \u2014 Pair AirPods Max by simply placing them near your device and tapping Connect on your screen. AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad, and Mac completely effortless. LONG BATTERY LIFE \u2014 Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation and Personalized Spatial Audio enabled. PRECISION CONTROL \u2014 Use the Digital Crown to play and pause music, to answer, end, and mute yourself on calls, and to control volume and skip between tracks. A SMARTER CASE \u2014 Store in an ultra low-power state with the slim Smart Case. LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See \u201cAdditional information\u201d to learn more. Brand - Apple ** Color - Sky Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **", "price": "437.49"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08PZJN7BD", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner features a premium product presentation organized across a clean, symmetric layout. The background employs a dark blue gradient with subtle geometric grid lines and circular accents, adding depth while maintaining visual focus. The composition is split vertically, placing the product image (\"product_image\") to the right and all textual elements to the left. Key text layers include the bold, futuristic product name (\"heading\"), a highlighted two-line subtitle (\"subheading\"), and a concise product feature list (\"description\"). The eye-catching price (\"price\") is set large and white below, followed by a rectangular call-to-action button (\"cta_button\") containing clear, all-caps centered text (\"cta\"). \n\n**Color Palette:**\n- Midnight Blue: #162740\n- Slate Blue: #1A4066\n- Accent Blue: #78A3D0\n- Light Sky Blue: #A3C5E6\n- White: #FFFFFF\n", "product_color": "  \nThe product image features a sleek, modern color palette dominated by shades of blue and metallic silver. The ear cups showcase a soft gradient of **ice blue (#A3B9D3)** blending into **light steel blue (#7CA9C5)** for a refined look. The headband cushion transitions seamlessly from **deep navy (#1F3D5B)** to a mesh gradient spotted with **cool sky blue (#B0CFEA)**, highlighting airflow and comfort. Metallic accents in **silver gray (#C2C2C2)** add contrast and premium feel. These colors harmonize beautifully, creating a clean and futuristic aesthetic ideal for tech-savvy consumers. Use this palette to craft an elegant, minimalist ad banner that reflects innovation and comfort.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#162740'/><stop offset='100%' style='stop-color:#1A4066'/></linearGradient><linearGradient id='accent-line' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#78A3D0'/><stop offset='100%' style='stop-color:#A3C5E6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='-100' y='120' width='750' height='4' fill='url(#accent-line)'/><rect x='-100' y='800' width='750' height='4' fill='url(#accent-line)'/><circle cx='150' cy='200' r='80' fill='#1A3F65' opacity='0.3'/><circle cx='400' cy='850' r='100' fill='#1A3F65' opacity='0.3'/><g opacity='0.1'><rect x='580' y='0' width='1' height='1080' fill='#ffffff'/><rect x='640' y='0' width='1' height='1080' fill='#ffffff'/><rect x='700' y='0' width='1' height='1080' fill='#ffffff'/><rect x='760' y='0' width='1' height='1080' fill='#ffffff'/><rect x='820' y='0' width='1' height='1080' fill='#ffffff'/><rect x='880' y='0' width='1' height='1080' fill='#ffffff'/><rect x='940' y='0' width='1' height='1080' fill='#ffffff'/><rect x='1000' y='0' width='1' height='1080' fill='#ffffff'/><rect x='1060' y='0' width='1' height='1080' fill='#ffffff'/><rect x='600' y='60' width='480' height='1' fill='#ffffff'/><rect x='600' y='120' width='480' height='1' fill='#ffffff'/><rect x='600' y='180' width='480' height='1' fill='#ffffff'/><rect x='600' y='240' width='480' height='1' fill='#ffffff'/><rect x='600' y='300' width='480' height='1' fill='#ffffff'/><rect x='600' y='360' width='480' height='1' fill='#ffffff'/><rect x='600' y='420' width='480' height='1' fill='#ffffff'/><rect x='600' y='480' width='480' height='1' fill='#ffffff'/><rect x='600' y='540' width='480' height='1' fill='#ffffff'/><rect x='600' y='600' width='480' height='1' fill='#ffffff'/><rect x='600' y='660' width='480' height='1' fill='#ffffff'/><rect x='600' y='720' width='480' height='1' fill='#ffffff'/><rect x='600' y='780' width='480' height='1' fill='#ffffff'/><rect x='600' y='840' width='480' height='1' fill='#ffffff'/><rect x='600' y='900' width='480' height='1' fill='#ffffff'/><rect x='600' y='960' width='480' height='1' fill='#ffffff'/><rect x='600' y='1020' width='480' height='1' fill='#ffffff'/></g><path d='M540 0 L540 1080' stroke='#78A3D0' stroke-width='2' opacity='0.5'/><circle cx='180' cy='250' r='5' fill='#A3C5E6' opacity='0.7'/><circle cx='220' cy='250' r='3' fill='#A3C5E6' opacity='0.7'/><circle cx='260' cy='250' r='2' fill='#A3C5E6' opacity='0.7'/><circle cx='180' cy='750' r='5' fill='#A3C5E6' opacity='0.7'/><circle cx='220' cy='750' r='3' fill='#A3C5E6' opacity='0.7'/><circle cx='260' cy='750' r='2' fill='#A3C5E6' opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 40,
+                "width": 362.78,
+                "height": 166.11,
+                "fill": "#FFFFFF",
+                "text": "AIRPODS\nMAX",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 40,
+                "width": 360,
+                "height": 94.92,
+                "fill": "#78A3D0",
+                "text": "PREMIUM WIRELESS\nAUDIO EXPERIENCE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 440,
+                "left": 40,
+                "width": 278.62,
+                "height": 124.75,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Active Noise Cancellation\n\u2022 Personalized Spatial Audio\n\u2022 Up to 20 Hours Battery Life",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 40,
+                "width": 209.04,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$437.49",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 40,
+                "width": 220,
+                "height": 65,
+                "fill": "#78A3D0",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 798,
+                "left": 86,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 180,
+                "left": 530,
+                "width": 546.42,
+                "height": 604.38,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. MAGICAL EXPERIENCE \u2014 Pair AirPods Max by simply placing them near your device and tapping Connect on your screen. AirPods Max pause audio when you take them off. And Automatic Switching makes listening between your iPhone, iPad, and Mac completely effortless. LONG BATTERY LIFE \u2014 Up to 20 hours of listening, movie watching, or talk time with Active Noise Cancellation and Personalized Spatial Audio enabled. PRECISION CONTROL \u2014 Use the Digital Crown to play and pause music, to answer, end, and mute yourself on calls, and to control volume and skip between tracks. A SMARTER CASE \u2014 Store in an ultra low-power state with the slim Smart Case. LEGAL DISCLAIMERS \u2014 This is a summary of the main product features. See \u201cAdditional information\u201d to learn more. Brand - Apple ** Color - Sky Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **",
+            "price": "437.49"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e942ad2c-fc07-4b1f-97c0-78399f15a0a5_nobg_1301x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08PZJN7BD",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner features a premium product presentation organized across a clean, symmetric layout. The background employs a dark blue gradient with subtle geometric grid lines and circular accents, adding depth while maintaining visual focus. The composition is split vertically, placing the product image (\"product_image\") to the right and all textual elements to the left. Key text layers include the bold, futuristic product name (\"heading\"), a highlighted two-line subtitle (\"subheading\"), and a concise product feature list (\"description\"). The eye-catching price (\"price\") is set large and white below, followed by a rectangular call-to-action button (\"cta_button\") containing clear, all-caps centered text (\"cta\"). \n\n**Color Palette:**\n- Midnight Blue: #162740\n- Slate Blue: #1A4066\n- Accent Blue: #78A3D0\n- Light Sky Blue: #A3C5E6\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image features a sleek, modern color palette dominated by shades of blue and metallic silver. The ear cups showcase a soft gradient of **ice blue (#A3B9D3)** blending into **light steel blue (#7CA9C5)** for a refined look. The headband cushion transitions seamlessly from **deep navy (#1F3D5B)** to a mesh gradient spotted with **cool sky blue (#B0CFEA)**, highlighting airflow and comfort. Metallic accents in **silver gray (#C2C2C2)** add contrast and premium feel. These colors harmonize beautifully, creating a clean and futuristic aesthetic ideal for tech-savvy consumers. Use this palette to craft an elegant, minimalist ad banner that reflects innovation and comfort.  \n"
+}

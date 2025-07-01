@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#3C6E91'/><stop offset='100%' stop-color='#1E3D5A'/></radialGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#5B90B7'/><stop offset='100%' stop-color='#3C6E91'/></radialGradient><linearGradient id='priceGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#5BA2D8'/><stop offset='100%' stop-color='#3879AF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='340' fill='none' stroke='#5B90B7' stroke-width='3'/><circle cx='540' cy='540' r='320' fill='#ffffff' opacity='0.9'/><circle cx='850' cy='400' r='130' fill='url(#priceGradient)'/><circle cx='150' cy='200' r='15' fill='#A5C2E0' opacity='0.5'/><circle cx='900' cy='200' r='12' fill='#A5C2E0' opacity='0.5'/><circle cx='800' cy='800' r='18' fill='#A5C2E0' opacity='0.5'/><circle cx='200' cy='750' r='20' fill='#A5C2E0' opacity='0.5'/><path d='M150 300 Q200 350, 250 300' stroke='#A5C2E0' stroke-width='3' fill='none' opacity='0.4'/><path d='M800 700 Q850 750, 900 700' stroke='#A5C2E0' stroke-width='3' fill='none' opacity='0.4'/><line x1='100' y1='450' x2='200' y2='450' stroke='#A5C2E0' stroke-width='3' opacity='0.4'/><line x1='880' y1='550' x2='980' y2='550' stroke='#A5C2E0' stroke-width='3' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 35, "left": 289.55, "width": 500.9, "height": 113, "fill": "#FFFFFF", "text": "PREMIUM SOUND", "fontSize": 100, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 155, "left": 219.38, "width": 641.24, "height": 67.8, "fill": "#A5C2E0", "text": "NOISE CANCELLING", "fontSize": 60, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 891.58, "left": 35.01999999999998, "width": 1009.96, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 ACTIVE NOISE CANCELLING \u2022 70 HOURS PLAYTIME \u2022 DEEP BASS", "fontSize": 34, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "image", "top": 255.39499999999998, "left": 264.575, "width": 1115, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5a87bac5-9fd9-48a8-a464-10c4465005fd_nobg_1115x1439.png", "id": "product_image"}, {"type": "text", "top": 366.1, "left": 719.0699999999999, "width": 261.86, "height": 67.8, "fill": "#FFFFFF", "text": "$30.99", "fontSize": 60, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 430.0, "width": 220, "height": 60, "fill": "#5BA2D8", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 976.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "1, \u3010Active Noise Cancelling (ANC) ,Transparent Mode\u3011: Professional advanced noise cancellation silences up to 95% of machine noise. Transparent Mode This feature lets in ambient noise, so you can easily hear announcements on a bus or subway, or listen to what's happening around you without removing the active noise cancelling headphones. The sensitive buttons control makes it easy to switch between this two modes. 2,\u3010Up to 70 hours of playtime, Fast charging\u3011: Enjoy up to 45 hours of music in noise cancelling mode, or extend the playtime to 70 hours in standard mode. A quick 5-minute charge gives you 4 hours of listening. You can charge it through the Type-C port, or use a 3.5mm audio cable for a wired connection.Note: If you are not using the over-ear wireless headphones in Bluetooth mode, please turn off ANC to conserve power. 3,\u3010Premium sound quality, Deep Bass\u3011: The 45mm drivers reproduce a full range of frequencies, providing deep, powerful, and immersive sound at any volume. BERIBES headphones wireless buetooth have always been committed to providing our customers with better sound quality as the focal point of our engineering. Our goal is to provide our customers with the best possible sound quality. 4,\u3010Unique foldable, Lightweight, Ergonomic design\u3011: The professional-grade protein ear-pads, 90\u00b0 inward rotation, and 120\u00b0inward folding ear-cups are lightweight (only 0.8 lb) for maximum comfort during long periods of use. The bluetooth headphones with microphone fold compactly for easy storage when traveling. The ergonomic structure and multi-level adjustable headband provide a comfortable fit for all users. 5,\u3010Bluetooth headset , After Sale Protection\u3011: Package includes ANC Noise Cancellation Bluetooth headphones,3.5mm backup audio cable, USB charging cable, and User Manual. We will provide a 30-day return and 12-month warranty, lifetime worry-free user support, contact us anytime if you have any questions about the product, and we will reply within 10 hours Brand - BERIBES ** Color - Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 32 Ohm **", "price": "30.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5a87bac5-9fd9-48a8-a464-10c4465005fd_nobg_1115x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0CFQ6H5J5", "layout": "circular_focus"}, "banner_details": "\nThis banner features a sleek promotional composition designed for a premium headphone product. At its center is a large, realistic product image encircled by a soft white gradient circle that accentuates the item. The top features two bold text layers: a prominent heading (`heading`) in white, followed by a subheading (`subheading`) in light blue. A highlighted price tag (`price`) in a circular blue gradient badge is placed to the right of the headphones. At the bottom, a description line (`description`) details the product's features in a small caps style, followed by a blue call-to-action button with the text layer `cta`.\n\n**Color Palette**:\n- Deep Navy: #1E3D5A\n- Light Blue: #5BA2D8\n- Gradient Blue: #5BA2D8 to #3879AF\n- Sky Blue: #A5C2E0\n- White: #FFFFFF\n", "product_color": "\nThe product image showcases a sleek and modern set of over-ear headphones in a matte bluish tone. The dominant color is a sophisticated Steel Blue (#486A8C), which gives the product a premium and calm aesthetic. Subtle gradients and satin textures highlight different lighting angles, blending darker shadows\u2014Prussian Blue (#1D3B5F)\u2014with lighter slate accents\u2014Slate Blue (#6E8CAA)\u2014to enhance depth and curvature. Small elements like the power indicator utilize a vibrant Electric Blue (#3A9CFF), contrasting well against the muted base tones. This color palette can be used in an advertisement banner to emphasize elegance, technology, and luxury while maintaining visual harmony.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#3C6E91'/><stop offset='100%' stop-color='#1E3D5A'/></radialGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#5B90B7'/><stop offset='100%' stop-color='#3C6E91'/></radialGradient><linearGradient id='priceGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#5BA2D8'/><stop offset='100%' stop-color='#3879AF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='340' fill='none' stroke='#5B90B7' stroke-width='3'/><circle cx='540' cy='540' r='320' fill='#ffffff' opacity='0.9'/><circle cx='850' cy='400' r='130' fill='url(#priceGradient)'/><circle cx='150' cy='200' r='15' fill='#A5C2E0' opacity='0.5'/><circle cx='900' cy='200' r='12' fill='#A5C2E0' opacity='0.5'/><circle cx='800' cy='800' r='18' fill='#A5C2E0' opacity='0.5'/><circle cx='200' cy='750' r='20' fill='#A5C2E0' opacity='0.5'/><path d='M150 300 Q200 350, 250 300' stroke='#A5C2E0' stroke-width='3' fill='none' opacity='0.4'/><path d='M800 700 Q850 750, 900 700' stroke='#A5C2E0' stroke-width='3' fill='none' opacity='0.4'/><line x1='100' y1='450' x2='200' y2='450' stroke='#A5C2E0' stroke-width='3' opacity='0.4'/><line x1='880' y1='550' x2='980' y2='550' stroke='#A5C2E0' stroke-width='3' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 35,
+                "left": 289.55,
+                "width": 500.9,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM SOUND",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 155,
+                "left": 219.38,
+                "width": 641.24,
+                "height": 67.8,
+                "fill": "#A5C2E0",
+                "text": "NOISE CANCELLING",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 891.58,
+                "left": 35.01999999999998,
+                "width": 1009.96,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 ACTIVE NOISE CANCELLING \u2022 70 HOURS PLAYTIME \u2022 DEEP BASS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 255.39499999999998,
+                "left": 264.575,
+                "width": 434.85,
+                "height": 561.21,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5a87bac5-9fd9-48a8-a464-10c4465005fd_nobg_1115x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 366.1,
+                "left": 719.0699999999999,
+                "width": 261.86,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "$30.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#5BA2D8",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 976.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "1, \u3010Active Noise Cancelling (ANC) ,Transparent Mode\u3011: Professional advanced noise cancellation silences up to 95% of machine noise. Transparent Mode This feature lets in ambient noise, so you can easily hear announcements on a bus or subway, or listen to what's happening around you without removing the active noise cancelling headphones. The sensitive buttons control makes it easy to switch between this two modes. 2,\u3010Up to 70 hours of playtime, Fast charging\u3011: Enjoy up to 45 hours of music in noise cancelling mode, or extend the playtime to 70 hours in standard mode. A quick 5-minute charge gives you 4 hours of listening. You can charge it through the Type-C port, or use a 3.5mm audio cable for a wired connection.Note: If you are not using the over-ear wireless headphones in Bluetooth mode, please turn off ANC to conserve power. 3,\u3010Premium sound quality, Deep Bass\u3011: The 45mm drivers reproduce a full range of frequencies, providing deep, powerful, and immersive sound at any volume. BERIBES headphones wireless buetooth have always been committed to providing our customers with better sound quality as the focal point of our engineering. Our goal is to provide our customers with the best possible sound quality. 4,\u3010Unique foldable, Lightweight, Ergonomic design\u3011: The professional-grade protein ear-pads, 90\u00b0 inward rotation, and 120\u00b0inward folding ear-cups are lightweight (only 0.8 lb) for maximum comfort during long periods of use. The bluetooth headphones with microphone fold compactly for easy storage when traveling. The ergonomic structure and multi-level adjustable headband provide a comfortable fit for all users. 5,\u3010Bluetooth headset , After Sale Protection\u3011: Package includes ANC Noise Cancellation Bluetooth headphones,3.5mm backup audio cable, USB charging cable, and User Manual. We will provide a 30-day return and 12-month warranty, lifetime worry-free user support, contact us anytime if you have any questions about the product, and we will reply within 10 hours Brand - BERIBES ** Color - Blue ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Impedance - 32 Ohm **",
+            "price": "30.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/5a87bac5-9fd9-48a8-a464-10c4465005fd_nobg_1115x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0CFQ6H5J5",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a sleek promotional composition designed for a premium headphone product. At its center is a large, realistic product image encircled by a soft white gradient circle that accentuates the item. The top features two bold text layers: a prominent heading (`heading`) in white, followed by a subheading (`subheading`) in light blue. A highlighted price tag (`price`) in a circular blue gradient badge is placed to the right of the headphones. At the bottom, a description line (`description`) details the product's features in a small caps style, followed by a blue call-to-action button with the text layer `cta`.\n\n**Color Palette**:\n- Deep Navy: #1E3D5A\n- Light Blue: #5BA2D8\n- Gradient Blue: #5BA2D8 to #3879AF\n- Sky Blue: #A5C2E0\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image showcases a sleek and modern set of over-ear headphones in a matte bluish tone. The dominant color is a sophisticated Steel Blue (#486A8C), which gives the product a premium and calm aesthetic. Subtle gradients and satin textures highlight different lighting angles, blending darker shadows\u2014Prussian Blue (#1D3B5F)\u2014with lighter slate accents\u2014Slate Blue (#6E8CAA)\u2014to enhance depth and curvature. Small elements like the power indicator utilize a vibrant Electric Blue (#3A9CFF), contrasting well against the muted base tones. This color palette can be used in an advertisement banner to emphasize elegance, technology, and luxury while maintaining visual harmony.\n"
+}

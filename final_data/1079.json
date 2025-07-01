@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E9D5E0'/><rect x='0' y='0' width='540' height='540' fill='#781836'/><rect x='540' y='0' width='540' height='540' fill='#5A0F25'/><rect x='0' y='540' width='540' height='540' fill='#4D0D20'/><rect x='540' y='540' width='540' height='540' fill='#9C2145'/><g opacity='0.2'><path d='M270 140 C 320 100, 400 120, 450 160' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M100 250 C 150 230, 200 240, 250 270' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M380 320 C 420 300, 460 310, 490 340' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M850 200 C 900 160, 950 170, 980 210' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M700 380 C 740 350, 780 360, 810 390' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M130 650 C 160 620, 200 630, 230 660' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M300 750 C 340 720, 380 730, 420 760' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M720 620 C 760 590, 800 600, 840 630' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M650 800 C 690 770, 730 780, 770 810' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M880 900 C 920 870, 960 880, 1000 910' stroke='#FFFFFF' stroke-width='3' fill='none'/></g><circle cx='150' cy='150' r='80' fill='#9C2145' opacity='0.3'/><circle cx='800' cy='200' r='60' fill='#E96990' opacity='0.3'/><circle cx='200' cy='700' r='70' fill='#E96990' opacity='0.3'/><circle cx='750' cy='850' r='90' fill='#FF8FB9' opacity='0.3'/><g opacity='0.4'><circle cx='150' cy='150' r='5' fill='#FFFFFF'/><circle cx='200' cy='180' r='4' fill='#FFFFFF'/><circle cx='230' cy='130' r='3' fill='#FFFFFF'/><circle cx='700' cy='200' r='5' fill='#FFFFFF'/><circle cx='750' cy='160' r='4' fill='#FFFFFF'/><circle cx='790' cy='230' r='3' fill='#FFFFFF'/><circle cx='120' cy='650' r='5' fill='#FFFFFF'/><circle cx='170' cy='700' r='4' fill='#FFFFFF'/><circle cx='100' cy='730' r='3' fill='#FFFFFF'/><circle cx='750' cy='820' r='5' fill='#FFFFFF'/><circle cx='800' cy='870' r='4' fill='#FFFFFF'/><circle cx='730' cy='900' r='3' fill='#FFFFFF'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 383.39, "height": 79.1, "fill": "#FFFFFF", "text": "WHIRLPOOL", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 150, "left": 50, "width": 356.26, "height": 78.11, "fill": "#FFFFFF", "text": "SINGLE DOOR \nREFRIGERATOR", "fontSize": 32, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 240, "left": 50, "width": 326.22, "height": 50.85, "fill": "#FFD8E6", "text": "WINE BLOOM-Z", "fontSize": 45, "fontFamily": "Bakbak One-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 522.89, "height": 186.45, "fill": "#FFFFFF", "text": "\u2022 184L Capacity - Perfect for Small Families\n\u2022 2 Star Energy Rating\n\u2022 Direct-Cool Technology\n\u2022 Stylish Floral Design", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 810, "left": 50, "width": 341.2, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b913,190", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 50, "width": 230, "height": 70, "fill": "#FFD8E6", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 950, "left": 90, "width": 166.27, "height": 36.16, "fill": "#5A0F25", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 74, "left": 586, "width": 583, "height": 1271, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/I5InHTV1QASz6kg458eHH_583x1271.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE PRM 2S WINE BLOOM-Z)", "description": "Brand: Whirlpool. Model: 205 WDE PRM 2S. Capacity: 184 litres. Annual Energy Consumption: 190 Kilowatt Hours Per Year. Refrigerator Fresh Food Capacity: 169.2 litres. Freezer Capacity: 14.3 Litres. Bottle Count: 6. Installation Type: Freestanding. Part Number: 72680. Form Factor: Stand Alone. Special Features: Door lock. Colour: Wine Bloom-Z. Voltage: 220. Number of Drawers: 4. Defrost System: Automatic. Door Orientation: Left. Door Material: Stainless Steel. Shelf Type: Toughened Glass. Number of Shelves: 2. Certification: Energy Rating. Material: Stainless Steel. Batteries Required: No. Country of Origin: India. Importer: Whirlpool of India Ltd. Plot No. A-4, MIDC Ranjangaon,Taluka Shirur, Dist: Pune, Maharashtra 412220, India, Email - helpdeskindia@whirlpool.com ; Toll Free - 1800 208 1800. Item Weight: 33 kg 400 g. Item Dimensions Lx Wx H: 65.1 x 53.5 x 118.8 Centimeters. Net Quantity: 1 Count. Generic Name: Refrigerator.", "price": "\u20b913190"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/I5InHTV1QASz6kg458eHH_583x1271.png", "marketplace_url": "https://www.amazon.in/Whirlpool-Refrigerator-205-WDE-PRM/dp/B0BSRTBHPY/ref=sr_1_3_sspa?_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&dib=eyJ2IjoiMSJ9.WcV38wJ-brZNaTfMoo7yrZyvZvL_ck0acrvYkfRD_QSatV-eK-EtSvMIAsfVgdtqfGV_hXl7fR-WfGwFPpeMThOCHueXVNDi5u2naJawJEHEpOS_MYZnECnYKpF4b-7rWWaQSi70IsAv2Tj1QV3AQhKnba2dOH35ZzmgoW3MbZKhdQAVLZ-qL1dQp-Lt3ovEWPg6kBpmt2Roy_NFIUgPGeFTh15sucGH7HICGqs-i24DVFZDTg6tUl5g7RXBvUTH6iOpKLuYD1avD_-v9NpgV7J-IZ-KcTfBKZnXiDfwqPY.r2fkAtg9SIRtLlvTIa6ubr_RpceZaOcGz6ligDVfZ8M&dib_tag=se&pd_rd_r=7a6115c4-4da2-4626-bf85-997247401f66&pd_rd_w=OYnrd&pd_rd_wg=HbxU6&qid=1744965437&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfYnJvd3Nl&psc=1", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner showcases a single-door refrigerator on a grid-based background split into four rich, contrasting tones. The top-left quadrant houses the brand and product information with three text layers: the main title (`heading`), the subheading (`subheading`), and the product variant (`tagline`). Positioned in the center-right is a photo-realistic product image (`product_image`) of the floral-patterned fridge. Below the text header is a bulleted list (`description`) detailing product highlights. The price (`price`) is prominently displayed in bold white, followed by a pink call-to-action button (`cta_background`) containing the \"SHOP NOW\" text (`cta`). Subtle white line accents and hazy decorative circles add softness and depth.\n\n**Color Palette**:\n- Deep Maroon: `#5A0F25`\n- Burgundy: `#781836`\n- Dark Rose: `#4D0D20`\n- Accent Pink: `#FFD8E6`\n- Rich Pink: `#E96990`\n- Soft Lilac: `#E9D5E0`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image exhibits a rich, luxurious color palette that's ideal for a premium and elegant advertisement banner. Dominated by deep wine and violet tones (#4B003D, #5A0E4D), the background exudes sophistication. The floral artwork features a radiant blend of magenta (#C2185B), fuchsia (#F06292), coral pink (#FF6F61), and soft lavender-blue (#B39DDB), creating an ethereal contrast. Highlights are created using white accents and soft glowing centers (#FF8A80) within the petals. Colors seamlessly blend using gradient transitions, maintaining a vivid yet balanced ensemble. This high-contrast palette offers visual intensity, making the key floral designs stand out while harmonizing with the darker backdrop.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#E9D5E0'/><rect x='0' y='0' width='540' height='540' fill='#781836'/><rect x='540' y='0' width='540' height='540' fill='#5A0F25'/><rect x='0' y='540' width='540' height='540' fill='#4D0D20'/><rect x='540' y='540' width='540' height='540' fill='#9C2145'/><g opacity='0.2'><path d='M270 140 C 320 100, 400 120, 450 160' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M100 250 C 150 230, 200 240, 250 270' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M380 320 C 420 300, 460 310, 490 340' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M850 200 C 900 160, 950 170, 980 210' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M700 380 C 740 350, 780 360, 810 390' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M130 650 C 160 620, 200 630, 230 660' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M300 750 C 340 720, 380 730, 420 760' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M720 620 C 760 590, 800 600, 840 630' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M650 800 C 690 770, 730 780, 770 810' stroke='#FFFFFF' stroke-width='3' fill='none'/><path d='M880 900 C 920 870, 960 880, 1000 910' stroke='#FFFFFF' stroke-width='3' fill='none'/></g><circle cx='150' cy='150' r='80' fill='#9C2145' opacity='0.3'/><circle cx='800' cy='200' r='60' fill='#E96990' opacity='0.3'/><circle cx='200' cy='700' r='70' fill='#E96990' opacity='0.3'/><circle cx='750' cy='850' r='90' fill='#FF8FB9' opacity='0.3'/><g opacity='0.4'><circle cx='150' cy='150' r='5' fill='#FFFFFF'/><circle cx='200' cy='180' r='4' fill='#FFFFFF'/><circle cx='230' cy='130' r='3' fill='#FFFFFF'/><circle cx='700' cy='200' r='5' fill='#FFFFFF'/><circle cx='750' cy='160' r='4' fill='#FFFFFF'/><circle cx='790' cy='230' r='3' fill='#FFFFFF'/><circle cx='120' cy='650' r='5' fill='#FFFFFF'/><circle cx='170' cy='700' r='4' fill='#FFFFFF'/><circle cx='100' cy='730' r='3' fill='#FFFFFF'/><circle cx='750' cy='820' r='5' fill='#FFFFFF'/><circle cx='800' cy='870' r='4' fill='#FFFFFF'/><circle cx='730' cy='900' r='3' fill='#FFFFFF'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 383.39,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "WHIRLPOOL",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 50,
+                "width": 356.26,
+                "height": 78.11,
+                "fill": "#FFFFFF",
+                "text": "SINGLE DOOR \nREFRIGERATOR",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 240,
+                "left": 50,
+                "width": 326.22,
+                "height": 50.85,
+                "fill": "#FFD8E6",
+                "text": "WINE BLOOM-Z",
+                "fontFamily": "Bakbak One-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 522.89,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "\u2022 184L Capacity - Perfect for Small Families\n\u2022 2 Star Energy Rating\n\u2022 Direct-Cool Technology\n\u2022 Stylish Floral Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 50,
+                "width": 341.2,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b913,190",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 50,
+                "width": 230,
+                "height": 70,
+                "fill": "#FFD8E6",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 90,
+                "width": 166.27,
+                "height": 36.16,
+                "fill": "#5A0F25",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 74,
+                "left": 586,
+                "width": 454.74,
+                "height": 991.38,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/I5InHTV1QASz6kg458eHH_583x1271.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE PRM 2S WINE BLOOM-Z)",
+            "description": "Brand: Whirlpool. Model: 205 WDE PRM 2S. Capacity: 184 litres. Annual Energy Consumption: 190 Kilowatt Hours Per Year. Refrigerator Fresh Food Capacity: 169.2 litres. Freezer Capacity: 14.3 Litres. Bottle Count: 6. Installation Type: Freestanding. Part Number: 72680. Form Factor: Stand Alone. Special Features: Door lock. Colour: Wine Bloom-Z. Voltage: 220. Number of Drawers: 4. Defrost System: Automatic. Door Orientation: Left. Door Material: Stainless Steel. Shelf Type: Toughened Glass. Number of Shelves: 2. Certification: Energy Rating. Material: Stainless Steel. Batteries Required: No. Country of Origin: India. Importer: Whirlpool of India Ltd. Plot No. A-4, MIDC Ranjangaon,Taluka Shirur, Dist: Pune, Maharashtra 412220, India, Email - helpdeskindia@whirlpool.com ; Toll Free - 1800 208 1800. Item Weight: 33 kg 400 g. Item Dimensions Lx Wx H: 65.1 x 53.5 x 118.8 Centimeters. Net Quantity: 1 Count. Generic Name: Refrigerator.",
+            "price": "\u20b913190"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/I5InHTV1QASz6kg458eHH_583x1271.png",
+        "marketplace_url": "https://www.amazon.in/Whirlpool-Refrigerator-205-WDE-PRM/dp/B0BSRTBHPY/ref=sr_1_3_sspa?_encoding=UTF8&content-id=amzn1.sym.58c90a12-100b-4a2f-8e15-7c06f1abe2be&dib=eyJ2IjoiMSJ9.WcV38wJ-brZNaTfMoo7yrZyvZvL_ck0acrvYkfRD_QSatV-eK-EtSvMIAsfVgdtqfGV_hXl7fR-WfGwFPpeMThOCHueXVNDi5u2naJawJEHEpOS_MYZnECnYKpF4b-7rWWaQSi70IsAv2Tj1QV3AQhKnba2dOH35ZzmgoW3MbZKhdQAVLZ-qL1dQp-Lt3ovEWPg6kBpmt2Roy_NFIUgPGeFTh15sucGH7HICGqs-i24DVFZDTg6tUl5g7RXBvUTH6iOpKLuYD1avD_-v9NpgV7J-IZ-KcTfBKZnXiDfwqPY.r2fkAtg9SIRtLlvTIa6ubr_RpceZaOcGz6ligDVfZ8M&dib_tag=se&pd_rd_r=7a6115c4-4da2-4626-bf85-997247401f66&pd_rd_w=OYnrd&pd_rd_wg=HbxU6&qid=1744965437&refinements=p_85%3A10440599031&rps=1&s=kitchen&sr=1-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfYnJvd3Nl&psc=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner showcases a single-door refrigerator on a grid-based background split into four rich, contrasting tones. The top-left quadrant houses the brand and product information with three text layers: the main title (`heading`), the subheading (`subheading`), and the product variant (`tagline`). Positioned in the center-right is a photo-realistic product image (`product_image`) of the floral-patterned fridge. Below the text header is a bulleted list (`description`) detailing product highlights. The price (`price`) is prominently displayed in bold white, followed by a pink call-to-action button (`cta_background`) containing the \"SHOP NOW\" text (`cta`). Subtle white line accents and hazy decorative circles add softness and depth.\n\n**Color Palette**:\n- Deep Maroon: `#5A0F25`\n- Burgundy: `#781836`\n- Dark Rose: `#4D0D20`\n- Accent Pink: `#FFD8E6`\n- Rich Pink: `#E96990`\n- Soft Lilac: `#E9D5E0`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image exhibits a rich, luxurious color palette that's ideal for a premium and elegant advertisement banner. Dominated by deep wine and violet tones (#4B003D, #5A0E4D), the background exudes sophistication. The floral artwork features a radiant blend of magenta (#C2185B), fuchsia (#F06292), coral pink (#FF6F61), and soft lavender-blue (#B39DDB), creating an ethereal contrast. Highlights are created using white accents and soft glowing centers (#FF8A80) within the petals. Colors seamlessly blend using gradient transitions, maintaining a vivid yet balanced ensemble. This high-contrast palette offers visual intensity, making the key floral designs stand out while harmonizing with the darker backdrop.  \n"
+}

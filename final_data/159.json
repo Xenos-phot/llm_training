@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#E0F7FA'/><stop offset='100%' stop-color='#B2EBF2'/></linearGradient><linearGradient id='tealGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#009688'/><stop offset='100%' stop-color='#00796B'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#E0F7FA'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><path d='M0 300 Q540 200 1080 300 L1080 0 L0 0 Z' fill='#4DB6AC' opacity='0.3'/><path d='M0 800 Q540 900 1080 800 L1080 1080 L0 1080 Z' fill='#4DB6AC' opacity='0.3'/><circle cx='540' cy='550' r='300' fill='url(#circleGradient)' stroke='#00897B' stroke-width='5'/><circle cx='850' cy='450' r='130' fill='#00796B' opacity='0.9' stroke='#FFFFFF' stroke-width='2'/><g opacity='0.1'><circle cx='200' cy='300' r='15' fill='#00897B'/><circle cx='900' cy='250' r='20' fill='#00897B'/><circle cx='300' cy='900' r='25' fill='#00897B'/><circle cx='800' cy='800' r='15' fill='#00897B'/></g><path d='M200 200 Q250 150, 300 200' stroke='#4DB6AC' stroke-width='3' fill='none'/><path d='M800 800 Q850 750, 900 800' stroke='#4DB6AC' stroke-width='3' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 331.85, "width": 416.3, "height": 113, "fill": "#00695C", "text": "COOL TOP ECO", "fontSize": 100, "fontFamily": "Bebas Neue-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 200, "left": 187.36, "width": 705.28, "height": 45.2, "fill": "#004D40", "text": "Advanced Heat Reflective Coating", "fontSize": 40, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 307.1, "left": 313.55, "width": 647, "height": 694, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/669fc40c7994ff6e4fd73fe3/9RuXgi4g-brxLo4w04DTr_647x694.png", "id": "product_image"}, {"type": "text", "top": 404.8, "left": 743.2, "width": 213.6, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b91500", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 880, "left": 76.47500000000002, "width": 927.05, "height": 36.16, "fill": "#004D40", "text": "\u2022 IR Reflection Technology \u2022 Eco-friendly Formula \u2022 Energy-saving", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 960, "left": 440.0, "width": 200, "height": 60, "fill": "#00796B", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 976.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Panache Cool Top Eco - Advanced Heat Reflective Roof Coating | 5KG", "description": "\u2022 IR Reflection Technology for superior heat reduction\n\u2022 Eco-friendly nano-technology formulation\n\u2022 High SRI (Solar Reflective Index) rating for maximum cooling efficiency\n\u2022 Easy roof application and coverage\n\u2022 5KG bucket size for extensive coverage\n\u2022 Professional-grade cooling solution\n\u2022 Weather-resistant and durable coating\n\u2022 Reduces indoor temperature naturally\n\u2022 Energy-saving solution for buildings\n\u2022 Compatible with various roof surfaces\n\u2022 Environment-friendly cooling solution\n\u2022 Long-lasting thermal protection", "price": "\u20b91500"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/669fc40c7994ff6e4fd73fe3/9RuXgi4g-brxLo4w04DTr_647x694.png", "marketplace_url": "blob:https://studio.phot.ai/e1d50ba5-19b0-4c62-a6aa-1b3b66d8a15d", "layout": "circular_focus"}, "banner_details": "\nThe banner showcases a heat-reflective coating product in a professional and clean layout. A prominent product image is centered within a soft radial backdrop circle, emphasizing the item. The \"heading\" text is bold and eye-catching, supported by a smaller \"subheading\" describing the product benefits. A contrasting price badge (\"price\") overlays the product image within a deep green circular shape. Three key features are listed below in \"description\" using bullet points for better readability. At the bottom, a call-to-action button with \"cta_background\" and \"cta\" text directs user engagement.\n\n**Color Palette:**\n- Soft Aqua: #E0F7FA\n- Teal Gradient: #009688 \u2192 #00796B\n- Deep Green: #004D40\n- Emerald Green: #00796B\n- White: #FFFFFF\n- Aqua Shadow: #4DB6AC\n", "product_color": "  \nThe product image uses a clean and modern color palette dominated by teal green (#009187) that exudes a sense of freshness, eco-friendliness, and innovation. White (#FFFFFF) is creatively used as a background and text color to enhance readability and contrast. The brand name \"Panache\" is in a deep navy blue (#1C2A5B), conveying trust and professionalism. Additionally, a striking lime green (#B3D334) in the leaf element adds an eco-conscious touch. The colors are well-blended with clear boundaries, maintaining visual clarity while drawing attention to key elements like the product name and usage. The design balances vibrancy with simplicity effectively.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#E0F7FA'/><stop offset='100%' stop-color='#B2EBF2'/></linearGradient><linearGradient id='tealGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#009688'/><stop offset='100%' stop-color='#00796B'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#E0F7FA'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><path d='M0 300 Q540 200 1080 300 L1080 0 L0 0 Z' fill='#4DB6AC' opacity='0.3'/><path d='M0 800 Q540 900 1080 800 L1080 1080 L0 1080 Z' fill='#4DB6AC' opacity='0.3'/><circle cx='540' cy='550' r='300' fill='url(#circleGradient)' stroke='#00897B' stroke-width='5'/><circle cx='850' cy='450' r='130' fill='#00796B' opacity='0.9' stroke='#FFFFFF' stroke-width='2'/><g opacity='0.1'><circle cx='200' cy='300' r='15' fill='#00897B'/><circle cx='900' cy='250' r='20' fill='#00897B'/><circle cx='300' cy='900' r='25' fill='#00897B'/><circle cx='800' cy='800' r='15' fill='#00897B'/></g><path d='M200 200 Q250 150, 300 200' stroke='#4DB6AC' stroke-width='3' fill='none'/><path d='M800 800 Q850 750, 900 800' stroke='#4DB6AC' stroke-width='3' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 331.85,
+                "width": 416.3,
+                "height": 113,
+                "fill": "#00695C",
+                "text": "COOL TOP ECO",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 187.36,
+                "width": 705.28,
+                "height": 45.2,
+                "fill": "#004D40",
+                "text": "Advanced Heat Reflective Coating",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 307.1,
+                "left": 313.55,
+                "width": 452.9,
+                "height": 485.79999999999995,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/669fc40c7994ff6e4fd73fe3/9RuXgi4g-brxLo4w04DTr_647x694.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 404.8,
+                "left": 743.2,
+                "width": 213.6,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b91500",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 76.47500000000002,
+                "width": 927.05,
+                "height": 36.16,
+                "fill": "#004D40",
+                "text": "\u2022 IR Reflection Technology \u2022 Eco-friendly Formula \u2022 Energy-saving",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#00796B",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 976.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Panache Cool Top Eco - Advanced Heat Reflective Roof Coating | 5KG",
+            "description": "\u2022 IR Reflection Technology for superior heat reduction\n\u2022 Eco-friendly nano-technology formulation\n\u2022 High SRI (Solar Reflective Index) rating for maximum cooling efficiency\n\u2022 Easy roof application and coverage\n\u2022 5KG bucket size for extensive coverage\n\u2022 Professional-grade cooling solution\n\u2022 Weather-resistant and durable coating\n\u2022 Reduces indoor temperature naturally\n\u2022 Energy-saving solution for buildings\n\u2022 Compatible with various roof surfaces\n\u2022 Environment-friendly cooling solution\n\u2022 Long-lasting thermal protection",
+            "price": "\u20b91500"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/669fc40c7994ff6e4fd73fe3/9RuXgi4g-brxLo4w04DTr_647x694.png",
+        "marketplace_url": "blob:https://studio.phot.ai/e1d50ba5-19b0-4c62-a6aa-1b3b66d8a15d",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner showcases a heat-reflective coating product in a professional and clean layout. A prominent product image is centered within a soft radial backdrop circle, emphasizing the item. The \"heading\" text is bold and eye-catching, supported by a smaller \"subheading\" describing the product benefits. A contrasting price badge (\"price\") overlays the product image within a deep green circular shape. Three key features are listed below in \"description\" using bullet points for better readability. At the bottom, a call-to-action button with \"cta_background\" and \"cta\" text directs user engagement.\n\n**Color Palette:**\n- Soft Aqua: #E0F7FA\n- Teal Gradient: #009688 \u2192 #00796B\n- Deep Green: #004D40\n- Emerald Green: #00796B\n- White: #FFFFFF\n- Aqua Shadow: #4DB6AC\n",
+    "product_color": "  \nThe product image uses a clean and modern color palette dominated by teal green (#009187) that exudes a sense of freshness, eco-friendliness, and innovation. White (#FFFFFF) is creatively used as a background and text color to enhance readability and contrast. The brand name \"Panache\" is in a deep navy blue (#1C2A5B), conveying trust and professionalism. Additionally, a striking lime green (#B3D334) in the leaf element adds an eco-conscious touch. The colors are well-blended with clear boundaries, maintaining visual clarity while drawing attention to key elements like the product name and usage. The design balances vibrancy with simplicity effectively.  \n"
+}

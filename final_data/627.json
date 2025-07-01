@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#bde9c9'/><path d='M0 0 L1080 0 L1080 750 C900 780 700 740 500 770 C300 800 100 750 0 770 L0 0Z' fill='#28572a' opacity='0.5'/><path d='M0 0 L1080 0 L1080 600 C900 630 700 590 500 620 C300 650 100 600 0 620 L0 0Z' fill='#027223' opacity='0.6'/><path d='M0 0 L1080 0 L1080 450 C900 480 700 440 500 470 C300 500 100 450 0 470 L0 0Z' fill='#28572a' opacity='0.3'/><circle cx='100' cy='980' r='40' fill='#ffffff' opacity='0.3'/><circle cx='980' cy='950' r='60' fill='#ffffff' opacity='0.3'/><circle cx='540' cy='900' r='120' fill='#027223' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 227.85500000000002, "width": 624.29, "height": 90.4, "fill": "#000000", "text": "ELEGANCE", "fontSize": 80, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 249.86, "width": 580.28, "height": 54.24, "fill": "#28572a", "text": "ALDO WOMEN'S TOTE BAG", "fontSize": 48, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 262.94999999999993, "left": 327.53999999999996, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7173bad5-4e81-4290-a80d-34f46a1028b8_nobg_1214x1439.png", "id": "product_image"}, {"type": "text", "top": 865, "left": 458.21500000000003, "width": 159.57, "height": 56.5, "fill": "#000000", "text": "$65.00", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 970, "left": 440.0, "width": 200, "height": 60, "fill": "#28572a", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 984.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#ffffff", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7173bad5-4e81-4290-a80d-34f46a1028b8_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "minimalist_center"}, "banner_details": "\nThis banner features a modern and elegant product advertisement for a women's tote bag. The design utilizes layered vector waves in shades of green to create visual depth and guide focus toward the central product image (`product_image`). The background includes abstract shapes and circles for a soft, contemporary aesthetic. At the top, a bold, clean header (`heading`) followed by a subheading (`subheading`) introduces the product category. Below the product image, the price (`price`) is prominently displayed inside a translucent circular overlay. A rectangular call-to-action button (`cta_background`) with text (`cta`) prompts immediate engagement.\n\n**Color Palette:**\n- Forest Green: #28572a\n- Leaf Green: #027223\n- Mint Green: #bde9c9\n- White: #ffffff\n- Black: #000000\n", "product_color": "\nThe product image showcases a sophisticated handbag in a muted camel brown tone (#B88B6A), which forms the dominant color and offers a warm, elegant base for an advertisement banner. The texture offers a tactile richness, elevating the brown without overwhelming the viewer. Accents of polished gold metal (#D4AF37) on the hardware, chain, and decorative charms add luxury and visual contrast, blending harmoniously but standing out enough to draw focus. A hint of subtle shadowing in darker browns (#8A6240) gives the product depth. Together, the palette exudes premium quality and timeless style, ideal for upscale, minimalist banner designs.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#bde9c9'/><path d='M0 0 L1080 0 L1080 750 C900 780 700 740 500 770 C300 800 100 750 0 770 L0 0Z' fill='#28572a' opacity='0.5'/><path d='M0 0 L1080 0 L1080 600 C900 630 700 590 500 620 C300 650 100 600 0 620 L0 0Z' fill='#027223' opacity='0.6'/><path d='M0 0 L1080 0 L1080 450 C900 480 700 440 500 470 C300 500 100 450 0 470 L0 0Z' fill='#28572a' opacity='0.3'/><circle cx='100' cy='980' r='40' fill='#ffffff' opacity='0.3'/><circle cx='980' cy='950' r='60' fill='#ffffff' opacity='0.3'/><circle cx='540' cy='900' r='120' fill='#027223' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 227.85500000000002,
+                "width": 624.29,
+                "height": 90.4,
+                "fill": "#000000",
+                "text": "ELEGANCE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 249.86,
+                "width": 580.28,
+                "height": 54.24,
+                "fill": "#28572a",
+                "text": "ALDO WOMEN'S TOTE BAG",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 262.94999999999993,
+                "left": 327.53999999999996,
+                "width": 412.76000000000005,
+                "height": 489.26000000000005,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7173bad5-4e81-4290-a80d-34f46a1028b8_nobg_1214x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 865,
+                "left": 458.21500000000003,
+                "width": 159.57,
+                "height": 56.5,
+                "fill": "#000000",
+                "text": "$65.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 970,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#28572a",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 984.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#ffffff",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/7173bad5-4e81-4290-a80d-34f46a1028b8_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner features a modern and elegant product advertisement for a women's tote bag. The design utilizes layered vector waves in shades of green to create visual depth and guide focus toward the central product image (`product_image`). The background includes abstract shapes and circles for a soft, contemporary aesthetic. At the top, a bold, clean header (`heading`) followed by a subheading (`subheading`) introduces the product category. Below the product image, the price (`price`) is prominently displayed inside a translucent circular overlay. A rectangular call-to-action button (`cta_background`) with text (`cta`) prompts immediate engagement.\n\n**Color Palette:**\n- Forest Green: #28572a\n- Leaf Green: #027223\n- Mint Green: #bde9c9\n- White: #ffffff\n- Black: #000000\n",
+    "product_color": "\nThe product image showcases a sophisticated handbag in a muted camel brown tone (#B88B6A), which forms the dominant color and offers a warm, elegant base for an advertisement banner. The texture offers a tactile richness, elevating the brown without overwhelming the viewer. Accents of polished gold metal (#D4AF37) on the hardware, chain, and decorative charms add luxury and visual contrast, blending harmoniously but standing out enough to draw focus. A hint of subtle shadowing in darker browns (#8A6240) gives the product depth. Together, the palette exudes premium quality and timeless style, ideal for upscale, minimalist banner designs.\n"
+}

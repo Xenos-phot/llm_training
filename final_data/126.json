@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#4A2F27;stop-opacity:1'/><stop offset='100%' style='stop-color:#36221E;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D1BCA3;stop-opacity:1'/><stop offset='100%' style='stop-color:#C4AD93;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='url(#grad2)'/><g opacity='0.1'><circle cx='200' cy='200' r='5' fill='#ffffff'/><circle cx='240' cy='200' r='5' fill='#ffffff'/><circle cx='280' cy='200' r='5' fill='#ffffff'/><circle cx='200' cy='240' r='5' fill='#ffffff'/><circle cx='240' cy='240' r='5' fill='#ffffff'/><circle cx='280' cy='240' r='5' fill='#ffffff'/><circle cx='200' cy='280' r='5' fill='#ffffff'/><circle cx='240' cy='280' r='5' fill='#ffffff'/><circle cx='280' cy='280' r='5' fill='#ffffff'/></g><g opacity='0.1'><circle cx='800' cy='800' r='5' fill='#4A2F27'/><circle cx='840' cy='800' r='5' fill='#4A2F27'/><circle cx='880' cy='800' r='5' fill='#4A2F27'/><circle cx='800' cy='840' r='5' fill='#4A2F27'/><circle cx='840' cy='840' r='5' fill='#4A2F27'/><circle cx='880' cy='840' r='5' fill='#4A2F27'/><circle cx='800' cy='880' r='5' fill='#4A2F27'/><circle cx='840' cy='880' r='5' fill='#4A2F27'/><circle cx='880' cy='880' r='5' fill='#4A2F27'/></g><path d='M100 400 L400 100' stroke='#D4AF37' stroke-width='2' opacity='0.3'/><path d='M200 800 L800 200' stroke='#D4AF37' stroke-width='2' opacity='0.3'/><path d='M300 900 L900 300' stroke='#D4AF37' stroke-width='2' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 297.7, "height": 90.4, "fill": "#ffffff", "text": "TWO-TONE", "fontSize": 80, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 50, "width": 292.66, "height": 90.4, "fill": "#ffffff", "text": "HOBO BAG", "fontSize": 80, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 300, "left": 50, "width": 524.39, "height": 67.8, "fill": "#D4AF37", "text": "DESIGNER LEATHER", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 410, "left": 50, "width": 395.73, "height": 188.03, "fill": "#ffffff", "text": "\u2022 Premium Dual-Color Leather\n\u2022 Spacious Interior\n\u2022 Exterior Slip Pockets\n\u2022 Durable Gold Hardware", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 740, "left": 50, "width": 358.99, "height": 124.3, "fill": "#D4AF37", "text": "\u20b91550", "fontSize": 110, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 890, "left": 50, "width": 220, "height": 60, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 907, "left": 95, "width": 125.04, "height": 27.12, "fill": "#36221E", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 240, "left": 520, "width": 919, "height": 1247, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/Srk06BEifNUKWmdmtqV6f_919x1247.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegant Two-Tone Designer Hobo Bag - Black & Brown Leather Shoulder Tote with Exterior Pockets", "description": "\u2022 Premium dual-color leather design combining classic black and rich brown\n\u2022 Spacious main compartment with generous interior storage\n\u2022 Convenient exterior slip pockets on both sides for easy access\n\u2022 Durable gold-tone hardware and sturdy shoulder strap\n\u2022 High-quality stitching and professional craftsmanship\n\u2022 Modern minimalist aesthetic perfect for work and casual use\n\u2022 Versatile size suitable for daily essentials\n\u2022 Sleek, contemporary color-block design\n\u2022 Easy-access open top design\n\u2022 Smooth leather finish with elegant sheen\n\u2022 Professional look ideal for office and business settings\n\u2022 Lightweight yet sturdy construction for everyday use", "price": "\u20b91550"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/Srk06BEifNUKWmdmtqV6f_919x1247.png", "marketplace_url": "", "layout": "diagonal_split"}, "banner_details": "\nThe banner features a stylish promotional layout for a fashion product. It is split diagonally into two background segments: a deep chocolate brown gradient on the upper right and a muted beige gradient on the lower left, creating contrast and balance. A high-quality image of a two-tone leather hobo bag is placed on the right, partially overlapping the diagonal divider. \n\nBold, uppercase text elements (`heading_1`, `heading_2`) are placed at the top left, drawing attention with white font. The subheading (`subheading`) in gold color emphasizes the luxury theme. Below, the feature details (`description`) are listed using bullet points in white. The price (`price`) is prominently highlighted in large golden text, followed by a rectangular CTA button (`cta_button`) with a dark brown text label (`cta`) reading \u201cSHOP NOW\u201d. Subtle decorative lines and dotted patterns add texture and depth to the background.\n\n**Color Palette:**\n- Deep Brown: #36221E\n- Chocolate: #4A2F27\n- Beige: #D1BCA3, #C4AD93\n- Gold: #D4AF37\n- White: #FFFFFF\n", "product_color": "  \nThe product image showcases a sleek, dual-tone modern handbag that blends deep black (#1A1A1A) and rich chocolate brown (#4B2E2E) tones with a touch of warm burgundy (#5D3A3A). The elegant color contrast between the left black panel and the right burgundy-brown panel creates a sophisticated visual split. The muted gold hardware (#D4AF37) adds a subtle shine, enhancing the overall luxury appeal. The blending is sharply defined by geometric stitching, yet harmonized through the soft leather texture and sheen. Recommended advertisement banner palette includes: black (#1A1A1A), cocoa brown (#4B2E2E), burgundy (#5D3A3A), soft beige (#D8C7B5), and gold (#D4AF37) for highlights and accents.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#4A2F27;stop-opacity:1'/><stop offset='100%' style='stop-color:#36221E;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D1BCA3;stop-opacity:1'/><stop offset='100%' style='stop-color:#C4AD93;stop-opacity:1'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 1080 L0 1080 Z' fill='url(#grad2)'/><g opacity='0.1'><circle cx='200' cy='200' r='5' fill='#ffffff'/><circle cx='240' cy='200' r='5' fill='#ffffff'/><circle cx='280' cy='200' r='5' fill='#ffffff'/><circle cx='200' cy='240' r='5' fill='#ffffff'/><circle cx='240' cy='240' r='5' fill='#ffffff'/><circle cx='280' cy='240' r='5' fill='#ffffff'/><circle cx='200' cy='280' r='5' fill='#ffffff'/><circle cx='240' cy='280' r='5' fill='#ffffff'/><circle cx='280' cy='280' r='5' fill='#ffffff'/></g><g opacity='0.1'><circle cx='800' cy='800' r='5' fill='#4A2F27'/><circle cx='840' cy='800' r='5' fill='#4A2F27'/><circle cx='880' cy='800' r='5' fill='#4A2F27'/><circle cx='800' cy='840' r='5' fill='#4A2F27'/><circle cx='840' cy='840' r='5' fill='#4A2F27'/><circle cx='880' cy='840' r='5' fill='#4A2F27'/><circle cx='800' cy='880' r='5' fill='#4A2F27'/><circle cx='840' cy='880' r='5' fill='#4A2F27'/><circle cx='880' cy='880' r='5' fill='#4A2F27'/></g><path d='M100 400 L400 100' stroke='#D4AF37' stroke-width='2' opacity='0.3'/><path d='M200 800 L800 200' stroke='#D4AF37' stroke-width='2' opacity='0.3'/><path d='M300 900 L900 300' stroke='#D4AF37' stroke-width='2' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 297.7,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "TWO-TONE",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 50,
+                "width": 292.66,
+                "height": 90.4,
+                "fill": "#ffffff",
+                "text": "HOBO BAG",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 50,
+                "width": 524.39,
+                "height": 67.8,
+                "fill": "#D4AF37",
+                "text": "DESIGNER LEATHER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 410,
+                "left": 50,
+                "width": 395.73,
+                "height": 188.03,
+                "fill": "#ffffff",
+                "text": "\u2022 Premium Dual-Color Leather\n\u2022 Spacious Interior\n\u2022 Exterior Slip Pockets\n\u2022 Durable Gold Hardware",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 50,
+                "width": 358.99,
+                "height": 124.3,
+                "fill": "#D4AF37",
+                "text": "\u20b91550",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 890,
+                "left": 50,
+                "width": 220,
+                "height": 60,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 907,
+                "left": 95,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#36221E",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 240,
+                "left": 520,
+                "width": 551.4,
+                "height": 748.1999999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/Srk06BEifNUKWmdmtqV6f_919x1247.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegant Two-Tone Designer Hobo Bag - Black & Brown Leather Shoulder Tote with Exterior Pockets",
+            "description": "\u2022 Premium dual-color leather design combining classic black and rich brown\n\u2022 Spacious main compartment with generous interior storage\n\u2022 Convenient exterior slip pockets on both sides for easy access\n\u2022 Durable gold-tone hardware and sturdy shoulder strap\n\u2022 High-quality stitching and professional craftsmanship\n\u2022 Modern minimalist aesthetic perfect for work and casual use\n\u2022 Versatile size suitable for daily essentials\n\u2022 Sleek, contemporary color-block design\n\u2022 Easy-access open top design\n\u2022 Smooth leather finish with elegant sheen\n\u2022 Professional look ideal for office and business settings\n\u2022 Lightweight yet sturdy construction for everyday use",
+            "price": "\u20b91550"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6836b3f232af103bc9281c1f/Srk06BEifNUKWmdmtqV6f_919x1247.png",
+        "marketplace_url": "",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner features a stylish promotional layout for a fashion product. It is split diagonally into two background segments: a deep chocolate brown gradient on the upper right and a muted beige gradient on the lower left, creating contrast and balance. A high-quality image of a two-tone leather hobo bag is placed on the right, partially overlapping the diagonal divider. \n\nBold, uppercase text elements (`heading_1`, `heading_2`) are placed at the top left, drawing attention with white font. The subheading (`subheading`) in gold color emphasizes the luxury theme. Below, the feature details (`description`) are listed using bullet points in white. The price (`price`) is prominently highlighted in large golden text, followed by a rectangular CTA button (`cta_button`) with a dark brown text label (`cta`) reading \u201cSHOP NOW\u201d. Subtle decorative lines and dotted patterns add texture and depth to the background.\n\n**Color Palette:**\n- Deep Brown: #36221E\n- Chocolate: #4A2F27\n- Beige: #D1BCA3, #C4AD93\n- Gold: #D4AF37\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image showcases a sleek, dual-tone modern handbag that blends deep black (#1A1A1A) and rich chocolate brown (#4B2E2E) tones with a touch of warm burgundy (#5D3A3A). The elegant color contrast between the left black panel and the right burgundy-brown panel creates a sophisticated visual split. The muted gold hardware (#D4AF37) adds a subtle shine, enhancing the overall luxury appeal. The blending is sharply defined by geometric stitching, yet harmonized through the soft leather texture and sheen. Recommended advertisement banner palette includes: black (#1A1A1A), cocoa brown (#4B2E2E), burgundy (#5D3A3A), soft beige (#D8C7B5), and gold (#D4AF37) for highlights and accents.  \n"
+}

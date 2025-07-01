@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FF9BB3;stop-opacity:1' /><stop offset='100%' style='stop-color:#FFCCD8;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FFFFFF;stop-opacity:1' /><stop offset='100%' style='stop-color:#FFEBF0;stop-opacity:1' /></linearGradient></defs><rect width='540' height='1080' fill='url(#grad1)' /><rect x='540' y='0' width='540' height='1080' fill='url(#grad2)' /><circle cx='150' cy='150' r='80' fill='#FFFFFF' opacity='0.2' /><circle cx='400' cy='250' r='60' fill='#FFFFFF' opacity='0.15' /><circle cx='300' cy='700' r='100' fill='#FFFFFF' opacity='0.2' /><circle cx='120' cy='900' r='70' fill='#FFFFFF' opacity='0.15' /><circle cx='800' cy='200' r='50' fill='#FFB6C9' opacity='0.1' /><circle cx='900' cy='400' r='80' fill='#FFB6C9' opacity='0.1' /><circle cx='750' cy='800' r='100' fill='#FFB6C9' opacity='0.1' /><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='4' stroke-dasharray='15,10' /></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 448.68, "height": 171.76, "fill": "#FFFFFF", "text": "PINK\nPERFECTION", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 294, "left": 60, "width": 229.04, "height": 99.44, "fill": "#333333", "text": "LUXURY LIPSTICK\n& BLUSH DUO SET", "fontSize": 44, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 410, "left": 57, "width": 403.01, "height": 103.06, "fill": "#4A4A4A", "text": "\u2022 Premium pink-toned cosmetics\n\u2022 Long-lasting, pigment-rich formula\n\u2022 Mirror-equipped compact for on-the-go", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "rect", "top": 680, "left": 60, "width": 250, "height": 70, "fill": "#FF5C85", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 698, "left": 95, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 550, "left": 60, "width": 178.89, "height": 79.1, "fill": "#FF5C85", "text": "\u20b9 999", "fontSize": 70, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 60, "width": 420, "height": 80, "fill": "#333333", "rx": 0, "ry": 0, "id": "offer_banner"}, {"type": "text", "top": 810, "left": 138, "width": 246.13, "height": 33.9, "fill": "#FFFFFF", "text": "BUY ONE GET ONE FREE", "fontSize": 30, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "offer_text"}, {"type": "image", "top": 247.54, "left": 570.53, "width": 703, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/mQBf2MglQAAd5Cx1pjjZW_703x759.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pink Perfection: Luxury Lipstick & Blush Duo Set", "description": "\u2022 Premium pink-toned lipstick in sleek silver and black packaging\n\u2022 Matching powder blush compact with built-in mirror\n\u2022 Long-lasting, pigment-rich color formula\n\u2022 Travel-friendly compact design with secure closure\n\u2022 Professional-grade makeup essentials for a coordinated look\n\u2022 Soft, buildable pink shades suitable for all skin tones\n\u2022 Mirror-equipped compact for touch-ups on the go\n\u2022 Luxurious matte black packaging with modern aesthetic\n\u2022 Perfect for creating natural flush and rosy lip combo\n\u2022 Ideal for daily wear and special occasions", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/mQBf2MglQAAd5Cx1pjjZW_703x759.png", "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner is a cosmetic product advertisement with a clean and modern layout. The left half features a soft pink gradient background with subtle circular accents, adding depth. Prominently at the top is a bold, attention-grabbing header (`heading`), followed by a subtitle (`subheading`) that gives context to the product offering. A short bullet list (`description`) highlights key features. Beneath that is a pricing callout (`price`) in large bold text to draw attention. Below it lies an eye-catching rectangular CTA button (`cta_button`) labeled with action text (`cta`) in white. Reinforcing urgency, a contrasting secondary offer banner (`offer_banner`) with bold uppercase text (`offer_text`) is placed near the bottom. The right half displays a scaled product image (`product_image`) showcasing a lipstick and blush compact, balancing visual interest and product clarity.\n\n**Color Palette:**\n- Light Pink: `#FFCCD8`\n- Bright Pink: `#FF5C85`\n- Soft Rose: `#FF9BB3`\n- Deep Gray: `#333333`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases a makeup set featuring a lipstick and compact blush, primarily in shades of soft pink. The dominant color is a light, vibrant pink (#EC8FC6), used both in the lipstick and blush, creating a cohesive and feminine visual appeal. This is contrasted with sleek black (#1A1A1A) packaging, giving it a modern, sophisticated frame. The metallic silver (#C0C0C0) of the lipstick tube adds shine and blends smoothly without muted the central pink tone. The mirror's subtle gray tones (#E6E6E6) reflect and amplify the product's hues. These colors harmoniously blend while keeping the pink as the focal highlight, perfect for a clean, elegant banner.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FF9BB3;stop-opacity:1' /><stop offset='100%' style='stop-color:#FFCCD8;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FFFFFF;stop-opacity:1' /><stop offset='100%' style='stop-color:#FFEBF0;stop-opacity:1' /></linearGradient></defs><rect width='540' height='1080' fill='url(#grad1)' /><rect x='540' y='0' width='540' height='1080' fill='url(#grad2)' /><circle cx='150' cy='150' r='80' fill='#FFFFFF' opacity='0.2' /><circle cx='400' cy='250' r='60' fill='#FFFFFF' opacity='0.15' /><circle cx='300' cy='700' r='100' fill='#FFFFFF' opacity='0.2' /><circle cx='120' cy='900' r='70' fill='#FFFFFF' opacity='0.15' /><circle cx='800' cy='200' r='50' fill='#FFB6C9' opacity='0.1' /><circle cx='900' cy='400' r='80' fill='#FFB6C9' opacity='0.1' /><circle cx='750' cy='800' r='100' fill='#FFB6C9' opacity='0.1' /><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='4' stroke-dasharray='15,10' /></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 448.68,
+                "height": 171.76,
+                "fill": "#FFFFFF",
+                "text": "PINK\nPERFECTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 294,
+                "left": 60,
+                "width": 229.04,
+                "height": 99.44,
+                "fill": "#333333",
+                "text": "LUXURY LIPSTICK\n& BLUSH DUO SET",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 410,
+                "left": 57,
+                "width": 403.01,
+                "height": 103.06,
+                "fill": "#4A4A4A",
+                "text": "\u2022 Premium pink-toned cosmetics\n\u2022 Long-lasting, pigment-rich formula\n\u2022 Mirror-equipped compact for on-the-go",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 680,
+                "left": 60,
+                "width": 250,
+                "height": 70,
+                "fill": "#FF5C85",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 698,
+                "left": 95,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 550,
+                "left": 60,
+                "width": 178.89,
+                "height": 79.1,
+                "fill": "#FF5C85",
+                "text": "\u20b9 999",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 60,
+                "width": 420,
+                "height": 80,
+                "fill": "#333333",
+                "rx": 0,
+                "ry": 0,
+                "id": "offer_banner"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 138,
+                "width": 246.13,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "BUY ONE GET ONE FREE",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "offer_text"
+            },
+            {
+                "type": "image",
+                "top": 247.54,
+                "left": 570.53,
+                "width": 428.83,
+                "height": 462.99,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/mQBf2MglQAAd5Cx1pjjZW_703x759.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pink Perfection: Luxury Lipstick & Blush Duo Set",
+            "description": "\u2022 Premium pink-toned lipstick in sleek silver and black packaging\n\u2022 Matching powder blush compact with built-in mirror\n\u2022 Long-lasting, pigment-rich color formula\n\u2022 Travel-friendly compact design with secure closure\n\u2022 Professional-grade makeup essentials for a coordinated look\n\u2022 Soft, buildable pink shades suitable for all skin tones\n\u2022 Mirror-equipped compact for touch-ups on the go\n\u2022 Luxurious matte black packaging with modern aesthetic\n\u2022 Perfect for creating natural flush and rosy lip combo\n\u2022 Ideal for daily wear and special occasions",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/mQBf2MglQAAd5Cx1pjjZW_703x759.png",
+        "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner is a cosmetic product advertisement with a clean and modern layout. The left half features a soft pink gradient background with subtle circular accents, adding depth. Prominently at the top is a bold, attention-grabbing header (`heading`), followed by a subtitle (`subheading`) that gives context to the product offering. A short bullet list (`description`) highlights key features. Beneath that is a pricing callout (`price`) in large bold text to draw attention. Below it lies an eye-catching rectangular CTA button (`cta_button`) labeled with action text (`cta`) in white. Reinforcing urgency, a contrasting secondary offer banner (`offer_banner`) with bold uppercase text (`offer_text`) is placed near the bottom. The right half displays a scaled product image (`product_image`) showcasing a lipstick and blush compact, balancing visual interest and product clarity.\n\n**Color Palette:**\n- Light Pink: `#FFCCD8`\n- Bright Pink: `#FF5C85`\n- Soft Rose: `#FF9BB3`\n- Deep Gray: `#333333`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases a makeup set featuring a lipstick and compact blush, primarily in shades of soft pink. The dominant color is a light, vibrant pink (#EC8FC6), used both in the lipstick and blush, creating a cohesive and feminine visual appeal. This is contrasted with sleek black (#1A1A1A) packaging, giving it a modern, sophisticated frame. The metallic silver (#C0C0C0) of the lipstick tube adds shine and blends smoothly without muted the central pink tone. The mirror's subtle gray tones (#E6E6E6) reflect and amplify the product's hues. These colors harmoniously blend while keeping the pink as the focal highlight, perfect for a clean, elegant banner.  \n"
+}

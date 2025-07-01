@@ -1,1 +1,159 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#FFD6E5'/><rect x='540' y='0' width='540' height='540' fill='#FFC0D6'/><rect x='0' y='540' width='540' height='540' fill='#FF8AB6'/><rect x='540' y='540' width='540' height='540' fill='#FF3385'/><g opacity='0.2'><circle cx='270' cy='270' r='150' fill='#FF69B4'/><circle cx='810' cy='810' r='150' fill='#FFFFFF'/></g><g opacity='0.1'><path d='M100,100 L440,100 L440,440 L100,440 Z' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M640,640 L980,640 L980,980 L640,980 Z' stroke='#FFFFFF' stroke-width='8' fill='none'/></g><g opacity='0.15'><circle cx='120' cy='120' r='5' fill='#FFFFFF'/><circle cx='140' cy='120' r='5' fill='#FFFFFF'/><circle cx='160' cy='120' r='5' fill='#FFFFFF'/><circle cx='180' cy='120' r='5' fill='#FFFFFF'/><circle cx='200' cy='120' r='5' fill='#FFFFFF'/><circle cx='880' cy='880' r='5' fill='#FFFFFF'/><circle cx='900' cy='880' r='5' fill='#FFFFFF'/><circle cx='920' cy='880' r='5' fill='#FFFFFF'/><circle cx='940' cy='880' r='5' fill='#FFFFFF'/><circle cx='960' cy='880' r='5' fill='#FFFFFF'/></g><path d='M0,540 L1080,540' stroke='#FFFFFF' stroke-width='3'/><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 392.84, "height": 158.2, "fill": "#333333", "text": "PINK\nPERFECTION", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 280, "left": 50, "width": 455.66, "height": 24.86, "fill": "#333333", "text": "LUXE LIPSTICK & BLUSH DUO", "fontSize": 22, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 360, "left": 50, "width": 202.26, "height": 36.16, "fill": "#FF1476", "text": "LIMITED TIME OFFER!", "fontSize": 32, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 610, "left": 50, "width": 473.97, "height": 164.53, "fill": "#FFFFFF", "text": "\u2022 Premium pink lipstick with silver case\n\u2022 Complementary blush in sleek compact\n\u2022 Long-lasting, pigment-rich formula\n\u2022 Perfect for all skin tones", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "image", "top": 80, "left": 600, "width": 703, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/iF71vWQeeKwQQ9D0Ve4zQ_703x759.png", "id": "product_image"}, {"type": "text", "top": 790, "left": 50, "width": 256.97, "height": 101.7, "fill": "#FFFFFF", "text": "\u20b9 999", "fontSize": 90, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "text", "top": 922, "left": 60, "width": 311.72, "height": 22.6, "fill": "#FFFFFF", "text": "WHILE STOCKS LAST!", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "urgency_text"}, {"type": "rect", "top": 800, "left": 600, "width": 336.0, "height": 84.0, "fill": "#FFFFFF", "rx": 5, "ry": 5, "id": "cta_button_background"}, {"type": "text", "top": 824, "left": 685, "width": 168.95, "height": 33.9, "fill": "#FF1476", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 720, "left": 600, "width": 367.78, "height": 39.55, "fill": "#FFFFFF", "text": "HURRY! LIMITED STOCK", "fontSize": 35, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "urgency_heading"}, {"type": "text", "top": 920, "left": 620, "width": 238.61, "height": 24.86, "fill": "#FFFFFF", "text": "OFFER ENDS IN 24 HOURS", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "countdown_text"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pink Perfection: Luxe Lipstick & Blush Duo Set", "description": "\u2022 Premium pink lipstick with silver metallic casing for elegant application\n\u2022 Complementary powder blush in sleek black compact with mirror\n\u2022 Long-lasting, pigment-rich formula for vibrant color payoff\n\u2022 Travel-friendly size perfect for on-the-go touch-ups\n\u2022 Matte finish blush for natural-looking flush\n\u2022 Creamy lipstick texture for smooth, comfortable wear\n\u2022 Built-in mirror compact for precise application anywhere\n\u2022 Professional-grade cosmetic set ideal for daily use\n\u2022 Perfect pink shade suitable for all skin tones\n\u2022 High-quality packaging ensures product protection", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/iF71vWQeeKwQQ9D0Ve4zQ_703x759.png", "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg", "layout": "grid_four"}, "banner_details": "\nThis banner is a promotional design featuring a luxury cosmetic product set. It is divided into four quadrants, each with a distinct pink tone, creating a vibrant and eye-catching layout. The top-left section introduces the product with a bold heading (`heading`) and a sleek subheading (`subheading`), accompanied by a callout for urgency (`tagline`). The top-right quadrant features a realistic, high-quality image of the product (`product_image`). \n\nIn the bottom-left, key product attributes are detailed through a feature list (`description`), alongside striking pricing information (`price`) and a stock scarcity note (`urgency_text`). The bottom-right segment reinforces urgency with a bold call-to-action section, including a compelling urgency title (`urgency_heading`), a \"shop now\" button (`cta_button_background` & `cta`), and a limited-time reminder (`countdown_text`).\n\n**Color Palette:**\n- Light Blush Pink (#FFD6E5)\n- Soft Pink (#FFC0D6)\n- Vibrant Pink (#FF8AB6)\n- Bold Pink (#FF3385)\n- Highlight Pink (#FF1476)\n- Charcoal Gray (#333333)\n- White (#FFFFFF)\n\nThis layout uses clean lines, geometric balance, and layered text to attract attention and prompt action.\n", "product_color": "  \nThe product image showcases a soft, feminine aesthetic through its delicate pink tones paired with bold, sleek packaging. The primary highlight is a vibrant candy pink (#F59AC3), effortlessly echoed in both the blush and lipstick. These pink shades are gently contrasted with the matte black (#1C1C1C) casing, adding sophistication and elevating the modern appeal. A metallic silver (#C0C0C0) on the lipstick tube introduces a luxurious sheen, visually balancing warmth and coolness. The overall color palette is cohesive, minimal, and stylish, ideal for beauty advertisements. Suggested banner colors: Pink (#F59AC3), Black (#1C1C1C), Soft Grey (#D8D8D8), and Silver (#C0C0C0).  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFFFFF'/><rect x='0' y='0' width='540' height='540' fill='#FFD6E5'/><rect x='540' y='0' width='540' height='540' fill='#FFC0D6'/><rect x='0' y='540' width='540' height='540' fill='#FF8AB6'/><rect x='540' y='540' width='540' height='540' fill='#FF3385'/><g opacity='0.2'><circle cx='270' cy='270' r='150' fill='#FF69B4'/><circle cx='810' cy='810' r='150' fill='#FFFFFF'/></g><g opacity='0.1'><path d='M100,100 L440,100 L440,440 L100,440 Z' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M640,640 L980,640 L980,980 L640,980 Z' stroke='#FFFFFF' stroke-width='8' fill='none'/></g><g opacity='0.15'><circle cx='120' cy='120' r='5' fill='#FFFFFF'/><circle cx='140' cy='120' r='5' fill='#FFFFFF'/><circle cx='160' cy='120' r='5' fill='#FFFFFF'/><circle cx='180' cy='120' r='5' fill='#FFFFFF'/><circle cx='200' cy='120' r='5' fill='#FFFFFF'/><circle cx='880' cy='880' r='5' fill='#FFFFFF'/><circle cx='900' cy='880' r='5' fill='#FFFFFF'/><circle cx='920' cy='880' r='5' fill='#FFFFFF'/><circle cx='940' cy='880' r='5' fill='#FFFFFF'/><circle cx='960' cy='880' r='5' fill='#FFFFFF'/></g><path d='M0,540 L1080,540' stroke='#FFFFFF' stroke-width='3'/><path d='M540,0 L540,1080' stroke='#FFFFFF' stroke-width='3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 392.84,
+                "height": 158.2,
+                "fill": "#333333",
+                "text": "PINK\nPERFECTION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 50,
+                "width": 455.66,
+                "height": 24.86,
+                "fill": "#333333",
+                "text": "LUXE LIPSTICK & BLUSH DUO",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 50,
+                "width": 202.26,
+                "height": 36.16,
+                "fill": "#FF1476",
+                "text": "LIMITED TIME OFFER!",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 50,
+                "width": 473.97,
+                "height": 164.53,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium pink lipstick with silver case\n\u2022 Complementary blush in sleek compact\n\u2022 Long-lasting, pigment-rich formula\n\u2022 Perfect for all skin tones",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 80,
+                "left": 600,
+                "width": 456.95,
+                "height": 493.35,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/iF71vWQeeKwQQ9D0Ve4zQ_703x759.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 790,
+                "left": 50,
+                "width": 256.97,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 999",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 922,
+                "left": 60,
+                "width": 311.72,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "WHILE STOCKS LAST!",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "urgency_text"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 600,
+                "width": 336.0,
+                "height": 84.0,
+                "fill": "#FFFFFF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 824,
+                "left": 685,
+                "width": 168.95,
+                "height": 33.9,
+                "fill": "#FF1476",
+                "text": "SHOP NOW",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 720,
+                "left": 600,
+                "width": 367.78,
+                "height": 39.55,
+                "fill": "#FFFFFF",
+                "text": "HURRY! LIMITED STOCK",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "urgency_heading"
+            },
+            {
+                "type": "text",
+                "top": 920,
+                "left": 620,
+                "width": 238.61,
+                "height": 24.86,
+                "fill": "#FFFFFF",
+                "text": "OFFER ENDS IN 24 HOURS",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "countdown_text"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pink Perfection: Luxe Lipstick & Blush Duo Set",
+            "description": "\u2022 Premium pink lipstick with silver metallic casing for elegant application\n\u2022 Complementary powder blush in sleek black compact with mirror\n\u2022 Long-lasting, pigment-rich formula for vibrant color payoff\n\u2022 Travel-friendly size perfect for on-the-go touch-ups\n\u2022 Matte finish blush for natural-looking flush\n\u2022 Creamy lipstick texture for smooth, comfortable wear\n\u2022 Built-in mirror compact for precise application anywhere\n\u2022 Professional-grade cosmetic set ideal for daily use\n\u2022 Perfect pink shade suitable for all skin tones\n\u2022 High-quality packaging ensures product protection",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682b24d392ae04ced9db7bdf/iF71vWQeeKwQQ9D0Ve4zQ_703x759.png",
+        "marketplace_url": "https://images.pexels.com/photos/2533266/pexels-photo-2533266.jpeg",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis banner is a promotional design featuring a luxury cosmetic product set. It is divided into four quadrants, each with a distinct pink tone, creating a vibrant and eye-catching layout. The top-left section introduces the product with a bold heading (`heading`) and a sleek subheading (`subheading`), accompanied by a callout for urgency (`tagline`). The top-right quadrant features a realistic, high-quality image of the product (`product_image`). \n\nIn the bottom-left, key product attributes are detailed through a feature list (`description`), alongside striking pricing information (`price`) and a stock scarcity note (`urgency_text`). The bottom-right segment reinforces urgency with a bold call-to-action section, including a compelling urgency title (`urgency_heading`), a \"shop now\" button (`cta_button_background` & `cta`), and a limited-time reminder (`countdown_text`).\n\n**Color Palette:**\n- Light Blush Pink (#FFD6E5)\n- Soft Pink (#FFC0D6)\n- Vibrant Pink (#FF8AB6)\n- Bold Pink (#FF3385)\n- Highlight Pink (#FF1476)\n- Charcoal Gray (#333333)\n- White (#FFFFFF)\n\nThis layout uses clean lines, geometric balance, and layered text to attract attention and prompt action.\n",
+    "product_color": "  \nThe product image showcases a soft, feminine aesthetic through its delicate pink tones paired with bold, sleek packaging. The primary highlight is a vibrant candy pink (#F59AC3), effortlessly echoed in both the blush and lipstick. These pink shades are gently contrasted with the matte black (#1C1C1C) casing, adding sophistication and elevating the modern appeal. A metallic silver (#C0C0C0) on the lipstick tube introduces a luxurious sheen, visually balancing warmth and coolness. The overall color palette is cohesive, minimal, and stylish, ideal for beauty advertisements. Suggested banner colors: Pink (#F59AC3), Black (#1C1C1C), Soft Grey (#D8D8D8), and Silver (#C0C0C0).  \n"
+}

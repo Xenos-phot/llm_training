@@ -4,6 +4,9 @@ from tqdm import tqdm
 import traceback
 import sys
 import time
+from PIL import Image
+import requests
+from io import BytesIO
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from banner_utils.add_color_pallete import get_color_pallete
 important_fields = {
@@ -219,7 +222,9 @@ def create_condensed_data(file_path, output_folder="condensed_data"):
     with open(os.path.join(output_folder, file_path.split("/")[-1]), "w") as f:
         json.dump(data, f)
 
-def get_original_data(condensed_json, product_image_shape, fonts=json.load(open("../assets/fonts.json", "r"))["english"]):
+def get_original_data(condensed_json, image_url, fonts=json.load(open("../assets/fonts.json", "r"))["english"]):
+    response = requests.get(image_url)
+    product_image_shape = Image.open(BytesIO(response.content)).size
     original_data = condensed_json.copy()
     for idx, layer in enumerate(condensed_json['objects']):
         if layer["type"] in GENERAL_LAYERS:
@@ -227,10 +232,21 @@ def get_original_data(condensed_json, product_image_shape, fonts=json.load(open(
                 if field not in layer:
                     layer[field] = GENERAL_LAYERS[layer["type"]][field]
             if layer["type"] == "image":
-                layer["width"] = product_image_shape[0]
-                layer["height"] = product_image_shape[1]
-                layer["scaleX"] = layer["width"] / product_image_shape[0]
-                layer["scaleY"] = layer["height"] / product_image_shape[1]
+                
+                scaleX = layer["width"] / product_image_shape[0]
+                scaleY = layer["height"] / product_image_shape[1]
+                scale = min(scaleX, scaleY)
+                new_width = product_image_shape[0] * scale
+                new_height = product_image_shape[1] * scale
+                layer["scaleX"] = scale
+                layer["scaleY"] = scale
+                original_center_x = layer["left"] + layer["width"] / 2
+                original_center_y = layer["top"] + layer["height"] / 2
+                layer["left"] = original_center_x - new_width / 2
+                layer["top"] = original_center_y - new_height / 2
+                layer["width"] = new_width
+                layer["height"] = new_height
+                layer["src"] = image_url
             if layer["type"] == "text" or layer["type"] == "textbox":
                 if layer["fontFamily"] in fonts:
                     layer["fontURL"] = fonts[layer["fontFamily"]]

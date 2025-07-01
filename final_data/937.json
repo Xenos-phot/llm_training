@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1F1F2C'/><rect x='0' y='540' width='1080' height='540' fill='#121220'/><circle cx='540' cy='220' r='140' fill='#2D2D40' opacity='0.4'/><circle cx='540' cy='220' r='90' fill='#3D3D50' opacity='0.3'/><rect x='380' y='160' width='320' height='4' rx='2' fill='#B59F6B' opacity='0.6'/><rect x='420' y='180' width='240' height='2' rx='1' fill='#B59F6B' opacity='0.4'/><path d='M0 650 C250 620 500 680 750 650 C916.667 630 1000 650 1080 640 L1080 1080 L0 1080 L0 650Z' fill='#000000' opacity='0.3'/><circle cx='540' cy='980' r='100' fill='#B59F6B' opacity='0.05'/><circle cx='540' cy='980' r='60' fill='#B59F6B' opacity='0.08'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 394.55, "width": 290.9, "height": 90.4, "fill": "#B59F6B", "text": "9 PM", "fontSize": 80, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 190, "left": 337.94, "width": 404.12, "height": 45.2, "fill": "#FFFFFF", "text": "PREMIUM FRAGRANCE", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 263.1, "left": 435.1, "width": 343, "height": 823, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png", "id": "product_image"}, {"type": "text", "top": 785.9, "left": 405.95500000000004, "width": 268.09, "height": 79.1, "fill": "#B59F6B", "text": "$27.00", "fontSize": 70, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 440.0, "width": 200, "height": 60, "fill": "#B59F6B", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 933.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#1F1F2C", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **", "price": "27.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png", "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7", "layout": "minimalist_center"}, "banner_details": "\nThe banner showcases a sleek and elegant design for a fragrance advertisement. The background is layered with deep, rich tones and gradient silhouettes of abstract circular and wave shapes to bring depth and a luxurious feel. Centered at the top is a modern, minimal title text (`heading`) in a gold hue, suggesting sophistication. Just below it, a bold subheading (`subheading`) in white reinforces the premium nature of the product. A realistic product image (`product_image`) is centrally positioned and scaled elegantly to balance the layout. The price text (`price`) appears prominently below the product, using bold gold typography for impact. At the bottom, a rounded gold rectangular button (`cta_background`) houses dark navy call-to-action text (`cta`) urging the user to shop now.\n\n**Color palette:**\n- Deep Navy: `#1F1F2C`\n- Slate Black: `#121220`\n- Vintage Gold: `#B59F6B`\n- Soft White: `#FFFFFF`\n- Charcoal Grey (shadows): `#2D2D40`, `#3D3D50`\n", "product_color": "  \nThe product image features a sleek and modern design with a dominant monochrome color scheme. The primary colors are deep black (#000000) and crisp white (#FFFFFF), which create a bold, high-contrast aesthetic. The black background highlights the minimalistic white typography, drawing focus to the central \u201c9 pm\u201d text. Accents of metallic silver (#C0C0C0) from the cap and around the bottleneck add sophistication and a premium feel. These colors are uniformly blended, maintaining harmony while each stands out distinctly. For an advertisement banner, a color palette including black, white, metallic silver, and charcoal gray (#2E2E2E) would convey elegance and modernity.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#1F1F2C'/><rect x='0' y='540' width='1080' height='540' fill='#121220'/><circle cx='540' cy='220' r='140' fill='#2D2D40' opacity='0.4'/><circle cx='540' cy='220' r='90' fill='#3D3D50' opacity='0.3'/><rect x='380' y='160' width='320' height='4' rx='2' fill='#B59F6B' opacity='0.6'/><rect x='420' y='180' width='240' height='2' rx='1' fill='#B59F6B' opacity='0.4'/><path d='M0 650 C250 620 500 680 750 650 C916.667 630 1000 650 1080 640 L1080 1080 L0 1080 L0 650Z' fill='#000000' opacity='0.3'/><circle cx='540' cy='980' r='100' fill='#B59F6B' opacity='0.05'/><circle cx='540' cy='980' r='60' fill='#B59F6B' opacity='0.08'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 394.55,
+                "width": 290.9,
+                "height": 90.4,
+                "fill": "#B59F6B",
+                "text": "9 PM",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 337.94,
+                "width": 404.12,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "PREMIUM FRAGRANCE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 263.1,
+                "left": 435.1,
+                "width": 205.79999999999998,
+                "height": 493.79999999999995,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 785.9,
+                "left": 405.95500000000004,
+                "width": 268.09,
+                "height": 79.1,
+                "fill": "#B59F6B",
+                "text": "$27.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#B59F6B",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 933.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#1F1F2C",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "A provocative fragrance that exudes confidence, sensuality, and sophistication. Crisp top notes of bergamot, lavandin, cinnamon, and apple create an invigorating introduction. Middle notes of muguet and orange blossom add depth and elegance to the composition. A blend of patchouli, amber, vanilla, and tonka bean provides a refined and lasting finish. A timeless scent ideal for making a bold and unforgettable impression. Brand - Afnan ** Item Form - Liquid ** Item Volume - 100 Milliliters ** Scent - 9 PM ** Special Feature - Long Lasting **",
+            "price": "27.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/f663b5ee-fe8e-422c-84b8-a16138370c47_nobg_343x823.png",
+        "marketplace_url": "https://www.amazon.com/dp/B07RTQ4VM7",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThe banner showcases a sleek and elegant design for a fragrance advertisement. The background is layered with deep, rich tones and gradient silhouettes of abstract circular and wave shapes to bring depth and a luxurious feel. Centered at the top is a modern, minimal title text (`heading`) in a gold hue, suggesting sophistication. Just below it, a bold subheading (`subheading`) in white reinforces the premium nature of the product. A realistic product image (`product_image`) is centrally positioned and scaled elegantly to balance the layout. The price text (`price`) appears prominently below the product, using bold gold typography for impact. At the bottom, a rounded gold rectangular button (`cta_background`) houses dark navy call-to-action text (`cta`) urging the user to shop now.\n\n**Color palette:**\n- Deep Navy: `#1F1F2C`\n- Slate Black: `#121220`\n- Vintage Gold: `#B59F6B`\n- Soft White: `#FFFFFF`\n- Charcoal Grey (shadows): `#2D2D40`, `#3D3D50`\n",
+    "product_color": "  \nThe product image features a sleek and modern design with a dominant monochrome color scheme. The primary colors are deep black (#000000) and crisp white (#FFFFFF), which create a bold, high-contrast aesthetic. The black background highlights the minimalistic white typography, drawing focus to the central \u201c9 pm\u201d text. Accents of metallic silver (#C0C0C0) from the cap and around the bottleneck add sophistication and a premium feel. These colors are uniformly blended, maintaining harmony while each stands out distinctly. For an advertisement banner, a color palette including black, white, metallic silver, and charcoal gray (#2E2E2E) would convey elegance and modernity.  \n"
+}

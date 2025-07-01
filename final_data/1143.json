@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1E88E5;stop-opacity:1' /><stop offset='100%' style='stop-color:#0D47A1;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><path d='M0 300 C200 250 400 350 600 300 C800 250 1000 350 1080 300 L1080 500 C900 450 700 550 500 500 C300 450 100 550 0 500 L0 300Z' fill='#64B5F6' opacity='0.3'/><path d='M0 600 C200 550 400 650 600 600 C800 550 1000 650 1080 600 L1080 800 C900 750 700 850 500 800 C300 750 100 850 0 800 L0 600Z' fill='#2196F3' opacity='0.3'/><circle cx='100' cy='200' r='50' fill='#E3F2FD' opacity='0.4'/><circle cx='980' cy='250' r='70' fill='#E3F2FD' opacity='0.4'/><circle cx='850' cy='150' r='35' fill='#BBDEFB' opacity='0.6'/><circle cx='150' cy='880' r='80' fill='#BBDEFB' opacity='0.5'/><circle cx='950' cy='900' r='60' fill='#E3F2FD' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 9.460000000000036, "width": 1061.08, "height": 74.58, "fill": "#FFFFFF", "text": "UNLEASH THE POWER", "fontSize": 66, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading_1"}, {"type": "text", "top": 120, "left": 289.8, "width": 500.4, "height": 79.1, "fill": "#FFFFFF", "text": "OF CLEAN", "fontSize": 70, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading_2"}, {"type": "text", "top": 210, "left": 179.06, "width": 721.88, "height": 45.2, "fill": "#E3F2FD", "text": "HIGH-EFFICIENCY FRONT LOAD WASHER", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 296.585, "left": 349.71500000000003, "width": 899, "height": 1281, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/vCN1I4pZ5UUb4t5Cw86fQ_899x1281.png", "id": "product_image"}, {"type": "text", "top": 848.15, "left": 413.45, "width": 253.1, "height": 101.7, "fill": "#FFFFFF", "text": "$359", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 936.1, "left": 427.0, "width": 225.99999999999997, "height": 67.8, "fill": "#2196F3", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 956.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 260, "left": 279.185, "width": 521.63, "height": 33.9, "fill": "#BBDEFB", "text": "TRANSFORM YOUR LAUNDRY EXPERIENCE", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Front Load Washer - Modern Laundry Solution", "description": "\u2022 Digital LED display with intuitive controls and multiple wash cycles\n\u2022 Large capacity front-loading design for efficient washing\n\u2022 Energy-efficient operation with customizable temperature settings\n\u2022 Modern white exterior with sleek black door accent\n\u2022 Multiple wash programs including Express, Delay, and Temperature control\n\u2022 Easy-to-use selector dial for precise cycle customization\n\u2022 Clear view door window to monitor wash progress\n\u2022 Anti-vibration system with stabilizing feet\n\u2022 Compact yet spacious design perfect for apartments and homes\n\u2022 User-friendly control panel with clear function indicators\n\u2022 Delay start feature for convenient washing schedule\n\u2022 Water-saving technology with optimal wash performance", "price": "$359"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/vCN1I4pZ5UUb4t5Cw86fQ_899x1281.png", "marketplace_url": "blob:https://studio.phot.ai/12e2e48b-0ef8-4325-83e0-430a9e8dd133", "layout": "minimalist_center"}, "banner_details": "\nThis banner features a modern appliance promotion with a bold, eye-catching layout. At the top, the message begins with a prominent main headline (`heading_1` and `heading_2`) in a futuristic sans-serif font, conveying excitement and innovation. Below it, a strong subheadline (`subheading`) highlights a product feature in a bold white typeface. The center is dominated by a scaled-down image of a sleek front-load washing machine (`product_image`), giving the banner focus and clarity. Just below, large pricing text (`price`) captures interest, paired with a solid-colored rectangle (`cta_background`) housing a clear call-to-action text (`cta`). The tagline (`tagline`) sits subtly below the subheadline. The background includes a smooth blue gradient with layered wave-like shapes and translucent circular elements for added dimension.\n\n**Color Palette:**\n- Deep Blue: `#0D47A1`\n- Bright Blue: `#1E88E5`\n- Accent Blue: `#2196F3`\n- Light Blue: `#64B5F6`\n- Pale Blue Highlights: `#E3F2FD`, `#BBDEFB`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a front-load washing machine with a sleek, modern aesthetic predominantly in white (#FFFFFF), paired with bold contrasts of black (#000000) and dark gray (#3C3C3C) around the door and control panel. A digital display glows in electric blue (#00BFFF), providing a futuristic touch. The brushed-metal dial details feature a cool silver-gray finish (#C0C0C0), adding sophistication. These colors blend in a minimalist manner while ensuring key components like the door, dial, and display are highlighted. For an advertisement banner, a clean, contemporary palette consisting of white, black, electric blue, silver, and charcoal gray will enhance product elegance and clarity.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1E88E5;stop-opacity:1' /><stop offset='100%' style='stop-color:#0D47A1;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><path d='M0 300 C200 250 400 350 600 300 C800 250 1000 350 1080 300 L1080 500 C900 450 700 550 500 500 C300 450 100 550 0 500 L0 300Z' fill='#64B5F6' opacity='0.3'/><path d='M0 600 C200 550 400 650 600 600 C800 550 1000 650 1080 600 L1080 800 C900 750 700 850 500 800 C300 750 100 850 0 800 L0 600Z' fill='#2196F3' opacity='0.3'/><circle cx='100' cy='200' r='50' fill='#E3F2FD' opacity='0.4'/><circle cx='980' cy='250' r='70' fill='#E3F2FD' opacity='0.4'/><circle cx='850' cy='150' r='35' fill='#BBDEFB' opacity='0.6'/><circle cx='150' cy='880' r='80' fill='#BBDEFB' opacity='0.5'/><circle cx='950' cy='900' r='60' fill='#E3F2FD' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 9.460000000000036,
+                "width": 1061.08,
+                "height": 74.58,
+                "fill": "#FFFFFF",
+                "text": "UNLEASH THE POWER",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 289.8,
+                "width": 500.4,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "OF CLEAN",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 179.06,
+                "width": 721.88,
+                "height": 45.2,
+                "fill": "#E3F2FD",
+                "text": "HIGH-EFFICIENCY FRONT LOAD WASHER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 296.585,
+                "left": 349.71500000000003,
+                "width": 386.57,
+                "height": 550.83,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/vCN1I4pZ5UUb4t5Cw86fQ_899x1281.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 848.15,
+                "left": 413.45,
+                "width": 253.1,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "$359",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 936.1,
+                "left": 427.0,
+                "width": 225.99999999999997,
+                "height": 67.8,
+                "fill": "#2196F3",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 956.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 260,
+                "left": 279.185,
+                "width": 521.63,
+                "height": 33.9,
+                "fill": "#BBDEFB",
+                "text": "TRANSFORM YOUR LAUNDRY EXPERIENCE",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Front Load Washer - Modern Laundry Solution",
+            "description": "\u2022 Digital LED display with intuitive controls and multiple wash cycles\n\u2022 Large capacity front-loading design for efficient washing\n\u2022 Energy-efficient operation with customizable temperature settings\n\u2022 Modern white exterior with sleek black door accent\n\u2022 Multiple wash programs including Express, Delay, and Temperature control\n\u2022 Easy-to-use selector dial for precise cycle customization\n\u2022 Clear view door window to monitor wash progress\n\u2022 Anti-vibration system with stabilizing feet\n\u2022 Compact yet spacious design perfect for apartments and homes\n\u2022 User-friendly control panel with clear function indicators\n\u2022 Delay start feature for convenient washing schedule\n\u2022 Water-saving technology with optimal wash performance",
+            "price": "$359"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/vCN1I4pZ5UUb4t5Cw86fQ_899x1281.png",
+        "marketplace_url": "blob:https://studio.phot.ai/12e2e48b-0ef8-4325-83e0-430a9e8dd133",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner features a modern appliance promotion with a bold, eye-catching layout. At the top, the message begins with a prominent main headline (`heading_1` and `heading_2`) in a futuristic sans-serif font, conveying excitement and innovation. Below it, a strong subheadline (`subheading`) highlights a product feature in a bold white typeface. The center is dominated by a scaled-down image of a sleek front-load washing machine (`product_image`), giving the banner focus and clarity. Just below, large pricing text (`price`) captures interest, paired with a solid-colored rectangle (`cta_background`) housing a clear call-to-action text (`cta`). The tagline (`tagline`) sits subtly below the subheadline. The background includes a smooth blue gradient with layered wave-like shapes and translucent circular elements for added dimension.\n\n**Color Palette:**\n- Deep Blue: `#0D47A1`\n- Bright Blue: `#1E88E5`\n- Accent Blue: `#2196F3`\n- Light Blue: `#64B5F6`\n- Pale Blue Highlights: `#E3F2FD`, `#BBDEFB`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a front-load washing machine with a sleek, modern aesthetic predominantly in white (#FFFFFF), paired with bold contrasts of black (#000000) and dark gray (#3C3C3C) around the door and control panel. A digital display glows in electric blue (#00BFFF), providing a futuristic touch. The brushed-metal dial details feature a cool silver-gray finish (#C0C0C0), adding sophistication. These colors blend in a minimalist manner while ensuring key components like the door, dial, and display are highlighted. For an advertisement banner, a clean, contemporary palette consisting of white, black, electric blue, silver, and charcoal gray will enhance product elegance and clarity.\n"
+}

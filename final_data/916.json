@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='pastelGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#FFEEF2'/><stop offset='100%' stop-color='#F8E6EA'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#pastelGradient)'/><g opacity='0.4'><path d='M0,200 Q 540,120 1080,200 T 1080,400 T 0,400 T 0,200' fill='#FFD6E5'/><path d='M0,650 Q 540,730 1080,650 T 1080,850 T 0,850 T 0,650' fill='#FFD6E5'/></g><g opacity='0.3'><circle cx='100' cy='100' r='20' fill='#B8E0D2'/><circle cx='200' cy='150' r='15' fill='#B8E0D2'/><circle cx='980' cy='100' r='20' fill='#B8E0D2'/><circle cx='880' cy='150' r='15' fill='#B8E0D2'/><circle cx='100' cy='980' r='20' fill='#B8E0D2'/><circle cx='200' cy='930' r='15' fill='#B8E0D2'/><circle cx='980' cy='980' r='20' fill='#B8E0D2'/><circle cx='880' cy='930' r='15' fill='#B8E0D2'/></g><g opacity='0.4'><circle cx='540' cy='120' r='8' fill='#FFD1D1'/><circle cx='500' cy='100' r='6' fill='#FFD1D1'/><circle cx='580' cy='100' r='6' fill='#FFD1D1'/><circle cx='540' cy='960' r='8' fill='#FFD1D1'/><circle cx='500' cy='980' r='6' fill='#FFD1D1'/><circle cx='580' cy='980' r='6' fill='#FFD1D1'/></g><g opacity='0.3'><path d='M50,250 Q 70,230 90,250 T 130,250 T 170,250 T 210,250' stroke='#B19CD9' stroke-width='2' fill='none'/><path d='M870,250 Q 890,230 910,250 T 950,250 T 990,250 T 1030,250' stroke='#B19CD9' stroke-width='2' fill='none'/><path d='M50,830 Q 70,810 90,830 T 130,830 T 170,830 T 210,830' stroke='#B19CD9' stroke-width='2' fill='none'/><path d='M870,830 Q 890,810 910,830 T 950,830 T 990,830 T 1030,830' stroke='#B19CD9' stroke-width='2' fill='none'/></g><g opacity='0.5'><path d='M50,50 L 60,40 L 70,50 L 60,60 Z' fill='#FFBCBC'/><path d='M1030,50 L 1040,40 L 1050,50 L 1040,60 Z' fill='#FFBCBC'/><path d='M50,1030 L 60,1020 L 70,1030 L 60,1040 Z' fill='#FFBCBC'/><path d='M1030,1030 L 1040,1020 L 1050,1030 L 1040,1040 Z' fill='#FFBCBC'/></g><g opacity='0.4'><path d='M100,520 A 20,20 0 0,1 120,500 A 20,20 0 0,1 140,520 A 20,20 0 0,1 120,540 A 20,20 0 0,1 100,520 Z' fill='#FFE0A9'/><path d='M940,520 A 20,20 0 0,1 960,500 A 20,20 0 0,1 980,520 A 20,20 0 0,1 960,540 A 20,20 0 0,1 940,520 Z' fill='#FFE0A9'/></g><path d='M20,350 Q 30,330 40,350 Q 50,370 60,350 Q 70,330 80,350 Q 90,370 100,350' stroke='#EBB5FF' stroke-width='2' fill='none'/><path d='M980,350 Q 990,330 1000,350 Q 1010,370 1020,350 Q 1030,330 1040,350 Q 1050,370 1060,350' stroke='#EBB5FF' stroke-width='2' fill='none'/><path d='M20,750 Q 30,730 40,750 Q 50,770 60,750 Q 70,730 80,750 Q 90,770 100,750' stroke='#EBB5FF' stroke-width='2' fill='none'/><path d='M980,750 Q 990,730 1000,750 Q 1010,770 1020,750 Q 1030,730 1040,750 Q 1050,770 1060,750' stroke='#EBB5FF' stroke-width='2' fill='none'/></svg>", "id": "decorative_background"}, {"type": "text", "top": 60, "left": 233.95999999999998, "width": 612.08, "height": 67.8, "fill": "#AF599F", "text": "EASTER BUNNY BASKET", "fontSize": 60, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 140, "left": 281.755, "width": 516.49, "height": 27.12, "fill": "#7D6E83", "text": "Perfect for Easter Egg Hunts & Holiday Gifts", "fontSize": 24, "fontFamily": "Poppins-Italic", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 214.19, "left": 353.23, "width": 983, "height": 1399, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e4cc422f-e89f-4554-b7f3-0b77af8f2d4b_nobg_983x1399.png", "id": "product_image"}, {"type": "text", "top": 760, "left": 235.24, "width": 609.52, "height": 22.6, "fill": "#7D6E83", "text": "Hand-woven | Removable Ears | Soft Material | Size: 9.8 x 7.8 x 7.8\"", "fontSize": 20, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 830, "left": 464.315, "width": 151.37, "height": 79.1, "fill": "#AF599F", "text": "$18.99", "fontSize": 70, "fontFamily": "Bayon-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 420.0, "width": 240.0, "height": 72.0, "fill": "#AF599F", "rx": 30, "ry": 30, "id": "cta_button_background"}, {"type": "text", "top": 968, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Woven Rope Imported Cute Easter basket has good stability, hand-woven, soft skin-friendly material, no strong smell, durable, empty basket, size 9.8 x 7.8 x 7.8\" can hold many small items. Will be good for egg hunt or children's decoration An Adorable Easter gift: Prepare for the annual Easter egg hunt with the adorable Easter Bunny basket. Collect all your eggs and treats in this adorable bunny basket! With their cute faces, these baskets are sure to become a favorite Easter treasure Unique Desgin: Colorful Easter basket with removable velcro ears. The viscosity is very strong, as long as it is aligned and stuck in the right place. Two removable bunny ears lively and vivid, highlighting the ornamental and cuteness of the basket. Easter is the beginning of new life in spring and the bunny is the symbol of Easter. The colorful bunny basket is designed for children's Easter activities. Perfect for holds Easter Eggs, Candies, etc Versatile and classic. Great for sending to loved ones near and far to make them feel extra special. Store collectables, show off decorations and flower arrangements or place around your home as a stylish, practical feature. ", "price": "18.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e4cc422f-e89f-4554-b7f3-0b77af8f2d4b_nobg_983x1399.png", "marketplace_url": "https://www.amazon.com/dp/B0BPCFDJX9", "layout": "centered_hero"}, "banner_details": "  \nThe banner showcases a pastel-themed Easter promotion with a soft and playful aesthetic. It features a large centered product image of a white bunny-eared basket filled with colorful eggs. The background is decorated with smooth pink waves, subtle circular accents, and whimsical line art for a festive feel. At the top, a bold heading (id: \"heading\") in a purple tone captures attention, followed by a subheading (id: \"subheading\") in a light serif font, highlighting the promotion\u2019s occasion. Below the product image, descriptive details (id: \"description\") are presented in a clean, readable style. The price (id: \"price\") stands out in large font, and a call-to-action button (id: \"cta\") in white text over a purple rounded rectangle (id: \"cta_button_background\") encourages engagement.  \n\n**Color Palette:**  \n- Light Pink: #FFEEF2  \n- Warm Pink: #FFD6E5  \n- Lavender Purple: #AF599F  \n- Soft Gray: #7D6E83  \n- Accent Yellow: #FFE0A9  \n- Light Teal: #B8E0D2  \n- Coral Red: #FFBCBC  \n- White: #FFFFFF  \n", "product_color": "  \nThe product image features a soft, pastel-themed Easter basket design, exuding a playful and cheerful aesthetic. The primary color is a creamy off-white rope texture (Hex: #F7F3F0), which serves as a calm and neutral background. Light pastel pink (Hex: #F7C6D3) is used inside the bunny ears and as a small stitched detail, adding gentle accentuation. The colorful Easter eggs introduce pops of vibrant tones: lime green (Hex: #A8D046), lemon yellow (Hex: #FCD84F), playful blue (Hex: #42B6E9), and soft lavender (Hex: #E7A6E2). These colors are harmoniously blended to stand out while maintaining a joyful spring palette perfect for advertisement use.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='pastelGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#FFEEF2'/><stop offset='100%' stop-color='#F8E6EA'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#pastelGradient)'/><g opacity='0.4'><path d='M0,200 Q 540,120 1080,200 T 1080,400 T 0,400 T 0,200' fill='#FFD6E5'/><path d='M0,650 Q 540,730 1080,650 T 1080,850 T 0,850 T 0,650' fill='#FFD6E5'/></g><g opacity='0.3'><circle cx='100' cy='100' r='20' fill='#B8E0D2'/><circle cx='200' cy='150' r='15' fill='#B8E0D2'/><circle cx='980' cy='100' r='20' fill='#B8E0D2'/><circle cx='880' cy='150' r='15' fill='#B8E0D2'/><circle cx='100' cy='980' r='20' fill='#B8E0D2'/><circle cx='200' cy='930' r='15' fill='#B8E0D2'/><circle cx='980' cy='980' r='20' fill='#B8E0D2'/><circle cx='880' cy='930' r='15' fill='#B8E0D2'/></g><g opacity='0.4'><circle cx='540' cy='120' r='8' fill='#FFD1D1'/><circle cx='500' cy='100' r='6' fill='#FFD1D1'/><circle cx='580' cy='100' r='6' fill='#FFD1D1'/><circle cx='540' cy='960' r='8' fill='#FFD1D1'/><circle cx='500' cy='980' r='6' fill='#FFD1D1'/><circle cx='580' cy='980' r='6' fill='#FFD1D1'/></g><g opacity='0.3'><path d='M50,250 Q 70,230 90,250 T 130,250 T 170,250 T 210,250' stroke='#B19CD9' stroke-width='2' fill='none'/><path d='M870,250 Q 890,230 910,250 T 950,250 T 990,250 T 1030,250' stroke='#B19CD9' stroke-width='2' fill='none'/><path d='M50,830 Q 70,810 90,830 T 130,830 T 170,830 T 210,830' stroke='#B19CD9' stroke-width='2' fill='none'/><path d='M870,830 Q 890,810 910,830 T 950,830 T 990,830 T 1030,830' stroke='#B19CD9' stroke-width='2' fill='none'/></g><g opacity='0.5'><path d='M50,50 L 60,40 L 70,50 L 60,60 Z' fill='#FFBCBC'/><path d='M1030,50 L 1040,40 L 1050,50 L 1040,60 Z' fill='#FFBCBC'/><path d='M50,1030 L 60,1020 L 70,1030 L 60,1040 Z' fill='#FFBCBC'/><path d='M1030,1030 L 1040,1020 L 1050,1030 L 1040,1040 Z' fill='#FFBCBC'/></g><g opacity='0.4'><path d='M100,520 A 20,20 0 0,1 120,500 A 20,20 0 0,1 140,520 A 20,20 0 0,1 120,540 A 20,20 0 0,1 100,520 Z' fill='#FFE0A9'/><path d='M940,520 A 20,20 0 0,1 960,500 A 20,20 0 0,1 980,520 A 20,20 0 0,1 960,540 A 20,20 0 0,1 940,520 Z' fill='#FFE0A9'/></g><path d='M20,350 Q 30,330 40,350 Q 50,370 60,350 Q 70,330 80,350 Q 90,370 100,350' stroke='#EBB5FF' stroke-width='2' fill='none'/><path d='M980,350 Q 990,330 1000,350 Q 1010,370 1020,350 Q 1030,330 1040,350 Q 1050,370 1060,350' stroke='#EBB5FF' stroke-width='2' fill='none'/><path d='M20,750 Q 30,730 40,750 Q 50,770 60,750 Q 70,730 80,750 Q 90,770 100,750' stroke='#EBB5FF' stroke-width='2' fill='none'/><path d='M980,750 Q 990,730 1000,750 Q 1010,770 1020,750 Q 1030,730 1040,750 Q 1050,770 1060,750' stroke='#EBB5FF' stroke-width='2' fill='none'/></svg>",
+                "id": "decorative_background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 233.95999999999998,
+                "width": 612.08,
+                "height": 67.8,
+                "fill": "#AF599F",
+                "text": "EASTER BUNNY BASKET",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 281.755,
+                "width": 516.49,
+                "height": 27.12,
+                "fill": "#7D6E83",
+                "text": "Perfect for Easter Egg Hunts & Holiday Gifts",
+                "fontFamily": "Poppins-Italic",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 214.19,
+                "left": 353.23,
+                "width": 373.54,
+                "height": 531.62,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e4cc422f-e89f-4554-b7f3-0b77af8f2d4b_nobg_983x1399.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 235.24,
+                "width": 609.52,
+                "height": 22.6,
+                "fill": "#7D6E83",
+                "text": "Hand-woven | Removable Ears | Soft Material | Size: 9.8 x 7.8 x 7.8\"",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 464.315,
+                "width": 151.37,
+                "height": 79.1,
+                "fill": "#AF599F",
+                "text": "$18.99",
+                "fontFamily": "Bayon-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 420.0,
+                "width": 240.0,
+                "height": 72.0,
+                "fill": "#AF599F",
+                "rx": 30,
+                "ry": 30,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 968,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Woven Rope Imported Cute Easter basket has good stability, hand-woven, soft skin-friendly material, no strong smell, durable, empty basket, size 9.8 x 7.8 x 7.8\" can hold many small items. Will be good for egg hunt or children's decoration An Adorable Easter gift: Prepare for the annual Easter egg hunt with the adorable Easter Bunny basket. Collect all your eggs and treats in this adorable bunny basket! With their cute faces, these baskets are sure to become a favorite Easter treasure Unique Desgin: Colorful Easter basket with removable velcro ears. The viscosity is very strong, as long as it is aligned and stuck in the right place. Two removable bunny ears lively and vivid, highlighting the ornamental and cuteness of the basket. Easter is the beginning of new life in spring and the bunny is the symbol of Easter. The colorful bunny basket is designed for children's Easter activities. Perfect for holds Easter Eggs, Candies, etc Versatile and classic. Great for sending to loved ones near and far to make them feel extra special. Store collectables, show off decorations and flower arrangements or place around your home as a stylish, practical feature. ",
+            "price": "18.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/e4cc422f-e89f-4554-b7f3-0b77af8f2d4b_nobg_983x1399.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0BPCFDJX9",
+        "layout": "centered_hero"
+    },
+    "banner_details": "  \nThe banner showcases a pastel-themed Easter promotion with a soft and playful aesthetic. It features a large centered product image of a white bunny-eared basket filled with colorful eggs. The background is decorated with smooth pink waves, subtle circular accents, and whimsical line art for a festive feel. At the top, a bold heading (id: \"heading\") in a purple tone captures attention, followed by a subheading (id: \"subheading\") in a light serif font, highlighting the promotion\u2019s occasion. Below the product image, descriptive details (id: \"description\") are presented in a clean, readable style. The price (id: \"price\") stands out in large font, and a call-to-action button (id: \"cta\") in white text over a purple rounded rectangle (id: \"cta_button_background\") encourages engagement.  \n\n**Color Palette:**  \n- Light Pink: #FFEEF2  \n- Warm Pink: #FFD6E5  \n- Lavender Purple: #AF599F  \n- Soft Gray: #7D6E83  \n- Accent Yellow: #FFE0A9  \n- Light Teal: #B8E0D2  \n- Coral Red: #FFBCBC  \n- White: #FFFFFF  \n",
+    "product_color": "  \nThe product image features a soft, pastel-themed Easter basket design, exuding a playful and cheerful aesthetic. The primary color is a creamy off-white rope texture (Hex: #F7F3F0), which serves as a calm and neutral background. Light pastel pink (Hex: #F7C6D3) is used inside the bunny ears and as a small stitched detail, adding gentle accentuation. The colorful Easter eggs introduce pops of vibrant tones: lime green (Hex: #A8D046), lemon yellow (Hex: #FCD84F), playful blue (Hex: #42B6E9), and soft lavender (Hex: #E7A6E2). These colors are harmoniously blended to stand out while maintaining a joyful spring palette perfect for advertisement use.  \n"
+}

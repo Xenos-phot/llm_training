@@ -1,1 +1,147 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFF5F7'/><rect x='0' y='0' width='540' height='540' fill='#FFECF0'/><rect x='540' y='0' width='540' height='540' fill='#F8D7DC'/><rect x='0' y='540' width='540' height='540' fill='#F5C4CA'/><rect x='540' y='540' width='540' height='540' fill='#F8D7DC'/><g opacity='0.4'><circle cx='270' cy='270' r='200' fill='#FFD1D9'/><circle cx='810' cy='810' r='200' fill='#FFD1D9'/></g><g opacity='0.3'><path d='M0,0 L120,120' stroke='#E9A1AC' stroke-width='2'/><path d='M120,0 L240,120' stroke='#E9A1AC' stroke-width='2'/><path d='M240,0 L360,120' stroke='#E9A1AC' stroke-width='2'/><path d='M360,0 L480,120' stroke='#E9A1AC' stroke-width='2'/></g><g opacity='0.3'><path d='M600,960 L720,1080' stroke='#E9A1AC' stroke-width='2'/><path d='M720,960 L840,1080' stroke='#E9A1AC' stroke-width='2'/><path d='M840,960 L960,1080' stroke='#E9A1AC' stroke-width='2'/><path d='M960,960 L1080,1080' stroke='#E9A1AC' stroke-width='2'/></g><g opacity='0.4'><circle cx='120' cy='440' r='6' fill='#D37A88'/><circle cx='150' cy='440' r='6' fill='#D37A88'/><circle cx='180' cy='440' r='6' fill='#D37A88'/><circle cx='210' cy='440' r='6' fill='#D37A88'/><circle cx='240' cy='440' r='6' fill='#D37A88'/><circle cx='900' cy='180' r='6' fill='#D37A88'/><circle cx='930' cy='180' r='6' fill='#D37A88'/><circle cx='960' cy='180' r='6' fill='#D37A88'/><circle cx='990' cy='180' r='6' fill='#D37A88'/><circle cx='1020' cy='180' r='6' fill='#D37A88'/></g><path d='M50,50 Q150,10 250,50 T450,50' stroke='#E9A1AC' stroke-width='2' fill='none' opacity='0.3'/><path d='M630,1030 Q730,990 830,1030 T1030,1030' stroke='#E9A1AC' stroke-width='2' fill='none' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 60, "width": 419.5, "height": 113, "fill": "#C23152", "text": "ELEGANT", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 190, "left": 60, "width": 288.6, "height": 113, "fill": "#C23152", "text": "STUDS", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 320, "left": 62, "width": 397.4, "height": 45.2, "fill": "#E05D76", "text": "ROSE GOLD WREATH", "fontSize": 40, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 600, "left": 60, "width": 279.31, "height": 198.88, "fill": "#96344B", "text": "\u2022 925 Sterling Silver\n\u2022 Perfect Gift For Her\n\u2022 Timeless Elegance\n\u2022 Handcrafted Design", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 60, "width": 326, "height": 113, "fill": "#C23152", "text": "\u20b91619", "fontSize": 100, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "image", "top": 209.17, "left": 602.91, "width": 895, "height": 415, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/mpJpxEPrR7mP9c3kTr8CJ_895x415.png", "id": "product_image"}, {"type": "rect", "top": 930, "left": 60, "width": 240, "height": 70, "fill": "#C23152", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 950, "left": 110, "width": 166.27, "height": 36.16, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 465, "left": 55, "width": 288, "height": 67.8, "fill": "#C23152", "text": "Shine Bright", "fontSize": 60, "fontFamily": "Niconne Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 384, "left": 65, "width": 298.96, "height": 36.16, "fill": "#96344B", "text": "Cherish Every Moment", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "slogan"}], "version": "5.3.0"}, "input": {"product_details": {"name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*", "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.", "price": "\u20b91619"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/mpJpxEPrR7mP9c3kTr8CJ_895x415.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "\nThis elegant jewelry banner showcases a luxurious and feminine design, perfect for promoting high-end accessories. The layout is organized into two halves: the left side featuring informative text and the right side highlighting the product image. The top-left corner includes bold headlines indicated by `heading_1` and `heading_2`, followed by a refined serif `subheading` for the product name. A graceful quote is presented using `slogan`, and brand identity is emphasized through the stylized `tagline`. Below, `description` lists product features in bullet points. Pricing is displayed with strong emphasis via `price`, and a rounded rectangle `cta_background` encloses the bold call-to-action `cta`.\n\n**Color Palette:**\n- Soft Blush (#FFF5F7)\n- Rosy Pink (#FFECF0)\n- Light Rose (#F8D7DC)\n- Warm Petal (#F5C4CA)\n- Dusty Rose (#FFD1D9)\n- Deep Ruby (#C23152)\n- Antique Mauve (#96344B)\n- White (#FFFFFF)\n\n", "product_color": "\nThe product image showcases elegant, floral-inspired earrings with a refined color palette dominated by soft rose gold (#F4A7B9) and sparkling crystal white (#FFFFFF). The rose gold forms the base and outlines, delivering a warm and luxurious look, while seamlessly blending with pink undertones (#FAD2D7) in the petal-like accents. The crystals are strategically placed for contrast and highlight, reflecting light to enhance vibrancy and create depth. Hints of light peach (#F8C7C7) are also visible, softening the metallic shine. Together, these colors create a harmonious, feminine aesthetic ideal for a banner background that\u2019s both elegant and attention-grabbing.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFF5F7'/><rect x='0' y='0' width='540' height='540' fill='#FFECF0'/><rect x='540' y='0' width='540' height='540' fill='#F8D7DC'/><rect x='0' y='540' width='540' height='540' fill='#F5C4CA'/><rect x='540' y='540' width='540' height='540' fill='#F8D7DC'/><g opacity='0.4'><circle cx='270' cy='270' r='200' fill='#FFD1D9'/><circle cx='810' cy='810' r='200' fill='#FFD1D9'/></g><g opacity='0.3'><path d='M0,0 L120,120' stroke='#E9A1AC' stroke-width='2'/><path d='M120,0 L240,120' stroke='#E9A1AC' stroke-width='2'/><path d='M240,0 L360,120' stroke='#E9A1AC' stroke-width='2'/><path d='M360,0 L480,120' stroke='#E9A1AC' stroke-width='2'/></g><g opacity='0.3'><path d='M600,960 L720,1080' stroke='#E9A1AC' stroke-width='2'/><path d='M720,960 L840,1080' stroke='#E9A1AC' stroke-width='2'/><path d='M840,960 L960,1080' stroke='#E9A1AC' stroke-width='2'/><path d='M960,960 L1080,1080' stroke='#E9A1AC' stroke-width='2'/></g><g opacity='0.4'><circle cx='120' cy='440' r='6' fill='#D37A88'/><circle cx='150' cy='440' r='6' fill='#D37A88'/><circle cx='180' cy='440' r='6' fill='#D37A88'/><circle cx='210' cy='440' r='6' fill='#D37A88'/><circle cx='240' cy='440' r='6' fill='#D37A88'/><circle cx='900' cy='180' r='6' fill='#D37A88'/><circle cx='930' cy='180' r='6' fill='#D37A88'/><circle cx='960' cy='180' r='6' fill='#D37A88'/><circle cx='990' cy='180' r='6' fill='#D37A88'/><circle cx='1020' cy='180' r='6' fill='#D37A88'/></g><path d='M50,50 Q150,10 250,50 T450,50' stroke='#E9A1AC' stroke-width='2' fill='none' opacity='0.3'/><path d='M630,1030 Q730,990 830,1030 T1030,1030' stroke='#E9A1AC' stroke-width='2' fill='none' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 60,
+                "width": 419.5,
+                "height": 113,
+                "fill": "#C23152",
+                "text": "ELEGANT",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 60,
+                "width": 288.6,
+                "height": 113,
+                "fill": "#C23152",
+                "text": "STUDS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 62,
+                "width": 397.4,
+                "height": 45.2,
+                "fill": "#E05D76",
+                "text": "ROSE GOLD WREATH",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 279.31,
+                "height": 198.88,
+                "fill": "#96344B",
+                "text": "\u2022 925 Sterling Silver\n\u2022 Perfect Gift For Her\n\u2022 Timeless Elegance\n\u2022 Handcrafted Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 60,
+                "width": 326,
+                "height": 113,
+                "fill": "#C23152",
+                "text": "\u20b91619",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "image",
+                "top": 209.17,
+                "left": 602.91,
+                "width": 474.35,
+                "height": 219.95000000000002,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/mpJpxEPrR7mP9c3kTr8CJ_895x415.png",
+                "id": "product_image"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 60,
+                "width": 240,
+                "height": 70,
+                "fill": "#C23152",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 110,
+                "width": 166.27,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 465,
+                "left": 55,
+                "width": 288,
+                "height": 67.8,
+                "fill": "#C23152",
+                "text": "Shine Bright",
+                "fontFamily": "Niconne Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 384,
+                "left": 65,
+                "width": 298.96,
+                "height": 36.16,
+                "fill": "#96344B",
+                "text": "Cherish Every Moment",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "slogan"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "GIVA 925 Sterling Silver Rose Gold Pink Drop Wreath Studs | Gift for Girlfriend Wife Women & Girls | With Certificate of Authenticity and 925 Stamp | 6 Month Warranty*",
+            "description": "Product Dimensions: 1.27 x 1.3 x 1.27 cm; 3.9 g. Item part number: ER0583. Country of Origin: India. Department: womens. Item Weight: 3.9 g. Item Dimensions Lx Wx H: 13 x 13 x 13 Millimeters. Net Quantity: 2.00 count. Generic Name: Stud Earrings. Customer Reviews: 4.5 4.5 out of 5 stars 64 ratings.",
+            "price": "\u20b91619"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681489487ac2493de32ba0cf/mpJpxEPrR7mP9c3kTr8CJ_895x415.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis elegant jewelry banner showcases a luxurious and feminine design, perfect for promoting high-end accessories. The layout is organized into two halves: the left side featuring informative text and the right side highlighting the product image. The top-left corner includes bold headlines indicated by `heading_1` and `heading_2`, followed by a refined serif `subheading` for the product name. A graceful quote is presented using `slogan`, and brand identity is emphasized through the stylized `tagline`. Below, `description` lists product features in bullet points. Pricing is displayed with strong emphasis via `price`, and a rounded rectangle `cta_background` encloses the bold call-to-action `cta`.\n\n**Color Palette:**\n- Soft Blush (#FFF5F7)\n- Rosy Pink (#FFECF0)\n- Light Rose (#F8D7DC)\n- Warm Petal (#F5C4CA)\n- Dusty Rose (#FFD1D9)\n- Deep Ruby (#C23152)\n- Antique Mauve (#96344B)\n- White (#FFFFFF)\n\n",
+    "product_color": "\nThe product image showcases elegant, floral-inspired earrings with a refined color palette dominated by soft rose gold (#F4A7B9) and sparkling crystal white (#FFFFFF). The rose gold forms the base and outlines, delivering a warm and luxurious look, while seamlessly blending with pink undertones (#FAD2D7) in the petal-like accents. The crystals are strategically placed for contrast and highlight, reflecting light to enhance vibrancy and create depth. Hints of light peach (#F8C7C7) are also visible, softening the metallic shine. Together, these colors create a harmonious, feminine aesthetic ideal for a banner background that\u2019s both elegant and attention-grabbing.\n"
+}

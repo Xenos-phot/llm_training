@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFFAED'/><defs><linearGradient id='topGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#E65100' stop-opacity='0.9'/><stop offset='100%' stop-color='#FF8F00' stop-opacity='0.9'/></linearGradient><linearGradient id='botGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#FF8F00' stop-opacity='0.9'/><stop offset='100%' stop-color='#E65100' stop-opacity='0.9'/></linearGradient><radialGradient id='circleGrad' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#FFF3E0'/></radialGradient></defs><path d='M0 0 L1080 0 L1080 200 Q940 280, 800 240 Q660 200, 540 240 Q420 280, 270 250 Q120 220, 0 270 L0 0' fill='url(#topGradient)'/><path d='M0 1080 L1080 1080 L1080 820 Q940 740, 800 780 Q660 820, 540 780 Q420 740, 270 770 Q120 800, 0 750 L0 1080' fill='url(#botGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGrad)' stroke='#FF8F00' stroke-width='5'/><circle cx='840' cy='400' r='130' fill='#FF5722' stroke='#FFFFFF' stroke-width='4'/><g opacity='0.4'><circle cx='150' cy='320' r='20' fill='#E65100'/><circle cx='210' cy='400' r='15' fill='#E65100'/><circle cx='130' cy='480' r='25' fill='#E65100'/><circle cx='920' cy='590' r='20' fill='#E65100'/><circle cx='860' cy='670' r='15' fill='#E65100'/><circle cx='950' cy='750' r='25' fill='#E65100'/></g><path d='M200 350 Q220 330, 240 350 Q260 370, 280 350' stroke='#E65100' stroke-width='3' fill='none' opacity='0.5'/><path d='M820 650 Q840 630, 860 650 Q880 670, 900 650' stroke='#E65100' stroke-width='3' fill='none' opacity='0.5'/><path d='M100 600 L150 650' stroke='#FF8F00' stroke-width='4' opacity='0.5'/><path d='M950 450 L1000 500' stroke='#FF8F00' stroke-width='4' opacity='0.5'/><g transform='rotate(15, 540, 540)'><path d='M180 540 L280 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/><path d='M800 540 L900 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/></g><g transform='rotate(-15, 540, 540)'><path d='M180 540 L280 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/><path d='M800 540 L900 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/></g></svg>", "id": "background"}, {"type": "text", "top": 35, "left": 226.14999999999998, "width": 627.7, "height": 113, "fill": "#5D4037", "text": "TASTY TREATS", "fontSize": 100, "fontFamily": "Asap Black", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 150, "left": 358.90999999999997, "width": 362.18, "height": 67.8, "fill": "#E65100", "text": "GOOD 'N' FUN", "fontSize": 60, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 220, "left": 329.62, "width": 420.76, "height": 45.2, "fill": "#5D4037", "text": "Triple Flavor Kabobs", "fontSize": 40, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 876.58, "left": 189.615, "width": 700.77, "height": 38.42, "fill": "#5D4037", "text": "\u2022 Premium Beef Hide \u2022 Real Chicken \u2022 Long-Lasting", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 295.065, "left": 365.545, "width": 943, "height": 1351, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2af04e52-26b0-4d9a-918d-938134fb6fdc_nobg_943x1351.png", "id": "product_image"}, {"type": "text", "top": 354.8, "left": 739.42, "width": 201.16, "height": 90.4, "fill": "#FFFFFF", "text": "$3.64", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 955, "left": 430.0, "width": 220, "height": 60, "fill": "#E65100", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 971.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Treat your pup to a fun &lsquo;n&rsquo; flavorful chew! Good &lsquo;n&rsquo; Fun Triple Flavor Kabobs contain a savory combination of tasty flavors that dogs crave. These scrumptious chews are made from premium beef hide, savory chicken, delicious pork hide, wholesome duck and hearty chicken liver to create a truly delightful, long-lasting treat your dog is sure to love. Wrapped with premium cuts of real chicken, these chews are a great source of protein. Plus, they're a fun and delicious way to satisfy your dog&rsquo;s urge to chew, while the natural chewing action helps reduce tartar buildup and remove plaque. Select a treat slightly larger than your pet&rsquo;s mouth. This product is intended to be chewed. Always supervise your pet during chewing activity, especially if they are known to swallow their treats whole. Provide plenty of fresh drinking water and discard any leftover chunks or fragments. This product is intended for intermittent or supplemental feeding only. Treats should not exceed 10% of your dog&rsquo;s daily caloric intake. Visit your veterinarian regularly and discuss your pup&rsquo;s daily caloric requirements based on weight, size, breed, age and activity level. If you have questions about whether this product is right for your dog, consult with your veterinarian.", "price": "3.64"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2af04e52-26b0-4d9a-918d-938134fb6fdc_nobg_943x1351.png", "marketplace_url": "https://www.walmart.com/ip/Good-n-Fun-Triple-Flavor-Kabobs-Rawhide-Chews-for-All-Dogs-4-oz/48627375", "layout": "circular_focus"}, "banner_details": "\nThis vibrant promotional banner features a high-energy, pet-themed design with layered elements to create visual interest. The background is composed of a stylized SVG with soft curves, radial gradients, and accent shapes that bring a playful touch. Positioned centrally is a product image enclosed in a radiant circular frame. Bold, eye-catching typography is used in the \"heading\", \"tagline\", and \"subheading\" text layers to emphasize brand identity and product variety. The \"price\" is displayed prominently in a large orange circle. Below, the \"description\" text highlights benefits, and a bright rectangular \"cta\" button invites user interaction with a clear call-to-action.\n\nColor Palette:\n- Deep Orange: #E65100\n- Bright Orange: #FF8F00\n- Accent Red-Orange: #FF5722\n- Cream Background: #FFFAED\n- Medium Brown: #5D4037\n- White: #FFFFFF\n", "product_color": "  \nThe product image for \u201cGood \u2018n\u2019 Fun\u201d uses a warm, vibrant color palette to emphasize its flavor-packed dog treats. Dominant colors include deep orange (#F26522), warm red (#C1272D), and golden yellow (#FBB040), which highlight the meaty texture and premium appeal of the kabobs. Clean white (#FFFFFF) is used for the background and packaging to contrast with the bold hues, providing visual clarity. Accents of black (#000000) are used in text to ensure legibility. The colors blend in a layered manner with smooth transitions from red to yellow, emphasizing energy and appetizing appeal, while maintaining contrast to grab attention in advertisements.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFFAED'/><defs><linearGradient id='topGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#E65100' stop-opacity='0.9'/><stop offset='100%' stop-color='#FF8F00' stop-opacity='0.9'/></linearGradient><linearGradient id='botGradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' stop-color='#FF8F00' stop-opacity='0.9'/><stop offset='100%' stop-color='#E65100' stop-opacity='0.9'/></linearGradient><radialGradient id='circleGrad' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#FFF3E0'/></radialGradient></defs><path d='M0 0 L1080 0 L1080 200 Q940 280, 800 240 Q660 200, 540 240 Q420 280, 270 250 Q120 220, 0 270 L0 0' fill='url(#topGradient)'/><path d='M0 1080 L1080 1080 L1080 820 Q940 740, 800 780 Q660 820, 540 780 Q420 740, 270 770 Q120 800, 0 750 L0 1080' fill='url(#botGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGrad)' stroke='#FF8F00' stroke-width='5'/><circle cx='840' cy='400' r='130' fill='#FF5722' stroke='#FFFFFF' stroke-width='4'/><g opacity='0.4'><circle cx='150' cy='320' r='20' fill='#E65100'/><circle cx='210' cy='400' r='15' fill='#E65100'/><circle cx='130' cy='480' r='25' fill='#E65100'/><circle cx='920' cy='590' r='20' fill='#E65100'/><circle cx='860' cy='670' r='15' fill='#E65100'/><circle cx='950' cy='750' r='25' fill='#E65100'/></g><path d='M200 350 Q220 330, 240 350 Q260 370, 280 350' stroke='#E65100' stroke-width='3' fill='none' opacity='0.5'/><path d='M820 650 Q840 630, 860 650 Q880 670, 900 650' stroke='#E65100' stroke-width='3' fill='none' opacity='0.5'/><path d='M100 600 L150 650' stroke='#FF8F00' stroke-width='4' opacity='0.5'/><path d='M950 450 L1000 500' stroke='#FF8F00' stroke-width='4' opacity='0.5'/><g transform='rotate(15, 540, 540)'><path d='M180 540 L280 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/><path d='M800 540 L900 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/></g><g transform='rotate(-15, 540, 540)'><path d='M180 540 L280 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/><path d='M800 540 L900 540' stroke='#FF8F00' stroke-width='2' opacity='0.3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 35,
+                "left": 226.14999999999998,
+                "width": 627.7,
+                "height": 113,
+                "fill": "#5D4037",
+                "text": "TASTY TREATS",
+                "fontFamily": "Asap Black",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 358.90999999999997,
+                "width": 362.18,
+                "height": 67.8,
+                "fill": "#E65100",
+                "text": "GOOD 'N' FUN",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 329.62,
+                "width": 420.76,
+                "height": 45.2,
+                "fill": "#5D4037",
+                "text": "Triple Flavor Kabobs",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 876.58,
+                "left": 189.615,
+                "width": 700.77,
+                "height": 38.42,
+                "fill": "#5D4037",
+                "text": "\u2022 Premium Beef Hide \u2022 Real Chicken \u2022 Long-Lasting",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 295.065,
+                "left": 365.545,
+                "width": 348.90999999999997,
+                "height": 499.87,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2af04e52-26b0-4d9a-918d-938134fb6fdc_nobg_943x1351.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 354.8,
+                "left": 739.42,
+                "width": 201.16,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$3.64",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 955,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#E65100",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 971.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Treat your pup to a fun &lsquo;n&rsquo; flavorful chew! Good &lsquo;n&rsquo; Fun Triple Flavor Kabobs contain a savory combination of tasty flavors that dogs crave. These scrumptious chews are made from premium beef hide, savory chicken, delicious pork hide, wholesome duck and hearty chicken liver to create a truly delightful, long-lasting treat your dog is sure to love. Wrapped with premium cuts of real chicken, these chews are a great source of protein. Plus, they're a fun and delicious way to satisfy your dog&rsquo;s urge to chew, while the natural chewing action helps reduce tartar buildup and remove plaque. Select a treat slightly larger than your pet&rsquo;s mouth. This product is intended to be chewed. Always supervise your pet during chewing activity, especially if they are known to swallow their treats whole. Provide plenty of fresh drinking water and discard any leftover chunks or fragments. This product is intended for intermittent or supplemental feeding only. Treats should not exceed 10% of your dog&rsquo;s daily caloric intake. Visit your veterinarian regularly and discuss your pup&rsquo;s daily caloric requirements based on weight, size, breed, age and activity level. If you have questions about whether this product is right for your dog, consult with your veterinarian.",
+            "price": "3.64"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2af04e52-26b0-4d9a-918d-938134fb6fdc_nobg_943x1351.png",
+        "marketplace_url": "https://www.walmart.com/ip/Good-n-Fun-Triple-Flavor-Kabobs-Rawhide-Chews-for-All-Dogs-4-oz/48627375",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis vibrant promotional banner features a high-energy, pet-themed design with layered elements to create visual interest. The background is composed of a stylized SVG with soft curves, radial gradients, and accent shapes that bring a playful touch. Positioned centrally is a product image enclosed in a radiant circular frame. Bold, eye-catching typography is used in the \"heading\", \"tagline\", and \"subheading\" text layers to emphasize brand identity and product variety. The \"price\" is displayed prominently in a large orange circle. Below, the \"description\" text highlights benefits, and a bright rectangular \"cta\" button invites user interaction with a clear call-to-action.\n\nColor Palette:\n- Deep Orange: #E65100\n- Bright Orange: #FF8F00\n- Accent Red-Orange: #FF5722\n- Cream Background: #FFFAED\n- Medium Brown: #5D4037\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image for \u201cGood \u2018n\u2019 Fun\u201d uses a warm, vibrant color palette to emphasize its flavor-packed dog treats. Dominant colors include deep orange (#F26522), warm red (#C1272D), and golden yellow (#FBB040), which highlight the meaty texture and premium appeal of the kabobs. Clean white (#FFFFFF) is used for the background and packaging to contrast with the bold hues, providing visual clarity. Accents of black (#000000) are used in text to ensure legibility. The colors blend in a layered manner with smooth transitions from red to yellow, emphasizing energy and appetizing appeal, while maintaining contrast to grab attention in advertisements.  \n"
+}

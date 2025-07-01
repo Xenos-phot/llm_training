@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#2C3E50'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#34495E'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#ECF0F1'/><g opacity='0.05'><circle cx='200' cy='200' r='50' fill='#ffffff'/><circle cx='800' cy='800' r='80' fill='#2C3E50'/><rect x='900' y='200' width='100' height='100' fill='#2C3E50' opacity='0.3'/><rect x='100' y='900' width='80' height='80' fill='#ffffff' opacity='0.2'/></g><path d='M540 0 L1080 540 L1080 0 Z' fill='#3498DB' opacity='0.1'/><path d='M0 540 L540 1080 L0 1080 Z' fill='#2980B9' opacity='0.1'/><line x1='0' y1='1080' x2='1080' y2='0' stroke='#BDC3C7' stroke-width='3' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 40, "width": 254.12, "height": 171.76, "fill": "#FFFFFF", "text": "OFFICE\nCHAIR", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 40, "width": 398.28, "height": 45.2, "fill": "#3498DB", "text": "PREMIUM COMFORT", "fontSize": 40, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 310, "left": 40, "width": 380.54, "height": 176.28, "fill": "#ECF0F1", "text": "\u2022 Height Adjustable Design\n\u2022 Luxurious PU Padding\n\u2022 Ergonomic Mid-Back Support\n\u2022 Supports up to 275 pounds", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 520, "left": 40, "width": 388.54, "height": 27.12, "fill": "#FFFFFF", "text": "Amazon Basics Classic Puresoft", "fontSize": 24, "fontFamily": "Montserrat Alternates Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 750, "left": 40, "width": 220.8, "height": 113, "fill": "#FFFFFF", "text": "$76.99", "fontSize": 100, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 40, "width": 200, "height": 60, "fill": "#3498DB", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 915, "left": 70, "width": 145.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 200, "left": 520, "width": 951, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Product Description          Amazon Basics Classic Puresoft PU-Padded Mid-Back Office Computer Desk Chair with Armrest - Cream             From the Manufacturer          Amazon Basics VERSATILE USE: Office desk chair for home office, work station, or conference room ADJUSTABLE COMFORT: Adjustable seat height, adjustable seat angle, and tilt control for customizable comfort STURDY CONSTRUCTION:Supports up to 275 pounds; sturdy KD metal base COMFORTABLE DESIGN:Puresoft PU upholstery in Black; contoured padded seat, backrest, and armrests for comfort; durable caster wheels for smooth-rolling mobility EASY ASSEMBLY:Assembly instructions included; components (casters, base, arms, seat mechanism, hardware kit) arrive packed in the back cushion PRODUCT SPECIFICATIONS: Product Dimensions: 23.75 x 26 x 38.25 - 42 inches (WxDxH); seat width: 19.5 inches; seat depth: 17.75 inches; arm height: 26.25 - 30 inches Brand - Amazon Basics ** Color - Cream ** Product Dimensions - 26&#34;D x 23.75&#34;W x 42&#34;H ** Size - 26&#34;D x 23.75&#34;W x 42&#34;H ** Back Style - Mid Back **", "price": "76.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png", "marketplace_url": "https://www.amazon.com/dp/B081H44MHD", "layout": "diagonal_split"}, "banner_details": "\nThis square promotional banner showcases a modern office chair with an ergonomic and stylish design. The layout divides the background diagonally, creating a contrast between deep blue tones on the left and light grayish-blue on the right. The left section contains text layers: the prominent `heading` introducing the product, the `tagline` emphasizing comfort, a detailed `description` of key features, a `subheading` with the product name, a large `price` tag, and a call-to-action button composed of `cta_background` and `cta` text. The right side features the `product_image`, a white PU leather chair with black armrests and wheels, offering a clean, professional aesthetic.\n\n**Color Palette:**\n- Midnight Blue: #2C3E50  \n- Dark Slate Blue: #34495E  \n- Sky Blue: #3498DB  \n- Ocean Blue: #2980B9  \n- Light Gray: #ECF0F1  \n- White: #FFFFFF  \n", "product_color": "\nThe product image showcases a sleek, modern office chair with a minimalist color scheme that balances elegance and professionalism. The primary color is a soft ivory white (#F1EFE8) used in the cushioned seat and backrest, exuding comfort and luxury. This is contrasted with deep matte black (#2B2B2B) in the chair's base, wheels, and armrests, adding strength and structure. The metal and plastic elements subtly incorporate shades of dark gray (#4C4C4C), blending smoothly into the overall look. Together, these colors create a harmonious, clean palette for an advertisement banner. Accent colors like silver gray (#A0A0A0) can highlight fine details.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#2C3E50'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#34495E'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#ECF0F1'/><g opacity='0.05'><circle cx='200' cy='200' r='50' fill='#ffffff'/><circle cx='800' cy='800' r='80' fill='#2C3E50'/><rect x='900' y='200' width='100' height='100' fill='#2C3E50' opacity='0.3'/><rect x='100' y='900' width='80' height='80' fill='#ffffff' opacity='0.2'/></g><path d='M540 0 L1080 540 L1080 0 Z' fill='#3498DB' opacity='0.1'/><path d='M0 540 L540 1080 L0 1080 Z' fill='#2980B9' opacity='0.1'/><line x1='0' y1='1080' x2='1080' y2='0' stroke='#BDC3C7' stroke-width='3' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 40,
+                "width": 254.12,
+                "height": 171.76,
+                "fill": "#FFFFFF",
+                "text": "OFFICE\nCHAIR",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 40,
+                "width": 398.28,
+                "height": 45.2,
+                "fill": "#3498DB",
+                "text": "PREMIUM COMFORT",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 40,
+                "width": 380.54,
+                "height": 176.28,
+                "fill": "#ECF0F1",
+                "text": "\u2022 Height Adjustable Design\n\u2022 Luxurious PU Padding\n\u2022 Ergonomic Mid-Back Support\n\u2022 Supports up to 275 pounds",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 520,
+                "left": 40,
+                "width": 388.54,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "Amazon Basics Classic Puresoft",
+                "fontFamily": "Montserrat Alternates Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 40,
+                "width": 220.8,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$76.99",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#3498DB",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 915,
+                "left": 70,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 200,
+                "left": 520,
+                "width": 494.52000000000004,
+                "height": 748.28,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Product Description          Amazon Basics Classic Puresoft PU-Padded Mid-Back Office Computer Desk Chair with Armrest - Cream             From the Manufacturer          Amazon Basics VERSATILE USE: Office desk chair for home office, work station, or conference room ADJUSTABLE COMFORT: Adjustable seat height, adjustable seat angle, and tilt control for customizable comfort STURDY CONSTRUCTION:Supports up to 275 pounds; sturdy KD metal base COMFORTABLE DESIGN:Puresoft PU upholstery in Black; contoured padded seat, backrest, and armrests for comfort; durable caster wheels for smooth-rolling mobility EASY ASSEMBLY:Assembly instructions included; components (casters, base, arms, seat mechanism, hardware kit) arrive packed in the back cushion PRODUCT SPECIFICATIONS: Product Dimensions: 23.75 x 26 x 38.25 - 42 inches (WxDxH); seat width: 19.5 inches; seat depth: 17.75 inches; arm height: 26.25 - 30 inches Brand - Amazon Basics ** Color - Cream ** Product Dimensions - 26&#34;D x 23.75&#34;W x 42&#34;H ** Size - 26&#34;D x 23.75&#34;W x 42&#34;H ** Back Style - Mid Back **",
+            "price": "76.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/904d5127-9f1e-4537-9c45-47902863066f_nobg_951x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B081H44MHD",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis square promotional banner showcases a modern office chair with an ergonomic and stylish design. The layout divides the background diagonally, creating a contrast between deep blue tones on the left and light grayish-blue on the right. The left section contains text layers: the prominent `heading` introducing the product, the `tagline` emphasizing comfort, a detailed `description` of key features, a `subheading` with the product name, a large `price` tag, and a call-to-action button composed of `cta_background` and `cta` text. The right side features the `product_image`, a white PU leather chair with black armrests and wheels, offering a clean, professional aesthetic.\n\n**Color Palette:**\n- Midnight Blue: #2C3E50  \n- Dark Slate Blue: #34495E  \n- Sky Blue: #3498DB  \n- Ocean Blue: #2980B9  \n- Light Gray: #ECF0F1  \n- White: #FFFFFF  \n",
+    "product_color": "\nThe product image showcases a sleek, modern office chair with a minimalist color scheme that balances elegance and professionalism. The primary color is a soft ivory white (#F1EFE8) used in the cushioned seat and backrest, exuding comfort and luxury. This is contrasted with deep matte black (#2B2B2B) in the chair's base, wheels, and armrests, adding strength and structure. The metal and plastic elements subtly incorporate shades of dark gray (#4C4C4C), blending smoothly into the overall look. Together, these colors create a harmonious, clean palette for an advertisement banner. Accent colors like silver gray (#A0A0A0) can highlight fine details.\n"
+}

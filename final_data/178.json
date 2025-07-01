@@ -1,1 +1,121 @@
-{"output": {"backgroundColor": "#000000", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#0D0221'/><defs><radialGradient id='discoBallGlow' cx='540' cy='540' r='400' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#481D70' stop-opacity='0.8'/><stop offset='100%' stop-color='#0D0221' stop-opacity='0.1'/></radialGradient><linearGradient id='purpleGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#3C0B5F'/><stop offset='100%' stop-color='#200538'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#purpleGradient)'/><circle cx='540' cy='540' r='400' fill='url(#discoBallGlow)'/><circle cx='540' cy='540' r='300' fill='none' stroke='#9932CC' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='350' r='130' fill='#FB3570' opacity='0.9'/><g opacity='0.3'><circle cx='200' cy='200' r='10' fill='#C2A0E5'/><circle cx='300' cy='300' r='8' fill='#C2A0E5'/><circle cx='150' cy='450' r='12' fill='#C2A0E5'/><circle cx='900' cy='800' r='9' fill='#C2A0E5'/><circle cx='750' cy='750' r='14' fill='#C2A0E5'/><circle cx='850' cy='200' r='7' fill='#C2A0E5'/><circle cx='200' cy='900' r='11' fill='#C2A0E5'/><circle cx='400' cy='850' r='8' fill='#C2A0E5'/></g><g opacity='0.5'><line x1='0' y1='0' x2='100' y2='100' stroke='#C2A0E5' stroke-width='1'/><line x1='980' y1='0' x2='880' y2='100' stroke='#C2A0E5' stroke-width='1'/><line x1='0' y1='980' x2='100' y2='880' stroke='#C2A0E5' stroke-width='1'/><line x1='980' y1='980' x2='880' y2='880' stroke='#C2A0E5' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 221.48000000000002, "width": 637.04, "height": 101.7, "fill": "#FFFFFF", "text": "DISCO BALL", "fontSize": 90, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 263.825, "width": 552.35, "height": 67.8, "fill": "#FB3570", "text": "LIGHT UP THE NIGHT", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "circle", "top": 240.0, "left": 240.0, "width": 600, "height": 600, "fill": "#FFFFFF", "radius": 300, "id": "decorative"}, {"type": "image", "top": 251.8, "left": 378.0, "width": 810, "height": 1391, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6761528a94abc6115281e3c4/OGFdJKjAE4NtN4bk39Ya-_810x1391.png", "id": "product_image"}, {"type": "text", "top": 307.625, "left": 794.62, "width": 110.76, "height": 84.75, "fill": "#FFFFFF", "text": "$90", "fontSize": 75, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "price"}, {"type": "text", "top": 850, "left": 28.560000000000002, "width": 1022.88, "height": 32.77, "fill": "#C2A0E5", "text": "\u2022 HIGH-QUALITY GLASS TILES \u2022 360\u00b0 LIGHT EFFECTS \u2022 16-INCH DIAMETER", "fontSize": 29, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "description"}, {"type": "rect", "top": 950, "left": 425.0, "width": 230, "height": 70, "fill": "#FB3570", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 969.18, "left": 459.18, "width": 161.64, "height": 31.64, "fill": "#FFFFFF", "text": "ORDER NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Storyboard for this disco ball", "description": "\u2022 High-quality reflective glass tiles for maximum light reflection\n\u2022 Durable mosaic construction with precision-cut mirror squares\n\u2022 Perfect for clubs, dance parties, events, and home entertainment\n\u2022 Creates stunning 360-degree light effects\n\u2022 Professional-grade hanging hardware included\n\u2022 16-inch diameter - ideal size for medium to large spaces\n\u2022 Easy installation with reinforced mounting point\n\u2022 Enhanced sparkle effect with genuine glass mirrors\n\u2022 Weather-resistant sealing for long-lasting performance\n\u2022 Creates an immersive dance floor atmosphere", "price": "$90"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6761528a94abc6115281e3c4/OGFdJKjAE4NtN4bk39Ya-_810x1391.png", "marketplace_url": "https://images.pexels.com/photos/32087013/pexels-photo-32087013.jpeg", "layout": "circular_focus"}, "banner_details": "\nThis vibrant banner features a futuristic and dynamic design, centered around a bold promotional aesthetic. The background consists of layered gradients and radial effects creating depth with a glowing circle behind the main visual. At the top, text layer `heading` introduces the product in a clean, bold font, while text layer `tagline` serves as an engaging sub-heading in bright pink. At the center is image layer `product_image`, showcasing a stylish individual leaning on a sparkling disco ball. The price is prominently displayed inside a bright pink circle (`price`). Below, text layer `description` lists product highlights in uppercase. A vivid rectangular call-to-action button (`cta_button`) with text (`cta`) invites immediate action.\n\n**Color Palette:**\n- Deep Purple: #0D0221\n- Vivid Pink: #FB3570\n- Gradient Purple: #3C0B5F to #200538\n- Glow Purple: #481D70\n- Lilac Accents: #C2A0E5\n- White: #FFFFFF\n", "product_color": "\nThe product image features a striking combination of colors that highlight elegance and modernity. The dominant colors include deep red (#C8102E) from the jacket, which adds vibrancy and draws attention, and black (#1A1A1A), providing a grounding and sleek contrast. The mirror ball reflects silvery-white tones (#E5E5E5) that illuminate the image and introduce a glamourous, reflective element. The subtle skin tones (#E2B79C) add warmth, while the soft neutral white of the nails (#F6F6F6) enhances a polished, clean aesthetic. These colors are well-blended but maintain individual impact, making the palette ideal for a high-fashion or lifestyle-themed advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#000000",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#0D0221'/><defs><radialGradient id='discoBallGlow' cx='540' cy='540' r='400' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#481D70' stop-opacity='0.8'/><stop offset='100%' stop-color='#0D0221' stop-opacity='0.1'/></radialGradient><linearGradient id='purpleGradient' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#3C0B5F'/><stop offset='100%' stop-color='#200538'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#purpleGradient)'/><circle cx='540' cy='540' r='400' fill='url(#discoBallGlow)'/><circle cx='540' cy='540' r='300' fill='none' stroke='#9932CC' stroke-width='2' stroke-dasharray='10,5'/><circle cx='850' cy='350' r='130' fill='#FB3570' opacity='0.9'/><g opacity='0.3'><circle cx='200' cy='200' r='10' fill='#C2A0E5'/><circle cx='300' cy='300' r='8' fill='#C2A0E5'/><circle cx='150' cy='450' r='12' fill='#C2A0E5'/><circle cx='900' cy='800' r='9' fill='#C2A0E5'/><circle cx='750' cy='750' r='14' fill='#C2A0E5'/><circle cx='850' cy='200' r='7' fill='#C2A0E5'/><circle cx='200' cy='900' r='11' fill='#C2A0E5'/><circle cx='400' cy='850' r='8' fill='#C2A0E5'/></g><g opacity='0.5'><line x1='0' y1='0' x2='100' y2='100' stroke='#C2A0E5' stroke-width='1'/><line x1='980' y1='0' x2='880' y2='100' stroke='#C2A0E5' stroke-width='1'/><line x1='0' y1='980' x2='100' y2='880' stroke='#C2A0E5' stroke-width='1'/><line x1='980' y1='980' x2='880' y2='880' stroke='#C2A0E5' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 221.48000000000002,
+                "width": 637.04,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "DISCO BALL",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 263.825,
+                "width": 552.35,
+                "height": 67.8,
+                "fill": "#FB3570",
+                "text": "LIGHT UP THE NIGHT",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "circle",
+                "top": 240.0,
+                "left": 240.0,
+                "width": 600,
+                "height": 600,
+                "fill": "#FFFFFF",
+                "radius": 300,
+                "id": "decorative"
+            },
+            {
+                "type": "image",
+                "top": 251.8,
+                "left": 378.0,
+                "width": 324.0,
+                "height": 556.4,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6761528a94abc6115281e3c4/OGFdJKjAE4NtN4bk39Ya-_810x1391.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 307.625,
+                "left": 794.62,
+                "width": 110.76,
+                "height": 84.75,
+                "fill": "#FFFFFF",
+                "text": "$90",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 28.560000000000002,
+                "width": 1022.88,
+                "height": 32.77,
+                "fill": "#C2A0E5",
+                "text": "\u2022 HIGH-QUALITY GLASS TILES \u2022 360\u00b0 LIGHT EFFECTS \u2022 16-INCH DIAMETER",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 425.0,
+                "width": 230,
+                "height": 70,
+                "fill": "#FB3570",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 969.18,
+                "left": 459.18,
+                "width": 161.64,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "ORDER NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Storyboard for this disco ball",
+            "description": "\u2022 High-quality reflective glass tiles for maximum light reflection\n\u2022 Durable mosaic construction with precision-cut mirror squares\n\u2022 Perfect for clubs, dance parties, events, and home entertainment\n\u2022 Creates stunning 360-degree light effects\n\u2022 Professional-grade hanging hardware included\n\u2022 16-inch diameter - ideal size for medium to large spaces\n\u2022 Easy installation with reinforced mounting point\n\u2022 Enhanced sparkle effect with genuine glass mirrors\n\u2022 Weather-resistant sealing for long-lasting performance\n\u2022 Creates an immersive dance floor atmosphere",
+            "price": "$90"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6761528a94abc6115281e3c4/OGFdJKjAE4NtN4bk39Ya-_810x1391.png",
+        "marketplace_url": "https://images.pexels.com/photos/32087013/pexels-photo-32087013.jpeg",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis vibrant banner features a futuristic and dynamic design, centered around a bold promotional aesthetic. The background consists of layered gradients and radial effects creating depth with a glowing circle behind the main visual. At the top, text layer `heading` introduces the product in a clean, bold font, while text layer `tagline` serves as an engaging sub-heading in bright pink. At the center is image layer `product_image`, showcasing a stylish individual leaning on a sparkling disco ball. The price is prominently displayed inside a bright pink circle (`price`). Below, text layer `description` lists product highlights in uppercase. A vivid rectangular call-to-action button (`cta_button`) with text (`cta`) invites immediate action.\n\n**Color Palette:**\n- Deep Purple: #0D0221\n- Vivid Pink: #FB3570\n- Gradient Purple: #3C0B5F to #200538\n- Glow Purple: #481D70\n- Lilac Accents: #C2A0E5\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a striking combination of colors that highlight elegance and modernity. The dominant colors include deep red (#C8102E) from the jacket, which adds vibrancy and draws attention, and black (#1A1A1A), providing a grounding and sleek contrast. The mirror ball reflects silvery-white tones (#E5E5E5) that illuminate the image and introduce a glamourous, reflective element. The subtle skin tones (#E2B79C) add warmth, while the soft neutral white of the nails (#F6F6F6) enhances a polished, clean aesthetic. These colors are well-blended but maintain individual impact, making the palette ideal for a high-fashion or lifestyle-themed advertisement banner.\n"
+}

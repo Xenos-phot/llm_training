@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2C3E30'/><circle cx='540' cy='1080' r='800' fill='#3A4E3E' opacity='0.8'/><circle cx='540' cy='1080' r='600' fill='#465A4A' opacity='0.7'/><circle cx='540' cy='1080' r='400' fill='#536755' opacity='0.6'/><circle cx='100' cy='100' r='200' fill='#A4E878' opacity='0.1'/><circle cx='980' cy='200' r='150' fill='#A4E878' opacity='0.1'/><path d='M0 300 C180 250 360 350 540 300 C720 250 900 350 1080 300 L1080 400 C900 350 720 450 540 400 C360 350 180 450 0 400 L0 300Z' fill='#85BD5F' opacity='0.2'/><path d='M0 500 C180 450 360 550 540 500 C720 450 900 550 1080 500 L1080 600 C900 550 720 650 540 600 C360 550 180 650 0 600 L0 500Z' fill='#85BD5F' opacity='0.15'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 115.95999999999998, "width": 848.08, "height": 90.4, "fill": "#FFFFFF", "text": "GALAXY WATCH 7", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 200, "left": 230.94, "width": 618.12, "height": 56.5, "fill": "#A4E878", "text": "AI POWERED SMARTWATCH", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 262.2, "left": 290.79999999999995, "width": 1246, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png", "id": "product_image"}, {"type": "text", "top": 841.975, "left": 403.425, "width": 273.15, "height": 96.05, "fill": "#FFFFFF", "text": "$251.19", "fontSize": 85, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 958.5, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#A4E878", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 973.05, "left": 462.0, "width": 156, "height": 33.9, "fill": "#2C3E30", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "\u00b9Galaxy AI features track data and require compatible Samsung Galaxy phone, Samsung Health app and Samsung Account. \u00b2Available for outdoor running and cycling only. Must follow the same starting point and path as a workout selected from up to 14 days prior. \u00b3The heart rate software functions are not intended for medical use. \u2074Requires compatible smartphone. \u2075Must wear device for 7 nights during a 30 night period. \u2076The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical application operating on a compatible Samsung Galaxy Watch and phone. This feature is intended to detect signs of moderate to severe obstructive sleep apnea in the form of significant breathing disruptions in adult users 22 years and older, over a two-night monitoring period. It is intended for on-demand use. This feature is not intended for users who have previously been diagnosed with sleep apnea. Users should not use this feature to replace traditional methods of diagnosis and treatment by a qualified clinician. The data provided by this device is also not intended to assist clinicians in diagnosing sleep disorders. \u2077Tracks data and requires compatible Samsung Galaxy phone, and Samsung Account. \u2078Select interchangeable watch bands sold separately. \u2079Requires compatible smartphone. PUSH PAST YESTERDAY: Looking for a great way to bring out your personal best every day? Challenge yourself to excel on your next run or bike ride using tracking with Galaxy AI\u00b9 that lets you compare your current performance to your last one\u00b2 START YOUR DAY WITH YOUR ENERGY SCORE: Know how ready you are to take on the day using your personalized Energy Score with Galaxy AI\u00b9; It calculates today\u2019s physical readiness based on what you did yesterday KEEP A CLOSER EYE ON YOUR HEART HEALTH: Get the most out of your fitness workouts using improved Heart Rate Tracking\u00b3 with Galaxy AI\u00b9 that filters out your body\u2019s movements for a more accurate reading GET A BOOST TOWARD YOUR GOALS: Stay on track toward your goals using personalized suggestions from Wellness Tips\u2074; Your Watch collects the insights and then they\u2019re analyzed on your phone BETTER SLEEP. A HEALTHIER YOU: Learn better habits for more restful nights using sleep tracking\u2075 with Galaxy AI\u00b9 \u2014 it also helps detect moderate to severe sleep apnea\u2076; Get helpful insights collected by your Watch and analyzed by your phone ", "price": "251.19"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png", "marketplace_url": "https://www.amazon.com/dp/B0D1YQ3MML", "layout": "minimalist_center"}, "banner_details": "\nThis banner showcases a modern tech product using a visually rich and futuristic layout. A layered, circular abstract background in varying shades of green creates a sense of depth and motion. Centered prominently is the product image\u2014an advanced smartwatch\u2014placed above a series of soft curving shapes that guide the viewer's eye downward. At the top, a bold, futuristic text layer (\u201cheading\u201d) captures immediate attention, followed by a green-accented subtitle (\u201csubheading\u201d) that conveys tech-forward sophistication. The pricing information (\u201cprice\u201d) is displayed below the product in large white text for easy visibility. Beneath this, a vivid green call-to-action button (\u201ccta_button\u201d) with contrasting text (\u201ccta\u201d) invites users to shop.\n\n**Color Palette:**\n- Dark Forest Green: `#2C3E30`\n- Muted Olive: `#3A4E3E`\n- Sage Green: `#465A4A`\n- Deep Moss: `#536755`\n- Fresh Lime: `#A4E878`\n- Highlight Green: `#85BD5F`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a smart watch with a bold, modern color palette. Dominated by a military green strap (#4B5542), the watch exudes ruggedness and versatility. The dark matte watch face (#1A1E17) creates stark contrast while blending smoothly into the neon yellow-green elements (#D6F01F), which serve as vibrant focal points on the dial. Accents like burnt orange (#F47F24) and light blue (#6AB8EC) thread details provide subtle pops of color that enhance the watch's aesthetic without overpowering it. The metal casing in titanium gray (#8C8C89) adds sophistication and balance. This palette combines utility and energy, ideal for tech-forward, adventurous branding.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2C3E30'/><circle cx='540' cy='1080' r='800' fill='#3A4E3E' opacity='0.8'/><circle cx='540' cy='1080' r='600' fill='#465A4A' opacity='0.7'/><circle cx='540' cy='1080' r='400' fill='#536755' opacity='0.6'/><circle cx='100' cy='100' r='200' fill='#A4E878' opacity='0.1'/><circle cx='980' cy='200' r='150' fill='#A4E878' opacity='0.1'/><path d='M0 300 C180 250 360 350 540 300 C720 250 900 350 1080 300 L1080 400 C900 350 720 450 540 400 C360 350 180 450 0 400 L0 300Z' fill='#85BD5F' opacity='0.2'/><path d='M0 500 C180 450 360 550 540 500 C720 450 900 550 1080 500 L1080 600 C900 550 720 650 540 600 C360 550 180 650 0 600 L0 500Z' fill='#85BD5F' opacity='0.15'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 115.95999999999998,
+                "width": 848.08,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "GALAXY WATCH 7",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 230.94,
+                "width": 618.12,
+                "height": 56.5,
+                "fill": "#A4E878",
+                "text": "AI POWERED SMARTWATCH",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 262.2,
+                "left": 290.79999999999995,
+                "width": 498.40000000000003,
+                "height": 575.6,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 841.975,
+                "left": 403.425,
+                "width": 273.15,
+                "height": 96.05,
+                "fill": "#FFFFFF",
+                "text": "$251.19",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 958.5,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#A4E878",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 973.05,
+                "left": 462.0,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#2C3E30",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "\u00b9Galaxy AI features track data and require compatible Samsung Galaxy phone, Samsung Health app and Samsung Account. \u00b2Available for outdoor running and cycling only. Must follow the same starting point and path as a workout selected from up to 14 days prior. \u00b3The heart rate software functions are not intended for medical use. \u2074Requires compatible smartphone. \u2075Must wear device for 7 nights during a 30 night period. \u2076The Sleep Apnea Feature is an over-the-counter (OTC) software-only, mobile medical application operating on a compatible Samsung Galaxy Watch and phone. This feature is intended to detect signs of moderate to severe obstructive sleep apnea in the form of significant breathing disruptions in adult users 22 years and older, over a two-night monitoring period. It is intended for on-demand use. This feature is not intended for users who have previously been diagnosed with sleep apnea. Users should not use this feature to replace traditional methods of diagnosis and treatment by a qualified clinician. The data provided by this device is also not intended to assist clinicians in diagnosing sleep disorders. \u2077Tracks data and requires compatible Samsung Galaxy phone, and Samsung Account. \u2078Select interchangeable watch bands sold separately. \u2079Requires compatible smartphone. PUSH PAST YESTERDAY: Looking for a great way to bring out your personal best every day? Challenge yourself to excel on your next run or bike ride using tracking with Galaxy AI\u00b9 that lets you compare your current performance to your last one\u00b2 START YOUR DAY WITH YOUR ENERGY SCORE: Know how ready you are to take on the day using your personalized Energy Score with Galaxy AI\u00b9; It calculates today\u2019s physical readiness based on what you did yesterday KEEP A CLOSER EYE ON YOUR HEART HEALTH: Get the most out of your fitness workouts using improved Heart Rate Tracking\u00b3 with Galaxy AI\u00b9 that filters out your body\u2019s movements for a more accurate reading GET A BOOST TOWARD YOUR GOALS: Stay on track toward your goals using personalized suggestions from Wellness Tips\u2074; Your Watch collects the insights and then they\u2019re analyzed on your phone BETTER SLEEP. A HEALTHIER YOU: Learn better habits for more restful nights using sleep tracking\u2075 with Galaxy AI\u00b9 \u2014 it also helps detect moderate to severe sleep apnea\u2076; Get helpful insights collected by your Watch and analyzed by your phone ",
+            "price": "251.19"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/2c5d7ab8-ea2a-4137-b828-847ac8f9d7ed_nobg_1246x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0D1YQ3MML",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThis banner showcases a modern tech product using a visually rich and futuristic layout. A layered, circular abstract background in varying shades of green creates a sense of depth and motion. Centered prominently is the product image\u2014an advanced smartwatch\u2014placed above a series of soft curving shapes that guide the viewer's eye downward. At the top, a bold, futuristic text layer (\u201cheading\u201d) captures immediate attention, followed by a green-accented subtitle (\u201csubheading\u201d) that conveys tech-forward sophistication. The pricing information (\u201cprice\u201d) is displayed below the product in large white text for easy visibility. Beneath this, a vivid green call-to-action button (\u201ccta_button\u201d) with contrasting text (\u201ccta\u201d) invites users to shop.\n\n**Color Palette:**\n- Dark Forest Green: `#2C3E30`\n- Muted Olive: `#3A4E3E`\n- Sage Green: `#465A4A`\n- Deep Moss: `#536755`\n- Fresh Lime: `#A4E878`\n- Highlight Green: `#85BD5F`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a smart watch with a bold, modern color palette. Dominated by a military green strap (#4B5542), the watch exudes ruggedness and versatility. The dark matte watch face (#1A1E17) creates stark contrast while blending smoothly into the neon yellow-green elements (#D6F01F), which serve as vibrant focal points on the dial. Accents like burnt orange (#F47F24) and light blue (#6AB8EC) thread details provide subtle pops of color that enhance the watch's aesthetic without overpowering it. The metal casing in titanium gray (#8C8C89) adds sophistication and balance. This palette combines utility and energy, ideal for tech-forward, adventurous branding.\n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#101010'/><stop offset='100%' stop-color='#2A2A2A'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><g opacity='0.1'><circle cx='540' cy='540' r='450' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='350' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='250' fill='none' stroke='#ffffff' stroke-width='1'/></g><g opacity='0.2'><path d='M540 240 L540 80' stroke='#ffffff' stroke-width='1'/><path d='M540 1000 L540 840' stroke='#ffffff' stroke-width='1'/><path d='M240 540 L80 540' stroke='#ffffff' stroke-width='1'/><path d='M1000 540 L840 540' stroke='#ffffff' stroke-width='1'/></g><circle cx='540' cy='540' r='380' fill='none' stroke='#E63946' stroke-width='2' opacity='0.3'/><g opacity='0.05'><circle cx='100' cy='100' r='40' fill='#ffffff'/><circle cx='980' cy='100' r='40' fill='#ffffff'/><circle cx='100' cy='980' r='40' fill='#ffffff'/><circle cx='980' cy='980' r='40' fill='#ffffff'/></g><g opacity='0.2'><path d='M0 200 L1080 200' stroke='#E63946' stroke-width='1'/><path d='M0 880 L1080 880' stroke='#E63946' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 233.695, "width": 612.61, "height": 79.1, "fill": "#FFFFFF", "text": "FUJIFILM X-T10", "fontSize": 70, "fontFamily": "Archivo Black-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 258.975, "width": 562.05, "height": 33.9, "fill": "#E63946", "text": "Professional Photography Made Accessible", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 236.39999999999998, "left": 319.6, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/h-X6-Hn1vnoH5YTmHQUOe_551x559.png", "id": "product_image"}, {"type": "text", "top": 730, "left": 155.82, "width": 768.36, "height": 56.5, "fill": "#FFFFFF", "text": "Advanced X-Trans CMOS Sensor \u2022 Multiple Manual Controls \u2022 Premium Metal Build\nElectronic Viewfinder \u2022 Tiltable LCD \u2022 Built-in Wi-Fi \u2022 Film Simulation Modes", "fontSize": 20, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 830, "left": 447.88, "width": 184.24, "height": 90.4, "fill": "#E63946", "text": "\u20b9 999", "fontSize": 80, "fontFamily": "ATTAQWA Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940, "left": 430.0, "width": 220, "height": 60, "fill": "#E63946", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 955, "left": 446.84000000000003, "width": 186.32, "height": 31.64, "fill": "#FFFFFF", "text": "LIMITED OFFER", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 210, "left": 360.83500000000004, "width": 358.33, "height": 20.34, "fill": "#FFFFFF", "text": "Limited Time Offer - While Supplies Last", "fontSize": 18, "fontFamily": "Poppins-Italic", "textAlign": "center", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible", "description": "\u2022 Classic retro-styled compact mirrorless camera design\n\u2022 Advanced X-Trans CMOS sensor for exceptional image quality\n\u2022 Premium build quality with durable metal construction\n\u2022 Multiple manual control dials for precise shooting settings\n\u2022 High-performance interchangeable lens system\n\u2022 Electronic viewfinder for accurate composition\n\u2022 Tiltable LCD screen for creative angle shooting\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing\n\u2022 Advanced autofocus system for sharp captures\n\u2022 Compatible with Fujifilm's extensive X-mount lens lineup\n\u2022 Compact and lightweight body ideal for travel photography\n\u2022 Film simulation modes for creative photography", "price": "\u20b9999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/h-X6-Hn1vnoH5YTmHQUOe_551x559.png", "marketplace_url": "", "layout": "centered_hero"}, "banner_details": "\nThis banner features a modern and professional layout centered around a high-end camera product. The background uses a dark radial design overlaid with soft circular grid lines and subtle diagonal gradients for depth. A prominent text layer (`heading`) with bold white uppercase letters introduces the product name at the top. Below it, a subheader (`subheading`) in red emphasizes accessibility and appeal. A camera image (`product_image`) is prominently placed in the center. Key product specs are listed in a fine print paragraph styled text at the bottom center (`description`). The price (`price`) in bright red is bold and central, just above a red rectangular call-to-action button (`cta_background`, `cta`) that draws attention to the limited time offer. Supporting tagline text (`tagline`) rests subtly above the product image.\n\n**Color Palette:**\n- Jet Black: `#101010`\n- Charcoal Gray: `#2A2A2A`\n- Crimson Red: `#E63946`\n- Pure White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases the Fujifilm X-T10 camera, which employs a sleek and professional color palette dominated by matte black (#1C1C1C) and accented with metallic grey (#555555) elements on the dials and lens rings. White (#FFFFFF) is used strategically for the branding (Fujifilm, X-T10) and numeric markings, ensuring clarity amidst the darker shades. Subtle hints of red (#FF453C) and orange (#F78C25) on the lens provide a striking contrast, naturally drawing attention without overwhelming the aesthetic. These colors blend seamlessly through controlled use of light and shadow, creating depth and highlighting the camera's premium materials and precision engineering.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#101010'/><stop offset='100%' stop-color='#2A2A2A'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><g opacity='0.1'><circle cx='540' cy='540' r='450' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='350' fill='none' stroke='#ffffff' stroke-width='1'/><circle cx='540' cy='540' r='250' fill='none' stroke='#ffffff' stroke-width='1'/></g><g opacity='0.2'><path d='M540 240 L540 80' stroke='#ffffff' stroke-width='1'/><path d='M540 1000 L540 840' stroke='#ffffff' stroke-width='1'/><path d='M240 540 L80 540' stroke='#ffffff' stroke-width='1'/><path d='M1000 540 L840 540' stroke='#ffffff' stroke-width='1'/></g><circle cx='540' cy='540' r='380' fill='none' stroke='#E63946' stroke-width='2' opacity='0.3'/><g opacity='0.05'><circle cx='100' cy='100' r='40' fill='#ffffff'/><circle cx='980' cy='100' r='40' fill='#ffffff'/><circle cx='100' cy='980' r='40' fill='#ffffff'/><circle cx='980' cy='980' r='40' fill='#ffffff'/></g><g opacity='0.2'><path d='M0 200 L1080 200' stroke='#E63946' stroke-width='1'/><path d='M0 880 L1080 880' stroke='#E63946' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 233.695,
+                "width": 612.61,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "FUJIFILM X-T10",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 258.975,
+                "width": 562.05,
+                "height": 33.9,
+                "fill": "#E63946",
+                "text": "Professional Photography Made Accessible",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 236.39999999999998,
+                "left": 319.6,
+                "width": 440.8,
+                "height": 447.20000000000005,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/h-X6-Hn1vnoH5YTmHQUOe_551x559.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 155.82,
+                "width": 768.36,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "Advanced X-Trans CMOS Sensor \u2022 Multiple Manual Controls \u2022 Premium Metal Build\nElectronic Viewfinder \u2022 Tiltable LCD \u2022 Built-in Wi-Fi \u2022 Film Simulation Modes",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 447.88,
+                "width": 184.24,
+                "height": 90.4,
+                "fill": "#E63946",
+                "text": "\u20b9 999",
+                "fontFamily": "ATTAQWA Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#E63946",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 955,
+                "left": 446.84000000000003,
+                "width": 186.32,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "LIMITED OFFER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 360.83500000000004,
+                "width": 358.33,
+                "height": 20.34,
+                "fill": "#FFFFFF",
+                "text": "Limited Time Offer - While Supplies Last",
+                "fontFamily": "Poppins-Italic",
+                "textAlign": "center",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible",
+            "description": "\u2022 Classic retro-styled compact mirrorless camera design\n\u2022 Advanced X-Trans CMOS sensor for exceptional image quality\n\u2022 Premium build quality with durable metal construction\n\u2022 Multiple manual control dials for precise shooting settings\n\u2022 High-performance interchangeable lens system\n\u2022 Electronic viewfinder for accurate composition\n\u2022 Tiltable LCD screen for creative angle shooting\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing\n\u2022 Advanced autofocus system for sharp captures\n\u2022 Compatible with Fujifilm's extensive X-mount lens lineup\n\u2022 Compact and lightweight body ideal for travel photography\n\u2022 Film simulation modes for creative photography",
+            "price": "\u20b9999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6825cfe71d728a7da5f370b6/h-X6-Hn1vnoH5YTmHQUOe_551x559.png",
+        "marketplace_url": "",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner features a modern and professional layout centered around a high-end camera product. The background uses a dark radial design overlaid with soft circular grid lines and subtle diagonal gradients for depth. A prominent text layer (`heading`) with bold white uppercase letters introduces the product name at the top. Below it, a subheader (`subheading`) in red emphasizes accessibility and appeal. A camera image (`product_image`) is prominently placed in the center. Key product specs are listed in a fine print paragraph styled text at the bottom center (`description`). The price (`price`) in bright red is bold and central, just above a red rectangular call-to-action button (`cta_background`, `cta`) that draws attention to the limited time offer. Supporting tagline text (`tagline`) rests subtly above the product image.\n\n**Color Palette:**\n- Jet Black: `#101010`\n- Charcoal Gray: `#2A2A2A`\n- Crimson Red: `#E63946`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases the Fujifilm X-T10 camera, which employs a sleek and professional color palette dominated by matte black (#1C1C1C) and accented with metallic grey (#555555) elements on the dials and lens rings. White (#FFFFFF) is used strategically for the branding (Fujifilm, X-T10) and numeric markings, ensuring clarity amidst the darker shades. Subtle hints of red (#FF453C) and orange (#F78C25) on the lens provide a striking contrast, naturally drawing attention without overwhelming the aesthetic. These colors blend seamlessly through controlled use of light and shadow, creating depth and highlighting the camera's premium materials and precision engineering.  \n"
+}

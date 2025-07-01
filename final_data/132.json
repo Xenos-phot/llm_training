@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#D6EDFF'/><stop offset='100%' stop-color='#87B1F3'/></radialGradient><linearGradient id='coolEffect' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFFFFF' stop-opacity='0.3'/><stop offset='100%' stop-color='#FFFFFF' stop-opacity='0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.6'><path d='M0,240 Q270,200 540,240 T1080,240 V0 H0 Z' fill='#3D8CD6'/><path d='M0,840 Q270,880 540,840 T1080,840 V1080 H0 Z' fill='#3D8CD6'/></g><g opacity='0.5'><circle cx='100' cy='100' r='30' fill='#FFFFFF'/><circle cx='980' cy='100' r='30' fill='#FFFFFF'/><circle cx='100' cy='980' r='30' fill='#FFFFFF'/><circle cx='980' cy='980' r='30' fill='#FFFFFF'/></g><g opacity='0.7'><path d='M540,200 L565,170 L590,200 L565,230 Z' fill='#FFFFFF'/><path d='M540,880 L565,850 L590,880 L565,910 Z' fill='#FFFFFF'/><path d='M200,540 L170,565 L200,590 L230,565 Z' fill='#FFFFFF'/><path d='M880,540 L850,565 L880,590 L910,565 Z' fill='#FFFFFF'/></g><g opacity='0.15'><rect x='0' y='270' width='1080' height='3' fill='#1E3A8A'/><rect x='0' y='310' width='1080' height='2' fill='#1E3A8A'/><rect x='0' y='770' width='1080' height='3' fill='#1E3A8A'/><rect x='0' y='810' width='1080' height='2' fill='#1E3A8A'/></g><rect x='0' y='0' width='1080' height='1080' fill='url(#coolEffect)'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 332.62, "width": 414.76, "height": 67.8, "fill": "#1E3A8A", "text": "CROMPTON OPTIMUS", "fontSize": 60, "fontFamily": "Bayon-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 181.89999999999998, "width": 716.2, "height": 45.2, "fill": "#0D2354", "text": "Personal Air Cooler - Beat the Heat with Style!", "fontSize": 40, "fontFamily": "Teko Bold", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 284.25, "left": 436.25, "width": 415, "height": 743, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ttw3aHAKpQPKOuUSadOje_415x743.png", "id": "product_image"}, {"type": "text", "top": 720, "left": 135.64, "width": 808.72, "height": 114.36, "fill": "#0A1A3F", "text": "\u2022 Compact & Modern Design \u2022 Dual Control Knobs \u2022 Honeycomb Cooling\n\u2022 Energy-Efficient Operation \u2022 Water Level Indicator \u2022 Portable Design\n\u2022 Adjustable Air Flow \u2022 High-Grade ABS Body \u2022 Easy Maintenance", "fontSize": 22, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 860, "left": 440.78, "width": 198.44, "height": 67.8, "fill": "#1E3A8A", "text": "\u20b9 2000", "fontSize": 60, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 430.0, "width": 220, "height": 60, "fill": "#1E3A8A", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 965, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Crompton Optimus Personal Air Cooler - Beat the Heat with Style!", "description": "\u2022 Compact & Modern Design - Perfect for personal cooling in small spaces\n\u2022 Dual Control Knobs - Easy adjustment of cooling settings and fan speed\n\u2022 Honeycomb Cooling Pads - Enhanced cooling efficiency and water distribution\n\u2022 High-Grade ABS Body - Durable and aesthetically pleasing white-blue finish\n\u2022 Water Level Indicator - Convenient monitoring of water tank capacity\n\u2022 Energy-Efficient Operation - Low power consumption for economic cooling\n\u2022 Portable Design - Lightweight with easy-grip handles for mobility\n\u2022 Adjustable Air Flow - Customizable cooling direction with horizontal louvers\n\u2022 Easy-to-Clean - Removable cooling pads for hassle-free maintenance\n\u2022 Ideal for Bedrooms & Small Offices - Optimal cooling for up to 100 sq ft", "price": "\u20b92000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ttw3aHAKpQPKOuUSadOje_415x743.png", "marketplace_url": "", "layout": "centered_hero"}, "banner_details": "\nThis promotional banner features a clean and modern design focused on a personal air cooler product. At the top, a bold heading (`heading`) announces the product name. Below it lies a strong, catchy tagline (`tagline`) that communicates the product's benefit. Centrally placed is the product image (`product_image`), maximizing visual focus. A detailed feature list (`description`) in a bulleted format provides essential benefits clearly and concisely. Near the bottom is a prominently featured price (`price`), followed by a conspicuous call-to-action button (`cta_button` and `cta`) encouraging immediate engagement. The background is enhanced with abstract wave shapes, circles, and diamond accents, giving the banner an airy, refreshing aesthetic.\n\n**Color Palette:**\n- Gradient Background: #D6EDFF \u2192 #87B1F3\n- Accent Wave Shapes: #3D8CD6\n- Primary Text: #1E3A8A, #0D2354, #0A1A3F\n- CTA Button: #1E3A8A (with white text)\n- Decorative Elements (shapes/lines): #FFFFFF, #1E3A8A (with opacity adjustments)\n", "product_color": "\nThe product features a clean and modern aesthetic, dominated by a soft white base (#F5F5F5) with calming pastel blue accents (#A3C2F2) prominently on the control panel area and side trims. The black vertical slats and logo provide strong contrast (#2C2C2C), adding depth and guiding the viewer's eyes. Subtle shading of greys (#B0B0B0) around the grill and control dials adds dimensionality and realism, helping the blue elements stand out more prominently. This blend of cool tones with neutral shades creates an appealing and trustworthy impression, ideal for a product-focused banner. Suggested palette: #F5F5F5, #A3C2F2, #2C2C2C, #B0B0B0.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#D6EDFF'/><stop offset='100%' stop-color='#87B1F3'/></radialGradient><linearGradient id='coolEffect' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFFFFF' stop-opacity='0.3'/><stop offset='100%' stop-color='#FFFFFF' stop-opacity='0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.6'><path d='M0,240 Q270,200 540,240 T1080,240 V0 H0 Z' fill='#3D8CD6'/><path d='M0,840 Q270,880 540,840 T1080,840 V1080 H0 Z' fill='#3D8CD6'/></g><g opacity='0.5'><circle cx='100' cy='100' r='30' fill='#FFFFFF'/><circle cx='980' cy='100' r='30' fill='#FFFFFF'/><circle cx='100' cy='980' r='30' fill='#FFFFFF'/><circle cx='980' cy='980' r='30' fill='#FFFFFF'/></g><g opacity='0.7'><path d='M540,200 L565,170 L590,200 L565,230 Z' fill='#FFFFFF'/><path d='M540,880 L565,850 L590,880 L565,910 Z' fill='#FFFFFF'/><path d='M200,540 L170,565 L200,590 L230,565 Z' fill='#FFFFFF'/><path d='M880,540 L850,565 L880,590 L910,565 Z' fill='#FFFFFF'/></g><g opacity='0.15'><rect x='0' y='270' width='1080' height='3' fill='#1E3A8A'/><rect x='0' y='310' width='1080' height='2' fill='#1E3A8A'/><rect x='0' y='770' width='1080' height='3' fill='#1E3A8A'/><rect x='0' y='810' width='1080' height='2' fill='#1E3A8A'/></g><rect x='0' y='0' width='1080' height='1080' fill='url(#coolEffect)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 332.62,
+                "width": 414.76,
+                "height": 67.8,
+                "fill": "#1E3A8A",
+                "text": "CROMPTON OPTIMUS",
+                "fontFamily": "Bayon-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 181.89999999999998,
+                "width": 716.2,
+                "height": 45.2,
+                "fill": "#0D2354",
+                "text": "Personal Air Cooler - Beat the Heat with Style!",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 284.25,
+                "left": 436.25,
+                "width": 207.5,
+                "height": 371.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ttw3aHAKpQPKOuUSadOje_415x743.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 720,
+                "left": 135.64,
+                "width": 808.72,
+                "height": 114.36,
+                "fill": "#0A1A3F",
+                "text": "\u2022 Compact & Modern Design \u2022 Dual Control Knobs \u2022 Honeycomb Cooling\n\u2022 Energy-Efficient Operation \u2022 Water Level Indicator \u2022 Portable Design\n\u2022 Adjustable Air Flow \u2022 High-Grade ABS Body \u2022 Easy Maintenance",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 860,
+                "left": 440.78,
+                "width": 198.44,
+                "height": 67.8,
+                "fill": "#1E3A8A",
+                "text": "\u20b9 2000",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#1E3A8A",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Crompton Optimus Personal Air Cooler - Beat the Heat with Style!",
+            "description": "\u2022 Compact & Modern Design - Perfect for personal cooling in small spaces\n\u2022 Dual Control Knobs - Easy adjustment of cooling settings and fan speed\n\u2022 Honeycomb Cooling Pads - Enhanced cooling efficiency and water distribution\n\u2022 High-Grade ABS Body - Durable and aesthetically pleasing white-blue finish\n\u2022 Water Level Indicator - Convenient monitoring of water tank capacity\n\u2022 Energy-Efficient Operation - Low power consumption for economic cooling\n\u2022 Portable Design - Lightweight with easy-grip handles for mobility\n\u2022 Adjustable Air Flow - Customizable cooling direction with horizontal louvers\n\u2022 Easy-to-Clean - Removable cooling pads for hassle-free maintenance\n\u2022 Ideal for Bedrooms & Small Offices - Optimal cooling for up to 100 sq ft",
+            "price": "\u20b92000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/ttw3aHAKpQPKOuUSadOje_415x743.png",
+        "marketplace_url": "",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis promotional banner features a clean and modern design focused on a personal air cooler product. At the top, a bold heading (`heading`) announces the product name. Below it lies a strong, catchy tagline (`tagline`) that communicates the product's benefit. Centrally placed is the product image (`product_image`), maximizing visual focus. A detailed feature list (`description`) in a bulleted format provides essential benefits clearly and concisely. Near the bottom is a prominently featured price (`price`), followed by a conspicuous call-to-action button (`cta_button` and `cta`) encouraging immediate engagement. The background is enhanced with abstract wave shapes, circles, and diamond accents, giving the banner an airy, refreshing aesthetic.\n\n**Color Palette:**\n- Gradient Background: #D6EDFF \u2192 #87B1F3\n- Accent Wave Shapes: #3D8CD6\n- Primary Text: #1E3A8A, #0D2354, #0A1A3F\n- CTA Button: #1E3A8A (with white text)\n- Decorative Elements (shapes/lines): #FFFFFF, #1E3A8A (with opacity adjustments)\n",
+    "product_color": "\nThe product features a clean and modern aesthetic, dominated by a soft white base (#F5F5F5) with calming pastel blue accents (#A3C2F2) prominently on the control panel area and side trims. The black vertical slats and logo provide strong contrast (#2C2C2C), adding depth and guiding the viewer's eyes. Subtle shading of greys (#B0B0B0) around the grill and control dials adds dimensionality and realism, helping the blue elements stand out more prominently. This blend of cool tones with neutral shades creates an appealing and trustworthy impression, ideal for a product-focused banner. Suggested palette: #F5F5F5, #A3C2F2, #2C2C2C, #B0B0B0.\n"
+}

@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A1A1A'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#1A1A1A'/><path d='M0 720 L1080 720 L1080 1080 L0 1080 Z' fill='#121212'/><circle cx='850' cy='200' r='200' fill='#CF1919' opacity='0.15'/><circle cx='200' cy='900' r='150' fill='#CF1919' opacity='0.15'/><rect x='750' y='0' width='330' height='720' fill='#232323' opacity='0.7'/><g opacity='0.1'><line x1='0' y1='100' x2='1080' y2='100' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='300' x2='1080' y2='300' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='400' x2='1080' y2='400' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='500' x2='1080' y2='500' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='600' x2='1080' y2='600' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='700' x2='1080' y2='700' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='800' x2='1080' y2='800' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='900' x2='1080' y2='900' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='1000' x2='1080' y2='1000' stroke='#CF1919' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 735.42, "height": 158.2, "fill": "#FFFFFF", "text": "FUJIFILM", "fontSize": 140, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 205, "left": 50, "width": 739.8, "height": 113, "fill": "#CF1919", "text": "LIMITED EDITION", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 345, "left": 50, "width": 429.58, "height": 126.56, "fill": "#FFFFFF", "text": "\u2022 16.3MP X-Trans CMOS II Sensor\n\u2022 Advanced 77-Point Autofocus\n\u2022 Film Simulation Modes\n\u2022 Premium Retro Design", "fontSize": 28, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 378.18, "height": 124.3, "fill": "#FFFFFF", "text": "\u20b98999", "fontSize": 110, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 960, "left": 50, "width": 220, "height": 70, "fill": "#CF1919", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 978, "left": 90, "width": 143.54, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 590, "left": 50, "width": 432.41, "height": 50.85, "fill": "#CF1919", "text": "ONLY A FEW LEFT!", "fontSize": 45, "fontFamily": "Coiny-Regular", "textAlign": "left", "id": "tagline"}, {"type": "image", "top": 380, "left": 570, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/4ZP0ZgXOFsnHkfh5NokOM_551x559.png", "id": "product_image"}, {"type": "text", "top": 660, "left": 108, "width": 100.76, "height": 56.5, "fill": "#FFFFFF", "text": "X-T10", "fontSize": 50, "fontFamily": "Anton-Regular", "textAlign": "left", "id": "product_name"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible", "description": "\u2022 Classic retro-styled compact mirrorless camera body with premium build quality\n\u2022 Advanced 16.3MP X-Trans CMOS II APS-C sensor for exceptional image quality\n\u2022 Fast and precise autofocus system with up to 77 AF points\n\u2022 High-resolution electronic viewfinder (2.36M-dot) for precise composition\n\u2022 Tiltable 3-inch LCD screen for creative angles and selfies\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing and remote control\n\u2022 Film Simulation modes to recreate classic Fujifilm looks\n\u2022 Full HD 1080p video recording capabilities\n\u2022 Compatible with Fujifilm's excellent X-mount lens system\n\u2022 Compact and lightweight design perfect for travel and street photography\n\u2022 Advanced manual controls with dedicated dials for essential settings\n\u2022 Up to 8 FPS continuous shooting for action photography", "price": "\u20b98999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/4ZP0ZgXOFsnHkfh5NokOM_551x559.png", "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg", "layout": "z_pattern"}, "banner_details": "\nThis banner design showcases a bold and high-impact product promotion for a limited edition camera. The composition centers around a prominent product image (\"product_image\") on the right side, giving visual focus to the camera. To the left, a large uppercase title (\"heading\") in white paired with a striking red subheading (\"subheading\") creates a strong hierarchy. Beneath, a bullet-point list (\"description\") highlights product features in a clean, readable format. A product name (\"product_name\") and urgency tagline (\"tagline\") accentuate the urgency, followed by a standout price display (\"price\") and a red call-to-action button (\"cta\") underlined by a rounded rectangle (\"cta_background\"). The dark background features subtle red circular and line motifs for visual depth and contrast.\n\n**Color Palette:**\n- Background: #1A1A1A, #121212, #232323 (dark grayscale tones)\n- Primary Text: #FFFFFF (white)\n- Accent/Highlight: #CF1919 (vibrant red)\n", "product_color": "\nThe product image features a Fujifilm X-T10 camera predominantly in a matte black body, giving it a sleek and professional look. The primary color is deep black (#0D0D0D), with subtle highlights of metallic grey (#5A5A5A) along the lens housing and dials, creating a sophisticated contrast. White text (#FFFFFF) is used dynamically on the body for branding and technical details, offering clean visibility. Small accents of red (#FF3224) and orange (#FFA500) near the lens provide vibrant focal pops. The color blending between textures is smooth but intentional, enhancing structure while maintaining high visual clarity and offering an ideal dark-modern palette for promotional use.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#1A1A1A'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='#1A1A1A'/><path d='M0 720 L1080 720 L1080 1080 L0 1080 Z' fill='#121212'/><circle cx='850' cy='200' r='200' fill='#CF1919' opacity='0.15'/><circle cx='200' cy='900' r='150' fill='#CF1919' opacity='0.15'/><rect x='750' y='0' width='330' height='720' fill='#232323' opacity='0.7'/><g opacity='0.1'><line x1='0' y1='100' x2='1080' y2='100' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='300' x2='1080' y2='300' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='400' x2='1080' y2='400' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='500' x2='1080' y2='500' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='600' x2='1080' y2='600' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='700' x2='1080' y2='700' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='800' x2='1080' y2='800' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='900' x2='1080' y2='900' stroke='#CF1919' stroke-width='1'/><line x1='0' y1='1000' x2='1080' y2='1000' stroke='#CF1919' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 735.42,
+                "height": 158.2,
+                "fill": "#FFFFFF",
+                "text": "FUJIFILM",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 50,
+                "width": 739.8,
+                "height": 113,
+                "fill": "#CF1919",
+                "text": "LIMITED EDITION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 345,
+                "left": 50,
+                "width": 429.58,
+                "height": 126.56,
+                "fill": "#FFFFFF",
+                "text": "\u2022 16.3MP X-Trans CMOS II Sensor\n\u2022 Advanced 77-Point Autofocus\n\u2022 Film Simulation Modes\n\u2022 Premium Retro Design",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 378.18,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "\u20b98999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#CF1919",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 978,
+                "left": 90,
+                "width": 143.54,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 590,
+                "left": 50,
+                "width": 432.41,
+                "height": 50.85,
+                "fill": "#CF1919",
+                "text": "ONLY A FEW LEFT!",
+                "fontFamily": "Coiny-Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 380,
+                "left": 570,
+                "width": 495.90000000000003,
+                "height": 503.1,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/4ZP0ZgXOFsnHkfh5NokOM_551x559.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 660,
+                "left": 108,
+                "width": 100.76,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "X-T10",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "left",
+                "id": "product_name"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible",
+            "description": "\u2022 Classic retro-styled compact mirrorless camera body with premium build quality\n\u2022 Advanced 16.3MP X-Trans CMOS II APS-C sensor for exceptional image quality\n\u2022 Fast and precise autofocus system with up to 77 AF points\n\u2022 High-resolution electronic viewfinder (2.36M-dot) for precise composition\n\u2022 Tiltable 3-inch LCD screen for creative angles and selfies\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing and remote control\n\u2022 Film Simulation modes to recreate classic Fujifilm looks\n\u2022 Full HD 1080p video recording capabilities\n\u2022 Compatible with Fujifilm's excellent X-mount lens system\n\u2022 Compact and lightweight design perfect for travel and street photography\n\u2022 Advanced manual controls with dedicated dials for essential settings\n\u2022 Up to 8 FPS continuous shooting for action photography",
+            "price": "\u20b98999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/4ZP0ZgXOFsnHkfh5NokOM_551x559.png",
+        "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner design showcases a bold and high-impact product promotion for a limited edition camera. The composition centers around a prominent product image (\"product_image\") on the right side, giving visual focus to the camera. To the left, a large uppercase title (\"heading\") in white paired with a striking red subheading (\"subheading\") creates a strong hierarchy. Beneath, a bullet-point list (\"description\") highlights product features in a clean, readable format. A product name (\"product_name\") and urgency tagline (\"tagline\") accentuate the urgency, followed by a standout price display (\"price\") and a red call-to-action button (\"cta\") underlined by a rounded rectangle (\"cta_background\"). The dark background features subtle red circular and line motifs for visual depth and contrast.\n\n**Color Palette:**\n- Background: #1A1A1A, #121212, #232323 (dark grayscale tones)\n- Primary Text: #FFFFFF (white)\n- Accent/Highlight: #CF1919 (vibrant red)\n",
+    "product_color": "\nThe product image features a Fujifilm X-T10 camera predominantly in a matte black body, giving it a sleek and professional look. The primary color is deep black (#0D0D0D), with subtle highlights of metallic grey (#5A5A5A) along the lens housing and dials, creating a sophisticated contrast. White text (#FFFFFF) is used dynamically on the body for branding and technical details, offering clean visibility. Small accents of red (#FF3224) and orange (#FFA500) near the lens provide vibrant focal pops. The color blending between textures is smooth but intentional, enhancing structure while maintaining high visual clarity and offering an ideal dark-modern palette for promotional use.\n"
+}

@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F7'/><circle cx='950' cy='100' r='200' fill='#E0E5FF' opacity='0.6'/><circle cx='180' cy='980' r='230' fill='#E0E5FF' opacity='0.5'/><path d='M0 400 C180 380 380 410 580 400 C780 390 980 410 1080 400 L1080 600 C880 590 680 610 480 600 C280 590 80 610 0 600 L0 400Z' fill='#D1D7EF' opacity='0.3'/><path d='M0 700 C180 680 380 710 580 700 C780 690 980 710 1080 700 L1080 900 C880 890 680 910 480 900 C280 890 80 910 0 900 L0 700Z' fill='#D1D7EF' opacity='0.2'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 121.54500000000002, "width": 836.91, "height": 79.1, "fill": "#1D1D1F", "text": "APPLE PREMIUM", "fontSize": 70, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 222.20999999999998, "width": 635.58, "height": 45.2, "fill": "#1D1D1F", "text": "MACBOOK, IPAD & IPHONE BUNDLE", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 252.3, "left": 117.90000000000003, "width": 1407, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/qxO6eow1UNgIEK_9LdIAP_1407x759.png", "id": "product_image"}, {"type": "text", "top": 793.95, "left": 398.355, "width": 283.29, "height": 96.05, "fill": "#1D1D1F", "text": "\u20b91089", "fontSize": 85, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 917.0, "left": 435.0, "width": 210.0, "height": 63.0, "fill": "#1D1D1F", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 934.18, "left": 467.03499999999997, "width": 145.93, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple Premium Device Bundle - MacBook Pro, iPad & iPhone Set", "description": "\u2022 Complete Apple ecosystem solution for seamless integration across devices\n\u2022 MacBook Pro with Retina Display and backlit keyboard\n\u2022 Large trackpad with Multi-Touch gesture support\n\u2022 iPad with high-resolution display, perfect for multimedia and productivity\n\u2022 iPhone featuring Touch ID and premium aluminum design\n\u2022 All devices running latest Apple operating systems\n\u2022 Synchronized data and content across all devices via iCloud\n\u2022 Perfect for professionals, creatives, and Apple enthusiasts\n\u2022 Sleek aluminum construction across all devices\n\u2022 Built-in productivity and creativity apps ecosystem\n\u2022 Wireless connectivity and AirDrop capability between devices\n\u2022 Premium build quality and long-lasting durability", "price": "\u20b9089"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/qxO6eow1UNgIEK_9LdIAP_1407x759.png", "marketplace_url": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg", "layout": "minimalist_center"}, "banner_details": "\nThe banner features a clean and modern design promoting a tech bundle. The background is predominantly a soft off-white with abstract wave elements and circular highlights in pastel shades, creating a tech-savvy look. At the top center, the bold and sleek heading (id: `heading`) introduces the product line, immediately followed by a subheading (id: `subheading`) detailing the bundle components. The focal point is the product image (id: `product_image`), showcasing a MacBook, iPad, and iPhone in full view. Beneath it, the price (id: `price`) stands out in large, dark bold lettering. A contrasting call-to-action button (ids: `cta_background`, `cta`) labeled \u201cSHOP NOW\u201d makes purchasing easy and inviting.\n\n**Color Palette:**\n- Soft White: `#F5F5F7`\n- Accent Blue: `#E0E5FF`\n- Pale Blue (Wave Shapes): `#D1D7EF`\n- Deep Charcoal: `#1D1D1F`\n- Button Text: `#FFFFFF`\n", "product_color": "  \nThe product image features Apple devices\u2014MacBook, iPad, and iPhone\u2014against a clean white background, emphasizing minimalist design. The silver-gray hardware (#C0C0C0) offers a sleek, modern look, while black elements (#000000) like keyboards and screens add contrast. The MacBook\u2019s vibrant screen highlights a natural scenery with pastel sky tones merging pink (#E4A8C3), peach (#F8C7A5), and lavender (#B4A3D8), blending smoothly into earthy browns (#9C6A4E) and subtle forest greens (#2E3B2F). These colors create a calm, professional aesthetic. For an advertisement banner, a palette of silver, black, pastel pink, lavender, and soft blue (#A5C9F8) would evoke elegance, innovation, and visual harmony.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F5F7'/><circle cx='950' cy='100' r='200' fill='#E0E5FF' opacity='0.6'/><circle cx='180' cy='980' r='230' fill='#E0E5FF' opacity='0.5'/><path d='M0 400 C180 380 380 410 580 400 C780 390 980 410 1080 400 L1080 600 C880 590 680 610 480 600 C280 590 80 610 0 600 L0 400Z' fill='#D1D7EF' opacity='0.3'/><path d='M0 700 C180 680 380 710 580 700 C780 690 980 710 1080 700 L1080 900 C880 890 680 910 480 900 C280 890 80 910 0 900 L0 700Z' fill='#D1D7EF' opacity='0.2'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 121.54500000000002,
+                "width": 836.91,
+                "height": 79.1,
+                "fill": "#1D1D1F",
+                "text": "APPLE PREMIUM",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 222.20999999999998,
+                "width": 635.58,
+                "height": 45.2,
+                "fill": "#1D1D1F",
+                "text": "MACBOOK, IPAD & IPHONE BUNDLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 252.3,
+                "left": 117.90000000000003,
+                "width": 844.1999999999999,
+                "height": 455.4,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/qxO6eow1UNgIEK_9LdIAP_1407x759.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 793.95,
+                "left": 398.355,
+                "width": 283.29,
+                "height": 96.05,
+                "fill": "#1D1D1F",
+                "text": "\u20b91089",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 917.0,
+                "left": 435.0,
+                "width": 210.0,
+                "height": 63.0,
+                "fill": "#1D1D1F",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 934.18,
+                "left": 467.03499999999997,
+                "width": 145.93,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple Premium Device Bundle - MacBook Pro, iPad & iPhone Set",
+            "description": "\u2022 Complete Apple ecosystem solution for seamless integration across devices\n\u2022 MacBook Pro with Retina Display and backlit keyboard\n\u2022 Large trackpad with Multi-Touch gesture support\n\u2022 iPad with high-resolution display, perfect for multimedia and productivity\n\u2022 iPhone featuring Touch ID and premium aluminum design\n\u2022 All devices running latest Apple operating systems\n\u2022 Synchronized data and content across all devices via iCloud\n\u2022 Perfect for professionals, creatives, and Apple enthusiasts\n\u2022 Sleek aluminum construction across all devices\n\u2022 Built-in productivity and creativity apps ecosystem\n\u2022 Wireless connectivity and AirDrop capability between devices\n\u2022 Premium build quality and long-lasting durability",
+            "price": "\u20b9089"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/qxO6eow1UNgIEK_9LdIAP_1407x759.png",
+        "marketplace_url": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg",
+        "layout": "minimalist_center"
+    },
+    "banner_details": "\nThe banner features a clean and modern design promoting a tech bundle. The background is predominantly a soft off-white with abstract wave elements and circular highlights in pastel shades, creating a tech-savvy look. At the top center, the bold and sleek heading (id: `heading`) introduces the product line, immediately followed by a subheading (id: `subheading`) detailing the bundle components. The focal point is the product image (id: `product_image`), showcasing a MacBook, iPad, and iPhone in full view. Beneath it, the price (id: `price`) stands out in large, dark bold lettering. A contrasting call-to-action button (ids: `cta_background`, `cta`) labeled \u201cSHOP NOW\u201d makes purchasing easy and inviting.\n\n**Color Palette:**\n- Soft White: `#F5F5F7`\n- Accent Blue: `#E0E5FF`\n- Pale Blue (Wave Shapes): `#D1D7EF`\n- Deep Charcoal: `#1D1D1F`\n- Button Text: `#FFFFFF`\n",
+    "product_color": "  \nThe product image features Apple devices\u2014MacBook, iPad, and iPhone\u2014against a clean white background, emphasizing minimalist design. The silver-gray hardware (#C0C0C0) offers a sleek, modern look, while black elements (#000000) like keyboards and screens add contrast. The MacBook\u2019s vibrant screen highlights a natural scenery with pastel sky tones merging pink (#E4A8C3), peach (#F8C7A5), and lavender (#B4A3D8), blending smoothly into earthy browns (#9C6A4E) and subtle forest greens (#2E3B2F). These colors create a calm, professional aesthetic. For an advertisement banner, a palette of silver, black, pastel pink, lavender, and soft blue (#A5C9F8) would evoke elegance, innovation, and visual harmony.  \n"
+}

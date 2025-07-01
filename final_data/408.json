@@ -1,1 +1,99 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2EDE4'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#C3BAA9' stroke-width='2' fill='none' opacity='0.7'/><rect x='80' y='80' width='920' height='920' rx='15' stroke='#C3BAA9' stroke-width='1' fill='none' opacity='0.5'/><path d='M200 60 C300 40, 500 80, 700 60 C900 40, 980 80, 1100 60' stroke='#B5A99A' stroke-width='2' opacity='0.3' fill='none'/><path d='M200 1020 C400 1000, 600 1040, 800 1020 C1000 1000, 1100 1040, 1200 1020' stroke='#B5A99A' stroke-width='2' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FAF7F2' opacity='0.7'/><path d='M150 300 L350 300' stroke='#D4C9B9' stroke-width='2' opacity='0.8'/><circle cx='900' cy='900' r='50' fill='#E6E0D5' opacity='0.5'/><circle cx='180' cy='180' r='30' fill='#E6E0D5' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 145, "width": 809.96, "height": 113, "fill": "#3E3A36", "text": "SANTAL 33", "fontSize": 100, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 245, "left": 150, "width": 553.58, "height": 67.8, "fill": "#6D634F", "text": "LE LABO SIGNATURE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 330, "left": 150, "width": 417.09, "height": 179.22, "fill": "#5A5145", "text": "Luxury Woody Aromatic Scent\nPremium Sandalwood & Leather Notes\nLong-Lasting Elegant Composition\nUnisex Eau de Parfum 100ml", "fontSize": 26, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "rect", "top": 559, "left": 148, "width": 200, "height": 60, "fill": "#3E3A36", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 576, "left": 183, "width": 125.2, "height": 27.12, "fill": "#FAF7F2", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 508.53, "left": 410.34, "width": 1391, "height": 927, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8f0cf7a9-65be-44ec-9810-4ff6e0136abc_nobg_1391x927.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Launched by the design house of Le Labo in the year 2011. This woody aromatic fragrance has a blend of sandalwood, leather, papyrus, cedar, cardamom, violet, iris, and amber notes. It is long lasting fragrance. Launched by the design house of Le Labo in the year 2011 This woody aromatic fragrance has a blend of sandalwood, leather, papyrus, cedar, cardamom, violet, iris, and amber notes It is long lasting fragrance Brand - Le Labo ** Item Form - EDP Spray ** Item Volume - 50 Milliliters ** Scent - Sandalwood ** Special Feature - Long lasting **", "price": "None"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8f0cf7a9-65be-44ec-9810-4ff6e0136abc_nobg_1391x927.png", "marketplace_url": "https://www.amazon.com/dp/B0792JYM8H", "layout": "frame_layout"}, "banner_details": "\nThis banner features a minimalist and elegant layout showcasing a premium fragrance product. The background comprises layered soft beige-tone rectangles with curved accents and subtle design strokes, creating a refined aesthetic suitable for a luxury brand. The top text layer (`heading`) presents the product name in a sleek, modern font, followed by a bold subheading (`subheading`) emphasizing the brand identity. Supporting text (`description`) provides concise fragrance notes and product details. A bold call-to-action button (`cta_background` and `cta`) appears beneath the text, contrasting the backdrop. The right side displays the product image (`product_image`) of a perfume bottle and box for visual emphasis.\n\n**Color Palette:**\n- Creamy Off-white (#FAF7F2, #F2EDE4)\n- Rich Charcoal (#3E3A36)\n- Earthy Taupe (#6D634F)\n- Soft Warm Gray (#5A5145)\n- Accents: Pale Beige (#E6E0D5), Sand Brown (#C3BAA9)\n", "product_color": "\nThe product image of Le Labo's Santal 33 showcases a minimalist, earthy aesthetic that emphasizes simplicity and craftsmanship. The main color palette includes a warm kraft brown (#C4A484) from the box, matte black (#2A2A2A) text, soft off-white (#F3F3F0) on the label, and subtle silver-gray (#B4B4B4) from the bottle cap. These colors blend harmoniously, reflecting an artisanal and luxurious feel. The muted tones highlight the natural, apothecary-style branding of Le Labo. To create an advertisement banner, use this refined palette to maintain brand consistency and evoke a sense of bespoke sophistication while ensuring bold contrast for readability and elegance.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F2EDE4'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#C3BAA9' stroke-width='2' fill='none' opacity='0.7'/><rect x='80' y='80' width='920' height='920' rx='15' stroke='#C3BAA9' stroke-width='1' fill='none' opacity='0.5'/><path d='M200 60 C300 40, 500 80, 700 60 C900 40, 980 80, 1100 60' stroke='#B5A99A' stroke-width='2' opacity='0.3' fill='none'/><path d='M200 1020 C400 1000, 600 1040, 800 1020 C1000 1000, 1100 1040, 1200 1020' stroke='#B5A99A' stroke-width='2' opacity='0.3' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FAF7F2' opacity='0.7'/><path d='M150 300 L350 300' stroke='#D4C9B9' stroke-width='2' opacity='0.8'/><circle cx='900' cy='900' r='50' fill='#E6E0D5' opacity='0.5'/><circle cx='180' cy='180' r='30' fill='#E6E0D5' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 145,
+                "width": 809.96,
+                "height": 113,
+                "fill": "#3E3A36",
+                "text": "SANTAL 33",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 245,
+                "left": 150,
+                "width": 553.58,
+                "height": 67.8,
+                "fill": "#6D634F",
+                "text": "LE LABO SIGNATURE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 150,
+                "width": 417.09,
+                "height": 179.22,
+                "fill": "#5A5145",
+                "text": "Luxury Woody Aromatic Scent\nPremium Sandalwood & Leather Notes\nLong-Lasting Elegant Composition\nUnisex Eau de Parfum 100ml",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "rect",
+                "top": 559,
+                "left": 148,
+                "width": 200,
+                "height": 60,
+                "fill": "#3E3A36",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 576,
+                "left": 183,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FAF7F2",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 508.53,
+                "left": 410.34,
+                "width": 514.67,
+                "height": 342.99,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8f0cf7a9-65be-44ec-9810-4ff6e0136abc_nobg_1391x927.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Launched by the design house of Le Labo in the year 2011. This woody aromatic fragrance has a blend of sandalwood, leather, papyrus, cedar, cardamom, violet, iris, and amber notes. It is long lasting fragrance. Launched by the design house of Le Labo in the year 2011 This woody aromatic fragrance has a blend of sandalwood, leather, papyrus, cedar, cardamom, violet, iris, and amber notes It is long lasting fragrance Brand - Le Labo ** Item Form - EDP Spray ** Item Volume - 50 Milliliters ** Scent - Sandalwood ** Special Feature - Long lasting **",
+            "price": "None"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8f0cf7a9-65be-44ec-9810-4ff6e0136abc_nobg_1391x927.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0792JYM8H",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner features a minimalist and elegant layout showcasing a premium fragrance product. The background comprises layered soft beige-tone rectangles with curved accents and subtle design strokes, creating a refined aesthetic suitable for a luxury brand. The top text layer (`heading`) presents the product name in a sleek, modern font, followed by a bold subheading (`subheading`) emphasizing the brand identity. Supporting text (`description`) provides concise fragrance notes and product details. A bold call-to-action button (`cta_background` and `cta`) appears beneath the text, contrasting the backdrop. The right side displays the product image (`product_image`) of a perfume bottle and box for visual emphasis.\n\n**Color Palette:**\n- Creamy Off-white (#FAF7F2, #F2EDE4)\n- Rich Charcoal (#3E3A36)\n- Earthy Taupe (#6D634F)\n- Soft Warm Gray (#5A5145)\n- Accents: Pale Beige (#E6E0D5), Sand Brown (#C3BAA9)\n",
+    "product_color": "\nThe product image of Le Labo's Santal 33 showcases a minimalist, earthy aesthetic that emphasizes simplicity and craftsmanship. The main color palette includes a warm kraft brown (#C4A484) from the box, matte black (#2A2A2A) text, soft off-white (#F3F3F0) on the label, and subtle silver-gray (#B4B4B4) from the bottle cap. These colors blend harmoniously, reflecting an artisanal and luxurious feel. The muted tones highlight the natural, apothecary-style branding of Le Labo. To create an advertisement banner, use this refined palette to maintain brand consistency and evoke a sense of bespoke sophistication while ensuring bold contrast for readability and elegance.\n"
+}

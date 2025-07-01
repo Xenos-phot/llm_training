@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F8F0E8'/><rect y='700' width='1080' height='380' fill='#6D4C41' opacity='0.7'/><circle cx='950' cy='130' r='180' fill='#E8BF99' opacity='0.3'/><circle cx='100' cy='950' r='200' fill='#E8BF99' opacity='0.4'/><path d='M0 250 L250 0 L500 0 L250 250 Z' fill='#E8BF99' opacity='0.2'/><path d='M830 1080 L1080 830 L1080 1080 Z' fill='#E8BF99' opacity='0.2'/><g opacity='0.1'><path d='M0 400 L700 400' stroke='#6D4C41' stroke-width='1'/><path d='M0 450 L700 450' stroke='#6D4C41' stroke-width='1'/><path d='M0 500 L700 500' stroke='#6D4C41' stroke-width='1'/><path d='M0 550 L700 550' stroke='#6D4C41' stroke-width='1'/><path d='M0 600 L700 600' stroke='#6D4C41' stroke-width='1'/><path d='M0 650 L700 650' stroke='#6D4C41' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 60, "width": 261.83, "height": 101.7, "fill": "#5D3A29", "text": "ALDO", "fontSize": 90, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "brand_name"}, {"type": "text", "top": 160, "left": 60, "width": 642.36, "height": 79.1, "fill": "#8D6E63", "text": "LEGOIRII TOTE", "fontSize": 70, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 330, "left": 60, "width": 344.03, "height": 216.96, "fill": "#5D3A29", "text": "\u2022 Spacious Stylish Design\n\u2022 Ample Storage Space\n\u2022 Medium-sized for Everyday\n\u2022 Premium Faux Leather", "fontSize": 30, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 760, "left": 60, "width": 254.12, "height": 90.4, "fill": "#F8F0E8", "text": "$65.00", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 60, "width": 220, "height": 70, "fill": "#CA9868", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 920, "left": 100, "width": 155.79, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 266.59, "left": 549.34, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "z_pattern"}, "banner_details": "\nThis banner features a clean, modern layout designed to promote a stylish tote bag. At the top-left corner, text layer **brand_name** prominently displays the brand using a bold font. Just beneath it, **heading** presents the product name in large serif typography, giving it a premium and elegant feel. The **description** layer outlines four key product highlights in a neat list format. The bottom-left section contains the pricing in bold, shown using text layer **price**, followed by a stylized **cta_button** and **cta** text that invites users to take action. On the right, a high-resolution product image (**product_image**) is centrally positioned. The soft beige background features abstract overlays and subtle line textures for visual interest without overwhelming the design.\n\n**Color Palette:**\n- Cream White: `#F8F0E8`\n- Cocoa Brown: `#6D4C41`\n- Soft Tan: `#E8BF99`\n- Warm Beige (Button): `#CA9868`\n- Deep Coffee (Text): `#5D3A29`\n- Muted Brown (Headline): `#8D6E63`\n- White: `#FFFFFF`\n\n", "product_color": "\nThe product image showcases a sophisticated handbag in a warm, camel brown shade (#A9746E), accented with polished gold hardware (#D4AF37). The main color gives off an elegant and timeless vibe, while the gold embellishments lend a luxurious touch. The textured leather finish subtly reflects light, creating soft highlights that emphasize the bag\u2019s premium quality. The minimalistic gold logo, charm chains, and clasps blend seamlessly yet stand out due to their shine and contrast against the matte brown background. For an advertisement banner, a color palette of camel brown (#A9746E), gold (#D4AF37), soft cream (#F5F5DC), and charcoal (#333333) can be used to maintain elegance and highlight product features effectively.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F8F0E8'/><rect y='700' width='1080' height='380' fill='#6D4C41' opacity='0.7'/><circle cx='950' cy='130' r='180' fill='#E8BF99' opacity='0.3'/><circle cx='100' cy='950' r='200' fill='#E8BF99' opacity='0.4'/><path d='M0 250 L250 0 L500 0 L250 250 Z' fill='#E8BF99' opacity='0.2'/><path d='M830 1080 L1080 830 L1080 1080 Z' fill='#E8BF99' opacity='0.2'/><g opacity='0.1'><path d='M0 400 L700 400' stroke='#6D4C41' stroke-width='1'/><path d='M0 450 L700 450' stroke='#6D4C41' stroke-width='1'/><path d='M0 500 L700 500' stroke='#6D4C41' stroke-width='1'/><path d='M0 550 L700 550' stroke='#6D4C41' stroke-width='1'/><path d='M0 600 L700 600' stroke='#6D4C41' stroke-width='1'/><path d='M0 650 L700 650' stroke='#6D4C41' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 60,
+                "width": 261.83,
+                "height": 101.7,
+                "fill": "#5D3A29",
+                "text": "ALDO",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "brand_name"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 60,
+                "width": 642.36,
+                "height": 79.1,
+                "fill": "#8D6E63",
+                "text": "LEGOIRII TOTE",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 330,
+                "left": 60,
+                "width": 344.03,
+                "height": 216.96,
+                "fill": "#5D3A29",
+                "text": "\u2022 Spacious Stylish Design\n\u2022 Ample Storage Space\n\u2022 Medium-sized for Everyday\n\u2022 Premium Faux Leather",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 60,
+                "width": 254.12,
+                "height": 90.4,
+                "fill": "#F8F0E8",
+                "text": "$65.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#CA9868",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 920,
+                "left": 100,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 266.59,
+                "left": 549.34,
+                "width": 461.32,
+                "height": 546.82,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/cb29e6fe-e287-42bd-bc20-93874bbb4696_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "z_pattern"
+    },
+    "banner_details": "\nThis banner features a clean, modern layout designed to promote a stylish tote bag. At the top-left corner, text layer **brand_name** prominently displays the brand using a bold font. Just beneath it, **heading** presents the product name in large serif typography, giving it a premium and elegant feel. The **description** layer outlines four key product highlights in a neat list format. The bottom-left section contains the pricing in bold, shown using text layer **price**, followed by a stylized **cta_button** and **cta** text that invites users to take action. On the right, a high-resolution product image (**product_image**) is centrally positioned. The soft beige background features abstract overlays and subtle line textures for visual interest without overwhelming the design.\n\n**Color Palette:**\n- Cream White: `#F8F0E8`\n- Cocoa Brown: `#6D4C41`\n- Soft Tan: `#E8BF99`\n- Warm Beige (Button): `#CA9868`\n- Deep Coffee (Text): `#5D3A29`\n- Muted Brown (Headline): `#8D6E63`\n- White: `#FFFFFF`\n\n",
+    "product_color": "\nThe product image showcases a sophisticated handbag in a warm, camel brown shade (#A9746E), accented with polished gold hardware (#D4AF37). The main color gives off an elegant and timeless vibe, while the gold embellishments lend a luxurious touch. The textured leather finish subtly reflects light, creating soft highlights that emphasize the bag\u2019s premium quality. The minimalistic gold logo, charm chains, and clasps blend seamlessly yet stand out due to their shine and contrast against the matte brown background. For an advertisement banner, a color palette of camel brown (#A9746E), gold (#D4AF37), soft cream (#F5F5DC), and charcoal (#333333) can be used to maintain elegance and highlight product features effectively.\n"
+}

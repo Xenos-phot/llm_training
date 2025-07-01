@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5EEE6'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#D4A97F' stroke-width='3' fill='none' opacity='0.7'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#C4957D' stroke-width='2' fill='none' opacity='0.5'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.8'/><circle cx='540' cy='540' r='320' fill='#FBF7F3' opacity='0.6'/><circle cx='540' cy='540' r='200' fill='#F6E9DD' opacity='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 83, "left": 122, "width": 833.97, "height": 135.6, "fill": "#8B5A2B", "text": "ALDO BAGS", "fontSize": 120, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 212, "left": 125, "width": 519.8, "height": 67.8, "fill": "#C4957D", "text": "LEGOIRII TOTE BAG", "fontSize": 60, "fontFamily": "Alata Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 316, "left": 136, "width": 391.93, "height": 155.04, "fill": "#6D4C41", "text": "Durable Synthetic Leather Design\nSpacious Interior Compartment\nElegant Gold Hardware Accents\nPerfect Medium Size For Daily Use", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 834, "left": 85, "width": 238.36, "height": 84.75, "fill": "#8B5A2B", "text": "$65.00", "fontSize": 75, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 946, "left": 94, "width": 200, "height": 60, "fill": "#C4957D", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 962, "left": 123, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 280, "left": 550, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ca48dd5b-8587-42c4-b9f6-164a13c4fe28_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ca48dd5b-8587-42c4-b9f6-164a13c4fe28_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "frame_layout"}, "banner_details": "\nThis banner design showcases a promotional layout for a stylish handbag, featuring a structured, modern aesthetic set within softly layered rectangles and fluid line art. The upper section holds a bold headline (`heading`) using a strong serif font in a rich brown, creating high visual impact. Directly beneath, the subheading (`subheading`) appears in a contemporary sans serif paired with a complementary muted brown tone. To the left, a neat bullet-style listing (`description`) highlights product features in a smaller, readable font. To the bottom-left, the price (`price`) is emphasized in bold typography, next to a clear call-to-action button (`cta_background` and `cta`). The product image (`product_image`) is presented cleanly to the right over layered circular elements, drawing attention effectively. The background integrates soft beige and tan hues with artistic borders and curved strokes for added sophistication.\n\n**Color Palette:**\n- Warm Beige (#F5EEE6)\n- Golden Tan (#D4A97F)\n- Soft Chestnut (#C4957D)\n- Deep Earth Brown (#8B5A2B)\n- Cocoa Brown (#6D4C41)\n- Creamy White (#FFFFFF)\n\n", "product_color": "  \nThe product image features a sophisticated handbag in a rich camel brown tone, ideal for a warm, elegant advertisement palette. Dominating the visual is the smooth, textured camel brown body (#A9746E), which adds depth and warmth. Accents of metallic gold (#D4AF37) in the hardware and keychain elevate the visual appeal, creating a luxurious contrast. These colors blend seamlessly through minimalistic design and complement each other without overpowering. For the banner, include soft beige (#F5F5DC) and a muted cream (#FAF3E0) as background tones to let the bag stand out, while emphasizing elegance and a modern, upscale aesthetic.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5EEE6'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#D4A97F' stroke-width='3' fill='none' opacity='0.7'/><rect x='90' y='90' width='900' height='900' rx='20' stroke='#C4957D' stroke-width='2' fill='none' opacity='0.5'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><path d='M60 200 C30 300, 90 400, 60 500 C30 600, 90 700, 60 800 C30 900, 90 1000, 60 1100' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><path d='M1020 200 C990 300, 1050 400, 1020 500 C990 600, 1050 700, 1020 800 C990 900, 1050 1000, 1020 1100' stroke='#D4A97F' stroke-width='3' opacity='0.4' fill='none'/><rect x='150' y='150' width='780' height='780' rx='10' fill='#FFFFFF' opacity='0.8'/><circle cx='540' cy='540' r='320' fill='#FBF7F3' opacity='0.6'/><circle cx='540' cy='540' r='200' fill='#F6E9DD' opacity='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 83,
+                "left": 122,
+                "width": 833.97,
+                "height": 135.6,
+                "fill": "#8B5A2B",
+                "text": "ALDO BAGS",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 212,
+                "left": 125,
+                "width": 519.8,
+                "height": 67.8,
+                "fill": "#C4957D",
+                "text": "LEGOIRII TOTE BAG",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 316,
+                "left": 136,
+                "width": 391.93,
+                "height": 155.04,
+                "fill": "#6D4C41",
+                "text": "Durable Synthetic Leather Design\nSpacious Interior Compartment\nElegant Gold Hardware Accents\nPerfect Medium Size For Daily Use",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 834,
+                "left": 85,
+                "width": 238.36,
+                "height": 84.75,
+                "fill": "#8B5A2B",
+                "text": "$65.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 946,
+                "left": 94,
+                "width": 200,
+                "height": 60,
+                "fill": "#C4957D",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 962,
+                "left": 123,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 280,
+                "left": 550,
+                "width": 485.6,
+                "height": 575.6,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ca48dd5b-8587-42c4-b9f6-164a13c4fe28_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/ca48dd5b-8587-42c4-b9f6-164a13c4fe28_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner design showcases a promotional layout for a stylish handbag, featuring a structured, modern aesthetic set within softly layered rectangles and fluid line art. The upper section holds a bold headline (`heading`) using a strong serif font in a rich brown, creating high visual impact. Directly beneath, the subheading (`subheading`) appears in a contemporary sans serif paired with a complementary muted brown tone. To the left, a neat bullet-style listing (`description`) highlights product features in a smaller, readable font. To the bottom-left, the price (`price`) is emphasized in bold typography, next to a clear call-to-action button (`cta_background` and `cta`). The product image (`product_image`) is presented cleanly to the right over layered circular elements, drawing attention effectively. The background integrates soft beige and tan hues with artistic borders and curved strokes for added sophistication.\n\n**Color Palette:**\n- Warm Beige (#F5EEE6)\n- Golden Tan (#D4A97F)\n- Soft Chestnut (#C4957D)\n- Deep Earth Brown (#8B5A2B)\n- Cocoa Brown (#6D4C41)\n- Creamy White (#FFFFFF)\n\n",
+    "product_color": "  \nThe product image features a sophisticated handbag in a rich camel brown tone, ideal for a warm, elegant advertisement palette. Dominating the visual is the smooth, textured camel brown body (#A9746E), which adds depth and warmth. Accents of metallic gold (#D4AF37) in the hardware and keychain elevate the visual appeal, creating a luxurious contrast. These colors blend seamlessly through minimalistic design and complement each other without overpowering. For the banner, include soft beige (#F5F5DC) and a muted cream (#FAF3E0) as background tones to let the bag stand out, while emphasizing elegance and a modern, upscale aesthetic.  \n"
+}

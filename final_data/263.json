@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F4EFE8'/><rect x='540' y='0' width='540' height='1080' fill='#E8DFD5'/><path d='M0,0 L120,0 L120,1080 L0,1080 L0,0 Z' fill='#926E55' opacity='0.7'/><path d='M540,0 L580,0 L580,1080 L540,1080 L540,0 Z' fill='#926E55' opacity='0.7'/><path d='M0,180 L540,180 L540,185 L0,185 L0,180 Z' fill='#926E55' opacity='0.3'/><path d='M0,380 L540,380 L540,385 L0,385 L0,380 Z' fill='#926E55' opacity='0.3'/><path d='M0,580 L540,580 L540,585 L0,585 L0,580 Z' fill='#926E55' opacity='0.3'/><path d='M0,780 L540,780 L540,785 L0,785 L0,780 Z' fill='#926E55' opacity='0.3'/><path d='M580,180 L1080,180 L1080,185 L580,185 L580,180 Z' fill='#926E55' opacity='0.3'/><path d='M580,380 L1080,380 L1080,385 L580,385 L580,380 Z' fill='#926E55' opacity='0.3'/><path d='M580,580 L1080,580 L1080,585 L580,585 L580,580 Z' fill='#926E55' opacity='0.3'/><path d='M580,780 L1080,780 L1080,785 L580,785 L580,780 Z' fill='#926E55' opacity='0.3'/><circle cx='150' cy='90' r='30' fill='#926E55' opacity='0.1'/><circle cx='450' cy='90' r='20' fill='#926E55' opacity='0.1'/><circle cx='150' cy='980' r='30' fill='#926E55' opacity='0.1'/><circle cx='450' cy='980' r='20' fill='#926E55' opacity='0.1'/><circle cx='650' cy='90' r='30' fill='#926E55' opacity='0.1'/><circle cx='950' cy='90' r='20' fill='#926E55' opacity='0.1'/><circle cx='650' cy='980' r='30' fill='#926E55' opacity='0.1'/><circle cx='950' cy='980' r='20' fill='#926E55' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 57, "left": 28, "width": 384.59, "height": 203.4, "fill": "#5D4037", "text": "MODERN\nLIFT TOP\nCOFFEE TABLE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 345, "left": 26, "width": 301.01, "height": 36.16, "fill": "#926E55", "text": "STORAGE & STYLE", "fontSize": 32, "fontFamily": "Montserrat Alternates Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 450, "left": 40, "width": 397.16, "height": 103.06, "fill": "#5D4037", "text": "\u2022 Adjustable Height Design\n\u2022 Hidden Storage Compartment\n\u2022 Multi-functional Living Room Furniture", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 40, "width": 325.82, "height": 79.1, "fill": "#5D4037", "text": "$104.99", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 40, "width": 200, "height": 60, "fill": "#926E55", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 798, "left": 65, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 271, "left": 494, "width": 479, "height": 375, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8888edc7-d66f-47c2-892f-a7c0b8e50682_nobg_479x375.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **", "price": "104.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8888edc7-d66f-47c2-892f-a7c0b8e50682_nobg_479x375.png", "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW", "layout": "split_vertical"}, "banner_details": "\nThe banner features a clean, modern product promotion layout centered around a contemporary furniture piece. The background is split vertically into soft beige tones with subtle design accents and narrow bold stripes, ideal for presenting home interior items. The heading (`heading`) is displayed in large, bold typography at the top-left, emphasizing the product category. Just beneath it, the tagline (`tagline`) subtly reinforces the theme using a stylish font. A feature list (`description`) highlights product benefits with bullet points in a readable font. The price (`price`) is prominently shown near the bottom left, ensuring visibility. A strong call-to-action button (`cta_button` and `cta`) stands just below, encouraging engagement. The main product image (`product_image`) is positioned at the center-right, effectively balanced with ample text space on the left. Overall, it\u2019s a harmonious composition suitable for e-commerce or promotional use.\n\n**Color Palette:**\n- Soft Cream (#F4EFE8)\n- Warm Sand (#E8DFD5)\n- Rich Brown (#5D4037)\n- Coffee Beige (#926E55)\n- White (#FFFFFF)\n", "product_color": "  \nThe product image showcases a functional and minimalist lift-top coffee table with a clean modern aesthetic. The dominant color is crisp white (#FFFFFF), which gives a fresh and spacious feel, ideal for modern advertisements. The tabletop features a warm walnut brown (#725B4C), providing contrast and visual warmth. Accents like the grey book (#A9A9A9), muted green ball (#8B9675), and pastel-toned book covers introduce soft, organic hues. These colors blend subtly while being clearly distinguished by their placement and matte textures. A suitable palette for the banner: White (#FFFFFF), Walnut Brown (#725B4C), Sage Green (#8B9675), Light Grey (#D3D3D3), and Soft Tan (#C2B280).  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F4EFE8'/><rect x='540' y='0' width='540' height='1080' fill='#E8DFD5'/><path d='M0,0 L120,0 L120,1080 L0,1080 L0,0 Z' fill='#926E55' opacity='0.7'/><path d='M540,0 L580,0 L580,1080 L540,1080 L540,0 Z' fill='#926E55' opacity='0.7'/><path d='M0,180 L540,180 L540,185 L0,185 L0,180 Z' fill='#926E55' opacity='0.3'/><path d='M0,380 L540,380 L540,385 L0,385 L0,380 Z' fill='#926E55' opacity='0.3'/><path d='M0,580 L540,580 L540,585 L0,585 L0,580 Z' fill='#926E55' opacity='0.3'/><path d='M0,780 L540,780 L540,785 L0,785 L0,780 Z' fill='#926E55' opacity='0.3'/><path d='M580,180 L1080,180 L1080,185 L580,185 L580,180 Z' fill='#926E55' opacity='0.3'/><path d='M580,380 L1080,380 L1080,385 L580,385 L580,380 Z' fill='#926E55' opacity='0.3'/><path d='M580,580 L1080,580 L1080,585 L580,585 L580,580 Z' fill='#926E55' opacity='0.3'/><path d='M580,780 L1080,780 L1080,785 L580,785 L580,780 Z' fill='#926E55' opacity='0.3'/><circle cx='150' cy='90' r='30' fill='#926E55' opacity='0.1'/><circle cx='450' cy='90' r='20' fill='#926E55' opacity='0.1'/><circle cx='150' cy='980' r='30' fill='#926E55' opacity='0.1'/><circle cx='450' cy='980' r='20' fill='#926E55' opacity='0.1'/><circle cx='650' cy='90' r='30' fill='#926E55' opacity='0.1'/><circle cx='950' cy='90' r='20' fill='#926E55' opacity='0.1'/><circle cx='650' cy='980' r='30' fill='#926E55' opacity='0.1'/><circle cx='950' cy='980' r='20' fill='#926E55' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 57,
+                "left": 28,
+                "width": 384.59,
+                "height": 203.4,
+                "fill": "#5D4037",
+                "text": "MODERN\nLIFT TOP\nCOFFEE TABLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 345,
+                "left": 26,
+                "width": 301.01,
+                "height": 36.16,
+                "fill": "#926E55",
+                "text": "STORAGE & STYLE",
+                "fontFamily": "Montserrat Alternates Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 450,
+                "left": 40,
+                "width": 397.16,
+                "height": 103.06,
+                "fill": "#5D4037",
+                "text": "\u2022 Adjustable Height Design\n\u2022 Hidden Storage Compartment\n\u2022 Multi-functional Living Room Furniture",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 40,
+                "width": 325.82,
+                "height": 79.1,
+                "fill": "#5D4037",
+                "text": "$104.99",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#926E55",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 798,
+                "left": 65,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 271,
+                "left": 494,
+                "width": 574.8,
+                "height": 450.0,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8888edc7-d66f-47c2-892f-a7c0b8e50682_nobg_479x375.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Overall size of coffee table: 41\u201dL x 19.5\u201dW x 19\u201d-24.5 H. Adjustable Height: Coffee table\u00b4s innovative design with hidden compartment and lift tabletop can be adjusted vertically from 19\u2019\u2019 to 24.5 to meet your different demands of desired height. Just lifting it effortlessly, there is extra storage room provided. And the stability will also be guaranteed while adjusting. Storage Construction: Made of chipboard, solid wood and metal piece, Tangkula coffee table features large storage rooms with 3 divided storage design, which can well accommodate your various kinds of accessories or stuffs, such as your notebooks, glasses or other things. Practicable Design: Our coffee table is widely applied in office or home as a perfect coffee table or living room furniture for its spacious work area. Its compact structure and beautiful texture can surprisingly highlight your office or home decor, perfect for your office, living room, or study. Brand - Tangkula ** Product Dimensions - 19&#34;D x 41&#34;W x 24.5&#34;H ** Maximum Weight Recommendation - 220 Pounds ** Color - White ** Product Care Instructions - Wipe with Dry/Damp Cloth **",
+            "price": "104.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8888edc7-d66f-47c2-892f-a7c0b8e50682_nobg_479x375.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0744B7PTW",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a clean, modern product promotion layout centered around a contemporary furniture piece. The background is split vertically into soft beige tones with subtle design accents and narrow bold stripes, ideal for presenting home interior items. The heading (`heading`) is displayed in large, bold typography at the top-left, emphasizing the product category. Just beneath it, the tagline (`tagline`) subtly reinforces the theme using a stylish font. A feature list (`description`) highlights product benefits with bullet points in a readable font. The price (`price`) is prominently shown near the bottom left, ensuring visibility. A strong call-to-action button (`cta_button` and `cta`) stands just below, encouraging engagement. The main product image (`product_image`) is positioned at the center-right, effectively balanced with ample text space on the left. Overall, it\u2019s a harmonious composition suitable for e-commerce or promotional use.\n\n**Color Palette:**\n- Soft Cream (#F4EFE8)\n- Warm Sand (#E8DFD5)\n- Rich Brown (#5D4037)\n- Coffee Beige (#926E55)\n- White (#FFFFFF)\n",
+    "product_color": "  \nThe product image showcases a functional and minimalist lift-top coffee table with a clean modern aesthetic. The dominant color is crisp white (#FFFFFF), which gives a fresh and spacious feel, ideal for modern advertisements. The tabletop features a warm walnut brown (#725B4C), providing contrast and visual warmth. Accents like the grey book (#A9A9A9), muted green ball (#8B9675), and pastel-toned book covers introduce soft, organic hues. These colors blend subtly while being clearly distinguished by their placement and matte textures. A suitable palette for the banner: White (#FFFFFF), Walnut Brown (#725B4C), Sage Green (#8B9675), Light Grey (#D3D3D3), and Soft Tan (#C2B280).  \n"
+}

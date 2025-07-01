@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F7F0'/><rect x='0' y='650' width='1080' height='430' fill='#3D9937' opacity='0.9'/><circle cx='900' cy='250' r='150' fill='#8CC63F' opacity='0.2'/><circle cx='940' cy='200' r='80' fill='#8CC63F' opacity='0.3'/><circle cx='180' cy='180' r='100' fill='#8CC63F' opacity='0.15'/><path d='M0 0 L200 0 L160 200 L0 250 Z' fill='#8CC63F' opacity='0.1'/><path d='M1080 1080 L880 1080 L920 880 L1080 830 Z' fill='#FFFFFF' opacity='0.1'/><g opacity='0.05'><line x1='0' y1='50' x2='1080' y2='50' stroke='#333333' stroke-width='1'/><line x1='0' y1='100' x2='1080' y2='100' stroke='#333333' stroke-width='1'/><line x1='0' y1='150' x2='1080' y2='150' stroke='#333333' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#333333' stroke-width='1'/><line x1='0' y1='250' x2='1080' y2='250' stroke='#333333' stroke-width='1'/><line x1='0' y1='300' x2='1080' y2='300' stroke='#333333' stroke-width='1'/><line x1='0' y1='350' x2='1080' y2='350' stroke='#333333' stroke-width='1'/><line x1='0' y1='400' x2='1080' y2='400' stroke='#333333' stroke-width='1'/><line x1='0' y1='450' x2='1080' y2='450' stroke='#333333' stroke-width='1'/><line x1='0' y1='500' x2='1080' y2='500' stroke='#333333' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 850.04, "height": 135.6, "fill": "#2E5E28", "text": "LIVER DETOX", "fontSize": 120, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 50, "width": 671.44, "height": 90.4, "fill": "#3D9937", "text": "DAILY WELLNESS", "fontSize": 80, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 350, "left": 50, "width": 358.8, "height": 174.02, "fill": "#333333", "text": "\u2022 Liver Cleanse & Detox Formula\n\u2022 Contains Milk Thistle Extract\n\u2022 Turmeric & Artichoke Extracts\n\u2022 Supports Digestive Health", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 308.33, "height": 90.4, "fill": "#FFFFFF", "text": "$29.99", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 50, "width": 230, "height": 70, "fill": "#8CC63F", "rx": 10, "ry": 10, "id": "cta_button"}, {"type": "text", "top": 950, "left": 88, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 300, "left": 550, "width": 974, "height": 1335, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/19270d57-a7eb-4830-8b8f-a82557107ce2_nobg_974x1335.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "LIVER CLEANSE, DETOX & REPAIR : Detox supplement capsule, liver aid for alcohol detox is a liver cleanse formula. This liver aid supplement contains milk thistle extract. Milk thistle helps support and repair for active liver health and function.* LIVER SUPPORT SUPPLEMENT WITH MILK THISTLE, TUMERIC & ARTICHOKE EXTRACTS: A fatty liver supplement, liver and kidney cleanse detox* Milk Thistle liver detox formula made to support & aid liver health. Detox cleanse. liver supplements for men & women. LIVER HEALTH SUPPLEMENTS FOR MEN & WOMEN: For indigestion & bloating relief, cramping, flatulence and indigestion.* Liver pills support liver repair, plus support liver cleanse detox & repair fatty liver* Kidney cleanse detox & repair formula. ANTIOXIDANT RICH ARTICHOKE EXTRACT LIVER HEALTH FORMULA: This detox and digestive aid pill with milk thistle and turmeric. These are two ingredients with antioxidant properties that help reduce potential free radical damage.* 2 LIVER SUPPLEMENT PILLS DAILY FOR LIVER HEALTH: Take 2 Liver tablets supplements daily during or immediately after a meal, or as directed by a healthcare professional. Made in GMP-certified and FDA-registered facilities. Brand - Swisse ** Item Form - Tablet ** Manufacturer - Swisse Wellness, Inc. ** Item Package Quantity - 1 ** Package Information - Bottle **", "price": "29.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/19270d57-a7eb-4830-8b8f-a82557107ce2_nobg_974x1335.png", "marketplace_url": "https://www.amazon.com/dp/B06Y59V34H", "layout": "split_vertical"}, "banner_details": "\nThis banner features a clean and health-focused promotional layout for a supplement product. The top section displays a bold headline (`heading`) highlighting the product type in dark green, followed by a smaller subheading (`subheading`) in vibrant green, emphasizing wellness. Below, key benefits of the product are listed in bullet points (`description`) using a legible light font for clarity. The bottom section contains a bold price tag (`price`) in white against a green background, paired with a rounded call-to-action button (`cta_button`) labeled clearly for user engagement (`cta`). A product image (`product_image`) is prominently placed on the right for visual balance.\n\n**Color Palette:**\n- Background: #F5F7F0 (off-white)\n- Primary Dark Green: #2E5E28 (headline)\n- Vibrant Green: #3D9937 (subheading, background)\n- Accent Green: #8CC63F (buttons, decorative shapes)\n- Text Grey: #333333\n- White: #FFFFFF (buttons and price text)\n\n", "product_color": "  \nThe product image uses a fresh and health-conscious color palette prominently featuring lime green (#A7D129), white (#FFFFFF), black (#000000), and red (#D32F2F). The lime green is used for the cap and lower label area, evoking a sense of vitality and detoxification. White dominates the background, enhancing readability and promoting a clinical, clean feel. Bold black font ensures clarity and professionalism, while the red (#D32F2F) in the Swisse logo catches attention and adds brand distinction. The colors are distinctly sectioned yet transition smoothly, supported by clean lines and tonal contrast, which ensures each element is highlighted effectively without overwhelming the viewer.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F7F0'/><rect x='0' y='650' width='1080' height='430' fill='#3D9937' opacity='0.9'/><circle cx='900' cy='250' r='150' fill='#8CC63F' opacity='0.2'/><circle cx='940' cy='200' r='80' fill='#8CC63F' opacity='0.3'/><circle cx='180' cy='180' r='100' fill='#8CC63F' opacity='0.15'/><path d='M0 0 L200 0 L160 200 L0 250 Z' fill='#8CC63F' opacity='0.1'/><path d='M1080 1080 L880 1080 L920 880 L1080 830 Z' fill='#FFFFFF' opacity='0.1'/><g opacity='0.05'><line x1='0' y1='50' x2='1080' y2='50' stroke='#333333' stroke-width='1'/><line x1='0' y1='100' x2='1080' y2='100' stroke='#333333' stroke-width='1'/><line x1='0' y1='150' x2='1080' y2='150' stroke='#333333' stroke-width='1'/><line x1='0' y1='200' x2='1080' y2='200' stroke='#333333' stroke-width='1'/><line x1='0' y1='250' x2='1080' y2='250' stroke='#333333' stroke-width='1'/><line x1='0' y1='300' x2='1080' y2='300' stroke='#333333' stroke-width='1'/><line x1='0' y1='350' x2='1080' y2='350' stroke='#333333' stroke-width='1'/><line x1='0' y1='400' x2='1080' y2='400' stroke='#333333' stroke-width='1'/><line x1='0' y1='450' x2='1080' y2='450' stroke='#333333' stroke-width='1'/><line x1='0' y1='500' x2='1080' y2='500' stroke='#333333' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 850.04,
+                "height": 135.6,
+                "fill": "#2E5E28",
+                "text": "LIVER DETOX",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 50,
+                "width": 671.44,
+                "height": 90.4,
+                "fill": "#3D9937",
+                "text": "DAILY WELLNESS",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 50,
+                "width": 358.8,
+                "height": 174.02,
+                "fill": "#333333",
+                "text": "\u2022 Liver Cleanse & Detox Formula\n\u2022 Contains Milk Thistle Extract\n\u2022 Turmeric & Artichoke Extracts\n\u2022 Supports Digestive Health",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 308.33,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$29.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 50,
+                "width": 230,
+                "height": 70,
+                "fill": "#8CC63F",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 88,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 300,
+                "left": 550,
+                "width": 438.3,
+                "height": 600.75,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/19270d57-a7eb-4830-8b8f-a82557107ce2_nobg_974x1335.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "LIVER CLEANSE, DETOX & REPAIR : Detox supplement capsule, liver aid for alcohol detox is a liver cleanse formula. This liver aid supplement contains milk thistle extract. Milk thistle helps support and repair for active liver health and function.* LIVER SUPPORT SUPPLEMENT WITH MILK THISTLE, TUMERIC & ARTICHOKE EXTRACTS: A fatty liver supplement, liver and kidney cleanse detox* Milk Thistle liver detox formula made to support & aid liver health. Detox cleanse. liver supplements for men & women. LIVER HEALTH SUPPLEMENTS FOR MEN & WOMEN: For indigestion & bloating relief, cramping, flatulence and indigestion.* Liver pills support liver repair, plus support liver cleanse detox & repair fatty liver* Kidney cleanse detox & repair formula. ANTIOXIDANT RICH ARTICHOKE EXTRACT LIVER HEALTH FORMULA: This detox and digestive aid pill with milk thistle and turmeric. These are two ingredients with antioxidant properties that help reduce potential free radical damage.* 2 LIVER SUPPLEMENT PILLS DAILY FOR LIVER HEALTH: Take 2 Liver tablets supplements daily during or immediately after a meal, or as directed by a healthcare professional. Made in GMP-certified and FDA-registered facilities. Brand - Swisse ** Item Form - Tablet ** Manufacturer - Swisse Wellness, Inc. ** Item Package Quantity - 1 ** Package Information - Bottle **",
+            "price": "29.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/19270d57-a7eb-4830-8b8f-a82557107ce2_nobg_974x1335.png",
+        "marketplace_url": "https://www.amazon.com/dp/B06Y59V34H",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a clean and health-focused promotional layout for a supplement product. The top section displays a bold headline (`heading`) highlighting the product type in dark green, followed by a smaller subheading (`subheading`) in vibrant green, emphasizing wellness. Below, key benefits of the product are listed in bullet points (`description`) using a legible light font for clarity. The bottom section contains a bold price tag (`price`) in white against a green background, paired with a rounded call-to-action button (`cta_button`) labeled clearly for user engagement (`cta`). A product image (`product_image`) is prominently placed on the right for visual balance.\n\n**Color Palette:**\n- Background: #F5F7F0 (off-white)\n- Primary Dark Green: #2E5E28 (headline)\n- Vibrant Green: #3D9937 (subheading, background)\n- Accent Green: #8CC63F (buttons, decorative shapes)\n- Text Grey: #333333\n- White: #FFFFFF (buttons and price text)\n\n",
+    "product_color": "  \nThe product image uses a fresh and health-conscious color palette prominently featuring lime green (#A7D129), white (#FFFFFF), black (#000000), and red (#D32F2F). The lime green is used for the cap and lower label area, evoking a sense of vitality and detoxification. White dominates the background, enhancing readability and promoting a clinical, clean feel. Bold black font ensures clarity and professionalism, while the red (#D32F2F) in the Swisse logo catches attention and adds brand distinction. The colors are distinctly sectioned yet transition smoothly, supported by clean lines and tonal contrast, which ensures each element is highlighted effectively without overwhelming the viewer.  \n"
+}

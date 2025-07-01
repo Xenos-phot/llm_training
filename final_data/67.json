@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0a2342'/><stop offset='100%' style='stop-color:#084c61'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#000814' opacity='0.7'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#2c7da0' opacity='0.2'/><circle cx='150' cy='150' r='50' fill='#ffffff' opacity='0.05'/><circle cx='900' cy='900' r='70' fill='#ffffff' opacity='0.05'/><rect x='-200' y='300' width='2000' height='3' fill='#ffffff' opacity='0.05' transform='rotate(45, 540, 540)'/><rect x='-200' y='600' width='2000' height='2' fill='#ffffff' opacity='0.05' transform='rotate(45, 540, 540)'/><rect x='-200' y='900' width='2000' height='3' fill='#ffffff' opacity='0.05' transform='rotate(45, 540, 540)'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 608.16, "height": 118.65, "fill": "#ffffff", "text": "LAUNDRY", "fontSize": 105, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 180, "left": 40, "width": 805.98, "height": 118.65, "fill": "#ffffff", "text": "REVOLUTION", "fontSize": 105, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 320, "left": 40, "width": 809.67, "height": 62.15, "fill": "#4CC9F0", "text": "INSIGNIA DIGITAL WASHER", "fontSize": 55, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 430, "left": 40, "width": 302.33, "height": 186.45, "fill": "#ffffff", "text": "Energy-Efficient Design\nMultiple Wash Cycles\nLarge Capacity Drum\nIntuitive Digital Controls", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 800, "left": 40, "width": 280.91, "height": 113, "fill": "#ffffff", "text": "$243", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 40, "width": 200, "height": 60, "fill": "#4CC9F0", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 947, "left": 75, "width": 145.54, "height": 31.64, "fill": "#000814", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 410, "left": 597, "width": 899, "height": 1281, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/l5l-1k34nDbDvcl2bEfzA_899x1281.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Digital Front Load Washer - Modern Laundry Revolution", "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Large capacity front-loading drum for efficient washing\n\u2022 Multiple wash cycles including Express, Delay, and Temperature control options\n\u2022 Energy-efficient operation with digital LED display showing remaining time\n\u2022 Customizable settings with easy-to-use selection dial\n\u2022 Advanced washing technology with multiple water level options\n\u2022 Durable construction with reinforced glass door and safety lock\n\u2022 Digital control panel with clear cycle indicators\n\u2022 Compact yet spacious design perfect for modern homes\n\u2022 Anti-vibration system with stabilizing feet for quiet operation\n\u2022 User-friendly interface with clear program descriptions\n\u2022 Energy Star compliant for reduced power consumption\n\u2022 Multiple temperature settings for various fabric types\n\u2022 Contemporary aesthetic that complements any laundry space", "price": "$243"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/l5l-1k34nDbDvcl2bEfzA_899x1281.png", "marketplace_url": "blob:https://studio.phot.ai/5813470b-30ea-42a0-8bc1-9fbad76586c1", "layout": "diagonal_split"}, "banner_details": "\nThis banner promotes a washing machine product with a modern tech-inspired design. It features a striking geometric background using layered diagonal shapes and subtle textures, including lines and circles to create depth. At the top left, the text layer `heading_1` and `heading_2` deliver a bold and futuristic title in uppercase white typography. Just below, the `subheading` in bright blue further highlights the product type. A concise bullet list of features is shown using the text layer `description`, aligned vertically. The price is prominently displayed in bold white in the text layer `price`, and a bright blue rectangular call-to-action button (`cta_background` and `cta`) appears at the bottom, catching attention. The product image (`product_image`) is placed on the right side and scaled down, ensuring focus on the washer.\n\n**Color Palette:**\n- Midnight Navy: `#0a2342` (background)\n- Ocean Blue: `#084c61` (gradient blend)\n- Sky Blue: `#4CC9F0` (subheading and button)\n- White: `#FFFFFF` (text and product highlight)\n- Deep Navy: `#000814` (call-to-action text)\n", "product_color": "  \nThe product image features a sleek and modern washing machine with a predominantly minimalist white exterior, accented by bold black and dark gray elements. The stark contrast creates a clean, professional look. The white body (#FFFFFF) serves as the base tone, conveying purity and modernity. The black door ring (#1A1A1A) introduces depth and draws visual focus to the central drum area. The metallic knob and handle areas have shades of silver-gray (#C0C0C0), giving a sense of sophistication. The digital display incorporates neon blue (#00BFFF) highlights, making key functions pop subtly yet clearly. This palette works well for a tech-savvy, premium banner design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0a2342'/><stop offset='100%' style='stop-color:#084c61'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#000814' opacity='0.7'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#2c7da0' opacity='0.2'/><circle cx='150' cy='150' r='50' fill='#ffffff' opacity='0.05'/><circle cx='900' cy='900' r='70' fill='#ffffff' opacity='0.05'/><rect x='-200' y='300' width='2000' height='3' fill='#ffffff' opacity='0.05' transform='rotate(45, 540, 540)'/><rect x='-200' y='600' width='2000' height='2' fill='#ffffff' opacity='0.05' transform='rotate(45, 540, 540)'/><rect x='-200' y='900' width='2000' height='3' fill='#ffffff' opacity='0.05' transform='rotate(45, 540, 540)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 608.16,
+                "height": 118.65,
+                "fill": "#ffffff",
+                "text": "LAUNDRY",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 40,
+                "width": 805.98,
+                "height": 118.65,
+                "fill": "#ffffff",
+                "text": "REVOLUTION",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 40,
+                "width": 809.67,
+                "height": 62.15,
+                "fill": "#4CC9F0",
+                "text": "INSIGNIA DIGITAL WASHER",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 40,
+                "width": 302.33,
+                "height": 186.45,
+                "fill": "#ffffff",
+                "text": "Energy-Efficient Design\nMultiple Wash Cycles\nLarge Capacity Drum\nIntuitive Digital Controls",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 40,
+                "width": 280.91,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "$243",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#4CC9F0",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 947,
+                "left": 75,
+                "width": 145.54,
+                "height": 31.64,
+                "fill": "#000814",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 410,
+                "left": 597,
+                "width": 404.55,
+                "height": 576.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/l5l-1k34nDbDvcl2bEfzA_899x1281.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Digital Front Load Washer - Modern Laundry Revolution",
+            "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Large capacity front-loading drum for efficient washing\n\u2022 Multiple wash cycles including Express, Delay, and Temperature control options\n\u2022 Energy-efficient operation with digital LED display showing remaining time\n\u2022 Customizable settings with easy-to-use selection dial\n\u2022 Advanced washing technology with multiple water level options\n\u2022 Durable construction with reinforced glass door and safety lock\n\u2022 Digital control panel with clear cycle indicators\n\u2022 Compact yet spacious design perfect for modern homes\n\u2022 Anti-vibration system with stabilizing feet for quiet operation\n\u2022 User-friendly interface with clear program descriptions\n\u2022 Energy Star compliant for reduced power consumption\n\u2022 Multiple temperature settings for various fabric types\n\u2022 Contemporary aesthetic that complements any laundry space",
+            "price": "$243"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/l5l-1k34nDbDvcl2bEfzA_899x1281.png",
+        "marketplace_url": "blob:https://studio.phot.ai/5813470b-30ea-42a0-8bc1-9fbad76586c1",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner promotes a washing machine product with a modern tech-inspired design. It features a striking geometric background using layered diagonal shapes and subtle textures, including lines and circles to create depth. At the top left, the text layer `heading_1` and `heading_2` deliver a bold and futuristic title in uppercase white typography. Just below, the `subheading` in bright blue further highlights the product type. A concise bullet list of features is shown using the text layer `description`, aligned vertically. The price is prominently displayed in bold white in the text layer `price`, and a bright blue rectangular call-to-action button (`cta_background` and `cta`) appears at the bottom, catching attention. The product image (`product_image`) is placed on the right side and scaled down, ensuring focus on the washer.\n\n**Color Palette:**\n- Midnight Navy: `#0a2342` (background)\n- Ocean Blue: `#084c61` (gradient blend)\n- Sky Blue: `#4CC9F0` (subheading and button)\n- White: `#FFFFFF` (text and product highlight)\n- Deep Navy: `#000814` (call-to-action text)\n",
+    "product_color": "  \nThe product image features a sleek and modern washing machine with a predominantly minimalist white exterior, accented by bold black and dark gray elements. The stark contrast creates a clean, professional look. The white body (#FFFFFF) serves as the base tone, conveying purity and modernity. The black door ring (#1A1A1A) introduces depth and draws visual focus to the central drum area. The metallic knob and handle areas have shades of silver-gray (#C0C0C0), giving a sense of sophistication. The digital display incorporates neon blue (#00BFFF) highlights, making key functions pop subtly yet clearly. This palette works well for a tech-savvy, premium banner design.  \n"
+}

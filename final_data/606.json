@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFF2E6'/><rect x='0' y='0' width='540' height='540' fill='#FF6B6B'/><rect x='540' y='0' width='540' height='540' fill='#F7B267'/><rect x='0' y='540' width='540' height='540' fill='#F7B267'/><rect x='540' y='540' width='540' height='540' fill='#4CAF50'/><g opacity='0.2'><path d='M50 50 L150 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M100 50 L200 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M150 50 L250 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M200 50 L300 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M250 50 L350 150' stroke='#FFFFFF' stroke-width='8' fill='none'/></g><g opacity='0.2'><circle cx='840' cy='120' r='12' fill='#FFFFFF'/><circle cx='880' cy='160' r='8' fill='#FFFFFF'/><circle cx='800' cy='160' r='10' fill='#FFFFFF'/><circle cx='920' cy='120' r='6' fill='#FFFFFF'/></g><g opacity='0.2'><circle cx='120' cy='840' r='12' fill='#FFFFFF'/><circle cx='160' cy='880' r='8' fill='#FFFFFF'/><circle cx='160' cy='800' r='10' fill='#FFFFFF'/><circle cx='120' cy='920' r='6' fill='#FFFFFF'/></g><g opacity='0.3'><path d='M650 650 L750 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M700 650 L800 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M750 650 L850 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M800 650 L900 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M850 650 L950 750' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><circle cx='270' cy='270' r='120' fill='#FF4136' opacity='0.3'/><path d='M180 420 Q270 350, 360 420' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.4'/><path d='M720 840 Q810 770, 900 840' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 429.7, "height": 150.29, "fill": "#FFFFFF", "text": "PIZZA\nSNEAKERS", "fontSize": 70, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 290, "left": 60, "width": 445.88, "height": 67.8, "fill": "#FFFFFF", "text": "LIMITED EDITION", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 580, "left": 60, "width": 375.23, "height": 186.45, "fill": "#333333", "text": "\u2022 Unique Pizza Print Design\n\u2022 High-Quality Canvas Material\n\u2022 Cushioned Comfort Insole\n\u2022 Perfect Conversation Starter", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 850, "left": 60, "width": 229.88, "height": 101.7, "fill": "#FFFFFF", "text": "\u20b9 899", "fontSize": 90, "fontFamily": "Lilita One-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 960, "left": 60, "width": 230, "height": 65, "fill": "#FF4136", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 977, "left": 90, "width": 173.04, "height": 33.9, "fill": "#FFFFFF", "text": "ORDER NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 112.61, "left": 582.46, "width": 1335, "height": 1159, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/fu3NEpidNmSMNMuThU372_1335x1159.png", "id": "product_image"}, {"type": "text", "top": 380, "left": 60, "width": 308.14, "height": 38.42, "fill": "#FFFFFF", "text": "GRAB YOURS NOW!", "fontSize": 34, "fontFamily": "Fugaz One Regular", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Pizza Lover's High-Top Canvas Sneakers - Deliciously Stylish Footwear", "description": "\u2022 Unique pepperoni pizza print design covering the entire shoe\n\u2022 High-quality canvas upper material for breathability and comfort\n\u2022 Classic high-top silhouette with durable rubber sole\n\u2022 White contrast laces for easy styling\n\u2022 Reinforced toe cap for additional durability\n\u2022 Vibrant full-color photorealistic pizza graphics\n\u2022 Cushioned insole for all-day comfort\n\u2022 Perfect for pizza enthusiasts and fashion-forward individuals\n\u2022 Available in unisex sizing\n\u2022 Easy-to-clean surface\n\u2022 Vintage-style rubber toe cap and sidewall\n\u2022 Eye-catching conversation starter design\n\u2022 Ideal for casual wear and food-themed events", "price": "\u20b9899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/fu3NEpidNmSMNMuThU372_1335x1159.png", "marketplace_url": "https://stockai-bucket.apyhi.com/images/1040256386812100678_bunkmeister_pizza_shoes_eb03db37-9af3-4a54-86ea-c0a5f9521927.webp", "layout": "grid_four"}, "banner_details": "\nThe banner is divided into four colorful quadrants, each filled with a distinct vibrant background. The top-left quadrant features a red backdrop with diagonal white graphic lines and three text elements: a bold title (`heading`), a promotional subheading (`subheading`), and a dynamic tagline (`tagline`) that feels energetic and urgent. The top-right quadrant contains an image of a sneaker (`product_image`) printed with a pizza design placed over an orange background, enhanced with soft decorative white bubbles for visual interest. The bottom-left quadrant on a peachy-orange background showcases a vertically listed product description (`description`), a bold price highlight (`price`), and a red rounded button (`cta_background`) with a call-to-action text (`cta`). The bottom-right quadrant on a vivid green background features abstract white graphic lines that add balance and a contemporary vibe.\n\n**Color Palette:**\n- Tomato Red: `#FF6B6B`\n- Peach Orange: `#F7B267`\n- Leafy Green: `#4CAF50`\n- Bright Red (Accent): `#FF4136`\n- Warm White: `#FFFFFF`\n- Dark Gray (Text): `#333333`\n", "product_color": "  \nThis vibrant and playful sneaker features a pizza-themed design, making it ideal for a bold and fun advertisement banner. The primary color palette includes rich Tomato Red (#C62828) from the pepperoni, Golden Crust (#F5C16C) from the cheesy dough, Creamy White (#F9F6EF) for the laces and background, Basil Green (#3FAF45) to highlight the greenery, and Charcoal Black (#2E2E2E) for the eyelets and midsole outline. These colors are seamlessly blended to mimic the realism of a pizza, yet each component is sharply defined to maintain high visual contrast. This contrast helps each element pop, creating both realism and attention-grabbing appeal.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#FFF2E6'/><rect x='0' y='0' width='540' height='540' fill='#FF6B6B'/><rect x='540' y='0' width='540' height='540' fill='#F7B267'/><rect x='0' y='540' width='540' height='540' fill='#F7B267'/><rect x='540' y='540' width='540' height='540' fill='#4CAF50'/><g opacity='0.2'><path d='M50 50 L150 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M100 50 L200 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M150 50 L250 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M200 50 L300 150' stroke='#FFFFFF' stroke-width='8' fill='none'/><path d='M250 50 L350 150' stroke='#FFFFFF' stroke-width='8' fill='none'/></g><g opacity='0.2'><circle cx='840' cy='120' r='12' fill='#FFFFFF'/><circle cx='880' cy='160' r='8' fill='#FFFFFF'/><circle cx='800' cy='160' r='10' fill='#FFFFFF'/><circle cx='920' cy='120' r='6' fill='#FFFFFF'/></g><g opacity='0.2'><circle cx='120' cy='840' r='12' fill='#FFFFFF'/><circle cx='160' cy='880' r='8' fill='#FFFFFF'/><circle cx='160' cy='800' r='10' fill='#FFFFFF'/><circle cx='120' cy='920' r='6' fill='#FFFFFF'/></g><g opacity='0.3'><path d='M650 650 L750 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M700 650 L800 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M750 650 L850 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M800 650 L900 750' stroke='#FFFFFF' stroke-width='6' fill='none'/><path d='M850 650 L950 750' stroke='#FFFFFF' stroke-width='6' fill='none'/></g><circle cx='270' cy='270' r='120' fill='#FF4136' opacity='0.3'/><path d='M180 420 Q270 350, 360 420' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.4'/><path d='M720 840 Q810 770, 900 840' stroke='#FFFFFF' stroke-width='4' fill='none' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 429.7,
+                "height": 150.29,
+                "fill": "#FFFFFF",
+                "text": "PIZZA\nSNEAKERS",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 60,
+                "width": 445.88,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "LIMITED EDITION",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 60,
+                "width": 375.23,
+                "height": 186.45,
+                "fill": "#333333",
+                "text": "\u2022 Unique Pizza Print Design\n\u2022 High-Quality Canvas Material\n\u2022 Cushioned Comfort Insole\n\u2022 Perfect Conversation Starter",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 60,
+                "width": 229.88,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 899",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 60,
+                "width": 230,
+                "height": 65,
+                "fill": "#FF4136",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 977,
+                "left": 90,
+                "width": 173.04,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "ORDER NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 112.61,
+                "left": 582.46,
+                "width": 467.24999999999994,
+                "height": 405.65,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/fu3NEpidNmSMNMuThU372_1335x1159.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 60,
+                "width": 308.14,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "GRAB YOURS NOW!",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Pizza Lover's High-Top Canvas Sneakers - Deliciously Stylish Footwear",
+            "description": "\u2022 Unique pepperoni pizza print design covering the entire shoe\n\u2022 High-quality canvas upper material for breathability and comfort\n\u2022 Classic high-top silhouette with durable rubber sole\n\u2022 White contrast laces for easy styling\n\u2022 Reinforced toe cap for additional durability\n\u2022 Vibrant full-color photorealistic pizza graphics\n\u2022 Cushioned insole for all-day comfort\n\u2022 Perfect for pizza enthusiasts and fashion-forward individuals\n\u2022 Available in unisex sizing\n\u2022 Easy-to-clean surface\n\u2022 Vintage-style rubber toe cap and sidewall\n\u2022 Eye-catching conversation starter design\n\u2022 Ideal for casual wear and food-themed events",
+            "price": "\u20b9899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682aec5592ae04ced9db4290/fu3NEpidNmSMNMuThU372_1335x1159.png",
+        "marketplace_url": "https://stockai-bucket.apyhi.com/images/1040256386812100678_bunkmeister_pizza_shoes_eb03db37-9af3-4a54-86ea-c0a5f9521927.webp",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner is divided into four colorful quadrants, each filled with a distinct vibrant background. The top-left quadrant features a red backdrop with diagonal white graphic lines and three text elements: a bold title (`heading`), a promotional subheading (`subheading`), and a dynamic tagline (`tagline`) that feels energetic and urgent. The top-right quadrant contains an image of a sneaker (`product_image`) printed with a pizza design placed over an orange background, enhanced with soft decorative white bubbles for visual interest. The bottom-left quadrant on a peachy-orange background showcases a vertically listed product description (`description`), a bold price highlight (`price`), and a red rounded button (`cta_background`) with a call-to-action text (`cta`). The bottom-right quadrant on a vivid green background features abstract white graphic lines that add balance and a contemporary vibe.\n\n**Color Palette:**\n- Tomato Red: `#FF6B6B`\n- Peach Orange: `#F7B267`\n- Leafy Green: `#4CAF50`\n- Bright Red (Accent): `#FF4136`\n- Warm White: `#FFFFFF`\n- Dark Gray (Text): `#333333`\n",
+    "product_color": "  \nThis vibrant and playful sneaker features a pizza-themed design, making it ideal for a bold and fun advertisement banner. The primary color palette includes rich Tomato Red (#C62828) from the pepperoni, Golden Crust (#F5C16C) from the cheesy dough, Creamy White (#F9F6EF) for the laces and background, Basil Green (#3FAF45) to highlight the greenery, and Charcoal Black (#2E2E2E) for the eyelets and midsole outline. These colors are seamlessly blended to mimic the realism of a pizza, yet each component is sharply defined to maintain high visual contrast. This contrast helps each element pop, creating both realism and attention-grabbing appeal.  \n"
+}

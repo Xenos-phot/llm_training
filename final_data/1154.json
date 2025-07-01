@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#3E2723'/><stop offset='40%' style='stop-color:#5D4037'/><stop offset='100%' style='stop-color:#8D6E63'/></linearGradient><linearGradient id='overlayGrad' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#D7CCC8'/><stop offset='100%' style='stop-color:#A1887F'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#overlayGrad)'/><g opacity='0.1'><rect x='0' y='300' width='1080' height='2' fill='#FFFFFF'/><rect x='0' y='600' width='1080' height='2' fill='#FFFFFF'/><rect x='0' y='900' width='1080' height='2' fill='#FFFFFF'/></g><g opacity='0.15'><circle cx='200' cy='200' r='100' fill='none' stroke='#FFFFFF' stroke-width='1'/><circle cx='880' cy='880' r='150' fill='none' stroke='#FFFFFF' stroke-width='1'/></g><path d='M0 540 L540 0' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/><path d='M540 1080 L1080 540' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 485.96, "height": 135.6, "fill": "#F5F5F5", "text": "VAMOS", "fontSize": 120, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 60, "width": 363.95, "height": 67.8, "fill": "#FFD54F", "text": "SUNGLASSES", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 350, "left": 60, "width": 371.37, "height": 198.88, "fill": "#FFFFFF", "text": "Feminine Cat Eye Design\nOversized Luxurious Frames\nPolished Metal Accents\nFlattering Proportions", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 60, "width": 349.96, "height": 101.7, "fill": "#FFD54F", "text": "$32.50", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 60, "width": 200, "height": 60, "fill": "#FFD54F", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 815, "left": 100, "width": 148.83, "height": 31.64, "fill": "#3E2723", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "Gabarito Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 340, "left": 450, "width": 1439, "height": 615, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/9HTDz8mmijOSn8EdK2YV3_1439x615.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Le Specs Women's Vamos Sunglasses", "description": "Radiating a feminine attitude and effortless aesthetic, our oversized VAMOS sunglasses adopt a sophisticated approach to the iconic cat eye silhouette. The perfect accessory for any outfit, this chic style is designed with luxurious, flattering proportions and gently curved lines, finished with polished metal flag stripe hardware.", "price": "$32.5"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/9HTDz8mmijOSn8EdK2YV3_1439x615.png", "marketplace_url": "https://www.amazon.com/Specs-Womens-Vamos-Sunglasses-Brown/dp/B0CRS5ZJDZ/ref=sr_1_52?crid=3L37SIHZLDZV2&dib=eyJ2IjoiMSJ9.yMYpj_-0y1M9ALAoVBFGIlvlzwq0dIR9Xdr1hd2Lp6YmoB8jx2xOWuQ0LCAum1YscW-Zq3bNl69m3SNLg0VK2rjAZPVcVYT0oAN_cqpE2DPQ5YO3yS9OqZrfXfkw6gm1jsEAr_p955VWqQt5h91qs2H3wOa6DVe8rIi-VU6Fsg8bFKN5ZpKWP1B0DtpUHkT1YoZwdalN8hIsz-Tulw5TFcm7zmHQktEpHkZT_W26HaDOo1y7z_BH3q-56CRLD1d8L5JhEpCDs2ZH8vy6p_jGCjK0svGcpUd9zDb5beIBp3s.mg6z1VsCyO6s-2gt0-RqQYvCMQ3b2s9WJ3mrcpZNWDs&dib_tag=se&keywords=specs&qid=1745248605&sprefix=spec%2Caps%2C684&sr=8-52", "layout": "diagonal_split"}, "banner_details": "\nThis banner showcases a modern sunglasses advertisement, combining bold typography and a premium aesthetic. The visual composition features a gradient background split diagonally into rich brown and muted beige sections, overlaid subtly with grid lines and geometric accents. The text layer with ID \"heading\" provides a bold brand name in white, followed by the \"subheading\" text in warm yellow for product categorization. A product description block, ID \"description\", lists stylish features in clean, white sans-serif. The price, \"price\", is emphasized with large, bold, yellow text. A rectangular yellow call-to-action button labeled by \"cta\" invites engagement. A central image of sunglasses, \"product_image\", dominates the design, enhancing visual appeal.\n\n**Color Palette:**\n- Dark Chocolate (#3E2723)\n- Warm Amber (#FFD54F)\n- Soft Cocoa (#5D4037)\n- Pale Mocha (#A1887F)\n- Light Beige (#D7CCC8)\n- White (#FFFFFF)\n", "product_color": "\nThe product image displays a stylish pair of sunglasses with a luxurious tortoiseshell frame. The color palette features a blend of warm amber (#C96F38), deep espresso brown (#2E1F1A), and black (#1A1A1A), with subtle gradient blending that gives the frame a polished and high-end aesthetic. The rose-tinted lenses (#9B6C6A) complement the rich hues of the frame, adding a modern touch. Accents of metallic gold (#D4AF37) are used on the hinge emblem, adding a touch of sophistication. These colors are strategically layered to form a seamless yet eye-catching combination, ideal for a bold, elegant advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bgGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#3E2723'/><stop offset='40%' style='stop-color:#5D4037'/><stop offset='100%' style='stop-color:#8D6E63'/></linearGradient><linearGradient id='overlayGrad' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' style='stop-color:#D7CCC8'/><stop offset='100%' style='stop-color:#A1887F'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGrad)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#overlayGrad)'/><g opacity='0.1'><rect x='0' y='300' width='1080' height='2' fill='#FFFFFF'/><rect x='0' y='600' width='1080' height='2' fill='#FFFFFF'/><rect x='0' y='900' width='1080' height='2' fill='#FFFFFF'/></g><g opacity='0.15'><circle cx='200' cy='200' r='100' fill='none' stroke='#FFFFFF' stroke-width='1'/><circle cx='880' cy='880' r='150' fill='none' stroke='#FFFFFF' stroke-width='1'/></g><path d='M0 540 L540 0' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/><path d='M540 1080 L1080 540' stroke='#FFFFFF' stroke-width='1' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 485.96,
+                "height": 135.6,
+                "fill": "#F5F5F5",
+                "text": "VAMOS",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 60,
+                "width": 363.95,
+                "height": 67.8,
+                "fill": "#FFD54F",
+                "text": "SUNGLASSES",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 60,
+                "width": 371.37,
+                "height": 198.88,
+                "fill": "#FFFFFF",
+                "text": "Feminine Cat Eye Design\nOversized Luxurious Frames\nPolished Metal Accents\nFlattering Proportions",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 349.96,
+                "height": 101.7,
+                "fill": "#FFD54F",
+                "text": "$32.50",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#FFD54F",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 815,
+                "left": 100,
+                "width": 148.83,
+                "height": 31.64,
+                "fill": "#3E2723",
+                "text": "SHOP NOW",
+                "fontFamily": "Gabarito Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 340,
+                "left": 450,
+                "width": 719.5,
+                "height": 307.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/9HTDz8mmijOSn8EdK2YV3_1439x615.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Le Specs Women's Vamos Sunglasses",
+            "description": "Radiating a feminine attitude and effortless aesthetic, our oversized VAMOS sunglasses adopt a sophisticated approach to the iconic cat eye silhouette. The perfect accessory for any outfit, this chic style is designed with luxurious, flattering proportions and gently curved lines, finished with polished metal flag stripe hardware.",
+            "price": "$32.5"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/9HTDz8mmijOSn8EdK2YV3_1439x615.png",
+        "marketplace_url": "https://www.amazon.com/Specs-Womens-Vamos-Sunglasses-Brown/dp/B0CRS5ZJDZ/ref=sr_1_52?crid=3L37SIHZLDZV2&dib=eyJ2IjoiMSJ9.yMYpj_-0y1M9ALAoVBFGIlvlzwq0dIR9Xdr1hd2Lp6YmoB8jx2xOWuQ0LCAum1YscW-Zq3bNl69m3SNLg0VK2rjAZPVcVYT0oAN_cqpE2DPQ5YO3yS9OqZrfXfkw6gm1jsEAr_p955VWqQt5h91qs2H3wOa6DVe8rIi-VU6Fsg8bFKN5ZpKWP1B0DtpUHkT1YoZwdalN8hIsz-Tulw5TFcm7zmHQktEpHkZT_W26HaDOo1y7z_BH3q-56CRLD1d8L5JhEpCDs2ZH8vy6p_jGCjK0svGcpUd9zDb5beIBp3s.mg6z1VsCyO6s-2gt0-RqQYvCMQ3b2s9WJ3mrcpZNWDs&dib_tag=se&keywords=specs&qid=1745248605&sprefix=spec%2Caps%2C684&sr=8-52",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner showcases a modern sunglasses advertisement, combining bold typography and a premium aesthetic. The visual composition features a gradient background split diagonally into rich brown and muted beige sections, overlaid subtly with grid lines and geometric accents. The text layer with ID \"heading\" provides a bold brand name in white, followed by the \"subheading\" text in warm yellow for product categorization. A product description block, ID \"description\", lists stylish features in clean, white sans-serif. The price, \"price\", is emphasized with large, bold, yellow text. A rectangular yellow call-to-action button labeled by \"cta\" invites engagement. A central image of sunglasses, \"product_image\", dominates the design, enhancing visual appeal.\n\n**Color Palette:**\n- Dark Chocolate (#3E2723)\n- Warm Amber (#FFD54F)\n- Soft Cocoa (#5D4037)\n- Pale Mocha (#A1887F)\n- Light Beige (#D7CCC8)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image displays a stylish pair of sunglasses with a luxurious tortoiseshell frame. The color palette features a blend of warm amber (#C96F38), deep espresso brown (#2E1F1A), and black (#1A1A1A), with subtle gradient blending that gives the frame a polished and high-end aesthetic. The rose-tinted lenses (#9B6C6A) complement the rich hues of the frame, adding a modern touch. Accents of metallic gold (#D4AF37) are used on the hinge emblem, adding a touch of sophistication. These colors are strategically layered to form a seamless yet eye-catching combination, ideal for a bold, elegant advertisement banner.\n"
+}

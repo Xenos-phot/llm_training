@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#252525;stop-opacity:1' /><stop offset='100%' style='stop-color:#454545;stop-opacity:1' /></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#BB0000;stop-opacity:1' /><stop offset='100%' style='stop-color:#FF0000;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='40' y='280' width='100' height='4' fill='url(#accent)'/><rect x='40' y='750' width='100' height='4' fill='url(#accent)'/><rect x='540' y='0' width='2' height='1080' fill='#555555' opacity='0.3'/><path d='M 600 80 L 650 130 L 600 180' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 280 L 650 330 L 600 380' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 480 L 650 530 L 600 580' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 680 L 650 730 L 600 780' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 880 L 650 930 L 600 980' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M40,890 Q100,820 160,890' stroke='#FFFFFF' stroke-width='1' fill='none' opacity='0.3'/><path d='M140,890 Q200,820 260,890' stroke='#FFFFFF' stroke-width='1' fill='none' opacity='0.3'/><path d='M240,890 Q300,820 360,890' stroke='#FFFFFF' stroke-width='1' fill='none' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 131, "left": 39, "width": 354.26, "height": 154.58, "fill": "#FFFFFF", "text": "RAY-BAN\nWAYFARER", "fontSize": 72, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 300, "left": 40, "width": 458.71, "height": 22.6, "fill": "#FF0000", "text": "EMBRACE TIMELESS ELEGANCE", "fontSize": 20, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 400, "left": 40, "width": 346.95, "height": 108.48, "fill": "#FFFFFF", "text": "\u2022 Unmatched UV400 Protection\n\u2022 Premium Acetate Frame\n\u2022 Ultimate Comfort for All Day Wear", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 600, "left": 40, "width": 226, "height": 72.32, "fill": "#FFFFFF", "text": "\u20b9 3500", "fontSize": 64, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 700, "left": 40, "width": 200, "height": 60, "fill": "#FF0000", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 718, "left": 75, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 320, "left": 560, "width": 1110, "height": 431, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/InlUwSDgg5iM5oVmHhIFs_1110x431.png", "id": "product_image"}, {"type": "text", "top": 797, "left": 42, "width": 156.59, "height": 20.34, "fill": "#FFFFFF", "text": "ICONIC SINCE 1952", "fontSize": 18, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 827, "left": 42, "width": 253.6, "height": 18.08, "fill": "#FFFFFF", "text": "Includes original case & cleaning cloth", "fontSize": 16, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "additional_info"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Ray-Ban New Wayfarer - Timeless Style Meets Premium Protection", "description": "\u2022 Authentic Ray-Ban polarized sunglasses with iconic design\n\u2022 Classic black frame made from high-quality acetate material\n\u2022 Dark tinted lenses offering 100% UV protection\n\u2022 Signature Ray-Ban logo on lens and temple\n\u2022 Durable and lightweight construction for all-day comfort\n\u2022 Versatile wayfarer style suitable for all face shapes\n\u2022 Impact-resistant lenses for enhanced durability\n\u2022 Premium hinges for long-lasting performance\n\u2022 Includes original Ray-Ban case and cleaning cloth\n\u2022 Unisex design perfect for any occasion", "price": "\u20b93500"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/InlUwSDgg5iM5oVmHhIFs_1110x431.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner is split vertically into two equal sections. The left half consists of all textual content and call-to-action elements, while the right half predominantly features a product image of sunglasses. The top-left section displays a bold two-line brand and product name (ID: `heading`) in large white font. Below it is a tagline (ID: `tagline`) in red, providing a sleek contrast and drawing attention. A feature list (ID: `description`) highlights product advantages with bullet points. Price information (ID: `price`) stands out in bold white over a dark background. A red call-to-action button (ID: `cta_button`) with white uppercase text (ID: `cta`) encourages immediate engagement. At the bottom left, a subheading (ID: `subheading`) and additional product details (ID: `additional_info`) are neatly aligned. The right half has a realistic image of the product (ID: `product_image`) with subtle directional graphics in white. The background uses a dark linear gradient with soft stylistic accents.\n\n**Color Palette:**\n- Jet Black: `#252525`\n- Charcoal Gray: `#454545`\n- Pure White: `#FFFFFF`\n- Accent Red: `#FF0000`\n- Gradient Accent Red: `#BB0000` to `#FF0000`\n- Divider Gray: `#555555`\n", "product_color": "\nThe product image showcases a classic, high-contrast look with a predominantly black color palette. The glossy black frame (#000000) dominates the design, exuding sophistication and elegance. The dark tinted lenses are a rich charcoal gray (#2C2C2C), subtly distinguishing themselves from the frame. The white Ray-Ban logo (#FFFFFF) is sharply contrasted and acts as a focal point, enhancing brand recognition. Minimal metallic accents (#C0C0C0) on the hinges add a sleek, modern touch. These colors are smoothly blended across the frame's curves, with light reflections highlighting contours and finishes. A banner design can effectively use this monochromatic palette, emphasizing luxury and timeless style.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#252525;stop-opacity:1' /><stop offset='100%' style='stop-color:#454545;stop-opacity:1' /></linearGradient><linearGradient id='accent' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#BB0000;stop-opacity:1' /><stop offset='100%' style='stop-color:#FF0000;stop-opacity:1' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><rect x='40' y='280' width='100' height='4' fill='url(#accent)'/><rect x='40' y='750' width='100' height='4' fill='url(#accent)'/><rect x='540' y='0' width='2' height='1080' fill='#555555' opacity='0.3'/><path d='M 600 80 L 650 130 L 600 180' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 280 L 650 330 L 600 380' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 480 L 650 530 L 600 580' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 680 L 650 730 L 600 780' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M 600 880 L 650 930 L 600 980' stroke='#FFFFFF' stroke-width='3' fill='none' opacity='0.2'/><path d='M40,890 Q100,820 160,890' stroke='#FFFFFF' stroke-width='1' fill='none' opacity='0.3'/><path d='M140,890 Q200,820 260,890' stroke='#FFFFFF' stroke-width='1' fill='none' opacity='0.3'/><path d='M240,890 Q300,820 360,890' stroke='#FFFFFF' stroke-width='1' fill='none' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 131,
+                "left": 39,
+                "width": 354.26,
+                "height": 154.58,
+                "fill": "#FFFFFF",
+                "text": "RAY-BAN\nWAYFARER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 40,
+                "width": 458.71,
+                "height": 22.6,
+                "fill": "#FF0000",
+                "text": "EMBRACE TIMELESS ELEGANCE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 40,
+                "width": 346.95,
+                "height": 108.48,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Unmatched UV400 Protection\n\u2022 Premium Acetate Frame\n\u2022 Ultimate Comfort for All Day Wear",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 40,
+                "width": 226,
+                "height": 72.32,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 3500",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 700,
+                "left": 40,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF0000",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 718,
+                "left": 75,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 320,
+                "left": 560,
+                "width": 499.5,
+                "height": 193.95000000000002,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/InlUwSDgg5iM5oVmHhIFs_1110x431.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 797,
+                "left": 42,
+                "width": 156.59,
+                "height": 20.34,
+                "fill": "#FFFFFF",
+                "text": "ICONIC SINCE 1952",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 827,
+                "left": 42,
+                "width": 253.6,
+                "height": 18.08,
+                "fill": "#FFFFFF",
+                "text": "Includes original case & cleaning cloth",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "additional_info"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Ray-Ban New Wayfarer - Timeless Style Meets Premium Protection",
+            "description": "\u2022 Authentic Ray-Ban polarized sunglasses with iconic design\n\u2022 Classic black frame made from high-quality acetate material\n\u2022 Dark tinted lenses offering 100% UV protection\n\u2022 Signature Ray-Ban logo on lens and temple\n\u2022 Durable and lightweight construction for all-day comfort\n\u2022 Versatile wayfarer style suitable for all face shapes\n\u2022 Impact-resistant lenses for enhanced durability\n\u2022 Premium hinges for long-lasting performance\n\u2022 Includes original Ray-Ban case and cleaning cloth\n\u2022 Unisex design perfect for any occasion",
+            "price": "\u20b93500"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/InlUwSDgg5iM5oVmHhIFs_1110x431.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner is split vertically into two equal sections. The left half consists of all textual content and call-to-action elements, while the right half predominantly features a product image of sunglasses. The top-left section displays a bold two-line brand and product name (ID: `heading`) in large white font. Below it is a tagline (ID: `tagline`) in red, providing a sleek contrast and drawing attention. A feature list (ID: `description`) highlights product advantages with bullet points. Price information (ID: `price`) stands out in bold white over a dark background. A red call-to-action button (ID: `cta_button`) with white uppercase text (ID: `cta`) encourages immediate engagement. At the bottom left, a subheading (ID: `subheading`) and additional product details (ID: `additional_info`) are neatly aligned. The right half has a realistic image of the product (ID: `product_image`) with subtle directional graphics in white. The background uses a dark linear gradient with soft stylistic accents.\n\n**Color Palette:**\n- Jet Black: `#252525`\n- Charcoal Gray: `#454545`\n- Pure White: `#FFFFFF`\n- Accent Red: `#FF0000`\n- Gradient Accent Red: `#BB0000` to `#FF0000`\n- Divider Gray: `#555555`\n",
+    "product_color": "\nThe product image showcases a classic, high-contrast look with a predominantly black color palette. The glossy black frame (#000000) dominates the design, exuding sophistication and elegance. The dark tinted lenses are a rich charcoal gray (#2C2C2C), subtly distinguishing themselves from the frame. The white Ray-Ban logo (#FFFFFF) is sharply contrasted and acts as a focal point, enhancing brand recognition. Minimal metallic accents (#C0C0C0) on the hinges add a sleek, modern touch. These colors are smoothly blended across the frame's curves, with light reflections highlighting contours and finishes. A banner design can effectively use this monochromatic palette, emphasizing luxury and timeless style.\n"
+}

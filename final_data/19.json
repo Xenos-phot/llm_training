@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0a3040'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#07555D'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#021a24'/><path d='M0 0 L1080 0 L1080 1080 L0 0 Z' fill='#0C6D78' opacity='0.3'/><path d='M900 150 L940 200 L960 150 Z' fill='#d4af37' opacity='0.7'/><path d='M100 900 L150 950 L200 900 Z' fill='#d4af37' opacity='0.7'/><circle cx='850' cy='250' r='60' fill='#d4af37' opacity='0.1'/><circle cx='200' cy='800' r='80' fill='#d4af37' opacity='0.1'/><path d='M0 540 L1080 540' stroke='#d4af37' stroke-width='1' opacity='0.3'/><path d='M0 300 L1080 300' stroke='#d4af37' stroke-width='1' opacity='0.3'/><path d='M0 780 L1080 780' stroke='#d4af37' stroke-width='1' opacity='0.3'/><path d='M900 0 L1080 0 L1080 180 Z' fill='#d4af37' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 594.71, "height": 129.95, "fill": "#FFFFFF", "text": "BELLAVITA", "fontSize": 115, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 52, "width": 457.7, "height": 79.1, "fill": "#d4af37", "text": "FRESH UNISEX", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 290, "left": 52, "width": 344, "height": 42.94, "fill": "#FFFFFF", "text": "EAU DE TOILETTE", "fontSize": 38, "fontFamily": "Montserrat Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 400, "left": 50, "width": 381.29, "height": 186.45, "fill": "#FFFFFF", "text": "\u2022 Premium unisex fragrance\n\u2022 Generous 100ml/3.4 fl. oz size\n\u2022 Fresh and invigorating scent\n\u2022 Elegant design with gold cap", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 730, "left": 50, "width": 297.11, "height": 101.7, "fill": "#d4af37", "text": "$1200", "fontSize": 90, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 850, "left": 50, "width": 220, "height": 65, "fill": "#d4af37", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 867, "left": 85, "width": 159.32, "height": 33.9, "fill": "#0a3040", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "Gabarito Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 220, "left": 580, "width": 791, "height": 1351, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66d6ac1ca542a13c8499fab5/LliCX5DT2Iw3buyXTWvs7_791x1351.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "BELLAVITA Fresh Unisex EDT - Captivating Freshness for All", "description": "\u2022 Premium unisex fragrance suitable for all genders\n\u2022 Generous 100ml/3.4 fl. oz size for long-lasting use\n\u2022 Eau de Toilette concentration for perfect daily wear\n\u2022 Sleek turquoise bottle design with luxurious gold cap\n\u2022 Fresh and invigorating scent profile\n\u2022 Modern and minimalist packaging\n\u2022 Perfect for daily wear and special occasions\n\u2022 Professional-grade fragrance by BELLAVITA\n\u2022 Travel-friendly size bottle\n\u2022 Ideal gift choice for fragrance enthusiasts", "price": "$1200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66d6ac1ca542a13c8499fab5/LliCX5DT2Iw3buyXTWvs7_791x1351.png", "marketplace_url": "blob:https://studio.phot.ai/635ff89f-fbee-4de8-9cde-506838093f4c", "layout": "diagonal_split"}, "banner_details": "\nThis banner design features an elegant and modern aesthetic for promoting a luxury unisex perfume. The background is composed of layered geometric patterns and subtle gradients to create depth, highlighted by polygonal shapes and translucent golden accents. A prominent product image is placed on the right, giving ample visibility to the perfume bottle with a gold cap. Text elements are distributed on the left side: the \"heading\" displays the brand in a serif font, \"subheading\" emphasizes the product name in bold yellow, and \"tagline\" introduces the product type. A bullet-point list under \"description\" outlines benefits. The \"price\" is highlighted in bold golden text, paired with a yellow rectangular \"cta_button\" containing \"cta\" for user action.\n\n**Color Palette:**\n- Deep Teal: #0a3040\n- Rich Cyan: #0C6D78\n- Midnight Blue: #021a24\n- Gold: #d4af37\n- White: #FFFFFF\n", "product_color": "\nThe product image features a vibrant and refreshing color palette predominantly composed of aqua blue (#00B8C4) for the bottle, exuding a fresh and energetic vibe. This base color symbolizes vitality and cleanliness, ideal for a unisex fragrance. The cap is a metallic gold (#D4AF37), adding a sense of luxury and sophistication. Text elements are in a soft off-white (#F8F5E9), which contrasts well against the blue without overpowering it. The smooth blending of aqua gradients adds depth, while the reflective gold cap subtly highlights premium quality. For an advertisement banner, pairing aqua, gold, white, and light neutral tones creates a clean, stylish appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#0a3040'/><path d='M0 0 L1080 0 L0 1080 Z' fill='#07555D'/><path d='M1080 0 L1080 1080 L0 1080 Z' fill='#021a24'/><path d='M0 0 L1080 0 L1080 1080 L0 0 Z' fill='#0C6D78' opacity='0.3'/><path d='M900 150 L940 200 L960 150 Z' fill='#d4af37' opacity='0.7'/><path d='M100 900 L150 950 L200 900 Z' fill='#d4af37' opacity='0.7'/><circle cx='850' cy='250' r='60' fill='#d4af37' opacity='0.1'/><circle cx='200' cy='800' r='80' fill='#d4af37' opacity='0.1'/><path d='M0 540 L1080 540' stroke='#d4af37' stroke-width='1' opacity='0.3'/><path d='M0 300 L1080 300' stroke='#d4af37' stroke-width='1' opacity='0.3'/><path d='M0 780 L1080 780' stroke='#d4af37' stroke-width='1' opacity='0.3'/><path d='M900 0 L1080 0 L1080 180 Z' fill='#d4af37' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 594.71,
+                "height": 129.95,
+                "fill": "#FFFFFF",
+                "text": "BELLAVITA",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 52,
+                "width": 457.7,
+                "height": 79.1,
+                "fill": "#d4af37",
+                "text": "FRESH UNISEX",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 52,
+                "width": 344,
+                "height": 42.94,
+                "fill": "#FFFFFF",
+                "text": "EAU DE TOILETTE",
+                "fontFamily": "Montserrat Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 50,
+                "width": 381.29,
+                "height": 186.45,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Premium unisex fragrance\n\u2022 Generous 100ml/3.4 fl. oz size\n\u2022 Fresh and invigorating scent\n\u2022 Elegant design with gold cap",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 50,
+                "width": 297.11,
+                "height": 101.7,
+                "fill": "#d4af37",
+                "text": "$1200",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 850,
+                "left": 50,
+                "width": 220,
+                "height": 65,
+                "fill": "#d4af37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 867,
+                "left": 85,
+                "width": 159.32,
+                "height": 33.9,
+                "fill": "#0a3040",
+                "text": "SHOP NOW",
+                "fontFamily": "Gabarito Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 220,
+                "left": 580,
+                "width": 395.5,
+                "height": 675.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66d6ac1ca542a13c8499fab5/LliCX5DT2Iw3buyXTWvs7_791x1351.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "BELLAVITA Fresh Unisex EDT - Captivating Freshness for All",
+            "description": "\u2022 Premium unisex fragrance suitable for all genders\n\u2022 Generous 100ml/3.4 fl. oz size for long-lasting use\n\u2022 Eau de Toilette concentration for perfect daily wear\n\u2022 Sleek turquoise bottle design with luxurious gold cap\n\u2022 Fresh and invigorating scent profile\n\u2022 Modern and minimalist packaging\n\u2022 Perfect for daily wear and special occasions\n\u2022 Professional-grade fragrance by BELLAVITA\n\u2022 Travel-friendly size bottle\n\u2022 Ideal gift choice for fragrance enthusiasts",
+            "price": "$1200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66d6ac1ca542a13c8499fab5/LliCX5DT2Iw3buyXTWvs7_791x1351.png",
+        "marketplace_url": "blob:https://studio.phot.ai/635ff89f-fbee-4de8-9cde-506838093f4c",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner design features an elegant and modern aesthetic for promoting a luxury unisex perfume. The background is composed of layered geometric patterns and subtle gradients to create depth, highlighted by polygonal shapes and translucent golden accents. A prominent product image is placed on the right, giving ample visibility to the perfume bottle with a gold cap. Text elements are distributed on the left side: the \"heading\" displays the brand in a serif font, \"subheading\" emphasizes the product name in bold yellow, and \"tagline\" introduces the product type. A bullet-point list under \"description\" outlines benefits. The \"price\" is highlighted in bold golden text, paired with a yellow rectangular \"cta_button\" containing \"cta\" for user action.\n\n**Color Palette:**\n- Deep Teal: #0a3040\n- Rich Cyan: #0C6D78\n- Midnight Blue: #021a24\n- Gold: #d4af37\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a vibrant and refreshing color palette predominantly composed of aqua blue (#00B8C4) for the bottle, exuding a fresh and energetic vibe. This base color symbolizes vitality and cleanliness, ideal for a unisex fragrance. The cap is a metallic gold (#D4AF37), adding a sense of luxury and sophistication. Text elements are in a soft off-white (#F8F5E9), which contrasts well against the blue without overpowering it. The smooth blending of aqua gradients adds depth, while the reflective gold cap subtly highlights premium quality. For an advertisement banner, pairing aqua, gold, white, and light neutral tones creates a clean, stylish appeal.\n"
+}

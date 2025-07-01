@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='mainGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F0F0F0'/><stop offset='100%' stop-color='#D1D1D6'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#007AFF'/><stop offset='100%' stop-color='#5856D6'/></linearGradient><linearGradient id='priceGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#5AC8FA'/><stop offset='100%' stop-color='#007AFF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#mainGradient)'/><path d='M0 0 C400 50, 650 150, 1080 100 L1080 300 C700 250, 400 350, 0 300 Z' fill='url(#accentGradient)' opacity='0.1'/><path d='M0 780 C400 730, 650 830, 1080 780 L1080 1080 L0 1080 Z' fill='url(#accentGradient)' opacity='0.1'/><circle cx='540' cy='540' r='300' fill='white' stroke='#E0E0E0' stroke-width='3'/><circle cx='850' cy='400' r='130' fill='url(#priceGradient)'/><g opacity='0.3'><circle cx='150' cy='150' r='10' fill='#007AFF'/><circle cx='900' cy='200' r='8' fill='#007AFF'/><circle cx='200' cy='900' r='12' fill='#007AFF'/><circle cx='850' cy='850' r='15' fill='#007AFF'/><circle cx='950' cy='500' r='7' fill='#007AFF'/><circle cx='100' cy='650' r='9' fill='#007AFF'/></g><path d='M200 400 L260 340' stroke='#007AFF' stroke-width='2' opacity='0.3'/><path d='M800 700 L860 760' stroke='#007AFF' stroke-width='2' opacity='0.3'/><path d='M300 800 L240 850' stroke='#007AFF' stroke-width='2' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 235.305, "width": 609.39, "height": 79.1, "fill": "#333333", "text": "APPLE PREMIUM", "fontSize": 70, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 140, "left": 328.105, "width": 423.79, "height": 62.15, "fill": "#007AFF", "text": "DEVICE BUNDLE", "fontSize": 55, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 880, "left": 74.07499999999999, "width": 931.85, "height": 33.9, "fill": "#333333", "text": "\u2022 Complete Apple Ecosystem \u2022 Seamless Integration \u2022 Powerful Performance", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 369.225, "left": 223.425, "width": 1407, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pfmGm3JJLVhymlZYw4_cv_1407x759.png", "id": "product_image"}, {"type": "text", "top": 363.275, "left": 748.545, "width": 202.91, "height": 73.45, "fill": "#FFFFFF", "text": "\u20b99899", "fontSize": 65, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 430.0, "width": 220, "height": 60, "fill": "#007AFF", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 976.44, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 210, "left": 316.265, "width": 447.47, "height": 33.9, "fill": "#333333", "text": "MacBook Pro, iPad & iPhone Combo", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple Premium Device Bundle - MacBook Pro, iPad & iPhone Combo", "description": "\u2022 Complete Apple ecosystem: MacBook Pro, iPad, and iPhone in one package\n\u2022 MacBook Pro featuring Retina Display with stunning visual clarity\n\u2022 Sleek aluminum unibody design across all devices\n\u2022 Seamless integration between devices with iCloud and Continuity features\n\u2022 MacBook Pro with backlit keyboard and Force Touch trackpad\n\u2022 iPad with high-resolution display, perfect for creative work and entertainment\n\u2022 iPhone with Touch ID for enhanced security\n\u2022 Latest iOS and macOS operating systems pre-installed\n\u2022 Powerful performance for professional work and everyday tasks\n\u2022 Perfect starter kit for Apple ecosystem enthusiasts\n\u2022 Ideal for students, professionals, and creative individuals\n\u2022 All devices in pristine condition with original packaging", "price": "\u20b99899"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pfmGm3JJLVhymlZYw4_cv_1407x759.png", "marketplace_url": "", "layout": "circular_focus"}, "banner_details": "\nThis visually appealing promotional banner showcases a premium device bundle with a clean and modern aesthetic. The composition centers around a white circular frame which highlights the product image (id: `product_image`) consisting of a MacBook, iPad, and iPhone. Above the product, prominent bold headline text (`heading`) in dark gray conveys premium branding, followed by an eye-catching blue subheadline (`subheading`). A smaller supporting text (`description`) explains the product combo.\n\nThe price (`price`) is emphasized over a large blue gradient circle, providing visual contrast and immediate attention. A tagline (`tagline`) sits at the bottom, outlining key benefits. The call-to-action (CTA) comprises a blue button design (`cta_background`) with white text (`cta`), urging users to \u201cSHOP NOW.\u201d Soft gradient waves and floating blue dots subtly enrich the background (`background`), maintaining focus on the center content.\n\n**Color Palette:**\n- Dark Gray: `#333333` (used in text)\n- Blue: `#007AFF` (subheadline, accents)\n- Gradient Blue: `#5AC8FA` to `#007AFF` (price badge)\n- Background Gradient: `#F0F0F0` to `#D1D1D6`\n- White: `#FFFFFF` (price text, main circle)  \n", "product_color": "  \nThe product image features a sleek set of Apple devices \u2014 a MacBook, iPad, and iPhone \u2014 all unified by a minimalist silver-gray hardware and strikingly immersive display visuals. The overall color palette combines metallic Silver Gray (#C0C0C0), Deep Black (#000000) from the keyboards and screen borders, and subtle Sky Blue (#A3C8E8) from the iPad's space-themed wallpaper. On the MacBook screen, a tranquil Sunset Gradient blends Warm Pink (#ECA3B2), Lavender Purple (#C9B5E1), and Earthy Brown (#8C6E5D), drawing attention to the vivid screen. The colors are harmoniously blended in the background but remain highlighted through sharp contrasts, enhancing the product\u2019s premium feel.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='mainGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#F0F0F0'/><stop offset='100%' stop-color='#D1D1D6'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#007AFF'/><stop offset='100%' stop-color='#5856D6'/></linearGradient><linearGradient id='priceGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#5AC8FA'/><stop offset='100%' stop-color='#007AFF'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#mainGradient)'/><path d='M0 0 C400 50, 650 150, 1080 100 L1080 300 C700 250, 400 350, 0 300 Z' fill='url(#accentGradient)' opacity='0.1'/><path d='M0 780 C400 730, 650 830, 1080 780 L1080 1080 L0 1080 Z' fill='url(#accentGradient)' opacity='0.1'/><circle cx='540' cy='540' r='300' fill='white' stroke='#E0E0E0' stroke-width='3'/><circle cx='850' cy='400' r='130' fill='url(#priceGradient)'/><g opacity='0.3'><circle cx='150' cy='150' r='10' fill='#007AFF'/><circle cx='900' cy='200' r='8' fill='#007AFF'/><circle cx='200' cy='900' r='12' fill='#007AFF'/><circle cx='850' cy='850' r='15' fill='#007AFF'/><circle cx='950' cy='500' r='7' fill='#007AFF'/><circle cx='100' cy='650' r='9' fill='#007AFF'/></g><path d='M200 400 L260 340' stroke='#007AFF' stroke-width='2' opacity='0.3'/><path d='M800 700 L860 760' stroke='#007AFF' stroke-width='2' opacity='0.3'/><path d='M300 800 L240 850' stroke='#007AFF' stroke-width='2' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 235.305,
+                "width": 609.39,
+                "height": 79.1,
+                "fill": "#333333",
+                "text": "APPLE PREMIUM",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 328.105,
+                "width": 423.79,
+                "height": 62.15,
+                "fill": "#007AFF",
+                "text": "DEVICE BUNDLE",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 880,
+                "left": 74.07499999999999,
+                "width": 931.85,
+                "height": 33.9,
+                "fill": "#333333",
+                "text": "\u2022 Complete Apple Ecosystem \u2022 Seamless Integration \u2022 Powerful Performance",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 369.225,
+                "left": 223.425,
+                "width": 633.15,
+                "height": 341.55,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pfmGm3JJLVhymlZYw4_cv_1407x759.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 363.275,
+                "left": 748.545,
+                "width": 202.91,
+                "height": 73.45,
+                "fill": "#FFFFFF",
+                "text": "\u20b99899",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#007AFF",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 976.44,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 316.265,
+                "width": 447.47,
+                "height": 33.9,
+                "fill": "#333333",
+                "text": "MacBook Pro, iPad & iPhone Combo",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple Premium Device Bundle - MacBook Pro, iPad & iPhone Combo",
+            "description": "\u2022 Complete Apple ecosystem: MacBook Pro, iPad, and iPhone in one package\n\u2022 MacBook Pro featuring Retina Display with stunning visual clarity\n\u2022 Sleek aluminum unibody design across all devices\n\u2022 Seamless integration between devices with iCloud and Continuity features\n\u2022 MacBook Pro with backlit keyboard and Force Touch trackpad\n\u2022 iPad with high-resolution display, perfect for creative work and entertainment\n\u2022 iPhone with Touch ID for enhanced security\n\u2022 Latest iOS and macOS operating systems pre-installed\n\u2022 Powerful performance for professional work and everyday tasks\n\u2022 Perfect starter kit for Apple ecosystem enthusiasts\n\u2022 Ideal for students, professionals, and creative individuals\n\u2022 All devices in pristine condition with original packaging",
+            "price": "\u20b99899"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/pfmGm3JJLVhymlZYw4_cv_1407x759.png",
+        "marketplace_url": "",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis visually appealing promotional banner showcases a premium device bundle with a clean and modern aesthetic. The composition centers around a white circular frame which highlights the product image (id: `product_image`) consisting of a MacBook, iPad, and iPhone. Above the product, prominent bold headline text (`heading`) in dark gray conveys premium branding, followed by an eye-catching blue subheadline (`subheading`). A smaller supporting text (`description`) explains the product combo.\n\nThe price (`price`) is emphasized over a large blue gradient circle, providing visual contrast and immediate attention. A tagline (`tagline`) sits at the bottom, outlining key benefits. The call-to-action (CTA) comprises a blue button design (`cta_background`) with white text (`cta`), urging users to \u201cSHOP NOW.\u201d Soft gradient waves and floating blue dots subtly enrich the background (`background`), maintaining focus on the center content.\n\n**Color Palette:**\n- Dark Gray: `#333333` (used in text)\n- Blue: `#007AFF` (subheadline, accents)\n- Gradient Blue: `#5AC8FA` to `#007AFF` (price badge)\n- Background Gradient: `#F0F0F0` to `#D1D1D6`\n- White: `#FFFFFF` (price text, main circle)  \n",
+    "product_color": "  \nThe product image features a sleek set of Apple devices \u2014 a MacBook, iPad, and iPhone \u2014 all unified by a minimalist silver-gray hardware and strikingly immersive display visuals. The overall color palette combines metallic Silver Gray (#C0C0C0), Deep Black (#000000) from the keyboards and screen borders, and subtle Sky Blue (#A3C8E8) from the iPad's space-themed wallpaper. On the MacBook screen, a tranquil Sunset Gradient blends Warm Pink (#ECA3B2), Lavender Purple (#C9B5E1), and Earthy Brown (#8C6E5D), drawing attention to the vivid screen. The colors are harmoniously blended in the background but remain highlighted through sharp contrasts, enhancing the product\u2019s premium feel.  \n"
+}

@@ -1,1 +1,122 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080' fill='none'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#f5efe8;stop-opacity:1'/><stop offset='100%' style='stop-color:#ede0d4;stop-opacity:1'/></linearGradient><linearGradient id='frame-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#d4a373;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#c9a38d;stop-opacity:0.8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#d4a373' stroke-width='3' fill='none' opacity='0.6'/><rect x='80' y='80' width='920' height='920' rx='10' stroke='#c9a38d' stroke-width='2' fill='none' opacity='0.8'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#d4a373' stroke-width='3' opacity='0.4' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#d4a373' stroke-width='3' opacity='0.4' fill='none'/><circle cx='180' cy='180' r='30' fill='#d4a373' opacity='0.1'/><circle cx='900' cy='900' r='40' fill='#d4a373' opacity='0.1'/><path d='M850 150 L900 200 L950 150 L900 100 Z' fill='#c9a38d' opacity='0.2'/><path d='M150 850 L200 900 L150 950 L100 900 Z' fill='#c9a38d' opacity='0.2'/><rect x='120' y='120' width='840' height='840' rx='8' fill='#FFFFFF' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 140, "left": 125, "width": 503.5, "height": 67.8, "fill": "#8b5a2b", "text": "LUXURY TOTE", "fontSize": 60, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 127, "width": 465.49, "height": 54.24, "fill": "#b08968", "text": "ALDO LEGOIRII BAG", "fontSize": 48, "fontFamily": "Taviraj Regular", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 290, "left": 128, "width": 320, "height": 3, "fill": "#c9a38d", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 320, "left": 130, "width": 465.71, "height": 174.02, "fill": "#5d4037", "text": "Spacious stylish tote with ample storage\nDurable synthetic leather construction\nGold hardware with decorative charm\nPerfect medium size for everyday use", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 610, "left": 125, "width": 191.09, "height": 67.8, "fill": "#8b5a2b", "text": "$65.00", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 720, "left": 125, "width": 180, "height": 60, "fill": "#b08968", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 736, "left": 150, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 270, "left": 520, "width": 1214, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0fcbeff1-21c9-4529-831b-0a4d7fffea80_nobg_1214x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **", "price": "65.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0fcbeff1-21c9-4529-831b-0a4d7fffea80_nobg_1214x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08CPR697X", "layout": "frame_layout"}, "banner_details": "\nThis elegant banner showcases a luxury tote product in a minimalist and premium layout. The design is centered around a warm, sophisticated color palette and a spacious white card over a softly textured background enhanced with wave motifs, light geometric shapes, and fine borders. The top-left area includes a bold title (`heading`) in a strong serif typeface, followed by a subtler subheading (`subheading`) and a decorative line (`decorative`). A detailed product description (`description`) sits below, formatted with clear readability. The bottom-left features the price (`price`) in prominent lettering and a rounded-corner button (`cta_button`) containing a call-to-action (`cta`). A high-quality product image (`product_image`) is positioned on the right, anchored to balance the layout.\n\n**Color Palette:**\n- Warm Beige: #f5efe8\n- Light Sand: #ede0d4\n- Taupe Brown: #d4a373\n- Antique Brass: #c9a38d\n- Rich Brown: #8b5a2b\n- Text Bronze: #5d4037\n- Button Cocoa: #b08968\n- White: #FFFFFF\n", "product_color": "\nThe product image features a sophisticated handbag with a warm, muted beige-brown tone as the primary color (#A76E56), complemented by luxurious gold accents (#D4AF37) on the hardware, logo, and decorative charms. The base color exudes elegance and neutrality, making it suitable for various design contexts, while the gold highlights add a touch of refinement and visual contrast. The texture of the bag subtly reflects light, enhancing depth without overwhelming the visuals. A clean beige background (#F5F5F5) would harmonize the elements in an advertisement banner, while soft gradients of tan (#C89B7B) and ivory (#EFE6DD) can provide balance.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080' fill='none'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#f5efe8;stop-opacity:1'/><stop offset='100%' style='stop-color:#ede0d4;stop-opacity:1'/></linearGradient><linearGradient id='frame-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#d4a373;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#c9a38d;stop-opacity:0.8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#d4a373' stroke-width='3' fill='none' opacity='0.6'/><rect x='80' y='80' width='920' height='920' rx='10' stroke='#c9a38d' stroke-width='2' fill='none' opacity='0.8'/><path d='M200 60 C300 30, 400 90, 500 60 C600 30, 700 90, 800 60 C900 30, 1000 90, 1100 60' stroke='#d4a373' stroke-width='3' opacity='0.4' fill='none'/><path d='M200 1020 C300 990, 400 1050, 500 1020 C600 990, 700 1050, 800 1020 C900 990, 1000 1050, 1100 1020' stroke='#d4a373' stroke-width='3' opacity='0.4' fill='none'/><circle cx='180' cy='180' r='30' fill='#d4a373' opacity='0.1'/><circle cx='900' cy='900' r='40' fill='#d4a373' opacity='0.1'/><path d='M850 150 L900 200 L950 150 L900 100 Z' fill='#c9a38d' opacity='0.2'/><path d='M150 850 L200 900 L150 950 L100 900 Z' fill='#c9a38d' opacity='0.2'/><rect x='120' y='120' width='840' height='840' rx='8' fill='#FFFFFF' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 125,
+                "width": 503.5,
+                "height": 67.8,
+                "fill": "#8b5a2b",
+                "text": "LUXURY TOTE",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 127,
+                "width": 465.49,
+                "height": 54.24,
+                "fill": "#b08968",
+                "text": "ALDO LEGOIRII BAG",
+                "fontFamily": "Taviraj Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 290,
+                "left": 128,
+                "width": 320,
+                "height": 3,
+                "fill": "#c9a38d",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 130,
+                "width": 465.71,
+                "height": 174.02,
+                "fill": "#5d4037",
+                "text": "Spacious stylish tote with ample storage\nDurable synthetic leather construction\nGold hardware with decorative charm\nPerfect medium size for everyday use",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 610,
+                "left": 125,
+                "width": 191.09,
+                "height": 67.8,
+                "fill": "#8b5a2b",
+                "text": "$65.00",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 720,
+                "left": 125,
+                "width": 180,
+                "height": 60,
+                "fill": "#b08968",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 736,
+                "left": 150,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 270,
+                "left": 520,
+                "width": 461.32,
+                "height": 546.82,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0fcbeff1-21c9-4529-831b-0a4d7fffea80_nobg_1214x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "ALDO womens Durable handbag This spaciously stylish tote bag boasts ample storage space and shoulder strap for extra utility Made of synthetic materials 1 compartment: stylish and functional to store your cell phone, wallet, or any other essential you need near by Medium: the perfect medium sized handbag for everyday life Size: 10.9'' L x 4'' W x 12.4'' H (28cm x 10.5cm x 32cm) Fabric type - Faux Leather ** Origin - Imported ** Closure type - Zipper ** Lining - Synthetic ** Country of Origin - Cambodia **",
+            "price": "65.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/0fcbeff1-21c9-4529-831b-0a4d7fffea80_nobg_1214x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08CPR697X",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis elegant banner showcases a luxury tote product in a minimalist and premium layout. The design is centered around a warm, sophisticated color palette and a spacious white card over a softly textured background enhanced with wave motifs, light geometric shapes, and fine borders. The top-left area includes a bold title (`heading`) in a strong serif typeface, followed by a subtler subheading (`subheading`) and a decorative line (`decorative`). A detailed product description (`description`) sits below, formatted with clear readability. The bottom-left features the price (`price`) in prominent lettering and a rounded-corner button (`cta_button`) containing a call-to-action (`cta`). A high-quality product image (`product_image`) is positioned on the right, anchored to balance the layout.\n\n**Color Palette:**\n- Warm Beige: #f5efe8\n- Light Sand: #ede0d4\n- Taupe Brown: #d4a373\n- Antique Brass: #c9a38d\n- Rich Brown: #8b5a2b\n- Text Bronze: #5d4037\n- Button Cocoa: #b08968\n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a sophisticated handbag with a warm, muted beige-brown tone as the primary color (#A76E56), complemented by luxurious gold accents (#D4AF37) on the hardware, logo, and decorative charms. The base color exudes elegance and neutrality, making it suitable for various design contexts, while the gold highlights add a touch of refinement and visual contrast. The texture of the bag subtly reflects light, enhancing depth without overwhelming the visuals. A clean beige background (#F5F5F5) would harmonize the elements in an advertisement banner, while soft gradients of tan (#C89B7B) and ivory (#EFE6DD) can provide balance.\n"
+}

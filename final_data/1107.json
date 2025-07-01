@@ -1,1 +1,179 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0E0B16'/><stop offset='100%' style='stop-color:#2E1F5E'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#4717F6'/><stop offset='100%' style='stop-color:#A239CA'/></linearGradient><linearGradient id='glow' x1='50%' y1='0%' x2='50%' y2='100%'><stop offset='0%' style='stop-color:#4717F6;stop-opacity:0.6'/><stop offset='100%' style='stop-color:#A239CA;stop-opacity:0.2'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><circle cx='200' cy='200' r='5' fill='#ffffff' opacity='0.3'/><circle cx='250' cy='180' r='3' fill='#ffffff' opacity='0.2'/><circle cx='300' cy='220' r='4' fill='#ffffff' opacity='0.3'/><circle cx='150' cy='300' r='6' fill='#ffffff' opacity='0.2'/><circle cx='270' cy='350' r='3' fill='#ffffff' opacity='0.3'/><circle cx='320' cy='150' r='4' fill='#ffffff' opacity='0.2'/><circle cx='180' cy='140' r='5' fill='#ffffff' opacity='0.3'/><circle cx='950' cy='850' r='5' fill='#ffffff' opacity='0.3'/><circle cx='900' cy='800' r='3' fill='#ffffff' opacity='0.2'/><circle cx='850' cy='900' r='4' fill='#ffffff' opacity='0.3'/><circle cx='980' cy='750' r='6' fill='#ffffff' opacity='0.2'/><circle cx='850' cy='720' r='3' fill='#ffffff' opacity='0.3'/><circle cx='920' cy='950' r='4' fill='#ffffff' opacity='0.2'/><path d='M0 540 L1080 540' stroke='#8A4FFF' stroke-width='1' opacity='0.1'/><path d='M540 0 L540 1080' stroke='#8A4FFF' stroke-width='1' opacity='0.1'/><rect x='-400' y='700' width='2000' height='50' fill='url(#glow)' opacity='0.3' transform='rotate(-30, 540, 540)'/><rect x='-400' y='500' width='2000' height='30' fill='url(#glow)' opacity='0.2' transform='rotate(-30, 540, 540)'/><rect x='-400' y='300' width='2000' height='20' fill='url(#glow)' opacity='0.1' transform='rotate(-30, 540, 540)'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 563.9, "height": 113, "fill": "#FFFFFF", "text": "CRYSTAL", "fontSize": 100, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 170, "left": 60, "width": 419.9, "height": 113, "fill": "#FFFFFF", "text": "CLEAR", "fontSize": 100, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 290, "left": 60, "width": 413.24, "height": 67.8, "fill": "#A239CA", "text": "WIRELESS EARBUDS", "fontSize": 60, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 370, "left": 60, "width": 150, "height": 40, "fill": "#4717F6", "rx": 5, "ry": 5, "id": "discount_badge"}, {"type": "text", "top": 378, "left": 83, "width": 96.28, "height": 27.12, "fill": "#FFFFFF", "text": "20% OFF", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "discount_text"}, {"type": "text", "top": 440, "left": 60, "width": 445.84, "height": 188.03, "fill": "#FFFFFF", "text": "\u2022 LED Display Shows Battery Level\n\u2022 Transparent High-Tech Design\n\u2022 Premium Sound Quality\n\u2022 Touch Controls", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 779, "left": 193, "width": 196.5, "height": 113, "fill": "#FFFFFF", "text": "$65", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "text", "top": 815, "left": 250, "width": 61.04, "height": 45.2, "fill": "#A239CA", "text": "$79", "fontSize": 40, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "original_price"}, {"type": "rect", "top": 940, "left": 60, "width": 200, "height": 60, "fill": "#4717F6", "rx": 8, "ry": 8, "id": "cta_button"}, {"type": "text", "top": 956, "left": 96, "width": 126.03, "height": 31.64, "fill": "#FFFFFF", "text": "BUY NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 270, "left": 510, "width": 777, "height": 999, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/N9mT7xrkfsivBwpFw3PuE_777x999.png", "id": "product_image"}, {"type": "path", "top": 815, "left": 250, "width": 120, "height": 0, "fill": "rgb(0,0,0)", "path": [["M", 0, 0], ["L", 120, 0]], "id": "strikethrough_line"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Crystal Clear Transparent Wireless Earbuds with LED Display - Premium Sound & Style", "description": "\u2022 Sleek transparent design showcasing high-tech internals with stunning LED blue lighting effects\n\u2022 Digital LED display shows precise battery level and connection status\n\u2022 Advanced touch controls for seamless music and call management\n\u2022 Clear see-through charging case with modern aesthetic appeal\n\u2022 Left/Right channel indicators for easy identification\n\u2022 Ergonomic ear tip design for comfortable, secure fit\n\u2022 High-quality stereo sound with deep bass response\n\u2022 Wireless charging case with LED power indicator\n\u2022 Bluetooth 5.0+ technology for stable connectivity\n\u2022 IPX5 water-resistant protection for workout sessions\n\u2022 Premium build quality with durable transparent materials\n\u2022 Quick pairing technology for instant device connection", "price": "$665"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/N9mT7xrkfsivBwpFw3PuE_777x999.png", "marketplace_url": "blob:https://studio.phot.ai/ff8cf7a1-9213-4dc5-b4c7-2c5e6e9cdbf3", "layout": "diagonal_split"}, "banner_details": "\nThe banner features a sleek modern product advertisement with a futuristic tech theme, promoting wireless earbuds. The background consists of a two-tone diagonal gradient blend transitioning from a dark navy (#0E0B16) to vibrant purples (#4717F6 and #A239CA), lent depth with translucent glowing lines and dot clusters. \n\nText layers include two bold, techno-styled top headings (`heading_1` and `heading_2`) in white, capturing immediate attention. A subheading (`subheading`) in vibrant magenta introduces the product, followed by a discount badge (`discount_badge` and `discount_text`). The description block (`description`) lists features clearly. The price section (`price`, `original_price`, and `strikethrough_line`) highlights a discounted offer. A CTA button (`cta_button` and `cta`) in bright purple enhances user engagement. The focal element is an embedded image of earbuds (`product_image`), strategically placed to draw visual interest.\n\n**Color Palette**:\n- Deep Black: #0E0B16\n- Royal Purple: #4717F6\n- Electric Violet: #A239CA\n- Bright White: #FFFFFF\n", "product_color": "\nThe product image features a modern, transparent wireless earbud case accented with a digital LED display and deep black earbuds. The color palette prominently includes Transparent Gray (#C0C0C0), Jet Black (#000000), Electric Violet (#6F00FF), and Cool LED White (#F4F4F4). The transparent casing allows the inner components and vibrant violet lighting to glow softly, blending technology with style. Vivid LED white elements highlight essential features like battery percentage, drawing attention without overpowering the overall design. The mix of cool and futuristic tones makes this palette ideal for a sleek, high-tech advertisement banner. Use gradient blends to maintain visual harmony.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0E0B16'/><stop offset='100%' style='stop-color:#2E1F5E'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#4717F6'/><stop offset='100%' style='stop-color:#A239CA'/></linearGradient><linearGradient id='glow' x1='50%' y1='0%' x2='50%' y2='100%'><stop offset='0%' style='stop-color:#4717F6;stop-opacity:0.6'/><stop offset='100%' style='stop-color:#A239CA;stop-opacity:0.2'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#bg2)'/><circle cx='200' cy='200' r='5' fill='#ffffff' opacity='0.3'/><circle cx='250' cy='180' r='3' fill='#ffffff' opacity='0.2'/><circle cx='300' cy='220' r='4' fill='#ffffff' opacity='0.3'/><circle cx='150' cy='300' r='6' fill='#ffffff' opacity='0.2'/><circle cx='270' cy='350' r='3' fill='#ffffff' opacity='0.3'/><circle cx='320' cy='150' r='4' fill='#ffffff' opacity='0.2'/><circle cx='180' cy='140' r='5' fill='#ffffff' opacity='0.3'/><circle cx='950' cy='850' r='5' fill='#ffffff' opacity='0.3'/><circle cx='900' cy='800' r='3' fill='#ffffff' opacity='0.2'/><circle cx='850' cy='900' r='4' fill='#ffffff' opacity='0.3'/><circle cx='980' cy='750' r='6' fill='#ffffff' opacity='0.2'/><circle cx='850' cy='720' r='3' fill='#ffffff' opacity='0.3'/><circle cx='920' cy='950' r='4' fill='#ffffff' opacity='0.2'/><path d='M0 540 L1080 540' stroke='#8A4FFF' stroke-width='1' opacity='0.1'/><path d='M540 0 L540 1080' stroke='#8A4FFF' stroke-width='1' opacity='0.1'/><rect x='-400' y='700' width='2000' height='50' fill='url(#glow)' opacity='0.3' transform='rotate(-30, 540, 540)'/><rect x='-400' y='500' width='2000' height='30' fill='url(#glow)' opacity='0.2' transform='rotate(-30, 540, 540)'/><rect x='-400' y='300' width='2000' height='20' fill='url(#glow)' opacity='0.1' transform='rotate(-30, 540, 540)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 563.9,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "CRYSTAL",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 60,
+                "width": 419.9,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "CLEAR",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 60,
+                "width": 413.24,
+                "height": 67.8,
+                "fill": "#A239CA",
+                "text": "WIRELESS EARBUDS",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 370,
+                "left": 60,
+                "width": 150,
+                "height": 40,
+                "fill": "#4717F6",
+                "rx": 5,
+                "ry": 5,
+                "id": "discount_badge"
+            },
+            {
+                "type": "text",
+                "top": 378,
+                "left": 83,
+                "width": 96.28,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "20% OFF",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "discount_text"
+            },
+            {
+                "type": "text",
+                "top": 440,
+                "left": 60,
+                "width": 445.84,
+                "height": 188.03,
+                "fill": "#FFFFFF",
+                "text": "\u2022 LED Display Shows Battery Level\n\u2022 Transparent High-Tech Design\n\u2022 Premium Sound Quality\n\u2022 Touch Controls",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 779,
+                "left": 193,
+                "width": 196.5,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "$65",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 815,
+                "left": 250,
+                "width": 61.04,
+                "height": 45.2,
+                "fill": "#A239CA",
+                "text": "$79",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "original_price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#4717F6",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 956,
+                "left": 96,
+                "width": 126.03,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 270,
+                "left": 510,
+                "width": 505.05,
+                "height": 649.35,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/N9mT7xrkfsivBwpFw3PuE_777x999.png",
+                "id": "product_image"
+            },
+            {
+                "type": "path",
+                "top": 815,
+                "left": 250,
+                "width": 120,
+                "height": 0,
+                "fill": "rgb(0,0,0)",
+                "path": [
+                    [
+                        "M",
+                        0,
+                        0
+                    ],
+                    [
+                        "L",
+                        120,
+                        0
+                    ]
+                ],
+                "id": "strikethrough_line"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Crystal Clear Transparent Wireless Earbuds with LED Display - Premium Sound & Style",
+            "description": "\u2022 Sleek transparent design showcasing high-tech internals with stunning LED blue lighting effects\n\u2022 Digital LED display shows precise battery level and connection status\n\u2022 Advanced touch controls for seamless music and call management\n\u2022 Clear see-through charging case with modern aesthetic appeal\n\u2022 Left/Right channel indicators for easy identification\n\u2022 Ergonomic ear tip design for comfortable, secure fit\n\u2022 High-quality stereo sound with deep bass response\n\u2022 Wireless charging case with LED power indicator\n\u2022 Bluetooth 5.0+ technology for stable connectivity\n\u2022 IPX5 water-resistant protection for workout sessions\n\u2022 Premium build quality with durable transparent materials\n\u2022 Quick pairing technology for instant device connection",
+            "price": "$665"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/N9mT7xrkfsivBwpFw3PuE_777x999.png",
+        "marketplace_url": "blob:https://studio.phot.ai/ff8cf7a1-9213-4dc5-b4c7-2c5e6e9cdbf3",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner features a sleek modern product advertisement with a futuristic tech theme, promoting wireless earbuds. The background consists of a two-tone diagonal gradient blend transitioning from a dark navy (#0E0B16) to vibrant purples (#4717F6 and #A239CA), lent depth with translucent glowing lines and dot clusters. \n\nText layers include two bold, techno-styled top headings (`heading_1` and `heading_2`) in white, capturing immediate attention. A subheading (`subheading`) in vibrant magenta introduces the product, followed by a discount badge (`discount_badge` and `discount_text`). The description block (`description`) lists features clearly. The price section (`price`, `original_price`, and `strikethrough_line`) highlights a discounted offer. A CTA button (`cta_button` and `cta`) in bright purple enhances user engagement. The focal element is an embedded image of earbuds (`product_image`), strategically placed to draw visual interest.\n\n**Color Palette**:\n- Deep Black: #0E0B16\n- Royal Purple: #4717F6\n- Electric Violet: #A239CA\n- Bright White: #FFFFFF\n",
+    "product_color": "\nThe product image features a modern, transparent wireless earbud case accented with a digital LED display and deep black earbuds. The color palette prominently includes Transparent Gray (#C0C0C0), Jet Black (#000000), Electric Violet (#6F00FF), and Cool LED White (#F4F4F4). The transparent casing allows the inner components and vibrant violet lighting to glow softly, blending technology with style. Vivid LED white elements highlight essential features like battery percentage, drawing attention without overpowering the overall design. The mix of cool and futuristic tones makes this palette ideal for a sleek, high-tech advertisement banner. Use gradient blends to maintain visual harmony.\n"
+}

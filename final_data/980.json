@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#232931'/><rect width='540' height='1080' fill='#1A2026'/><g opacity='0.2'><line x1='600' y1='0' x2='600' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='720' y1='0' x2='720' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='840' y1='0' x2='840' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='960' y1='0' x2='960' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='180' x2='1080' y2='180' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='360' x2='1080' y2='360' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='540' x2='1080' y2='540' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='720' x2='1080' y2='720' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='900' x2='1080' y2='900' stroke='#FFC300' stroke-width='1'/></g><circle cx='100' cy='80' r='30' fill='#FFC300' opacity='0.1'/><path d='M430 980 L500 1050 L360 1050 Z' fill='#FFC300' opacity='0.05'/><rect x='700' y='800' width='150' height='150' stroke='#FFC300' stroke-width='2' opacity='0.1' transform='rotate(-25 775 875)'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 60, "width": 649.89, "height": 101.7, "fill": "#FFC300", "text": "DOUBLE THE", "fontSize": 90, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 200, "left": 60, "width": 651.87, "height": 101.7, "fill": "#FFC300", "text": "ADVENTURE!", "fontSize": 90, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 310, "left": 60, "width": 429.09, "height": 72.32, "fill": "#FFFFFF", "text": "BUY ONE CAMERA,\nGET ONE FREE", "fontSize": 32, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 420, "left": 60, "width": 273.7, "height": 126.56, "fill": "#E0E0E0", "text": "\u2022 16.3MP X-Trans Sensor\n\u2022 High-Precision EVF\n\u2022 Fast Autofocus System\n\u2022 Built-in Wi-Fi", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 615, "left": 60, "width": 280, "height": 79.1, "fill": "#FFC300", "text": "\u20b989999", "fontSize": 70, "fontFamily": "AHOY-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 725, "left": 60, "width": 320, "height": 70, "fill": "#FFC300", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 747, "left": 86, "width": 256.84, "height": 31.64, "fill": "#1A2026", "text": "CAPTURE TOGETHER", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 297, "left": 570, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68234028671f7aaffc6a185a/r_J67rxNNc-4s8jBfinuI_551x559.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible", "description": "\u2022 Classic retro-styled compact mirrorless camera body with premium build quality\n\u2022 Advanced 16.3MP X-Trans CMOS II APS-C sensor for exceptional image quality\n\u2022 High-precision electronic viewfinder with 2.36M-dot resolution\n\u2022 Fast autofocus system with 77 selectable AF points\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing and remote control\n\u2022 Tiltable 3-inch LCD screen for creative angle shooting\n\u2022 Full HD 1080p video recording capability at 60fps\n\u2022 Advanced manual controls with dedicated dials for shutter speed, exposure compensation, and drive modes\n\u2022 Compatible with Fujifilm's extensive X-mount lens system\n\u2022 Compact and lightweight design perfect for travel photography\n\u2022 Film simulation modes that recreate classic Fujifilm styles\n\u2022 Durable metal top and bottom plates for long-lasting performance", "price": "\u20b989999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68234028671f7aaffc6a185a/r_J67rxNNc-4s8jBfinuI_551x559.png", "marketplace_url": "", "layout": "grid_four"}, "banner_details": "\nThis promotional banner features a bold, adventurous theme tailored to market a camera deal. The background uses a dual-panel layout: a dark left section and a slightly lighter right, overlaid with a subtle golden grid and geometric accents. Two main text layers (`heading_1` and `heading_2`) at the top-left emphasize the campaign's call to excitement in large, bold yellow type. Below, the `tagline` layer offers the promotional message in a modern white font, while the `description` layer lists product features in light gray. The `price` is prominently highlighted in large yellow text, and a strong call-to-action button (`cta_background` + `cta`) invites engagement. A high-resolution camera image (`product_image`) dominates the right side. \n\n**Color Palette:**\n- Charcoal Gray: #1A2026\n- Dark Slate: #232931\n- Golden Yellow: #FFC300\n- Soft White: #FFFFFF\n- Light Gray: #E0E0E0\n", "product_color": "\nThe product image showcases the Fujifilm X-T10 camera in a professional and sleek black finish, making black (#1C1C1C) the dominant color, contributing to a refined and premium feel. Silver and metallic gray (#B0B0B0) accents highlight functional dials and buttons, adding contrast and detail. Subtle white text elements (#FFFFFF) on the body enhance readability and brand visibility, while a small splash of red (#C0392B) and orange (#F39C12) on lens markings draws attention without disrupting the monochrome scheme. These colors blend seamlessly, balancing utility and aesthetics. Use a color palette of black, silver, white, red, and orange for a bold yet elegant advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#232931'/><rect width='540' height='1080' fill='#1A2026'/><g opacity='0.2'><line x1='600' y1='0' x2='600' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='720' y1='0' x2='720' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='840' y1='0' x2='840' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='960' y1='0' x2='960' y2='1080' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='180' x2='1080' y2='180' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='360' x2='1080' y2='360' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='540' x2='1080' y2='540' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='720' x2='1080' y2='720' stroke='#FFC300' stroke-width='1'/><line x1='540' y1='900' x2='1080' y2='900' stroke='#FFC300' stroke-width='1'/></g><circle cx='100' cy='80' r='30' fill='#FFC300' opacity='0.1'/><path d='M430 980 L500 1050 L360 1050 Z' fill='#FFC300' opacity='0.05'/><rect x='700' y='800' width='150' height='150' stroke='#FFC300' stroke-width='2' opacity='0.1' transform='rotate(-25 775 875)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 60,
+                "width": 649.89,
+                "height": 101.7,
+                "fill": "#FFC300",
+                "text": "DOUBLE THE",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 60,
+                "width": 651.87,
+                "height": 101.7,
+                "fill": "#FFC300",
+                "text": "ADVENTURE!",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 60,
+                "width": 429.09,
+                "height": 72.32,
+                "fill": "#FFFFFF",
+                "text": "BUY ONE CAMERA,\nGET ONE FREE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 420,
+                "left": 60,
+                "width": 273.7,
+                "height": 126.56,
+                "fill": "#E0E0E0",
+                "text": "\u2022 16.3MP X-Trans Sensor\n\u2022 High-Precision EVF\n\u2022 Fast Autofocus System\n\u2022 Built-in Wi-Fi",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 615,
+                "left": 60,
+                "width": 280,
+                "height": 79.1,
+                "fill": "#FFC300",
+                "text": "\u20b989999",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 725,
+                "left": 60,
+                "width": 320,
+                "height": 70,
+                "fill": "#FFC300",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 747,
+                "left": 86,
+                "width": 256.84,
+                "height": 31.64,
+                "fill": "#1A2026",
+                "text": "CAPTURE TOGETHER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 297,
+                "left": 570,
+                "width": 479.37,
+                "height": 486.33,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68234028671f7aaffc6a185a/r_J67rxNNc-4s8jBfinuI_551x559.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible",
+            "description": "\u2022 Classic retro-styled compact mirrorless camera body with premium build quality\n\u2022 Advanced 16.3MP X-Trans CMOS II APS-C sensor for exceptional image quality\n\u2022 High-precision electronic viewfinder with 2.36M-dot resolution\n\u2022 Fast autofocus system with 77 selectable AF points\n\u2022 Built-in Wi-Fi connectivity for easy photo sharing and remote control\n\u2022 Tiltable 3-inch LCD screen for creative angle shooting\n\u2022 Full HD 1080p video recording capability at 60fps\n\u2022 Advanced manual controls with dedicated dials for shutter speed, exposure compensation, and drive modes\n\u2022 Compatible with Fujifilm's extensive X-mount lens system\n\u2022 Compact and lightweight design perfect for travel photography\n\u2022 Film simulation modes that recreate classic Fujifilm styles\n\u2022 Durable metal top and bottom plates for long-lasting performance",
+            "price": "\u20b989999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68234028671f7aaffc6a185a/r_J67rxNNc-4s8jBfinuI_551x559.png",
+        "marketplace_url": "",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis promotional banner features a bold, adventurous theme tailored to market a camera deal. The background uses a dual-panel layout: a dark left section and a slightly lighter right, overlaid with a subtle golden grid and geometric accents. Two main text layers (`heading_1` and `heading_2`) at the top-left emphasize the campaign's call to excitement in large, bold yellow type. Below, the `tagline` layer offers the promotional message in a modern white font, while the `description` layer lists product features in light gray. The `price` is prominently highlighted in large yellow text, and a strong call-to-action button (`cta_background` + `cta`) invites engagement. A high-resolution camera image (`product_image`) dominates the right side. \n\n**Color Palette:**\n- Charcoal Gray: #1A2026\n- Dark Slate: #232931\n- Golden Yellow: #FFC300\n- Soft White: #FFFFFF\n- Light Gray: #E0E0E0\n",
+    "product_color": "\nThe product image showcases the Fujifilm X-T10 camera in a professional and sleek black finish, making black (#1C1C1C) the dominant color, contributing to a refined and premium feel. Silver and metallic gray (#B0B0B0) accents highlight functional dials and buttons, adding contrast and detail. Subtle white text elements (#FFFFFF) on the body enhance readability and brand visibility, while a small splash of red (#C0392B) and orange (#F39C12) on lens markings draws attention without disrupting the monochrome scheme. These colors blend seamlessly, balancing utility and aesthetics. Use a color palette of black, silver, white, red, and orange for a bold yet elegant advertisement banner.\n"
+}

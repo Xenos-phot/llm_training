@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFE8D6' /><stop offset='100%' stop-color='#FFBB98' /></linearGradient><linearGradient id='grad2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' stop-color='#FFB091' /><stop offset='100%' stop-color='#FF8E6E' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)' /><g opacity='0.15'><circle cx='540' cy='540' r='400' fill='#FF7F50' /><circle cx='540' cy='540' r='300' fill='#FF9B71' /><circle cx='540' cy='540' r='200' fill='#FFB89C' /></g><g transform='translate(0,0)' opacity='0.1'><rect x='0' y='100' width='1080' height='10' fill='#FF7F50' /><rect x='0' y='200' width='1080' height='8' fill='#FF7F50' /><rect x='0' y='300' width='1080' height='6' fill='#FF7F50' /><rect x='0' y='400' width='1080' height='10' fill='#FF7F50' /><rect x='0' y='500' width='1080' height='8' fill='#FF7F50' /><rect x='0' y='600' width='1080' height='6' fill='#FF7F50' /><rect x='0' y='700' width='1080' height='10' fill='#FF7F50' /><rect x='0' y='800' width='1080' height='8' fill='#FF7F50' /><rect x='0' y='900' width='1080' height='6' fill='#FF7F50' /></g><path d='M0 1080 L1080 1080 L1080 860 C 900 920, 700 880, 540 910 S 300 850, 0 930 Z' fill='url(#grad2)' /></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 212.91500000000002, "width": 654.17, "height": 107.35, "fill": "#6D2E46", "text": "SUNSHINE BREEZE", "fontSize": 95, "fontFamily": "Teko Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 175, "left": 336.5, "width": 407, "height": 56.5, "fill": "#8C3F52", "text": "Crochet Tank Top", "fontSize": 50, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 252.355, "left": 402.2850000000001, "width": 663, "height": 1079, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/mCFs9NZgdX9hGl13f4vC5_663x1079.png", "id": "product_image"}, {"type": "text", "top": 760, "left": 202.70999999999998, "width": 674.58, "height": 61.02, "fill": "#6D2E46", "text": "Delicate crochet detailing \u2022 Soft, breathable fabric \u2022 Versatile style\nPerfect for warm weather \u2022 Available in sizes XS-XL", "fontSize": 20, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 850, "left": 418.625, "width": 242.75, "height": 84.75, "fill": "#6D2E46", "text": "$1200", "fontSize": 75, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 430.0, "width": 220.00000000000003, "height": 66.0, "fill": "#6D2E46", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 965, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFE8D6", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Sunshine Breeze Crochet Tank Top - Perfect Summer Essential", "description": "\u2022 Delicate crochet detailing at neckline for feminine charm\n\u2022 Soft, breathable fabric in a vibrant peach/orange shade\n\u2022 Flowing empire waist design for comfortable fit\n\u2022 Sleeveless style perfect for warm weather\n\u2022 Versatile piece suitable for casual to semi-dressy occasions\n\u2022 Easy-care fabric that maintains shape after washing\n\u2022 Available in sizes XS-XL\n\u2022 Lightweight and packable - ideal for travel\n\u2022 Can be layered with cardigans or jackets for transitional weather\n\u2022 Premium quality construction with reinforced stitching", "price": "$1200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/mCFs9NZgdX9hGl13f4vC5_663x1079.png", "marketplace_url": "https://images.pexels.com/photos/235462/pexels-photo-235462.jpeg", "layout": "centered_hero"}, "banner_details": "\nThis banner presents a stylish, summer-themed apparel promotion. It features a soft gradient background with peach and coral tones, creating a warm and inviting mood. Central to the design is an image of a model showcasing the product, placed over a faded concentric circle pattern that draws attention to the center. The main heading (\"heading\") is bold and uppercase in a deep plum color, followed by a subheading (\"subheading\") with a lighter serif typeface. Beneath the product image, there's a descriptive paragraph (\"description\") providing product details in a compact two-line layout. A large price tag (\"price\") is clearly displayed, and a rectangular \u201ccall-to-action\u201d button (\"cta_background\" with text \"cta\") invites users to shop. The composition is symmetrical and informative, ideal for fashion e-commerce. \n\n**Color Palette:**\n- Light Peach: #FFE8D6\n- Coral: #FF9B71\n- Deep Plum: #6D2E46\n- Warm Rose: #FF8E6E\n- Creamy Pink: #FFB89C\n", "product_color": "  \nThe image presents a visually appealing product with a soft and warm color palette ideal for an advertisement banner. Dominant colors include a vibrant **peach-orange (#FDAE5C)** dress that stands out against the model\u2019s natural **sandy blonde hair (#D4B07B)**. The soft blending of her hair creates a gradient with low-lights in **light brown (#8A6D4F)** enhancing realism. The bold red lipstick (#9E1B32) contrasts dynamically with the softer tones, drawing attention to the face. The background is pure white (#FFFFFF), allowing the brighter hues to be highlighted effectively. Together, these colors deliver a golden, summery, and fresh aesthetic suitable for fashion and beauty promotions.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFE8D6' /><stop offset='100%' stop-color='#FFBB98' /></linearGradient><linearGradient id='grad2' x1='100%' y1='0%' x2='0%' y2='100%'><stop offset='0%' stop-color='#FFB091' /><stop offset='100%' stop-color='#FF8E6E' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)' /><g opacity='0.15'><circle cx='540' cy='540' r='400' fill='#FF7F50' /><circle cx='540' cy='540' r='300' fill='#FF9B71' /><circle cx='540' cy='540' r='200' fill='#FFB89C' /></g><g transform='translate(0,0)' opacity='0.1'><rect x='0' y='100' width='1080' height='10' fill='#FF7F50' /><rect x='0' y='200' width='1080' height='8' fill='#FF7F50' /><rect x='0' y='300' width='1080' height='6' fill='#FF7F50' /><rect x='0' y='400' width='1080' height='10' fill='#FF7F50' /><rect x='0' y='500' width='1080' height='8' fill='#FF7F50' /><rect x='0' y='600' width='1080' height='6' fill='#FF7F50' /><rect x='0' y='700' width='1080' height='10' fill='#FF7F50' /><rect x='0' y='800' width='1080' height='8' fill='#FF7F50' /><rect x='0' y='900' width='1080' height='6' fill='#FF7F50' /></g><path d='M0 1080 L1080 1080 L1080 860 C 900 920, 700 880, 540 910 S 300 850, 0 930 Z' fill='url(#grad2)' /></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 212.91500000000002,
+                "width": 654.17,
+                "height": 107.35,
+                "fill": "#6D2E46",
+                "text": "SUNSHINE BREEZE",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 175,
+                "left": 336.5,
+                "width": 407,
+                "height": 56.5,
+                "fill": "#8C3F52",
+                "text": "Crochet Tank Top",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 252.355,
+                "left": 402.2850000000001,
+                "width": 285.09,
+                "height": 463.96999999999997,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/mCFs9NZgdX9hGl13f4vC5_663x1079.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 202.70999999999998,
+                "width": 674.58,
+                "height": 61.02,
+                "fill": "#6D2E46",
+                "text": "Delicate crochet detailing \u2022 Soft, breathable fabric \u2022 Versatile style\nPerfect for warm weather \u2022 Available in sizes XS-XL",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 418.625,
+                "width": 242.75,
+                "height": 84.75,
+                "fill": "#6D2E46",
+                "text": "$1200",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 430.0,
+                "width": 220.00000000000003,
+                "height": 66.0,
+                "fill": "#6D2E46",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFE8D6",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Sunshine Breeze Crochet Tank Top - Perfect Summer Essential",
+            "description": "\u2022 Delicate crochet detailing at neckline for feminine charm\n\u2022 Soft, breathable fabric in a vibrant peach/orange shade\n\u2022 Flowing empire waist design for comfortable fit\n\u2022 Sleeveless style perfect for warm weather\n\u2022 Versatile piece suitable for casual to semi-dressy occasions\n\u2022 Easy-care fabric that maintains shape after washing\n\u2022 Available in sizes XS-XL\n\u2022 Lightweight and packable - ideal for travel\n\u2022 Can be layered with cardigans or jackets for transitional weather\n\u2022 Premium quality construction with reinforced stitching",
+            "price": "$1200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/mCFs9NZgdX9hGl13f4vC5_663x1079.png",
+        "marketplace_url": "https://images.pexels.com/photos/235462/pexels-photo-235462.jpeg",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner presents a stylish, summer-themed apparel promotion. It features a soft gradient background with peach and coral tones, creating a warm and inviting mood. Central to the design is an image of a model showcasing the product, placed over a faded concentric circle pattern that draws attention to the center. The main heading (\"heading\") is bold and uppercase in a deep plum color, followed by a subheading (\"subheading\") with a lighter serif typeface. Beneath the product image, there's a descriptive paragraph (\"description\") providing product details in a compact two-line layout. A large price tag (\"price\") is clearly displayed, and a rectangular \u201ccall-to-action\u201d button (\"cta_background\" with text \"cta\") invites users to shop. The composition is symmetrical and informative, ideal for fashion e-commerce. \n\n**Color Palette:**\n- Light Peach: #FFE8D6\n- Coral: #FF9B71\n- Deep Plum: #6D2E46\n- Warm Rose: #FF8E6E\n- Creamy Pink: #FFB89C\n",
+    "product_color": "  \nThe image presents a visually appealing product with a soft and warm color palette ideal for an advertisement banner. Dominant colors include a vibrant **peach-orange (#FDAE5C)** dress that stands out against the model\u2019s natural **sandy blonde hair (#D4B07B)**. The soft blending of her hair creates a gradient with low-lights in **light brown (#8A6D4F)** enhancing realism. The bold red lipstick (#9E1B32) contrasts dynamically with the softer tones, drawing attention to the face. The background is pure white (#FFFFFF), allowing the brighter hues to be highlighted effectively. Together, these colors deliver a golden, summery, and fresh aesthetic suitable for fashion and beauty promotions.  \n"
+}

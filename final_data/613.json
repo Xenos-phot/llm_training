@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a2e'/><stop offset='100%' stop-color='#16213e'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4a47a3'/><stop offset='100%' stop-color='#7209b7'/></linearGradient><linearGradient id='circleGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4361ee'/><stop offset='100%' stop-color='#3a0ca3'/></linearGradient><linearGradient id='priceGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#f72585'/><stop offset='100%' stop-color='#7209b7'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><path d='M0 300 Q540 200 1080 300 L1080 0 L0 0 Z' fill='url(#accentGradient)' opacity='0.7'/><path d='M0 800 Q540 900 1080 800 L1080 1080 L0 1080 Z' fill='url(#accentGradient)' opacity='0.7'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' opacity='0.85'/><circle cx='840' cy='400' r='120' fill='url(#priceGradient)'/><g opacity='0.2'><circle cx='100' cy='200' r='20' fill='#4cc9f0'/><circle cx='150' cy='300' r='15' fill='#4cc9f0'/><circle cx='200' cy='150' r='25' fill='#4cc9f0'/><circle cx='980' cy='200' r='20' fill='#4cc9f0'/><circle cx='930' cy='300' r='15' fill='#4cc9f0'/><circle cx='880' cy='150' r='25' fill='#4cc9f0'/><circle cx='100' cy='880' r='20' fill='#4cc9f0'/><circle cx='150' cy='930' r='15' fill='#4cc9f0'/><circle cx='200' cy='980' r='25' fill='#4cc9f0'/><circle cx='980' cy='880' r='20' fill='#4cc9f0'/><circle cx='930' cy='930' r='15' fill='#4cc9f0'/><circle cx='880' cy='980' r='25' fill='#4cc9f0'/></g><g opacity='0.3'><path d='M100 400 L150 450 L100 500 L50 450 Z' fill='#4cc9f0'/><path d='M980 400 L1030 450 L980 500 L930 450 Z' fill='#4cc9f0'/><path d='M100 680 L150 730 L100 780 L50 730 Z' fill='#4cc9f0'/><path d='M980 680 L1030 730 L980 780 L930 730 Z' fill='#4cc9f0'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 98.0, "width": 884, "height": 90.4, "fill": "#FFFFFF", "text": "EARLY BIRD OFFER", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 180, "left": 258.89, "width": 562.22, "height": 67.8, "fill": "#4cc9f0", "text": "LENOVO LOQ GAMING", "fontSize": 60, "fontFamily": "Barlow Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 900, "left": 61.67500000000001, "width": 956.65, "height": 31.64, "fill": "#FFFFFF", "text": "\u2022 13th Gen Intel i5 \u2022 RTX 3050 6GB \u2022 144Hz Display", "fontSize": 28, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 318.27, "left": 278.94, "width": 1374, "height": 1167, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/680f677d1c4297c634b0e8e9/wDvW1nPDukJ1KsQzNu3cd_1374x1167.png", "id": "product_image"}, {"type": "text", "top": 335.25, "left": 768.08, "width": 143.84, "height": 89.5, "fill": "#FFFFFF", "text": "\u20b975,990\n15% OFF", "fontSize": 36, "fontFamily": "Bagel Fat One-Regular", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 965.0, "left": 420.0, "width": 240, "height": 70, "fill": "#f72585", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 988.7, "left": 456.31, "width": 167.38, "height": 22.6, "fill": "#FFFFFF", "text": "SHOP NOW & SAVE", "fontSize": 20, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Lenovo LOQ, Intel Core i5-13450HX, 13th Gen, NVIDIA RTX 3050-6GB, 16GB RAM, 512GB SSD, FHD 144Hz 300Nits, 15.6\"/39.6cm, Windows 11, MS Office 21, Grey, 2.4Kg, 83DV00BHIN, 100% sRGB Gaming Laptop", "description": "Brand: Lenovo. Series: LOQ. Colour: LunaGray. Form Factor: Ultra-Portable. Item Height: 54.1 Centimeters. Item Width: 35.7 Centimeters. Standing screen display size: 15.6 Inches. Screen Resolution: 1920 x 1080 pixel. Resolution: 1920 x 1080. Product Dimensions: 8.7 x 35.7 x 54.1 cm; 3.58 kg. Batteries: 1 Lithium Polymer batteries required. (included). Processor Brand: Intel. Processor Type: Intel Core i5. Processor Speed: 2.4 GHz. Processor Count: 10. RAM Size: 16. Memory Technology: DDR5. Computer Memory Type: DDR5 RAM. Maximum Memory Supported: 32 GB. Hard Drive Size: 512 GB. Hard Disk Description: SSD. Hard Drive Interface: USB 3.2. Audio Details: Headphones. Speaker Description: 2 x 2W speakers with Nahimic Audio & Sound Tracker. Graphics Coprocessor: Intel. Graphics Chipset Brand: NVIDIA. Graphics Card Description: Dedicated. Graphics RAM Type: GDDR6. Graphics Card Ram Size: 6 GB. Graphics Card Interface: PCI Express. Connectivity Type: Wi-Fi. Wireless Type: Bluetooth. Number of USB 3.0 Ports: 4. Number of HDMI Ports: 4. Voltage: 10.8 Volts. Wattage: 10 Watts. Optical Drive Type: Not Available. Operating System: Windows 11. Average Battery Life (in hours): 6 Hours. Are Batteries Included: Yes. Lithium Battery Energy Content: 60 Watt Hours. Number of Lithium Ion Cells: 4. Country of Origin: China. Item Weight: 3 kg 580 g. Importer: Lenovo (India) Private Limited, RBD Icon, Level 2, Doddenakundi Village, Marathahalli Outer Ring Road, K. R. Puram Hobli, Bangalore 560037, Karnataka, India. Item Dimensions Lx Wx H: 8.7 x 35.7 x 54.1 Centimeters. Net Quantity: 1 Piece. Generic Name: Laptop.", "price": "\u20b975990"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/680f677d1c4297c634b0e8e9/wDvW1nPDukJ1KsQzNu3cd_1374x1167.png", "marketplace_url": "https://www.amazon.in/dp/B0CX8V9C7D/?_encoding=UTF8&ref_=cct_cg_Header_2b1&pf_rd_p=bc48548e-d126-43e5-8b09-5122c902b48c&pf_rd_r=ESAA0H83N3GBVTG5YNPT", "layout": "circular_focus"}, "banner_details": "\nThis promotional banner showcases a high-energy tech product with a futuristic theme. It features a dark gradient background with abstract wave shapes and subtle geometric accents. At the center is a prominent product image (`product_image`), placed over a soft glowing circular backdrop. The top layer displays a bold headline (`tagline`) using a modern, tech-oriented font in white, followed by a striking subheading (`heading`) in cyan. To the right, a vibrant circular badge highlights a special discount (`price`) with prominent typography. Supporting specs are provided at the bottom (`description`), and a bright call-to-action button (`cta_background` and `cta`) invites the user to take action.\n\n**Color Palette:**\n- Deep Navy Gradient: `#1a1a2e` \u2192 `#16213e`\n- Purple Accent Gradient: `#4a47a3` \u2192 `#7209b7`\n- Circle Highlight: `#4361ee` \u2192 `#3a0ca3`\n- Discount Badge: `#f72585` \u2192 `#7209b7`\n- Cyan Text: `#4cc9f0`\n- White Text: `#FFFFFF`\n", "product_color": "  \nThe product image exhibits a dynamic color palette dominated by shades of purple, black, neon green, and red, suited for a bold, high-performance tech advertisement. The background on screen features a vibrant purple gradient (#A9378F to #462066), creating visual depth while highlighting the motocross rider. The red \"New Launch\" tag (#D32F2F) instantly grabs attention. Neon green keyboard lights (#00FF99 to #ADFF2F) add a futuristic edge, complementing the NVIDIA green badge (#76B900). Black and dark gray laptop body (#2C2C2C) offers a sleek, professional base. White (#FFFFFF) text ensures high contrast and readability without clashing, unifying all colors into a cohesive tech aesthetic.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#1a1a2e'/><stop offset='100%' stop-color='#16213e'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4a47a3'/><stop offset='100%' stop-color='#7209b7'/></linearGradient><linearGradient id='circleGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#4361ee'/><stop offset='100%' stop-color='#3a0ca3'/></linearGradient><linearGradient id='priceGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#f72585'/><stop offset='100%' stop-color='#7209b7'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><path d='M0 300 Q540 200 1080 300 L1080 0 L0 0 Z' fill='url(#accentGradient)' opacity='0.7'/><path d='M0 800 Q540 900 1080 800 L1080 1080 L0 1080 Z' fill='url(#accentGradient)' opacity='0.7'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' opacity='0.85'/><circle cx='840' cy='400' r='120' fill='url(#priceGradient)'/><g opacity='0.2'><circle cx='100' cy='200' r='20' fill='#4cc9f0'/><circle cx='150' cy='300' r='15' fill='#4cc9f0'/><circle cx='200' cy='150' r='25' fill='#4cc9f0'/><circle cx='980' cy='200' r='20' fill='#4cc9f0'/><circle cx='930' cy='300' r='15' fill='#4cc9f0'/><circle cx='880' cy='150' r='25' fill='#4cc9f0'/><circle cx='100' cy='880' r='20' fill='#4cc9f0'/><circle cx='150' cy='930' r='15' fill='#4cc9f0'/><circle cx='200' cy='980' r='25' fill='#4cc9f0'/><circle cx='980' cy='880' r='20' fill='#4cc9f0'/><circle cx='930' cy='930' r='15' fill='#4cc9f0'/><circle cx='880' cy='980' r='25' fill='#4cc9f0'/></g><g opacity='0.3'><path d='M100 400 L150 450 L100 500 L50 450 Z' fill='#4cc9f0'/><path d='M980 400 L1030 450 L980 500 L930 450 Z' fill='#4cc9f0'/><path d='M100 680 L150 730 L100 780 L50 730 Z' fill='#4cc9f0'/><path d='M980 680 L1030 730 L980 780 L930 730 Z' fill='#4cc9f0'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 98.0,
+                "width": 884,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "EARLY BIRD OFFER",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 258.89,
+                "width": 562.22,
+                "height": 67.8,
+                "fill": "#4cc9f0",
+                "text": "LENOVO LOQ GAMING",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 61.67500000000001,
+                "width": 956.65,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "\u2022 13th Gen Intel i5 \u2022 RTX 3050 6GB \u2022 144Hz Display",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 318.27,
+                "left": 278.94,
+                "width": 522.12,
+                "height": 443.46,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/680f677d1c4297c634b0e8e9/wDvW1nPDukJ1KsQzNu3cd_1374x1167.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 335.25,
+                "left": 768.08,
+                "width": 143.84,
+                "height": 89.5,
+                "fill": "#FFFFFF",
+                "text": "\u20b975,990\n15% OFF",
+                "fontFamily": "Bagel Fat One-Regular",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 965.0,
+                "left": 420.0,
+                "width": 240,
+                "height": 70,
+                "fill": "#f72585",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 988.7,
+                "left": 456.31,
+                "width": 167.38,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW & SAVE",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Lenovo LOQ, Intel Core i5-13450HX, 13th Gen, NVIDIA RTX 3050-6GB, 16GB RAM, 512GB SSD, FHD 144Hz 300Nits, 15.6\"/39.6cm, Windows 11, MS Office 21, Grey, 2.4Kg, 83DV00BHIN, 100% sRGB Gaming Laptop",
+            "description": "Brand: Lenovo. Series: LOQ. Colour: LunaGray. Form Factor: Ultra-Portable. Item Height: 54.1 Centimeters. Item Width: 35.7 Centimeters. Standing screen display size: 15.6 Inches. Screen Resolution: 1920 x 1080 pixel. Resolution: 1920 x 1080. Product Dimensions: 8.7 x 35.7 x 54.1 cm; 3.58 kg. Batteries: 1 Lithium Polymer batteries required. (included). Processor Brand: Intel. Processor Type: Intel Core i5. Processor Speed: 2.4 GHz. Processor Count: 10. RAM Size: 16. Memory Technology: DDR5. Computer Memory Type: DDR5 RAM. Maximum Memory Supported: 32 GB. Hard Drive Size: 512 GB. Hard Disk Description: SSD. Hard Drive Interface: USB 3.2. Audio Details: Headphones. Speaker Description: 2 x 2W speakers with Nahimic Audio & Sound Tracker. Graphics Coprocessor: Intel. Graphics Chipset Brand: NVIDIA. Graphics Card Description: Dedicated. Graphics RAM Type: GDDR6. Graphics Card Ram Size: 6 GB. Graphics Card Interface: PCI Express. Connectivity Type: Wi-Fi. Wireless Type: Bluetooth. Number of USB 3.0 Ports: 4. Number of HDMI Ports: 4. Voltage: 10.8 Volts. Wattage: 10 Watts. Optical Drive Type: Not Available. Operating System: Windows 11. Average Battery Life (in hours): 6 Hours. Are Batteries Included: Yes. Lithium Battery Energy Content: 60 Watt Hours. Number of Lithium Ion Cells: 4. Country of Origin: China. Item Weight: 3 kg 580 g. Importer: Lenovo (India) Private Limited, RBD Icon, Level 2, Doddenakundi Village, Marathahalli Outer Ring Road, K. R. Puram Hobli, Bangalore 560037, Karnataka, India. Item Dimensions Lx Wx H: 8.7 x 35.7 x 54.1 Centimeters. Net Quantity: 1 Piece. Generic Name: Laptop.",
+            "price": "\u20b975990"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/680f677d1c4297c634b0e8e9/wDvW1nPDukJ1KsQzNu3cd_1374x1167.png",
+        "marketplace_url": "https://www.amazon.in/dp/B0CX8V9C7D/?_encoding=UTF8&ref_=cct_cg_Header_2b1&pf_rd_p=bc48548e-d126-43e5-8b09-5122c902b48c&pf_rd_r=ESAA0H83N3GBVTG5YNPT",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis promotional banner showcases a high-energy tech product with a futuristic theme. It features a dark gradient background with abstract wave shapes and subtle geometric accents. At the center is a prominent product image (`product_image`), placed over a soft glowing circular backdrop. The top layer displays a bold headline (`tagline`) using a modern, tech-oriented font in white, followed by a striking subheading (`heading`) in cyan. To the right, a vibrant circular badge highlights a special discount (`price`) with prominent typography. Supporting specs are provided at the bottom (`description`), and a bright call-to-action button (`cta_background` and `cta`) invites the user to take action.\n\n**Color Palette:**\n- Deep Navy Gradient: `#1a1a2e` \u2192 `#16213e`\n- Purple Accent Gradient: `#4a47a3` \u2192 `#7209b7`\n- Circle Highlight: `#4361ee` \u2192 `#3a0ca3`\n- Discount Badge: `#f72585` \u2192 `#7209b7`\n- Cyan Text: `#4cc9f0`\n- White Text: `#FFFFFF`\n",
+    "product_color": "  \nThe product image exhibits a dynamic color palette dominated by shades of purple, black, neon green, and red, suited for a bold, high-performance tech advertisement. The background on screen features a vibrant purple gradient (#A9378F to #462066), creating visual depth while highlighting the motocross rider. The red \"New Launch\" tag (#D32F2F) instantly grabs attention. Neon green keyboard lights (#00FF99 to #ADFF2F) add a futuristic edge, complementing the NVIDIA green badge (#76B900). Black and dark gray laptop body (#2C2C2C) offers a sleek, professional base. White (#FFFFFF) text ensures high contrast and readability without clashing, unifying all colors into a cohesive tech aesthetic.  \n"
+}

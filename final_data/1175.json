@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2C3E50'/><stop offset='100%' stop-color='#4B6584'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#3498DB'/><stop offset='100%' stop-color='#1ABC9C'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1'><circle cx='200' cy='200' r='150' fill='#ffffff'/><circle cx='880' cy='880' r='150' fill='#ffffff'/></g><g opacity='0.05'><rect x='0' y='250' width='1080' height='2' fill='#ffffff'/><rect x='0' y='500' width='1080' height='2' fill='#ffffff'/><rect x='0' y='750' width='1080' height='2' fill='#ffffff'/><rect x='250' y='0' width='2' height='1080' fill='#ffffff'/><rect x='500' y='0' width='2' height='1080' fill='#ffffff'/><rect x='750' y='0' width='2' height='1080' fill='#ffffff'/></g><path d='M0 850 L1080 850 L1080 1080 L0 1080 Z' fill='url(#accentGradient)' opacity='0.7'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 314.8, "width": 450.4, "height": 56.5, "fill": "#FFFFFF", "text": "FOLDIE TRAVEL BAG", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 130, "left": 135.06, "width": 809.88, "height": 33.9, "fill": "#A3D1FF", "text": "EXPANDABLE GYM & TRAVEL DUFFEL", "fontSize": 30, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 226.74, "left": 290.52, "width": 1386, "height": 1407, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/CFlOe12MJZsDP_8f1Lgu__1386x1407.png", "id": "product_image"}, {"type": "text", "top": 750, "left": 164.35000000000002, "width": 751.3, "height": 22.6, "fill": "#FFFFFF", "text": "SEPARATE SHOE COMPARTMENT \u2022 3 STORAGE SECTIONS \u2022 VERSATILE CARRY OPTIONS", "fontSize": 20, "fontFamily": "Fira Sans Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 815, "left": 431.6, "width": 216.8, "height": 90.4, "fill": "#FFFFFF", "text": "$33.99", "fontSize": 80, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#1ABC9C", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 938, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Foldie Travel Bag Expandable, Gym Bag with Shoe Compartment, Workout Bags for Gym with Straps Personal Item Travel Bag for Weekender Overnight, Duffel Bags for Traveling(Gray)", "description": "Product Dimensions: 17.72 x 7.87 x 13 inches. Item Weight: 1.87 pounds. Department: Unisex. Country of Origin: China. Number of Compartments: 3.", "price": "$33.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/CFlOe12MJZsDP_8f1Lgu__1386x1407.png", "marketplace_url": "https://a.co/d/5BTp7E7", "layout": "centered_hero"}, "banner_details": "\nThis promotional banner features a modern product layout for a travel duffel, prominently displaying a main product image at the center with supporting images. The backdrop is styled with a dark diagonal gradient, featuring soft geometric grid lines and faded white circular overlays for depth. The main title (layer: heading) is large and bold, grabbing attention, while a secondary subtitle (layer: subheading) in futuristic light blue font adds description. Below the product, a concise feature list (layer: description) in white text provides utility highlights. The bold price tag (layer: price) is placed centrally on a transparent gradient section, followed by a clear call-to-action button (layers: cta_button, cta) in vibrant green.\n\n**Color Palette:**\n- Deep Blue: #2C3E50  \n- Cool Slate: #4B6584  \n- Accent Blue: #3498DB  \n- Mint Green: #1ABC9C  \n- Light Blue Text: #A3D1FF  \n- White: #FFFFFF\n", "product_color": "\nThe product image features a sleek gym/travel bag primarily in shades of grey, giving it a modern, minimalist appearance. The main body is a light steel grey (#B0B5BC), contrasted by darker charcoal grey straps and accents (#4A4F54). These tones are well-balanced, offering visual depth without the need for bright colors. The brand logo is subtly embossed in a muted slate hue (#5A5F66), maintaining the professional and refined aesthetic. The white shoes peeking from the compartment (#FFFFFF) add a clean contrast and help draw attention to the utility feature. These harmonized greys create a professional, gender-neutral palette ideal for an advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2C3E50'/><stop offset='100%' stop-color='#4B6584'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#3498DB'/><stop offset='100%' stop-color='#1ABC9C'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.1'><circle cx='200' cy='200' r='150' fill='#ffffff'/><circle cx='880' cy='880' r='150' fill='#ffffff'/></g><g opacity='0.05'><rect x='0' y='250' width='1080' height='2' fill='#ffffff'/><rect x='0' y='500' width='1080' height='2' fill='#ffffff'/><rect x='0' y='750' width='1080' height='2' fill='#ffffff'/><rect x='250' y='0' width='2' height='1080' fill='#ffffff'/><rect x='500' y='0' width='2' height='1080' fill='#ffffff'/><rect x='750' y='0' width='2' height='1080' fill='#ffffff'/></g><path d='M0 850 L1080 850 L1080 1080 L0 1080 Z' fill='url(#accentGradient)' opacity='0.7'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 314.8,
+                "width": 450.4,
+                "height": 56.5,
+                "fill": "#FFFFFF",
+                "text": "FOLDIE TRAVEL BAG",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 130,
+                "left": 135.06,
+                "width": 809.88,
+                "height": 33.9,
+                "fill": "#A3D1FF",
+                "text": "EXPANDABLE GYM & TRAVEL DUFFEL",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 226.74,
+                "left": 290.52,
+                "width": 498.96,
+                "height": 506.52,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/CFlOe12MJZsDP_8f1Lgu__1386x1407.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 164.35000000000002,
+                "width": 751.3,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "SEPARATE SHOE COMPARTMENT \u2022 3 STORAGE SECTIONS \u2022 VERSATILE CARRY OPTIONS",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 815,
+                "left": 431.6,
+                "width": 216.8,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$33.99",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#1ABC9C",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 938,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Foldie Travel Bag Expandable, Gym Bag with Shoe Compartment, Workout Bags for Gym with Straps Personal Item Travel Bag for Weekender Overnight, Duffel Bags for Traveling(Gray)",
+            "description": "Product Dimensions: 17.72 x 7.87 x 13 inches. Item Weight: 1.87 pounds. Department: Unisex. Country of Origin: China. Number of Compartments: 3.",
+            "price": "$33.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/CFlOe12MJZsDP_8f1Lgu__1386x1407.png",
+        "marketplace_url": "https://a.co/d/5BTp7E7",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis promotional banner features a modern product layout for a travel duffel, prominently displaying a main product image at the center with supporting images. The backdrop is styled with a dark diagonal gradient, featuring soft geometric grid lines and faded white circular overlays for depth. The main title (layer: heading) is large and bold, grabbing attention, while a secondary subtitle (layer: subheading) in futuristic light blue font adds description. Below the product, a concise feature list (layer: description) in white text provides utility highlights. The bold price tag (layer: price) is placed centrally on a transparent gradient section, followed by a clear call-to-action button (layers: cta_button, cta) in vibrant green.\n\n**Color Palette:**\n- Deep Blue: #2C3E50  \n- Cool Slate: #4B6584  \n- Accent Blue: #3498DB  \n- Mint Green: #1ABC9C  \n- Light Blue Text: #A3D1FF  \n- White: #FFFFFF\n",
+    "product_color": "\nThe product image features a sleek gym/travel bag primarily in shades of grey, giving it a modern, minimalist appearance. The main body is a light steel grey (#B0B5BC), contrasted by darker charcoal grey straps and accents (#4A4F54). These tones are well-balanced, offering visual depth without the need for bright colors. The brand logo is subtly embossed in a muted slate hue (#5A5F66), maintaining the professional and refined aesthetic. The white shoes peeking from the compartment (#FFFFFF) add a clean contrast and help draw attention to the utility feature. These harmonized greys create a professional, gender-neutral palette ideal for an advertisement banner.\n"
+}

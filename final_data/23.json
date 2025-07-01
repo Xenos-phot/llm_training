@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0.0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='circleGradient' cx='540' cy='400' r='300' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='white' stop-opacity='0.2'/><stop offset='100%' stop-color='white' stop-opacity='0'/></radialGradient><radialGradient id='backgroundGradient' cx='640' cy='440' r='800' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#4FC3F7'/><stop offset='50%' stop-color='#2196F3'/><stop offset='100%' stop-color='#0D47A1'/></radialGradient><radialGradient id='priceGradient' cx='850' cy='550' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#E3F2FD'/><stop offset='100%' stop-color='#BBDEFB'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='850' cy='450' r='120' fill='url(#priceGradient)' stroke='#BBDEFB' stroke-width='3'/><circle cx='0' cy='620' r='100' fill='none' stroke='white' stroke-width='4'/><circle cx='950' cy='0' r='80' fill='none' stroke='white' stroke-width='4'/><line x1='150' y1='250' x2='250' y2='120' stroke='white' stroke-width='3'/><line x1='850' y1='750' x2='950' y2='620' stroke='white' stroke-width='3'/><line x1='150' y1='950' x2='250' y2='820' stroke='#E3F2FD' stroke-width='3'/></svg>", "id": "background"}, {"type": "text", "top": 30, "left": 99.32999999999998, "width": 881.34, "height": 90.4, "fill": "#FFFFFF", "text": "REVOLUTIONIZE YOUR LAUNDRY", "fontSize": 80, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 150, "left": 236.0, "width": 608, "height": 67.8, "fill": "#E3F2FD", "text": "Effortless Efficiency", "fontSize": 60, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 904, "left": 144.175, "width": 791.65, "height": 38.42, "fill": "#FFFFFF", "text": "\u2022 Energy Efficient \u2022 Multiple Wash Cycles \u2022 Smart Controls", "fontSize": 34, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "description"}, {"type": "image", "top": 260, "left": 369.19, "width": 899, "height": 1281, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/0fFmUg1SGJgiNYRf4Bx0B_899x1281.png", "id": "product_image"}, {"type": "text", "top": 430, "left": 737.91, "width": 224.18, "height": 79.1, "fill": "#0D47A1", "text": "$243", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#E3F2FD", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 997, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#0D47A1", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia High-Efficiency Digital Front Load Washer - Modern Laundry Revolution", "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Large capacity front-loading drum for efficient washing\n\u2022 Multiple wash cycles including Express, Delay, and Temperature control options\n\u2022 Energy-efficient operation with digital LED display showing remaining time\n\u2022 Customizable settings with easy-to-use selection dial\n\u2022 Advanced washing technology with multiple water level options\n\u2022 Durable construction with reinforced glass door and safety lock\n\u2022 Digital control panel with clear cycle indicators\n\u2022 Compact yet spacious design perfect for modern homes\n\u2022 Anti-vibration system with stabilizing feet for quiet operation\n\u2022 User-friendly interface with clear program descriptions\n\u2022 Energy Star compliant for reduced power consumption\n\u2022 Multiple temperature settings for various fabric types\n\u2022 Contemporary aesthetic that complements any laundry space", "price": "$243"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/0fFmUg1SGJgiNYRf4Bx0B_899x1281.png", "marketplace_url": "blob:https://studio.phot.ai/5813470b-30ea-42a0-8bc1-9fbad76586c1", "layout": "circular_focus"}, "banner_details": "\nThis banner features a clean, professional layout with a central focus on a high-resolution product image (id: `product_image`) of a washing machine. At the top, a prominent headline (id: `heading`) is styled in bold, uppercase white text, designed to immediately grab attention. Positioned below it is a softer subheading (id: `subheading`) in a light blue tone, aiming to convey modern efficiency. The price (id: `price`) is emphasized within a circular gradient badge, creating contrast with the rest of the layout. At the bottom, a features line (id: `description`) lists key product highlights, while a rectangular call-to-action button (ids: `cta_background`, `cta`) prompts user engagement.\n\n**Color Palette:**\n- Deep Blue: `#0D47A1`\n- Sky Blue: `#4FC3F7`\n- Light Blue: `#E3F2FD`\n- Gradient Mid Tone: `#2196F3`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image of the washing machine features a sleek and modern color palette dominated by clean white (#FFFFFF), classic black (#000000), and metallic gray (#A9A9A9). The front control panel includes a digital blue LED display (#00BFFF), adding a pop of vibrant tech-like energy to the overall design. These colors blend seamlessly to convey sophistication and functionality, while each shade is strategically highlighted \u2014 the white body contrasts sharply with the black circular door, drawing focus to the operational core. The subtle chrome texture around the knob adds a hint of elegance, ideal for an advertisement that emphasizes modern living and reliability.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0.0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><defs><radialGradient id='circleGradient' cx='540' cy='400' r='300' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='white' stop-opacity='0.2'/><stop offset='100%' stop-color='white' stop-opacity='0'/></radialGradient><radialGradient id='backgroundGradient' cx='640' cy='440' r='800' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#4FC3F7'/><stop offset='50%' stop-color='#2196F3'/><stop offset='100%' stop-color='#0D47A1'/></radialGradient><radialGradient id='priceGradient' cx='850' cy='550' r='120' gradientUnits='userSpaceOnUse'><stop offset='0%' stop-color='#E3F2FD'/><stop offset='100%' stop-color='#BBDEFB'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#backgroundGradient)'/><circle cx='540' cy='540' r='280' fill='white' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='540' cy='540' r='300' stroke-dasharray='15,15' stroke='white' stroke-width='3'/><circle cx='850' cy='450' r='120' fill='url(#priceGradient)' stroke='#BBDEFB' stroke-width='3'/><circle cx='0' cy='620' r='100' fill='none' stroke='white' stroke-width='4'/><circle cx='950' cy='0' r='80' fill='none' stroke='white' stroke-width='4'/><line x1='150' y1='250' x2='250' y2='120' stroke='white' stroke-width='3'/><line x1='850' y1='750' x2='950' y2='620' stroke='white' stroke-width='3'/><line x1='150' y1='950' x2='250' y2='820' stroke='#E3F2FD' stroke-width='3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 30,
+                "left": 99.32999999999998,
+                "width": 881.34,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "REVOLUTIONIZE YOUR LAUNDRY",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 150,
+                "left": 236.0,
+                "width": 608,
+                "height": 67.8,
+                "fill": "#E3F2FD",
+                "text": "Effortless Efficiency",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 904,
+                "left": 144.175,
+                "width": 791.65,
+                "height": 38.42,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Energy Efficient \u2022 Multiple Wash Cycles \u2022 Smart Controls",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 260,
+                "left": 369.19,
+                "width": 341.62,
+                "height": 486.78000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/0fFmUg1SGJgiNYRf4Bx0B_899x1281.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 430,
+                "left": 737.91,
+                "width": 224.18,
+                "height": 79.1,
+                "fill": "#0D47A1",
+                "text": "$243",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#E3F2FD",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 997,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#0D47A1",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia High-Efficiency Digital Front Load Washer - Modern Laundry Revolution",
+            "description": "\u2022 Sleek white design with modern digital display and intuitive controls\n\u2022 Large capacity front-loading drum for efficient washing\n\u2022 Multiple wash cycles including Express, Delay, and Temperature control options\n\u2022 Energy-efficient operation with digital LED display showing remaining time\n\u2022 Customizable settings with easy-to-use selection dial\n\u2022 Advanced washing technology with multiple water level options\n\u2022 Durable construction with reinforced glass door and safety lock\n\u2022 Digital control panel with clear cycle indicators\n\u2022 Compact yet spacious design perfect for modern homes\n\u2022 Anti-vibration system with stabilizing feet for quiet operation\n\u2022 User-friendly interface with clear program descriptions\n\u2022 Energy Star compliant for reduced power consumption\n\u2022 Multiple temperature settings for various fabric types\n\u2022 Contemporary aesthetic that complements any laundry space",
+            "price": "$243"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/0fFmUg1SGJgiNYRf4Bx0B_899x1281.png",
+        "marketplace_url": "blob:https://studio.phot.ai/5813470b-30ea-42a0-8bc1-9fbad76586c1",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a clean, professional layout with a central focus on a high-resolution product image (id: `product_image`) of a washing machine. At the top, a prominent headline (id: `heading`) is styled in bold, uppercase white text, designed to immediately grab attention. Positioned below it is a softer subheading (id: `subheading`) in a light blue tone, aiming to convey modern efficiency. The price (id: `price`) is emphasized within a circular gradient badge, creating contrast with the rest of the layout. At the bottom, a features line (id: `description`) lists key product highlights, while a rectangular call-to-action button (ids: `cta_background`, `cta`) prompts user engagement.\n\n**Color Palette:**\n- Deep Blue: `#0D47A1`\n- Sky Blue: `#4FC3F7`\n- Light Blue: `#E3F2FD`\n- Gradient Mid Tone: `#2196F3`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image of the washing machine features a sleek and modern color palette dominated by clean white (#FFFFFF), classic black (#000000), and metallic gray (#A9A9A9). The front control panel includes a digital blue LED display (#00BFFF), adding a pop of vibrant tech-like energy to the overall design. These colors blend seamlessly to convey sophistication and functionality, while each shade is strategically highlighted \u2014 the white body contrasts sharply with the black circular door, drawing focus to the operational core. The subtle chrome texture around the knob adds a hint of elegance, ideal for an advertisement that emphasizes modern living and reliability.  \n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2C3E50'/><g transform='translate(540 500) scale(1.8)'> <rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(0)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(15)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(30)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(45)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(60)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(75)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(90)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(105)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(120)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(135)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(150)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(165)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(180)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(195)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(210)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(225)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(240)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(255)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(270)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(285)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(300)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(315)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(330)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(345)'/></g><circle cx='540' cy='500' r='250' fill='none' stroke='#4A6572' stroke-width='2' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 186.39999999999998, "width": 707.2, "height": 135.6, "fill": "#FFFFFF", "text": "BELIEVE T-SHIRT", "fontSize": 120, "fontFamily": "Anton-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 225, "left": 251.575, "width": 576.85, "height": 56.5, "fill": "#B0BEC5", "text": "Wear Your Inspiration", "fontSize": 50, "fontFamily": "Montserrat Alternates Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 274.28, "left": 337.71, "width": 613, "height": 684, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/Da7L0pP4Xo-T0jZOWaBuI_613x684.png", "id": "product_image"}, {"type": "text", "top": 750, "left": 284.975, "width": 510.05, "height": 33.9, "fill": "#FFFFFF", "text": "Premium Cotton for All-Day Comfort", "fontSize": 30, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 820, "left": 451.57, "width": 176.86, "height": 79.1, "fill": "#F9A825", "text": "\u20b9233", "fontSize": 70, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 430.0, "width": 220, "height": 70, "fill": "#F9A825", "rx": 10, "ry": 10, "id": "cta_button_background"}, {"type": "text", "top": 939, "left": 467.13, "width": 145.74, "height": 31.64, "fill": "#2C3E50", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Inspirational 'Believe in Yourself' Premium Cotton T-Shirt", "description": "\u2022 Stylish navy blue color perfect for casual and motivational wear\n\u2022 Modern typography design with layered 'BELIEVE' text effect\n\u2022 High-quality cotton material for maximum comfort\n\u2022 Versatile round neck design suitable for all occasions\n\u2022 Empowering message that boosts confidence and self-belief\n\u2022 Durable print technology ensures long-lasting design\n\u2022 Easy to care for and machine washable\n\u2022 Available in multiple sizes for perfect fit\n\u2022 Ideal for both casual wear and workout sessions\n\u2022 Perfect gift for motivation seekers and self-improvement enthusiasts", "price": "\u20b9233"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/Da7L0pP4Xo-T0jZOWaBuI_613x684.png", "marketplace_url": "", "layout": "circular_focus"}, "banner_details": "\nThis banner showcases a stylish promotional layout for a T-shirt, using a clean and modern design. The header features a bold, uppercase title text (`heading`) positioned centrally at the top, followed by a subtler, elegant tagline (`tagline`) that invites inspiration. The main focal point is a product image (`product_image`) placed within a radial burst pattern that draws attention to the center. Additional supporting text (`description`) highlights product benefits below the image. A standout price tag (`price`) in vibrant color draws quick consumer attention, and directly beneath it is a brightly colored call-to-action button (`cta_button_background`) with centralized button text (`cta`) to encourage immediate interaction. \n\n**Color Palette:**\n- Deep Navy Blue: `#2C3E50`\n- Medium Grayish Blue: `#34495E`\n- Light Steel Blue: `#B0BEC5`\n- Warm Yellow: `#F9A825`\n- Pure White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a navy blue t-shirt featuring a motivational print design. The main background color is a deep navy blue (#0B1E3F), offering a calm and confident base tone. The text \"BELIEVE\" is repeated in a slightly lighter shade of slate blue (#35465C), providing a layered depth without overpowering the base color. The script text \"In yourself\" is in a smooth, light pastel grayish-blue (#C3CEDA), which stands out effortlessly while blending harmoniously with the darker tones. For an advertisement banner, a color palette of navy blue (#0B1E3F), slate blue (#35465C), and soft gray-blue (#C3CEDA) will maintain a sleek, modern, and inspirational aesthetic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2C3E50'/><g transform='translate(540 500) scale(1.8)'> <rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(0)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(15)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(30)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(45)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(60)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(75)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(90)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(105)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(120)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(135)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(150)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(165)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(180)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(195)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(210)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(225)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(240)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(255)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(270)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(285)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(300)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(315)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(330)'/><rect x='-5' y='-300' width='10' height='600' fill='#34495E' opacity='0.2' transform='rotate(345)'/></g><circle cx='540' cy='500' r='250' fill='none' stroke='#4A6572' stroke-width='2' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 186.39999999999998,
+                "width": 707.2,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "BELIEVE T-SHIRT",
+                "fontFamily": "Anton-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 225,
+                "left": 251.575,
+                "width": 576.85,
+                "height": 56.5,
+                "fill": "#B0BEC5",
+                "text": "Wear Your Inspiration",
+                "fontFamily": "Montserrat Alternates Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 274.28,
+                "left": 337.71,
+                "width": 404.58000000000004,
+                "height": 451.44,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/Da7L0pP4Xo-T0jZOWaBuI_613x684.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 284.975,
+                "width": 510.05,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "Premium Cotton for All-Day Comfort",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 451.57,
+                "width": 176.86,
+                "height": 79.1,
+                "fill": "#F9A825",
+                "text": "\u20b9233",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 430.0,
+                "width": 220,
+                "height": 70,
+                "fill": "#F9A825",
+                "rx": 10,
+                "ry": 10,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 939,
+                "left": 467.13,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#2C3E50",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Inspirational 'Believe in Yourself' Premium Cotton T-Shirt",
+            "description": "\u2022 Stylish navy blue color perfect for casual and motivational wear\n\u2022 Modern typography design with layered 'BELIEVE' text effect\n\u2022 High-quality cotton material for maximum comfort\n\u2022 Versatile round neck design suitable for all occasions\n\u2022 Empowering message that boosts confidence and self-belief\n\u2022 Durable print technology ensures long-lasting design\n\u2022 Easy to care for and machine washable\n\u2022 Available in multiple sizes for perfect fit\n\u2022 Ideal for both casual wear and workout sessions\n\u2022 Perfect gift for motivation seekers and self-improvement enthusiasts",
+            "price": "\u20b9233"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/Da7L0pP4Xo-T0jZOWaBuI_613x684.png",
+        "marketplace_url": "",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner showcases a stylish promotional layout for a T-shirt, using a clean and modern design. The header features a bold, uppercase title text (`heading`) positioned centrally at the top, followed by a subtler, elegant tagline (`tagline`) that invites inspiration. The main focal point is a product image (`product_image`) placed within a radial burst pattern that draws attention to the center. Additional supporting text (`description`) highlights product benefits below the image. A standout price tag (`price`) in vibrant color draws quick consumer attention, and directly beneath it is a brightly colored call-to-action button (`cta_button_background`) with centralized button text (`cta`) to encourage immediate interaction. \n\n**Color Palette:**\n- Deep Navy Blue: `#2C3E50`\n- Medium Grayish Blue: `#34495E`\n- Light Steel Blue: `#B0BEC5`\n- Warm Yellow: `#F9A825`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a navy blue t-shirt featuring a motivational print design. The main background color is a deep navy blue (#0B1E3F), offering a calm and confident base tone. The text \"BELIEVE\" is repeated in a slightly lighter shade of slate blue (#35465C), providing a layered depth without overpowering the base color. The script text \"In yourself\" is in a smooth, light pastel grayish-blue (#C3CEDA), which stands out effortlessly while blending harmoniously with the darker tones. For an advertisement banner, a color palette of navy blue (#0B1E3F), slate blue (#35465C), and soft gray-blue (#C3CEDA) will maintain a sleek, modern, and inspirational aesthetic.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F9F3E9'/><rect x='0' y='600' width='1080' height='480' fill='#E8D5B5' opacity='0.7'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#D4AF37' stroke-width='20' stroke-opacity='0.1'/><circle cx='200' cy='200' r='150' fill='#D4AF37' opacity='0.05'/><circle cx='880' cy='880' r='150' fill='#D4AF37' opacity='0.05'/><path d='M100 300 Q300 380 500 300 T900 380' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 340 Q300 420 500 340 T900 420' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 380 Q300 460 500 380 T900 460' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 700 Q300 780 500 700 T900 780' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 740 Q300 820 500 740 T900 820' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 780 Q300 860 500 780 T900 860' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><linearGradient id='gold1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D4AF37;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#FBE7A1;stop-opacity:0.1'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#gold1)'/></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 60, "width": 864.7, "height": 113, "fill": "#8B4513", "text": "ELEGANT GOLD", "fontSize": 100, "fontFamily": "Cinzel Black", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 60, "width": 638.12, "height": 101.7, "fill": "#C7913D", "text": "PEARL LUXURY", "fontSize": 90, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 350, "left": 60, "width": 395.31, "height": 183.51, "fill": "#6B4226", "text": "\u2022 Premium Gold-Plated Finish\n\u2022 Double Row Pearl Design\n\u2022 Unique Wave Structure\n\u2022 Perfect for All Occasions", "fontSize": 28, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "description"}, {"type": "image", "top": 290, "left": 550, "width": 735, "height": 1023, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/Yzxo8A15uX0Q5PzPGICmf_735x1023.png", "id": "product_image"}, {"type": "text", "top": 800, "left": 60, "width": 358.93, "height": 113, "fill": "#8B4513", "text": "\u20b9 1200", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 60, "width": 220, "height": 70, "fill": "#C7913D", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 968, "left": 93, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegant Pearl-Adorned Gold Wave Hoop Earrings - Timeless Luxury", "description": "\u2022 Premium gold-plated finish with high-gloss shine\n\u2022 Double row of delicate pearl embellishments\n\u2022 Unique wave design for sophisticated style\n\u2022 Comfortable curved hoop structure\n\u2022 Perfect blend of classic and contemporary design\n\u2022 Ideal for both formal and casual occasions\n\u2022 Secure post back closure\n\u2022 Lightweight and comfortable for all-day wear\n\u2022 Elegant mirror reflection effect in display\n\u2022 Exquisite craftsmanship with attention to detail\n\u2022 Versatile accessory that complements any outfit\n\u2022 Makes a perfect gift for special occasions", "price": "\u20b91200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/Yzxo8A15uX0Q5PzPGICmf_735x1023.png", "marketplace_url": "blob:https://staging-studio.phot.ai/e0c26901-e846-42c0-a4da-64167d241727", "layout": "split_vertical"}, "banner_details": "\nThis banner has a luxurious and elegant aesthetic designed to promote a premium jewelry product. The layout features a high-contrast split background: a light cream on the upper half blending into a muted gold-beige base on the lower half. The top-left corner holds a bold headline (`heading`) and a stylish serif subheading (`subheading`) to evoke sophistication. A refined bullet-point list (`description`) follows, highlighting features like material and design. The right side showcases a reflective product image (`product_image`) prominently. At the bottom left, the pricing (`price`) is displayed in bold, followed by a rectangular highlighted call-to-action button (`cta_button`) with the label (`cta`).\n\n**Color Palette:**\n- Soft Cream (#F9F3E9)\n- Warm Beige (#E8D5B5)\n- Rich Brown (#8B4513)\n- Gold Ochre (#C7913D)\n- White (#FFFFFF)\n- Accent Gold (#D4AF37)\n", "product_color": "  \nThe product image showcases a pair of elegant earrings that blend gold and pearl tones to create a luxurious aesthetic. The dominant color is a reflective **metallic gold** (#D4AF37), giving the earrings a rich and regal appeal. The embedded **pearl white** beads (#F8F8FF) add sophistication and contrast, enhancing the visual richness. Subtle **shadow accents** in **charcoal gray** (#4B4B4B) and **soft highlight glows** in **creamy beige** (#FAF3E0) allow the gold and pearls to stand out without looking flat. These colors are blended smoothly, with the high-shine gold and delicate pearls complementing each other. Ideal palette: #D4AF37, #F8F8FF, #FAF3E0, #4B4B4B.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F9F3E9'/><rect x='0' y='600' width='1080' height='480' fill='#E8D5B5' opacity='0.7'/><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='none' stroke='#D4AF37' stroke-width='20' stroke-opacity='0.1'/><circle cx='200' cy='200' r='150' fill='#D4AF37' opacity='0.05'/><circle cx='880' cy='880' r='150' fill='#D4AF37' opacity='0.05'/><path d='M100 300 Q300 380 500 300 T900 380' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 340 Q300 420 500 340 T900 420' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 380 Q300 460 500 380 T900 460' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 700 Q300 780 500 700 T900 780' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 740 Q300 820 500 740 T900 820' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 780 Q300 860 500 780 T900 860' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><linearGradient id='gold1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D4AF37;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#FBE7A1;stop-opacity:0.1'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#gold1)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 60,
+                "width": 864.7,
+                "height": 113,
+                "fill": "#8B4513",
+                "text": "ELEGANT GOLD",
+                "fontFamily": "Cinzel Black",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 60,
+                "width": 638.12,
+                "height": 101.7,
+                "fill": "#C7913D",
+                "text": "PEARL LUXURY",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 350,
+                "left": 60,
+                "width": 395.31,
+                "height": 183.51,
+                "fill": "#6B4226",
+                "text": "\u2022 Premium Gold-Plated Finish\n\u2022 Double Row Pearl Design\n\u2022 Unique Wave Structure\n\u2022 Perfect for All Occasions",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 290,
+                "left": 550,
+                "width": 426.29999999999995,
+                "height": 593.3399999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/Yzxo8A15uX0Q5PzPGICmf_735x1023.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 60,
+                "width": 358.93,
+                "height": 113,
+                "fill": "#8B4513",
+                "text": "\u20b9 1200",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#C7913D",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 968,
+                "left": 93,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegant Pearl-Adorned Gold Wave Hoop Earrings - Timeless Luxury",
+            "description": "\u2022 Premium gold-plated finish with high-gloss shine\n\u2022 Double row of delicate pearl embellishments\n\u2022 Unique wave design for sophisticated style\n\u2022 Comfortable curved hoop structure\n\u2022 Perfect blend of classic and contemporary design\n\u2022 Ideal for both formal and casual occasions\n\u2022 Secure post back closure\n\u2022 Lightweight and comfortable for all-day wear\n\u2022 Elegant mirror reflection effect in display\n\u2022 Exquisite craftsmanship with attention to detail\n\u2022 Versatile accessory that complements any outfit\n\u2022 Makes a perfect gift for special occasions",
+            "price": "\u20b91200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/Yzxo8A15uX0Q5PzPGICmf_735x1023.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/e0c26901-e846-42c0-a4da-64167d241727",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner has a luxurious and elegant aesthetic designed to promote a premium jewelry product. The layout features a high-contrast split background: a light cream on the upper half blending into a muted gold-beige base on the lower half. The top-left corner holds a bold headline (`heading`) and a stylish serif subheading (`subheading`) to evoke sophistication. A refined bullet-point list (`description`) follows, highlighting features like material and design. The right side showcases a reflective product image (`product_image`) prominently. At the bottom left, the pricing (`price`) is displayed in bold, followed by a rectangular highlighted call-to-action button (`cta_button`) with the label (`cta`).\n\n**Color Palette:**\n- Soft Cream (#F9F3E9)\n- Warm Beige (#E8D5B5)\n- Rich Brown (#8B4513)\n- Gold Ochre (#C7913D)\n- White (#FFFFFF)\n- Accent Gold (#D4AF37)\n",
+    "product_color": "  \nThe product image showcases a pair of elegant earrings that blend gold and pearl tones to create a luxurious aesthetic. The dominant color is a reflective **metallic gold** (#D4AF37), giving the earrings a rich and regal appeal. The embedded **pearl white** beads (#F8F8FF) add sophistication and contrast, enhancing the visual richness. Subtle **shadow accents** in **charcoal gray** (#4B4B4B) and **soft highlight glows** in **creamy beige** (#FAF3E0) allow the gold and pearls to stand out without looking flat. These colors are blended smoothly, with the high-shine gold and delicate pearls complementing each other. Ideal palette: #D4AF37, #F8F8FF, #FAF3E0, #4B4B4B.  \n"
+}

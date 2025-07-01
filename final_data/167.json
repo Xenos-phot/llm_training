@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E6F4F9'/><stop offset='100%' stop-color='#C5E8F0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.08'><circle cx='200' cy='200' r='250' fill='#1A6B8F'/><circle cx='880' cy='880' r='250' fill='#1A6B8F'/></g><g opacity='0.08'><path d='M0,300 L1080,300' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M0,600 L1080,600' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M0,900 L1080,900' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M300,0 L300,1080' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M600,0 L600,1080' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M900,0 L900,1080' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/></g><g opacity='0.1'><circle cx='100' cy='100' r='8' fill='#1A6B8F'/><circle cx='150' cy='150' r='7' fill='#1A6B8F'/><circle cx='200' cy='200' r='6' fill='#1A6B8F'/><circle cx='980' cy='100' r='8' fill='#1A6B8F'/><circle cx='930' cy='150' r='7' fill='#1A6B8F'/><circle cx='880' cy='200' r='6' fill='#1A6B8F'/><circle cx='100' cy='980' r='8' fill='#1A6B8F'/><circle cx='150' cy='930' r='7' fill='#1A6B8F'/><circle cx='200' cy='880' r='6' fill='#1A6B8F'/><circle cx='980' cy='980' r='8' fill='#1A6B8F'/><circle cx='930' cy='930' r='7' fill='#1A6B8F'/><circle cx='880' cy='880' r='6' fill='#1A6B8F'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 90.64999999999998, "width": 898.7, "height": 54.24, "fill": "#1A6B8F", "text": "INSIGNIA\u2122 SMART DRYER", "fontSize": 48, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 140, "left": 249.64999999999998, "width": 580.7, "height": 31.64, "fill": "#3D8CA7", "text": "Energy-Efficient Fabric Care Technology", "fontSize": 28, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 202.84, "left": 373.685, "width": 899, "height": 1336, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/oHecSyj82QUx6Vvgz4LZv_899x1336.png", "id": "product_image"}, {"type": "text", "top": 720, "left": 155.125, "width": 769.75, "height": 24.86, "fill": "#1A6B8F", "text": "Advanced Heat Pump Technology \u2022 Multiple Drying Cycles \u2022 Smart Controls", "fontSize": 22, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 780, "left": 312.15999999999997, "width": 455.68, "height": 31.64, "fill": "#3D8CA7", "text": "Elevate Your Laundry Experience", "fontSize": 28, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "tagline"}, {"type": "text", "top": 850, "left": 470.155, "width": 139.69, "height": 79.1, "fill": "#1A6B8F", "text": "$380", "fontSize": 70, "fontFamily": "Teko Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 950, "left": 420.0, "width": 240, "height": 60, "fill": "#1A6B8F", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 965.31, "left": 472.265, "width": 135.47, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia\u2122 Modern Smart Heat Pump Dryer - Energy-Efficient Fabric Care", "description": "\u2022 Advanced Digital Display with LED Screen for Easy Operation\n\u2022 Multiple Drying Cycles Including My Cycle, Mixed Load, Heavy Duty & Delicates\n\u2022 Energy-Efficient Heat Pump Technology for Cost Savings\n\u2022 Sleek White Design with Modern Black Glass Door\n\u2022 Large Capacity Drum for Family-Sized Loads\n\u2022 Smart Temperature Control with Multiple Heat Settings\n\u2022 Convenient Maintenance Access Panel\n\u2022 Built-in Ventilation System\n\u2022 User-Friendly Control Dial with Multiple Program Options\n\u2022 Compact Yet Powerful Design Perfect for Any Laundry Space\n\u2022 Clear Digital Timer Display for Cycle Monitoring\n\u2022 Wrinkle Prevention Feature Available\n\u2022 Easy-Access Lint Filter for Simple Maintenance", "price": "$380"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/oHecSyj82QUx6Vvgz4LZv_899x1336.png", "marketplace_url": "blob:https://studio.phot.ai/1200b248-d43e-4719-a04e-f9bb5aab7d12", "layout": "centered_hero"}, "banner_details": "\nThe banner features a sleek and modern promotional design for a home appliance. It contains a clean, gradient blue background accented with large, semi-transparent geometric circles and a dotted grid pattern for a subtle high-tech feel. Centered is a detailed product image showcasing the appliance. At the top, a prominent text layer (id: \"heading\") introduces the product name, followed by a bold tagline layer (id: \"subheading\") emphasizing its energy-efficient capabilities. Below the product, another descriptive line (id: \"description\") lists features in a compact format. A motivational phrase (id: \"tagline\") is positioned above a bold price tag (id: \"price\"), and a call-to-action button (id: \"cta_button\") with overlaying text (id: \"cta\") drives engagement. \n\n**Color Palette:**  \n- Light Sky Blue Gradient: `#E6F4F9` to `#C5E8F0`  \n- Deep Teal Blue: `#1A6B8F`  \n- Soft Ocean Blue: `#3D8CA7`  \n- White: `#FFFFFF`\n", "product_color": "\nThe product image showcases a modern front-load dryer with a sleek and minimalistic design. The dominant color is a crisp White (#FFFFFF), creating a clean and contemporary aesthetic. It\u2019s contrasted sharply by the Black (#000000) door and control panel, which add visual depth and focus. Accents such as the chrome ring around the dial incorporate a cool Silver Gray (#C0C0C0), while the control indicators use subtle Blue (#3AA6D0) and Red (#E94545) highlights for function categorization. The colors blend seamlessly for functional clarity, while contrast ensures highlight areas\u2014like the display screen\u2014remain prominent. This palette is ideal for a tech-focused, modern advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#E6F4F9'/><stop offset='100%' stop-color='#C5E8F0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.08'><circle cx='200' cy='200' r='250' fill='#1A6B8F'/><circle cx='880' cy='880' r='250' fill='#1A6B8F'/></g><g opacity='0.08'><path d='M0,300 L1080,300' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M0,600 L1080,600' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M0,900 L1080,900' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M300,0 L300,1080' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M600,0 L600,1080' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/><path d='M900,0 L900,1080' stroke='#1A6B8F' stroke-width='2' stroke-dasharray='15,10'/></g><g opacity='0.1'><circle cx='100' cy='100' r='8' fill='#1A6B8F'/><circle cx='150' cy='150' r='7' fill='#1A6B8F'/><circle cx='200' cy='200' r='6' fill='#1A6B8F'/><circle cx='980' cy='100' r='8' fill='#1A6B8F'/><circle cx='930' cy='150' r='7' fill='#1A6B8F'/><circle cx='880' cy='200' r='6' fill='#1A6B8F'/><circle cx='100' cy='980' r='8' fill='#1A6B8F'/><circle cx='150' cy='930' r='7' fill='#1A6B8F'/><circle cx='200' cy='880' r='6' fill='#1A6B8F'/><circle cx='980' cy='980' r='8' fill='#1A6B8F'/><circle cx='930' cy='930' r='7' fill='#1A6B8F'/><circle cx='880' cy='880' r='6' fill='#1A6B8F'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 90.64999999999998,
+                "width": 898.7,
+                "height": 54.24,
+                "fill": "#1A6B8F",
+                "text": "INSIGNIA\u2122 SMART DRYER",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 140,
+                "left": 249.64999999999998,
+                "width": 580.7,
+                "height": 31.64,
+                "fill": "#3D8CA7",
+                "text": "Energy-Efficient Fabric Care Technology",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 202.84,
+                "left": 373.685,
+                "width": 332.63,
+                "height": 494.32,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/oHecSyj82QUx6Vvgz4LZv_899x1336.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 720,
+                "left": 155.125,
+                "width": 769.75,
+                "height": 24.86,
+                "fill": "#1A6B8F",
+                "text": "Advanced Heat Pump Technology \u2022 Multiple Drying Cycles \u2022 Smart Controls",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 312.15999999999997,
+                "width": 455.68,
+                "height": 31.64,
+                "fill": "#3D8CA7",
+                "text": "Elevate Your Laundry Experience",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 850,
+                "left": 470.155,
+                "width": 139.69,
+                "height": 79.1,
+                "fill": "#1A6B8F",
+                "text": "$380",
+                "fontFamily": "Teko Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 420.0,
+                "width": 240,
+                "height": 60,
+                "fill": "#1A6B8F",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 965.31,
+                "left": 472.265,
+                "width": 135.47,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia\u2122 Modern Smart Heat Pump Dryer - Energy-Efficient Fabric Care",
+            "description": "\u2022 Advanced Digital Display with LED Screen for Easy Operation\n\u2022 Multiple Drying Cycles Including My Cycle, Mixed Load, Heavy Duty & Delicates\n\u2022 Energy-Efficient Heat Pump Technology for Cost Savings\n\u2022 Sleek White Design with Modern Black Glass Door\n\u2022 Large Capacity Drum for Family-Sized Loads\n\u2022 Smart Temperature Control with Multiple Heat Settings\n\u2022 Convenient Maintenance Access Panel\n\u2022 Built-in Ventilation System\n\u2022 User-Friendly Control Dial with Multiple Program Options\n\u2022 Compact Yet Powerful Design Perfect for Any Laundry Space\n\u2022 Clear Digital Timer Display for Cycle Monitoring\n\u2022 Wrinkle Prevention Feature Available\n\u2022 Easy-Access Lint Filter for Simple Maintenance",
+            "price": "$380"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/6731bafa57d9d05a096728f8/oHecSyj82QUx6Vvgz4LZv_899x1336.png",
+        "marketplace_url": "blob:https://studio.phot.ai/1200b248-d43e-4719-a04e-f9bb5aab7d12",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner features a sleek and modern promotional design for a home appliance. It contains a clean, gradient blue background accented with large, semi-transparent geometric circles and a dotted grid pattern for a subtle high-tech feel. Centered is a detailed product image showcasing the appliance. At the top, a prominent text layer (id: \"heading\") introduces the product name, followed by a bold tagline layer (id: \"subheading\") emphasizing its energy-efficient capabilities. Below the product, another descriptive line (id: \"description\") lists features in a compact format. A motivational phrase (id: \"tagline\") is positioned above a bold price tag (id: \"price\"), and a call-to-action button (id: \"cta_button\") with overlaying text (id: \"cta\") drives engagement. \n\n**Color Palette:**  \n- Light Sky Blue Gradient: `#E6F4F9` to `#C5E8F0`  \n- Deep Teal Blue: `#1A6B8F`  \n- Soft Ocean Blue: `#3D8CA7`  \n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image showcases a modern front-load dryer with a sleek and minimalistic design. The dominant color is a crisp White (#FFFFFF), creating a clean and contemporary aesthetic. It\u2019s contrasted sharply by the Black (#000000) door and control panel, which add visual depth and focus. Accents such as the chrome ring around the dial incorporate a cool Silver Gray (#C0C0C0), while the control indicators use subtle Blue (#3AA6D0) and Red (#E94545) highlights for function categorization. The colors blend seamlessly for functional clarity, while contrast ensures highlight areas\u2014like the display screen\u2014remain prominent. This palette is ideal for a tech-focused, modern advertisement banner.\n"
+}

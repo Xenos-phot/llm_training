@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F0E6DD'/><rect x='0' y='0' width='540' height='540' fill='#E6D5C8'/><rect x='540' y='0' width='540' height='540' fill='#D6C3B6'/><rect x='0' y='540' width='540' height='540' fill='#C0AA9A'/><rect x='540' y='540' width='540' height='540' fill='#D6C3B6'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#8B7D75' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#8B7D75' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#8B7D75' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#8B7D75' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#8B7D75' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#8B7D75' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#8B7D75' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#8B7D75' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#8B7D75' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#8B7D75' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#8B7D75' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#8B7D75' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#8B7D75' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#8B7D75' stroke-width='2'/></g><circle cx='150' cy='150' r='60' fill='#8B7D75' opacity='0.1'/><circle cx='930' cy='930' r='80' fill='#8B7D75' opacity='0.1'/><path d='M540 0 L540 1080' stroke='#8B7D75' stroke-width='0.5'/><path d='M0 540 L1080 540' stroke='#8B7D75' stroke-width='0.5'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 50, "width": 457.12, "height": 180.8, "fill": "#5D4A41", "text": "LUXE WOOL\nCOAT", "fontSize": 80, "fontFamily": "Playfair Display Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 250, "left": 50, "width": 404.19, "height": 40.68, "fill": "#8B7D75", "text": "TIMELESS ELEGANCE", "fontSize": 36, "fontFamily": "Montserrat Alternates Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 419.9, "height": 174.02, "fill": "#5D4A41", "text": "\u2022 Premium Wool-Blend Construction\n\u2022 Sophisticated Camel Color\n\u2022 Oversized Silhouette Design\n\u2022 Single-Button Closure", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "image", "top": 80, "left": 640, "width": 423, "height": 1271, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ef4ahO8axcsW5G_8chf6d_423x1271.png", "id": "product_image"}, {"type": "text", "top": 820, "left": 50, "width": 213.4, "height": 90.4, "fill": "#5D4A41", "text": "$1200", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 50, "width": 220, "height": 60, "fill": "#5D4A41", "rx": 2, "ry": 2, "id": "cta_button_background"}, {"type": "text", "top": 965, "left": 85, "width": 160.29, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "Montserrat Alternates Regular", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Luxe Oversized Camel Wool Coat - Timeless Elegance for Modern Professionals", "description": "\u2022 Premium quality wool-blend construction for warmth and durability\n\u2022 Sophisticated camel color perfect for versatile styling\n\u2022 Oversized silhouette with dropped shoulders for contemporary appeal\n\u2022 Wide lapel collar design adds classic sophistication\n\u2022 Single-button closure for effortless wear\n\u2022 Deep side pockets for functionality\n\u2022 Rolled cuff detail for refined finishing\n\u2022 Mid-length cut suitable for both casual and formal occasions\n\u2022 Perfect layering piece for fall/winter wardrobe\n\u2022 Available in sizes XS-XL for inclusive fit options\n\u2022 Easy-care fabric blend maintains shape after wear\n\u2022 Pairs beautifully with office wear and weekend attire", "price": "$1200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ef4ahO8axcsW5G_8chf6d_423x1271.png", "marketplace_url": "", "layout": "split_vertical"}, "banner_details": "  \nThe banner features a modern, fashion-forward layout with a balanced grid background split into soft beige tones, arranged in quadrants. The left section includes three main text elements: a prominent headline (`heading`) rendered in a classic serif font, a stylish tagline (`tagline`) in a sleek sans-serif typeface, and a detailed product description (`description`) highlighting features of a luxury coat. The right section showcases an image of a model in the product (`product_image`). The price is emphasized in bold typography (`price`) above a dark button (`cta_button_background`) that includes a clear call-to-action (`cta`). The design blends elegance with clarity, perfect for high-end product showcases.\n\n**Color Palette:**  \n- Warm Beige (#F0E6DD)  \n- Soft Blush (#E6D5C8)  \n- Neutral Taupe (#D6C3B6)  \n- Camel Brown (#C0AA9A)  \n- Rich Mocha (#5D4A41)  \n- Accent Grey (#8B7D75)  \n- White (#FFFFFF)\n\n", "product_color": "\nThe product image showcases an elegant, neutral-toned outfit ideal for sophisticated fashion advertising. The color palette is grounded in warm, earthy neutrals. The camel beige coat (#C8A98D) serves as the dominant color, presenting luxury and warmth. The trousers complement with a slightly darker taupe brown (#A48C75), creating depth without disrupting harmony. The crisp white blouse (#FFFFFF) adds contrast to the subdued palette, enhancing brightness and cleanliness. Accessories, including gold buttons (#D4AF37) and muted emerald green heels (#2F4D45), accentuate the ensemble with subtle contrast. This palette blends seamlessly while distinctive color highlights boost attention and visual interest in a minimalistic fashion banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F0E6DD'/><rect x='0' y='0' width='540' height='540' fill='#E6D5C8'/><rect x='540' y='0' width='540' height='540' fill='#D6C3B6'/><rect x='0' y='540' width='540' height='540' fill='#C0AA9A'/><rect x='540' y='540' width='540' height='540' fill='#D6C3B6'/><g opacity='0.1'><path d='M0 140 L1080 140' stroke='#8B7D75' stroke-width='2'/><path d='M0 280 L1080 280' stroke='#8B7D75' stroke-width='2'/><path d='M0 420 L1080 420' stroke='#8B7D75' stroke-width='2'/><path d='M0 560 L1080 560' stroke='#8B7D75' stroke-width='2'/><path d='M0 700 L1080 700' stroke='#8B7D75' stroke-width='2'/><path d='M0 840 L1080 840' stroke='#8B7D75' stroke-width='2'/><path d='M0 980 L1080 980' stroke='#8B7D75' stroke-width='2'/><path d='M140 0 L140 1080' stroke='#8B7D75' stroke-width='2'/><path d='M280 0 L280 1080' stroke='#8B7D75' stroke-width='2'/><path d='M420 0 L420 1080' stroke='#8B7D75' stroke-width='2'/><path d='M560 0 L560 1080' stroke='#8B7D75' stroke-width='2'/><path d='M700 0 L700 1080' stroke='#8B7D75' stroke-width='2'/><path d='M840 0 L840 1080' stroke='#8B7D75' stroke-width='2'/><path d='M980 0 L980 1080' stroke='#8B7D75' stroke-width='2'/></g><circle cx='150' cy='150' r='60' fill='#8B7D75' opacity='0.1'/><circle cx='930' cy='930' r='80' fill='#8B7D75' opacity='0.1'/><path d='M540 0 L540 1080' stroke='#8B7D75' stroke-width='0.5'/><path d='M0 540 L1080 540' stroke='#8B7D75' stroke-width='0.5'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 50,
+                "width": 457.12,
+                "height": 180.8,
+                "fill": "#5D4A41",
+                "text": "LUXE WOOL\nCOAT",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 250,
+                "left": 50,
+                "width": 404.19,
+                "height": 40.68,
+                "fill": "#8B7D75",
+                "text": "TIMELESS ELEGANCE",
+                "fontFamily": "Montserrat Alternates Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 419.9,
+                "height": 174.02,
+                "fill": "#5D4A41",
+                "text": "\u2022 Premium Wool-Blend Construction\n\u2022 Sophisticated Camel Color\n\u2022 Oversized Silhouette Design\n\u2022 Single-Button Closure",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 80,
+                "left": 640,
+                "width": 317.25,
+                "height": 953.25,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ef4ahO8axcsW5G_8chf6d_423x1271.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 213.4,
+                "height": 90.4,
+                "fill": "#5D4A41",
+                "text": "$1200",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 50,
+                "width": 220,
+                "height": 60,
+                "fill": "#5D4A41",
+                "rx": 2,
+                "ry": 2,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 85,
+                "width": 160.29,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "Montserrat Alternates Regular",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Luxe Oversized Camel Wool Coat - Timeless Elegance for Modern Professionals",
+            "description": "\u2022 Premium quality wool-blend construction for warmth and durability\n\u2022 Sophisticated camel color perfect for versatile styling\n\u2022 Oversized silhouette with dropped shoulders for contemporary appeal\n\u2022 Wide lapel collar design adds classic sophistication\n\u2022 Single-button closure for effortless wear\n\u2022 Deep side pockets for functionality\n\u2022 Rolled cuff detail for refined finishing\n\u2022 Mid-length cut suitable for both casual and formal occasions\n\u2022 Perfect layering piece for fall/winter wardrobe\n\u2022 Available in sizes XS-XL for inclusive fit options\n\u2022 Easy-care fabric blend maintains shape after wear\n\u2022 Pairs beautifully with office wear and weekend attire",
+            "price": "$1200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/ef4ahO8axcsW5G_8chf6d_423x1271.png",
+        "marketplace_url": "",
+        "layout": "split_vertical"
+    },
+    "banner_details": "  \nThe banner features a modern, fashion-forward layout with a balanced grid background split into soft beige tones, arranged in quadrants. The left section includes three main text elements: a prominent headline (`heading`) rendered in a classic serif font, a stylish tagline (`tagline`) in a sleek sans-serif typeface, and a detailed product description (`description`) highlighting features of a luxury coat. The right section showcases an image of a model in the product (`product_image`). The price is emphasized in bold typography (`price`) above a dark button (`cta_button_background`) that includes a clear call-to-action (`cta`). The design blends elegance with clarity, perfect for high-end product showcases.\n\n**Color Palette:**  \n- Warm Beige (#F0E6DD)  \n- Soft Blush (#E6D5C8)  \n- Neutral Taupe (#D6C3B6)  \n- Camel Brown (#C0AA9A)  \n- Rich Mocha (#5D4A41)  \n- Accent Grey (#8B7D75)  \n- White (#FFFFFF)\n\n",
+    "product_color": "\nThe product image showcases an elegant, neutral-toned outfit ideal for sophisticated fashion advertising. The color palette is grounded in warm, earthy neutrals. The camel beige coat (#C8A98D) serves as the dominant color, presenting luxury and warmth. The trousers complement with a slightly darker taupe brown (#A48C75), creating depth without disrupting harmony. The crisp white blouse (#FFFFFF) adds contrast to the subdued palette, enhancing brightness and cleanliness. Accessories, including gold buttons (#D4AF37) and muted emerald green heels (#2F4D45), accentuate the ensemble with subtle contrast. This palette blends seamlessly while distinctive color highlights boost attention and visual interest in a minimalistic fashion banner.\n"
+}

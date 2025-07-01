@@ -10,7 +10,7 @@ import uuid
 
 dotenv.load_dotenv()
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from preprocessing_scripts.render_banner import render_banner
+from banner_utils.render_banner import render_banner
 from banner_utils.image_processor import ImageProcessor
 
 
@@ -82,7 +82,7 @@ class AddRenderedImage:
         """Open the Google Spreadsheet"""
         try:
             self.spreadsheet = self.gc.open(self.spreadsheet_name)
-            self.worksheet = self.spreadsheet.sheet1  # Use first sheet
+            self.worksheet = self.spreadsheet.get_worksheet(2)  # Use first sheet
             print(f"Successfully opened spreadsheet: {self.spreadsheet_name}")
             return True
         except Exception as e:
@@ -236,11 +236,11 @@ class AddRenderedImage:
                 return
                 
             # Create IMAGE formula for Google Sheets
-            image_formula = f'=IMAGE("{wasabi_url}")'
+            image_formula = "=IMAGE(\"" + wasabi_url + "\")"
             
-            # Update the cell
+            # Update the cell with raw=False to allow formula interpretation
             cell_range = gspread.utils.rowcol_to_a1(row_num, image_col)
-            self.worksheet.update(cell_range, [[image_formula]])
+            self.worksheet.update(cell_range, [[image_formula]], raw=False)
             
             print(f"    Updated {layout} image column with rendered banner")
             

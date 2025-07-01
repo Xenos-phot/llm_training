@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#3A1078'/><stop offset='100%' stop-color='#4E31AA'/></linearGradient><radialGradient id='spotlightGradient' cx='50%' cy='40%' r='50%' fx='50%' fy='40%'><stop offset='0%' stop-color='rgba(255,255,255,0.2)'/><stop offset='100%' stop-color='rgba(255,255,255,0)'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='432' r='380' fill='url(#spotlightGradient)'/><g opacity='0.6'><path d='M0,800 Q270,750 540,800 T1080,780' stroke='#6357CC' stroke-width='4' fill='none'/><path d='M0,820 Q270,770 540,820 T1080,800' stroke='#6357CC' stroke-width='3' fill='none'/><path d='M0,840 Q270,790 540,840 T1080,820' stroke='#6357CC' stroke-width='2' fill='none'/></g><g opacity='0.8'><rect x='10' y='10' width='15' height='15' fill='#FF9F29'/><rect x='35' y='10' width='15' height='15' fill='#FF9F29'/><rect x='10' y='35' width='15' height='15' fill='#FF9F29'/><rect x='35' y='35' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='10' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='10' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='35' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='35' width='15' height='15' fill='#FF9F29'/><rect x='10' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='35' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='10' y='1010' width='15' height='15' fill='#FF9F29'/><rect x='35' y='1010' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='1010' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='1010' width='15' height='15' fill='#FF9F29'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 233.45, "width": 613.1, "height": 135.6, "fill": "#FF9F29", "text": "EARLY BIRD", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 350.98, "width": 378.04, "height": 90.4, "fill": "#FFFFFF", "text": "DISCOUNT", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 280, "left": 311.735, "width": 456.53, "height": 33.9, "fill": "#FFFFFF", "text": "Premium Over-Ear Headphones", "fontSize": 30, "fontFamily": "Raleway Bold", "textAlign": "center", "id": "product_title"}, {"type": "image", "top": 355.57499999999993, "left": 403.97499999999997, "width": 607, "height": 1031, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/LR83IdCKogfN1NYcwfFZA_607x1031.png", "id": "product_image"}, {"type": "text", "top": 750, "left": 166.075, "width": 747.85, "height": 28.25, "fill": "#FFFFFF", "text": "Studio Quality Sound \u2022 Ultimate Comfort \u2022 Foldable Design", "fontSize": 25, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "features"}, {"type": "text", "top": 810, "left": 379.72, "width": 320.56, "height": 124.3, "fill": "#FF9F29", "text": "\u20b92999", "fontSize": 110, "fontFamily": "Sansita Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 790, "left": 355.51, "width": 368.98, "height": 22.6, "fill": "#FFFFFF", "text": "DON'T MISS OUT! LIMITED TIME OFFER", "fontSize": 20, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "urgency_text"}, {"type": "rect", "top": 950, "left": 343.7, "width": 392.6, "height": 50.7, "fill": "#FF9F29", "rx": 5, "ry": 5, "id": "cta_button_background"}, {"type": "text", "top": 958, "left": 387.09000000000003, "width": 303.82, "height": 36.16, "fill": "#3A1078", "text": "GRAB YOURS TODAY!", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Over-Ear Headphones - Studio Quality Sound & Ultimate Comfort", "description": "\u2022 Professional-grade over-ear design for superior sound isolation\n\u2022 Plush memory foam ear cushions for extended listening comfort\n\u2022 Durable padded headband with adjustable fit\n\u2022 High-quality wired connection for stable audio transmission\n\u2022 Foldable design for easy storage and portability\n\u2022 Deep bass response with balanced audio spectrum\n\u2022 Sleek matte black finish for professional appearance\n\u2022 Ergonomically designed ear cups for optimal sound delivery\n\u2022 Heavy-duty cable for lasting durability\n\u2022 Perfect for studio monitoring, gaming, and everyday music enjoyment", "price": "\u20b92999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/LR83IdCKogfN1NYcwfFZA_607x1031.png", "marketplace_url": "", "layout": "centered_hero"}, "banner_details": "\nThis banner presents a visually striking promotional layout with a central emphasis on a featured product image (`product_image`), which is a pair of premium over-ear headphones. The composition is vertically aligned, starting with a powerful main headline (`heading`) at the top in bold orange, followed by a white subheading (`subheading`) and a short product descriptor (`product_title`).\n\nThe visual hierarchy is extended by showcasing key selling points in a text layer (`features`) beneath the product, drawing attention to sound quality and comfort. A strong call-to-action area is situated at the bottom, with pricing (`price`) in large orange font, emphasized urgency (`urgency_text`) in white, and a rectangular orange button (`cta_button_background`) with contrasting call-to-action text (`cta`) in deep purple. The background SVG includes a purple gradient overlay, radial light effects, wave accents, and orange square motifs on corners, adding depth and digital flair.\n\n**Color Palette:**\n- Deep Purple: `#3A1078`\n- Medium Purple: `#4E31AA`\n- Accent Orange: `#FF9F29`\n- Soft Violet Lines: `#6357CC`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image showcases sleek, over-ear headphones designed with a minimalist monochrome palette dominated by deep charcoal and soft graphite shades. Key colors include Matte Black (#1C1C1C), Gunmetal Gray (#2F2F2F), and Industrial Silver (#A9A9A9). These tones are expertly blended through smooth transitions in the headband and earcups, while polished metallic elements subtly highlight the contours. The use of shadows and reflective accents enhances depth and sophistication. For an ad banner, combine these grayscale hues with a pop color like Electric Blue (#007BFF) or Signal Red (#FF3D3D) to create contrast and draw attention effectively while preserving the product\u2019s premium aesthetic.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#3A1078'/><stop offset='100%' stop-color='#4E31AA'/></linearGradient><radialGradient id='spotlightGradient' cx='50%' cy='40%' r='50%' fx='50%' fy='40%'><stop offset='0%' stop-color='rgba(255,255,255,0.2)'/><stop offset='100%' stop-color='rgba(255,255,255,0)'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='432' r='380' fill='url(#spotlightGradient)'/><g opacity='0.6'><path d='M0,800 Q270,750 540,800 T1080,780' stroke='#6357CC' stroke-width='4' fill='none'/><path d='M0,820 Q270,770 540,820 T1080,800' stroke='#6357CC' stroke-width='3' fill='none'/><path d='M0,840 Q270,790 540,840 T1080,820' stroke='#6357CC' stroke-width='2' fill='none'/></g><g opacity='0.8'><rect x='10' y='10' width='15' height='15' fill='#FF9F29'/><rect x='35' y='10' width='15' height='15' fill='#FF9F29'/><rect x='10' y='35' width='15' height='15' fill='#FF9F29'/><rect x='35' y='35' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='10' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='10' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='35' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='35' width='15' height='15' fill='#FF9F29'/><rect x='10' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='35' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='10' y='1010' width='15' height='15' fill='#FF9F29'/><rect x='35' y='1010' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='1035' width='15' height='15' fill='#FF9F29'/><rect x='1055' y='1010' width='15' height='15' fill='#FF9F29'/><rect x='1030' y='1010' width='15' height='15' fill='#FF9F29'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 233.45,
+                "width": 613.1,
+                "height": 135.6,
+                "fill": "#FF9F29",
+                "text": "EARLY BIRD",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 350.98,
+                "width": 378.04,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "DISCOUNT",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 280,
+                "left": 311.735,
+                "width": 456.53,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "Premium Over-Ear Headphones",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "center",
+                "id": "product_title"
+            },
+            {
+                "type": "image",
+                "top": 355.57499999999993,
+                "left": 403.97499999999997,
+                "width": 224.59,
+                "height": 381.46999999999997,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/LR83IdCKogfN1NYcwfFZA_607x1031.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 166.075,
+                "width": 747.85,
+                "height": 28.25,
+                "fill": "#FFFFFF",
+                "text": "Studio Quality Sound \u2022 Ultimate Comfort \u2022 Foldable Design",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "features"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 379.72,
+                "width": 320.56,
+                "height": 124.3,
+                "fill": "#FF9F29",
+                "text": "\u20b92999",
+                "fontFamily": "Sansita Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 790,
+                "left": 355.51,
+                "width": 368.98,
+                "height": 22.6,
+                "fill": "#FFFFFF",
+                "text": "DON'T MISS OUT! LIMITED TIME OFFER",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "urgency_text"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 343.7,
+                "width": 392.6,
+                "height": 50.7,
+                "fill": "#FF9F29",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 958,
+                "left": 387.09000000000003,
+                "width": 303.82,
+                "height": 36.16,
+                "fill": "#3A1078",
+                "text": "GRAB YOURS TODAY!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Over-Ear Headphones - Studio Quality Sound & Ultimate Comfort",
+            "description": "\u2022 Professional-grade over-ear design for superior sound isolation\n\u2022 Plush memory foam ear cushions for extended listening comfort\n\u2022 Durable padded headband with adjustable fit\n\u2022 High-quality wired connection for stable audio transmission\n\u2022 Foldable design for easy storage and portability\n\u2022 Deep bass response with balanced audio spectrum\n\u2022 Sleek matte black finish for professional appearance\n\u2022 Ergonomically designed ear cups for optimal sound delivery\n\u2022 Heavy-duty cable for lasting durability\n\u2022 Perfect for studio monitoring, gaming, and everyday music enjoyment",
+            "price": "\u20b92999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681da9ada4c610e61c68ee35/LR83IdCKogfN1NYcwfFZA_607x1031.png",
+        "marketplace_url": "",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner presents a visually striking promotional layout with a central emphasis on a featured product image (`product_image`), which is a pair of premium over-ear headphones. The composition is vertically aligned, starting with a powerful main headline (`heading`) at the top in bold orange, followed by a white subheading (`subheading`) and a short product descriptor (`product_title`).\n\nThe visual hierarchy is extended by showcasing key selling points in a text layer (`features`) beneath the product, drawing attention to sound quality and comfort. A strong call-to-action area is situated at the bottom, with pricing (`price`) in large orange font, emphasized urgency (`urgency_text`) in white, and a rectangular orange button (`cta_button_background`) with contrasting call-to-action text (`cta`) in deep purple. The background SVG includes a purple gradient overlay, radial light effects, wave accents, and orange square motifs on corners, adding depth and digital flair.\n\n**Color Palette:**\n- Deep Purple: `#3A1078`\n- Medium Purple: `#4E31AA`\n- Accent Orange: `#FF9F29`\n- Soft Violet Lines: `#6357CC`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image showcases sleek, over-ear headphones designed with a minimalist monochrome palette dominated by deep charcoal and soft graphite shades. Key colors include Matte Black (#1C1C1C), Gunmetal Gray (#2F2F2F), and Industrial Silver (#A9A9A9). These tones are expertly blended through smooth transitions in the headband and earcups, while polished metallic elements subtly highlight the contours. The use of shadows and reflective accents enhances depth and sophistication. For an ad banner, combine these grayscale hues with a pop color like Electric Blue (#007BFF) or Signal Red (#FF3D3D) to create contrast and draw attention effectively while preserving the product\u2019s premium aesthetic.  \n"
+}

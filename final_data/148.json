@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#F5F0E8'/><stop offset='100%' stop-color='#E6DFD5'/></radialGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#D0C5B7'/><stop offset='100%' stop-color='#BFB5A8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g transform='translate(540,540)'><circle r='350' fill='url(#accentGradient)' opacity='0.3'/><circle r='250' fill='url(#accentGradient)' opacity='0.2'/><circle r='150' fill='url(#accentGradient)' opacity='0.1'/></g><g opacity='0.1'><rect x='0' y='100' width='1080' height='1' fill='#907F6C'/><rect x='0' y='200' width='1080' height='1' fill='#907F6C'/><rect x='0' y='300' width='1080' height='1' fill='#907F6C'/><rect x='0' y='400' width='1080' height='1' fill='#907F6C'/><rect x='0' y='500' width='1080' height='1' fill='#907F6C'/><rect x='0' y='600' width='1080' height='1' fill='#907F6C'/><rect x='0' y='700' width='1080' height='1' fill='#907F6C'/><rect x='0' y='800' width='1080' height='1' fill='#907F6C'/><rect x='0' y='900' width='1080' height='1' fill='#907F6C'/><rect x='0' y='1000' width='1080' height='1' fill='#907F6C'/></g><g opacity='0.1'><rect x='100' y='0' width='1' height='1080' fill='#907F6C'/><rect x='200' y='0' width='1' height='1080' fill='#907F6C'/><rect x='300' y='0' width='1' height='1080' fill='#907F6C'/><rect x='400' y='0' width='1' height='1080' fill='#907F6C'/><rect x='500' y='0' width='1' height='1080' fill='#907F6C'/><rect x='600' y='0' width='1' height='1080' fill='#907F6C'/><rect x='700' y='0' width='1' height='1080' fill='#907F6C'/><rect x='800' y='0' width='1' height='1080' fill='#907F6C'/><rect x='900' y='0' width='1' height='1080' fill='#907F6C'/><rect x='1000' y='0' width='1' height='1080' fill='#907F6C'/></g><circle cx='150' cy='150' r='8' fill='#D0C5B7' opacity='0.4'/><circle cx='930' cy='150' r='8' fill='#D0C5B7' opacity='0.4'/><circle cx='150' cy='930' r='8' fill='#D0C5B7' opacity='0.4'/><circle cx='930' cy='930' r='8' fill='#D0C5B7' opacity='0.4'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 290.36, "width": 499.28, "height": 90.4, "fill": "#4A4135", "text": "AIRPODS MAX", "fontSize": 80, "fontFamily": "Barlow Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 170, "left": 353.655, "width": 372.69, "height": 40.68, "fill": "#6D6259", "text": "IMMERSE IN SILENCE", "fontSize": 36, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 268.225, "left": 311.625, "width": 1015, "height": 1119, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/gQ10BT-gHmOSfuRPLCqaB_1015x1119.png", "id": "product_image"}, {"type": "text", "top": 770, "left": 232.41000000000003, "width": 615.18, "height": 24.86, "fill": "#6D6259", "text": "Active Noise Cancellation \u2022 Spatial Audio \u2022 Transparency Mode", "fontSize": 22, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 840, "left": 419.63, "width": 240.74, "height": 67.8, "fill": "#4A4135", "text": "\u20b9 59,900", "fontSize": 60, "fontFamily": "Sansita Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 940, "left": 430.0, "width": 220, "height": 60, "fill": "#4A4135", "rx": 3, "ry": 3, "id": "cta_button"}, {"type": "text", "top": 959, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#F5F0E8", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple AirPods Max Wireless Over-Ear Headphones, Pro-Level Active Noise Cancellation, Transparency Mode, Personalised Spatial Audio, USB-C Charging, Bluetooth Headphones for iPhone - Starlight", "description": "AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.", "price": "\u20b959900"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/gQ10BT-gHmOSfuRPLCqaB_1015x1119.png", "marketplace_url": "https://www.amazon.in/Apple-Headphones-Cancellation-Transparency-Personalised/dp/B0DGJ7S59D?th=1", "layout": "centered_hero"}, "banner_details": "\nThis banner presents a clean and minimalistic promotional design showcasing a premium audio product. The composition centers around a high-quality product image aligned symmetrically over softly blended concentric radial circles, enhancing visual focus. The background consists of a subtle radial gradient with a faint grid and small dot elements for added structure. The text layer with ID **\"heading\"** serves as the main bold title, followed by the **\"tagline\"** text conveying a calm and luxurious message. Feature highlights are presented in the **\"description\"** layer. A bold **\"price\"** layer emphasizes the value, complemented by a rectangular call-to-action button, ID **\"cta_button\"**, with the prompt text defined in **\"cta\"**.\n\n**Color Palette:**\n- Cream White: `#F5F0E8`\n- Light Taupe: `#E6DFD5`\n- Soft Gold: `#D0C5B7`\n- Coffee Brown: `#4A4135`\n- Warm Gray: `#6D6259`\n", "product_color": "  \nThe product image showcases a premium headset featuring a soft, neutral color palette, ideal for a modern and minimalist advertisement banner. Key colors include a warm champagne gold (#D6C6B2) on the earcups, blending elegantly with a light cream beige (#EFE6DA) on the headband and ear cushions. The subtle metallic silver (#C0C0C0) accents on the hinges add a touch of sophistication. The colors are harmoniously blended with smooth gradients, creating a soft, luxurious feel while still emphasizing form and structure. These calming tones highlight the product\u2019s elegance and appeal, evoking a sense of comfort and premium quality in the advertisement design.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#F5F0E8'/><stop offset='100%' stop-color='#E6DFD5'/></radialGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#D0C5B7'/><stop offset='100%' stop-color='#BFB5A8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g transform='translate(540,540)'><circle r='350' fill='url(#accentGradient)' opacity='0.3'/><circle r='250' fill='url(#accentGradient)' opacity='0.2'/><circle r='150' fill='url(#accentGradient)' opacity='0.1'/></g><g opacity='0.1'><rect x='0' y='100' width='1080' height='1' fill='#907F6C'/><rect x='0' y='200' width='1080' height='1' fill='#907F6C'/><rect x='0' y='300' width='1080' height='1' fill='#907F6C'/><rect x='0' y='400' width='1080' height='1' fill='#907F6C'/><rect x='0' y='500' width='1080' height='1' fill='#907F6C'/><rect x='0' y='600' width='1080' height='1' fill='#907F6C'/><rect x='0' y='700' width='1080' height='1' fill='#907F6C'/><rect x='0' y='800' width='1080' height='1' fill='#907F6C'/><rect x='0' y='900' width='1080' height='1' fill='#907F6C'/><rect x='0' y='1000' width='1080' height='1' fill='#907F6C'/></g><g opacity='0.1'><rect x='100' y='0' width='1' height='1080' fill='#907F6C'/><rect x='200' y='0' width='1' height='1080' fill='#907F6C'/><rect x='300' y='0' width='1' height='1080' fill='#907F6C'/><rect x='400' y='0' width='1' height='1080' fill='#907F6C'/><rect x='500' y='0' width='1' height='1080' fill='#907F6C'/><rect x='600' y='0' width='1' height='1080' fill='#907F6C'/><rect x='700' y='0' width='1' height='1080' fill='#907F6C'/><rect x='800' y='0' width='1' height='1080' fill='#907F6C'/><rect x='900' y='0' width='1' height='1080' fill='#907F6C'/><rect x='1000' y='0' width='1' height='1080' fill='#907F6C'/></g><circle cx='150' cy='150' r='8' fill='#D0C5B7' opacity='0.4'/><circle cx='930' cy='150' r='8' fill='#D0C5B7' opacity='0.4'/><circle cx='150' cy='930' r='8' fill='#D0C5B7' opacity='0.4'/><circle cx='930' cy='930' r='8' fill='#D0C5B7' opacity='0.4'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 290.36,
+                "width": 499.28,
+                "height": 90.4,
+                "fill": "#4A4135",
+                "text": "AIRPODS MAX",
+                "fontFamily": "Barlow Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 170,
+                "left": 353.655,
+                "width": 372.69,
+                "height": 40.68,
+                "fill": "#6D6259",
+                "text": "IMMERSE IN SILENCE",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 268.225,
+                "left": 311.625,
+                "width": 456.75,
+                "height": 503.55,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/gQ10BT-gHmOSfuRPLCqaB_1015x1119.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 770,
+                "left": 232.41000000000003,
+                "width": 615.18,
+                "height": 24.86,
+                "fill": "#6D6259",
+                "text": "Active Noise Cancellation \u2022 Spatial Audio \u2022 Transparency Mode",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 419.63,
+                "width": 240.74,
+                "height": 67.8,
+                "fill": "#4A4135",
+                "text": "\u20b9 59,900",
+                "fontFamily": "Sansita Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#4A4135",
+                "rx": 3,
+                "ry": 3,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 959,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#F5F0E8",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple AirPods Max Wireless Over-Ear Headphones, Pro-Level Active Noise Cancellation, Transparency Mode, Personalised Spatial Audio, USB-C Charging, Bluetooth Headphones for iPhone - Starlight",
+            "description": "AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.",
+            "price": "\u20b959900"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/gQ10BT-gHmOSfuRPLCqaB_1015x1119.png",
+        "marketplace_url": "https://www.amazon.in/Apple-Headphones-Cancellation-Transparency-Personalised/dp/B0DGJ7S59D?th=1",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner presents a clean and minimalistic promotional design showcasing a premium audio product. The composition centers around a high-quality product image aligned symmetrically over softly blended concentric radial circles, enhancing visual focus. The background consists of a subtle radial gradient with a faint grid and small dot elements for added structure. The text layer with ID **\"heading\"** serves as the main bold title, followed by the **\"tagline\"** text conveying a calm and luxurious message. Feature highlights are presented in the **\"description\"** layer. A bold **\"price\"** layer emphasizes the value, complemented by a rectangular call-to-action button, ID **\"cta_button\"**, with the prompt text defined in **\"cta\"**.\n\n**Color Palette:**\n- Cream White: `#F5F0E8`\n- Light Taupe: `#E6DFD5`\n- Soft Gold: `#D0C5B7`\n- Coffee Brown: `#4A4135`\n- Warm Gray: `#6D6259`\n",
+    "product_color": "  \nThe product image showcases a premium headset featuring a soft, neutral color palette, ideal for a modern and minimalist advertisement banner. Key colors include a warm champagne gold (#D6C6B2) on the earcups, blending elegantly with a light cream beige (#EFE6DA) on the headband and ear cushions. The subtle metallic silver (#C0C0C0) accents on the hinges add a touch of sophistication. The colors are harmoniously blended with smooth gradients, creating a soft, luxurious feel while still emphasizing form and structure. These calming tones highlight the product\u2019s elegance and appeal, evoking a sense of comfort and premium quality in the advertisement design.  \n"
+}

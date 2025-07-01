@@ -1,1 +1,171 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F7F2'/><path d='M0 0 L1080 0 L1080 250 C900 280 700 230 500 270 C300 310 100 260 0 290 L0 0Z' fill='#7D9A56' opacity='0.7'/><path d='M0 1080 L1080 1080 L1080 800 C900 830 700 780 500 820 C300 860 100 810 0 840 L0 1080Z' fill='#7D9A56' opacity='0.7'/><circle cx='900' cy='200' r='120' fill='#A6C379' opacity='0.5'/><circle cx='180' cy='880' r='100' fill='#A6C379' opacity='0.5'/><path d='M20,180 C50,160 80,190 110,170 C140,150 170,180 200,160' stroke='#557A30' stroke-width='3' fill='none'/><path d='M880,900 C910,880 940,910 970,890 C1000,870 1030,900 1060,880' stroke='#557A30' stroke-width='3' fill='none'/><g transform='translate(50, 50)'><path d='M0,0 C10,-10 20,10 30,0 C40,-10 50,10 60,0' stroke='#557A30' stroke-width='2' fill='none'/></g><g transform='translate(950, 950)'><path d='M0,0 C10,-10 20,10 30,0 C40,-10 50,10 60,0' stroke='#557A30' stroke-width='2' fill='none'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 83.17500000000001, "width": 913.65, "height": 113, "fill": "#557A30", "text": "ORGANIC MORINGA", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 200, "left": 332.12, "width": 415.76, "height": 67.8, "fill": "#7D9A56", "text": "LEAF POWDER", "fontSize": 60, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 267.25, "left": 660.0, "width": 756, "height": 1159, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683a02e175f8ed2e3be4d41c/MJhqMe96x-BZlbG54BUNq_756x1159.png", "id": "product_image"}, {"type": "text", "top": 290, "left": 114.74, "width": 170.52, "height": 45.2, "fill": "#FF6B6B", "text": "25% OFF", "fontSize": 40, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "discount"}, {"type": "text", "top": 858, "left": 754.9, "width": 298.2, "height": 45.2, "fill": "#557A30", "text": "FREE DELIVERY", "fontSize": 40, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "offer"}, {"type": "text", "top": 360, "left": 120, "width": 256.37, "height": 33.9, "fill": "#333333", "text": "\u2713 Immunity Booster", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "benefit_1"}, {"type": "text", "top": 410, "left": 120, "width": 358.67, "height": 33.9, "fill": "#333333", "text": "\u2713 Rich in Antioxidants & Iron", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "benefit_2"}, {"type": "text", "top": 460, "left": 120, "width": 317.06, "height": 33.9, "fill": "#333333", "text": "\u2713 USDA Organic Certified", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "benefit_3"}, {"type": "text", "top": 802.2, "left": 471.365, "width": 137.27, "height": 67.8, "fill": "#557A30", "text": "\u20b9399", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 900, "left": 415.0, "width": 250, "height": 70, "fill": "#557A30", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 915.225, "left": 449.28499999999997, "width": 181.43, "height": 39.55, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 35, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 995.14, "left": 262.835, "width": 554.33, "height": 24.86, "fill": "#557A30", "text": "earmarkorganic.com/products/organic-moringa-leaf-powder", "fontSize": 22, "fontFamily": "Assistant Regular", "textAlign": "center", "id": "website_url"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Moringa Leaf Powder", "description": "\u2705 100% Organic & Natural\nUSDA Organic Certified, Non-GMO verified, and free from additives or preservatives.\n\n\ud83d\udcaa Immunity Booster\nRich in antioxidants, vitamins (A, C, E), and minerals like iron and calcium to naturally strengthen your immune system.\n\n\u2728 Powerful Detoxifier\nSupports natural detox, promotes liver health, and helps eliminate toxins from the body.\n\n\ud83c\udf31 Superfood Energy Source\nMoringa is known as the \u201cMiracle Tree\u201d \u2013 an excellent plant-based source of protein and essential amino acids.\n\n\ud83c\udf43 Improves Skin & Hair Health\nHigh in antioxidants and anti-inflammatory properties that promote glowing skin and strong, healthy hair.\n\n\u2696\ufe0f Supports Weight Management\nHelps control appetite, regulate blood sugar levels, and improve metabolism.\n\n\ud83d\udd2c Nutrient-Packed Leaves\nLeaves are shade-dried at low temperatures to preserve maximum nutrition.\n\n\ud83c\udf0f Sustainably Sourced & Eco-Friendly Packaging\nResponsibly harvested and packed to retain freshness and purity.", "price": "\u20b9399"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683a02e175f8ed2e3be4d41c/MJhqMe96x-BZlbG54BUNq_756x1159.png", "marketplace_url": "https://earmarkorganic.com/products/organic-moringa-leaf-powder", "layout": "split_vertical"}, "banner_details": "\nThe banner features a clean, nature-inspired layout promoting a health product. The design is divided horizontally with a soft green wave at the top and bottom, evoking an organic theme. The main heading (\"heading\") is large and bold in deep green, clearly highlighting the product name. Below it, a subheading (\"subheading\") in a lighter shade reinforces the product form. \n\nTo the right is a product image of the moringa powder packet (\"product_image\"), balanced by a left-aligned column of check-marked benefits (\"benefit_1\", \"benefit_2\", \"benefit_3\"). A highlighted discount in red (\"discount\") draws attention at the top left. Toward the bottom, pricing (\"price\") and a green rectangular call-to-action button (\"cta_button\", \"cta\") lead to purchase, followed by a supporting \"FREE DELIVERY\" message (\"offer\") and website URL (\"website_url\").\n\n**Color Palette:**\n- Soft Cream: `#F5F7F2`\n- Deep Green: `#557A30`\n- Sage Green: `#7D9A56`\n- Light Olive: `#A6C379`\n- Vibrant Red: `#FF6B6B`\n- Neutral Dark Gray: `#333333`\n- White: `#FFFFFF`\n", "product_color": "\nThe product image uses a natural and earthy color palette that reinforces its organic and health-focused branding. Dominated by various shades of green, the primary color is a rich moringa green (#6C8C3E), representing the powder, leaves, and background stripes. This is accented by a softer olive green (#A3B76F) for foliage and highlights. White (#FFFFFF) provides contrast around the text and diagonal background split, enhancing readability. The beige wooden spoon (#D4B38D) adds a warm, natural touch. These colors are harmoniously blended, with the greens evoking freshness and wellness, while white and beige offer balance and clarity for a clean, organic design.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F7F2'/><path d='M0 0 L1080 0 L1080 250 C900 280 700 230 500 270 C300 310 100 260 0 290 L0 0Z' fill='#7D9A56' opacity='0.7'/><path d='M0 1080 L1080 1080 L1080 800 C900 830 700 780 500 820 C300 860 100 810 0 840 L0 1080Z' fill='#7D9A56' opacity='0.7'/><circle cx='900' cy='200' r='120' fill='#A6C379' opacity='0.5'/><circle cx='180' cy='880' r='100' fill='#A6C379' opacity='0.5'/><path d='M20,180 C50,160 80,190 110,170 C140,150 170,180 200,160' stroke='#557A30' stroke-width='3' fill='none'/><path d='M880,900 C910,880 940,910 970,890 C1000,870 1030,900 1060,880' stroke='#557A30' stroke-width='3' fill='none'/><g transform='translate(50, 50)'><path d='M0,0 C10,-10 20,10 30,0 C40,-10 50,10 60,0' stroke='#557A30' stroke-width='2' fill='none'/></g><g transform='translate(950, 950)'><path d='M0,0 C10,-10 20,10 30,0 C40,-10 50,10 60,0' stroke='#557A30' stroke-width='2' fill='none'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 83.17500000000001,
+                "width": 913.65,
+                "height": 113,
+                "fill": "#557A30",
+                "text": "ORGANIC MORINGA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 332.12,
+                "width": 415.76,
+                "height": 67.8,
+                "fill": "#7D9A56",
+                "text": "LEAF POWDER",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 267.25,
+                "left": 660.0,
+                "width": 378.0,
+                "height": 579.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683a02e175f8ed2e3be4d41c/MJhqMe96x-BZlbG54BUNq_756x1159.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 114.74,
+                "width": 170.52,
+                "height": 45.2,
+                "fill": "#FF6B6B",
+                "text": "25% OFF",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "discount"
+            },
+            {
+                "type": "text",
+                "top": 858,
+                "left": 754.9,
+                "width": 298.2,
+                "height": 45.2,
+                "fill": "#557A30",
+                "text": "FREE DELIVERY",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "offer"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 120,
+                "width": 256.37,
+                "height": 33.9,
+                "fill": "#333333",
+                "text": "\u2713 Immunity Booster",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "benefit_1"
+            },
+            {
+                "type": "text",
+                "top": 410,
+                "left": 120,
+                "width": 358.67,
+                "height": 33.9,
+                "fill": "#333333",
+                "text": "\u2713 Rich in Antioxidants & Iron",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "benefit_2"
+            },
+            {
+                "type": "text",
+                "top": 460,
+                "left": 120,
+                "width": 317.06,
+                "height": 33.9,
+                "fill": "#333333",
+                "text": "\u2713 USDA Organic Certified",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "benefit_3"
+            },
+            {
+                "type": "text",
+                "top": 802.2,
+                "left": 471.365,
+                "width": 137.27,
+                "height": 67.8,
+                "fill": "#557A30",
+                "text": "\u20b9399",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 415.0,
+                "width": 250,
+                "height": 70,
+                "fill": "#557A30",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 915.225,
+                "left": 449.28499999999997,
+                "width": 181.43,
+                "height": 39.55,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 995.14,
+                "left": 262.835,
+                "width": 554.33,
+                "height": 24.86,
+                "fill": "#557A30",
+                "text": "earmarkorganic.com/products/organic-moringa-leaf-powder",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "center",
+                "id": "website_url"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Moringa Leaf Powder",
+            "description": "\u2705 100% Organic & Natural\nUSDA Organic Certified, Non-GMO verified, and free from additives or preservatives.\n\n\ud83d\udcaa Immunity Booster\nRich in antioxidants, vitamins (A, C, E), and minerals like iron and calcium to naturally strengthen your immune system.\n\n\u2728 Powerful Detoxifier\nSupports natural detox, promotes liver health, and helps eliminate toxins from the body.\n\n\ud83c\udf31 Superfood Energy Source\nMoringa is known as the \u201cMiracle Tree\u201d \u2013 an excellent plant-based source of protein and essential amino acids.\n\n\ud83c\udf43 Improves Skin & Hair Health\nHigh in antioxidants and anti-inflammatory properties that promote glowing skin and strong, healthy hair.\n\n\u2696\ufe0f Supports Weight Management\nHelps control appetite, regulate blood sugar levels, and improve metabolism.\n\n\ud83d\udd2c Nutrient-Packed Leaves\nLeaves are shade-dried at low temperatures to preserve maximum nutrition.\n\n\ud83c\udf0f Sustainably Sourced & Eco-Friendly Packaging\nResponsibly harvested and packed to retain freshness and purity.",
+            "price": "\u20b9399"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/683a02e175f8ed2e3be4d41c/MJhqMe96x-BZlbG54BUNq_756x1159.png",
+        "marketplace_url": "https://earmarkorganic.com/products/organic-moringa-leaf-powder",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a clean, nature-inspired layout promoting a health product. The design is divided horizontally with a soft green wave at the top and bottom, evoking an organic theme. The main heading (\"heading\") is large and bold in deep green, clearly highlighting the product name. Below it, a subheading (\"subheading\") in a lighter shade reinforces the product form. \n\nTo the right is a product image of the moringa powder packet (\"product_image\"), balanced by a left-aligned column of check-marked benefits (\"benefit_1\", \"benefit_2\", \"benefit_3\"). A highlighted discount in red (\"discount\") draws attention at the top left. Toward the bottom, pricing (\"price\") and a green rectangular call-to-action button (\"cta_button\", \"cta\") lead to purchase, followed by a supporting \"FREE DELIVERY\" message (\"offer\") and website URL (\"website_url\").\n\n**Color Palette:**\n- Soft Cream: `#F5F7F2`\n- Deep Green: `#557A30`\n- Sage Green: `#7D9A56`\n- Light Olive: `#A6C379`\n- Vibrant Red: `#FF6B6B`\n- Neutral Dark Gray: `#333333`\n- White: `#FFFFFF`\n",
+    "product_color": "\nThe product image uses a natural and earthy color palette that reinforces its organic and health-focused branding. Dominated by various shades of green, the primary color is a rich moringa green (#6C8C3E), representing the powder, leaves, and background stripes. This is accented by a softer olive green (#A3B76F) for foliage and highlights. White (#FFFFFF) provides contrast around the text and diagonal background split, enhancing readability. The beige wooden spoon (#D4B38D) adds a warm, natural touch. These colors are harmoniously blended, with the greens evoking freshness and wellness, while white and beige offer balance and clarity for a clean, organic design.\n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#8B0000'/><stop offset='100%' stop-color='#1F4435'/></linearGradient><radialGradient id='overlay' cx='50%' cy='50%' r='70%' fx='50%' fy='50%'><stop offset='0%' stop-color='rgba(255, 215, 0, 0.3)'/><stop offset='100%' stop-color='rgba(178, 34, 34, 0.05)'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect width='1080' height='1080' fill='url(#overlay)'/><g transform='translate(0,0)' opacity='0.15'><path d='M0,150 Q540,250 1080,150 V0 H0 Z' fill='#FFD700'/><path d='M0,930 Q540,830 1080,930 V1080 H0 Z' fill='#FFD700'/></g><g opacity='0.1'><rect x='50' y='50' width='980' height='980' stroke='#FFD700' stroke-width='2' fill='none' rx='10' ry='10'/></g><g transform='translate(540,540)' opacity='0.08'><circle r='250' stroke='#FFD700' stroke-width='2' fill='none'/><circle r='300' stroke='#FFD700' stroke-width='1' fill='none'/><circle r='350' stroke='#FFD700' stroke-width='0.5' fill='none'/></g><g opacity='0.06'><circle cx='80' cy='80' r='20' fill='#FFD700'/><circle cx='1000' cy='80' r='20' fill='#FFD700'/><circle cx='80' cy='1000' r='20' fill='#FFD700'/><circle cx='1000' cy='1000' r='20' fill='#FFD700'/></g><g opacity='0.15'><path d='M540,50 L540,150' stroke='#FFD700' stroke-width='1'/><path d='M540,930 L540,1030' stroke='#FFD700' stroke-width='1'/><path d='M50,540 L150,540' stroke='#FFD700' stroke-width='1'/><path d='M930,540 L1030,540' stroke='#FFD700' stroke-width='1'/></g></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 65.75, "width": 948.5, "height": 113, "fill": "#FFD700", "text": "ROYAL HERITAGE", "fontSize": 100, "fontFamily": "Cinzel Black", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 185, "left": 276.12, "width": 527.76, "height": 70.06, "fill": "#F9E79F", "text": "Luxury Bridal Collection", "fontSize": 62, "fontFamily": "New Amsterdam-Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 292.36, "left": 271.94, "width": 1031, "height": 914, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/eA9Iz-6R7_gY4ciCiNVeS_1031x914.png", "id": "product_image"}, {"type": "text", "top": 800, "left": 218.17000000000002, "width": 643.66, "height": 27.12, "fill": "#FFFFFF", "text": "Premium hand-crafted ensemble with exquisite jewelry set", "fontSize": 24, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "description"}, {"type": "text", "top": 855, "left": 474.315, "width": 131.37, "height": 96.05, "fill": "#FFD700", "text": "$1196", "fontSize": 85, "fontFamily": "Karantina Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 440.0, "width": 200, "height": 60, "fill": "#800000", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 978, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#FFD700", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Royal Heritage Bridal Collection - Luxury Traditional Wedding Ensemble", "description": "\u2022 \u2728 Premium red and emerald green embroidered bridal outfit with intricate detailing\n\u2022 \ud83d\udc8e Exquisite kundan and pearl-studded choker necklace set with matching earrings\n\u2022 \ud83e\uddf5 Hand-crafted zari embroidery with crystal embellishments\n\u2022 \ud83d\udc57 Rich silk fabric with traditional paisley and floral motifs\n\u2022 \ud83d\udcab Designer embroidered border with emerald green contrast\n\u2022 \ud83c\udf80 Perfect blend of contemporary style and traditional aesthetics\n\u2022 \u2705 Includes matching jewelry set with intricate gold-plated craftsmanship\n\u2022 \ud83c\udf1f Ideal for wedding ceremonies and grand traditional occasions\n\u2022 \ud83d\udccf Custom sizing available\n\u2022 \ud83d\udecd\ufe0f Comes with preservation guidelines and storage bag", "price": "$1196"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/eA9Iz-6R7_gY4ciCiNVeS_1031x914.png", "marketplace_url": "https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg", "layout": "centered_hero"}, "banner_details": "\nThe banner features a luxurious and regal design highlighting a high-end bridal collection. It has a rich gradient background transitioning from deep maroon to dark green, overlaid with subtle golden radial and linear gradients, and elegant geometric patterns including concentric circles and bordered corners. Central to the design is a fashion image showcasing a traditional bridal look in red and gold attire. The top of the banner presents a bold headline (`heading`) in a classic serif font with gold fill, followed by a refined subheading (`subheading`) that introduces the collection. Below the model's image, a descriptor text (`description`) outlines product elegance, followed by a prominent golden price tag (`price`). At the bottom is a bold, dark red call-to-action button (`cta_background`) with gold \"SHOP NOW\" text (`cta`). The overall composition conveys sophistication and cultural heritage.\n\n**Color Palette:**\n- Deep Maroon: #8B0000\n- Forest Green: #1F4435\n- Gold: #FFD700\n- Off-white/Cream: #F9E79F\n- Dark Red (CTA background): #800000\n- White: #FFFFFF\n", "product_color": "  \nThe product image features a glamorous woman adorned in vibrant traditional attire, making red (#C8102E) the dominant and most striking color, projecting boldness and celebration. The deep green embroidery (#1C4B28) beautifully complements the red, offering a regal contrast. Golden jewelry and embellishments (#D4AF37) blend elegance and wealth, while enhancing the richness of the outfit. Her bold lipstick and nail polish match the red attire, maintaining visual harmony. The dark sunglasses (#2C2C2C) add a modern twist, subtly balancing the bright palette. Blending of colors is seamless yet distinct, making red and gold the highlights, ideal for an opulent advertisement banner.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#8B0000'/><stop offset='100%' stop-color='#1F4435'/></linearGradient><radialGradient id='overlay' cx='50%' cy='50%' r='70%' fx='50%' fy='50%'><stop offset='0%' stop-color='rgba(255, 215, 0, 0.3)'/><stop offset='100%' stop-color='rgba(178, 34, 34, 0.05)'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><rect width='1080' height='1080' fill='url(#overlay)'/><g transform='translate(0,0)' opacity='0.15'><path d='M0,150 Q540,250 1080,150 V0 H0 Z' fill='#FFD700'/><path d='M0,930 Q540,830 1080,930 V1080 H0 Z' fill='#FFD700'/></g><g opacity='0.1'><rect x='50' y='50' width='980' height='980' stroke='#FFD700' stroke-width='2' fill='none' rx='10' ry='10'/></g><g transform='translate(540,540)' opacity='0.08'><circle r='250' stroke='#FFD700' stroke-width='2' fill='none'/><circle r='300' stroke='#FFD700' stroke-width='1' fill='none'/><circle r='350' stroke='#FFD700' stroke-width='0.5' fill='none'/></g><g opacity='0.06'><circle cx='80' cy='80' r='20' fill='#FFD700'/><circle cx='1000' cy='80' r='20' fill='#FFD700'/><circle cx='80' cy='1000' r='20' fill='#FFD700'/><circle cx='1000' cy='1000' r='20' fill='#FFD700'/></g><g opacity='0.15'><path d='M540,50 L540,150' stroke='#FFD700' stroke-width='1'/><path d='M540,930 L540,1030' stroke='#FFD700' stroke-width='1'/><path d='M50,540 L150,540' stroke='#FFD700' stroke-width='1'/><path d='M930,540 L1030,540' stroke='#FFD700' stroke-width='1'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 65.75,
+                "width": 948.5,
+                "height": 113,
+                "fill": "#FFD700",
+                "text": "ROYAL HERITAGE",
+                "fontFamily": "Cinzel Black",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 185,
+                "left": 276.12,
+                "width": 527.76,
+                "height": 70.06,
+                "fill": "#F9E79F",
+                "text": "Luxury Bridal Collection",
+                "fontFamily": "New Amsterdam-Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 292.36,
+                "left": 271.94,
+                "width": 536.12,
+                "height": 475.28000000000003,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/eA9Iz-6R7_gY4ciCiNVeS_1031x914.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 218.17000000000002,
+                "width": 643.66,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "Premium hand-crafted ensemble with exquisite jewelry set",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 855,
+                "left": 474.315,
+                "width": 131.37,
+                "height": 96.05,
+                "fill": "#FFD700",
+                "text": "$1196",
+                "fontFamily": "Karantina Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#800000",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 978,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFD700",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Royal Heritage Bridal Collection - Luxury Traditional Wedding Ensemble",
+            "description": "\u2022 \u2728 Premium red and emerald green embroidered bridal outfit with intricate detailing\n\u2022 \ud83d\udc8e Exquisite kundan and pearl-studded choker necklace set with matching earrings\n\u2022 \ud83e\uddf5 Hand-crafted zari embroidery with crystal embellishments\n\u2022 \ud83d\udc57 Rich silk fabric with traditional paisley and floral motifs\n\u2022 \ud83d\udcab Designer embroidered border with emerald green contrast\n\u2022 \ud83c\udf80 Perfect blend of contemporary style and traditional aesthetics\n\u2022 \u2705 Includes matching jewelry set with intricate gold-plated craftsmanship\n\u2022 \ud83c\udf1f Ideal for wedding ceremonies and grand traditional occasions\n\u2022 \ud83d\udccf Custom sizing available\n\u2022 \ud83d\udecd\ufe0f Comes with preservation guidelines and storage bag",
+            "price": "$1196"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67ed1b03b55dc629ee554fdb/eA9Iz-6R7_gY4ciCiNVeS_1031x914.png",
+        "marketplace_url": "https://images.pexels.com/photos/1185617/pexels-photo-1185617.jpeg",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner features a luxurious and regal design highlighting a high-end bridal collection. It has a rich gradient background transitioning from deep maroon to dark green, overlaid with subtle golden radial and linear gradients, and elegant geometric patterns including concentric circles and bordered corners. Central to the design is a fashion image showcasing a traditional bridal look in red and gold attire. The top of the banner presents a bold headline (`heading`) in a classic serif font with gold fill, followed by a refined subheading (`subheading`) that introduces the collection. Below the model's image, a descriptor text (`description`) outlines product elegance, followed by a prominent golden price tag (`price`). At the bottom is a bold, dark red call-to-action button (`cta_background`) with gold \"SHOP NOW\" text (`cta`). The overall composition conveys sophistication and cultural heritage.\n\n**Color Palette:**\n- Deep Maroon: #8B0000\n- Forest Green: #1F4435\n- Gold: #FFD700\n- Off-white/Cream: #F9E79F\n- Dark Red (CTA background): #800000\n- White: #FFFFFF\n",
+    "product_color": "  \nThe product image features a glamorous woman adorned in vibrant traditional attire, making red (#C8102E) the dominant and most striking color, projecting boldness and celebration. The deep green embroidery (#1C4B28) beautifully complements the red, offering a regal contrast. Golden jewelry and embellishments (#D4AF37) blend elegance and wealth, while enhancing the richness of the outfit. Her bold lipstick and nail polish match the red attire, maintaining visual harmony. The dark sunglasses (#2C2C2C) add a modern twist, subtly balancing the bright palette. Blending of colors is seamless yet distinct, making red and gold the highlights, ideal for an opulent advertisement banner.  \n"
+}

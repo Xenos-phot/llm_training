@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2A3A2A'/><g opacity='0.8'><rect x='-200' y='500' width='1500' height='80' fill='#3E4E3E' transform='rotate(-12)'/><rect x='-200' y='700' width='1500' height='120' fill='#3E4E3E' transform='rotate(-12)'/><rect x='-200' y='250' width='1500' height='50' fill='#3E4E3E' transform='rotate(-12)'/></g><g opacity='0.7'><rect x='-200' y='400' width='1500' height='10' fill='#FFB800' transform='rotate(-12)'/><rect x='-200' y='600' width='1500' height='15' fill='#FFB800' transform='rotate(-12)'/></g><g opacity='0.7'><circle cx='100' cy='100' r='40' fill='#3E4E3E'/><circle cx='980' cy='980' r='60' fill='#3E4E3E'/></g><path d='M0 920 C 300 870, 700 890, 1080 940 L 1080 1080 L 0 1080 Z' fill='#FFB800' opacity='0.9'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 325.22, "width": 429.56, "height": 90.4, "fill": "#FFB800", "text": "MOKOBARA", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 160, "left": 317.73, "width": 444.54, "height": 45.2, "fill": "#FFFFFF", "text": "THE CABIN PRO", "fontSize": 40, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 210.97500000000002, "left": 383.375, "width": 895, "height": 1423, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8999786d-10a6-4c7a-a873-7a58a1bf3ee0_nobg_895x1423.png", "id": "product_image"}, {"type": "text", "top": 730, "left": 80.39499999999998, "width": 919.21, "height": 27.12, "fill": "#FFFFFF", "text": "GERMAN POLYCARBONATE SHELL \u2022 8 SMOOTH WHEELS \u2022 USB CHARGING PORT", "fontSize": 24, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 810, "left": 374.6, "width": 330.8, "height": 90.4, "fill": "#FFB800", "text": "$309.00", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 920, "left": 425.0, "width": 229.99999999999997, "height": 69.0, "fill": "#FFB800", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 937, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#2A3A2A", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant ** Country of Origin - India **", "price": "309.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8999786d-10a6-4c7a-a873-7a58a1bf3ee0_nobg_895x1423.png", "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY", "layout": "centered_hero"}, "banner_details": "\nThis banner features a stylish and modern product advertisement layout for a travel suitcase. The background is composed of dark green hues with subtle diagonal striping and geometric accents, lending depth and sophistication. The composition centers around a suitcase image (\"product_image\") placed prominently in the middle, attracting immediate attention. Above the product, the bold brand name (\"heading\") and sleek product tagline (\"subheading\") are displayed in distinct typography. Below the image, there is a feature list (\"description\"), a highlighted price (\"price\") in vibrant yellow, and a call-to-action button (\"cta\") with matching background (\"cta_background\"). This layout maintains a balanced and professional visual hierarchy.\n\n**Color Palette:**\n- Deep Forest Green (#2A3A2A)\n- Olive Green (#3E4E3E)\n- Vibrant Yellow (#FFB800)\n- White (#FFFFFF)\n", "product_color": "\nThe product image features a sleek suitcase with a modern color palette dominated by deep olive green (#4B5842) and vivid mustard yellow (#F6B800). The olive green forms the core structure, giving the product a sturdy and refined feel, while the mustard yellow is used strategically for zippers, piping, and the interior lining to create aesthetic contrast and visual interest. Black (#1A1A1A) accents on handles and wheels add depth and modernity. The colors are well-blended, with the matte green surface subtly textured and highlighted by bold, clean yellow lines. This striking combination balances utility with a contemporary design approach, ideal for vibrant advertising.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#2A3A2A'/><g opacity='0.8'><rect x='-200' y='500' width='1500' height='80' fill='#3E4E3E' transform='rotate(-12)'/><rect x='-200' y='700' width='1500' height='120' fill='#3E4E3E' transform='rotate(-12)'/><rect x='-200' y='250' width='1500' height='50' fill='#3E4E3E' transform='rotate(-12)'/></g><g opacity='0.7'><rect x='-200' y='400' width='1500' height='10' fill='#FFB800' transform='rotate(-12)'/><rect x='-200' y='600' width='1500' height='15' fill='#FFB800' transform='rotate(-12)'/></g><g opacity='0.7'><circle cx='100' cy='100' r='40' fill='#3E4E3E'/><circle cx='980' cy='980' r='60' fill='#3E4E3E'/></g><path d='M0 920 C 300 870, 700 890, 1080 940 L 1080 1080 L 0 1080 Z' fill='#FFB800' opacity='0.9'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 325.22,
+                "width": 429.56,
+                "height": 90.4,
+                "fill": "#FFB800",
+                "text": "MOKOBARA",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 160,
+                "left": 317.73,
+                "width": 444.54,
+                "height": 45.2,
+                "fill": "#FFFFFF",
+                "text": "THE CABIN PRO",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 210.97500000000002,
+                "left": 383.375,
+                "width": 313.25,
+                "height": 498.04999999999995,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8999786d-10a6-4c7a-a873-7a58a1bf3ee0_nobg_895x1423.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 80.39499999999998,
+                "width": 919.21,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "GERMAN POLYCARBONATE SHELL \u2022 8 SMOOTH WHEELS \u2022 USB CHARGING PORT",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 810,
+                "left": 374.6,
+                "width": 330.8,
+                "height": 90.4,
+                "fill": "#FFB800",
+                "text": "$309.00",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 425.0,
+                "width": 229.99999999999997,
+                "height": 69.0,
+                "fill": "#FFB800",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 937,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#2A3A2A",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant ** Country of Origin - India **",
+            "price": "309.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/8999786d-10a6-4c7a-a873-7a58a1bf3ee0_nobg_895x1423.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis banner features a stylish and modern product advertisement layout for a travel suitcase. The background is composed of dark green hues with subtle diagonal striping and geometric accents, lending depth and sophistication. The composition centers around a suitcase image (\"product_image\") placed prominently in the middle, attracting immediate attention. Above the product, the bold brand name (\"heading\") and sleek product tagline (\"subheading\") are displayed in distinct typography. Below the image, there is a feature list (\"description\"), a highlighted price (\"price\") in vibrant yellow, and a call-to-action button (\"cta\") with matching background (\"cta_background\"). This layout maintains a balanced and professional visual hierarchy.\n\n**Color Palette:**\n- Deep Forest Green (#2A3A2A)\n- Olive Green (#3E4E3E)\n- Vibrant Yellow (#FFB800)\n- White (#FFFFFF)\n",
+    "product_color": "\nThe product image features a sleek suitcase with a modern color palette dominated by deep olive green (#4B5842) and vivid mustard yellow (#F6B800). The olive green forms the core structure, giving the product a sturdy and refined feel, while the mustard yellow is used strategically for zippers, piping, and the interior lining to create aesthetic contrast and visual interest. Black (#1A1A1A) accents on handles and wheels add depth and modernity. The colors are well-blended, with the matte green surface subtly textured and highlighted by bold, clean yellow lines. This striking combination balances utility with a contemporary design approach, ideal for vibrant advertising.\n"
+}

@@ -28,10 +28,38 @@ def json_dataset(data):
             if layer_font_family not in fontFamilyList:
                 fontFamilyList.append(layer_font_family)
 
-
+        output_format = """
+        <think>
+        ...
+        </think>
+        Here is your condensed FabricJS JSON:
+        <json>
+        {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": ...
+                "id": "background",
+            },
+            {
+            ...
+            },
+            ...
+        ],
+        "version": "5.3.0"
+        }
+        </json>
+        """
         important_fields = {
             "svg": ["top", "left", "width", "height", "src", "id"],
-            "text": ["top", "left", "width", "height", "fill", "text", "fontSize", "fontFamily", "textAlign", "id"],
+            "text": ["top", "left", "width", "height", "fill", "text",  "fontFamily", "textAlign", "id"],
             "image": ["top", "left", "width", "height", "src", "id"],
             "rect": ["top", "left", "width", "height", "fill", "rx", "ry", "id"],
             "circle": ["top", "left", "width", "height", "fill", "radius", "id"],
@@ -47,7 +75,7 @@ def json_dataset(data):
 
         layout_description = " ".join(layout_template[layout])
 
-        input_text = f"I want you to create a beautiful advertisement banner of dimension 1080*1080, following the best practices, in form of condensed FabricJs json(with less keys), for the given product with the following details:\n\n\n##Product Details:\n\n **Product Name:** {product_name}\n **Product Description:** {product_description}\n **Product Price:** {product_price}\n\n **Product Color:** {product_color}\n\n\n.The banner should follow the {layout} layout\n ###Layout Description:\n\n {layout_description}.\n\n\n##Instructions:\n\n 1. Create a banner in condensed fabric js format, which have following important keys for given layer type: \n{json.dumps(important_fields)}.\n2. Focus on placement of layers to give a beautiful banner in given layout, with proper spacing between each layer. Make sure no two text layers overlap each other and entire banner is visible in 1080*1080 canvas. \n  2.1 Use *top*(y coordinate of top-left of the layer), *left*(x coordinate of top-left of the layer), *width*(width of the layer), *height*(height of the layer) keys. \n2.2 the text width and height don't have an effect in fabricjs, so place them correctly using  *top*, *left* and *fontSize* keys.  \n 3.You must strictly choose fontFamily for the text layers from the following list: {json.dumps(fontFamilyList)}.\n\n Think step by step and then create the banner."
+        input_text = f"I want you to create a beautiful advertisement banner of dimension 1080*1080, following the best practices, in form of condensed FabricJs json(with less keys), for the given product with the following details:\n\n\n##Product Details:\n\n **Product Name:** {product_name}\n **Product Description:** {product_description}\n **Product Price:** {product_price}\n\n **Product Color:** {product_color}\n\n\n.The banner should follow the {layout} layout\n ###Layout Description:\n\n {layout_description}.\n\n\n##Instructions:\n\n 1. Create a banner in condensed fabric js format, which have following important keys for given layer type: \n{json.dumps(important_fields)}.\n2. Focus on placement of layers to give a beautiful banner in given layout, with proper spacing between each layer.  \n    2.1 Carefully use *top*(y coordinate of top-left of the layer), *left*(x coordinate of top-left of the layer), *width*(width of the layer), *height*(height of the layer) keys to adjust placement. \n    2.2 Make sure no two text layers overlap each other and entire banner is visible in 1080*1080 canvas.  \n 3.You must strictly choose fontFamily for the text layers from the following list: {json.dumps(fontFamilyList)}.\n\n\n Have following output format:\n{output_format}\n\n .Think step by step and then create the banner."
         
         
         reasoning_text = f"Let me think step-by-step for creating a 1080*1080 banner for the product: {product_name}. I have to make sure that no two text layers overlap, and maintain proportional spacing between each layer to support a natural visual flow for the viewer, following the layout, {layout}. The text must be readable, with contrasting color to the background, with suitable svg for the background. Let me give an overview of the banner: \n\n"+ item['banner_details']+ "\nNow I will create the banner."

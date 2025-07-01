@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2E5D42'/><stop offset='100%' stop-color='#1A3328'/></linearGradient><linearGradient id='leafGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#74A98A'/><stop offset='100%' stop-color='#4A7E60'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.15'><circle cx='540' cy='540' r='400' fill='#74A98A'/><circle cx='540' cy='540' r='300' fill='#518F6D'/><circle cx='540' cy='540' r='200' fill='#3D7855'/></g><g opacity='0.08'><path d='M540,150 Q700,300 880,150 T1080,250 V0 H0 V250 Q200,300 380,150 T540,150Z' fill='#74A98A'/><path d='M540,930 Q700,780 880,930 T1080,830 V1080 H0 V830 Q200,780 380,930 T540,930Z' fill='#74A98A'/></g><g opacity='0.1'><circle cx='200' cy='200' r='80' fill='#ffffff'/><circle cx='880' cy='200' r='60' fill='#ffffff'/><circle cx='200' cy='880' r='60' fill='#ffffff'/><circle cx='880' cy='880' r='80' fill='#ffffff'/></g><g opacity='0.05'><path d='M50,300 Q150,250 250,300 T450,300 Q550,250 650,300 T850,300 Q950,250 1050,300' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,350 Q150,300 250,350 T450,350 Q550,300 650,350 T850,350 Q950,300 1050,350' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,400 Q150,350 250,400 T450,400 Q550,350 650,400 T850,400 Q950,350 1050,400' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,740 Q150,690 250,740 T450,740 Q550,690 650,740 T850,740 Q950,690 1050,740' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,790 Q150,740 250,790 T450,790 Q550,740 650,790 T850,790 Q950,740 1050,790' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,840 Q150,790 250,840 T450,840 Q550,790 650,840 T850,840 Q950,790 1050,840' stroke='#E8F5E9' stroke-width='5' fill='none'/></g><g opacity='0.1'><path d='M50,50 L80,80 L50,110 L20,80 Z' fill='url(#leafGradient)'/><path d='M1030,50 L1060,80 L1030,110 L1000,80 Z' fill='url(#leafGradient)'/><path d='M50,1030 L80,1060 L50,1030 L20,1000 Z' fill='url(#leafGradient)'/><path d='M1030,1030 L1060,1060 L1030,1030 L1000,1000 Z' fill='url(#leafGradient)'/><path d='M150,80 L180,110 L150,140 L120,110 Z' fill='url(#leafGradient)'/><path d='M930,80 L960,110 L930,140 L900,110 Z' fill='url(#leafGradient)'/><path d='M150,930 L180,960 L150,990 L120,960 Z' fill='url(#leafGradient)'/><path d='M930,930 L960,960 L930,990 L900,960 Z' fill='url(#leafGradient)'/></g></svg>", "id": "background"}, {"type": "text", "top": 65, "left": 189.05, "width": 701.9, "height": 113, "fill": "#FFFFFF", "text": "ECOVIBE FLASK", "fontSize": 100, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 284.72, "width": 510.56, "height": 45.2, "fill": "#A7D7BC", "text": "Stay Hydrated, Stay Stylish!", "fontSize": 40, "fontFamily": "Aleo Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 326.0, "left": 476.2, "width": 319, "height": 970, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/QZukidpyKfQ3bOEU6QZTL_319x970.png", "id": "product_image"}, {"type": "text", "top": 740, "left": 146.435, "width": 787.13, "height": 27.12, "fill": "#FFFFFF", "text": "Double-Wall Insulation | 24Hr Cold / 12Hr Hot | Eco-Friendly Design", "fontSize": 24, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "description_1"}, {"type": "text", "top": 805, "left": 231.14499999999998, "width": 617.71, "height": 24.86, "fill": "#A7D7BC", "text": "Leak-Proof Cap | BPA-Free | Premium Soft-Touch Coating", "fontSize": 22, "fontFamily": "Fugaz One Regular", "textAlign": "center", "id": "description_2"}, {"type": "text", "top": 870, "left": 428.68, "width": 222.64, "height": 90.4, "fill": "#FFD700", "text": "\u20b9 500", "fontSize": 80, "fontFamily": "Sansita Black", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 440.0, "width": 200, "height": 60, "fill": "#A7D7BC", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 975, "left": 477.48, "width": 125.04, "height": 27.12, "fill": "#1A3328", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "EcoVibe Thermal Flask - Premium Matte Forest Green Insulated Water Bottle", "description": "\u2022 Sleek matte forest green finish with premium soft-touch coating\n\u2022 Double-wall vacuum insulation keeps drinks cold 24hrs/hot 12hrs\n\u2022 Durable, lightweight stainless steel construction\n\u2022 Leak-proof screw cap design\n\u2022 Minimalist modern aesthetic perfect for everyday use\n\u2022 Wide mouth opening for easy filling and cleaning\n\u2022 Eco-friendly reusable design\n\u2022 BPA-free and food-grade materials\n\u2022 Perfect size for daily hydration (estimated 500ml-750ml capacity)\n\u2022 Fits standard cup holders and bag side pockets", "price": "\u20b9500"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/QZukidpyKfQ3bOEU6QZTL_319x970.png", "marketplace_url": "blob:https://staging-studio.phot.ai/ccb6e994-d42b-493e-9abe-78bff1e22548", "layout": "centered_hero"}, "banner_details": "\nThe banner features a sleek and stylish design showcasing a green eco-friendly flask. At the top, a bold and modern **text layer (\"heading\")** gives the product name high visibility. Directly beneath it, a softer **tagline (\"tagline\")** communicates the ethos of health and style. Centered prominently is the **flask image (\"product_image\")**, drawing user focus. Below the product, two stacked **description texts (\"description_1\", \"description_2\")** highlight product benefits in a clean and readable typeface. At the bottom, a bright and catchy **price tag (\"price\")** is visible alongside a rectangular CTA button, consisting of a background rectangle (\"cta_background\") and bold **text (\"cta\")**.\n\n**Color Palette:**\n- Deep Forest Green: `#1A3328`\n- Lush Leaf Green: `#2E5D42`\n- Moss Green: `#74A98A`\n- Soft Mint: `#A7D7BC`\n- Bright Yellow: `#FFD700`\n- White: `#FFFFFF`\n\n", "product_color": "  \nThe product image features a sleek, matte-finish water bottle in a muted forest green color, creating a calm, earthy visual appeal. The dominant color is a deep green (#4E6B4F), symbolizing health and sustainability, which is ideal for eco-friendly product advertisement. A subtle black ring on the cap adds contrast (#1C1C1C), giving the design a refined touch. The matte texture diffuses light evenly, enhancing the visual cohesion without harsh reflections. This minimalist color usage allows the green to be both highlighted and blended seamlessly, making it a central design element. Complementary palette options include beige (#D8CFC4), charcoal (#333333), and soft cream (#F4F1EA).  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#2E5D42'/><stop offset='100%' stop-color='#1A3328'/></linearGradient><linearGradient id='leafGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#74A98A'/><stop offset='100%' stop-color='#4A7E60'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><g opacity='0.15'><circle cx='540' cy='540' r='400' fill='#74A98A'/><circle cx='540' cy='540' r='300' fill='#518F6D'/><circle cx='540' cy='540' r='200' fill='#3D7855'/></g><g opacity='0.08'><path d='M540,150 Q700,300 880,150 T1080,250 V0 H0 V250 Q200,300 380,150 T540,150Z' fill='#74A98A'/><path d='M540,930 Q700,780 880,930 T1080,830 V1080 H0 V830 Q200,780 380,930 T540,930Z' fill='#74A98A'/></g><g opacity='0.1'><circle cx='200' cy='200' r='80' fill='#ffffff'/><circle cx='880' cy='200' r='60' fill='#ffffff'/><circle cx='200' cy='880' r='60' fill='#ffffff'/><circle cx='880' cy='880' r='80' fill='#ffffff'/></g><g opacity='0.05'><path d='M50,300 Q150,250 250,300 T450,300 Q550,250 650,300 T850,300 Q950,250 1050,300' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,350 Q150,300 250,350 T450,350 Q550,300 650,350 T850,350 Q950,300 1050,350' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,400 Q150,350 250,400 T450,400 Q550,350 650,400 T850,400 Q950,350 1050,400' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,740 Q150,690 250,740 T450,740 Q550,690 650,740 T850,740 Q950,690 1050,740' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,790 Q150,740 250,790 T450,790 Q550,740 650,790 T850,790 Q950,740 1050,790' stroke='#E8F5E9' stroke-width='5' fill='none'/><path d='M50,840 Q150,790 250,840 T450,840 Q550,790 650,840 T850,840 Q950,790 1050,840' stroke='#E8F5E9' stroke-width='5' fill='none'/></g><g opacity='0.1'><path d='M50,50 L80,80 L50,110 L20,80 Z' fill='url(#leafGradient)'/><path d='M1030,50 L1060,80 L1030,110 L1000,80 Z' fill='url(#leafGradient)'/><path d='M50,1030 L80,1060 L50,1030 L20,1000 Z' fill='url(#leafGradient)'/><path d='M1030,1030 L1060,1060 L1030,1030 L1000,1000 Z' fill='url(#leafGradient)'/><path d='M150,80 L180,110 L150,140 L120,110 Z' fill='url(#leafGradient)'/><path d='M930,80 L960,110 L930,140 L900,110 Z' fill='url(#leafGradient)'/><path d='M150,930 L180,960 L150,990 L120,960 Z' fill='url(#leafGradient)'/><path d='M930,930 L960,960 L930,990 L900,960 Z' fill='url(#leafGradient)'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 65,
+                "left": 189.05,
+                "width": 701.9,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "ECOVIBE FLASK",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 284.72,
+                "width": 510.56,
+                "height": 45.2,
+                "fill": "#A7D7BC",
+                "text": "Stay Hydrated, Stay Stylish!",
+                "fontFamily": "Aleo Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 326.0,
+                "left": 476.2,
+                "width": 127.60000000000001,
+                "height": 388.0,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/QZukidpyKfQ3bOEU6QZTL_319x970.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 740,
+                "left": 146.435,
+                "width": 787.13,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "Double-Wall Insulation | 24Hr Cold / 12Hr Hot | Eco-Friendly Design",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "description_1"
+            },
+            {
+                "type": "text",
+                "top": 805,
+                "left": 231.14499999999998,
+                "width": 617.71,
+                "height": 24.86,
+                "fill": "#A7D7BC",
+                "text": "Leak-Proof Cap | BPA-Free | Premium Soft-Touch Coating",
+                "fontFamily": "Fugaz One Regular",
+                "textAlign": "center",
+                "id": "description_2"
+            },
+            {
+                "type": "text",
+                "top": 870,
+                "left": 428.68,
+                "width": 222.64,
+                "height": 90.4,
+                "fill": "#FFD700",
+                "text": "\u20b9 500",
+                "fontFamily": "Sansita Black",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 440.0,
+                "width": 200,
+                "height": 60,
+                "fill": "#A7D7BC",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 975,
+                "left": 477.48,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#1A3328",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "EcoVibe Thermal Flask - Premium Matte Forest Green Insulated Water Bottle",
+            "description": "\u2022 Sleek matte forest green finish with premium soft-touch coating\n\u2022 Double-wall vacuum insulation keeps drinks cold 24hrs/hot 12hrs\n\u2022 Durable, lightweight stainless steel construction\n\u2022 Leak-proof screw cap design\n\u2022 Minimalist modern aesthetic perfect for everyday use\n\u2022 Wide mouth opening for easy filling and cleaning\n\u2022 Eco-friendly reusable design\n\u2022 BPA-free and food-grade materials\n\u2022 Perfect size for daily hydration (estimated 500ml-750ml capacity)\n\u2022 Fits standard cup holders and bag side pockets",
+            "price": "\u20b9500"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/QZukidpyKfQ3bOEU6QZTL_319x970.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/ccb6e994-d42b-493e-9abe-78bff1e22548",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThe banner features a sleek and stylish design showcasing a green eco-friendly flask. At the top, a bold and modern **text layer (\"heading\")** gives the product name high visibility. Directly beneath it, a softer **tagline (\"tagline\")** communicates the ethos of health and style. Centered prominently is the **flask image (\"product_image\")**, drawing user focus. Below the product, two stacked **description texts (\"description_1\", \"description_2\")** highlight product benefits in a clean and readable typeface. At the bottom, a bright and catchy **price tag (\"price\")** is visible alongside a rectangular CTA button, consisting of a background rectangle (\"cta_background\") and bold **text (\"cta\")**.\n\n**Color Palette:**\n- Deep Forest Green: `#1A3328`\n- Lush Leaf Green: `#2E5D42`\n- Moss Green: `#74A98A`\n- Soft Mint: `#A7D7BC`\n- Bright Yellow: `#FFD700`\n- White: `#FFFFFF`\n\n",
+    "product_color": "  \nThe product image features a sleek, matte-finish water bottle in a muted forest green color, creating a calm, earthy visual appeal. The dominant color is a deep green (#4E6B4F), symbolizing health and sustainability, which is ideal for eco-friendly product advertisement. A subtle black ring on the cap adds contrast (#1C1C1C), giving the design a refined touch. The matte texture diffuses light evenly, enhancing the visual cohesion without harsh reflections. This minimalist color usage allows the green to be both highlighted and blended seamlessly, making it a central design element. Complementary palette options include beige (#D8CFC4), charcoal (#333333), and soft cream (#F4F1EA).  \n"
+}

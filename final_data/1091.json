@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#3B2A1C'/><stop offset='50%' style='stop-color:#5E3A1F'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D2B48C'/><stop offset='100%' style='stop-color:#E6CCAA'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L600 1080 L1080 1080 Z' fill='url(#bg2)'/><path d='M0 0 L580 0 L0 580 Z' fill='#2E1E14' opacity='0.4'/><path d='M0 0 L1080 1080' stroke='#C4A484' stroke-width='3' opacity='0.2'/><path d='M0 100 L980 1080' stroke='#C4A484' stroke-width='2' opacity='0.1'/><path d='M0 200 L880 1080' stroke='#C4A484' stroke-width='1' opacity='0.1'/><path d='M100 0 L1080 980' stroke='#C4A484' stroke-width='2' opacity='0.1'/><path d='M200 0 L1080 880' stroke='#C4A484' stroke-width='1' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 40, "width": 632.97, "height": 186.45, "fill": "#F8F1E5", "text": "PREMIUM\nPENNY LOAFER", "fontSize": 75, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 270, "left": 40, "width": 483, "height": 56.5, "fill": "#E6CCAA", "text": "REFINED MEN'S SHOE", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 380, "left": 40, "width": 444.81, "height": 188.03, "fill": "#F8F1E5", "text": "\u2022 Luxurious woven texture pattern\n\u2022 Genuine leather construction\n\u2022 Memory foam insole for comfort\n\u2022 Classic style for formal & casual", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 40, "width": 285.2, "height": 113, "fill": "#F8F1E5", "text": "\u20b9 302", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 40, "width": 220, "height": 60, "fill": "#D2B48C", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 935, "left": 85, "width": 155.79, "height": 33.9, "fill": "#3B2A1C", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 614, "left": 403, "width": 503, "height": 271, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/eOdvNGXS_v_gAq7u3-4co_503x271.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Premium Classic Comfort Penny Loafer - Refined Men's Slip-On Dress Shoe", "description": "\u2022 Luxurious woven texture pattern adds sophisticated style\n\u2022 Genuine leather construction ensures durability and longevity\n\u2022 Breathable perforated upper design for all-day comfort\n\u2022 Classic penny loafer style suitable for both formal and casual occasions\n\u2022 Flexible rubber sole provides excellent traction and stability\n\u2022 Rich brown color versatile for any outfit combination\n\u2022 Memory foam insole for superior cushioning and support\n\u2022 Slip-on design for easy wearing and removal\n\u2022 Hand-stitched detailing demonstrates premium craftsmanship\n\u2022 Lightweight construction ideal for extended wear", "price": "\u20b9302"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/eOdvNGXS_v_gAq7u3-4co_503x271.png", "marketplace_url": "blob:https://studio.phot.ai/2cd1ee2c-5881-47cb-9aab-714cc64ddb0d", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a stylish and modern layout designed to highlight a premium men's footwear product. The background consists of an angular division with rich brown gradients on one side and a subtle beige tone on the other, creating visual depth. The \"heading\" and \"subheading\" text layers prominently showcase the product title and category, using bold and clear fonts. The \"description\" text lists key features in a bullet-point format, emphasizing craftsmanship and comfort. A dynamic product image (\"product_image\") is rotated and scaled to add motion and emphasis. The price is featured in the \"price\" text layer, with a beige-toned \"cta_button\" labeled by the \"cta\" text, encouraging action.\n\n**Color Palette:**\n- Deep Brown: #3B2A1C\n- Medium Brown: #5E3A1F\n- Beige: #D2B48C\n- Light Beige: #E6CCAA\n- Cream: #F8F1E5\n", "product_color": "\nThe product image showcases a dark brown loafer with a rich, consistent color scheme that balances texture and elegance. The primary color is a deep chocolate brown (#3B2F2F), used across the shoe\u2019s body, creating a bold and masculine tone. The woven pattern on the sides adds depth and interest through subtle contrast with a slightly darker brown (#2A1F1F), while a semi-glossy, smooth strap detail at the top uses a refined mocha brown (#4A3B3B) to accentuate the design. For an advertisement banner, a palette with earthy neutrals\u2014beige (#D6CFC7), warm tan (#B89B82), and off-white (#F5F5F5)\u2014can complement the product\u2019s premium look.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#3B2A1C'/><stop offset='50%' style='stop-color:#5E3A1F'/></linearGradient><linearGradient id='bg2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#D2B48C'/><stop offset='100%' style='stop-color:#E6CCAA'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg1)'/><path d='M1080 0 L600 1080 L1080 1080 Z' fill='url(#bg2)'/><path d='M0 0 L580 0 L0 580 Z' fill='#2E1E14' opacity='0.4'/><path d='M0 0 L1080 1080' stroke='#C4A484' stroke-width='3' opacity='0.2'/><path d='M0 100 L980 1080' stroke='#C4A484' stroke-width='2' opacity='0.1'/><path d='M0 200 L880 1080' stroke='#C4A484' stroke-width='1' opacity='0.1'/><path d='M100 0 L1080 980' stroke='#C4A484' stroke-width='2' opacity='0.1'/><path d='M200 0 L1080 880' stroke='#C4A484' stroke-width='1' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 40,
+                "width": 632.97,
+                "height": 186.45,
+                "fill": "#F8F1E5",
+                "text": "PREMIUM\nPENNY LOAFER",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 270,
+                "left": 40,
+                "width": 483,
+                "height": 56.5,
+                "fill": "#E6CCAA",
+                "text": "REFINED MEN'S SHOE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 40,
+                "width": 444.81,
+                "height": 188.03,
+                "fill": "#F8F1E5",
+                "text": "\u2022 Luxurious woven texture pattern\n\u2022 Genuine leather construction\n\u2022 Memory foam insole for comfort\n\u2022 Classic style for formal & casual",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 40,
+                "width": 285.2,
+                "height": 113,
+                "fill": "#F8F1E5",
+                "text": "\u20b9 302",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 40,
+                "width": 220,
+                "height": 60,
+                "fill": "#D2B48C",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 935,
+                "left": 85,
+                "width": 155.79,
+                "height": 33.9,
+                "fill": "#3B2A1C",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 614,
+                "left": 403,
+                "width": 553.3000000000001,
+                "height": 298.1,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/eOdvNGXS_v_gAq7u3-4co_503x271.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Premium Classic Comfort Penny Loafer - Refined Men's Slip-On Dress Shoe",
+            "description": "\u2022 Luxurious woven texture pattern adds sophisticated style\n\u2022 Genuine leather construction ensures durability and longevity\n\u2022 Breathable perforated upper design for all-day comfort\n\u2022 Classic penny loafer style suitable for both formal and casual occasions\n\u2022 Flexible rubber sole provides excellent traction and stability\n\u2022 Rich brown color versatile for any outfit combination\n\u2022 Memory foam insole for superior cushioning and support\n\u2022 Slip-on design for easy wearing and removal\n\u2022 Hand-stitched detailing demonstrates premium craftsmanship\n\u2022 Lightweight construction ideal for extended wear",
+            "price": "\u20b9302"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/eOdvNGXS_v_gAq7u3-4co_503x271.png",
+        "marketplace_url": "blob:https://studio.phot.ai/2cd1ee2c-5881-47cb-9aab-714cc64ddb0d",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a stylish and modern layout designed to highlight a premium men's footwear product. The background consists of an angular division with rich brown gradients on one side and a subtle beige tone on the other, creating visual depth. The \"heading\" and \"subheading\" text layers prominently showcase the product title and category, using bold and clear fonts. The \"description\" text lists key features in a bullet-point format, emphasizing craftsmanship and comfort. A dynamic product image (\"product_image\") is rotated and scaled to add motion and emphasis. The price is featured in the \"price\" text layer, with a beige-toned \"cta_button\" labeled by the \"cta\" text, encouraging action.\n\n**Color Palette:**\n- Deep Brown: #3B2A1C\n- Medium Brown: #5E3A1F\n- Beige: #D2B48C\n- Light Beige: #E6CCAA\n- Cream: #F8F1E5\n",
+    "product_color": "\nThe product image showcases a dark brown loafer with a rich, consistent color scheme that balances texture and elegance. The primary color is a deep chocolate brown (#3B2F2F), used across the shoe\u2019s body, creating a bold and masculine tone. The woven pattern on the sides adds depth and interest through subtle contrast with a slightly darker brown (#2A1F1F), while a semi-glossy, smooth strap detail at the top uses a refined mocha brown (#4A3B3B) to accentuate the design. For an advertisement banner, a palette with earthy neutrals\u2014beige (#D6CFC7), warm tan (#B89B82), and off-white (#F5F5F5)\u2014can complement the product\u2019s premium look.\n"
+}

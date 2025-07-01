@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='grad1' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#3D3D3D'/><stop offset='100%' stop-color='#202020'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><circle cx='540' cy='540' r='320' fill='#2A2A2A' stroke='#D4AF37' stroke-width='3'/><circle cx='540' cy='540' r='300' fill='#ffffff'/><circle cx='850' cy='400' r='120' fill='#D4AF37'/><g opacity='0.15'><circle cx='200' cy='200' r='15' fill='#D4AF37'/><circle cx='900' cy='200' r='10' fill='#D4AF37'/><circle cx='200' cy='900' r='20' fill='#D4AF37'/><circle cx='900' cy='900' r='15' fill='#D4AF37'/><circle cx='300' cy='500' r='25' fill='#D4AF37'/><circle cx='800' cy='600' r='18' fill='#D4AF37'/></g><g opacity='0.2'><rect x='150' y='300' width='60' height='12' rx='6' fill='#D4AF37' transform='rotate(30, 180, 306)'/><rect x='800' y='250' width='80' height='12' rx='6' fill='#D4AF37' transform='rotate(-20, 840, 256)'/><rect x='200' y='750' width='70' height='12' rx='6' fill='#D4AF37' transform='rotate(15, 235, 756)'/><rect x='750' y='800' width='60' height='12' rx='6' fill='#D4AF37' transform='rotate(-45, 780, 806)'/></g></svg>", "id": "background"}, {"type": "text", "top": 41, "left": 169.39999999999998, "width": 741.2, "height": 113, "fill": "#D4AF37", "text": "AIR JORDAN 1", "fontSize": 100, "fontFamily": "AHOY-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 145, "left": 245.70999999999998, "width": 580.58, "height": 67.8, "fill": "#FFFFFF", "text": "FLYKNIT EDITION", "fontSize": 60, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 319.325, "left": 272.525, "width": 823, "height": 679, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/fZDr7fB2g_spEAHq2v_Hg_823x679.png", "id": "product_image"}, {"type": "text", "top": 354.8, "left": 750.92, "width": 198.16, "height": 90.4, "fill": "#202020", "text": "$20", "fontSize": 80, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "price"}, {"type": "text", "top": 900, "left": 26.75999999999999, "width": 1026.48, "height": 40.68, "fill": "#FFFFFF", "text": "\u2022 PREMIUM COMFORT \u2022 FLYKNIT TECHNOLOGY \u2022 ICONIC STYLE", "fontSize": 36, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "tagline"}, {"type": "rect", "top": 980, "left": 430.0, "width": 220, "height": 60, "fill": "#D4AF37", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 996.44, "left": 477.4, "width": 125.2, "height": 27.12, "fill": "#202020", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Nike Air Jordan 1 Flyknit - Wolf Grey/Gold Edition | Premium Comfort Meets Classic Style", "description": "\u2022 \u2728 Limited Edition Wolf Grey colorway with striking gold Nike swoosh\n\u2022 \ud83e\uddf6 Revolutionary Flyknit upper technology for lightweight breathability\n\u2022 \ud83d\udc5f Classic Air Jordan 1 high-top silhouette with modern upgrades\n\u2022 \ud83d\udd04 Flexible knit construction that adapts to your foot shape\n\u2022 \ud83d\udcaa Durable gum rubber outsole for superior traction and grip\n\u2022 \ud83c\udf1f Premium cushioning for all-day comfort\n\u2022 \ud83d\udd25 Iconic wing logo detailing maintains heritage design\n\u2022 \u267b\ufe0f Sustainable materials with reduced environmental impact\n\u2022 \ud83c\udfc3\u200d\u2642\ufe0f Perfect for both athletic performance and street style\n\u2022 \ud83d\udc54 Versatile colorway pairs well with any outfit", "price": "$20"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/fZDr7fB2g_spEAHq2v_Hg_823x679.png", "marketplace_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg", "layout": "circular_focus"}, "banner_details": "\nThis banner features a bold and modern sneaker advertisement layout. The background consists of a dark radial gradient with abstract golden shapes and a central concentric circle design that highlights the product image. The central focus is a pair of stylish sneakers placed inside a white circular frame. The top portion includes a prominent heading (`heading`) in a large, bold, golden font followed by a white subtitle (`subheading`). Positioned on the right, a highlighted price bubble features the cost (`price`) in a dark font over a golden circle. Near the bottom, a white tagline (`tagline`) emphasizes product features in bold, uppercase typography, and the bottom-center includes a strong call-to-action button (`cta`) with a golden background (`cta_background`) and dark text.\n\n**Color Palette:**\n- Gold: `#D4AF37`\n- White: `#FFFFFF`\n- Dark Gray/Black: `#202020`, `#2A2A2A`, `#3D3D3D`\n", "product_color": "\nThe product image features stylish high-top sneakers with a clean and modern color scheme, mainly consisting of light gray and mustard yellow tones. The dominant light gray color (#C3C8CC) forms the primary body of the shoe, offering a neutral, versatile base that exudes simplicity and elegance. Mustard yellow (#D9A441) is used for the branding elements, such as the Nike swoosh, tongue tag, and ankle patch, providing visual contrast and vibrance. The white midsole (#F5F5F5) further highlights the shoe\u2019s clean design, while the gum-colored outsole (#C89F76) blends subtly, grounding the palette with a natural earth tone. The colors blend seamlessly, allowing key details to stand out boldly without overpowering the overall aesthetic. Perfect for a minimalist yet impactful advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='grad1' cx='50%' cy='50%' r='70%'><stop offset='0%' stop-color='#3D3D3D'/><stop offset='100%' stop-color='#202020'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><circle cx='540' cy='540' r='320' fill='#2A2A2A' stroke='#D4AF37' stroke-width='3'/><circle cx='540' cy='540' r='300' fill='#ffffff'/><circle cx='850' cy='400' r='120' fill='#D4AF37'/><g opacity='0.15'><circle cx='200' cy='200' r='15' fill='#D4AF37'/><circle cx='900' cy='200' r='10' fill='#D4AF37'/><circle cx='200' cy='900' r='20' fill='#D4AF37'/><circle cx='900' cy='900' r='15' fill='#D4AF37'/><circle cx='300' cy='500' r='25' fill='#D4AF37'/><circle cx='800' cy='600' r='18' fill='#D4AF37'/></g><g opacity='0.2'><rect x='150' y='300' width='60' height='12' rx='6' fill='#D4AF37' transform='rotate(30, 180, 306)'/><rect x='800' y='250' width='80' height='12' rx='6' fill='#D4AF37' transform='rotate(-20, 840, 256)'/><rect x='200' y='750' width='70' height='12' rx='6' fill='#D4AF37' transform='rotate(15, 235, 756)'/><rect x='750' y='800' width='60' height='12' rx='6' fill='#D4AF37' transform='rotate(-45, 780, 806)'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 41,
+                "left": 169.39999999999998,
+                "width": 741.2,
+                "height": 113,
+                "fill": "#D4AF37",
+                "text": "AIR JORDAN 1",
+                "fontFamily": "AHOY-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 145,
+                "left": 245.70999999999998,
+                "width": 580.58,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "FLYKNIT EDITION",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 319.325,
+                "left": 272.525,
+                "width": 534.95,
+                "height": 441.35,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/fZDr7fB2g_spEAHq2v_Hg_823x679.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 354.8,
+                "left": 750.92,
+                "width": 198.16,
+                "height": 90.4,
+                "fill": "#202020",
+                "text": "$20",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 26.75999999999999,
+                "width": 1026.48,
+                "height": 40.68,
+                "fill": "#FFFFFF",
+                "text": "\u2022 PREMIUM COMFORT \u2022 FLYKNIT TECHNOLOGY \u2022 ICONIC STYLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "rect",
+                "top": 980,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#D4AF37",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 996.44,
+                "left": 477.4,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#202020",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Nike Air Jordan 1 Flyknit - Wolf Grey/Gold Edition | Premium Comfort Meets Classic Style",
+            "description": "\u2022 \u2728 Limited Edition Wolf Grey colorway with striking gold Nike swoosh\n\u2022 \ud83e\uddf6 Revolutionary Flyknit upper technology for lightweight breathability\n\u2022 \ud83d\udc5f Classic Air Jordan 1 high-top silhouette with modern upgrades\n\u2022 \ud83d\udd04 Flexible knit construction that adapts to your foot shape\n\u2022 \ud83d\udcaa Durable gum rubber outsole for superior traction and grip\n\u2022 \ud83c\udf1f Premium cushioning for all-day comfort\n\u2022 \ud83d\udd25 Iconic wing logo detailing maintains heritage design\n\u2022 \u267b\ufe0f Sustainable materials with reduced environmental impact\n\u2022 \ud83c\udfc3\u200d\u2642\ufe0f Perfect for both athletic performance and street style\n\u2022 \ud83d\udc54 Versatile colorway pairs well with any outfit",
+            "price": "$20"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/fZDr7fB2g_spEAHq2v_Hg_823x679.png",
+        "marketplace_url": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThis banner features a bold and modern sneaker advertisement layout. The background consists of a dark radial gradient with abstract golden shapes and a central concentric circle design that highlights the product image. The central focus is a pair of stylish sneakers placed inside a white circular frame. The top portion includes a prominent heading (`heading`) in a large, bold, golden font followed by a white subtitle (`subheading`). Positioned on the right, a highlighted price bubble features the cost (`price`) in a dark font over a golden circle. Near the bottom, a white tagline (`tagline`) emphasizes product features in bold, uppercase typography, and the bottom-center includes a strong call-to-action button (`cta`) with a golden background (`cta_background`) and dark text.\n\n**Color Palette:**\n- Gold: `#D4AF37`\n- White: `#FFFFFF`\n- Dark Gray/Black: `#202020`, `#2A2A2A`, `#3D3D3D`\n",
+    "product_color": "\nThe product image features stylish high-top sneakers with a clean and modern color scheme, mainly consisting of light gray and mustard yellow tones. The dominant light gray color (#C3C8CC) forms the primary body of the shoe, offering a neutral, versatile base that exudes simplicity and elegance. Mustard yellow (#D9A441) is used for the branding elements, such as the Nike swoosh, tongue tag, and ankle patch, providing visual contrast and vibrance. The white midsole (#F5F5F5) further highlights the shoe\u2019s clean design, while the gum-colored outsole (#C89F76) blends subtly, grounding the palette with a natural earth tone. The colors blend seamlessly, allowing key details to stand out boldly without overpowering the overall aesthetic. Perfect for a minimalist yet impactful advertisement banner.\n"
+}

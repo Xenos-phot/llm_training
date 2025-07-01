@@ -60,6 +60,9 @@ def get_font_families(product_url, product_name, product_description):
         "font4"
         ]
         </fonts>
+        <explanation>
+        Explanation of the font families selected.
+        </explanation>
         """
         
         # Make API call to OpenAI

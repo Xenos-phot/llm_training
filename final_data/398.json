@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1C3738'/><stop offset='50%' style='stop-color:#2D5F5D'/><stop offset='100%' style='stop-color:#3B7A78'/></linearGradient><linearGradient id='sideGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F0F7F4'/><stop offset='100%' style='stop-color:#D1E8E2'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalGrad)'/><path d='M0 0 L1080 0 L1080 1080 L0 0 Z' fill='url(#sideGrad)'/><g opacity='0.1' fill='#ffffff'><circle cx='200' cy='200' r='5'/><circle cx='250' cy='200' r='5'/><circle cx='300' cy='200' r='5'/><circle cx='200' cy='250' r='5'/><circle cx='250' cy='250' r='5'/><circle cx='300' cy='250' r='5'/><circle cx='200' cy='300' r='5'/><circle cx='250' cy='300' r='5'/><circle cx='300' cy='300' r='5'/></g><g opacity='0.05' fill='#ffffff'><circle cx='850' cy='850' r='5'/><circle cx='900' cy='850' r='5'/><circle cx='950' cy='850' r='5'/><circle cx='850' cy='900' r='5'/><circle cx='900' cy='900' r='5'/><circle cx='950' cy='900' r='5'/><circle cx='850' cy='950' r='5'/><circle cx='900' cy='950' r='5'/><circle cx='950' cy='950' r='5'/></g><path d='M580 0 L600 0 L100 500 L0 500 Z' fill='#2D5F5D' opacity='0.3'/><path d='M780 0 L800 0 L200 600 L180 600 Z' fill='#2D5F5D' opacity='0.3'/><path d='M980 0 L1000 0 L300 700 L280 700 Z' fill='#2D5F5D' opacity='0.3'/><path d='M1080 100 L1080 120 L520 680 L500 680 Z' fill='#2D5F5D' opacity='0.3'/><path d='M1080 300 L1080 320 L720 680 L700 680 Z' fill='#2D5F5D' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 40, "width": 457.94, "height": 187.3, "fill": "#FFFFFF", "text": "AIRPODS\nMAX", "fontSize": 85, "fontFamily": "Wallpoet-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 230, "left": 40, "width": 487.6, "height": 45.2, "fill": "#D1E8E2", "text": "PREMIUM WIRELESS AUDIO", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 320, "left": 40, "width": 323.89, "height": 174.02, "fill": "#FFFFFF", "text": "\u2022 Active Noise Cancellation\n\u2022 Transparency Mode\n\u2022 Personalized Spatial Audio\n\u2022 Premium Comfort Design", "fontSize": 28, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 40, "width": 390.56, "height": 96.05, "fill": "#D1E8E2", "text": "$494.99", "fontSize": 85, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 40, "width": 180, "height": 60, "fill": "#4FB286", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 938, "left": 68, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 253, "left": 456, "width": 1301, "height": 1439, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/53ca17ef-6b16-46bf-9ab3-3adc0d5e445a_nobg_1301x1439.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. Brand - Apple ** Color - Green ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **", "price": "494.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/53ca17ef-6b16-46bf-9ab3-3adc0d5e445a_nobg_1301x1439.png", "marketplace_url": "https://www.amazon.com/dp/B08PZDSP2Z", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a clean and modern design highlighting a premium headphone product. The layout is divided diagonally, with the left portion in darker shades of green and the right featuring a light mint tone with semi-transparent diagonal lines adding depth. The product image is prominently positioned to the right, scaled for emphasis. The text elements include a bold headline (`heading`), a subheading tagline (`tagline`), a list of product features (`description`), a highlighted price (`price`), and a clear call-to-action button composed of a background rectangle (`cta_background`) and center-aligned text (`cta`). The overall design promotes sophistication and high performance.\n\n**Color Palette:**\n- Dark Teal: #1C3738\n- Medium Teal: #2D5F5D\n- Light Mint: #D1E8E2\n- White: #FFFFFF\n- Button Green: #4FB286\n", "product_color": "\nThe product image features sleek, modern headphones with a soft pastel green color scheme. The primary color is a metallic sage green (#A3BEB1) used on the earcups, which gives a luxurious yet calming aesthetic. The mesh padding is a complementary light mint green (#C8D6C4), smoothly blending with the earcups while adding texture. The headband is a soft off-white (#F1F3F0), providing a clean and minimal contrast. Chrome accents (#C0C0C0) highlight key connecting points, adding a touch of sophistication. These colors are harmoniously blended yet individually emphasized through texture and lighting, making a fresh, modern palette ideal for a premium tech advertisement.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='diagonalGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1C3738'/><stop offset='50%' style='stop-color:#2D5F5D'/><stop offset='100%' style='stop-color:#3B7A78'/></linearGradient><linearGradient id='sideGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#F0F7F4'/><stop offset='100%' style='stop-color:#D1E8E2'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#diagonalGrad)'/><path d='M0 0 L1080 0 L1080 1080 L0 0 Z' fill='url(#sideGrad)'/><g opacity='0.1' fill='#ffffff'><circle cx='200' cy='200' r='5'/><circle cx='250' cy='200' r='5'/><circle cx='300' cy='200' r='5'/><circle cx='200' cy='250' r='5'/><circle cx='250' cy='250' r='5'/><circle cx='300' cy='250' r='5'/><circle cx='200' cy='300' r='5'/><circle cx='250' cy='300' r='5'/><circle cx='300' cy='300' r='5'/></g><g opacity='0.05' fill='#ffffff'><circle cx='850' cy='850' r='5'/><circle cx='900' cy='850' r='5'/><circle cx='950' cy='850' r='5'/><circle cx='850' cy='900' r='5'/><circle cx='900' cy='900' r='5'/><circle cx='950' cy='900' r='5'/><circle cx='850' cy='950' r='5'/><circle cx='900' cy='950' r='5'/><circle cx='950' cy='950' r='5'/></g><path d='M580 0 L600 0 L100 500 L0 500 Z' fill='#2D5F5D' opacity='0.3'/><path d='M780 0 L800 0 L200 600 L180 600 Z' fill='#2D5F5D' opacity='0.3'/><path d='M980 0 L1000 0 L300 700 L280 700 Z' fill='#2D5F5D' opacity='0.3'/><path d='M1080 100 L1080 120 L520 680 L500 680 Z' fill='#2D5F5D' opacity='0.3'/><path d='M1080 300 L1080 320 L720 680 L700 680 Z' fill='#2D5F5D' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 40,
+                "width": 457.94,
+                "height": 187.3,
+                "fill": "#FFFFFF",
+                "text": "AIRPODS\nMAX",
+                "fontFamily": "Wallpoet-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 230,
+                "left": 40,
+                "width": 487.6,
+                "height": 45.2,
+                "fill": "#D1E8E2",
+                "text": "PREMIUM WIRELESS AUDIO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 40,
+                "width": 323.89,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Active Noise Cancellation\n\u2022 Transparency Mode\n\u2022 Personalized Spatial Audio\n\u2022 Premium Comfort Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 40,
+                "width": 390.56,
+                "height": 96.05,
+                "fill": "#D1E8E2",
+                "text": "$494.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 40,
+                "width": 180,
+                "height": 60,
+                "fill": "#4FB286",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 938,
+                "left": 68,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 253,
+                "left": 456,
+                "width": 598.46,
+                "height": 661.94,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/53ca17ef-6b16-46bf-9ab3-3adc0d5e445a_nobg_1301x1439.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "BREATHTAKING AUDIO QUALITY \u2014 Apple-designed dynamic driver provides high-fidelity audio. Computational audio combines custom acoustic design with the Apple H1 chip and software for breakthrough listening experiences. FOCUS ON WHAT\u2019S PLAYING \u2014 Active Noise Cancellation blocks outside noise so you can immerse yourself in music. HEAR THE WORLD AROUND YOU \u2014 Transparency mode lets you hear and interact with the world around you. PERSONALIZED SPATIAL AUDIO \u2014 With sound that suits your unique ear shape along with dynamic head tracking, AirPods Max deliver an immersive listening experience that places sound all around you. You can also listen to select songs, shows, and movies in Dolby Atmos. ACOUSTIC-FIRST DESIGN \u2014 Designed with a knit-mesh canopy and memory foam ear cushions for an exceptional over-ear fit that perfectly seals in sound. Brand - Apple ** Color - Green ** Ear Placement - Over Ear ** Form Factor - Over Ear ** Noise Control - Active Noise Cancellation **",
+            "price": "494.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/53ca17ef-6b16-46bf-9ab3-3adc0d5e445a_nobg_1301x1439.png",
+        "marketplace_url": "https://www.amazon.com/dp/B08PZDSP2Z",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a clean and modern design highlighting a premium headphone product. The layout is divided diagonally, with the left portion in darker shades of green and the right featuring a light mint tone with semi-transparent diagonal lines adding depth. The product image is prominently positioned to the right, scaled for emphasis. The text elements include a bold headline (`heading`), a subheading tagline (`tagline`), a list of product features (`description`), a highlighted price (`price`), and a clear call-to-action button composed of a background rectangle (`cta_background`) and center-aligned text (`cta`). The overall design promotes sophistication and high performance.\n\n**Color Palette:**\n- Dark Teal: #1C3738\n- Medium Teal: #2D5F5D\n- Light Mint: #D1E8E2\n- White: #FFFFFF\n- Button Green: #4FB286\n",
+    "product_color": "\nThe product image features sleek, modern headphones with a soft pastel green color scheme. The primary color is a metallic sage green (#A3BEB1) used on the earcups, which gives a luxurious yet calming aesthetic. The mesh padding is a complementary light mint green (#C8D6C4), smoothly blending with the earcups while adding texture. The headband is a soft off-white (#F1F3F0), providing a clean and minimal contrast. Chrome accents (#C0C0C0) highlight key connecting points, adding a touch of sophistication. These colors are harmoniously blended yet individually emphasized through texture and lighting, making a fresh, modern palette ideal for a premium tech advertisement.\n"
+}

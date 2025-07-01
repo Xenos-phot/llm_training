@@ -1,1 +1,134 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='mainGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2E2E36'/><stop offset='50%' style='stop-color:#1A1A22'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#DFD8CE'/><stop offset='100%' style='stop-color:#C4BFB6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#mainGrad)'/><path d='M1080 0 L480 0 L1080 600 Z' fill='url(#accentGrad)'/><path d='M1080 400 L1080 1080 L400 1080 Z' fill='url(#accentGrad)'/><circle cx='540' cy='540' r='350' fill='none' stroke='#85817A' stroke-width='1' opacity='0.2'/><circle cx='540' cy='540' r='250' fill='none' stroke='#85817A' stroke-width='1' opacity='0.2'/><circle cx='540' cy='540' r='450' fill='none' stroke='#85817A' stroke-width='1' opacity='0.1'/><path d='M200,200 L250,150 L300,200 L250,250 Z' fill='#85817A' opacity='0.1'/><path d='M800,800 L850,750 L900,800 L850,850 Z' fill='#85817A' opacity='0.1'/><path d='M120,700 L150,670 L180,700 L150,730 Z' fill='#85817A' opacity='0.1'/><path d='M880,320 L910,290 L940,320 L910,350 Z' fill='#85817A' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 768.48, "height": 135.6, "fill": "#FFFFFF", "text": "IMMERSIVE", "fontSize": 120, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 220, "left": 60, "width": 429.12, "height": 135.6, "fill": "#FFFFFF", "text": "AUDIO", "fontSize": 120, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 380, "left": 60, "width": 387.66, "height": 67.8, "fill": "#DFD8CE", "text": "AIRPODS MAX", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "rect", "top": 470, "left": 60, "width": 400, "height": 2, "fill": "#DFD8CE", "rx": 0, "ry": 0, "id": "decorative"}, {"type": "text", "top": 500, "left": 60, "width": 481.06, "height": 144.64, "fill": "#FFFFFF", "text": "\u2022 Pro-Level Active Noise Cancellation\n\u2022 Transparency Mode\n\u2022 Personalised Spatial Audio\n\u2022 Premium Comfort Design", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 750, "left": 60, "width": 336.25, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b959900", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 870, "left": 60, "width": 200, "height": 60, "fill": "#DFD8CE", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 885, "left": 100, "width": 135.44, "height": 31.64, "fill": "#1A1A22", "text": "BUY NOW", "fontSize": 28, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 425, "left": 511, "width": 1015, "height": 1119, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/4yUQzCJb6_RFcrHVEo-hX_1015x1119.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple AirPods Max Wireless Over-Ear Headphones, Pro-Level Active Noise Cancellation, Transparency Mode, Personalised Spatial Audio, USB-C Charging, Bluetooth Headphones for iPhone - Starlight", "description": "AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.", "price": "\u20b959900"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/4yUQzCJb6_RFcrHVEo-hX_1015x1119.png", "marketplace_url": "https://www.amazon.in/Apple-Headphones-Cancellation-Transparency-Personalised/dp/B0DGJ7S59D?th=1", "layout": "diagonal_split"}, "banner_details": "\nThe banner presents a premium tech product promotion with a modern and immersive design layout. It features a bold, catchy title using text layers `heading_1` and `heading_2`, presented in a large, white, uppercase font to command immediate attention. Below the title is a muted subheading via the `subheading` layer that introduces the product name in an elegant beige tone. A clean divider (`decorative`) separates the title area from a bullet-point feature list (`description`), styled in white and aligned vertically for readability. Large text in `price` emphasizes product affordability, followed by a beige rectangular button (`cta_background`) with dark text (`cta`) prompting user action. The banner includes a sleek, angled geometric background in dark and light gradients, complemented by soft circular and diamond patterns for visual interest. A realistic product image (`product_image`) on the right draws attention with significant scaling and crisp quality.\n\n**Color Palette:**\n- Dark Slate: #1A1A22\n- Charcoal Gray: #2E2E36\n- Warm Beige: #DFD8CE\n- Soft Taupe: #C4BFB6\n- White: #FFFFFF\n- Accent Outline: #85817A (used in subtle graphics)\n\n", "product_color": "\nThe product image showcases a set of headphones with a clean and sophisticated color palette, mainly focusing on neutral, warm tones. The dominant colors are a soft champagne gold for the ear cups (#D6CBB8) and a creamy beige for the mesh and headband (#EFE6DA). Metallic accents in silver (#C8C8C8) add refinement and contrast, while subtle shadows and highlights blend the tones seamlessly, creating a premium, elegant aesthetic. These hues are harmoniously integrated, with the soft textures enhancing light diffusion and depth. Ideal banner colors would include champagne gold, creamy beige, pearl white (#F7F5F2), and pale taupe (#D1C7BA).\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='mainGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2E2E36'/><stop offset='50%' style='stop-color:#1A1A22'/></linearGradient><linearGradient id='accentGrad' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#DFD8CE'/><stop offset='100%' style='stop-color:#C4BFB6'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#mainGrad)'/><path d='M1080 0 L480 0 L1080 600 Z' fill='url(#accentGrad)'/><path d='M1080 400 L1080 1080 L400 1080 Z' fill='url(#accentGrad)'/><circle cx='540' cy='540' r='350' fill='none' stroke='#85817A' stroke-width='1' opacity='0.2'/><circle cx='540' cy='540' r='250' fill='none' stroke='#85817A' stroke-width='1' opacity='0.2'/><circle cx='540' cy='540' r='450' fill='none' stroke='#85817A' stroke-width='1' opacity='0.1'/><path d='M200,200 L250,150 L300,200 L250,250 Z' fill='#85817A' opacity='0.1'/><path d='M800,800 L850,750 L900,800 L850,850 Z' fill='#85817A' opacity='0.1'/><path d='M120,700 L150,670 L180,700 L150,730 Z' fill='#85817A' opacity='0.1'/><path d='M880,320 L910,290 L940,320 L910,350 Z' fill='#85817A' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 768.48,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "IMMERSIVE",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 60,
+                "width": 429.12,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "AUDIO",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 380,
+                "left": 60,
+                "width": 387.66,
+                "height": 67.8,
+                "fill": "#DFD8CE",
+                "text": "AIRPODS MAX",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "rect",
+                "top": 470,
+                "left": 60,
+                "width": 400,
+                "height": 2,
+                "fill": "#DFD8CE",
+                "rx": 0,
+                "ry": 0,
+                "id": "decorative"
+            },
+            {
+                "type": "text",
+                "top": 500,
+                "left": 60,
+                "width": 481.06,
+                "height": 144.64,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Pro-Level Active Noise Cancellation\n\u2022 Transparency Mode\n\u2022 Personalised Spatial Audio\n\u2022 Premium Comfort Design",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 60,
+                "width": 336.25,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b959900",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 870,
+                "left": 60,
+                "width": 200,
+                "height": 60,
+                "fill": "#DFD8CE",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 885,
+                "left": 100,
+                "width": 135.44,
+                "height": 31.64,
+                "fill": "#1A1A22",
+                "text": "BUY NOW",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 425,
+                "left": 511,
+                "width": 558.25,
+                "height": 615.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/4yUQzCJb6_RFcrHVEo-hX_1015x1119.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple AirPods Max Wireless Over-Ear Headphones, Pro-Level Active Noise Cancellation, Transparency Mode, Personalised Spatial Audio, USB-C Charging, Bluetooth Headphones for iPhone - Starlight",
+            "description": "AirPods Max, the ultimate listening experience. Now in five new colours. An Apple-designed driver provides high-fidelity audio. Every detail, from canopy to cushions, has been designed for an exceptional fit. Pro-level Active Noise Cancellation blocks outside noise, while Transparency mode keeps you connected to your environment. Updated with a USB-C connector for even more convenient charging.",
+            "price": "\u20b959900"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66cd77e8bdc03a9ecb04cdd9/4yUQzCJb6_RFcrHVEo-hX_1015x1119.png",
+        "marketplace_url": "https://www.amazon.in/Apple-Headphones-Cancellation-Transparency-Personalised/dp/B0DGJ7S59D?th=1",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThe banner presents a premium tech product promotion with a modern and immersive design layout. It features a bold, catchy title using text layers `heading_1` and `heading_2`, presented in a large, white, uppercase font to command immediate attention. Below the title is a muted subheading via the `subheading` layer that introduces the product name in an elegant beige tone. A clean divider (`decorative`) separates the title area from a bullet-point feature list (`description`), styled in white and aligned vertically for readability. Large text in `price` emphasizes product affordability, followed by a beige rectangular button (`cta_background`) with dark text (`cta`) prompting user action. The banner includes a sleek, angled geometric background in dark and light gradients, complemented by soft circular and diamond patterns for visual interest. A realistic product image (`product_image`) on the right draws attention with significant scaling and crisp quality.\n\n**Color Palette:**\n- Dark Slate: #1A1A22\n- Charcoal Gray: #2E2E36\n- Warm Beige: #DFD8CE\n- Soft Taupe: #C4BFB6\n- White: #FFFFFF\n- Accent Outline: #85817A (used in subtle graphics)\n\n",
+    "product_color": "\nThe product image showcases a set of headphones with a clean and sophisticated color palette, mainly focusing on neutral, warm tones. The dominant colors are a soft champagne gold for the ear cups (#D6CBB8) and a creamy beige for the mesh and headband (#EFE6DA). Metallic accents in silver (#C8C8C8) add refinement and contrast, while subtle shadows and highlights blend the tones seamlessly, creating a premium, elegant aesthetic. These hues are harmoniously integrated, with the soft textures enhancing light diffusion and depth. Ideal banner colors would include champagne gold, creamy beige, pearl white (#F7F5F2), and pale taupe (#D1C7BA).\n"
+}

@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFF5EB'/><rect x='540' y='0' width='540' height='1080' fill='#F5E6D8'/><g opacity='0.3'><circle cx='200' cy='200' r='100' fill='#FF6B6B' opacity='0.1'/><circle cx='150' cy='400' r='80' fill='#FF6B6B' opacity='0.1'/><circle cx='300' cy='350' r='120' fill='#FF6B6B' opacity='0.1'/><circle cx='250' cy='600' r='90' fill='#FF6B6B' opacity='0.1'/><circle cx='400' cy='500' r='110' fill='#FF6B6B' opacity='0.1'/><circle cx='300' cy='750' r='95' fill='#FF6B6B' opacity='0.1'/><circle cx='450' cy='850' r='130' fill='#FF6B6B' opacity='0.1'/><circle cx='150' cy='900' r='85' fill='#FF6B6B' opacity='0.1'/></g><g opacity='0.5'><line x1='540' y1='0' x2='540' y2='1080' stroke='#E0D0C0' stroke-width='2'/></g><g transform='translate(800,150) rotate(30)'><circle cx='0' cy='0' r='5' fill='#D9614B'/><circle cx='20' cy='20' r='5' fill='#D9614B'/><circle cx='40' cy='40' r='5' fill='#D9614B'/><circle cx='60' cy='60' r='5' fill='#D9614B'/><circle cx='80' cy='80' r='5' fill='#D9614B'/></g><g transform='translate(700,900) rotate(30)'><circle cx='0' cy='0' r='5' fill='#D9614B'/><circle cx='20' cy='20' r='5' fill='#D9614B'/><circle cx='40' cy='40' r='5' fill='#D9614B'/><circle cx='60' cy='60' r='5' fill='#D9614B'/><circle cx='80' cy='80' r='5' fill='#D9614B'/></g><g opacity='0.3'><path d='M50,100 Q70,80 90,100 T130,100 T170,100 T210,100' stroke='#D9BBA0' stroke-width='2' fill='none'/><path d='M100,150 Q120,130 140,150 T180,150 T220,150 T260,150' stroke='#D9BBA0' stroke-width='2' fill='none'/><path d='M150,950 Q170,930 190,950 T230,950 T270,950 T310,950' stroke='#D9BBA0' stroke-width='2' fill='none'/><path d='M50,900 Q70,880 90,900 T130,900 T170,900 T210,900' stroke='#D9BBA0' stroke-width='2' fill='none'/></g><g><path d='M600,100 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/><path d='M900,200 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/><path d='M850,800 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/><path d='M700,700 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/></g></svg>", "id": "background"}, {"type": "text", "top": 120, "left": 60, "width": 302.6, "height": 162.72, "fill": "#D9614B", "text": "FLASH SALE\nENDING SOON!", "fontSize": 72, "fontFamily": "Bebas Neue-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 300, "left": 60, "width": 470.27, "height": 79.55, "fill": "#333333", "text": "CLASSIC TWIN-BELL\nALARM CLOCK", "fontSize": 32, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 440, "left": 60, "width": 448.06, "height": 103.06, "fill": "#555555", "text": "\u2022 Vintage twin-bell design for classic charm\n\u2022 Loud bell sound ensures reliable wake-ups\n\u2022 No batteries needed - mechanical operation", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 650, "left": 60, "width": 224.14, "height": 79.1, "fill": "#D9614B", "text": "\u20b9 3000", "fontSize": 70, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 780, "left": 60, "width": 220, "height": 70, "fill": "#D9614B", "rx": 0, "ry": 0, "id": "cta_button"}, {"type": "text", "top": 798, "left": 85, "width": 126.19, "height": 31.64, "fill": "#FFFFFF", "text": "BUY NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 276, "left": 600, "width": 359, "height": 527, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/VQbDUIAdKaMPgmcjbTtl7_359x527.png", "id": "product_image"}, {"type": "text", "top": 900, "left": 60, "width": 268.87, "height": 20.34, "fill": "#555555", "text": "Limited time offer. While stocks last.", "fontSize": 18, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "tagline"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Classic Mini Twin-Bell Alarm Clock - Retro Style Wake-Up Companion", "description": "\u2022 Vintage-inspired twin-bell design for classic charm\n\u2022 Compact size perfect for bedside tables and desks\n\u2022 Clean white color scheme fits any room d\u00e9cor\n\u2022 Easy-to-read analog display with bold numbers\n\u2022 Traditional mechanical operation - no batteries needed\n\u2022 Loud twin-bell sound ensures reliable wake-up calls\n\u2022 Durable metal construction built to last\n\u2022 Manual wind-up mechanism for reliable timekeeping\n\u2022 Adjustable alarm setting with simple turn mechanism\n\u2022 Portable and lightweight design for travel use\n\u2022 Nostalgic appearance with modern reliability\n\u2022 Perfect blend of form and function", "price": "\u20b93000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/VQbDUIAdKaMPgmcjbTtl7_359x527.png", "marketplace_url": "blob:https://staging-studio.phot.ai/70b1b2f6-9ee9-47b1-bf26-cae14bdebbee", "layout": "split_vertical"}, "banner_details": "\nThis banner features a clean, modern layout with a visually striking split design. The left section, in a soft peach background, houses all text-based content, while the right section includes a product image of a classic twin-bell alarm clock, dynamically overlaid on a muted beige backdrop. At the top, the \"heading\" text layer uses bold and impactful typography in a vibrant coral shade to announce an urgent promotion. Directly below is the \"subheading\" in a sharper, tech-styled font introducing the product. The \"description\" text provides three bullet-point features in a crisp, readable layout. The \"price\" layer stands out with enlarged coral text. A solid-colored rounded \"cta_button\" rectangle contains a \"cta\" label prompting immediate action in white. At the bottom is a small \"tagline\" for legal or stock disclaimers. The banner also includes subtle geometric patterns and decorative dots for visual interest, especially on the right half.\n\n**Color Palette:**\n- Coral Red: `#D9614B`\n- Warm Beige: `#FFF5EB`\n- Sandy Tan: `#F5E6D8`\n- Soft Brown: `#555555`\n- Deep Gray: `#333333`\n- Pure White: `#FFFFFF`\n", "product_color": "\nThe product image features a classic analog alarm clock with a minimalist color palette centered around white and black. The primary color is a smooth, glossy white (#FFFFFF), used for the clock body and bells, which communicates simplicity and cleanliness. Subtle gray highlights (#D1D3D4) add depth and dimensionality, indicating metallic reflection. The numbers and clock hands are a deep black (#000000), offering strong contrast for readability. A hint of soft blue-gray (#BCC7D1) is used on shadows around the bells and base, adding a cold, crisp tone. These colors are smoothly blended while each ensures visual clarity and emphasis on form.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#FFF5EB'/><rect x='540' y='0' width='540' height='1080' fill='#F5E6D8'/><g opacity='0.3'><circle cx='200' cy='200' r='100' fill='#FF6B6B' opacity='0.1'/><circle cx='150' cy='400' r='80' fill='#FF6B6B' opacity='0.1'/><circle cx='300' cy='350' r='120' fill='#FF6B6B' opacity='0.1'/><circle cx='250' cy='600' r='90' fill='#FF6B6B' opacity='0.1'/><circle cx='400' cy='500' r='110' fill='#FF6B6B' opacity='0.1'/><circle cx='300' cy='750' r='95' fill='#FF6B6B' opacity='0.1'/><circle cx='450' cy='850' r='130' fill='#FF6B6B' opacity='0.1'/><circle cx='150' cy='900' r='85' fill='#FF6B6B' opacity='0.1'/></g><g opacity='0.5'><line x1='540' y1='0' x2='540' y2='1080' stroke='#E0D0C0' stroke-width='2'/></g><g transform='translate(800,150) rotate(30)'><circle cx='0' cy='0' r='5' fill='#D9614B'/><circle cx='20' cy='20' r='5' fill='#D9614B'/><circle cx='40' cy='40' r='5' fill='#D9614B'/><circle cx='60' cy='60' r='5' fill='#D9614B'/><circle cx='80' cy='80' r='5' fill='#D9614B'/></g><g transform='translate(700,900) rotate(30)'><circle cx='0' cy='0' r='5' fill='#D9614B'/><circle cx='20' cy='20' r='5' fill='#D9614B'/><circle cx='40' cy='40' r='5' fill='#D9614B'/><circle cx='60' cy='60' r='5' fill='#D9614B'/><circle cx='80' cy='80' r='5' fill='#D9614B'/></g><g opacity='0.3'><path d='M50,100 Q70,80 90,100 T130,100 T170,100 T210,100' stroke='#D9BBA0' stroke-width='2' fill='none'/><path d='M100,150 Q120,130 140,150 T180,150 T220,150 T260,150' stroke='#D9BBA0' stroke-width='2' fill='none'/><path d='M150,950 Q170,930 190,950 T230,950 T270,950 T310,950' stroke='#D9BBA0' stroke-width='2' fill='none'/><path d='M50,900 Q70,880 90,900 T130,900 T170,900 T210,900' stroke='#D9BBA0' stroke-width='2' fill='none'/></g><g><path d='M600,100 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/><path d='M900,200 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/><path d='M850,800 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/><path d='M700,700 l15,-15 15,15 -15,15 z' fill='#D9614B' opacity='0.3'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 120,
+                "left": 60,
+                "width": 302.6,
+                "height": 162.72,
+                "fill": "#D9614B",
+                "text": "FLASH SALE\nENDING SOON!",
+                "fontFamily": "Bebas Neue-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 60,
+                "width": 470.27,
+                "height": 79.55,
+                "fill": "#333333",
+                "text": "CLASSIC TWIN-BELL\nALARM CLOCK",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 440,
+                "left": 60,
+                "width": 448.06,
+                "height": 103.06,
+                "fill": "#555555",
+                "text": "\u2022 Vintage twin-bell design for classic charm\n\u2022 Loud bell sound ensures reliable wake-ups\n\u2022 No batteries needed - mechanical operation",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 650,
+                "left": 60,
+                "width": 224.14,
+                "height": 79.1,
+                "fill": "#D9614B",
+                "text": "\u20b9 3000",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 780,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#D9614B",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 798,
+                "left": 85,
+                "width": 126.19,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "BUY NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 276,
+                "left": 600,
+                "width": 359,
+                "height": 527,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/VQbDUIAdKaMPgmcjbTtl7_359x527.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 60,
+                "width": 268.87,
+                "height": 20.34,
+                "fill": "#555555",
+                "text": "Limited time offer. While stocks last.",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Classic Mini Twin-Bell Alarm Clock - Retro Style Wake-Up Companion",
+            "description": "\u2022 Vintage-inspired twin-bell design for classic charm\n\u2022 Compact size perfect for bedside tables and desks\n\u2022 Clean white color scheme fits any room d\u00e9cor\n\u2022 Easy-to-read analog display with bold numbers\n\u2022 Traditional mechanical operation - no batteries needed\n\u2022 Loud twin-bell sound ensures reliable wake-up calls\n\u2022 Durable metal construction built to last\n\u2022 Manual wind-up mechanism for reliable timekeeping\n\u2022 Adjustable alarm setting with simple turn mechanism\n\u2022 Portable and lightweight design for travel use\n\u2022 Nostalgic appearance with modern reliability\n\u2022 Perfect blend of form and function",
+            "price": "\u20b93000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/VQbDUIAdKaMPgmcjbTtl7_359x527.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/70b1b2f6-9ee9-47b1-bf26-cae14bdebbee",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner features a clean, modern layout with a visually striking split design. The left section, in a soft peach background, houses all text-based content, while the right section includes a product image of a classic twin-bell alarm clock, dynamically overlaid on a muted beige backdrop. At the top, the \"heading\" text layer uses bold and impactful typography in a vibrant coral shade to announce an urgent promotion. Directly below is the \"subheading\" in a sharper, tech-styled font introducing the product. The \"description\" text provides three bullet-point features in a crisp, readable layout. The \"price\" layer stands out with enlarged coral text. A solid-colored rounded \"cta_button\" rectangle contains a \"cta\" label prompting immediate action in white. At the bottom is a small \"tagline\" for legal or stock disclaimers. The banner also includes subtle geometric patterns and decorative dots for visual interest, especially on the right half.\n\n**Color Palette:**\n- Coral Red: `#D9614B`\n- Warm Beige: `#FFF5EB`\n- Sandy Tan: `#F5E6D8`\n- Soft Brown: `#555555`\n- Deep Gray: `#333333`\n- Pure White: `#FFFFFF`\n",
+    "product_color": "\nThe product image features a classic analog alarm clock with a minimalist color palette centered around white and black. The primary color is a smooth, glossy white (#FFFFFF), used for the clock body and bells, which communicates simplicity and cleanliness. Subtle gray highlights (#D1D3D4) add depth and dimensionality, indicating metallic reflection. The numbers and clock hands are a deep black (#000000), offering strong contrast for readability. A hint of soft blue-gray (#BCC7D1) is used on shadows around the bells and base, adding a cold, crisp tone. These colors are smoothly blended while each ensures visual clarity and emphasis on form.\n"
+}

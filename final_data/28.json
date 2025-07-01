@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#e6d7c3'/><stop offset='100%' stop-color='#d4c1a9'/></linearGradient><linearGradient id='diag' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#8c6d51'/><stop offset='100%' stop-color='#6e5642'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#diag)'/><g opacity='0.1'><circle cx='200' cy='200' r='5' fill='#6e5642'/><circle cx='250' cy='200' r='5' fill='#6e5642'/><circle cx='300' cy='200' r='5' fill='#6e5642'/><circle cx='200' cy='250' r='5' fill='#6e5642'/><circle cx='250' cy='250' r='5' fill='#6e5642'/><circle cx='300' cy='250' r='5' fill='#6e5642'/><circle cx='200' cy='300' r='5' fill='#6e5642'/><circle cx='250' cy='300' r='5' fill='#6e5642'/><circle cx='300' cy='300' r='5' fill='#6e5642'/></g><g opacity='0.15'><circle cx='850' cy='850' r='5' fill='#ffffff'/><circle cx='900' cy='850' r='5' fill='#ffffff'/><circle cx='950' cy='850' r='5' fill='#ffffff'/><circle cx='850' cy='900' r='5' fill='#ffffff'/><circle cx='900' cy='900' r='5' fill='#ffffff'/><circle cx='950' cy='900' r='5' fill='#ffffff'/><circle cx='850' cy='950' r='5' fill='#ffffff'/><circle cx='900' cy='950' r='5' fill='#ffffff'/><circle cx='950' cy='950' r='5' fill='#ffffff'/></g><path d='M150 150 L250 150 L250 155 L150 155 Z' fill='#6e5642' opacity='0.3'/><path d='M150 850 L250 850 L250 855 L150 855 Z' fill='#ffffff' opacity='0.3'/><path d='M780 200 L880 200 L880 205 L780 205 Z' fill='#6e5642' opacity='0.3' transform='rotate(45, 830, 202.5)'/><path d='M200 780 L300 780 L300 785 L200 785 Z' fill='#ffffff' opacity='0.3' transform='rotate(45, 250, 782.5)'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 50, "width": 321.32, "height": 135.6, "fill": "#4A3728", "text": "X LOWS", "fontSize": 120, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "heading_1"}, {"type": "text", "top": 200, "left": 50, "width": 390.32, "height": 135.6, "fill": "#6e5642", "text": "CORTADO", "fontSize": 120, "fontFamily": "Squada One-Regular", "textAlign": "left", "id": "heading_2"}, {"type": "text", "top": 340, "left": 50, "width": 711.16, "height": 56.5, "fill": "#4A3728", "text": "PREMIUM CANVAS SNEAKERS", "fontSize": 50, "fontFamily": "Neuton Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 420, "left": 50, "width": 504.49, "height": 188.03, "fill": "#4A3728", "text": "\u2022 Ultra-soft canvas with brown accents\n\u2022 SpaceWalk 3-layered sole system\n\u2022 Roomy toe box for comfort\n\u2022 Lightweight cushioning", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 660, "left": 50, "width": 351.9, "height": 113, "fill": "#4A3728", "text": "\u20b9 4299", "fontSize": 100, "fontFamily": "Archivo-Black", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 800, "left": 50, "width": 220, "height": 70, "fill": "#6e5642", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 822, "left": 95, "width": 125.04, "height": 27.12, "fill": "#ffffff", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 592, "left": 448, "width": 775, "height": 391, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_4L_u6n7eIJtUFY_lHJMY_775x391.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "X Lows CORTADO", "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA", "price": "\u20b94299"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_4L_u6n7eIJtUFY_lHJMY_775x391.png", "marketplace_url": "https://www.wearcomet.com/products/x-lows-cortado", "layout": "diagonal_split"}, "banner_details": "\nThis banner features a stylish product promotion with a modern layout using a diagonal two-tone background split. The upper-left section has a light beige gradient, while the lower-right offers a rich brown gradient forming a sleek contrast. At the top-left, bold uppercase headlines (referenced by `heading_1` and `heading_2`) introduce the product with strong, display-style typography. Below, `subheading` provides a compelling descriptor in a serif typeface. The features list (`description`) follows in a clean sans-serif font, aligned left for readability. Bottom-left presents the price (`price`) in bold typographic style, with a dark button (`cta_background`) labeled by `cta`. A sneaker product image (`product_image`) is stylishly tilted on the lower-right section. The banner includes subtle circular design elements for texture. \n\n**Color Palette:**\n- Light Beige: `#e6d7c3`\n- Warm Taupe: `#d4c1a9`\n- Rich Brown: `#6e5642`\n- Deep Coffee Brown: `#4A3728`\n- White: `#ffffff`\n", "product_color": "\nThe product image features a sneaker with a neutral and earthy color palette, ideal for a minimalist advertisement banner. The primary color is a soft Cream Beige (#F5F0E6), which covers the upper canvas body, evoking understated elegance. Accents in Chocolate Brown (#5A3E2B) are used for the laces, outsole, and logo outline, adding contrast and structure. The outsole blends seamlessly with a muted Tan (#D9CBB6), forming a smooth transition that maintains harmony without sharp breaks. The star logo in White (#FFFFFF) stands out distinctly, offering a pop of brightness. Together, these colors create a balanced look with warmth, depth, and a refined modern aesthetic.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#e6d7c3'/><stop offset='100%' stop-color='#d4c1a9'/></linearGradient><linearGradient id='diag' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#8c6d51'/><stop offset='100%' stop-color='#6e5642'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg)'/><path d='M1080 0 L0 1080 L1080 1080 Z' fill='url(#diag)'/><g opacity='0.1'><circle cx='200' cy='200' r='5' fill='#6e5642'/><circle cx='250' cy='200' r='5' fill='#6e5642'/><circle cx='300' cy='200' r='5' fill='#6e5642'/><circle cx='200' cy='250' r='5' fill='#6e5642'/><circle cx='250' cy='250' r='5' fill='#6e5642'/><circle cx='300' cy='250' r='5' fill='#6e5642'/><circle cx='200' cy='300' r='5' fill='#6e5642'/><circle cx='250' cy='300' r='5' fill='#6e5642'/><circle cx='300' cy='300' r='5' fill='#6e5642'/></g><g opacity='0.15'><circle cx='850' cy='850' r='5' fill='#ffffff'/><circle cx='900' cy='850' r='5' fill='#ffffff'/><circle cx='950' cy='850' r='5' fill='#ffffff'/><circle cx='850' cy='900' r='5' fill='#ffffff'/><circle cx='900' cy='900' r='5' fill='#ffffff'/><circle cx='950' cy='900' r='5' fill='#ffffff'/><circle cx='850' cy='950' r='5' fill='#ffffff'/><circle cx='900' cy='950' r='5' fill='#ffffff'/><circle cx='950' cy='950' r='5' fill='#ffffff'/></g><path d='M150 150 L250 150 L250 155 L150 155 Z' fill='#6e5642' opacity='0.3'/><path d='M150 850 L250 850 L250 855 L150 855 Z' fill='#ffffff' opacity='0.3'/><path d='M780 200 L880 200 L880 205 L780 205 Z' fill='#6e5642' opacity='0.3' transform='rotate(45, 830, 202.5)'/><path d='M200 780 L300 780 L300 785 L200 785 Z' fill='#ffffff' opacity='0.3' transform='rotate(45, 250, 782.5)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 50,
+                "width": 321.32,
+                "height": 135.6,
+                "fill": "#4A3728",
+                "text": "X LOWS",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "heading_1"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 50,
+                "width": 390.32,
+                "height": 135.6,
+                "fill": "#6e5642",
+                "text": "CORTADO",
+                "fontFamily": "Squada One-Regular",
+                "textAlign": "left",
+                "id": "heading_2"
+            },
+            {
+                "type": "text",
+                "top": 340,
+                "left": 50,
+                "width": 711.16,
+                "height": 56.5,
+                "fill": "#4A3728",
+                "text": "PREMIUM CANVAS SNEAKERS",
+                "fontFamily": "Neuton Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 420,
+                "left": 50,
+                "width": 504.49,
+                "height": 188.03,
+                "fill": "#4A3728",
+                "text": "\u2022 Ultra-soft canvas with brown accents\n\u2022 SpaceWalk 3-layered sole system\n\u2022 Roomy toe box for comfort\n\u2022 Lightweight cushioning",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 660,
+                "left": 50,
+                "width": 351.9,
+                "height": 113,
+                "fill": "#4A3728",
+                "text": "\u20b9 4299",
+                "fontFamily": "Archivo-Black",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 800,
+                "left": 50,
+                "width": 220,
+                "height": 70,
+                "fill": "#6e5642",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 822,
+                "left": 95,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#ffffff",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 592,
+                "left": 448,
+                "width": 542.5,
+                "height": 273.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_4L_u6n7eIJtUFY_lHJMY_775x391.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "X Lows CORTADO",
+            "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA",
+            "price": "\u20b94299"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/_4L_u6n7eIJtUFY_lHJMY_775x391.png",
+        "marketplace_url": "https://www.wearcomet.com/products/x-lows-cortado",
+        "layout": "diagonal_split"
+    },
+    "banner_details": "\nThis banner features a stylish product promotion with a modern layout using a diagonal two-tone background split. The upper-left section has a light beige gradient, while the lower-right offers a rich brown gradient forming a sleek contrast. At the top-left, bold uppercase headlines (referenced by `heading_1` and `heading_2`) introduce the product with strong, display-style typography. Below, `subheading` provides a compelling descriptor in a serif typeface. The features list (`description`) follows in a clean sans-serif font, aligned left for readability. Bottom-left presents the price (`price`) in bold typographic style, with a dark button (`cta_background`) labeled by `cta`. A sneaker product image (`product_image`) is stylishly tilted on the lower-right section. The banner includes subtle circular design elements for texture. \n\n**Color Palette:**\n- Light Beige: `#e6d7c3`\n- Warm Taupe: `#d4c1a9`\n- Rich Brown: `#6e5642`\n- Deep Coffee Brown: `#4A3728`\n- White: `#ffffff`\n",
+    "product_color": "\nThe product image features a sneaker with a neutral and earthy color palette, ideal for a minimalist advertisement banner. The primary color is a soft Cream Beige (#F5F0E6), which covers the upper canvas body, evoking understated elegance. Accents in Chocolate Brown (#5A3E2B) are used for the laces, outsole, and logo outline, adding contrast and structure. The outsole blends seamlessly with a muted Tan (#D9CBB6), forming a smooth transition that maintains harmony without sharp breaks. The star logo in White (#FFFFFF) stands out distinctly, offering a pop of brightness. Together, these colors create a balanced look with warmth, depth, and a refined modern aesthetic.\n"
+}

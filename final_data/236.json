@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#2D3F2F'/><rect x='0' y='0' width='1080' height='320' fill='#1E2C20'/><rect x='600' y='320' width='480' height='760' fill='#344936'/><path d='M0 320 L1080 320 L1080 340 L0 340 Z' fill='#FFC107' opacity='0.8'/><path d='M0 740 L1080 740 L1080 760 L0 760 Z' fill='#FFC107' opacity='0.8'/><circle cx='880' cy='160' r='120' fill='#FFC107' opacity='0.2'/><circle cx='200' cy='900' r='100' fill='#FFC107' opacity='0.2'/><path d='M600 320 Q480 400 400 500 T200 700' stroke='#FFC107' stroke-width='4' opacity='0.3'/><rect x='100' y='180' width='400' height='10' rx='5' fill='#FFC107' opacity='0.4'/><rect x='600' y='580' width='380' height='10' rx='5' fill='#FFC107' opacity='0.4'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2D3F2F;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#1E2C20;stop-opacity:0.3'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/></svg>", "id": "background"}, {"type": "text", "top": 60, "left": 60, "width": 812.9, "height": 135.6, "fill": "#FFFFFF", "text": "TRAVEL SMART", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 205, "left": 60, "width": 903.28, "height": 90.4, "fill": "#FFC107", "text": "CABIN PRO LUGGAGE", "fontSize": 80, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 370, "left": 60, "width": 423.65, "height": 174.02, "fill": "#FFFFFF", "text": "\u2022 Undestructable Polycarbonate Shell\n\u2022 Lightweight Design (40L, 3.65g)\n\u2022 Quick Access Front Compartment\n\u2022 USB Charging Port", "fontSize": 28, "fontFamily": "Assistant Light", "textAlign": "left", "id": "description"}, {"type": "text", "top": 830, "left": 60, "width": 379.23, "height": 90.4, "fill": "#FFC107", "text": "$309.00", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 60, "width": 240, "height": 70, "fill": "#FFC107", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 970, "left": 102, "width": 156, "height": 33.9, "fill": "#2D3F2F", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 380, "left": 550, "width": 895, "height": 1423, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/59252576-306c-4c2e-8338-4cd3fc7d83c4_nobg_895x1423.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant **", "price": "309.00"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/59252576-306c-4c2e-8338-4cd3fc7d83c4_nobg_895x1423.png", "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY", "layout": "split_vertical"}, "banner_details": "\nThe banner presents a modern, travel-focused promotional design that showcases a cabin luggage product. It features a deep forest green background segmented with subtle darker green panels and circular highlights. Diagonal golden accent lines and horizontal gold bars add a sense of movement and sophistication. The heading (`heading`) is set in bold white uppercase text, forming a strong visual contrast, followed by a vibrant gold subheading (`subheading`) that emphasizes the product name. A concise feature list (`description`) appears in minimalist white text, highlighting product benefits. A bold gold price tag (`price`) is placed centrally at the bottom-left, paired with a matching call-to-action button (`cta`) on a solid gold rectangle (`cta_background`). On the right, a high-quality product image (`product_image`) overlaps the layout, integrating seamlessly via proportionate scaling. \n\n**Color Palette:**\n- Deep Forest Green: `#2D3F2F`\n- Dark Green: `#1E2C20`\n- Accent Yellow (Gold): `#FFC107`\n- White: `#FFFFFF`\n", "product_color": "  \nThe product image features a suitcase that utilizes a sophisticated yet vibrant color palette. The primary color is a deep olive green (#4B5A42), giving the product a sturdy and premium look. This base is tastefully accented with a bright mustard yellow (#F5B700), creating high visual contrast and effectively highlighting the edges, zippers, and inner lining. Black (#1C1C1C) details on the handle and wheels add to the sleekness while grounding the design. The inner fabric features a checked pattern in yellow and white (#FFFFFF), creating an energetic contrast. Together, the colors are well-blended yet allow critical design elements to pop.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#2D3F2F'/><rect x='0' y='0' width='1080' height='320' fill='#1E2C20'/><rect x='600' y='320' width='480' height='760' fill='#344936'/><path d='M0 320 L1080 320 L1080 340 L0 340 Z' fill='#FFC107' opacity='0.8'/><path d='M0 740 L1080 740 L1080 760 L0 760 Z' fill='#FFC107' opacity='0.8'/><circle cx='880' cy='160' r='120' fill='#FFC107' opacity='0.2'/><circle cx='200' cy='900' r='100' fill='#FFC107' opacity='0.2'/><path d='M600 320 Q480 400 400 500 T200 700' stroke='#FFC107' stroke-width='4' opacity='0.3'/><rect x='100' y='180' width='400' height='10' rx='5' fill='#FFC107' opacity='0.4'/><rect x='600' y='580' width='380' height='10' rx='5' fill='#FFC107' opacity='0.4'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2D3F2F;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#1E2C20;stop-opacity:0.3'/></linearGradient><rect x='0' y='0' width='1080' height='1080' fill='url(#grad1)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 60,
+                "left": 60,
+                "width": 812.9,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "TRAVEL SMART",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 60,
+                "width": 903.28,
+                "height": 90.4,
+                "fill": "#FFC107",
+                "text": "CABIN PRO LUGGAGE",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 370,
+                "left": 60,
+                "width": 423.65,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Undestructable Polycarbonate Shell\n\u2022 Lightweight Design (40L, 3.65g)\n\u2022 Quick Access Front Compartment\n\u2022 USB Charging Port",
+                "fontFamily": "Assistant Light",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 60,
+                "width": 379.23,
+                "height": 90.4,
+                "fill": "#FFC107",
+                "text": "$309.00",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 60,
+                "width": 240,
+                "height": 70,
+                "fill": "#FFC107",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 970,
+                "left": 102,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#2D3F2F",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 380,
+                "left": 550,
+                "width": 429.59999999999997,
+                "height": 683.04,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/59252576-306c-4c2e-8338-4cd3fc7d83c4_nobg_895x1423.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "Accessibility just made a move to the next level. No cap. Our classic Cabin Luggage has now evolved! The Cabin Pro is designed for quick access to help you breeze through security. UNDESTRUCTABLE GERMAN MARKLON POLYCARBONATE SHELL: Casing: Hard LIGHTWEIGHT & INDUSTRY BEST STORAGE: Capacity: 40liter, Weight: 3.65 grams, Dimension : 57.8 x 37 x 24.3 cm SILENT RUN JAPANESE WHEEL TECHNOLOGY: Number of wheels: 8, Super Smooth Hinomoto Wheels THE MOST FEATURE RICH LUGGAGE: USB Port: 1, Powerbank not included, Lock Type: TSA Number Lock, Comes with magic eraser, Dust Bag & Laundry Bag Water resistant: Yes Outer material - Polycarbonate ** Water resistance level - Water Resistant **",
+            "price": "309.00"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/59252576-306c-4c2e-8338-4cd3fc7d83c4_nobg_895x1423.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0BCK9RKKY",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner presents a modern, travel-focused promotional design that showcases a cabin luggage product. It features a deep forest green background segmented with subtle darker green panels and circular highlights. Diagonal golden accent lines and horizontal gold bars add a sense of movement and sophistication. The heading (`heading`) is set in bold white uppercase text, forming a strong visual contrast, followed by a vibrant gold subheading (`subheading`) that emphasizes the product name. A concise feature list (`description`) appears in minimalist white text, highlighting product benefits. A bold gold price tag (`price`) is placed centrally at the bottom-left, paired with a matching call-to-action button (`cta`) on a solid gold rectangle (`cta_background`). On the right, a high-quality product image (`product_image`) overlaps the layout, integrating seamlessly via proportionate scaling. \n\n**Color Palette:**\n- Deep Forest Green: `#2D3F2F`\n- Dark Green: `#1E2C20`\n- Accent Yellow (Gold): `#FFC107`\n- White: `#FFFFFF`\n",
+    "product_color": "  \nThe product image features a suitcase that utilizes a sophisticated yet vibrant color palette. The primary color is a deep olive green (#4B5A42), giving the product a sturdy and premium look. This base is tastefully accented with a bright mustard yellow (#F5B700), creating high visual contrast and effectively highlighting the edges, zippers, and inner lining. Black (#1C1C1C) details on the handle and wheels add to the sleekness while grounding the design. The inner fabric features a checked pattern in yellow and white (#FFFFFF), creating an energetic contrast. Together, the colors are well-blended yet allow critical design elements to pop.  \n"
+}

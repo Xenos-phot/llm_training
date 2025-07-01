@@ -1,1 +1,159 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#000C24'/><rect x='0' y='0' width='540' height='540' fill='#121E3D'/><rect x='540' y='0' width='540' height='540' fill='#0E183A'/><rect x='0' y='540' width='540' height='540' fill='#101830'/><rect x='540' y='540' width='540' height='540' fill='#1B2F6D'/><g opacity='0.3'><circle cx='100' cy='100' r='2' fill='#4F9BFF'/><circle cx='150' cy='100' r='2' fill='#4F9BFF'/><circle cx='200' cy='100' r='2' fill='#4F9BFF'/><circle cx='250' cy='100' r='2' fill='#4F9BFF'/><circle cx='300' cy='100' r='2' fill='#4F9BFF'/><circle cx='350' cy='100' r='2' fill='#4F9BFF'/><circle cx='400' cy='100' r='2' fill='#4F9BFF'/><circle cx='450' cy='100' r='2' fill='#4F9BFF'/><circle cx='500' cy='100' r='2' fill='#4F9BFF'/><circle cx='100' cy='150' r='2' fill='#4F9BFF'/><circle cx='150' cy='150' r='2' fill='#4F9BFF'/><circle cx='200' cy='150' r='2' fill='#4F9BFF'/><circle cx='250' cy='150' r='2' fill='#4F9BFF'/><circle cx='300' cy='150' r='2' fill='#4F9BFF'/><circle cx='350' cy='150' r='2' fill='#4F9BFF'/><circle cx='400' cy='150' r='2' fill='#4F9BFF'/><circle cx='450' cy='150' r='2' fill='#4F9BFF'/><circle cx='500' cy='150' r='2' fill='#4F9BFF'/></g><g opacity='0.3'><circle cx='600' cy='600' r='2' fill='#4F9BFF'/><circle cx='650' cy='600' r='2' fill='#4F9BFF'/><circle cx='700' cy='600' r='2' fill='#4F9BFF'/><circle cx='750' cy='600' r='2' fill='#4F9BFF'/><circle cx='800' cy='600' r='2' fill='#4F9BFF'/><circle cx='850' cy='600' r='2' fill='#4F9BFF'/><circle cx='900' cy='600' r='2' fill='#4F9BFF'/><circle cx='950' cy='600' r='2' fill='#4F9BFF'/><circle cx='1000' cy='600' r='2' fill='#4F9BFF'/><circle cx='600' cy='650' r='2' fill='#4F9BFF'/><circle cx='650' cy='650' r='2' fill='#4F9BFF'/><circle cx='700' cy='650' r='2' fill='#4F9BFF'/><circle cx='750' cy='650' r='2' fill='#4F9BFF'/><circle cx='800' cy='650' r='2' fill='#4F9BFF'/><circle cx='850' cy='650' r='2' fill='#4F9BFF'/><circle cx='900' cy='650' r='2' fill='#4F9BFF'/><circle cx='950' cy='650' r='2' fill='#4F9BFF'/><circle cx='1000' cy='650' r='2' fill='#4F9BFF'/></g><path d='M0 540 L1080 540' stroke='#0F54AA' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#0F54AA' stroke-width='2'/><g opacity='0.5'><rect x='50' y='180' width='80' height='4' fill='#00C2FF' rx='2'/><rect x='160' y='180' width='60' height='4' fill='#00C2FF' rx='2'/><rect x='250' y='180' width='100' height='4' fill='#00C2FF' rx='2'/><rect x='380' y='180' width='70' height='4' fill='#00C2FF' rx='2'/></g><g opacity='0.5'><rect x='650' y='180' width='80' height='4' fill='#FF00B8' rx='2'/><rect x='760' y='180' width='60' height='4' fill='#FF00B8' rx='2'/><rect x='850' y='180' width='100' height='4' fill='#FF00B8' rx='2'/><rect x='980' y='180' width='70' height='4' fill='#FF00B8' rx='2'/></g><g opacity='0.5'><rect x='50' y='800' width='80' height='4' fill='#00C2FF' rx='2'/><rect x='160' y='800' width='60' height='4' fill='#00C2FF' rx='2'/><rect x='250' y='800' width='100' height='4' fill='#00C2FF' rx='2'/><rect x='380' y='800' width='70' height='4' fill='#00C2FF' rx='2'/></g><g opacity='0.5'><rect x='650' y='800' width='80' height='4' fill='#FF00B8' rx='2'/><rect x='760' y='800' width='60' height='4' fill='#FF00B8' rx='2'/><rect x='850' y='800' width='100' height='4' fill='#FF00B8' rx='2'/><rect x='980' y='800' width='70' height='4' fill='#FF00B8' rx='2'/></g><circle cx='270' cy='270' r='150' fill='url(#gradient1)' opacity='0.2'/><circle cx='810' cy='810' r='150' fill='url(#gradient2)' opacity='0.2'/><defs><linearGradient id='gradient1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#00C2FF'/><stop offset='100%' stop-color='#0F54AA' stop-opacity='0'/></linearGradient><linearGradient id='gradient2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF00B8'/><stop offset='100%' stop-color='#0F54AA' stop-opacity='0'/></linearGradient></defs></svg>", "id": "background"}, {"type": "text", "top": 70, "left": 50, "width": 220.07, "height": 101.7, "fill": "#FFFFFF", "text": "ACER", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "brand"}, {"type": "text", "top": 186, "left": 50, "width": 394.1, "height": 84.75, "fill": "#00C2FF", "text": "MONITOR", "fontSize": 75, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 283, "left": 49, "width": 430.42, "height": 33.9, "fill": "#FF00B8", "text": "STUNNING CLARITY", "fontSize": 30, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 580, "left": 50, "width": 354.96, "height": 198.88, "fill": "#FFFFFF", "text": "\u2022 FULL HD 1920x1080\n\u2022 1MS VRB RESPONSE TIME\n\u2022 100Hz REFRESH RATE\n\u2022 EYE CARE TECHNOLOGY", "fontSize": 32, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 277.53, "height": 101.7, "fill": "#00C2FF", "text": "\u20b9 5599", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 50, "width": 387.59999999999997, "height": 56, "fill": "#FF00B8", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 953, "left": 137, "width": 218.74, "height": 33.9, "fill": "#FFFFFF", "text": "BUY NOW", "fontSize": 30, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 681, "left": 810, "width": 192.93, "height": 79.1, "fill": "#FFFFFF", "text": "21.5\"", "fontSize": 70, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "specification_1"}, {"type": "image", "top": 100, "left": 572, "width": 1367, "height": 1063, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/5dvli2aAccbhfdp67eGLP_1367x1063.png", "id": "product_image"}, {"type": "text", "top": 840, "left": 680, "width": 310.72, "height": 45.2, "fill": "#00C2FF", "text": "IPS TECHNOLOGY", "fontSize": 40, "fontFamily": "Fira Sans Bold", "textAlign": "center", "id": "specification_2"}, {"type": "text", "top": 900, "left": 700, "width": 289.61, "height": 33.9, "fill": "#FF00B8", "text": "AMD FREE SYNC", "fontSize": 30, "fontFamily": "Orbitron Bold", "textAlign": "center", "id": "specification_3"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Acer EK220Q Ebi 21.5 Inch IPS Full HD (1920x1080) Backlit LED LCD Monitor I 1 MS VRB, 100Hz Refresh I 250 Nits I 99% SRGB I HDMI & VGA Ports with HDMI Cable I AMD Free Sync I Eye Care Features (Black)", "description": "Brand: acer. Series: EK220Q E3. Colour: Black. Item Height: 18.11 Centimeters. Item Width: 50.29 Centimeters. Standing screen display size: 21.5 Inches. Screen Resolution: 1920 x 1080. Resolution: 1920 x 1080 Pixels. Product Dimensions: 37.9 x 50.29 x 18.11 cm; 2.8 kg. Number of HDMI Ports: 1. Voltage: 240 Volts. Country of Origin: China. Item Weight: 2 kg 800 g. Importer: ACER INDIA PRIVATE LIMITED Embassy Heights, 6th Floor, No. 13 Magrath Road, Next to HOSMAT Hospital, Bangalore, INDIA \u2013 560025. Item Dimensions Lx Wx H: 37.9 x 50.3 x 18.1 Centimeters. Net Quantity: 1 Piece. Generic Name: Monitor.", "price": "\u20b95599"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/5dvli2aAccbhfdp67eGLP_1367x1063.png", "marketplace_url": "https://www.amazon.in/dp/B0CLY9HWHN/?_encoding=UTF8&ref_=cct_cg_Header_2a1&pf_rd_p=74875ef4-0214-4ccc-9c6b-84cd6d384b5e&pf_rd_r=6NB6K89SYP9H2ME12JJ9&th=1", "layout": "grid_four"}, "banner_details": "\nThe banner is visually divided into four quadrants, each delivering key product details with high contrast and futuristic design. The top-left quadrant contains three text layers: a bold **brand name (\"brand\")**, a futuristic **product type (\"heading\")**, and a sleek **tagline (\"tagline\")**, all aligned to the left. The top-right quadrant centers on the **product image (\"product_image\")**, showcasing the monitor's design. The bottom-left section highlights a bullet-point **feature list (\"description\")**, the **price (\"price\")**, and a pink **call-to-action button (\"cta_background\" & \"cta\")**. The bottom-right quadrant emphasizes two **product specs (\"specification_2\" and \"specification_3\")** alongside the **screen size (\"specification_1\")**. \n\n**Color Palette**:\n- Midnight Navy: `#000C24`\n- Electric Blue: `#00C2FF`\n- Neon Magenta: `#FF00B8`\n- White: `#FFFFFF`\n- Indigo Blue: `#1B2F6D`\n\n", "product_color": "  \nThe product image showcases a vibrant neon cityscape on a monitor display, with colors smoothly transitioning from deep purples to pinks, blues, and bright cyan highlights. The background sky is a starry gradient (#0D003D to #190042), blending into a neon sunrise/sunset glow at the horizon (#FF2D95 and #FFC300). Skyscrapers are detailed in hues of cyan (#00E5FF), magenta (#FF00FF), and electric blue (#377DFF), providing dramatic contrast and depth. The monitor\u2019s bold display emphasizes high-definition visuals with bright highlights such as white (#FFFFFF) for text and vivid accents like green (#00FF85) and red (#FF0033) in the IPS icon. This energetic palette provides a futuristic and dynamic theme perfect for an advertisement banner.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#000C24'/><rect x='0' y='0' width='540' height='540' fill='#121E3D'/><rect x='540' y='0' width='540' height='540' fill='#0E183A'/><rect x='0' y='540' width='540' height='540' fill='#101830'/><rect x='540' y='540' width='540' height='540' fill='#1B2F6D'/><g opacity='0.3'><circle cx='100' cy='100' r='2' fill='#4F9BFF'/><circle cx='150' cy='100' r='2' fill='#4F9BFF'/><circle cx='200' cy='100' r='2' fill='#4F9BFF'/><circle cx='250' cy='100' r='2' fill='#4F9BFF'/><circle cx='300' cy='100' r='2' fill='#4F9BFF'/><circle cx='350' cy='100' r='2' fill='#4F9BFF'/><circle cx='400' cy='100' r='2' fill='#4F9BFF'/><circle cx='450' cy='100' r='2' fill='#4F9BFF'/><circle cx='500' cy='100' r='2' fill='#4F9BFF'/><circle cx='100' cy='150' r='2' fill='#4F9BFF'/><circle cx='150' cy='150' r='2' fill='#4F9BFF'/><circle cx='200' cy='150' r='2' fill='#4F9BFF'/><circle cx='250' cy='150' r='2' fill='#4F9BFF'/><circle cx='300' cy='150' r='2' fill='#4F9BFF'/><circle cx='350' cy='150' r='2' fill='#4F9BFF'/><circle cx='400' cy='150' r='2' fill='#4F9BFF'/><circle cx='450' cy='150' r='2' fill='#4F9BFF'/><circle cx='500' cy='150' r='2' fill='#4F9BFF'/></g><g opacity='0.3'><circle cx='600' cy='600' r='2' fill='#4F9BFF'/><circle cx='650' cy='600' r='2' fill='#4F9BFF'/><circle cx='700' cy='600' r='2' fill='#4F9BFF'/><circle cx='750' cy='600' r='2' fill='#4F9BFF'/><circle cx='800' cy='600' r='2' fill='#4F9BFF'/><circle cx='850' cy='600' r='2' fill='#4F9BFF'/><circle cx='900' cy='600' r='2' fill='#4F9BFF'/><circle cx='950' cy='600' r='2' fill='#4F9BFF'/><circle cx='1000' cy='600' r='2' fill='#4F9BFF'/><circle cx='600' cy='650' r='2' fill='#4F9BFF'/><circle cx='650' cy='650' r='2' fill='#4F9BFF'/><circle cx='700' cy='650' r='2' fill='#4F9BFF'/><circle cx='750' cy='650' r='2' fill='#4F9BFF'/><circle cx='800' cy='650' r='2' fill='#4F9BFF'/><circle cx='850' cy='650' r='2' fill='#4F9BFF'/><circle cx='900' cy='650' r='2' fill='#4F9BFF'/><circle cx='950' cy='650' r='2' fill='#4F9BFF'/><circle cx='1000' cy='650' r='2' fill='#4F9BFF'/></g><path d='M0 540 L1080 540' stroke='#0F54AA' stroke-width='2'/><path d='M540 0 L540 1080' stroke='#0F54AA' stroke-width='2'/><g opacity='0.5'><rect x='50' y='180' width='80' height='4' fill='#00C2FF' rx='2'/><rect x='160' y='180' width='60' height='4' fill='#00C2FF' rx='2'/><rect x='250' y='180' width='100' height='4' fill='#00C2FF' rx='2'/><rect x='380' y='180' width='70' height='4' fill='#00C2FF' rx='2'/></g><g opacity='0.5'><rect x='650' y='180' width='80' height='4' fill='#FF00B8' rx='2'/><rect x='760' y='180' width='60' height='4' fill='#FF00B8' rx='2'/><rect x='850' y='180' width='100' height='4' fill='#FF00B8' rx='2'/><rect x='980' y='180' width='70' height='4' fill='#FF00B8' rx='2'/></g><g opacity='0.5'><rect x='50' y='800' width='80' height='4' fill='#00C2FF' rx='2'/><rect x='160' y='800' width='60' height='4' fill='#00C2FF' rx='2'/><rect x='250' y='800' width='100' height='4' fill='#00C2FF' rx='2'/><rect x='380' y='800' width='70' height='4' fill='#00C2FF' rx='2'/></g><g opacity='0.5'><rect x='650' y='800' width='80' height='4' fill='#FF00B8' rx='2'/><rect x='760' y='800' width='60' height='4' fill='#FF00B8' rx='2'/><rect x='850' y='800' width='100' height='4' fill='#FF00B8' rx='2'/><rect x='980' y='800' width='70' height='4' fill='#FF00B8' rx='2'/></g><circle cx='270' cy='270' r='150' fill='url(#gradient1)' opacity='0.2'/><circle cx='810' cy='810' r='150' fill='url(#gradient2)' opacity='0.2'/><defs><linearGradient id='gradient1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#00C2FF'/><stop offset='100%' stop-color='#0F54AA' stop-opacity='0'/></linearGradient><linearGradient id='gradient2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FF00B8'/><stop offset='100%' stop-color='#0F54AA' stop-opacity='0'/></linearGradient></defs></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 70,
+                "left": 50,
+                "width": 220.07,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "ACER",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "brand"
+            },
+            {
+                "type": "text",
+                "top": 186,
+                "left": 50,
+                "width": 394.1,
+                "height": 84.75,
+                "fill": "#00C2FF",
+                "text": "MONITOR",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 283,
+                "left": 49,
+                "width": 430.42,
+                "height": 33.9,
+                "fill": "#FF00B8",
+                "text": "STUNNING CLARITY",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 580,
+                "left": 50,
+                "width": 354.96,
+                "height": 198.88,
+                "fill": "#FFFFFF",
+                "text": "\u2022 FULL HD 1920x1080\n\u2022 1MS VRB RESPONSE TIME\n\u2022 100Hz REFRESH RATE\n\u2022 EYE CARE TECHNOLOGY",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 277.53,
+                "height": 101.7,
+                "fill": "#00C2FF",
+                "text": "\u20b9 5599",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 50,
+                "width": 387.59999999999997,
+                "height": 56,
+                "fill": "#FF00B8",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 953,
+                "left": 137,
+                "width": 218.74,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "BUY NOW",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 681,
+                "left": 810,
+                "width": 192.93,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "21.5\"",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "specification_1"
+            },
+            {
+                "type": "image",
+                "top": 100,
+                "left": 572,
+                "width": 478.45,
+                "height": 372.04999999999995,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/5dvli2aAccbhfdp67eGLP_1367x1063.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 680,
+                "width": 310.72,
+                "height": 45.2,
+                "fill": "#00C2FF",
+                "text": "IPS TECHNOLOGY",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "center",
+                "id": "specification_2"
+            },
+            {
+                "type": "text",
+                "top": 900,
+                "left": 700,
+                "width": 289.61,
+                "height": 33.9,
+                "fill": "#FF00B8",
+                "text": "AMD FREE SYNC",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "center",
+                "id": "specification_3"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Acer EK220Q Ebi 21.5 Inch IPS Full HD (1920x1080) Backlit LED LCD Monitor I 1 MS VRB, 100Hz Refresh I 250 Nits I 99% SRGB I HDMI & VGA Ports with HDMI Cable I AMD Free Sync I Eye Care Features (Black)",
+            "description": "Brand: acer. Series: EK220Q E3. Colour: Black. Item Height: 18.11 Centimeters. Item Width: 50.29 Centimeters. Standing screen display size: 21.5 Inches. Screen Resolution: 1920 x 1080. Resolution: 1920 x 1080 Pixels. Product Dimensions: 37.9 x 50.29 x 18.11 cm; 2.8 kg. Number of HDMI Ports: 1. Voltage: 240 Volts. Country of Origin: China. Item Weight: 2 kg 800 g. Importer: ACER INDIA PRIVATE LIMITED Embassy Heights, 6th Floor, No. 13 Magrath Road, Next to HOSMAT Hospital, Bangalore, INDIA \u2013 560025. Item Dimensions Lx Wx H: 37.9 x 50.3 x 18.1 Centimeters. Net Quantity: 1 Piece. Generic Name: Monitor.",
+            "price": "\u20b95599"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fe00d878dc12b181aaa12d/5dvli2aAccbhfdp67eGLP_1367x1063.png",
+        "marketplace_url": "https://www.amazon.in/dp/B0CLY9HWHN/?_encoding=UTF8&ref_=cct_cg_Header_2a1&pf_rd_p=74875ef4-0214-4ccc-9c6b-84cd6d384b5e&pf_rd_r=6NB6K89SYP9H2ME12JJ9&th=1",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner is visually divided into four quadrants, each delivering key product details with high contrast and futuristic design. The top-left quadrant contains three text layers: a bold **brand name (\"brand\")**, a futuristic **product type (\"heading\")**, and a sleek **tagline (\"tagline\")**, all aligned to the left. The top-right quadrant centers on the **product image (\"product_image\")**, showcasing the monitor's design. The bottom-left section highlights a bullet-point **feature list (\"description\")**, the **price (\"price\")**, and a pink **call-to-action button (\"cta_background\" & \"cta\")**. The bottom-right quadrant emphasizes two **product specs (\"specification_2\" and \"specification_3\")** alongside the **screen size (\"specification_1\")**. \n\n**Color Palette**:\n- Midnight Navy: `#000C24`\n- Electric Blue: `#00C2FF`\n- Neon Magenta: `#FF00B8`\n- White: `#FFFFFF`\n- Indigo Blue: `#1B2F6D`\n\n",
+    "product_color": "  \nThe product image showcases a vibrant neon cityscape on a monitor display, with colors smoothly transitioning from deep purples to pinks, blues, and bright cyan highlights. The background sky is a starry gradient (#0D003D to #190042), blending into a neon sunrise/sunset glow at the horizon (#FF2D95 and #FFC300). Skyscrapers are detailed in hues of cyan (#00E5FF), magenta (#FF00FF), and electric blue (#377DFF), providing dramatic contrast and depth. The monitor\u2019s bold display emphasizes high-definition visuals with bright highlights such as white (#FFFFFF) for text and vivid accents like green (#00FF85) and red (#FF0033) in the IPS icon. This energetic palette provides a futuristic and dynamic theme perfect for an advertisement banner.\n"
+}

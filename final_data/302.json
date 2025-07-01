@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0a0a0a;stop-opacity:1'/><stop offset='100%' style='stop-color:#1a1a1a;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FF4500;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#FF4500;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#FF4500' stroke-width='3' fill='none' opacity='0.6'/><rect x='70' y='70' width='940' height='940' rx='15' stroke='#FF4500' stroke-width='2' fill='none' opacity='0.3'/><path d='M40 300 L520 300' stroke='#FF4500' stroke-width='4' opacity='0.8'/><path d='M40 350 L480 350' stroke='#FF4500' stroke-width='2' opacity='0.5'/><circle cx='900' cy='150' r='80' fill='#FF4500' opacity='0.1'/><circle cx='950' cy='950' r='60' fill='#FF4500' opacity='0.1'/><path d='M520 40 L1040 40 L1040 1040 L520 1040 Z' fill='#000000' opacity='0.3'/><rect x='100' y='100' width='800' height='880' rx='10' fill='#000000' opacity='0.1'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 70, "width": 692.86, "height": 101.7, "fill": "#FFFFFF", "text": "TECNO POVA", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 210, "left": 75, "width": 540.27, "height": 54.24, "fill": "#FF4500", "text": "CURVE 5G SMARTPHONE", "fontSize": 48, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 80, "width": 338.8, "height": 129.27, "fill": "#FFFFFF", "text": "6 GB RAM | 128 GB ROM\n17.22 cm Display 64MP Camera\n5500 mAh Battery Dimensity 7300\nCurved AMOLED Display", "fontSize": 22, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 70, "width": 321.14, "height": 90.4, "fill": "#FFFFFF", "text": "$15999", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 75, "width": 200, "height": 60, "fill": "#FF4500", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 968, "left": 115, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 309, "left": 534, "width": 794, "height": 1159, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9b0b7428-78d4-4b77-b349-3f0e445c550c_nobg_794x1159.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "NA 6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Display 64MP Rear Camera | 13MP Front Camera 5500 mAh Battery Dimensity 7300 Ultimate Processor ", "price": "15999"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9b0b7428-78d4-4b77-b349-3f0e445c550c_nobg_794x1159.png", "marketplace_url": "https://www.flipkart.com/tecno-pova-curve-5g-geek-black-128-gb/p/itma403c7d655267", "layout": "frame_layout"}, "banner_details": "\nThis banner features a tech-focused, modern smartphone advertisement layout with a bold and vibrant aesthetic. It consists of a dark gradient background (\"background\" layer) enhanced with orange-colored outlines and graphic accents like linear paths and soft circles, giving it a futuristic and premium touch. \n\nThe main heading (\"heading\") and subheading (\"subheading\") are prominently positioned at the top left, followed by a vertically aligned product description block (\"description\") listing key specifications. A visually striking price label (\"price\") is displayed in large, bold white typeface near the bottom left. The call-to-action button (\"cta_background\" and \"cta\") in bright orange ensures immediate user attention. \n\nA realistic, high-resolution smartphone image (\"product_image\") sits toward the right center, angled slightly for a dynamic visual presence.\n\n**Color Palette:**\n- Background: #0a0a0a \u2192 #1a1a1a (Gradient)\n- Text Highlight: #FFFFFF (White)\n- Accent & Buttons: #FF4500 (Vibrant Orange)\n- Additional Graphics: Transparent strokes and fills in orange for visual depth.\n", "product_color": "\nThe product image uses a bold and futuristic color palette that emphasizes technology and innovation. Dominant colors include matte graphite black (#1A1A1A) for the phone body, contrasted with sharp neon orange (#FF5C00) elements for emphasis. The display showcases teal green (#00BFA6) lighting on the model's face and neon red-orange (#FF3B00) accents in the futuristic glasses for vibrant highlights. These colors blend dynamically with the deep black background (#000000), enhancing contrast and making key features stand out. For an advertisement banner, a palette of Black (#000000), Neon Orange (#FF5C00), Teal Green (#00BFA6), White (#FFFFFF), and Graphite (#1A1A1A) would create a striking visual appeal.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#0a0a0a;stop-opacity:1'/><stop offset='100%' style='stop-color:#1a1a1a;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FF4500;stop-opacity:0.3'/><stop offset='100%' style='stop-color:#FF4500;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#FF4500' stroke-width='3' fill='none' opacity='0.6'/><rect x='70' y='70' width='940' height='940' rx='15' stroke='#FF4500' stroke-width='2' fill='none' opacity='0.3'/><path d='M40 300 L520 300' stroke='#FF4500' stroke-width='4' opacity='0.8'/><path d='M40 350 L480 350' stroke='#FF4500' stroke-width='2' opacity='0.5'/><circle cx='900' cy='150' r='80' fill='#FF4500' opacity='0.1'/><circle cx='950' cy='950' r='60' fill='#FF4500' opacity='0.1'/><path d='M520 40 L1040 40 L1040 1040 L520 1040 Z' fill='#000000' opacity='0.3'/><rect x='100' y='100' width='800' height='880' rx='10' fill='#000000' opacity='0.1'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 70,
+                "width": 692.86,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "TECNO POVA",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 75,
+                "width": 540.27,
+                "height": 54.24,
+                "fill": "#FF4500",
+                "text": "CURVE 5G SMARTPHONE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 80,
+                "width": 338.8,
+                "height": 129.27,
+                "fill": "#FFFFFF",
+                "text": "6 GB RAM | 128 GB ROM\n17.22 cm Display 64MP Camera\n5500 mAh Battery Dimensity 7300\nCurved AMOLED Display",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 70,
+                "width": 321.14,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "$15999",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 75,
+                "width": 200,
+                "height": 60,
+                "fill": "#FF4500",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 968,
+                "left": 115,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 309,
+                "left": 534,
+                "width": 436.70000000000005,
+                "height": 637.45,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9b0b7428-78d4-4b77-b349-3f0e445c550c_nobg_794x1159.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "NA 6 GB RAM | 128 GB ROM 17.22 cm (6.78 inch) Display 64MP Rear Camera | 13MP Front Camera 5500 mAh Battery Dimensity 7300 Ultimate Processor ",
+            "price": "15999"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/9b0b7428-78d4-4b77-b349-3f0e445c550c_nobg_794x1159.png",
+        "marketplace_url": "https://www.flipkart.com/tecno-pova-curve-5g-geek-black-128-gb/p/itma403c7d655267",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner features a tech-focused, modern smartphone advertisement layout with a bold and vibrant aesthetic. It consists of a dark gradient background (\"background\" layer) enhanced with orange-colored outlines and graphic accents like linear paths and soft circles, giving it a futuristic and premium touch. \n\nThe main heading (\"heading\") and subheading (\"subheading\") are prominently positioned at the top left, followed by a vertically aligned product description block (\"description\") listing key specifications. A visually striking price label (\"price\") is displayed in large, bold white typeface near the bottom left. The call-to-action button (\"cta_background\" and \"cta\") in bright orange ensures immediate user attention. \n\nA realistic, high-resolution smartphone image (\"product_image\") sits toward the right center, angled slightly for a dynamic visual presence.\n\n**Color Palette:**\n- Background: #0a0a0a \u2192 #1a1a1a (Gradient)\n- Text Highlight: #FFFFFF (White)\n- Accent & Buttons: #FF4500 (Vibrant Orange)\n- Additional Graphics: Transparent strokes and fills in orange for visual depth.\n",
+    "product_color": "\nThe product image uses a bold and futuristic color palette that emphasizes technology and innovation. Dominant colors include matte graphite black (#1A1A1A) for the phone body, contrasted with sharp neon orange (#FF5C00) elements for emphasis. The display showcases teal green (#00BFA6) lighting on the model's face and neon red-orange (#FF3B00) accents in the futuristic glasses for vibrant highlights. These colors blend dynamically with the deep black background (#000000), enhancing contrast and making key features stand out. For an advertisement banner, a palette of Black (#000000), Neon Orange (#FF5C00), Teal Green (#00BFA6), White (#FFFFFF), and Graphite (#1A1A1A) would create a striking visual appeal.\n"
+}

@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#240000;stop-opacity:1'/><stop offset='100%' style='stop-color:#990000;stop-opacity:1'/></linearGradient><linearGradient id='accent-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FFC700;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#FFC700;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='25' stroke='#D4AF37' stroke-width='3' fill='none' opacity='0.6'/><rect x='80' y='80' width='920' height='920' rx='15' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 40 C300 10, 600 60, 980 20' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><path d='M100 1040 C300 1070, 600 1020, 980 1060' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><path d='M40 100 C10 300, 60 600, 20 980' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><path d='M1040 100 C1070 300, 1020 600, 1060 980' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><rect x='120' y='120' width='840' height='840' rx='10' fill='#000000' opacity='0.7'/><path d='M0 200 C150 150, 300 250, 450 200 C600 150, 750 250, 1080 200' fill='url(#accent-gradient)' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='#000000' opacity='0.3'/><path d='M0 880 C150 930, 300 830, 450 880 C600 930, 750 830, 1080 880' fill='url(#accent-gradient)' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 100, "width": 968.62, "height": 101.7, "fill": "#FFFFFF", "text": "FERRARI 488 GTB", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 210, "left": 90, "width": 730.61, "height": 40.68, "fill": "#D4AF37", "text": "PURE ITALIAN MASTERPIECE", "fontSize": 36, "fontFamily": "Michroma Regular", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 300, "left": 140, "width": 353.48, "height": 157.3, "fill": "#FFFFFF", "text": "\u2022 3.9L Twin-Turbo V8 with 661 HP\n\u2022 0-60 mph in just 3.0 seconds\n\u2022 Top speed of 205+ mph\n\u2022 Iconic Rosso Corsa Red finish", "fontSize": 24, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 760, "left": 140, "width": 418.37, "height": 90.4, "fill": "#D4AF37", "text": "$120,000", "fontSize": 80, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 880, "left": 140, "width": 260, "height": 70, "fill": "#D4AF37", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 899, "left": 196, "width": 161.15, "height": 33.9, "fill": "#000000", "text": "DRIVE NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 480, "left": 140, "width": 263.35, "height": 29.38, "fill": "#FFFFFF", "text": "LIMITED TIME OFFER", "fontSize": 26, "fontFamily": "Play Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 530, "left": 140, "width": 444.03, "height": 13.56, "fill": "#FFFFFF", "text": "Experience the thrill of a lifetime. Luxury on wheels available for a limited time only.", "fontSize": 12, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description_2"}, {"type": "image", "top": 554.87, "left": 282.21, "width": 1031, "height": 263, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/eBReBH92A4NbHX78wpuBO_1031x263.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Stunning Ferrari 488 GTB - Pure Italian Masterpiece in Rosso Corsa", "description": "\u2022 Iconic Ferrari Rosso Corsa Red exterior finish\n\u2022 3.9L Twin-Turbocharged V8 Engine delivering 661 horsepower\n\u2022 0-60 mph in just 3.0 seconds\n\u2022 7-speed dual-clutch automatic transmission\n\u2022 Luxurious carbon fiber and leather interior trim\n\u2022 Premium 5-spoke forged alloy wheels with yellow brake calipers\n\u2022 Advanced aerodynamic design with side air intakes\n\u2022 Ferrari's innovative Side Slip Control system\n\u2022 Top speed of 205+ mph\n\u2022 Factory-installed sport exhaust system\n\u2022 Electronic limited-slip differential\n\u2022 Magnetorheological suspension system\n\u2022 Latest-generation infotainment system\n\u2022 Premium carbon-ceramic braking system", "price": "$120000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/eBReBH92A4NbHX78wpuBO_1031x263.png", "marketplace_url": "https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg", "layout": "frame_layout"}, "banner_details": "\nThe banner features a bold and luxurious automobile advertisement with a dark, dramatic background enhanced by soft, flowing gold linear art. At the top, a strong and prominent text layer (`heading`) introduces the vehicle model in a white, retro-bold font, conveying power and prestige. Below it, the subheading layer (`subheading`) uses an elegant golden typeface to highlight the brand's essence. A bullet-pointed feature list (`description`) details high-performance specifications in clean white text for clarity. The middle section displays the car image (`product_image`), realistically showcasing the red sports car. Near the bottom, an urgency-creating tagline (`tagline`) appears above a smaller supportive description (`description_2`). The price (`price`) is emphasized in large gold typography, and a call-to-action button (`cta_button`) in matching gold contains an actionable label (`cta`) in bold black.\n\n**Color Palette:**\n- Deep Maroon #240000\n- Rich Crimson #990000\n- Metallic Gold #D4AF37\n- Pure White #FFFFFF\n- Jet Black #000000\n", "product_color": "\nThe product image features a sleek red Ferrari, where bold color schemes highlight luxury and performance. The dominant cherry red (#B20D18) of the car body is striking and conveys passion and speed. Yellow (#F9D500) accents on the brake calipers and Ferrari emblem create contrast and draw attention, while black (#1A1A1A) elements like the window tint and tire areas add sophistication. Silver (#C0C0C0) in the alloy wheels adds a metallic sheen, enhancing the luxury feel. These colors blend naturally yet stand out vividly against each other, emphasizing the vehicle\u2019s power and elegance. Ideal palette for an ad: #B20D18, #F9D500, #C0C0C0, #1A1A1A.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='bg-gradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#240000;stop-opacity:1'/><stop offset='100%' style='stop-color:#990000;stop-opacity:1'/></linearGradient><linearGradient id='accent-gradient' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#FFC700;stop-opacity:0.7'/><stop offset='100%' style='stop-color:#FFC700;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#bg-gradient)'/><rect x='40' y='40' width='1000' height='1000' rx='25' stroke='#D4AF37' stroke-width='3' fill='none' opacity='0.6'/><rect x='80' y='80' width='920' height='920' rx='15' stroke='#D4AF37' stroke-width='2' fill='none' opacity='0.3'/><path d='M100 40 C300 10, 600 60, 980 20' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><path d='M100 1040 C300 1070, 600 1020, 980 1060' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><path d='M40 100 C10 300, 60 600, 20 980' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><path d='M1040 100 C1070 300, 1020 600, 1060 980' stroke='#D4AF37' stroke-width='3' opacity='0.3' fill='none'/><rect x='120' y='120' width='840' height='840' rx='10' fill='#000000' opacity='0.7'/><path d='M0 200 C150 150, 300 250, 450 200 C600 150, 750 250, 1080 200' fill='url(#accent-gradient)' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='#000000' opacity='0.3'/><path d='M0 880 C150 930, 300 830, 450 880 C600 930, 750 830, 1080 880' fill='url(#accent-gradient)' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 100,
+                "width": 968.62,
+                "height": 101.7,
+                "fill": "#FFFFFF",
+                "text": "FERRARI 488 GTB",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 210,
+                "left": 90,
+                "width": 730.61,
+                "height": 40.68,
+                "fill": "#D4AF37",
+                "text": "PURE ITALIAN MASTERPIECE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 140,
+                "width": 353.48,
+                "height": 157.3,
+                "fill": "#FFFFFF",
+                "text": "\u2022 3.9L Twin-Turbo V8 with 661 HP\n\u2022 0-60 mph in just 3.0 seconds\n\u2022 Top speed of 205+ mph\n\u2022 Iconic Rosso Corsa Red finish",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 760,
+                "left": 140,
+                "width": 418.37,
+                "height": 90.4,
+                "fill": "#D4AF37",
+                "text": "$120,000",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 880,
+                "left": 140,
+                "width": 260,
+                "height": 70,
+                "fill": "#D4AF37",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 899,
+                "left": 196,
+                "width": 161.15,
+                "height": 33.9,
+                "fill": "#000000",
+                "text": "DRIVE NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 480,
+                "left": 140,
+                "width": 263.35,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "LIMITED TIME OFFER",
+                "fontFamily": "Play Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 530,
+                "left": 140,
+                "width": 444.03,
+                "height": 13.56,
+                "fill": "#FFFFFF",
+                "text": "Experience the thrill of a lifetime. Luxury on wheels available for a limited time only.",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description_2"
+            },
+            {
+                "type": "image",
+                "top": 554.87,
+                "left": 282.21,
+                "width": 659.84,
+                "height": 168.32,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/eBReBH92A4NbHX78wpuBO_1031x263.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Stunning Ferrari 488 GTB - Pure Italian Masterpiece in Rosso Corsa",
+            "description": "\u2022 Iconic Ferrari Rosso Corsa Red exterior finish\n\u2022 3.9L Twin-Turbocharged V8 Engine delivering 661 horsepower\n\u2022 0-60 mph in just 3.0 seconds\n\u2022 7-speed dual-clutch automatic transmission\n\u2022 Luxurious carbon fiber and leather interior trim\n\u2022 Premium 5-spoke forged alloy wheels with yellow brake calipers\n\u2022 Advanced aerodynamic design with side air intakes\n\u2022 Ferrari's innovative Side Slip Control system\n\u2022 Top speed of 205+ mph\n\u2022 Factory-installed sport exhaust system\n\u2022 Electronic limited-slip differential\n\u2022 Magnetorheological suspension system\n\u2022 Latest-generation infotainment system\n\u2022 Premium carbon-ceramic braking system",
+            "price": "$120000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68273b5692ae04ced9daeb0c/eBReBH92A4NbHX78wpuBO_1031x263.png",
+        "marketplace_url": "https://images.pexels.com/photos/2664399/pexels-photo-2664399.jpeg",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThe banner features a bold and luxurious automobile advertisement with a dark, dramatic background enhanced by soft, flowing gold linear art. At the top, a strong and prominent text layer (`heading`) introduces the vehicle model in a white, retro-bold font, conveying power and prestige. Below it, the subheading layer (`subheading`) uses an elegant golden typeface to highlight the brand's essence. A bullet-pointed feature list (`description`) details high-performance specifications in clean white text for clarity. The middle section displays the car image (`product_image`), realistically showcasing the red sports car. Near the bottom, an urgency-creating tagline (`tagline`) appears above a smaller supportive description (`description_2`). The price (`price`) is emphasized in large gold typography, and a call-to-action button (`cta_button`) in matching gold contains an actionable label (`cta`) in bold black.\n\n**Color Palette:**\n- Deep Maroon #240000\n- Rich Crimson #990000\n- Metallic Gold #D4AF37\n- Pure White #FFFFFF\n- Jet Black #000000\n",
+    "product_color": "\nThe product image features a sleek red Ferrari, where bold color schemes highlight luxury and performance. The dominant cherry red (#B20D18) of the car body is striking and conveys passion and speed. Yellow (#F9D500) accents on the brake calipers and Ferrari emblem create contrast and draw attention, while black (#1A1A1A) elements like the window tint and tire areas add sophistication. Silver (#C0C0C0) in the alloy wheels adds a metallic sheen, enhancing the luxury feel. These colors blend naturally yet stand out vividly against each other, emphasizing the vehicle\u2019s power and elegance. Ideal palette for an ad: #B20D18, #F9D500, #C0C0C0, #1A1A1A.\n"
+}

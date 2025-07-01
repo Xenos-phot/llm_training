@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2C3E50;stop-opacity:1'/><stop offset='100%' style='stop-color:#34495E;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#DFE6E9;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#B2BEC3;stop-opacity:0.8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#A0A9AB' stroke-width='2' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#A0A9AB' stroke-width='1' fill='none'/><path d='M0,200 C250,170 400,270 550,300 C750,340 900,290 1080,350 L1080,0 L0,0 Z' fill='url(#grad2)' opacity='0.3'/><path d='M0,880 C150,920 350,850 550,900 C750,950 900,880 1080,950 L1080,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><path d='M300,200 L320,220 L340,200 L320,180 Z' fill='#A0A9AB' opacity='0.3'/><path d='M780,880 L800,900 L820,880 L800,860 Z' fill='#A0A9AB' opacity='0.3'/><path d='M200,400 L220,420 L240,400 L220,380 Z' fill='#A0A9AB' opacity='0.3'/><path d='M880,680 L900,700 L920,680 L900,660 Z' fill='#A0A9AB' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 95, "left": 95, "width": 827.59, "height": 67.8, "fill": "#FFFFFF", "text": "LUXURY SKINCARE", "fontSize": 60, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 205, "left": 100, "width": 591.2, "height": 67.8, "fill": "#B2BEC3", "text": "MM ANTI-AGING DUO", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 300, "left": 100, "width": 347.05, "height": 149.16, "fill": "#FFFFFF", "text": "Premium Anti-Aging Formula\nDual-System Beauty Technology\nLuxurious Silver Packaging\nProfessional-Grade Results", "fontSize": 24, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 100, "width": 311.81, "height": 113, "fill": "#FFFFFF", "text": "\u20b9 900", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 100, "width": 220, "height": 60, "fill": "#B2BEC3", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 968, "left": 145, "width": 125.2, "height": 27.12, "fill": "#2C3E50", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 350, "left": 570, "width": 831, "height": 1383, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/tIIdx4sykVnEjqMplKVxh_831x1383.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "MM Luxury Anti-Aging Skincare Set - Premium Beauty Duo", "description": "\u2022 Premium silver-tone packaging for an luxurious aesthetic\n\u2022 Professional-grade anti-aging formulation\n\u2022 Dual-product system for comprehensive skincare\n\u2022 Sleek, modern dispenser design for precise application\n\u2022 Travel-friendly size and secure packaging\n\u2022 Advanced moisturizing and skin perfecting technology\n\u2022 High-end cosmetic grade materials\n\u2022 Elegant minimalist design with MM branding\n\u2022 Perfect for daily skincare routine\n\u2022 Professional salon-quality beauty products", "price": "\u20b9900"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/tIIdx4sykVnEjqMplKVxh_831x1383.png", "marketplace_url": "", "layout": "frame_layout"}, "banner_details": "\nThis banner showcases a luxury skincare product with a sleek and modern layout. The background features overlapping geometric waves and softly glowing circular gradients in deep and slate blues, creating a sophisticated and calming aesthetic. The \"heading\" text is large and elegant, emphasizing the premium nature of the product. The \"subheading\" text beneath it highlights the product name in soft silver tones, contributing to the luxurious feel. The \"description\" text lists key features in a concise column. The \"price\" is prominently bold and white, paired with the rupee symbol for clarity. A rounded \"cta_background\" button with the \"cta\" text invites user interaction. On the right, a sharp and modern \"product_image\" of two silver-toned bottles enhances the premium look.\n\n**Color Palette:**\n- Midnight Blue (#2C3E50)\n- Slate Gray (#34495E)\n- Soft Silver (#B2BEC3)\n- Cloud White (#FFFFFF)\n- Accented Gray (#A0A9AB)\n\n", "product_color": "  \nThe product image showcases a sleek and modern aesthetic, dominated by a monochromatic grayscale palette. Key colors include metallic silver (#C0C0C0), glossy gunmetal gray (#4A4A4A), shiny chrome (#E5E5E5), and harsh black (#000000), accented by clear reflective glass and water droplets. The silver tones blend smoothly with gradients, creating a high-end, futuristic appeal while the dark elements add contrast and depth. Highlights on the metallic surfaces enhance texture and dimension, making the product appear luxurious and premium. For an advertisement banner, a clean black or white background with glistening silver accents would elevate the sophistication and draw focus to the product's shine.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#2C3E50;stop-opacity:1'/><stop offset='100%' style='stop-color:#34495E;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#DFE6E9;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#B2BEC3;stop-opacity:0.8'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#A0A9AB' stroke-width='2' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#A0A9AB' stroke-width='1' fill='none'/><path d='M0,200 C250,170 400,270 550,300 C750,340 900,290 1080,350 L1080,0 L0,0 Z' fill='url(#grad2)' opacity='0.3'/><path d='M0,880 C150,920 350,850 550,900 C750,950 900,880 1080,950 L1080,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><path d='M300,200 L320,220 L340,200 L320,180 Z' fill='#A0A9AB' opacity='0.3'/><path d='M780,880 L800,900 L820,880 L800,860 Z' fill='#A0A9AB' opacity='0.3'/><path d='M200,400 L220,420 L240,400 L220,380 Z' fill='#A0A9AB' opacity='0.3'/><path d='M880,680 L900,700 L920,680 L900,660 Z' fill='#A0A9AB' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 95,
+                "left": 95,
+                "width": 827.59,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "LUXURY SKINCARE",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 205,
+                "left": 100,
+                "width": 591.2,
+                "height": 67.8,
+                "fill": "#B2BEC3",
+                "text": "MM ANTI-AGING DUO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 100,
+                "width": 347.05,
+                "height": 149.16,
+                "fill": "#FFFFFF",
+                "text": "Premium Anti-Aging Formula\nDual-System Beauty Technology\nLuxurious Silver Packaging\nProfessional-Grade Results",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 100,
+                "width": 311.81,
+                "height": 113,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 900",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 100,
+                "width": 220,
+                "height": 60,
+                "fill": "#B2BEC3",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 968,
+                "left": 145,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#2C3E50",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 350,
+                "left": 570,
+                "width": 415.5,
+                "height": 691.5,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/tIIdx4sykVnEjqMplKVxh_831x1383.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "MM Luxury Anti-Aging Skincare Set - Premium Beauty Duo",
+            "description": "\u2022 Premium silver-tone packaging for an luxurious aesthetic\n\u2022 Professional-grade anti-aging formulation\n\u2022 Dual-product system for comprehensive skincare\n\u2022 Sleek, modern dispenser design for precise application\n\u2022 Travel-friendly size and secure packaging\n\u2022 Advanced moisturizing and skin perfecting technology\n\u2022 High-end cosmetic grade materials\n\u2022 Elegant minimalist design with MM branding\n\u2022 Perfect for daily skincare routine\n\u2022 Professional salon-quality beauty products",
+            "price": "\u20b9900"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/tIIdx4sykVnEjqMplKVxh_831x1383.png",
+        "marketplace_url": "",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner showcases a luxury skincare product with a sleek and modern layout. The background features overlapping geometric waves and softly glowing circular gradients in deep and slate blues, creating a sophisticated and calming aesthetic. The \"heading\" text is large and elegant, emphasizing the premium nature of the product. The \"subheading\" text beneath it highlights the product name in soft silver tones, contributing to the luxurious feel. The \"description\" text lists key features in a concise column. The \"price\" is prominently bold and white, paired with the rupee symbol for clarity. A rounded \"cta_background\" button with the \"cta\" text invites user interaction. On the right, a sharp and modern \"product_image\" of two silver-toned bottles enhances the premium look.\n\n**Color Palette:**\n- Midnight Blue (#2C3E50)\n- Slate Gray (#34495E)\n- Soft Silver (#B2BEC3)\n- Cloud White (#FFFFFF)\n- Accented Gray (#A0A9AB)\n\n",
+    "product_color": "  \nThe product image showcases a sleek and modern aesthetic, dominated by a monochromatic grayscale palette. Key colors include metallic silver (#C0C0C0), glossy gunmetal gray (#4A4A4A), shiny chrome (#E5E5E5), and harsh black (#000000), accented by clear reflective glass and water droplets. The silver tones blend smoothly with gradients, creating a high-end, futuristic appeal while the dark elements add contrast and depth. Highlights on the metallic surfaces enhance texture and dimension, making the product appear luxurious and premium. For an advertisement banner, a clean black or white background with glistening silver accents would elevate the sophistication and draw focus to the product's shine.  \n"
+}

@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#e5d3c1;stop-opacity:1' /><stop offset='100%' style='stop-color:#c9b09b;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#d6c3b0;stop-opacity:0.8' /><stop offset='100%' style='stop-color:#a68e7b;stop-opacity:0.8' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)' /><rect x='0' y='750' width='1080' height='330' fill='#a68e7b' opacity='0.15' /><g opacity='0.1'><rect x='25' y='25' width='1030' height='1030' stroke='#6b4e32' stroke-width='2' fill='none' rx='15' ry='15' /><rect x='45' y='45' width='990' height='990' stroke='#6b4e32' stroke-width='1' fill='none' rx='10' ry='10' /></g><g opacity='0.05'><circle cx='540' cy='540' r='350' fill='#6b4e32' /><circle cx='540' cy='540' r='250' fill='#a68e7b' /></g><g opacity='0.03'><path d='M0,0 L1080,1080 M1080,0 L0,1080' stroke='#6b4e32' stroke-width='2' /></g></svg>", "id": "background"}, {"type": "text", "top": 50, "left": 249.11, "width": 581.78, "height": 67.8, "fill": "#6b4e32", "text": "ELEGANCE DEFINED", "fontSize": 60, "fontFamily": "Playfair Display Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 125, "left": 84.46499999999997, "width": 911.07, "height": 31.64, "fill": "#7d5e45", "text": "Premium Oversized Wool Blend Coat in Sophisticated Camel", "fontSize": 28, "fontFamily": "Cinzel Regular", "textAlign": "center", "id": "subheading"}, {"type": "image", "top": 190, "left": 451.17, "width": 423, "height": 1271, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681d8967a4c610e61c68d750/KnB5jRJqyQnO_nh9_GOxa_423x1271.png", "id": "product_image"}, {"type": "text", "top": 730, "left": 197.64, "width": 684.72, "height": 99.44, "fill": "#5d442f", "text": "Luxurious wool-blend construction \u2022 Chic oversized silhouette\nClassic camel color \u2022 Wide notched lapels \u2022 Premium button closure\nGenerous deep pockets \u2022 Timeless design that never goes out of style", "fontSize": 22, "fontFamily": "Cormorant SC Light", "textAlign": "center", "id": "description"}, {"type": "text", "top": 840, "left": 450.32, "width": 179.36, "height": 67.8, "fill": "#6b4e32", "text": "\u20b9 1200", "fontSize": 60, "fontFamily": "Playfair Display SC Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 930, "left": 415.0, "width": 250, "height": 60, "fill": "#6b4e32", "rx": 5, "ry": 5, "id": "cta_button_background"}, {"type": "text", "top": 945, "left": 477.315, "width": 125.37, "height": 27.12, "fill": "#f2e9e1", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Elegance Defined: Premium Oversized Wool Blend Coat in Sophisticated Camel", "description": "\u2022 Luxurious wool-blend construction for superior warmth and comfort\n\u2022 Chic oversized silhouette with dropped shoulders for modern sophistication\n\u2022 Classic camel color perfect for versatile styling\n\u2022 Wide notched lapels and premium button closure\n\u2022 Generous deep side pockets for functionality\n\u2022 Cuffed sleeves for refined detailing\n\u2022 Length hits below knee for maximum coverage\n\u2022 Perfect layering piece for professional and casual outfits\n\u2022 Available in sizes XS-XL\n\u2022 Ideal for fall/winter seasons\n\u2022 Easy-care fabric blend that maintains shape\n\u2022 Timeless design that never goes out of style", "price": "\u20b91200"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681d8967a4c610e61c68d750/KnB5jRJqyQnO_nh9_GOxa_423x1271.png", "marketplace_url": "blob:https://staging-studio.phot.ai/bd6e1d51-9292-4c2d-8eae-9291c9da1de3", "layout": "centered_hero"}, "banner_details": "\nThis fashion-forward banner features a central product image (\u201cproduct_image\u201d) of a model wearing a premium oversized camel coat, perfectly aligned to create a minimalist luxury aesthetic. At the top, the bold heading (\u201cheading\u201d) and elegant subheading (\u201csubheading\u201d) convey sophistication, complemented by fine serif typography. Below the model, a balanced block of key descriptors (\u201cdescription\u201d) describes product features with bullet separators, maintaining a clean, editorial feel. The price text (\u201cprice\u201d) is prominently displayed in bold font, drawing immediate attention. A call-to-action button (\u201ccta_button_background\u201d & \u201ccta\u201d) in rich brown, anchored near the bottom, completes this refined fashion advertisement.\n\n**Color Palette:**\n- Soft Beige: `#e5d3c1`\n- Warm Camel: `#c9b09b`\n- Rich Taupe Brown: `#6b4e32`\n- Muted Coffee: `#7d5e45`\n- Ivory White: `#f2e9e1`\n- Subtle Almond: `#a68e7b`\n", "product_color": "  \nThe product image features a sophisticated and elegant neutral-toned outfit, perfect for creating a classy advertisement banner. The primary color palette consists of warm camel beige (#C4A484), soft taupe brown (#9C8B76), crisp white (#FFFFFF), and dark olive green (#3B4D3F) seen on the shoes. The camel coat and matching trousers smoothly blend into one another, creating a monochromatic yet dynamic visual effect. The pristine white shirt acts as a contrast highlight, adding freshness and elevating the ensemble. The subtle green shoes introduce depth without stealing attention. The colors are harmoniously balanced, seamlessly blending while emphasizing texture and structure.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#e5d3c1;stop-opacity:1' /><stop offset='100%' style='stop-color:#c9b09b;stop-opacity:1' /></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#d6c3b0;stop-opacity:0.8' /><stop offset='100%' style='stop-color:#a68e7b;stop-opacity:0.8' /></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)' /><rect x='0' y='750' width='1080' height='330' fill='#a68e7b' opacity='0.15' /><g opacity='0.1'><rect x='25' y='25' width='1030' height='1030' stroke='#6b4e32' stroke-width='2' fill='none' rx='15' ry='15' /><rect x='45' y='45' width='990' height='990' stroke='#6b4e32' stroke-width='1' fill='none' rx='10' ry='10' /></g><g opacity='0.05'><circle cx='540' cy='540' r='350' fill='#6b4e32' /><circle cx='540' cy='540' r='250' fill='#a68e7b' /></g><g opacity='0.03'><path d='M0,0 L1080,1080 M1080,0 L0,1080' stroke='#6b4e32' stroke-width='2' /></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 50,
+                "left": 249.11,
+                "width": 581.78,
+                "height": 67.8,
+                "fill": "#6b4e32",
+                "text": "ELEGANCE DEFINED",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 125,
+                "left": 84.46499999999997,
+                "width": 911.07,
+                "height": 31.64,
+                "fill": "#7d5e45",
+                "text": "Premium Oversized Wool Blend Coat in Sophisticated Camel",
+                "fontFamily": "Cinzel Regular",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "image",
+                "top": 190,
+                "left": 451.17,
+                "width": 177.66,
+                "height": 533.8199999999999,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681d8967a4c610e61c68d750/KnB5jRJqyQnO_nh9_GOxa_423x1271.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 730,
+                "left": 197.64,
+                "width": 684.72,
+                "height": 99.44,
+                "fill": "#5d442f",
+                "text": "Luxurious wool-blend construction \u2022 Chic oversized silhouette\nClassic camel color \u2022 Wide notched lapels \u2022 Premium button closure\nGenerous deep pockets \u2022 Timeless design that never goes out of style",
+                "fontFamily": "Cormorant SC Light",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 840,
+                "left": 450.32,
+                "width": 179.36,
+                "height": 67.8,
+                "fill": "#6b4e32",
+                "text": "\u20b9 1200",
+                "fontFamily": "Playfair Display SC Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 415.0,
+                "width": 250,
+                "height": 60,
+                "fill": "#6b4e32",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button_background"
+            },
+            {
+                "type": "text",
+                "top": 945,
+                "left": 477.315,
+                "width": 125.37,
+                "height": 27.12,
+                "fill": "#f2e9e1",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Elegance Defined: Premium Oversized Wool Blend Coat in Sophisticated Camel",
+            "description": "\u2022 Luxurious wool-blend construction for superior warmth and comfort\n\u2022 Chic oversized silhouette with dropped shoulders for modern sophistication\n\u2022 Classic camel color perfect for versatile styling\n\u2022 Wide notched lapels and premium button closure\n\u2022 Generous deep side pockets for functionality\n\u2022 Cuffed sleeves for refined detailing\n\u2022 Length hits below knee for maximum coverage\n\u2022 Perfect layering piece for professional and casual outfits\n\u2022 Available in sizes XS-XL\n\u2022 Ideal for fall/winter seasons\n\u2022 Easy-care fabric blend that maintains shape\n\u2022 Timeless design that never goes out of style",
+            "price": "\u20b91200"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/681d8967a4c610e61c68d750/KnB5jRJqyQnO_nh9_GOxa_423x1271.png",
+        "marketplace_url": "blob:https://staging-studio.phot.ai/bd6e1d51-9292-4c2d-8eae-9291c9da1de3",
+        "layout": "centered_hero"
+    },
+    "banner_details": "\nThis fashion-forward banner features a central product image (\u201cproduct_image\u201d) of a model wearing a premium oversized camel coat, perfectly aligned to create a minimalist luxury aesthetic. At the top, the bold heading (\u201cheading\u201d) and elegant subheading (\u201csubheading\u201d) convey sophistication, complemented by fine serif typography. Below the model, a balanced block of key descriptors (\u201cdescription\u201d) describes product features with bullet separators, maintaining a clean, editorial feel. The price text (\u201cprice\u201d) is prominently displayed in bold font, drawing immediate attention. A call-to-action button (\u201ccta_button_background\u201d & \u201ccta\u201d) in rich brown, anchored near the bottom, completes this refined fashion advertisement.\n\n**Color Palette:**\n- Soft Beige: `#e5d3c1`\n- Warm Camel: `#c9b09b`\n- Rich Taupe Brown: `#6b4e32`\n- Muted Coffee: `#7d5e45`\n- Ivory White: `#f2e9e1`\n- Subtle Almond: `#a68e7b`\n",
+    "product_color": "  \nThe product image features a sophisticated and elegant neutral-toned outfit, perfect for creating a classy advertisement banner. The primary color palette consists of warm camel beige (#C4A484), soft taupe brown (#9C8B76), crisp white (#FFFFFF), and dark olive green (#3B4D3F) seen on the shoes. The camel coat and matching trousers smoothly blend into one another, creating a monochromatic yet dynamic visual effect. The pristine white shirt acts as a contrast highlight, adding freshness and elevating the ensemble. The subtle green shoes introduce depth without stealing attention. The colors are harmoniously balanced, seamlessly blending while emphasizing texture and structure.\n"
+}

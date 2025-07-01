@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:#F0F4F8'/><stop offset='100%' style='stop-color:#E0E8F0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='100' cy='100' r='150' fill='#FFFFFF' opacity='0.05'/><circle cx='980' cy='980' r='200' fill='#FFFFFF' opacity='0.05'/><path d='M0 800 L200 1080 H0 V800 Z' fill='#FFFFFF' opacity='0.07'/><path d='M1080 200 L880 0 H1080 V200 Z' fill='#FFFFFF' opacity='0.07'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 50, "width": 505.12, "height": 171.76, "fill": "#333333", "text": "KALIDI\nCROSSBODY", "fontSize": 80, "fontFamily": "Poppins-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 300, "left": 50, "width": 430.08, "height": 45.2, "fill": "#5D7A9A", "text": "Vegan Leather Bucket Bag", "fontSize": 40, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 400, "left": 50, "width": 298.18, "height": 103.06, "fill": "#4A4A4A", "text": "\u2022 Premium Vegan Leather\n\u2022 Fashionable Crossbody Style\n\u2022 Convenient Multi Pockets", "fontSize": 24, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 750, "left": 50, "width": 346.27, "height": 101.7, "fill": "#333333", "text": "$24.99", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 50, "width": 200, "height": 60, "fill": "#5D7A9A", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 918, "left": 75, "width": 125.2, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 300, "left": 545, "width": 1343, "height": 1079, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/A3VAUjyUSwpZBlmO1uwJh_1343x1079.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "KALIDI Crossbody Purses for Women Vegan Leather Bucket Bag Fashion Ladies Crossbody Handbag Shoulder Purse with Multi Pockets", "description": "Package Dimensions: 9.96 x 8.58 x 1.77 inches; 1.12 Pounds. Department: Women. Country of Origin: China. Customer Reviews: 4.7 4.7 out of 5 stars 122 ratings.", "price": "$24.99"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/A3VAUjyUSwpZBlmO1uwJh_1343x1079.png", "marketplace_url": "https://www.amazon.com/KALIDI-Crossbody-Shoulder-Handbag-Adjustable/dp/B0DC3ZK7WJ/ref=pd_ci_mcx_mh_mcx_views_0_image?pd_rd_w=b1iJh&content-id=amzn1.sym.bb21fc54-1dd8-448e-92bb-2ddce187f4ac%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=bb21fc54-1dd8-448e-92bb-2ddce187f4ac&pf_rd_r=JH0SNN1CXQ0C2K3HGG6V&pd_rd_wg=sz9q0&pd_rd_r=35627b4d-9864-4894-94af-e0cb360c2c40&pd_rd_i=B0DC3ZK7WJ&th=1", "layout": "split_vertical"}, "banner_details": "\nThis banner design showcases a stylish product display for a vegan leather crossbody bag. On the left, the **heading** text layer uses bold typography in dark gray for strong visual impact. Below it, the **subheading** text layer uses soft desaturated blue to describe the product type with a clean and modern look. The **description** text layer follows, listing product features in a smaller gray font with bullet points for easy readability.\n\nThe **price** text layer is emphasized in bold black, drawing attention at the bottom. A blue rectangular **cta_background** behind the **cta** text layer (\"SHOP NOW\") invites action. On the right side, the **product_image** layer displays the crossbody bag prominently against a soft blue gradient **background** featuring subtle white shapes for depth and elegance.\n\n**Color Palette:**\n- Deep Charcoal (#333333)\n- Steel Blue (#5D7A9A)\n- Light Slate Gray (#4A4A4A)\n- Pure White (#FFFFFF)\n- Gradient Baby Blue: from (#F0F4F8) to (#E0E8F0)\n", "product_color": "\nThe product image features a stylish handbag with a sophisticated and balanced color palette. The left panel of the bag is a soft, textured cream beige (#F5EADB), giving it a warm, neutral tone. The right panel contrasts with a rich tweedy combination of deep navy blue (#1C2A3A), turquoise blue (#69C6D5), white (#FFFFFF), and hints of brown (#6E4E37). The strap and trim are a solid navy blue (#1C2A3A), providing depth and elegance. Gold metallic hardware (#D4AF37) adds a luxurious highlight. The blending of fabric textures and colors creates a chic design, perfect for banner ads emphasizing modern sophistication.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><defs><radialGradient id='bgGradient' cx='50%' cy='50%' r='70%' fx='50%' fy='50%'><stop offset='0%' style='stop-color:#F0F4F8'/><stop offset='100%' style='stop-color:#E0E8F0'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='100' cy='100' r='150' fill='#FFFFFF' opacity='0.05'/><circle cx='980' cy='980' r='200' fill='#FFFFFF' opacity='0.05'/><path d='M0 800 L200 1080 H0 V800 Z' fill='#FFFFFF' opacity='0.07'/><path d='M1080 200 L880 0 H1080 V200 Z' fill='#FFFFFF' opacity='0.07'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 50,
+                "width": 505.12,
+                "height": 171.76,
+                "fill": "#333333",
+                "text": "KALIDI\nCROSSBODY",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 300,
+                "left": 50,
+                "width": 430.08,
+                "height": 45.2,
+                "fill": "#5D7A9A",
+                "text": "Vegan Leather Bucket Bag",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 400,
+                "left": 50,
+                "width": 298.18,
+                "height": 103.06,
+                "fill": "#4A4A4A",
+                "text": "\u2022 Premium Vegan Leather\n\u2022 Fashionable Crossbody Style\n\u2022 Convenient Multi Pockets",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 750,
+                "left": 50,
+                "width": 346.27,
+                "height": 101.7,
+                "fill": "#333333",
+                "text": "$24.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 50,
+                "width": 200,
+                "height": 60,
+                "fill": "#5D7A9A",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 918,
+                "left": 75,
+                "width": 125.2,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 300,
+                "left": 545,
+                "width": 537.2,
+                "height": 431.6,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/A3VAUjyUSwpZBlmO1uwJh_1343x1079.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "KALIDI Crossbody Purses for Women Vegan Leather Bucket Bag Fashion Ladies Crossbody Handbag Shoulder Purse with Multi Pockets",
+            "description": "Package Dimensions: 9.96 x 8.58 x 1.77 inches; 1.12 Pounds. Department: Women. Country of Origin: China. Customer Reviews: 4.7 4.7 out of 5 stars 122 ratings.",
+            "price": "$24.99"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66853609dbce0eaa2ab7c6a1/A3VAUjyUSwpZBlmO1uwJh_1343x1079.png",
+        "marketplace_url": "https://www.amazon.com/KALIDI-Crossbody-Shoulder-Handbag-Adjustable/dp/B0DC3ZK7WJ/ref=pd_ci_mcx_mh_mcx_views_0_image?pd_rd_w=b1iJh&content-id=amzn1.sym.bb21fc54-1dd8-448e-92bb-2ddce187f4ac%3Aamzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=bb21fc54-1dd8-448e-92bb-2ddce187f4ac&pf_rd_r=JH0SNN1CXQ0C2K3HGG6V&pd_rd_wg=sz9q0&pd_rd_r=35627b4d-9864-4894-94af-e0cb360c2c40&pd_rd_i=B0DC3ZK7WJ&th=1",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis banner design showcases a stylish product display for a vegan leather crossbody bag. On the left, the **heading** text layer uses bold typography in dark gray for strong visual impact. Below it, the **subheading** text layer uses soft desaturated blue to describe the product type with a clean and modern look. The **description** text layer follows, listing product features in a smaller gray font with bullet points for easy readability.\n\nThe **price** text layer is emphasized in bold black, drawing attention at the bottom. A blue rectangular **cta_background** behind the **cta** text layer (\"SHOP NOW\") invites action. On the right side, the **product_image** layer displays the crossbody bag prominently against a soft blue gradient **background** featuring subtle white shapes for depth and elegance.\n\n**Color Palette:**\n- Deep Charcoal (#333333)\n- Steel Blue (#5D7A9A)\n- Light Slate Gray (#4A4A4A)\n- Pure White (#FFFFFF)\n- Gradient Baby Blue: from (#F0F4F8) to (#E0E8F0)\n",
+    "product_color": "\nThe product image features a stylish handbag with a sophisticated and balanced color palette. The left panel of the bag is a soft, textured cream beige (#F5EADB), giving it a warm, neutral tone. The right panel contrasts with a rich tweedy combination of deep navy blue (#1C2A3A), turquoise blue (#69C6D5), white (#FFFFFF), and hints of brown (#6E4E37). The strap and trim are a solid navy blue (#1C2A3A), providing depth and elegance. Gold metallic hardware (#D4AF37) adds a luxurious highlight. The blending of fabric textures and colors creates a chic design, perfect for banner ads emphasizing modern sophistication.\n"
+}

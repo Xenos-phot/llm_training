@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1a1a2e;stop-opacity:1'/><stop offset='100%' style='stop-color:#2a2a3e;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF6F00;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#FF8F00;stop-opacity:0.0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0,0 L500,0 L250,250 Z' fill='url(#grad2)'/><path d='M1080,1080 L580,1080 L830,830 Z' fill='url(#grad2)'/><path d='M0 400 L1080 400' stroke='rgba(255, 111, 0, 0.2)' stroke-width='1' stroke-dasharray='10 5'/><path d='M0 800 L1080 800' stroke='rgba(255, 111, 0, 0.2)' stroke-width='1' stroke-dasharray='10 5'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='rgba(255, 111, 0, 0.3)' stroke-width='2' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='rgba(255, 111, 0, 0.1)' stroke-width='1' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 90, "left": 75, "width": 847.46, "height": 174.02, "fill": "#FFFFFF", "text": "SteelSeries Apex Pro\nMini Wireless", "fontSize": 70, "fontFamily": "Orbitron Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 275, "left": 80, "width": 743.4, "height": 56.5, "fill": "#FF8F00", "text": "HyperMagnetic Gaming Keyboard", "fontSize": 50, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 360, "left": 85, "width": 380.81, "height": 141.02, "fill": "#E0E0E0", "text": "Compact 60% Form Factor\nOmniPoint 2.0 Adjustable Switches\nRapid Trigger Technology\nQuantum 2.0 Dual Wireless", "fontSize": 24, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "image", "top": 508.86, "left": 302, "width": 1439, "height": 723, "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3b0a5083-9596-45de-9185-b2bf94207b54_nobg_1439x723.png", "id": "product_image"}, {"type": "text", "top": 830, "left": 75, "width": 383.27, "height": 101.7, "fill": "#FF8F00", "text": "$179.99", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 80, "width": 220, "height": 60, "fill": "#FF6F00", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 965, "left": 119, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "", "description": "The Apex Pro Mini Wireless is the world's first Hall Effect magnetic switch gaming keyboard. Featuring OmniPoint 2.0 Adjustable HyperMagnetic Switches with Rapid Trigger, total adjustability of actuation points, and 2-in-1 Acton keys for 20x quicker actuation and 11x faster response, all while playing on a compact, 60% keyboard. FULLY CUSTOMIZABLE & STUPIDLY FAST with OmniPoint 2.0 Adjustable HyperMagnetic switches RAPID TRIGGER \u2014 Eradicate latency arising from the physical movement of the switch through dynamic activation and deactivation of keys based on travel distance rather than a fixed point in the key travel. ULTIMATE CONTROL \u2014 40 levels of per-key actuation (0.1 \u2013 4.0mm) \u2013 set WASD for light, ultra-fast movements and set ability keys to deep presses to avoid accidentally triggering specials 2-IN-1 ACTION KEYS \u2014 Program two different actions to the same key, such as walking with a light touch or sprinting with a deep press 20x faster actuation, 11x faster response than traditional mechanical keyboards Lag-free Quantum 2.0 Dual Wireless with a 2.4GHz connection and Bluetooth 5.0 60% form factor. Full-size functionality. Premium aluminum top plate. Detachable USB-C. Brand - SteelSeries ** Compatible Devices - PC, Gaming Console ** Connectivity Technology - wired, wireless ** Keyboard Description - Mechanical, Gaming ** Recommended Uses For Product - Gaming ** Special Feature - Ergonomic ** Color - Pro Gen 2 ** Number of Keys - 61 ** Keyboard backlighting color support - RGB ** Style - Pro Gen 2 Wireless **", "price": "179.99"}, "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3b0a5083-9596-45de-9185-b2bf94207b54_nobg_1439x723.png", "marketplace_url": "https://www.amazon.com/dp/B0B16JFF54", "layout": "frame_layout"}, "banner_details": "\nThis banner features a sleek and modern tech-oriented design aimed at showcasing a high-performance gaming keyboard. The layout includes a large bold heading (`heading`) in a futuristic sans-serif font, establishing the product name with strong presence. Top center alignment and ample spacing gives it prominence. A vibrant subheading (`subheading`) in bright orange accentuates the unique selling point of the keyboard. Just below, a detailed list (`description`) in smaller, light gray text provides technical highlights. The center showcases a prominently placed product image (`product_image`) with vivid RGB lighting. The price (`price`) stands out in large, bold orange text. A bright orange rectangular button (`cta_button`) with white text (`cta`) calls users to action. The background uses deep gradient tones with diagonal geometric overlays and soft orange dashed lines for structure and energy.\n\n**Color Palette:**\n- Midnight Navy: `#1a1a2e` to `#2a2a3e` (background gradient)\n- Vivid Orange: `#FF8F00` (texts, accents)\n- Burnt Orange: `#FF6F00` (button, details)\n- Soft Gray: `#E0E0E0` (description text)\n- White: `#FFFFFF` (main heading & button text)\n", "product_color": "\nThis keyboard image features a dynamic RGB lighting design, showcasing a vibrant spectrum of colors that blend seamlessly across the keys. The keycaps are matte black (#2C2C2C), providing high contrast against the backlit hues, enhancing readability and visual appeal. Prominent colors include neon cyan (#00FFFF), magenta (#FF00FF), electric blue (#007BFF), lemon yellow (#FFFF00), and fiery orange-red (#FF4500), creating a futuristic gaming aesthetic. The rainbow gradient smoothly transitions across rows, combining cool tones at the center and warmer shades on the outer edges. Ideal for a promotional banner, this palette supports an energetic and tech-savvy vibe that grabs attention.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#1a1a2e;stop-opacity:1'/><stop offset='100%' style='stop-color:#2a2a3e;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#FF6F00;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#FF8F00;stop-opacity:0.0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><path d='M0,0 L500,0 L250,250 Z' fill='url(#grad2)'/><path d='M1080,1080 L580,1080 L830,830 Z' fill='url(#grad2)'/><path d='M0 400 L1080 400' stroke='rgba(255, 111, 0, 0.2)' stroke-width='1' stroke-dasharray='10 5'/><path d='M0 800 L1080 800' stroke='rgba(255, 111, 0, 0.2)' stroke-width='1' stroke-dasharray='10 5'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='rgba(255, 111, 0, 0.3)' stroke-width='2' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='rgba(255, 111, 0, 0.1)' stroke-width='1' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 90,
+                "left": 75,
+                "width": 847.46,
+                "height": 174.02,
+                "fill": "#FFFFFF",
+                "text": "SteelSeries Apex Pro\nMini Wireless",
+                "fontFamily": "Orbitron Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 275,
+                "left": 80,
+                "width": 743.4,
+                "height": 56.5,
+                "fill": "#FF8F00",
+                "text": "HyperMagnetic Gaming Keyboard",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 360,
+                "left": 85,
+                "width": 380.81,
+                "height": 141.02,
+                "fill": "#E0E0E0",
+                "text": "Compact 60% Form Factor\nOmniPoint 2.0 Adjustable Switches\nRapid Trigger Technology\nQuantum 2.0 Dual Wireless",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 508.86,
+                "left": 302,
+                "width": 719.5,
+                "height": 318.12,
+                "src": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3b0a5083-9596-45de-9185-b2bf94207b54_nobg_1439x723.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 830,
+                "left": 75,
+                "width": 383.27,
+                "height": 101.7,
+                "fill": "#FF8F00",
+                "text": "$179.99",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 80,
+                "width": 220,
+                "height": 60,
+                "fill": "#FF6F00",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 965,
+                "left": 119,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "",
+            "description": "The Apex Pro Mini Wireless is the world's first Hall Effect magnetic switch gaming keyboard. Featuring OmniPoint 2.0 Adjustable HyperMagnetic Switches with Rapid Trigger, total adjustability of actuation points, and 2-in-1 Acton keys for 20x quicker actuation and 11x faster response, all while playing on a compact, 60% keyboard. FULLY CUSTOMIZABLE & STUPIDLY FAST with OmniPoint 2.0 Adjustable HyperMagnetic switches RAPID TRIGGER \u2014 Eradicate latency arising from the physical movement of the switch through dynamic activation and deactivation of keys based on travel distance rather than a fixed point in the key travel. ULTIMATE CONTROL \u2014 40 levels of per-key actuation (0.1 \u2013 4.0mm) \u2013 set WASD for light, ultra-fast movements and set ability keys to deep presses to avoid accidentally triggering specials 2-IN-1 ACTION KEYS \u2014 Program two different actions to the same key, such as walking with a light touch or sprinting with a deep press 20x faster actuation, 11x faster response than traditional mechanical keyboards Lag-free Quantum 2.0 Dual Wireless with a 2.4GHz connection and Bluetooth 5.0 60% form factor. Full-size functionality. Premium aluminum top plate. Detachable USB-C. Brand - SteelSeries ** Compatible Devices - PC, Gaming Console ** Connectivity Technology - wired, wireless ** Keyboard Description - Mechanical, Gaming ** Recommended Uses For Product - Gaming ** Special Feature - Ergonomic ** Color - Pro Gen 2 ** Number of Keys - 61 ** Keyboard backlighting color support - RGB ** Style - Pro Gen 2 Wireless **",
+            "price": "179.99"
+        },
+        "image_url": "https://s3.us-east-2.wasabisys.com/ai-image-editor-webapp/test-images/3b0a5083-9596-45de-9185-b2bf94207b54_nobg_1439x723.png",
+        "marketplace_url": "https://www.amazon.com/dp/B0B16JFF54",
+        "layout": "frame_layout"
+    },
+    "banner_details": "\nThis banner features a sleek and modern tech-oriented design aimed at showcasing a high-performance gaming keyboard. The layout includes a large bold heading (`heading`) in a futuristic sans-serif font, establishing the product name with strong presence. Top center alignment and ample spacing gives it prominence. A vibrant subheading (`subheading`) in bright orange accentuates the unique selling point of the keyboard. Just below, a detailed list (`description`) in smaller, light gray text provides technical highlights. The center showcases a prominently placed product image (`product_image`) with vivid RGB lighting. The price (`price`) stands out in large, bold orange text. A bright orange rectangular button (`cta_button`) with white text (`cta`) calls users to action. The background uses deep gradient tones with diagonal geometric overlays and soft orange dashed lines for structure and energy.\n\n**Color Palette:**\n- Midnight Navy: `#1a1a2e` to `#2a2a3e` (background gradient)\n- Vivid Orange: `#FF8F00` (texts, accents)\n- Burnt Orange: `#FF6F00` (button, details)\n- Soft Gray: `#E0E0E0` (description text)\n- White: `#FFFFFF` (main heading & button text)\n",
+    "product_color": "\nThis keyboard image features a dynamic RGB lighting design, showcasing a vibrant spectrum of colors that blend seamlessly across the keys. The keycaps are matte black (#2C2C2C), providing high contrast against the backlit hues, enhancing readability and visual appeal. Prominent colors include neon cyan (#00FFFF), magenta (#FF00FF), electric blue (#007BFF), lemon yellow (#FFFF00), and fiery orange-red (#FF4500), creating a futuristic gaming aesthetic. The rainbow gradient smoothly transitions across rows, combining cool tones at the center and warmer shades on the outer edges. Ideal for a promotional banner, this palette supports an energetic and tech-savvy vibe that grabs attention.\n"
+}

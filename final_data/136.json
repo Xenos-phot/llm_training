@@ -1,1 +1,132 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F2E9'/><rect x='0' y='0' width='540' height='540' fill='#F8F5F0'/><rect x='540' y='0' width='540' height='540' fill='#E8E0D5'/><rect x='0' y='540' width='540' height='540' fill='#D9C3AB'/><rect x='540' y='540' width='540' height='540' fill='#EDE5D7'/><g opacity='0.15'><path d='M0,0 L1080,1080' stroke='#8B5A2B' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#8B5A2B' stroke-width='2'/></g><circle cx='270' cy='270' r='150' fill='#E8D8C5' opacity='0.4'/><circle cx='810' cy='810' r='180' fill='#D4BEA7' opacity='0.4'/><g transform='translate(40, 40)'><path d='M0 40 L40 0 L80 40 L120 0 L160 40' stroke='#8B5A2B' stroke-width='3' fill='none'/></g><g transform='translate(850, 100)'><circle cx='0' cy='0' r='5' fill='#8B5A2B'/><circle cx='20' cy='0' r='5' fill='#8B5A2B'/><circle cx='40' cy='0' r='5' fill='#8B5A2B'/><circle cx='60' cy='0' r='5' fill='#8B5A2B'/><circle cx='80' cy='0' r='5' fill='#8B5A2B'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#8B5A2B'/><circle cx='20' cy='0' r='5' fill='#8B5A2B'/><circle cx='40' cy='0' r='5' fill='#8B5A2B'/><circle cx='60' cy='0' r='5' fill='#8B5A2B'/><circle cx='80' cy='0' r='5' fill='#8B5A2B'/></g><path d='M20,520 L1060,520' stroke='#8B5A2B' stroke-width='1' stroke-opacity='0.3'/><path d='M540,20 L540,1060' stroke='#8B5A2B' stroke-width='1' stroke-opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 331.4, "height": 101.7, "fill": "#5D4037", "text": "X LOWS", "fontSize": 90, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 190, "left": 60, "width": 355.84, "height": 90.4, "fill": "#8B5A2B", "text": "CORTADO", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 60, "width": 447.22, "height": 67.57, "fill": "#6D4C41", "text": "A perfect blend of style & comfort,\nlike its namesake Spanish coffee", "fontSize": 26, "fontFamily": "Poppins-Italic", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 50, "width": 434.21, "height": 176.28, "fill": "#3A2618", "text": "\u2022 Ever-soft and ever-snug grip\n\u2022 Roomy toe box for comfort\n\u2022 3-layered SpaceWalk sole system\n\u2022 Zero slip, max abrasion resistance", "fontSize": 30, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 50, "width": 282, "height": 90.4, "fill": "#5D4037", "text": "\u20b9 4299", "fontSize": 80, "fontFamily": "Archivo Black-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 940, "left": 50, "width": 220, "height": 65, "fill": "#8B5A2B", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 958, "left": 110, "width": 145.74, "height": 31.64, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 180, "left": 520, "width": 775, "height": 391, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/ojbY0oPvDZIMtNYTQSawP_775x391.png", "id": "product_image"}, {"type": "svg", "top": 650, "left": 700, "width": 200, "height": 200, "src": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><path d='M100,10 L130,80 L200,90 L150,140 L160,200 L100,170 L40,200 L50,140 L0,90 L70,80 Z' fill='#8B5A2B'/></svg>", "id": "decorative"}], "version": "5.3.0"}, "input": {"product_details": {"name": "X Lows CORTADO", "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA", "price": "\u20b94299"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/ojbY0oPvDZIMtNYTQSawP_775x391.png", "marketplace_url": "", "layout": "grid_four"}, "banner_details": "\nThis banner highlights a lifestyle sneaker with a minimal, coffee-themed design. The composition is divided into quadrants with soft, warm-toned background blocks and intersecting diagonal lines for subtle visual interest. The top-left quadrant contains a bold title text (\"heading\") and a brand/model name (\"subheading\"), followed by a tagline (\"tagline\") that emphasizes comfort and style. A large product image (\"product_image\") dominates the top-right, while the bottom-left provides key product features in a bulleted list (\"description\"), pricing info (\"price\"), and a standout call-to-action button (\"cta_background\" and \"cta\"). The bottom-right features a large decorative star graphic (\"decorative\") for visual balance.\n\n**Color Palette**:\n- Cream (#F5F2E9)\n- Soft Beige (#F8F5F0, #EDE5D7)\n- Warm Mocha (#8B5A2B)\n- Dark Chocolate (#5D4037, #3A2618)\n- Muted Taupe (#D9C3AB, #E8D8C5)\n\n", "product_color": "\nThe product image features a stylish sneaker that combines a minimalist and earthy color palette. The primary color is an off-white cream (#F5F0E5) used throughout the shoe\u2019s upper, creating a clean and neutral backdrop. Accents like the shoelaces and outsole tread incorporate a rich mocha brown (#6F4E37), giving warmth and visual grounding to the design. A soft beige midsole (#E8DDCD) adds subtle contrast while keeping the tone elegant. The signature logo is outlined with the same mocha brown and filled with crisp white (#FFFFFF), drawing attention without clashing. These colors are blended harmoniously, with edges and trim offering bold yet smooth highlights.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' fill='none' xmlns='http://www.w3.org/2000/svg'><rect width='1080' height='1080' fill='#F5F2E9'/><rect x='0' y='0' width='540' height='540' fill='#F8F5F0'/><rect x='540' y='0' width='540' height='540' fill='#E8E0D5'/><rect x='0' y='540' width='540' height='540' fill='#D9C3AB'/><rect x='540' y='540' width='540' height='540' fill='#EDE5D7'/><g opacity='0.15'><path d='M0,0 L1080,1080' stroke='#8B5A2B' stroke-width='2'/><path d='M1080,0 L0,1080' stroke='#8B5A2B' stroke-width='2'/></g><circle cx='270' cy='270' r='150' fill='#E8D8C5' opacity='0.4'/><circle cx='810' cy='810' r='180' fill='#D4BEA7' opacity='0.4'/><g transform='translate(40, 40)'><path d='M0 40 L40 0 L80 40 L120 0 L160 40' stroke='#8B5A2B' stroke-width='3' fill='none'/></g><g transform='translate(850, 100)'><circle cx='0' cy='0' r='5' fill='#8B5A2B'/><circle cx='20' cy='0' r='5' fill='#8B5A2B'/><circle cx='40' cy='0' r='5' fill='#8B5A2B'/><circle cx='60' cy='0' r='5' fill='#8B5A2B'/><circle cx='80' cy='0' r='5' fill='#8B5A2B'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#8B5A2B'/><circle cx='20' cy='0' r='5' fill='#8B5A2B'/><circle cx='40' cy='0' r='5' fill='#8B5A2B'/><circle cx='60' cy='0' r='5' fill='#8B5A2B'/><circle cx='80' cy='0' r='5' fill='#8B5A2B'/></g><path d='M20,520 L1060,520' stroke='#8B5A2B' stroke-width='1' stroke-opacity='0.3'/><path d='M540,20 L540,1060' stroke='#8B5A2B' stroke-width='1' stroke-opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 331.4,
+                "height": 101.7,
+                "fill": "#5D4037",
+                "text": "X LOWS",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 60,
+                "width": 355.84,
+                "height": 90.4,
+                "fill": "#8B5A2B",
+                "text": "CORTADO",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 60,
+                "width": 447.22,
+                "height": 67.57,
+                "fill": "#6D4C41",
+                "text": "A perfect blend of style & comfort,\nlike its namesake Spanish coffee",
+                "fontFamily": "Poppins-Italic",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 50,
+                "width": 434.21,
+                "height": 176.28,
+                "fill": "#3A2618",
+                "text": "\u2022 Ever-soft and ever-snug grip\n\u2022 Roomy toe box for comfort\n\u2022 3-layered SpaceWalk sole system\n\u2022 Zero slip, max abrasion resistance",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 50,
+                "width": 282,
+                "height": 90.4,
+                "fill": "#5D4037",
+                "text": "\u20b9 4299",
+                "fontFamily": "Archivo Black-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 940,
+                "left": 50,
+                "width": 220,
+                "height": 65,
+                "fill": "#8B5A2B",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 958,
+                "left": 110,
+                "width": 145.74,
+                "height": 31.64,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 180,
+                "left": 520,
+                "width": 542.5,
+                "height": 273.7,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/ojbY0oPvDZIMtNYTQSawP_775x391.png",
+                "id": "product_image"
+            },
+            {
+                "type": "svg",
+                "top": 650,
+                "left": 700,
+                "width": 200,
+                "height": 200,
+                "src": "<svg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'><path d='M100,10 L130,80 L200,90 L150,140 L160,200 L100,170 L40,200 L50,140 L0,90 L70,80 Z' fill='#8B5A2B'/></svg>",
+                "id": "decorative"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "X Lows CORTADO",
+            "description": "- The Cortado is a study in perfect ratios.\n- Like its namesake Spanish coffee, the pristine white canvas flows like steamed milk, while rich brown accents cut through with the boldness of rich, crema-topped espresso, same as a baristas pour.Bold yet smooth, the Cortado is a daily essential brewed to perfection. - Ever-soft and ever-snug grip- Roomy toe box lets our broad Indian toes breathe.- Irresistible comfort, thanks to SpaceWalk, our signature 3-layered sole system.\n- SpaceWalk is light, airy, and cloud-like, and is named so for all the right reasons.\n- What you'll be stepping into is a long-lasting insole placed on top of an ultra-cushioned sheet of foam found in running shoes.\n- The sheet is then housed inside a light-weight rubber outsole for sturdiness, making this a go-to choice for everything from morning walks to house party nights.\n- SpaceWalks grooves and textures let you land on your feet in style with zero slip and max abrasion resistance.\n- Materials:Upper: Canvas with Microfiber UnderlayFootbed: Synthetic LeatherSole: Rubber, EVA",
+            "price": "\u20b94299"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67c97ceebb4321cd7227db5e/ojbY0oPvDZIMtNYTQSawP_775x391.png",
+        "marketplace_url": "",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThis banner highlights a lifestyle sneaker with a minimal, coffee-themed design. The composition is divided into quadrants with soft, warm-toned background blocks and intersecting diagonal lines for subtle visual interest. The top-left quadrant contains a bold title text (\"heading\") and a brand/model name (\"subheading\"), followed by a tagline (\"tagline\") that emphasizes comfort and style. A large product image (\"product_image\") dominates the top-right, while the bottom-left provides key product features in a bulleted list (\"description\"), pricing info (\"price\"), and a standout call-to-action button (\"cta_background\" and \"cta\"). The bottom-right features a large decorative star graphic (\"decorative\") for visual balance.\n\n**Color Palette**:\n- Cream (#F5F2E9)\n- Soft Beige (#F8F5F0, #EDE5D7)\n- Warm Mocha (#8B5A2B)\n- Dark Chocolate (#5D4037, #3A2618)\n- Muted Taupe (#D9C3AB, #E8D8C5)\n\n",
+    "product_color": "\nThe product image features a stylish sneaker that combines a minimalist and earthy color palette. The primary color is an off-white cream (#F5F0E5) used throughout the shoe\u2019s upper, creating a clean and neutral backdrop. Accents like the shoelaces and outsole tread incorporate a rich mocha brown (#6F4E37), giving warmth and visual grounding to the design. A soft beige midsole (#E8DDCD) adds subtle contrast while keeping the tone elegant. The signature logo is outlined with the same mocha brown and filled with crisp white (#FFFFFF), drawing attention without clashing. These colors are blended harmoniously, with edges and trim offering bold yet smooth highlights.\n"
+}

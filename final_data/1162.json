@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0F2F5'/><rect x='0' y='0' width='1080' height='350' fill='#E0E5EC'/><rect x='650' y='0' width='430' height='1080' fill='#D1D6DE' opacity='0.7'/><path d='M0 350 L1080 350' stroke='#C2C8D1' stroke-width='4'/><circle cx='800' cy='200' r='150' fill='#A4B0C3' opacity='0.2'/><circle cx='200' cy='800' r='150' fill='#A4B0C3' opacity='0.2'/><path d='M500 900 A300 300 0 0 1 800 600' stroke='#C2C8D1' stroke-width='6' opacity='0.3'/><path d='M200 400 A300 300 0 0 1 500 700' stroke='#C2C8D1' stroke-width='6' opacity='0.3'/></svg>", "id": "background"}, {"type": "text", "top": 55, "left": 55, "width": 648.56, "height": 135.6, "fill": "#1E2B4D", "text": "INSIGNIA", "fontSize": 120, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 190, "left": 58, "width": 620.96, "height": 90.4, "fill": "#3B6EB3", "text": "SMART LAUNDRY", "fontSize": 80, "fontFamily": "Asap Black", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 320, "left": 60, "width": 460.67, "height": 186.45, "fill": "#1E2B4D", "text": "\u2022 LED Screen & Knob Selector\n\u2022 16 Wash Cycles\n\u2022 5 Temperature Settings\n\u2022 Automatic Water Level Control", "fontSize": 30, "fontFamily": "Raleway Bold", "textAlign": "left", "id": "description"}, {"type": "image", "top": 234, "left": 686, "width": 489, "height": 1353, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/a9b01tSuH4-Xt6lxh1SBe_489x1353.png", "id": "product_image"}, {"type": "text", "top": 800, "left": 60, "width": 356, "height": 113, "fill": "#1E2B4D", "text": "$ 1000", "fontSize": 100, "fontFamily": "Lexend Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 950, "left": 60, "width": 220, "height": 65, "fill": "#3B6EB3", "rx": 5, "ry": 5, "id": "cta_button"}, {"type": "text", "top": 967, "left": 100, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Insignia Smart Washer & Dryer Set - Modern Laundry Solution for Your Home", "description": "LED screen and knob cycle selector\n16 wash cycles\n5 temperature settings\nChild door lock\nAutomatic water level control", "price": "$1000"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/a9b01tSuH4-Xt6lxh1SBe_489x1353.png", "marketplace_url": "blob:https://studio.phot.ai/7c7f1c3a-15fe-4a28-b95b-b631b220e433", "layout": "split_vertical"}, "banner_details": "\nThis promotional banner features a modern and clean design with a soft, dual-toned background consisting of rounded abstract shapes and subtle circular elements for depth. The focal product image (id: `product_image`) of a washing machine stack is aligned on the right, partially overlapping a segmented blue-gray panel, drawing attention to the product. The headline (id: `heading`) uses bold navy typography, while the subheading (id: `subheading`) is styled in a vibrant blue, emphasizing key branding. Bullet points (id: `description`) list key features in a legible, condensed format. The price (id: `price`) is prominently displayed in bold, and a call-to-action button (id: `cta_button` and `cta`) invites user interaction.\n\n**Color Palette:**\n- Background: #F0F2F5\n- Panel: #D1D6DE\n- Accent Blue: #3B6EB3\n- Text Primary: #1E2B4D\n- CTA Text: #FFFFFF\n- Decorative Circles: #A4B0C3 (opacity 0.2)\n\n", "product_color": "  \nThe product image showcases a sleek, modern washer and dryer set with a predominantly minimalist and high-contrast color palette. The primary color used is a **crisp white** (#FFFFFF), establishing a clean and sophisticated base. Deep **charcoal black** (#1A1A1A) is used prominently in the circular door frames and interior drum, offering a bold contrast that draws attention. **Steel gray** (#B0B0B0) adds a metallic accent around knobs, enhancing the premium look. Hints of **sky blue** (#B0E0E6) and **bright orange** (#FFA500) on the control dials provide functional highlights without overwhelming the aesthetic. The colors are balanced to create visual interest while maintaining clarity."}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F0F2F5'/><rect x='0' y='0' width='1080' height='350' fill='#E0E5EC'/><rect x='650' y='0' width='430' height='1080' fill='#D1D6DE' opacity='0.7'/><path d='M0 350 L1080 350' stroke='#C2C8D1' stroke-width='4'/><circle cx='800' cy='200' r='150' fill='#A4B0C3' opacity='0.2'/><circle cx='200' cy='800' r='150' fill='#A4B0C3' opacity='0.2'/><path d='M500 900 A300 300 0 0 1 800 600' stroke='#C2C8D1' stroke-width='6' opacity='0.3'/><path d='M200 400 A300 300 0 0 1 500 700' stroke='#C2C8D1' stroke-width='6' opacity='0.3'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 55,
+                "left": 55,
+                "width": 648.56,
+                "height": 135.6,
+                "fill": "#1E2B4D",
+                "text": "INSIGNIA",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 190,
+                "left": 58,
+                "width": 620.96,
+                "height": 90.4,
+                "fill": "#3B6EB3",
+                "text": "SMART LAUNDRY",
+                "fontFamily": "Asap Black",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 60,
+                "width": 460.67,
+                "height": 186.45,
+                "fill": "#1E2B4D",
+                "text": "\u2022 LED Screen & Knob Selector\n\u2022 16 Wash Cycles\n\u2022 5 Temperature Settings\n\u2022 Automatic Water Level Control",
+                "fontFamily": "Raleway Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "image",
+                "top": 234,
+                "left": 686,
+                "width": 293.4,
+                "height": 811.8,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/a9b01tSuH4-Xt6lxh1SBe_489x1353.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 800,
+                "left": 60,
+                "width": 356,
+                "height": 113,
+                "fill": "#1E2B4D",
+                "text": "$ 1000",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 950,
+                "left": 60,
+                "width": 220,
+                "height": 65,
+                "fill": "#3B6EB3",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 967,
+                "left": 100,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Insignia Smart Washer & Dryer Set - Modern Laundry Solution for Your Home",
+            "description": "LED screen and knob cycle selector\n16 wash cycles\n5 temperature settings\nChild door lock\nAutomatic water level control",
+            "price": "$1000"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/66a262c3fe298432dee8d04f/a9b01tSuH4-Xt6lxh1SBe_489x1353.png",
+        "marketplace_url": "blob:https://studio.phot.ai/7c7f1c3a-15fe-4a28-b95b-b631b220e433",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThis promotional banner features a modern and clean design with a soft, dual-toned background consisting of rounded abstract shapes and subtle circular elements for depth. The focal product image (id: `product_image`) of a washing machine stack is aligned on the right, partially overlapping a segmented blue-gray panel, drawing attention to the product. The headline (id: `heading`) uses bold navy typography, while the subheading (id: `subheading`) is styled in a vibrant blue, emphasizing key branding. Bullet points (id: `description`) list key features in a legible, condensed format. The price (id: `price`) is prominently displayed in bold, and a call-to-action button (id: `cta_button` and `cta`) invites user interaction.\n\n**Color Palette:**\n- Background: #F0F2F5\n- Panel: #D1D6DE\n- Accent Blue: #3B6EB3\n- Text Primary: #1E2B4D\n- CTA Text: #FFFFFF\n- Decorative Circles: #A4B0C3 (opacity 0.2)\n\n",
+    "product_color": "  \nThe product image showcases a sleek, modern washer and dryer set with a predominantly minimalist and high-contrast color palette. The primary color used is a **crisp white** (#FFFFFF), establishing a clean and sophisticated base. Deep **charcoal black** (#1A1A1A) is used prominently in the circular door frames and interior drum, offering a bold contrast that draws attention. **Steel gray** (#B0B0B0) adds a metallic accent around knobs, enhancing the premium look. Hints of **sky blue** (#B0E0E6) and **bright orange** (#FFA500) on the control dials provide functional highlights without overwhelming the aesthetic. The colors are balanced to create visual interest while maintaining clarity."
+}

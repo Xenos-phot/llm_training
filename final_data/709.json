@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#0FCBCD'/><stop offset='100%' stop-color='#107E85'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD700'/><stop offset='100%' stop-color='#DAA520'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F0F8FF'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' stroke='#FFFFFF' stroke-width='4'/><circle cx='840' cy='400' r='120' fill='url(#accentGradient)' stroke='#FFFFFF' stroke-width='2'/><circle cx='200' cy='300' r='40' fill='#FFFFFF' opacity='0.2'/><circle cx='900' cy='800' r='30' fill='#FFFFFF' opacity='0.2'/><circle cx='300' cy='800' r='25' fill='#FFFFFF' opacity='0.2'/><path d='M0 350 Q 540 450, 1080 350' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.3'/><path d='M0 750 Q 540 650, 1080 750' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.3'/><circle cx='540' cy='540' r='320' stroke='#FFFFFF' stroke-width='1' stroke-dasharray='10,10' fill='none'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 141.92000000000002, "width": 796.16, "height": 90.4, "fill": "#FFFFFF", "text": "BUY ONE GET ONE FREE", "fontSize": 80, "fontFamily": "Lilita One-Regular", "textAlign": "center", "id": "heading"}, {"type": "text", "top": 180, "left": 250.77499999999998, "width": 578.45, "height": 56.5, "fill": "#FFD700", "text": "DOUBLE THE ELEGANCE", "fontSize": 50, "fontFamily": "Playfair Display Regular", "textAlign": "center", "id": "tagline"}, {"type": "image", "top": 303.57500000000005, "left": 401.57500000000005, "width": 791, "height": 1351, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/BDCa9HUuDlukMBR6wN3kP_791x1351.png", "id": "product_image"}, {"type": "text", "top": 806, "left": 255.58999999999997, "width": 568.82, "height": 67.8, "fill": "#FFFFFF", "text": "BELLAVITA FRESH", "fontSize": 60, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "product_name"}, {"type": "text", "top": 875, "left": 297.71000000000004, "width": 484.58, "height": 39.55, "fill": "#FFFFFF", "text": "UNISEX EAU DE TOILETTE", "fontSize": 35, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "subheading"}, {"type": "text", "top": 922.84, "left": 76.755, "width": 930.49, "height": 36.16, "fill": "#FFFFFF", "text": "\u2022 LUXURIOUS 100ML \u2022 MODERN FRAGRANCE \u2022 ELEGANT DESIGN", "fontSize": 32, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "description"}, {"type": "text", "top": 360.45, "left": 757.45, "width": 165.1, "height": 79.1, "fill": "#FFFFFF", "text": "\u20b9567", "fontSize": 70, "fontFamily": "Lexend Bold", "textAlign": "center", "id": "price"}, {"type": "rect", "top": 960, "left": 430.0, "width": 220, "height": 60, "fill": "#FFD700", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 974.18, "left": 461.19, "width": 157.62, "height": 31.64, "fill": "#107E85", "text": "SHOP NOW", "fontSize": 28, "fontFamily": "Poppins-Bold", "textAlign": "center", "id": "cta"}], "version": "5.3.0"}, "input": {"product_details": {"name": "BELLAVITA Fresh Unisex EDT - Modern Elegance in Turquoise", "description": "\u2022 Luxurious 100ml/3.4 fl. oz Eau de Toilette\n\u2022 Versatile unisex fragrance suitable for all occasions\n\u2022 Elegant turquoise bottle with premium gold cap\n\u2022 Perfect for both daytime and evening wear\n\u2022 Modern and sophisticated packaging design\n\u2022 Fresh, contemporary scent profile\n\u2022 Premium quality fragrance by BELLAVITA\n\u2022 Ideal gift choice for any gender\n\u2022 Travel-friendly size\n\u2022 Sleek and minimalist bottle design", "price": "\u20b90567"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/BDCa9HUuDlukMBR6wN3kP_791x1351.png", "marketplace_url": "blob:http://localhost:3001/2f7f78db-1086-475d-8f8f-01f5e935f163", "layout": "circular_focus"}, "banner_details": "\nThe banner features a bold promotional layout with a gradient teal background accented by soft radial highlights and white outlined curves, adding a modern and dynamic flair. Central focus is drawn to a premium perfume bottle image centered within a white radial circle. The top portion includes a large, eye-catching headline (`heading`) in all caps white font and a smaller, elegant, serif tagline (`tagline`) in gold below it. The bottom section contains the product name (`product_name`), followed by a subheading (`subheading`) and a line describing features (`description`). The price (`price`) is displayed inside a yellow circular badge, and a yellow call-to-action button with teal text (`cta`) is placed prominently at the bottom. \n\n**Color Palette:**\n- Teal Gradient: `#0FCBCD` to `#107E85`\n- Gold Accent: `#FFD700` to `#DAA520`\n- White: `#FFFFFF`\n- Call-to-Action Button: `#FFD700` (background), `#107E85` (text)\n", "product_color": "\nThe product image showcases a vibrant and refreshing color palette, ideal for an energetic and modern advertisement banner. The main body of the bottle is a brilliant teal-blue (#00B6B3), exuding freshness and vitality, perfect for conveying a unisex fragrance. The cap adds elegance with a mirrored champagne gold (#D4AF37), contrasting luxuriously against the teal. The text and branding are done in a soft metallic gold (#F5E6C8), seamlessly blending with the cap while standing out crisply against the bold background. This balance of aqua-toned vibrance and golden sophistication forms an eye-catching fusion that highlights freshness and premium quality effortlessly.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg width='1080' height='1080' viewBox='0 0 1080 1080' xmlns='http://www.w3.org/2000/svg'><defs><linearGradient id='bgGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#0FCBCD'/><stop offset='100%' stop-color='#107E85'/></linearGradient><linearGradient id='accentGradient' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#FFD700'/><stop offset='100%' stop-color='#DAA520'/></linearGradient><radialGradient id='circleGradient' cx='50%' cy='50%' r='50%' fx='50%' fy='50%'><stop offset='0%' stop-color='#FFFFFF'/><stop offset='100%' stop-color='#F0F8FF'/></radialGradient></defs><rect width='1080' height='1080' fill='url(#bgGradient)'/><circle cx='540' cy='540' r='300' fill='url(#circleGradient)' stroke='#FFFFFF' stroke-width='4'/><circle cx='840' cy='400' r='120' fill='url(#accentGradient)' stroke='#FFFFFF' stroke-width='2'/><circle cx='200' cy='300' r='40' fill='#FFFFFF' opacity='0.2'/><circle cx='900' cy='800' r='30' fill='#FFFFFF' opacity='0.2'/><circle cx='300' cy='800' r='25' fill='#FFFFFF' opacity='0.2'/><path d='M0 350 Q 540 450, 1080 350' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.3'/><path d='M0 750 Q 540 650, 1080 750' stroke='#FFFFFF' stroke-width='2' fill='none' opacity='0.3'/><circle cx='540' cy='540' r='320' stroke='#FFFFFF' stroke-width='1' stroke-dasharray='10,10' fill='none'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 141.92000000000002,
+                "width": 796.16,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "BUY ONE GET ONE FREE",
+                "fontFamily": "Lilita One-Regular",
+                "textAlign": "center",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 180,
+                "left": 250.77499999999998,
+                "width": 578.45,
+                "height": 56.5,
+                "fill": "#FFD700",
+                "text": "DOUBLE THE ELEGANCE",
+                "fontFamily": "Playfair Display Regular",
+                "textAlign": "center",
+                "id": "tagline"
+            },
+            {
+                "type": "image",
+                "top": 303.57500000000005,
+                "left": 401.57500000000005,
+                "width": 276.84999999999997,
+                "height": 472.84999999999997,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/BDCa9HUuDlukMBR6wN3kP_791x1351.png",
+                "id": "product_image"
+            },
+            {
+                "type": "text",
+                "top": 806,
+                "left": 255.58999999999997,
+                "width": 568.82,
+                "height": 67.8,
+                "fill": "#FFFFFF",
+                "text": "BELLAVITA FRESH",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "product_name"
+            },
+            {
+                "type": "text",
+                "top": 875,
+                "left": 297.71000000000004,
+                "width": 484.58,
+                "height": 39.55,
+                "fill": "#FFFFFF",
+                "text": "UNISEX EAU DE TOILETTE",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 922.84,
+                "left": 76.755,
+                "width": 930.49,
+                "height": 36.16,
+                "fill": "#FFFFFF",
+                "text": "\u2022 LUXURIOUS 100ML \u2022 MODERN FRAGRANCE \u2022 ELEGANT DESIGN",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 360.45,
+                "left": 757.45,
+                "width": 165.1,
+                "height": 79.1,
+                "fill": "#FFFFFF",
+                "text": "\u20b9567",
+                "fontFamily": "Lexend Bold",
+                "textAlign": "center",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 960,
+                "left": 430.0,
+                "width": 220,
+                "height": 60,
+                "fill": "#FFD700",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 974.18,
+                "left": 461.19,
+                "width": 157.62,
+                "height": 31.64,
+                "fill": "#107E85",
+                "text": "SHOP NOW",
+                "fontFamily": "Poppins-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "BELLAVITA Fresh Unisex EDT - Modern Elegance in Turquoise",
+            "description": "\u2022 Luxurious 100ml/3.4 fl. oz Eau de Toilette\n\u2022 Versatile unisex fragrance suitable for all occasions\n\u2022 Elegant turquoise bottle with premium gold cap\n\u2022 Perfect for both daytime and evening wear\n\u2022 Modern and sophisticated packaging design\n\u2022 Fresh, contemporary scent profile\n\u2022 Premium quality fragrance by BELLAVITA\n\u2022 Ideal gift choice for any gender\n\u2022 Travel-friendly size\n\u2022 Sleek and minimalist bottle design",
+            "price": "\u20b90567"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/67fa46384aaaf1fb0f1bde8f/BDCa9HUuDlukMBR6wN3kP_791x1351.png",
+        "marketplace_url": "blob:http://localhost:3001/2f7f78db-1086-475d-8f8f-01f5e935f163",
+        "layout": "circular_focus"
+    },
+    "banner_details": "\nThe banner features a bold promotional layout with a gradient teal background accented by soft radial highlights and white outlined curves, adding a modern and dynamic flair. Central focus is drawn to a premium perfume bottle image centered within a white radial circle. The top portion includes a large, eye-catching headline (`heading`) in all caps white font and a smaller, elegant, serif tagline (`tagline`) in gold below it. The bottom section contains the product name (`product_name`), followed by a subheading (`subheading`) and a line describing features (`description`). The price (`price`) is displayed inside a yellow circular badge, and a yellow call-to-action button with teal text (`cta`) is placed prominently at the bottom. \n\n**Color Palette:**\n- Teal Gradient: `#0FCBCD` to `#107E85`\n- Gold Accent: `#FFD700` to `#DAA520`\n- White: `#FFFFFF`\n- Call-to-Action Button: `#FFD700` (background), `#107E85` (text)\n",
+    "product_color": "\nThe product image showcases a vibrant and refreshing color palette, ideal for an energetic and modern advertisement banner. The main body of the bottle is a brilliant teal-blue (#00B6B3), exuding freshness and vitality, perfect for conveying a unisex fragrance. The cap adds elegance with a mirrored champagne gold (#D4AF37), contrasting luxuriously against the teal. The text and branding are done in a soft metallic gold (#F5E6C8), seamlessly blending with the cap while standing out crisply against the bold background. This balance of aqua-toned vibrance and golden sophistication forms an eye-catching fusion that highlights freshness and premium quality effortlessly.\n"
+}

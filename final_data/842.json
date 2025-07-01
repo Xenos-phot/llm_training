@@ -1,1 +1,135 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#222222;stop-opacity:1'/><stop offset='100%' style='stop-color:#333333;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#1A7FBA;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#1A7FBA;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#4A4A4A' stroke-width='3' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#4A4A4A' stroke-width='1' fill='none'/><path d='M0,300 C250,270 400,370 550,400 C750,440 900,390 1080,450 L1080,0 L0,0 Z' fill='url(#grad2)' opacity='0.3'/><path d='M0,780 C150,820 350,750 550,800 C750,850 900,780 1080,850 L1080,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><rect x='120' y='120' width='840' height='840' rx='10' fill='rgba(0,0,0,0.3)'/></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 80, "width": 730.37, "height": 113, "fill": "#ffffff", "text": "FLASH SALE", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 195, "left": 85, "width": 600.89, "height": 67.8, "fill": "#1A7FBA", "text": "HYDRA SIPPER BOTTLE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 290, "left": 90, "width": 371.96, "height": 149.16, "fill": "#ffffff", "text": "Stainless Steel Construction\nDual Size Options (750ml/1000ml)\nHook Lid For Easy Carrying\nSleek Everyday Design", "fontSize": 24, "fontFamily": "Fira Sans Bold", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 90, "width": 314.01, "height": 113, "fill": "#ffffff", "text": "\u20b9 300", "fontSize": 100, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 920, "left": 90, "width": 220, "height": 60, "fill": "#E74C3C", "rx": 5, "ry": 5, "id": "cta_background"}, {"type": "text", "top": 937, "left": 133, "width": 125.04, "height": 27.12, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 24, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "text", "top": 690, "left": 90, "width": 373.54, "height": 45.2, "fill": "#E74C3C", "text": "LIMITED TIME OFFER!", "fontSize": 40, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 474, "left": 73, "width": 387.4, "height": 113, "fill": "#1A7FBA", "text": "JUST", "fontSize": 100, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "text_overlay"}, {"type": "image", "top": 280, "left": 570, "width": 575, "height": 1039, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d5af972fac2891c5ba0f6/FnPVNb-ZknqVu3MiuL8UG_575x1039.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Hydra Sipper Bottle By JUST", "description": "Colours : Black\u00a0Capacity : 1000 ml and 750 mlMaterial : Stainless SteelInsulation : Single WalledUSP :\u2022 Has hook in the lid to make it easier to carry.\u2022 Large mouth for easy cleaning.\u2022Evergreen Sleek Design.\n\u2022Use it as everyday school bottle or Gym shaker.\u2022Fits in back side pockets, bicycle holders and car bottle holders easily.", "price": "\u20b9300"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d5af972fac2891c5ba0f6/FnPVNb-ZknqVu3MiuL8UG_575x1039.png", "marketplace_url": "https://justproducts.in/products/hydra-sipper-bottle", "layout": "split_vertical"}, "banner_details": "\nThe banner features a bold promotional design for a steel water bottle flash sale. The background utilizes a dark gradient (from #222222 to #333333) with subtle geometric and circular overlays, giving it a modern, sleek aesthetic. At the top, a prominent headline (\"heading\") in large white block lettering draws attention, followed by a subheading (\"subheading\") in blue, emphasizing the featured product. A central description block (\"description\") lists the product highlights in concise white text. The brand name (\"text_overlay\") is stylishly placed mid-banner in blue. A bold red tagline (\"tagline\") adds urgency before revealing a price (\"price\") in contrasting large white numerals. A vivid red call-to-action button (\"cta\") encourages immediate purchase. A product image (\"product_image\") aligned to the right visually supports the promotion. The banner design balances clean typography and structured layout with a strong call-to-action.\n\n**Color Palette:**\n- Dark Gray: #222222 / #333333\n- Accent Blue: #1A7FBA\n- White: #FFFFFF\n- Bright Red: #E74C3C\n- Light Gray outline border: #4A4A4A\n\n", "product_color": "\nThe product image showcases sleek black insulated bottles, where the primary color is matte black (#0D0D0D), conveying elegance and minimalism. Slight gradients and reflections in the black finish add subtle contrast and give the surface texture and dimension. The brand logo is in a soft silver-gray tone (#BFBFBF), providing a clean, sophisticated contrast while enhancing visibility and branding. The blending of the matte and semi-gloss textures introduces depth without overpowering the minimal aesthetic. For an advertisement banner, a complementary palette could include: jet black (#0D0D0D), silver-gray (#BFBFBF), charcoal (#2F2F2F), and off-white (#F5F5F5).\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><defs><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#222222;stop-opacity:1'/><stop offset='100%' style='stop-color:#333333;stop-opacity:1'/></linearGradient><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#1A7FBA;stop-opacity:0.8'/><stop offset='100%' style='stop-color:#1A7FBA;stop-opacity:0'/></linearGradient></defs><rect width='1080' height='1080' fill='url(#grad1)'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#4A4A4A' stroke-width='3' fill='none'/><rect x='60' y='60' width='960' height='960' rx='15' stroke='#4A4A4A' stroke-width='1' fill='none'/><path d='M0,300 C250,270 400,370 550,400 C750,440 900,390 1080,450 L1080,0 L0,0 Z' fill='url(#grad2)' opacity='0.3'/><path d='M0,780 C150,820 350,750 550,800 C750,850 900,780 1080,850 L1080,1080 L0,1080 Z' fill='url(#grad2)' opacity='0.3'/><circle cx='540' cy='540' r='400' fill='rgba(255,255,255,0.03)'/><circle cx='540' cy='540' r='300' fill='rgba(255,255,255,0.05)'/><rect x='120' y='120' width='840' height='840' rx='10' fill='rgba(0,0,0,0.3)'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 80,
+                "width": 730.37,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "FLASH SALE",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 195,
+                "left": 85,
+                "width": 600.89,
+                "height": 67.8,
+                "fill": "#1A7FBA",
+                "text": "HYDRA SIPPER BOTTLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 290,
+                "left": 90,
+                "width": 371.96,
+                "height": 149.16,
+                "fill": "#ffffff",
+                "text": "Stainless Steel Construction\nDual Size Options (750ml/1000ml)\nHook Lid For Easy Carrying\nSleek Everyday Design",
+                "fontFamily": "Fira Sans Bold",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 90,
+                "width": 314.01,
+                "height": 113,
+                "fill": "#ffffff",
+                "text": "\u20b9 300",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 920,
+                "left": 90,
+                "width": 220,
+                "height": 60,
+                "fill": "#E74C3C",
+                "rx": 5,
+                "ry": 5,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 937,
+                "left": 133,
+                "width": 125.04,
+                "height": 27.12,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "text",
+                "top": 690,
+                "left": 90,
+                "width": 373.54,
+                "height": 45.2,
+                "fill": "#E74C3C",
+                "text": "LIMITED TIME OFFER!",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 474,
+                "left": 73,
+                "width": 387.4,
+                "height": 113,
+                "fill": "#1A7FBA",
+                "text": "JUST",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "text_overlay"
+            },
+            {
+                "type": "image",
+                "top": 280,
+                "left": 570,
+                "width": 316.25,
+                "height": 571.45,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d5af972fac2891c5ba0f6/FnPVNb-ZknqVu3MiuL8UG_575x1039.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Hydra Sipper Bottle By JUST",
+            "description": "Colours : Black\u00a0Capacity : 1000 ml and 750 mlMaterial : Stainless SteelInsulation : Single WalledUSP :\u2022 Has hook in the lid to make it easier to carry.\u2022 Large mouth for easy cleaning.\u2022Evergreen Sleek Design.\n\u2022Use it as everyday school bottle or Gym shaker.\u2022Fits in back side pockets, bicycle holders and car bottle holders easily.",
+            "price": "\u20b9300"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/682d5af972fac2891c5ba0f6/FnPVNb-ZknqVu3MiuL8UG_575x1039.png",
+        "marketplace_url": "https://justproducts.in/products/hydra-sipper-bottle",
+        "layout": "split_vertical"
+    },
+    "banner_details": "\nThe banner features a bold promotional design for a steel water bottle flash sale. The background utilizes a dark gradient (from #222222 to #333333) with subtle geometric and circular overlays, giving it a modern, sleek aesthetic. At the top, a prominent headline (\"heading\") in large white block lettering draws attention, followed by a subheading (\"subheading\") in blue, emphasizing the featured product. A central description block (\"description\") lists the product highlights in concise white text. The brand name (\"text_overlay\") is stylishly placed mid-banner in blue. A bold red tagline (\"tagline\") adds urgency before revealing a price (\"price\") in contrasting large white numerals. A vivid red call-to-action button (\"cta\") encourages immediate purchase. A product image (\"product_image\") aligned to the right visually supports the promotion. The banner design balances clean typography and structured layout with a strong call-to-action.\n\n**Color Palette:**\n- Dark Gray: #222222 / #333333\n- Accent Blue: #1A7FBA\n- White: #FFFFFF\n- Bright Red: #E74C3C\n- Light Gray outline border: #4A4A4A\n\n",
+    "product_color": "\nThe product image showcases sleek black insulated bottles, where the primary color is matte black (#0D0D0D), conveying elegance and minimalism. Slight gradients and reflections in the black finish add subtle contrast and give the surface texture and dimension. The brand logo is in a soft silver-gray tone (#BFBFBF), providing a clean, sophisticated contrast while enhancing visibility and branding. The blending of the matte and semi-gloss textures introduces depth without overpowering the minimal aesthetic. For an advertisement banner, a complementary palette could include: jet black (#0D0D0D), silver-gray (#BFBFBF), charcoal (#2F2F2F), and off-white (#F5F5F5).\n"
+}

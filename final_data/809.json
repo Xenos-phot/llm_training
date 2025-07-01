@@ -1,1 +1,123 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#212121'/><rect x='0' y='0' width='540' height='540' fill='#2C2C2C'/><rect x='540' y='0' width='540' height='540' fill='#1A1A1A'/><rect x='0' y='540' width='540' height='540' fill='#1A1A1A'/><rect x='540' y='540' width='540' height='540' fill='#333333'/><g opacity='0.15'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='1'/></g><circle cx='270' cy='270' r='200' fill='#1A1A1A' opacity='0.5'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='8' fill='#E50012'/><circle cx='30' cy='0' r='8' fill='#FFFFFF'/><circle cx='60' cy='0' r='8' fill='#E50012'/><circle cx='90' cy='0' r='8' fill='#FFFFFF'/></g><g opacity='0.4'><path d='M20,200 A180,180 0 0,1 200,20' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M880,200 A180,180 0 0,0 700,20' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M20,880 A180,180 0 0,0 200,1060' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M880,880 A180,180 0 0,1 700,1060' stroke='#FFFFFF' stroke-width='2' fill='none'/></g><g opacity='0.2'><circle cx='100' cy='100' r='40' stroke='#E50012' stroke-width='2' fill='none'/><circle cx='100' cy='100' r='30' stroke='#E50012' stroke-width='2' fill='none'/><circle cx='100' cy='100' r='20' stroke='#E50012' stroke-width='2' fill='none'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#E50012'/><circle cx='20' cy='0' r='5' fill='#E50012'/><circle cx='40' cy='0' r='5' fill='#E50012'/><circle cx='60' cy='0' r='5' fill='#E50012'/><circle cx='80' cy='0' r='5' fill='#E50012'/></g></svg>", "id": "background"}, {"type": "text", "top": 80, "left": 60, "width": 465.2, "height": 135.6, "fill": "#FFFFFF", "text": "FUJIFILM", "fontSize": 120, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 220, "left": 60, "width": 203.16, "height": 90.4, "fill": "#E50012", "text": "X-T10", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 310, "left": 60, "width": 457.67, "height": 31.64, "fill": "#AAAAAA", "text": "MIRRORLESS CAMERA", "fontSize": 28, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "tagline"}, {"type": "text", "top": 600, "left": 60, "width": 413.16, "height": 124.3, "fill": "#FFFFFF", "text": "\u2022 Classic retro design with modern functionality\n\u2022 Advanced X-Trans CMOS sensor for image quality\n\u2022 Durable metal construction with ergonomic grip\n\u2022 Built-in Wi-Fi for instant sharing", "fontSize": 20, "fontFamily": "Assistant Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 820, "left": 60, "width": 314.8, "height": 90.4, "fill": "#FFFFFF", "text": "\u20b9 33,999", "fontSize": 80, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 930, "left": 60, "width": 220, "height": 70, "fill": "#E50012", "rx": 0, "ry": 0, "id": "cta_background"}, {"type": "text", "top": 950, "left": 100, "width": 156, "height": 33.9, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 30, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 220, "left": 560, "width": 551, "height": 559, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/kDVxVNu3vOxHhFcHRUlXV_551x559.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible", "description": "\u2022 Classic retro design with modern functionality\n\u2022 Advanced X-Trans CMOS sensor for exceptional image quality\n\u2022 High-performance interchangeable lens system\n\u2022 Durable black metal construction with ergonomic grip\n\u2022 Multiple manual control dials for precise shooting settings\n\u2022 Electronic viewfinder for accurate composition\n\u2022 Built-in Wi-Fi connectivity for instant sharing\n\u2022 Compatible with Fujifilm X-mount lenses\n\u2022 Compact and lightweight design perfect for travel\n\u2022 Advanced autofocus system for sharp captures\n\u2022 Film simulation modes for creative expression\n\u2022 Tiltable LCD screen for flexible shooting angles", "price": "\u20b933999"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/kDVxVNu3vOxHhFcHRUlXV_551x559.png", "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg", "layout": "grid_four"}, "banner_details": "\nThe banner is a visually striking promotional design split into four quadrants with varying dark grey tones, creating a modern, geometric layout. The top-left section prominently features the brand name in bold white text (`heading`), followed by a vibrant red subheading (`subheading`) and a sleek grey tagline (`tagline`). The background incorporates concentric circles and diagonal lines for subtle visual depth. The right half showcases a high-resolution product image (`product_image`), slightly overlapping quadrants to draw attention. Below, a feature list (`description`) is placed with white bullet points, followed by a bold price tag (`price`) and an eye-catching red call-to-action button (`cta_background` + `cta`). Decorative icons and lines complement the layout.\n\n**Color Palette:**\n- Jet Black: #212121\n- Charcoal: #1A1A1A\n- Dark Grey: #2C2C2C\n- Light Grey: #AAAAAA\n- White: #FFFFFF\n- Accent Red: #E50012\n", "product_color": "  \nThe product image features a Fujifilm X-T10 camera, predominantly showcasing sleek matte black tones (#1A1A1A) across the body, highlighted with metallic accents in gunmetal gray (#3C3C3C) and silver (#C0C0C0) on the dials and branding. The lens elements add depth with glossy blacks (#101010) and subtle reflections of yellow-green (#A6C500), blue (#66A3FF), and purple (#A088B8) hues, creating a modern, high-tech aesthetic. The color palette blends monochromatic neutrals with subtle color pops, drawing the viewer\u2019s attention to key features. For an advertisement banner, a palette based on black, gray, silver, and accent tones would complement and emphasize the polished and professional look.  \n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1080 1080'><rect width='1080' height='1080' fill='#212121'/><rect x='0' y='0' width='540' height='540' fill='#2C2C2C'/><rect x='540' y='0' width='540' height='540' fill='#1A1A1A'/><rect x='0' y='540' width='540' height='540' fill='#1A1A1A'/><rect x='540' y='540' width='540' height='540' fill='#333333'/><g opacity='0.15'><path d='M0,0 L1080,1080' stroke='#FFFFFF' stroke-width='1'/><path d='M1080,0 L0,1080' stroke='#FFFFFF' stroke-width='1'/></g><circle cx='270' cy='270' r='200' fill='#1A1A1A' opacity='0.5'/><g transform='translate(750, 150)'><circle cx='0' cy='0' r='8' fill='#E50012'/><circle cx='30' cy='0' r='8' fill='#FFFFFF'/><circle cx='60' cy='0' r='8' fill='#E50012'/><circle cx='90' cy='0' r='8' fill='#FFFFFF'/></g><g opacity='0.4'><path d='M20,200 A180,180 0 0,1 200,20' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M880,200 A180,180 0 0,0 700,20' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M20,880 A180,180 0 0,0 200,1060' stroke='#FFFFFF' stroke-width='2' fill='none'/><path d='M880,880 A180,180 0 0,1 700,1060' stroke='#FFFFFF' stroke-width='2' fill='none'/></g><g opacity='0.2'><circle cx='100' cy='100' r='40' stroke='#E50012' stroke-width='2' fill='none'/><circle cx='100' cy='100' r='30' stroke='#E50012' stroke-width='2' fill='none'/><circle cx='100' cy='100' r='20' stroke='#E50012' stroke-width='2' fill='none'/></g><g transform='translate(150, 750)'><circle cx='0' cy='0' r='5' fill='#E50012'/><circle cx='20' cy='0' r='5' fill='#E50012'/><circle cx='40' cy='0' r='5' fill='#E50012'/><circle cx='60' cy='0' r='5' fill='#E50012'/><circle cx='80' cy='0' r='5' fill='#E50012'/></g></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 80,
+                "left": 60,
+                "width": 465.2,
+                "height": 135.6,
+                "fill": "#FFFFFF",
+                "text": "FUJIFILM",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 220,
+                "left": 60,
+                "width": 203.16,
+                "height": 90.4,
+                "fill": "#E50012",
+                "text": "X-T10",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 310,
+                "left": 60,
+                "width": 457.67,
+                "height": 31.64,
+                "fill": "#AAAAAA",
+                "text": "MIRRORLESS CAMERA",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "tagline"
+            },
+            {
+                "type": "text",
+                "top": 600,
+                "left": 60,
+                "width": 413.16,
+                "height": 124.3,
+                "fill": "#FFFFFF",
+                "text": "\u2022 Classic retro design with modern functionality\n\u2022 Advanced X-Trans CMOS sensor for image quality\n\u2022 Durable metal construction with ergonomic grip\n\u2022 Built-in Wi-Fi for instant sharing",
+                "fontFamily": "Assistant Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 820,
+                "left": 60,
+                "width": 314.8,
+                "height": 90.4,
+                "fill": "#FFFFFF",
+                "text": "\u20b9 33,999",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 930,
+                "left": 60,
+                "width": 220,
+                "height": 70,
+                "fill": "#E50012",
+                "rx": 0,
+                "ry": 0,
+                "id": "cta_background"
+            },
+            {
+                "type": "text",
+                "top": 950,
+                "left": 100,
+                "width": 156,
+                "height": 33.9,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 220,
+                "left": 560,
+                "width": 495.90000000000003,
+                "height": 503.1,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/kDVxVNu3vOxHhFcHRUlXV_551x559.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Fujifilm X-T10 Mirrorless Digital Camera - Professional Photography Made Accessible",
+            "description": "\u2022 Classic retro design with modern functionality\n\u2022 Advanced X-Trans CMOS sensor for exceptional image quality\n\u2022 High-performance interchangeable lens system\n\u2022 Durable black metal construction with ergonomic grip\n\u2022 Multiple manual control dials for precise shooting settings\n\u2022 Electronic viewfinder for accurate composition\n\u2022 Built-in Wi-Fi connectivity for instant sharing\n\u2022 Compatible with Fujifilm X-mount lenses\n\u2022 Compact and lightweight design perfect for travel\n\u2022 Advanced autofocus system for sharp captures\n\u2022 Film simulation modes for creative expression\n\u2022 Tiltable LCD screen for flexible shooting angles",
+            "price": "\u20b933999"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68245f47d6cd2d7c1766e182/kDVxVNu3vOxHhFcHRUlXV_551x559.png",
+        "marketplace_url": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+        "layout": "grid_four"
+    },
+    "banner_details": "\nThe banner is a visually striking promotional design split into four quadrants with varying dark grey tones, creating a modern, geometric layout. The top-left section prominently features the brand name in bold white text (`heading`), followed by a vibrant red subheading (`subheading`) and a sleek grey tagline (`tagline`). The background incorporates concentric circles and diagonal lines for subtle visual depth. The right half showcases a high-resolution product image (`product_image`), slightly overlapping quadrants to draw attention. Below, a feature list (`description`) is placed with white bullet points, followed by a bold price tag (`price`) and an eye-catching red call-to-action button (`cta_background` + `cta`). Decorative icons and lines complement the layout.\n\n**Color Palette:**\n- Jet Black: #212121\n- Charcoal: #1A1A1A\n- Dark Grey: #2C2C2C\n- Light Grey: #AAAAAA\n- White: #FFFFFF\n- Accent Red: #E50012\n",
+    "product_color": "  \nThe product image features a Fujifilm X-T10 camera, predominantly showcasing sleek matte black tones (#1A1A1A) across the body, highlighted with metallic accents in gunmetal gray (#3C3C3C) and silver (#C0C0C0) on the dials and branding. The lens elements add depth with glossy blacks (#101010) and subtle reflections of yellow-green (#A6C500), blue (#66A3FF), and purple (#A088B8) hues, creating a modern, high-tech aesthetic. The color palette blends monochromatic neutrals with subtle color pops, drawing the viewer\u2019s attention to key features. For an advertisement banner, a palette based on black, gray, silver, and accent tones would complement and emphasize the polished and professional look.  \n"
+}

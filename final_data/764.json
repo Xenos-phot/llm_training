@@ -1,1 +1,111 @@
-{"output": {"backgroundColor": "#ffffff", "height": 1080, "width": 1080, "objects": [{"type": "svg", "top": 0, "left": 0, "width": 1080, "height": 1080, "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F7FA'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#A0A0A0' stroke-width='2' fill='none' opacity='0.6'/><rect x='70' y='70' width='940' height='940' rx='15' stroke='#A0A0A0' stroke-width='1' fill='none' opacity='0.4'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#E0E0E0;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#F5F7FA;stop-opacity:0'/></linearGradient><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='url(#grad1)'/><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#007AFF;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#007AFF;stop-opacity:0'/></linearGradient><path d='M-100 200 C200 150, 400 250, 600 200 C800 150, 900 250, 1200 200 L1200 -100 L-100 -100 Z' fill='url(#grad2)'/><path d='M-100 880 C200 830, 400 930, 600 880 C800 830, 900 930, 1200 880 L1200 1180 L-100 1180 Z' fill='url(#grad2)'/><circle cx='540' cy='540' r='400' fill='#007AFF' opacity='0.03'/><circle cx='540' cy='540' r='300' fill='#007AFF' opacity='0.02'/></svg>", "id": "background"}, {"type": "text", "top": 100, "left": 90, "width": 971.32, "height": 76.84, "fill": "#333333", "text": "APPLE ECOSYSTEM", "fontSize": 68, "fontFamily": "Michroma Regular", "textAlign": "left", "id": "heading"}, {"type": "text", "top": 200, "left": 92, "width": 693.75, "height": 67.8, "fill": "#007AFF", "text": "PREMIUM DEVICE BUNDLE", "fontSize": 60, "fontFamily": "League Spartan-Bold", "textAlign": "left", "id": "subheading"}, {"type": "text", "top": 320, "left": 95, "width": 558.99, "height": 126.56, "fill": "#555555", "text": "\u2022 Complete Apple Integration Across Devices\n\u2022 MacBook Pro with Retina Display\n\u2022 Latest iPad & iPhone Package\n\u2022 Premium Aluminum Construction", "fontSize": 28, "fontFamily": "Alata Regular", "textAlign": "left", "id": "description"}, {"type": "text", "top": 780, "left": 90, "width": 266.57, "height": 101.7, "fill": "#333333", "text": "\u20b9 244", "fontSize": 90, "fontFamily": "Ultra-Regular", "textAlign": "left", "id": "price"}, {"type": "rect", "top": 900, "left": 90, "width": 220, "height": 60, "fill": "#007AFF", "rx": 8, "ry": 8, "id": "cta_button"}, {"type": "text", "top": 918, "left": 135, "width": 133.29, "height": 29.38, "fill": "#FFFFFF", "text": "SHOP NOW", "fontSize": 26, "fontFamily": "League Spartan-Bold", "textAlign": "center", "id": "cta"}, {"type": "image", "top": 469, "left": 411.68, "width": 1407, "height": 759, "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TCRo30ea9tPCOfmudcju3_1407x759.png", "id": "product_image"}], "version": "5.3.0"}, "input": {"product_details": {"name": "Apple Premium Device Bundle - MacBook Pro, iPad & iPhone Package", "description": "\u2022 Complete Apple ecosystem for seamless integration and productivity\n\u2022 MacBook Pro with Retina Display and backlit keyboard\n\u2022 Latest generation iPad with stunning edge-to-edge display\n\u2022 iPhone featuring Touch ID and premium build quality\n\u2022 All devices in pristine condition with original Silver/White finish\n\u2022 macOS and iOS platforms for ultimate compatibility\n\u2022 Powerful performance for work, creativity, and entertainment\n\u2022 Sync across devices with iCloud integration\n\u2022 Premium aluminum construction across all devices\n\u2022 Perfect for professionals, students, and tech enthusiasts\n\u2022 Includes high-resolution displays on all devices\n\u2022 Built-in security features and regular software updates\n\u2022 Trackpad with Multi-Touch gesture support on MacBook\n\u2022 Portable and lightweight design for on-the-go use\n\u2022 Access to App Store's vast application ecosystem", "price": "\u20b9244"}, "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TCRo30ea9tPCOfmudcju3_1407x759.png", "marketplace_url": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg", "layout": "frame_layout"}, "banner_details": "  \nThis banner presents a sleek and tech-savvy layout showcasing a \"Premium Device Bundle\" within the Apple ecosystem. The background features soft gradients and faint graphic circles that create depth and a modern feel. At the top, a futuristic sans-serif heading labeled `heading` captures attention, followed by a bold blue subheading (`subheading`) that creates visual hierarchy. A content block (`description`) lists product features using bullet points. To the right, the `product_image` displays a MacBook, iPad, and iPhone, emphasizing the product lineup. At the bottom, the `price` is displayed prominently, accompanied by a rectangular blue `cta_button` with white uppercase text (`cta`) for a call-to-action.\n\n**Color Palette:**  \n- Azure Blue: #007AFF  \n- Charcoal: #333333  \n- Soft Gray: #F5F7FA  \n- Mid Gray: #A0A0A0  \n- Light Gray Circles (opacity layers): #007AFF at 3% and 2%  \n- White: #FFFFFF  \n", "product_color": "\nThe product image showcases Apple devices using a clean and modern aesthetic. Dominant colors include the sleek silver-gray of the device bodies (#C0C0C0), black keyboard and screen borders (#000000), contrasted by the vivid display visuals. The MacBook screen blends soft sunset pinks (#F7B7A3) and purples (#CDA0D9) with earthy browns (#8B6D5C) from the rocky lakescape, creating warmth and serenity. The iPad and iPhone use cooler tones, highlighting shades of blue (#5295D0) and white (#FFFFFF), which give a futuristic digital feel. Together, the palette balances warmth and cool neutrality\u2014perfect for a tech advertisement banner that feels professional, minimal, and inviting.\n"}
+{
+    "output": {
+        "backgroundColor": "#ffffff",
+        "height": 1080,
+        "width": 1080,
+        "objects": [
+            {
+                "type": "svg",
+                "top": 0,
+                "left": 0,
+                "width": 1080,
+                "height": 1080,
+                "src": "<svg xmlns='http://www.w3.org/2000/svg' width='1080' height='1080' viewBox='0 0 1080 1080' fill='none'><rect width='1080' height='1080' fill='#F5F7FA'/><rect x='40' y='40' width='1000' height='1000' rx='20' stroke='#A0A0A0' stroke-width='2' fill='none' opacity='0.6'/><rect x='70' y='70' width='940' height='940' rx='15' stroke='#A0A0A0' stroke-width='1' fill='none' opacity='0.4'/><linearGradient id='grad1' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' style='stop-color:#E0E0E0;stop-opacity:0.5'/><stop offset='100%' style='stop-color:#F5F7FA;stop-opacity:0'/></linearGradient><path d='M0 0 L1080 0 L1080 1080 L0 1080 Z' fill='url(#grad1)'/><linearGradient id='grad2' x1='0%' y1='0%' x2='100%' y2='0%'><stop offset='0%' style='stop-color:#007AFF;stop-opacity:0.1'/><stop offset='100%' style='stop-color:#007AFF;stop-opacity:0'/></linearGradient><path d='M-100 200 C200 150, 400 250, 600 200 C800 150, 900 250, 1200 200 L1200 -100 L-100 -100 Z' fill='url(#grad2)'/><path d='M-100 880 C200 830, 400 930, 600 880 C800 830, 900 930, 1200 880 L1200 1180 L-100 1180 Z' fill='url(#grad2)'/><circle cx='540' cy='540' r='400' fill='#007AFF' opacity='0.03'/><circle cx='540' cy='540' r='300' fill='#007AFF' opacity='0.02'/></svg>",
+                "id": "background"
+            },
+            {
+                "type": "text",
+                "top": 100,
+                "left": 90,
+                "width": 971.32,
+                "height": 76.84,
+                "fill": "#333333",
+                "text": "APPLE ECOSYSTEM",
+                "fontFamily": "Michroma Regular",
+                "textAlign": "left",
+                "id": "heading"
+            },
+            {
+                "type": "text",
+                "top": 200,
+                "left": 92,
+                "width": 693.75,
+                "height": 67.8,
+                "fill": "#007AFF",
+                "text": "PREMIUM DEVICE BUNDLE",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "left",
+                "id": "subheading"
+            },
+            {
+                "type": "text",
+                "top": 320,
+                "left": 95,
+                "width": 558.99,
+                "height": 126.56,
+                "fill": "#555555",
+                "text": "\u2022 Complete Apple Integration Across Devices\n\u2022 MacBook Pro with Retina Display\n\u2022 Latest iPad & iPhone Package\n\u2022 Premium Aluminum Construction",
+                "fontFamily": "Alata Regular",
+                "textAlign": "left",
+                "id": "description"
+            },
+            {
+                "type": "text",
+                "top": 780,
+                "left": 90,
+                "width": 266.57,
+                "height": 101.7,
+                "fill": "#333333",
+                "text": "\u20b9 244",
+                "fontFamily": "Ultra-Regular",
+                "textAlign": "left",
+                "id": "price"
+            },
+            {
+                "type": "rect",
+                "top": 900,
+                "left": 90,
+                "width": 220,
+                "height": 60,
+                "fill": "#007AFF",
+                "rx": 8,
+                "ry": 8,
+                "id": "cta_button"
+            },
+            {
+                "type": "text",
+                "top": 918,
+                "left": 135,
+                "width": 133.29,
+                "height": 29.38,
+                "fill": "#FFFFFF",
+                "text": "SHOP NOW",
+                "fontFamily": "League Spartan-Bold",
+                "textAlign": "center",
+                "id": "cta"
+            },
+            {
+                "type": "image",
+                "top": 469,
+                "left": 411.68,
+                "width": 576.87,
+                "height": 311.19,
+                "src": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TCRo30ea9tPCOfmudcju3_1407x759.png",
+                "id": "product_image"
+            }
+        ],
+        "version": "5.3.0"
+    },
+    "input": {
+        "product_details": {
+            "name": "Apple Premium Device Bundle - MacBook Pro, iPad & iPhone Package",
+            "description": "\u2022 Complete Apple ecosystem for seamless integration and productivity\n\u2022 MacBook Pro with Retina Display and backlit keyboard\n\u2022 Latest generation iPad with stunning edge-to-edge display\n\u2022 iPhone featuring Touch ID and premium build quality\n\u2022 All devices in pristine condition with original Silver/White finish\n\u2022 macOS and iOS platforms for ultimate compatibility\n\u2022 Powerful performance for work, creativity, and entertainment\n\u2022 Sync across devices with iCloud integration\n\u2022 Premium aluminum construction across all devices\n\u2022 Perfect for professionals, students, and tech enthusiasts\n\u2022 Includes high-resolution displays on all devices\n\u2022 Built-in security features and regular software updates\n\u2022 Trackpad with Multi-Touch gesture support on MacBook\n\u2022 Portable and lightweight design for on-the-go use\n\u2022 Access to App Store's vast application ecosystem",
+            "price": "\u20b9244"
+        },
+        "image_url": "https://studio-user-design-wasabi-bucket-cdn.apyhi.com/studio-assets/68301b34bef8b45fc9650d46/TCRo30ea9tPCOfmudcju3_1407x759.png",
+        "marketplace_url": "https://images.pexels.com/photos/4158/apple-iphone-smartphone-desk.jpg",
+        "layout": "frame_layout"
+    },
+    "banner_details": "  \nThis banner presents a sleek and tech-savvy layout showcasing a \"Premium Device Bundle\" within the Apple ecosystem. The background features soft gradients and faint graphic circles that create depth and a modern feel. At the top, a futuristic sans-serif heading labeled `heading` captures attention, followed by a bold blue subheading (`subheading`) that creates visual hierarchy. A content block (`description`) lists product features using bullet points. To the right, the `product_image` displays a MacBook, iPad, and iPhone, emphasizing the product lineup. At the bottom, the `price` is displayed prominently, accompanied by a rectangular blue `cta_button` with white uppercase text (`cta`) for a call-to-action.\n\n**Color Palette:**  \n- Azure Blue: #007AFF  \n- Charcoal: #333333  \n- Soft Gray: #F5F7FA  \n- Mid Gray: #A0A0A0  \n- Light Gray Circles (opacity layers): #007AFF at 3% and 2%  \n- White: #FFFFFF  \n",
+    "product_color": "\nThe product image showcases Apple devices using a clean and modern aesthetic. Dominant colors include the sleek silver-gray of the device bodies (#C0C0C0), black keyboard and screen borders (#000000), contrasted by the vivid display visuals. The MacBook screen blends soft sunset pinks (#F7B7A3) and purples (#CDA0D9) with earthy browns (#8B6D5C) from the rocky lakescape, creating warmth and serenity. The iPad and iPhone use cooler tones, highlighting shades of blue (#5295D0) and white (#FFFFFF), which give a futuristic digital feel. Together, the palette balances warmth and cool neutrality\u2014perfect for a tech advertisement banner that feels professional, minimal, and inviting.\n"
+}
