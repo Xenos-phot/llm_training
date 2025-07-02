@@ -146,5 +146,8 @@ class BannerGenerationService:
             "layout_descriptions": self.layout_template
         }
 
-# Deployment
+if not ray.is_initialized():
+    ray.init(ignore_reinit_error=True, dashboard_host='0.0.0.0', include_dashboard=True)
+    serve.start(http_options={"host": "0.0.0.0", "port": 8000})
+
 deployment = BannerGenerationService.bind()
