@@ -50,7 +50,7 @@ def get_font_size(text_object):
     with open(input_file, 'w') as f:
         json.dump(text_obj, f, indent=4)
     
-    os.system(f'node node_scripts/get_font_size.js {input_file} {output_file}')
+    os.system(f'/content/llm_training/versions/node/v22.17.0/bin/node node_scripts/get_font_size.js {input_file} {output_file}')
     with open(output_file, 'r') as f:
         result = json.load(f)
     os.remove(input_file)
@@ -144,7 +144,7 @@ def render_banner(banner_config, input_file='input_config.json', output_file='up
         json.dump(banner_config, f, indent=4)
     
     # Use full path to node executable from NVM
-    node_path = 'node'
+    node_path = '/content/llm_training/versions/node/v22.17.0/bin/node'
     script_path = 'node_scripts/render_banner.js'
     if create_png:
         result = subprocess.run([node_path, script_path, input_file, output_file, '--png'], 
