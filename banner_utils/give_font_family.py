@@ -19,7 +19,7 @@ def get_font_families(product_url, product_name, product_description):
     """
     try:
         # Load available fonts from fonts.json
-        fonts_file_path = os.path.join(os.path.dirname(__file__), 'assets/fonts.json')
+        fonts_file_path = os.path.join(os.path.dirname(__file__), '../assets/fonts.json')
         with open(fonts_file_path, 'r', encoding='utf-8') as f:
             fonts_data = json.load(f)["english"]
         fontFamilyList = list(fonts_data.keys())
@@ -103,7 +103,7 @@ def get_font_families(product_url, product_name, product_description):
     except Exception as e:
         print(f"Error processing product {product_name}: {str(e)}")
         # Return default fonts in case of error
-        return ["Ultra-Regular", "League Spartan-Bold", "Alata Regular", "Ultra-Regular"],
+        return ["Ultra Regular", "League Spartan Bold", "Alata Regular", "Ultra Regular"],
         
 
 

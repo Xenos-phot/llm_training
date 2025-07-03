@@ -33,7 +33,7 @@ general_text_layer = {
                 "angle": 0,
                 "opacity": 1,
                 "backgroundColor": "",
-                "fontFamily": "Ultra-Regular",
+                "fontFamily": "Ultra Regular",
                 "fontWeight": "normal",
                 "fontSize": 100,
                 "text": "LUXURY TOTE",
