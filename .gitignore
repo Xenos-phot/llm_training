@@ -16,3 +16,4 @@ tmp/
 temp*
 *.zip
 package-lock.json
+checkpoint*

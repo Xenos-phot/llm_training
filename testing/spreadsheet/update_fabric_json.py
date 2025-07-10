@@ -13,7 +13,7 @@ from test_scripts.test_qwen import test_model, load_model
 
 
 class UpdateFabricJson:
-    def __init__(self, credentials_file: str = None, spreadsheet_name: str = "TestData"):
+    def __init__(self, credentials_file: str = None, spreadsheet_name: str = "TestData", sheet_number: int = 1, checkpoint_path: str = "/root/llm_training/model/checkpoint-850"):
         """
         Initialize the Google Sheets FabricJS JSON updater
         
@@ -48,7 +48,8 @@ class UpdateFabricJson:
 
         self.model = None
         self.tokenizer = None
-        self.checkpoint_path = "/root/llm_training/model/checkpoint-850"
+        self.checkpoint_path = checkpoint_path
+        self.sheet_number = sheet_number
         self.model, self.tokenizer = load_model(self.checkpoint_path)
         
     def authenticate(self):
@@ -79,7 +80,7 @@ class UpdateFabricJson:
         """Open the Google Spreadsheet"""
         try:
             self.spreadsheet = self.gc.open(self.spreadsheet_name)
-            self.worksheet = self.spreadsheet.get_worksheet(2)  # Use second sheet (0-indexed)
+            self.worksheet = self.spreadsheet.get_worksheet(self.sheet_number)  # Use second sheet (0-indexed)
             print(f"Successfully opened spreadsheet: {self.spreadsheet_name}")
             return True
         except Exception as e:

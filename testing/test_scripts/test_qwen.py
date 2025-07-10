@@ -1,12 +1,13 @@
 import json
 from unsloth import FastLanguageModel
+from transformers import TextStreamer
 import torch
 import time
 from PIL import Image
-
+import os
 import requests
 import sys
-sys.path.append("/root/llm_training/testing")
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 from banner_utils.add_color_pallete import get_color_pallete
 from banner_utils.give_font_family import get_font_families
 from banner_utils.create_condensed_data import get_original_data
@@ -23,6 +24,7 @@ def load_model(checkpoint_path):
         load_in_8bit=False,
         full_finetuning=False,
     )
+    FastLanguageModel.for_inference(model)
     return model, tokenizer
 
 def prepare_input(product_name, product_description, product_price, layout, layout_template, product_color="", fontFamilyList=[]):
@@ -92,24 +94,26 @@ def generate_banner(model, tokenizer, input_text, temperature=0.7, top_p=0.9, to
     # Apply chat template
     prompt = tokenizer.apply_chat_template(
         conversation,
-        enable_thinking=True,
+        enable_thinking=False,
         add_generation_prompt=True,
         tokenize=False
     )
-    
+    text_streamer = TextStreamer(tokenizer, skip_prompt=True, skip_special_tokens=True)
+    time_start = time.time()
     # Generate response
     with torch.no_grad():
         inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
         outputs = model.generate(
             **inputs,
             max_new_tokens=8192,
+            streamer=text_streamer,
             temperature=temperature,
             top_p=top_p,
             top_k=top_k,
             do_sample=True,
             pad_token_id=tokenizer.eos_token_id,
         )
-        
+        print(f"Time taken to generate response: {time.time() - time_start} seconds")        
         # Decode the response
         response = tokenizer.decode(outputs[0], skip_special_tokens=True)
         
@@ -143,7 +147,7 @@ def extract_json_from_response(response):
 def test_model(product_name, product_description, product_price, layout, image_url, model=None, tokenizer=None):
     # Load layout template (from training script)
     layout_file = "../assets/layout.json"
-    checkpoint_path = "/root/llm_training/model/checkpoint-850"
+    checkpoint_path = "../model/checkpoint-1400"
     
     try:
         with open(layout_file, "r") as f:

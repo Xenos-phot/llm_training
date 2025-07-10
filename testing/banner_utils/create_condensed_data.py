@@ -244,8 +244,8 @@ def get_original_data(condensed_json, image_url, fonts=json.load(open("../assets
                 original_center_y = layer["top"] + layer["height"] / 2
                 layer["left"] = original_center_x - new_width / 2
                 layer["top"] = original_center_y - new_height / 2
-                layer["width"] = new_width
-                layer["height"] = new_height
+                layer["width"] = product_image_shape[0]
+                layer["height"] = product_image_shape[1]
                 layer["src"] = image_url
             if layer["type"] == "text" or layer["type"] == "textbox":
                 if layer["fontFamily"] in fonts:
